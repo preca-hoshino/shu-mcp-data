@@ -4,6 +4,7 @@ shu-mcp 网络层
 """
 
 import atexit
+from collections.abc import MutableMapping
 import contextlib
 import random
 import threading
@@ -82,7 +83,7 @@ _BASE_ACCEPT = (
 _thread_local = threading.local()
 
 
-def _build_headers(url: str) -> dict[str, str]:
+def _build_headers(url: str) -> MutableMapping[str, str | bytes]:
     """根据目标 URL 构建一次性的伪装请求头"""
     parsed = urlparse(url)
     return {
