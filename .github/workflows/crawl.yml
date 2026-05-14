@@ -1,10 +1,6 @@
 name: Crawl SHU News
 
 on:
-  push:
-    branches: [master]
-    paths:
-      - '.github/workflows/crawl.yml'
   schedule:
     # 每天北京时间 10:00 (UTC 02:00)，增量模式
     - cron: '0 2 * * *'
