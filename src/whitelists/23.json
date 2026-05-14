@@ -1,0 +1,16 @@
+{
+  "gczx.shu.edu.cn": {
+    "type": "23",
+    "department": "上海大学工程技术训练中心",
+    "pages": {
+      "synr/zxxw.htm": {
+        "pages": 14,
+        "column": "中心新闻"
+      },
+      "synr/tpxw.htm": {
+        "pages": 7,
+        "column": "图片新闻"
+      }
+    }
+  }
+}

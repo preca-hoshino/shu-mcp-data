@@ -1,0 +1,24 @@
+{
+  "physics.shu.edu.cn": {
+    "type": "37",
+    "department": "上海大学理学院物理系",
+    "pages": {
+      "xwgg/xwkd.htm": {
+        "pages": 22,
+        "column": "新闻快递"
+      },
+      "xwgg/tzgg.htm": {
+        "pages": 4,
+        "column": "通知公告"
+      },
+      "kxyj/xmjcg/yjdt.htm": {
+        "pages": 14,
+        "column": "研究动态"
+      },
+      "kxyj/xsbao_gao.htm": {
+        "pages": 47,
+        "column": "学术报告"
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "bkzsw.shu.edu.cn": {
+    "pages": {
+      "/zxgg.htm": {
+        "name": "最新公告"
+      }
+    },
+    "type": "10",
+    "department": "上海大学本科招生网"
+  },
+  "scicol.shu.edu.cn": {
+    "pages": {
+      "/sy/zhxw.htm": {
+        "name": "综合新闻",
+        "pages": 5
+      },
+      "/sy/kydt.htm": {
+        "name": "科研动态",
+        "pages": 5
+      },
+      "/sy/tzgg.htm": {
+        "name": "通知公告",
+        "pages": 5
+      },
+      "/sy/bksjw.htm": {
+        "name": "本科生教务",
+        "pages": 9
+      },
+      "/sy/bksx.htm": {
+        "name": "本科生新闻",
+        "pages": 1
+      },
+      "/sy/yjsjw.htm": {
+        "name": "研究生教务",
+        "pages": 1
+      },
+      "/sy/yjsxw.htm": {
+        "name": "研究生新闻",
+        "pages": 3
+      },
+      "/sy/xsbg.htm": {
+        "name": "学术报告",
+        "pages": 5
+      },
+      "/sy/zbhy.htm": {
+        "name": "主办会议",
+        "pages": 2
+      }
+    },
+    "type": "10",
+    "department": "上海大学理学院"
+  },
+  "scie.shu.edu.cn": {
+    "pages": {
+      "/sywzzl/xwdt.htm": {
+        "name": "新闻动态",
+        "pages": 105
+      },
+      "/sywzzl/tzgg.htm": {
+        "name": "通知公告",
+        "pages": 18
+      },
+      "/sywzzl/xsbg.htm": {
+        "name": "学术报告",
+        "pages": 43
+      },
+      "/sywzzl/jxxx.htm": {
+        "name": "教学信息",
+        "pages": 2
+      }
+    },
+    "type": "10",
+    "department": "上海大学通信与信息工程学院"
+  },
+  "shangdaneikong.shu.edu.cn": {
+    "pages": {
+      "/nkdt.htm": {
+        "name": "内控动态",
+        "pages": 6
+      }
+    },
+    "type": "10",
+    "department": "上海大学内控建设"
+  },
+  "xiangying.shu.edu.cn": {
+    "pages": {
+      "/syxgzlpzd/xwdt.htm": {
+        "name": "新闻动态",
+        "pages": 12
+      },
+      "/syxgzlpzd/tzgg.htm": {
+        "name": "通知公告",
+        "pages": 6
+      }
+    },
+    "type": "10",
+    "department": "上海大学翔英学院"
+  }
+}

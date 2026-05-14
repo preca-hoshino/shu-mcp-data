@@ -1,0 +1,1927 @@
+{
+  "domain": "cast.shu.edu.cn",
+  "department": "上海大学先进凝固技术中心",
+  "type": "08",
+  "crawl_time": "20260513_175610",
+  "total_articles": 319,
+  "columns": {
+    "新闻快递": 309,
+    "学术动态": 10
+  },
+  "articles": [
+    {
+      "title": "2026第三届钒在铸造中应用论坛圆满召开",
+      "url": "https://cast.shu.edu.cn/info/1042/4051.htm",
+      "date": "2026-05-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队应邀在2026连铸前沿技术研讨会上做大会邀请报告",
+      "url": "https://cast.shu.edu.cn/info/1042/4041.htm",
+      "date": "2026-05-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授受邀在2026年轧辊年会暨轧辊行业高质量发展大会上做特邀报告",
+      "url": "https://cast.shu.edu.cn/info/1042/4031.htm",
+      "date": "2026-04-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀在学术会议上做长时报告",
+      "url": "https://cast.shu.edu.cn/info/1042/4021.htm",
+      "date": "2026-03-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰等回访PMO均质化技术用户芜湖新兴铸管有限公司",
+      "url": "https://cast.shu.edu.cn/info/1042/4011.htm",
+      "date": "2026-02-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心付建勋教授荣获中国宝武技术创新重大成果三等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/4001.htm",
+      "date": "2026-02-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授连续第六年入选“中国高被引学者”榜单",
+      "url": "https://cast.shu.edu.cn/info/1042/3991.htm",
+      "date": "2026-01-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "PMO技术装备在荣程钢铁运行稳定效果显著 ——翟启杰、徐智帅回访荣程钢铁",
+      "url": "https://cast.shu.edu.cn/info/1042/3981.htm",
+      "date": "2025-12-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "钢研总院副院长刘骁访问上海大学先进凝固技术中心及《上海金属》编辑部",
+      "url": "https://cast.shu.edu.cn/info/1042/3971.htm",
+      "date": "2025-12-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我校材料学院多位学者入选《钢铁研究学报》新一届编委会",
+      "url": "https://cast.shu.edu.cn/info/1042/3951.htm",
+      "date": "2025-12-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授在结构钢专业技术研讨会上做特邀报告",
+      "url": "https://cast.shu.edu.cn/info/1042/3961.htm",
+      "date": "2025-12-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席钒钛资源综合利用产业技术创新战略联盟 第三届理事会暨专家委员会第三次工作会议",
+      "url": "https://cast.shu.edu.cn/info/1042/3941.htm",
+      "date": "2025-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "仲红刚荣获中国冶金青年科技奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3921.htm",
+      "date": "2025-11-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "秋日暖阳映元荡，两校联谊启新程 ——2025上大-华政“破冰骑行”团建活动圆满举行",
+      "url": "https://cast.shu.edu.cn/info/1042/3931.htm",
+      "date": "2025-11-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席亚洲铸造会议和中国铸造活动周",
+      "url": "https://cast.shu.edu.cn/info/1042/3911.htm",
+      "date": "2025-11-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST成员参加第17届亚洲铸造会议-博士生论坛（华东华南区）",
+      "url": "https://cast.shu.edu.cn/info/1042/3901.htm",
+      "date": "2025-08-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队闪亮“2025连铸前沿技术研讨会暨《连铸》期刊编委换届大会”",
+      "url": "https://cast.shu.edu.cn/info/1042/3891.htm",
+      "date": "2025-07-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "仲红刚入选第十五届中国金属学会冶金青年科技奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3871.htm",
+      "date": "2025-07-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《冶金凝固过程热模拟技术》专著由科学出版社出版",
+      "url": "https://cast.shu.edu.cn/info/1042/3881.htm",
+      "date": "2025-07-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队新兴铸管公司2#连铸机PMO均质化技术改造工程项目通过验收",
+      "url": "https://cast.shu.edu.cn/info/1042/3861.htm",
+      "date": "2025-07-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队参加“中国材料大会2025”",
+      "url": "https://cast.shu.edu.cn/info/1042/3851.htm",
+      "date": "2025-07-08",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学与芜湖新兴铸管签署全面合作框架协议",
+      "url": "https://cast.shu.edu.cn/info/1042/3821.htm",
+      "date": "2025-06-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席2025轧辊年会并做邀请报告",
+      "url": "https://cast.shu.edu.cn/info/1044/3801.htm",
+      "date": "2025-06-16",
+      "column": "学术动态"
+    },
+    {
+      "title": "翟启杰教授出席2025年全国高品质特殊钢生产技术研讨会暨特殊钢学术年会并做邀请报告",
+      "url": "https://cast.shu.edu.cn/info/1044/3811.htm",
+      "date": "2025-06-16",
+      "column": "学术动态"
+    },
+    {
+      "title": "CAST团队应邀参加2025年全国连铸学术年会",
+      "url": "https://cast.shu.edu.cn/info/1044/3791.htm",
+      "date": "2025-06-07",
+      "column": "学术动态"
+    },
+    {
+      "title": "CAST团队张鉴磊获得2025年上海市金属学会青年优秀科技论文一等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3781.htm",
+      "date": "2025-05-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "党建引领，校企合作创新发展——上海大学CAST与芜湖新兴铸管举行党组织共建活动",
+      "url": "https://cast.shu.edu.cn/info/1042/3771.htm",
+      "date": "2025-05-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席《全国重机行业第二十届炼钢年会暨2025年第八届钢锭与锻件新工艺、新技术峰会》并做精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/3751.htm",
+      "date": "2025-04-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST毕业生刘清梅入选“中国知网高被引学者TOP1%”榜单",
+      "url": "https://cast.shu.edu.cn/info/1042/3761.htm",
+      "date": "2025-04-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学CAST团队在《Journal of Iron and Steel Research International》发表最新研究成果",
+      "url": "https://cast.shu.edu.cn/info/1042/3741.htm",
+      "date": "2025-03-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授连续第五年入选“中国高被引学者”榜单",
+      "url": "https://cast.shu.edu.cn/info/1042/3721.htm",
+      "date": "2025-03-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "黄晓旭教授应邀为《2025CAST国际学术大讲堂》做精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1044/3731.htm",
+      "date": "2025-03-25",
+      "column": "学术动态"
+    },
+    {
+      "title": "CAST团队荣获材料学院2024年度“先进集体与团队”称号",
+      "url": "https://cast.shu.edu.cn/info/1042/3591.htm",
+      "date": "2025-02-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心2024年述职汇报暨团队建设研讨会顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/3531.htm",
+      "date": "2024-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST与宝武合作项目荣获中国冶金科技三等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3551.htm",
+      "date": "2024-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授给大一学生作讲座",
+      "url": "https://cast.shu.edu.cn/info/1042/3561.htm",
+      "date": "2024-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2024年浦江冬季钢铁论坛在上海新国际博览中心顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/3521.htm",
+      "date": "2024-12-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST原创PMO技术在连铸圆坯中应用的论文入选Steel Research International 最佳论文",
+      "url": "https://cast.shu.edu.cn/info/1042/3511.htm",
+      "date": "2024-12-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心项目荣获2023年浙江省科技进步二等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3491.htm",
+      "date": "2024-12-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "秦荣山、张新房教授为CAST大讲堂奉献精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/3461.htm",
+      "date": "2024-10-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席第75届世界铸造大会并受聘担任世界铸造组织黑色金属技术委员会委员",
+      "url": "https://cast.shu.edu.cn/info/1042/3451.htm",
+      "date": "2024-10-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心刘剑教授入选国家“万人计划”科技创新领军人才",
+      "url": "https://cast.shu.edu.cn/info/1042/3441.htm",
+      "date": "2024-10-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中国金属学会顾问赵沛教授与宝武集团首席科学家李红霞莅临先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/3431.htm",
+      "date": "2024-10-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学先进凝固技术中心邀请专家召开 《含钒铸钢铸铁应用技术联合实验室建设研讨会》",
+      "url": "https://cast.shu.edu.cn/info/1042/3271.htm",
+      "date": "2024-07-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学CAST团队成功举办 “2024第二届钒在铸造中应用论坛”",
+      "url": "https://cast.shu.edu.cn/info/1042/3281.htm",
+      "date": "2024-07-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席第二十届中国铸造协会年会并做主论坛报告",
+      "url": "https://cast.shu.edu.cn/info/1042/3261.htm",
+      "date": "2024-07-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST成员参加2024年全国连铸学术年会",
+      "url": "https://cast.shu.edu.cn/info/1042/3251.htm",
+      "date": "2024-05-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“上海市金属学会青年科技论坛———2024年青年优秀科技论文终评答辩会”成功举办，翟启杰教授做特邀报告",
+      "url": "https://cast.shu.edu.cn/info/1042/3241.htm",
+      "date": "2024-05-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "夹杂物三维刻蚀仪荣获49届日内瓦国际发明展银奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3221.htm",
+      "date": "2024-04-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授受聘“中国铸造协会专家委员会”主任",
+      "url": "https://cast.shu.edu.cn/info/1042/3191.htm",
+      "date": "2024-04-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授受聘《铸造工程》杂志编委会名誉主任",
+      "url": "https://cast.shu.edu.cn/info/1042/3211.htm",
+      "date": "2024-04-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授连续第四年入选“中国高被引学者”榜单",
+      "url": "https://cast.shu.edu.cn/info/1042/3161.htm",
+      "date": "2024-03-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "首钢一级科学家杨春政博士访问CAST并应邀为《2024CAST国际学术大讲堂》做精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/3141.htm",
+      "date": "2024-03-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST又一成果通过评价——低碲硫比精确复合合金化技术和全系六角不锈钢连铸热轧工艺技术处国际领先水平",
+      "url": "https://cast.shu.edu.cn/info/1042/3151.htm",
+      "date": "2024-03-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队大铸锭均质化技术取得创新突破",
+      "url": "https://cast.shu.edu.cn/info/1042/3111.htm",
+      "date": "2024-03-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "鞍钢重机董事长刘益民一行莅临先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/3121.htm",
+      "date": "2024-03-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学CAST团队： 混合搭桥模型揭示凝固裂纹扩展机制",
+      "url": "https://cast.shu.edu.cn/info/1042/3091.htm",
+      "date": "2024-02-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学CAST团队： 深层次揭示冶金凝固裂纹形成机制与影响因素",
+      "url": "https://cast.shu.edu.cn/info/1042/3101.htm",
+      "date": "2024-02-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队钢的热裂预测成果发表在JMPT",
+      "url": "https://cast.shu.edu.cn/info/1042/3071.htm",
+      "date": "2024-02-05",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中国铸造协会会长张立波一行莅临先进凝固技术中心指导工作",
+      "url": "https://cast.shu.edu.cn/info/1042/3061.htm",
+      "date": "2024-01-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授项目获安徽省科学技术二等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/3051.htm",
+      "date": "2023-12-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《先进凝固技术中心述职汇报暨团队建设研讨会》 顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/3031.htm",
+      "date": "2023-12-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《第五届凝固理论与前沿技术研讨会》在上海大学先进凝固技术中心成功举办",
+      "url": "https://cast.shu.edu.cn/info/1042/3021.htm",
+      "date": "2023-12-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "北京科技大学吴渊教授访问CAST并应邀为《2023 CAST 国际学术大讲堂》作精彩汇报",
+      "url": "https://cast.shu.edu.cn/info/1042/2981.htm",
+      "date": "2023-12-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授赴北京科技大学做学术讲座",
+      "url": "https://cast.shu.edu.cn/info/1042/2961.htm",
+      "date": "2023-12-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授赴首钢技术研究院技术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/2931.htm",
+      "date": "2023-11-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "陈湘茹正高级实验师应邀在2023年（第二届）钒钢研发与应用技术国际研讨会上做大会报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2921.htm",
+      "date": "2023-11-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀在2023关键基础材料产业科技创新大会上做主旨报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2901.htm",
+      "date": "2023-11-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授等出席2023中国铸造活动周",
+      "url": "https://cast.shu.edu.cn/info/1042/2911.htm",
+      "date": "2023-11-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授等应邀参加第十四届中国钢铁年会",
+      "url": "https://cast.shu.edu.cn/info/1042/2891.htm",
+      "date": "2023-10-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学先进凝固技术中心陈湘茹正高级实验师在“助力岚县铸造产业技术基础提升”培训会上作报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2881.htm",
+      "date": "2023-10-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "解决国际难题，这位上大教授铸就“硬核”原创！",
+      "url": "https://cast.shu.edu.cn/info/1042/2851.htm",
+      "date": "2023-09-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学-山西岚县召开校地合作共建座谈会 ——先进凝固技术中心与山西省岚县签署校地合作框架协议",
+      "url": "https://cast.shu.edu.cn/info/1042/2821.htm",
+      "date": "2023-09-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到东南大学做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1044/2791.htm",
+      "date": "2023-09-01",
+      "column": "学术动态"
+    },
+    {
+      "title": "华东师范大学杨洋教授访问CAST并应邀为《CAST国际学术大讲堂》作精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2781.htm",
+      "date": "2023-08-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心2023级新生座谈会顺利举行",
+      "url": "https://cast.shu.edu.cn/info/1042/2771.htm",
+      "date": "2023-08-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江教授和郑红星研究员参加《第十四届全国固态相变、凝固及应用学术会议》",
+      "url": "https://cast.shu.edu.cn/info/1042/2721.htm",
+      "date": "2023-08-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "芜湖新兴铸管PMO项目技术负责人黄雁在炼钢系统 降本节能会议上作PMO技术成果学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2711.htm",
+      "date": "2023-08-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "挪威工程院院士李彦军教授访问CAST 并应邀为《CAST 国际学术大讲堂》作精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2701.htm",
+      "date": "2023-08-08",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰应邀访问鞍钢集团攀钢研究院并作学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2670.htm",
+      "date": "2023-08-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰受邀在《2023年全国高品质特殊钢生产技术研讨会暨特殊钢学术年会》上做大会邀请报告",
+      "url": "https://cast.shu.edu.cn/info/1044/2680.htm",
+      "date": "2023-08-04",
+      "column": "学术动态"
+    },
+    {
+      "title": "翟启杰仲红刚出席《第九届全国材料物理模拟及数值模拟学术会议》",
+      "url": "https://cast.shu.edu.cn/info/1044/2690.htm",
+      "date": "2023-08-04",
+      "column": "学术动态"
+    },
+    {
+      "title": "樊中云教授应邀为《CAST 国际学术大讲堂》作精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2590.htm",
+      "date": "2023-07-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《PMO技术在高碳钢连铸小方坯上应用》通过江苏永钢集团有限公司结题验收",
+      "url": "https://cast.shu.edu.cn/info/1042/2570.htm",
+      "date": "2023-07-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授赴山西岚县考察交流",
+      "url": "https://cast.shu.edu.cn/info/1042/2550.htm",
+      "date": "2023-07-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队成员参加“中国材料大会2022-2023”",
+      "url": "https://cast.shu.edu.cn/info/1044/2530.htm",
+      "date": "2023-07-10",
+      "column": "学术动态"
+    },
+    {
+      "title": "翟启杰教授应邀在芜湖新兴铸管有限公司讲学",
+      "url": "https://cast.shu.edu.cn/info/1042/2500.htm",
+      "date": "2023-06-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加2023全国炼钢——连铸生产技术会，并做大会报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2510.htm",
+      "date": "2023-06-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "端午节CAST以诗词研讨形式交流教书育人、致真立人体会",
+      "url": "https://cast.shu.edu.cn/info/1042/2490.htm",
+      "date": "2023-06-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "白晨光教授应邀为《CAST 国际学术大讲堂》献上精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2480.htm",
+      "date": "2023-06-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队喜获上海市自然科学一等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/2470.htm",
+      "date": "2023-05-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "首期《CAST 国际学术大讲堂》成功举办",
+      "url": "https://cast.shu.edu.cn/info/1042/2460.htm",
+      "date": "2023-05-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队承办《第四届凝固理论与前沿技术研讨会》",
+      "url": "https://cast.shu.edu.cn/info/1042/2450.htm",
+      "date": "2023-04-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队成员参加《2023年全国连铸学术年会》",
+      "url": "https://cast.shu.edu.cn/info/1042/2440.htm",
+      "date": "2023-04-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "凝心聚力，温暖前行",
+      "url": "https://cast.shu.edu.cn/info/1042/2430.htm",
+      "date": "2023-04-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队在中科院一区Top期刊上发表热裂最新研究成果",
+      "url": "https://cast.shu.edu.cn/info/1042/2410.htm",
+      "date": "2023-04-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队参加《第九届全国有色金属结构材料第九届全国有色金属结构材料制备/加工及应用技术交流会暨2023中国结构材料大会》",
+      "url": "https://cast.shu.edu.cn/info/1042/2400.htm",
+      "date": "2023-04-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学先进凝固技术中心招生手册",
+      "url": "https://cast.shu.edu.cn/info/1042/2390.htm",
+      "date": "2023-03-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授再次入选“中国高被引学者”榜单",
+      "url": "https://cast.shu.edu.cn/info/1042/2380.htm",
+      "date": "2023-03-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《PMO-Ⅲ特殊钢圆坯高品质高效连铸技术的开发及应用》通过金属学会科技成果评价：成果达到国际领先水平",
+      "url": "https://cast.shu.edu.cn/info/1042/2370.htm",
+      "date": "2023-03-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "创新发展结硕果  戮力同心创辉煌——2023年钒应用技术推广中心项目推进会在京召开",
+      "url": "https://cast.shu.edu.cn/info/1042/2360.htm",
+      "date": "2023-03-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "陈湘茹博士受邀在2022世界铸造组织铸铁、铸钢技术国际论坛上做大会报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2349.htm",
+      "date": "2022-10-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "含钒铸钢铸铁应用技术联合实验室隆重揭牌 “2022钒在铸造中应用论坛”顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/2340.htm",
+      "date": "2022-09-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《上海金属》第九届编委会会议暨第二届“冶金与材料前沿论坛”顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/2339.htm",
+      "date": "2022-09-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队参与主办的《2022铸造耐磨钢铁材料发展论坛暨钒在耐磨钢铁材料中的应用技术研讨会》在广州成功召开",
+      "url": "https://cast.shu.edu.cn/info/1042/2331.htm",
+      "date": "2022-08-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《PMO凝固均质化技术在Φ300连铸圆坯连铸中的应用》项目顺利通过验收",
+      "url": "https://cast.shu.edu.cn/info/1042/2329.htm",
+      "date": "2022-08-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST毕业生再获殊荣——夏磊获授常州市“文明职工”光荣称号",
+      "url": "https://cast.shu.edu.cn/info/1042/2319.htm",
+      "date": "2022-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "钒应用技术推广中心第一届第四次专家委员会会议暨2021年钒技术研发与应用推广项目验收会在四川乐山市成功召开",
+      "url": "https://cast.shu.edu.cn/info/1042/2309.htm",
+      "date": "2022-07-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "长三角铸造产业创新发展联盟成立，翟启杰教授受邀担任首任专家咨询委员会主任",
+      "url": "https://cast.shu.edu.cn/info/1042/2181.htm",
+      "date": "2021-05-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席《铸造工程》杂志编委、理事2021联谊会",
+      "url": "https://cast.shu.edu.cn/info/1042/2182.htm",
+      "date": "2021-05-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队亮相2021年近终形制造技术高端论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/2171.htm",
+      "date": "2021-04-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心主任翟启杰教授入选2020年中国高被引学者榜单",
+      "url": "https://cast.shu.edu.cn/info/1042/2161.htm",
+      "date": "2021-04-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "材料学院闪亮“2020中国铸造活动周”",
+      "url": "https://cast.shu.edu.cn/info/1042/2124.htm",
+      "date": "2020-11-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到华东师范大学讲学",
+      "url": "https://cast.shu.edu.cn/info/1042/2125.htm",
+      "date": "2020-11-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀参加2020第三届高效连铸技术及铸坯质量控制学术研讨会并做大会主旨报告",
+      "url": "https://cast.shu.edu.cn/info/1042/2126.htm",
+      "date": "2020-11-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "发挥团队优势，启迪新生梦想",
+      "url": "https://cast.shu.edu.cn/info/1042/2127.htm",
+      "date": "2020-09-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“基于特征单元的连铸凝固过程热模拟技术及装备”荣获中国冶金科学技术奖一等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/1825.htm",
+      "date": "2020-09-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授受聘鞍钢集团科技专家",
+      "url": "https://cast.shu.edu.cn/info/1042/1826.htm",
+      "date": "2020-09-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "澳大利亚昆士兰大学David StJohn教授和王贵博士应邀来校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1812.htm",
+      "date": "2019-11-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰等赴俄罗斯参加第九届材料与热加工物理模拟及数值模拟国际学术会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1813.htm",
+      "date": "2019-11-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2019中国铸造活动周隆重举行——CAST成员仲红刚和兼职教授吴铁明荣获奖励",
+      "url": "https://cast.shu.edu.cn/info/1042/1814.htm",
+      "date": "2019-11-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰等赴俄罗斯参加第九届材料与热加工物理模拟及数值模拟国际学术会议",
+      "url": "https://cast.shu.edu.cn/info/1044/1871.htm",
+      "date": "2019-11-01",
+      "column": "学术动态"
+    },
+    {
+      "title": "CAST召开领航团队和领航课程团队式教学讨论会",
+      "url": "https://cast.shu.edu.cn/info/1042/1811.htm",
+      "date": "2019-10-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学——中信金属——中信机电含铌耐磨衬板钢以及海洋工程用铸造节点研发研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1810.htm",
+      "date": "2019-09-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、张云虎应邀参加《2019凝固科学与技术高层论坛》",
+      "url": "https://cast.shu.edu.cn/info/1042/1809.htm",
+      "date": "2019-09-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀参加《高性能工模具钢凝固细化技术交流会》",
+      "url": "https://cast.shu.edu.cn/info/1042/1808.htm",
+      "date": "2019-09-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST项目荣获2019年冶金科学技术二等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/1807.htm",
+      "date": "2019-08-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "用团队建设优势提升本科生创新人才培养质量——先进凝固技术中心召开团队式本科生人才培养新模式研讨暨工作推进会",
+      "url": "https://cast.shu.edu.cn/info/1042/1805.htm",
+      "date": "2019-06-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "用团队建设优势提升本科生创新人才培养质量——先进凝固技术中心召开团队式本科生人才培养新模式研讨暨工作推进会",
+      "url": "https://cast.shu.edu.cn/info/1042/1806.htm",
+      "date": "2019-06-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授、李慧改教授和仲红刚副研究员参加近终形制造技术国际高端论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1802.htm",
+      "date": "2019-04-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江和仲红刚当选中国金属学会近终形制造技术分会委员",
+      "url": "https://cast.shu.edu.cn/info/1042/1803.htm",
+      "date": "2019-04-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、李慧改和仲红刚到武汉科技大学进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1804.htm",
+      "date": "2019-04-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江和仲红刚当选中国金属学会近终形制造技术分会委员",
+      "url": "https://cast.shu.edu.cn/info/1044/1858.htm",
+      "date": "2019-04-28",
+      "column": "学术动态"
+    },
+    {
+      "title": "翟启杰教授应邀到涟钢进行技术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1801.htm",
+      "date": "2019-04-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授回母校北京科技大学交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1800.htm",
+      "date": "2019-01-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "台湾大学杨哲人教授应邀参加上海大学先进凝固技术中心承办的“2018钼与钢高端论坛”",
+      "url": "https://cast.shu.edu.cn/info/1042/1799.htm",
+      "date": "2018-11-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "校企合作，助力研究生培养上水平——上海大学CAST与中天特钢等企业联合进行研究生工作中期检查",
+      "url": "https://cast.shu.edu.cn/info/1042/1798.htm",
+      "date": "2018-11-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "山东大学郑洪亮副教授、王协彬副研究员来我校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1797.htm",
+      "date": "2018-11-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“中天特钢--上大CAST PMO技术推进工作会议”在上海大学召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1796.htm",
+      "date": "2018-10-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "交流体会 共谋发展——先进凝固技术中心举办校友返校活",
+      "url": "https://cast.shu.edu.cn/info/1042/1795.htm",
+      "date": "2018-10-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“2018钼与钢高端论坛”会议通知（第一轮）",
+      "url": "https://cast.shu.edu.cn/info/1042/1793.htm",
+      "date": "2018-09-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学先进凝固技术中心召开“钢铁领域科研发展规划咨询会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1794.htm",
+      "date": "2018-09-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授到辽宁工业大学交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1790.htm",
+      "date": "2018-08-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我校承办的先进凝固科学与技术学术会议在厦门圆满落幕",
+      "url": "https://cast.shu.edu.cn/info/1042/1791.htm",
+      "date": "2018-08-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀出席第三期燕赵科学论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1792.htm",
+      "date": "2018-08-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "仲红刚副研究员参加第二届微观组织模拟青年论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1789.htm",
+      "date": "2018-05-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中信-CBMM铌钢研究与开发(R&D)项目合作研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1788.htm",
+      "date": "2018-04-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第六屆海峽兩岸綠色材料綠色制程論壇通知",
+      "url": "https://cast.shu.edu.cn/info/1042/1787.htm",
+      "date": "2018-03-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授承担的国家自然基金重大仪器专项“连铸坯枝晶生长热模拟试验机”圆满完成并通过验收",
+      "url": "https://cast.shu.edu.cn/info/1042/1786.htm",
+      "date": "2018-03-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“620℃等级超超临界汽轮机关键材料CB2/FB2及其铸锻件的开发”项目顺利通过科技成果鉴定",
+      "url": "https://cast.shu.edu.cn/info/1042/1785.htm",
+      "date": "2018-02-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "新世纪冶金学科发展研讨会在京举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1773.htm",
+      "date": "2017-10-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "国家智能铸造产业创新中心成立大会暨第二届全国铸造创新论坛在天津举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1774.htm",
+      "date": "2017-10-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到鞍钢等企业讲学交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1772.htm",
+      "date": "2017-10-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "澳大利亚昆士兰大学David St John教授应邀来我院交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1771.htm",
+      "date": "2017-10-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://cast.shu.edu.cn/info/1042/1770.htm",
+      "date": "2017-09-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授与宝钢特钢签署链条钢品质提升合作项目",
+      "url": "https://cast.shu.edu.cn/info/1042/1768.htm",
+      "date": "2017-07-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授与日钢公司的汽车大梁钢项目顺利结项",
+      "url": "https://cast.shu.edu.cn/info/1042/1769.htm",
+      "date": "2017-07-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行参加“中国材料大会2017暨银川国际材料周”活动",
+      "url": "https://cast.shu.edu.cn/info/1042/1767.htm",
+      "date": "2017-07-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "仲红刚参加2017年全国高品质特殊钢生产技术研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1766.htm",
+      "date": "2017-05-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "澳大利亚皇家墨尔本理工大学（RMIT）马前教授应邀来我院交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1765.htm",
+      "date": "2017-04-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《上海金属》第八届编委会第一次会议暨“2017冶金与材料前沿论坛”在上海顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1764.htm",
+      "date": "2017-04-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到梅钢讲学",
+      "url": "https://cast.shu.edu.cn/info/1042/1763.htm",
+      "date": "2017-03-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授访问内蒙古科技大学和包头钢铁公司",
+      "url": "https://cast.shu.edu.cn/info/1042/1762.htm",
+      "date": "2017-03-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我团队脉冲磁致振荡（PMO）技术荣获上海市技术发明一等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/1761.htm",
+      "date": "2017-03-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授和付建勋教授访问马鞍山钢铁公司",
+      "url": "https://cast.shu.edu.cn/info/1042/1760.htm",
+      "date": "2017-03-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第五届海峡两岸绿色制程与绿色材料论坛在台北召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1759.htm",
+      "date": "2016-12-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海市金属学会第十一届会员代表大会隆重举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1758.htm",
+      "date": "2016-11-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授与中天公司签署非调质钢开发项目",
+      "url": "https://cast.shu.edu.cn/info/1042/1755.htm",
+      "date": "2016-11-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授等三人参加2016年中国铸造活动周",
+      "url": "https://cast.shu.edu.cn/info/1042/1756.htm",
+      "date": "2016-11-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海市金属学会“会员活动日”专家专题报告会在我校顺利举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1757.htm",
+      "date": "2016-11-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授承担的国家十二·五科技支撑课题顺利结项",
+      "url": "https://cast.shu.edu.cn/info/1042/1743.htm",
+      "date": "2016-06-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授与宝钢签署齿轮钢合作项目",
+      "url": "https://cast.shu.edu.cn/info/1042/1744.htm",
+      "date": "2016-06-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "巴西CBMM公司高级技术顾问Hardy 教授应邀来校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1742.htm",
+      "date": "2016-06-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "董瀚、翟启杰访问河南钢铁企业",
+      "url": "https://cast.shu.edu.cn/info/1042/1741.htm",
+      "date": "2016-05-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行参加“2016 WFO 铸铁、铸钢技术国际论坛”并承办“铌在铸钢铸铁中的作用与应用专题论坛”",
+      "url": "https://cast.shu.edu.cn/info/1042/1740.htm",
+      "date": "2016-05-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学先进凝固技术中心主任翟启杰教授一行到淮钢进行技术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1739.htm",
+      "date": "2016-05-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到青拓集团讲学交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1737.htm",
+      "date": "2016-05-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加第三届钢锭制造技术与管理研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1738.htm",
+      "date": "2016-05-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《连铸与凝固前沿技术研讨会》顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1736.htm",
+      "date": "2016-05-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学翟启杰教授等4人参加第四届中英钢铁研究论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1735.htm",
+      "date": "2016-04-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行参加“2016中信微合金化技术中心年会暨中信-CBMM R&D项目报告会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1733.htm",
+      "date": "2016-03-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "会议通知",
+      "url": "https://cast.shu.edu.cn/info/1042/1734.htm",
+      "date": "2016-03-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进钢铁材料技术国家工程研究中心、中联先进钢铁材料技术有限责任公司召开2015年第一次股东会、第三届董事会/监事会第四次会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1732.htm",
+      "date": "2016-02-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰等到湖北新冶钢进行技术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1731.htm",
+      "date": "2016-01-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰等人访问太原钢铁集团有限公司和太原科技大学",
+      "url": "https://cast.shu.edu.cn/info/1042/1730.htm",
+      "date": "2016-01-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“先进凝固技术中心VS 高强钢团队”篮球友谊赛",
+      "url": "https://cast.shu.edu.cn/info/1042/1729.htm",
+      "date": "2016-01-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授获聘钢铁共性技术协同创新中心兼职教授",
+      "url": "https://cast.shu.edu.cn/info/1042/1728.htm",
+      "date": "2016-01-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“脉冲磁致振荡凝固均质化技术及其在轴承钢连铸中的应用”通过中国钢铁工业协会组织的科技成果评价（鉴定）",
+      "url": "https://cast.shu.edu.cn/info/1042/1727.htm",
+      "date": "2016-01-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "国家十二五科技支撑计划课题“铬资源节约型不锈钢产品开发及产业化关键技术研究”课题研讨会在上海大学召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1722.htm",
+      "date": "2015-12-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授和宋长江教授入选《钢铁研究学报》和《钢铁》编委会",
+      "url": "https://cast.shu.edu.cn/info/1042/1723.htm",
+      "date": "2015-12-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "国家973项目“新型能源装备中大型锻件均质化热制造的科学基础”2015年度工作汇报会在上海举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1724.htm",
+      "date": "2015-12-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "巴西CBMM公司技术总监Hardy 教授应邀来校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1725.htm",
+      "date": "2015-12-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "巴西CBMM公司技术总监Hardy 教授应邀来校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1726.htm",
+      "date": "2015-12-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“15级新生VS老生”篮球友谊赛",
+      "url": "https://cast.shu.edu.cn/info/1042/1721.htm",
+      "date": "2015-11-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://cast.shu.edu.cn/info/1042/1719.htm",
+      "date": "2015-11-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海交通大学李建国教授来我校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1720.htm",
+      "date": "2015-11-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "陈湘茹博士等参加“第七届低合金高强度钢国际会议”、“2015年微合金化国际会议”以及“2015年海洋工程用钢国际会议”联合会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1718.htm",
+      "date": "2015-11-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "法国里尔第一大学稽罡研究员受邀访问先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1714.htm",
+      "date": "2015-10-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "加拿大蕰沙大学胡宏发教授应邀来先进凝固技术中心讲学",
+      "url": "https://cast.shu.edu.cn/info/1042/1715.htm",
+      "date": "2015-10-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "借钢铁年会东风，促学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1716.htm",
+      "date": "2015-10-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、杨弋涛教授等参加2015年度中国铸造活动周",
+      "url": "https://cast.shu.edu.cn/info/1042/1717.htm",
+      "date": "2015-10-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、宋长江和郑红星到捷克和波兰学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1713.htm",
+      "date": "2015-09-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第四届海峡两岸绿色材料绿色制程论坛在北京召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1711.htm",
+      "date": "2015-09-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "常国威教授等人来访上海大学先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1712.htm",
+      "date": "2015-09-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "国家自然科学基金重大国际（地区）合作研究项目“金属异质形核中的界面科学问题”交流会在清华大学举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1710.htm",
+      "date": "2015-08-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第三届材料科学与工程前沿研讨会在南宁召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1709.htm",
+      "date": "2015-08-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行访问上海电气宏钢电站设备铸锻有限公司",
+      "url": "https://cast.shu.edu.cn/info/1042/1708.htm",
+      "date": "2015-07-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "澳大利亚皇家理工大学（RMIT）马前教授受邀访问先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1706.htm",
+      "date": "2015-07-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固技术中心翟启杰教授、宋长江教授参加了第二届有色合金及特种铸造技术国际研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1707.htm",
+      "date": "2015-07-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "巴西CBMM公司技术总监Hardy 教授应邀来校进行学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1703.htm",
+      "date": "2015-07-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2015年度上大-中信-CBMM含铌铸造材料联合实验室专家座谈会",
+      "url": "https://cast.shu.edu.cn/info/1042/1704.htm",
+      "date": "2015-07-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "铌在铸造合金中的应用专题研讨会在上海大学举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1705.htm",
+      "date": "2015-07-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加《连铸装备技术创新和精细化生产技术交流会》并作大会学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1701.htm",
+      "date": "2015-06-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授访问西北工业大学并做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1702.htm",
+      "date": "2015-06-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "《铸造行业“十三五”技术发展规划纲要》审查会在沈阳召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1700.htm",
+      "date": "2015-05-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“第六届国际炼钢科技大会” 在北京召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1699.htm",
+      "date": "2015-05-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到哈尔滨工业大学讲学",
+      "url": "https://cast.shu.edu.cn/info/1042/1696.htm",
+      "date": "2015-05-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中信金属总工程师兼总经理助理郭爱民受聘兼职教授并做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1697.htm",
+      "date": "2015-05-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "高强塑非调质伞骨钢成功开发",
+      "url": "https://cast.shu.edu.cn/info/1042/1698.htm",
+      "date": "2015-05-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授、仲红刚博士参加“脉冲磁场控制与细化金属凝固组织研讨会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1693.htm",
+      "date": "2015-04-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://cast.shu.edu.cn/info/1042/1694.htm",
+      "date": "2015-04-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "大连理工大学王同敏教授应邀来先进凝固技术中心做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1695.htm",
+      "date": "2015-04-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固中心与大冶特钢开展技术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1692.htm",
+      "date": "2015-04-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授、陈湘茹博士等参加“2015年中信微合金技术中心年会暨中信-CBMM R&D 项目报告会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1691.htm",
+      "date": "2015-03-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "苏钢集团博士后创新实践基地揭牌仪式",
+      "url": "https://cast.shu.edu.cn/info/1042/1690.htm",
+      "date": "2015-02-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "北京科技大学郭占成教授来先进凝固技术中心做报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1689.htm",
+      "date": "2014-12-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "陈湘茹博士参加“2014年全国实用铸造热处理与工业炉技术专题交流会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1688.htm",
+      "date": "2014-12-08",
+      "column": "新闻快递"
+    },
+    {
+      "title": "国家重点基础发展计划项目“新型能源装备中大型锻件均质化热制造的科学基础”2014年度工作汇报在上海举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1687.htm",
+      "date": "2014-12-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、宋长江等参加“2014年高品质钢连铸生产技术及装备交流会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1686.htm",
+      "date": "2014-11-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "复旦大学李劲教授来先进凝固技术中心做报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1685.htm",
+      "date": "2014-11-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“大型铸锻件热制造技术研讨会”在上海大学召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1684.htm",
+      "date": "2014-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://cast.shu.edu.cn/info/1042/1680.htm",
+      "date": "2014-11-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "高玉来教授入选2014年度上海高校特聘教授（东方学者）岗位计划",
+      "url": "https://cast.shu.edu.cn/info/1042/1681.htm",
+      "date": "2014-11-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀到东北大学交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1682.htm",
+      "date": "2014-11-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、肖学山及仲红刚等参加国家十二五科技支撑计划项目《铬资源节约型不锈钢产品开发及产业化关键技术研究2014年度课题研讨会》",
+      "url": "https://cast.shu.edu.cn/info/1042/1683.htm",
+      "date": "2014-11-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "刘清梅荣获第十五届北京市青年学术演讲比赛总决赛一等奖",
+      "url": "https://cast.shu.edu.cn/info/1042/1678.htm",
+      "date": "2014-11-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "王刚、郑红星等参加“国际材料联合会-第二届青年科学家峰会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1679.htm",
+      "date": "2014-11-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、高玉来和杨弋涛等参加2014年度中国铸造活动   周林振铭等获得全国第五届“永冠杯”中国大学生",
+      "url": "https://cast.shu.edu.cn/info/1042/1677.htm",
+      "date": "2014-10-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "Yinong Liu教授访问先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1675.htm",
+      "date": "2014-10-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江博士参与的973项目子课题顺利通过验收",
+      "url": "https://cast.shu.edu.cn/info/1042/1676.htm",
+      "date": "2014-10-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "篮球对抗赛",
+      "url": "https://cast.shu.edu.cn/info/1042/1674.htm",
+      "date": "2014-10-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "冶金与凝固工程&同步辐射先进成像技术系列学术研讨会（首届）在大连举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1672.htm",
+      "date": "2014-10-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中国铸造协会召开专家工作委员会第七届第一次全体委员大会翟启杰教授受聘中国铸造协会专家工作委员会委员",
+      "url": "https://cast.shu.edu.cn/info/1042/1673.htm",
+      "date": "2014-10-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "李烈军获“广东年度贡献人物”殊荣",
+      "url": "https://cast.shu.edu.cn/info/1042/1670.htm",
+      "date": "2014-10-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "李烈军当选华南理工大学“我最喜爱的导师”",
+      "url": "https://cast.shu.edu.cn/info/1042/1671.htm",
+      "date": "2014-10-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“新生VS老生”篮球友谊赛",
+      "url": "https://cast.shu.edu.cn/info/1042/1669.htm",
+      "date": "2014-09-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "澳大利亚昆士兰大学Prof. David StJohn和Dr. Gui Wang来访进行学术交流并参观CAST实验室",
+      "url": "https://cast.shu.edu.cn/info/1042/1668.htm",
+      "date": "2014-09-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2014年上海大学先进凝固技术中心招收优秀研究生",
+      "url": "https://cast.shu.edu.cn/info/1042/1667.htm",
+      "date": "2014-09-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰等在英国参加第三届中英钢铁论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1665.htm",
+      "date": "2014-09-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第三届海峡两岸绿色材料绿色制程论坛圆满召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1666.htm",
+      "date": "2014-09-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "魏炳波院士一行来访上海大学先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1664.htm",
+      "date": "2014-08-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授和高玉来教授参加“The 1st International Symposium on Nonferrous Alloys & Special Casting Technologies”会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1663.htm",
+      "date": "2014-08-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授到东北大学参观学习",
+      "url": "https://cast.shu.edu.cn/info/1042/1662.htm",
+      "date": "2014-08-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "巴西CBMM公司技术总监Hardy 教授一行来访上海大学先进凝固中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1661.htm",
+      "date": "2014-06-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "铌微合金化技术讲座及交流会",
+      "url": "https://cast.shu.edu.cn/info/1042/1660.htm",
+      "date": "2014-05-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://cast.shu.edu.cn/info/1042/1659.htm",
+      "date": "2014-05-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授访问南昌大学并做“金属凝固过程与细晶技术”学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1657.htm",
+      "date": "2014-03-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀回母校北京科技大学作为“冶金大讲堂”主讲嘉宾做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1658.htm",
+      "date": "2014-03-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "基于ISO标准的钢铁厂二氧化碳盘查技术及应用通过科技成果评价",
+      "url": "https://cast.shu.edu.cn/info/1042/1656.htm",
+      "date": "2014-02-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "国家十二.五科技支撑计划落户我院",
+      "url": "https://cast.shu.edu.cn/info/1042/1655.htm",
+      "date": "2014-01-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "先进凝固中心与青岛钢铁公司联合开发高性能伞骨钢",
+      "url": "https://cast.shu.edu.cn/info/1042/1654.htm",
+      "date": "2013-12-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学举行“上大-宝钢不锈钢生产技术研讨会”",
+      "url": "https://cast.shu.edu.cn/info/1042/1653.htm",
+      "date": "2013-12-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、仲红刚访问攀枝花钢铁有限公司",
+      "url": "https://cast.shu.edu.cn/info/1042/1652.htm",
+      "date": "2013-11-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://cast.shu.edu.cn/info/1042/1651.htm",
+      "date": "2013-11-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "彭琴、杨斌和孔令鸿三位同学学位论文入选上海市优秀学位论文",
+      "url": "https://cast.shu.edu.cn/info/1042/1650.htm",
+      "date": "2013-10-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授担任第三届全国转炉模拟炼钢比赛裁判长",
+      "url": "https://cast.shu.edu.cn/info/1042/1648.htm",
+      "date": "2013-10-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "付建勋教授在上海市科协第十一届学术年会发表主旨报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1649.htm",
+      "date": "2013-10-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "材料制备前沿技术研讨会顺利召开",
+      "url": "https://cast.shu.edu.cn/info/1042/1643.htm",
+      "date": "2013-10-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席《第十六届全国铸钢及熔炼学术会议暨第九届委员会会议》",
+      "url": "https://cast.shu.edu.cn/info/1042/1644.htm",
+      "date": "2013-10-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加中信重工—CBMM—中信金属—上海大学关于铌在铸造钢铁材料中应用的技术研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1645.htm",
+      "date": "2013-10-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席《钒钛资源综合利用产业创新战略联盟》一届二次理事会暨专家委员会会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1646.htm",
+      "date": "2013-10-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "鲁晓刚教授和翟启杰教授出席《2013国际新材料发展趋势高层论坛》",
+      "url": "https://cast.shu.edu.cn/info/1042/1647.htm",
+      "date": "2013-10-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学凝固课题组谢柯同学获得材料之星和文艺之星荣誉称号",
+      "url": "https://cast.shu.edu.cn/info/1042/1641.htm",
+      "date": "2013-08-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学凝固课题组谢柯同学暑期赴美参加实习交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1642.htm",
+      "date": "2013-08-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行参加国家973计划项目中期总结汇报会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1640.htm",
+      "date": "2013-08-05",
+      "column": "新闻快递"
+    },
+    {
+      "title": "德国HZDR研究中心张云虎博士生回母校学术交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1639.htm",
+      "date": "2013-07-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "澳大利亚昆士兰大学Prof. David StJohn一行来访进行学术交流并参观CAST实验室",
+      "url": "https://cast.shu.edu.cn/info/1042/1638.htm",
+      "date": "2013-06-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加973项目年度汇报会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1637.htm",
+      "date": "2013-01-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中信金属公司德国专家Hardy博士来访上海大学先进凝固技术中心并做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1636.htm",
+      "date": "2012-11-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“十二五”国家科技支撑计划课题《铬资源节约型不锈钢产品开发及产业化关键技术研究》正式启动",
+      "url": "https://cast.shu.edu.cn/info/1042/1634.htm",
+      "date": "2012-10-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2012年中国铸造活动周隆重举行",
+      "url": "https://cast.shu.edu.cn/info/1042/1635.htm",
+      "date": "2012-10-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授应邀参加《高端成形制造技术及多尺度全流程建模与仿真工程前沿研讨会》",
+      "url": "https://cast.shu.edu.cn/info/1042/1633.htm",
+      "date": "2012-09-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“新生VS老生”篮球友谊赛",
+      "url": "https://cast.shu.edu.cn/info/1042/1632.htm",
+      "date": "2012-09-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "美国Texas A&M大学教授访问我校材料学院",
+      "url": "https://cast.shu.edu.cn/info/1042/1631.htm",
+      "date": "2012-09-02",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰老师应邀到攀钢讲学",
+      "url": "https://cast.shu.edu.cn/info/1042/1630.htm",
+      "date": "2012-08-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "台湾成功大学黄文星教授一行访问“先进凝固技术中心”",
+      "url": "https://cast.shu.edu.cn/info/1042/1628.htm",
+      "date": "2012-08-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "英国莱斯特大学董洪标教授访问“先进凝固技术中心”并做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1629.htm",
+      "date": "2012-08-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "凝固课题组研究生薛嗣创、郭远益喜获上海大学第六届研究生创新基金",
+      "url": "https://cast.shu.edu.cn/info/1042/1627.htm",
+      "date": "2012-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "沈阳铸造研究所所长娄延春教授访问先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1626.htm",
+      "date": "2012-06-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席钒钛联盟召开第一届理事会暨专家委员会工作会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1624.htm",
+      "date": "2012-06-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授出席中国铸造学会第九届理事会第一次理事长工作会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1625.htm",
+      "date": "2012-06-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰、杨弋涛教授参加《现代铸铁》编委扩大会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1623.htm",
+      "date": "2012-06-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行赴唐钢集团参观考察",
+      "url": "https://cast.shu.edu.cn/info/1042/1619.htm",
+      "date": "2012-05-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加2012年钢锭制造技术与管理研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1620.htm",
+      "date": "2012-05-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行到河北联合大学考察交流",
+      "url": "https://cast.shu.edu.cn/info/1042/1621.htm",
+      "date": "2012-05-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授一行赴首钢集团京唐公司（曹妃甸）交流考察",
+      "url": "https://cast.shu.edu.cn/info/1042/1622.htm",
+      "date": "2012-05-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "Martin Strangwood教授访问上海大学先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1616.htm",
+      "date": "2012-04-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "Rongshan Qin教授访问上海大学先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/1617.htm",
+      "date": "2012-04-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学翟启杰教授等人参加第二届中英钢铁研究论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1618.htm",
+      "date": "2012-04-17",
+      "column": "新闻快递"
+    },
+    {
+      "title": "Amir Shirzadi教授访问先进凝固技术中心并做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1615.htm",
+      "date": "2012-04-12",
+      "column": "新闻快递"
+    },
+    {
+      "title": "丁玉龙教授访问先进凝固技术中心并做学术报告",
+      "url": "https://cast.shu.edu.cn/info/1042/1614.htm",
+      "date": "2012-04-05",
+      "column": "新闻快递"
+    },
+    {
+      "title": "凝固课题组研究生参加2012年CITIC-CBMM R&D项目报告会",
+      "url": "https://cast.shu.edu.cn/info/1042/1613.htm",
+      "date": "2012-04-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "英国伯明翰大学Martin Strangwood教授来访上海大学",
+      "url": "https://cast.shu.edu.cn/info/1042/1612.htm",
+      "date": "2012-03-19",
+      "column": "新闻快递"
+    },
+    {
+      "title": "英国剑桥大学Amir Shirzadi教授将来访上海大学",
+      "url": "https://cast.shu.edu.cn/info/1042/1610.htm",
+      "date": "2012-03-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "英国利兹大学Yulong Ding教授将来访上海大学",
+      "url": "https://cast.shu.edu.cn/info/1042/1611.htm",
+      "date": "2012-03-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "韩国之行总结",
+      "url": "https://cast.shu.edu.cn/info/1042/1608.htm",
+      "date": "2012-01-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2011 TMS会议及美国见闻",
+      "url": "https://cast.shu.edu.cn/info/1042/1609.htm",
+      "date": "2012-01-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "王刚教授参加2011年非晶合金中国材料研究学会年会",
+      "url": "https://cast.shu.edu.cn/info/1042/1603.htm",
+      "date": "2012-01-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "王刚教授参加块体非晶合金第八次国际会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1604.htm",
+      "date": "2012-01-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "美国德州农工大学Zhiping Luo博士来访上海大学",
+      "url": "https://cast.shu.edu.cn/info/1042/1605.htm",
+      "date": "2012-01-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰教授参加973项目启动会",
+      "url": "https://cast.shu.edu.cn/info/1042/1606.htm",
+      "date": "2012-01-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟老师参加第十届全国耐磨耐热耐蚀合金铸造生产和质量控制及检测技术研讨会",
+      "url": "https://cast.shu.edu.cn/info/1042/1607.htm",
+      "date": "2012-01-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "快速热分析调试",
+      "url": "https://cast.shu.edu.cn/info/1042/1602.htm",
+      "date": "2012-01-08",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江副研究员带领金属凝固课题组研究生参加第十六届上海国际冶金工业展览会",
+      "url": "https://cast.shu.edu.cn/info/1042/1601.htm",
+      "date": "2011-12-16",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江副研究员参加化学工程与先进材料国际学术会议",
+      "url": "https://cast.shu.edu.cn/info/1042/1599.htm",
+      "date": "2011-12-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "宋长江副研究员带领凝固课题组学生参加Kurz教授在西北工业大学进行的学术交流报告会和参观西北工业大学材料学院和理学院实验室",
+      "url": "https://cast.shu.edu.cn/info/1042/1600.htm",
+      "date": "2011-12-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“永冠杯”第二届中国大学生铸造工艺设计大赛",
+      "url": "https://cast.shu.edu.cn/info/1042/1596.htm",
+      "date": "2011-10-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "韩国釜山大学-上海大学首届国际合作交流暑期实习",
+      "url": "https://cast.shu.edu.cn/info/1042/1597.htm",
+      "date": "2011-10-24",
+      "column": "新闻快递"
+    },
+    {
+      "title": "翟启杰和宋长江等人参加“海峡两岸绿色材料绿色制程”论坛",
+      "url": "https://cast.shu.edu.cn/info/1042/1598.htm",
+      "date": "2011-10-24",
+      "column": "新闻快递"
+    }
+  ]
+}

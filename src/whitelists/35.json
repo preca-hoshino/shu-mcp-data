@@ -1,0 +1,20 @@
+{
+  "nano.shu.edu.cn": {
+    "type": "35",
+    "department": "上海大学纳米科学与技术研究中心",
+    "pages": {
+      "dhl/tzgg.htm": {
+        "pages": 2,
+        "column": "通知公告"
+      },
+      "dhl/kjdt.htm": {
+        "pages": 1,
+        "column": "科技动态"
+      },
+      "dhl/zhxw.htm": {
+        "pages": 3,
+        "column": "综合新闻"
+      }
+    }
+  }
+}

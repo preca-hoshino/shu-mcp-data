@@ -1,0 +1,2431 @@
+{
+  "domain": "hbb.shu.edu.cn",
+  "department": "上海大学后勤保障部",
+  "type": "25",
+  "crawl_time": "20260513_175610",
+  "total_articles": 403,
+  "columns": {
+    "后勤新闻": 303,
+    "通知公告": 100
+  },
+  "articles": [
+    {
+      "title": "上海大学第二十九届优质服务月顺利举办",
+      "url": "https://hbb.shu.edu.cn/info/1081/10016.htm",
+      "date": "2026-05-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部赴蚂蚁集团支付宝全球总部参观交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/10026.htm",
+      "date": "2026-05-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于宝山校区停电的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/10006.htm",
+      "date": "2026-04-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "3台直饮水机采购项目",
+      "url": "https://hbb.shu.edu.cn/info/1005/9996.htm",
+      "date": "2026-04-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度美术学院高压电气设备预防性试验服务",
+      "url": "https://hbb.shu.edu.cn/info/1005/9966.htm",
+      "date": "2026-04-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度电影学院高压电气设备预防性试验服务",
+      "url": "https://hbb.shu.edu.cn/info/1005/9976.htm",
+      "date": "2026-04-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "余长君教授向我校捐赠教学物资",
+      "url": "https://hbb.shu.edu.cn/info/1081/9946.htm",
+      "date": "2026-04-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2026年度上海大学远程集中抄表系统运维服务",
+      "url": "https://hbb.shu.edu.cn/info/1005/9936.htm",
+      "date": "2026-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部赴上海市健康促进中心调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/9956.htm",
+      "date": "2026-04-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心施工单位年度考核智能体服务项目",
+      "url": "https://hbb.shu.edu.cn/info/1005/9876.htm",
+      "date": "2026-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部与校工会妇委会开展联组学习会",
+      "url": "https://hbb.shu.edu.cn/info/1081/9906.htm",
+      "date": "2026-04-02",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2026年度上海大学宝山校区教学楼片区直饮水租赁服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9866.htm",
+      "date": "2026-03-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部召开公寓安全专题调度会",
+      "url": "https://hbb.shu.edu.cn/info/1081/9856.htm",
+      "date": "2026-03-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "同济大学后勤管理与保障处来我校调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/9816.htm",
+      "date": "2026-03-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部2025年度荣誉体系获奖信息公布",
+      "url": "https://hbb.shu.edu.cn/info/1005/9806.htm",
+      "date": "2026-03-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学延长校区广中路市政进水管测漏及维修服务项目",
+      "url": "https://hbb.shu.edu.cn/info/1005/9746.htm",
+      "date": "2026-03-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "首日教育|务实奋进开新局 笃行担当强保障",
+      "url": "https://hbb.shu.edu.cn/info/1081/9786.htm",
+      "date": "2026-03-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2026年度上海大学宝山校区V楼国际学生公寓空调采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9716.htm",
+      "date": "2026-03-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部召开2026年工作推进会",
+      "url": "https://hbb.shu.edu.cn/info/1081/9776.htm",
+      "date": "2026-03-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海高校后勤服务股份有限公司与上海大学后勤保障部开展交流座谈会",
+      "url": "https://hbb.shu.edu.cn/info/1081/9766.htm",
+      "date": "2026-01-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2026年度上海大学宝山、嘉定校区开水器维保维修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9116.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学宝山校区深水井托管服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9126.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学嘉定校区电梯日常维护保养服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9146.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学控电系统委托服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9156.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山校区部分商铺招租项目 招租结果公告（包件三）",
+      "url": "https://hbb.shu.edu.cn/info/1005/9056.htm",
+      "date": "2025-12-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学招标空档期绿化保洁及东区综合物业比选采购项目公示",
+      "url": "https://hbb.shu.edu.cn/info/1005/9086.htm",
+      "date": "2025-12-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学车辆（大型普通客车）购置项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/8786.htm",
+      "date": "2025-11-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山校区K、L、O、I楼垃圾房设备采购项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/8806.htm",
+      "date": "2025-11-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山校区冷却塔空调箱故障维修服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/8816.htm",
+      "date": "2025-11-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年上海大学宝山校区银杏种植服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/8506.htm",
+      "date": "2025-10-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学后勤保障部开展财务报销专题培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/8386.htm",
+      "date": "2025-06-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学后勤保障部赴同济大学后勤管理与保障处调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/7766.htm",
+      "date": "2025-06-20",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓管理中心国际学生公寓开展第二期应知应会岗中培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/7746.htm",
+      "date": "2025-06-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学后勤保障部赴上海交通大学后勤保障中心调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/7756.htm",
+      "date": "2025-06-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校党委第三巡察组向后勤保障部党委反馈专项巡察情况",
+      "url": "https://hbb.shu.edu.cn/info/1081/7436.htm",
+      "date": "2025-06-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2025年度上海大学宝山校区智能水表运维服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7416.htm",
+      "date": "2025-06-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于进一步规范后勤保障部非事业编制人员招聘工作的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/7406.htm",
+      "date": "2025-06-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学第二十八届优质服务月技术技能竞赛开赛",
+      "url": "https://hbb.shu.edu.cn/info/1081/7516.htm",
+      "date": "2025-06-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部举办“六一儿童节”特别活动 ——我们都是最优秀的小朋友",
+      "url": "https://hbb.shu.edu.cn/info/1081/7506.htm",
+      "date": "2025-06-04",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "一卷青叶传承千年，五洲学子共\"寓\"端午——中国传统文化体验工作坊",
+      "url": "https://hbb.shu.edu.cn/info/1081/7486.htm",
+      "date": "2025-06-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "徽派建筑屋顶遮光卷帘购置项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7336.htm",
+      "date": "2025-05-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年上海大学宝山校区图书馆泵房智慧化改造项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7326.htm",
+      "date": "2025-05-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度后勤保障部物业管理中心三功能阀采购项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7286.htm",
+      "date": "2025-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "保洁日常易耗品服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7296.htm",
+      "date": "2025-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学车辆（大型普通客车）购置项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7306.htm",
+      "date": "2025-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学校车增配配件服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7316.htm",
+      "date": "2025-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "物业管理中心开展三校区“创无废校园，享健康生活——‘无废校园’知识竞答”系列活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/7376.htm",
+      "date": "2025-05-21",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部关于评选2025年“泮池绿叶” 人物奖推选工作的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/7276.htm",
+      "date": "2025-05-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "公寓管理中心赴东华大学调研",
+      "url": "https://hbb.shu.edu.cn/info/1081/7366.htm",
+      "date": "2025-05-20",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于启动后勤保障部2025年技术主管（副主管）岗位聘任工作的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/7256.htm",
+      "date": "2025-05-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学车辆（大型普通客车）购置项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7246.htm",
+      "date": "2025-05-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "公寓管理中心组织国际学生开展整治校园卫生死角义务劳动",
+      "url": "https://hbb.shu.edu.cn/info/1081/7346.htm",
+      "date": "2025-05-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "相“寓”上海大学国际文化风情节：公寓管理中心绽放独特风采",
+      "url": "https://hbb.shu.edu.cn/info/1081/7236.htm",
+      "date": "2025-05-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学后勤保障部与上海大学附属嘉定实验学校举行共建签约仪式",
+      "url": "https://hbb.shu.edu.cn/info/1081/7216.htm",
+      "date": "2025-05-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "盐城师范学院党委常委、副校长汤克明一行来我校调研",
+      "url": "https://hbb.shu.edu.cn/info/1081/7226.htm",
+      "date": "2025-05-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学第二十八届优质服务月开幕",
+      "url": "https://hbb.shu.edu.cn/info/1081/7206.htm",
+      "date": "2025-05-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2025年上海大学宝山校区外场租赁一台清扫设备租赁服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7056.htm",
+      "date": "2025-05-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年上海大学宝山校区污水管道应急养护服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7066.htm",
+      "date": "2025-05-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "食堂开展窗口服务技能培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/7196.htm",
+      "date": "2025-05-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于宝山校区5月17日、5月18日二次供水水箱水池清洗工作的停水通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/7046.htm",
+      "date": "2025-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "公寓管理中心开展“五一”节前安全检查",
+      "url": "https://hbb.shu.edu.cn/info/1081/7186.htm",
+      "date": "2025-04-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心开展消防安全演练",
+      "url": "https://hbb.shu.edu.cn/info/1081/7176.htm",
+      "date": "2025-04-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "春季爱国卫生运动督查工作顺利开展",
+      "url": "https://hbb.shu.edu.cn/info/1081/7166.htm",
+      "date": "2025-04-28",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "施工公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7036.htm",
+      "date": "2025-04-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "公寓管理中心开展学生公寓员工安全教育培训会",
+      "url": "https://hbb.shu.edu.cn/info/1081/7156.htm",
+      "date": "2025-04-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "结束巡察进驻公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/7026.htm",
+      "date": "2025-04-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学宝山校区教学楼片区直饮水租赁服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6966.htm",
+      "date": "2025-04-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "宝山校区食堂开展2025年第一季度“六T”实务现场管理检查",
+      "url": "https://hbb.shu.edu.cn/info/1081/7016.htm",
+      "date": "2025-04-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "“物业智慧讲堂”第一讲：防水维修技术探索与分享",
+      "url": "https://hbb.shu.edu.cn/info/1081/7006.htm",
+      "date": "2025-04-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部举办“新技术在物业管理应用场景的探索”专题讲座",
+      "url": "https://hbb.shu.edu.cn/info/1081/6996.htm",
+      "date": "2025-04-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "宁夏大学副校长赵晓佳一行来我校调研",
+      "url": "https://hbb.shu.edu.cn/info/1081/6986.htm",
+      "date": "2025-04-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "浙江财经大学后勤服务中心来我校调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/6976.htm",
+      "date": "2025-04-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于宝山校区停电的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/6956.htm",
+      "date": "2025-04-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "校党委第三巡察组专项巡察后勤保障部党委进驻动员会召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/6856.htm",
+      "date": "2025-04-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6836.htm",
+      "date": "2025-04-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度10万以下修缮项目造价咨询服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6796.htm",
+      "date": "2025-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "宝山校区食堂开展员工专题培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/6826.htm",
+      "date": "2025-03-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部赴华东理工大学调研学习",
+      "url": "https://hbb.shu.edu.cn/info/1081/6806.htm",
+      "date": "2025-03-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "华东师范大学后勤保障部赴我校调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/6816.htm",
+      "date": "2025-03-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "西安石油大学后勤处一行来我校参观交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/6766.htm",
+      "date": "2025-03-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于延长校区13日、14日及17日部分楼宇停电的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/6736.htm",
+      "date": "2025-03-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山校区中央空调设备系统管道及压力容器测试服务",
+      "url": "https://hbb.shu.edu.cn/info/1005/6746.htm",
+      "date": "2025-03-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年上海大学交展中心电梯日常维护保养",
+      "url": "https://hbb.shu.edu.cn/info/1005/6706.htm",
+      "date": "2025-03-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部工会开展三八妇女节无火香薰精油杯活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/6726.htm",
+      "date": "2025-03-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2025年物业管理中心非编人员意外险采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6696.htm",
+      "date": "2025-02-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学宝山校区名人广场片区扫地机器人租赁服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6626.htm",
+      "date": "2025-02-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学嘉定校区施工监理服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6616.htm",
+      "date": "2025-02-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "物业管理中心认真做好开学前各项准备工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/6686.htm",
+      "date": "2025-02-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "表彰先进，树立榜样，凝心聚力，再促发展——宝山校区食堂顺利举行2024年度工作总结暨表彰大会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6676.htm",
+      "date": "2025-01-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓管理中心召开2024年度工作总结暨表彰大会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6656.htm",
+      "date": "2025-01-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "直接委托项目服务单位结果公示",
+      "url": "https://hbb.shu.edu.cn/info/1005/6596.htm",
+      "date": "2025-01-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "劳动教育|园艺点亮生活：物业管理中心组织紫薇修剪活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/6646.htm",
+      "date": "2025-01-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心召开2024年度30万以下修缮项目遴选单位考核会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6586.htm",
+      "date": "2025-01-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "劳动教育|园艺点亮生活：水仙雕刻，静待花开",
+      "url": "https://hbb.shu.edu.cn/info/1081/6576.htm",
+      "date": "2025-01-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心召开2024年设备设施维保维修服务单位考核会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6566.htm",
+      "date": "2025-01-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心召开2024年度绿化保洁和东区综合物业社会公司年终考评会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6546.htm",
+      "date": "2024-12-31",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2025年度宝山校区东区教师公寓片区综合物业服务项目成交公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6506.htm",
+      "date": "2024-12-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学中小修遴选单位2024年度考评结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6516.htm",
+      "date": "2024-12-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学百万以下项目和招标空档期绿化保洁 比选采购项目的成交结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6496.htm",
+      "date": "2024-12-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校新增新能源汽车充电桩项目建设完成",
+      "url": "https://hbb.shu.edu.cn/info/1081/6536.htm",
+      "date": "2024-12-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2025年度上海大学宝山校区35KV总降站电力系统检测试验服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6426.htm",
+      "date": "2024-12-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学宝山/嘉定校区控电系统委托服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6436.htm",
+      "date": "2024-12-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学宝山校区MR有载调压开关年度保养与检修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6446.htm",
+      "date": "2024-12-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学宝山校区开水器维保维修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6456.htm",
+      "date": "2024-12-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学宝山校区深水井托管服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6466.htm",
+      "date": "2024-12-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学延长校区开水器维保维修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6486.htm",
+      "date": "2024-12-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "包饺子喜迎冬至，欢乐声温暖心田 ——上海大学三校区食堂开展公益包饺子活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/6526.htm",
+      "date": "2024-12-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2025年度延长10KV、35KV变电站预防性试验服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6346.htm",
+      "date": "2024-12-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度延长校区二次供水设施清洗消毒服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6356.htm",
+      "date": "2024-12-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度延长10KV、35KV变压器年度维保服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6366.htm",
+      "date": "2024-12-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度嘉定校区10KV预防性试验及系统维保服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6376.htm",
+      "date": "2024-12-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度上海大学嘉定校区电梯日常维护保养服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6386.htm",
+      "date": "2024-12-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度宝山校区东区教师公寓片区综合物业服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6396.htm",
+      "date": "2024-12-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "乐乎学术服务中心召开2024年度工作总结暨2025年度工作计划会议",
+      "url": "https://hbb.shu.edu.cn/info/1081/6416.htm",
+      "date": "2024-12-20",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部工会开展冬季职工健身跑活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/6406.htm",
+      "date": "2024-12-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学百万以下项目和招标空档期绿化保洁比选采购项目公示",
+      "url": "https://hbb.shu.edu.cn/info/1005/6256.htm",
+      "date": "2024-12-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "国际学生公寓安全知识竞赛顺利举行",
+      "url": "https://hbb.shu.edu.cn/info/1081/6326.htm",
+      "date": "2024-12-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部工会举办教职工趣味运动会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6316.htm",
+      "date": "2024-12-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "市教委生活垃圾分类减量推进工作领导小组办公室一行来我校延长校区开展垃圾分类工作专项研讨",
+      "url": "https://hbb.shu.edu.cn/info/1081/6276.htm",
+      "date": "2024-12-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "守牢安全底线，平安“寓”你同行——公寓管理中心开展安全联合大检查",
+      "url": "https://hbb.shu.edu.cn/info/1081/6296.htm",
+      "date": "2024-12-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部工会召开2024年小组长年终工作交流会暨趣味运动会裁判员培训会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6246.htm",
+      "date": "2024-12-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "深化区校合作 互促绿化发展 ——“菊文化节和校园绿化改造趋势”研讨会成功举办",
+      "url": "https://hbb.shu.edu.cn/info/1081/6266.htm",
+      "date": "2024-12-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部举行2024年度领导班子和干部周边满意度测评会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6286.htm",
+      "date": "2024-12-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "宝山校区配电站继电保护器更换安装测试服务采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6196.htm",
+      "date": "2024-12-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "宝山校区图书馆屋檐故障点勘查服务采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6206.htm",
+      "date": "2024-12-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展后勤保障部（保卫处、基建处）2024年新一轮科级干部聘任工作的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/6076.htm",
+      "date": "2024-11-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度后勤保障部物业管理中心分体式空调采购项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6056.htm",
+      "date": "2024-11-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山本部图书馆阅览室灯光节能升级服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/6066.htm",
+      "date": "2024-11-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "公寓管理中心赴上海财经大学调研学习",
+      "url": "https://hbb.shu.edu.cn/info/1081/6036.htm",
+      "date": "2024-11-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部嘉定校区党支部开展专题学习会",
+      "url": "https://hbb.shu.edu.cn/info/1081/6016.htm",
+      "date": "2024-11-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于宝山校区11月2日和3日二次供水水箱水池清洗工作的停水通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/5976.htm",
+      "date": "2024-10-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海理工大学党委常委、副校长岳海洋一行来我校调研",
+      "url": "https://hbb.shu.edu.cn/info/1081/6006.htm",
+      "date": "2024-10-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "国际学生楼管会交流座谈暨2024-2025学年楼管会聘任仪式顺利举行",
+      "url": "https://hbb.shu.edu.cn/info/1081/5996.htm",
+      "date": "2024-10-28",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓管理中心赴华东理工大学调研学习",
+      "url": "https://hbb.shu.edu.cn/info/1081/5986.htm",
+      "date": "2024-10-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学后勤保障部工会召开第一届第二次会员代表大会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5946.htm",
+      "date": "2024-10-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部人力资源办公室召开下半年人事工作推进会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5936.htm",
+      "date": "2024-10-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委召开2024年退休职工荣休座谈会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5896.htm",
+      "date": "2024-10-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "餐饮与商业管理中心党支部组织参观 中共“一大”纪念馆",
+      "url": "https://hbb.shu.edu.cn/info/1081/5906.htm",
+      "date": "2024-10-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "同叙往日情谊 共谋部门发展——公寓管理中心开展重阳节退休教职工“回娘家”活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5956.htm",
+      "date": "2024-10-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "佳节秋风胜春光 岁岁今朝又重阳——后勤保障部举办敬老月活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5876.htm",
+      "date": "2024-10-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓管理中心赴上海交通大学调研学习",
+      "url": "https://hbb.shu.edu.cn/info/1081/5856.htm",
+      "date": "2024-10-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "宝山校区食堂开展2024年度窗口星级服务明星现场考评及编外员工工勤技术岗位聘任工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/5846.htm",
+      "date": "2024-10-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "隐患排查不松懈，协力拧紧“安全阀”——公寓管理中心开展国庆假期前安全检查工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/5806.htm",
+      "date": "2024-09-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "养成卫生好习惯，共享健康好生活——秋季爱国卫生运动督查工作顺利开展",
+      "url": "https://hbb.shu.edu.cn/info/1081/5796.htm",
+      "date": "2024-09-28",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委书记、副部长李坚列席指导公寓管理中心党支部组织生活会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5726.htm",
+      "date": "2024-09-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于宝山校区部分道路施工的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/5686.htm",
+      "date": "2024-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于国庆期间宝山校区校车站点临时调整的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/5766.htm",
+      "date": "2024-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部党委召开党纪学习教育总结会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5706.htm",
+      "date": "2024-09-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "学纪知纪强党性 明纪守纪显担当——保卫处党支部召开党员大会暨党纪学习教育总结会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5756.htm",
+      "date": "2024-09-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心组织开展宝山校区垃圾分类知识宣讲暨督导员专题培训活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5776.htm",
+      "date": "2024-09-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于宝山校区停电的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/5676.htm",
+      "date": "2024-09-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于全面加强2024年秋季爱国卫生运动的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/5656.htm",
+      "date": "2024-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "公寓管理中心安全教育培训会顺利开展",
+      "url": "https://hbb.shu.edu.cn/info/1081/5636.htm",
+      "date": "2024-09-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "如“月”而至，福满中秋——宝山校区食堂开展月饼DIY活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5666.htm",
+      "date": "2024-09-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部物业管理中心举行宿舍区零修工作交流会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5646.htm",
+      "date": "2024-09-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "台风“贝碧嘉”将至，物业管理中心开展防御工作会议并进行防汛防台节前安全检查",
+      "url": "https://hbb.shu.edu.cn/info/1081/5626.htm",
+      "date": "2024-09-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "宝山校区食堂开展2024年度食品安全专项培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/5616.htm",
+      "date": "2024-09-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校党委常委、副校长王从春实地调研后勤保障工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/5596.htm",
+      "date": "2024-09-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心和采购与招标管理办公室开展采购工作沟通交流会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5606.htm",
+      "date": "2024-09-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "东区机自学院、校内C楼外墙紧急维修项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/5526.htm",
+      "date": "2024-09-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度后勤保障部物业管理中心分体式空调采购项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/5506.htm",
+      "date": "2024-08-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学嘉定校区微电子（B）楼室内公共区域保洁服务项目的成交结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/5486.htm",
+      "date": "2024-08-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山校区社区新建宿舍楼（6、7、8号）室内公共区域保洁服务项目的成交结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/5496.htm",
+      "date": "2024-08-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学嘉定校区微电子(B）楼室内公共区域保洁服务比选采购项目公示",
+      "url": "https://hbb.shu.edu.cn/info/1005/5446.htm",
+      "date": "2024-08-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "“深化区校合作，推进高校水环境治理高质量发展”沟通推进会顺利举行",
+      "url": "https://hbb.shu.edu.cn/info/1081/5586.htm",
+      "date": "2024-08-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "刘昌胜校长走访慰问后勤保障部暑假坚守服务保障一线职工",
+      "url": "https://hbb.shu.edu.cn/info/1081/5576.htm",
+      "date": "2024-08-02",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "炎日送清凉，关怀沁人心——校领导慰问后勤保障部一线职工",
+      "url": "https://hbb.shu.edu.cn/info/1081/5566.htm",
+      "date": "2024-07-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心开展绿化保洁入驻社会公司第二季度考核工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/5546.htm",
+      "date": "2024-07-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部嘉定校区联合党支部在军训期间的志愿者服务活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5286.htm",
+      "date": "2024-07-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学和宝山区水务局对接交流会顺利举行",
+      "url": "https://hbb.shu.edu.cn/info/1081/5556.htm",
+      "date": "2024-07-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于暑假期间新增跨校区学生预约班车的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/5256.htm",
+      "date": "2024-07-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "物业管理中心顺利召开2023年度100万以下修缮项目施工单位考评会",
+      "url": "https://hbb.shu.edu.cn/info/1081/5266.htm",
+      "date": "2024-07-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2024年上海大学宝山校区玻璃幕墙安全检测服务项目",
+      "url": "https://hbb.shu.edu.cn/info/1005/5246.htm",
+      "date": "2024-07-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "内化于心、外化于行，把党的纪律融入日常——餐饮与商业管理中心党支部开展支部书记上党课活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5106.htm",
+      "date": "2024-06-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部嘉定联合党支部召开专题党课活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5136.htm",
+      "date": "2024-06-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "“寓”青春，话园区，寄深情——2024年中外优秀毕业生楼管会代表座谈会举行",
+      "url": "https://hbb.shu.edu.cn/info/1081/5146.htm",
+      "date": "2024-06-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "祝贺！我校这四幢学生公寓喜获“六T”管理五星级示范公寓的荣誉称号",
+      "url": "https://hbb.shu.edu.cn/info/1081/5156.htm",
+      "date": "2024-06-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海教委高校防汛防台（防灾减灾）专项督查组来我校检查防汛防台工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/5166.htm",
+      "date": "2024-06-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海市学校后勤协会信息化专业委员会三届二次主任秘书长会议顺利召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/5076.htm",
+      "date": "2024-06-21",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "“毕业季、暖心寄” 快递服务上线",
+      "url": "https://hbb.shu.edu.cn/info/1081/5056.htm",
+      "date": "2024-06-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "​宝山校区食堂顺利开展第二十七届优质服务月食堂开放日系列活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5066.htm",
+      "date": "2024-06-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海高校校园商业标准创新联合体“校园商业服务与管理标准化试点”项目顺利通过终期评估验收",
+      "url": "https://hbb.shu.edu.cn/info/1081/5026.htm",
+      "date": "2024-06-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "学纪、知纪、明纪、守纪，坚守底线、不触红线、做合格党员—物业管理中心党支部举行党纪学习教育专题党课活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/5046.htm",
+      "date": "2024-06-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校党委常委、副校长王从春调研指导后勤保障部物业管理中心工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/5016.htm",
+      "date": "2024-06-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "粽香飘逸庆端午，座谈畅聊绘新篇",
+      "url": "https://hbb.shu.edu.cn/info/1081/5006.htm",
+      "date": "2024-06-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学教室片区巡检工作推行SOP",
+      "url": "https://hbb.shu.edu.cn/info/1081/4996.htm",
+      "date": "2024-06-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "食堂开放日第五站丨南区吾馨楼食堂开放日活动人员招募",
+      "url": "https://hbb.shu.edu.cn/info/1081/4976.htm",
+      "date": "2024-06-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学第二十七届优质服务月技术技能竞赛开赛",
+      "url": "https://hbb.shu.edu.cn/info/1081/4966.htm",
+      "date": "2024-06-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委中心组赴中共四大纪念馆和普陀区廉教育基地开展党性教育和警示教育活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/4756.htm",
+      "date": "2024-06-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "中共上海大学后勤保障部委员会党员大会顺利召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/4786.htm",
+      "date": "2024-06-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "爱国卫生相约春季，携手共建拥抱健康｜春季爱国卫生运动督查工作顺利开展",
+      "url": "https://hbb.shu.edu.cn/info/1081/4416.htm",
+      "date": "2024-04-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "以练促能、以练筑防——物业管理中心开展电梯困人应急救援演练",
+      "url": "https://hbb.shu.edu.cn/info/1081/4426.htm",
+      "date": "2024-04-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓管理中心党支部开展党员基本培训第一课“中国共产党和中华民族伟大复兴”集中交流讨论会",
+      "url": "https://hbb.shu.edu.cn/info/1081/4396.htm",
+      "date": "2024-04-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "嘉定校区联合党支部开展主题党日活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/4376.htm",
+      "date": "2024-04-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "餐饮与商业管理中心宝山校区食堂开展2024年第一季度“六T”实务现场管理检查",
+      "url": "https://hbb.shu.edu.cn/info/1081/4356.htm",
+      "date": "2024-04-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学2024年度无偿献血正式开始",
+      "url": "https://hbb.shu.edu.cn/info/1081/4346.htm",
+      "date": "2024-04-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心开展消防安全演练活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/4326.htm",
+      "date": "2024-04-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部开展2024年度食品安全专项培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/4336.htm",
+      "date": "2024-04-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "以“练”筑防，防患未“燃”｜学生生活园区联合开展2024年春季校园火灾疏散逃生大演练活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/4436.htm",
+      "date": "2024-04-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "山东省学校后勤协会高校公寓管理分会副秘书长朱景星一行来我校调研",
+      "url": "https://hbb.shu.edu.cn/info/1081/4086.htm",
+      "date": "2024-04-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2024年度上海大学宝山校区35KV总降站电力系统检测试验服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3696.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度嘉定校区10KV变电站年度检测及维保服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3706.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度上海大学宝山校区MR有载调压开关年度保养与检修项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3716.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度上海大学宝山校区深水井托管服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3726.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度上海大学宝山校区教学楼片区直饮水租赁服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3736.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度上海大学嘉定校区电梯日常维护保养项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3746.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度上海大学宝山校区控电系统委托服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3756.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年度延长校区二次供水设施清洗消毒服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3766.htm",
+      "date": "2024-01-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学维保维修服务单位2023年度考评结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3676.htm",
+      "date": "2024-01-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "“探秘”上大食堂，“知食”就是力量——宝山校区食堂顺利开展2024年食堂开放日活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/3596.htm",
+      "date": "2024-01-17",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委召开2023年度党支部书记抓基层党建工作述职评议会",
+      "url": "https://hbb.shu.edu.cn/info/1081/3586.htm",
+      "date": "2024-01-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2024年度延长10KV变压器年度维保服务项目采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/3566.htm",
+      "date": "2024-01-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "市财评中心对我校2024年度大型维修申报项目进行评审",
+      "url": "https://hbb.shu.edu.cn/info/1081/3966.htm",
+      "date": "2024-01-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心召开2023年度设备设施维保维修服务单位考核会",
+      "url": "https://hbb.shu.edu.cn/info/1081/3396.htm",
+      "date": "2024-01-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "中共上海大学后勤保障部委员会党员大会胜利召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/3986.htm",
+      "date": "2024-01-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "凌波仙子初妆成，借水寒花待绽放——“园艺点亮生活”劳动教育实践活动之“水仙雕刻”",
+      "url": "https://hbb.shu.edu.cn/info/1081/3346.htm",
+      "date": "2024-01-04",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "把好安全关，平安过元旦！公寓管理中心多措并举迎新年",
+      "url": "https://hbb.shu.edu.cn/info/1081/3376.htm",
+      "date": "2024-01-04",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓管理中心党支部开展专题学习会并赴上海大学博物馆参观",
+      "url": "https://hbb.shu.edu.cn/info/1081/3386.htm",
+      "date": "2024-01-04",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部嘉定联合党支部开展专题组织生活学习会",
+      "url": "https://hbb.shu.edu.cn/info/1081/3246.htm",
+      "date": "2023-12-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "相伴欢乐声，饺子暖心头——宝山校区食堂开展“迎冬至，包饺子”活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/3226.htm",
+      "date": "2023-12-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "规范用工促发展，赋能管理增实效——后勤保障部人事专员专题培训会（第二场）",
+      "url": "https://hbb.shu.edu.cn/info/1081/3236.htm",
+      "date": "2023-12-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部举行2023年度领导班子和干部周边满意度测评会",
+      "url": "https://hbb.shu.edu.cn/info/1081/3196.htm",
+      "date": "2023-12-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "规范用工促发展，赋能管理增实效——后勤保障部召开人事专员专题培训会",
+      "url": "https://hbb.shu.edu.cn/info/1081/3176.htm",
+      "date": "2023-12-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "服务基层员工 提升管理能级|后勤保障部开展劳务派遣合同业务培训会第一场",
+      "url": "https://hbb.shu.edu.cn/info/1081/3186.htm",
+      "date": "2023-12-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部开展冬季职工健身跑活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/3146.htm",
+      "date": "2023-12-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "宝山区疾病预防控制中心第一党支部与后勤保障部党委校医院党支部举行党组织结对共建活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/3136.htm",
+      "date": "2023-12-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学党委常委、副校长王从春参加基建处处务会",
+      "url": "https://hbb.shu.edu.cn/info/1081/3956.htm",
+      "date": "2023-11-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心推行教室区域日常扫码巡检",
+      "url": "https://hbb.shu.edu.cn/info/1081/3106.htm",
+      "date": "2023-11-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "物业管理中心党支部与上海市宝山区嘉华小学党支部开展共建合作暨“同上一堂党课”主题党日活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/3116.htm",
+      "date": "2023-11-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上大美食走出校门，交流互动点亮校园——上海大学积极参加第四届上海大学生美食节",
+      "url": "https://hbb.shu.edu.cn/info/1081/3126.htm",
+      "date": "2023-11-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【校园植物探秘】第九期：浓绿丛中一点红，石榴花开红似火——石榴",
+      "url": "https://mp.weixin.qq.com/s/1NhAAplx748d3YqDWm0O9A",
+      "date": "2023-05-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办校园环境管理中心开展垃圾分类知识培训",
+      "url": "https://mp.weixin.qq.com/s/62LDPxL-iVH9abQeSzb3jQ",
+      "date": "2023-05-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办举办“财务管理”专题培训",
+      "url": "https://mp.weixin.qq.com/s/E8tVW-46gYgxmProyB4zXQ",
+      "date": "2023-05-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "防范工程风险，推进宝山校区扩建四期项目实施",
+      "url": "https://hbb.shu.edu.cn/info/1081/3866.htm",
+      "date": "2023-05-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办公室与总务办校园环境管理中心召开2023年度公寓修缮和实事工程沟通协调会",
+      "url": "https://mp.weixin.qq.com/s/Mr0U0a7oDRNZq6CDNNHT4A",
+      "date": "2023-05-18",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "花灌木修剪、垃圾分类讲座，一起来学！",
+      "url": "https://mp.weixin.qq.com/s/XS3qR2Bs64f4U7iNS4zHlw",
+      "date": "2023-05-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "艺术走进校园，丰富师生生活——上海美术学院国画系教师作品入驻宝山校区东区三楼餐厅",
+      "url": "https://mp.weixin.qq.com/s/NP9I2vAViJNZzHtaKu3Plw",
+      "date": "2023-05-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校园环境管理中心开展菊花培育养护实践活动",
+      "url": "https://mp.weixin.qq.com/s/Y4tJ74j3EqZ-l41_3ph5Pg",
+      "date": "2023-05-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "凝心聚力谋发展，食堂开放迎师生——食堂开放日活动强势归来",
+      "url": "https://mp.weixin.qq.com/s/3bLSGwocc9dzdqbqQiueMw",
+      "date": "2023-05-10",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海共青森林公园来我校调研交流",
+      "url": "https://mp.weixin.qq.com/s/4B4Cy9z7QRzQBDlmryE7hQ",
+      "date": "2023-05-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "强信念，凝心力；重实践，谋发展|上海大学第二十六届优质服务月开幕",
+      "url": "https://mp.weixin.qq.com/s/ugJ17uEGow_JhqrgESZWJA",
+      "date": "2023-05-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上大的这处绿化景观正在升级改造，先来剧透一波~",
+      "url": "https://mp.weixin.qq.com/s/x9GtXUTAEFaVhzR-s-UXUA",
+      "date": "2023-04-28",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员部署会",
+      "url": "https://mp.weixin.qq.com/s/jE5rOCWj8bOPI5y0rJ7z0g",
+      "date": "2023-04-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部科级干部培训班圆满结束",
+      "url": "https://mp.weixin.qq.com/s/poqk-z9cz2n3uBeRQJXL0g",
+      "date": "2023-04-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "优质服务，我们一直在路上——宝山食堂开展员工服务操作培训",
+      "url": "https://mp.weixin.qq.com/s/rbigJg_iuhO8ADVy4hgMSQ",
+      "date": "2023-04-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【校园植物探秘】第八期：最美人间四月天，毛鹃盛放红艳艳——毛鹃",
+      "url": "https://mp.weixin.qq.com/s/1YB5aIURCH8kOAcK1I-i3w",
+      "date": "2023-04-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办举办“合同管理及法律风险”专题培训",
+      "url": "https://mp.weixin.qq.com/s/R9wSuP5kCGHng-UirUMSOg",
+      "date": "2023-04-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部开展科级干部培训班专题学习",
+      "url": "https://mp.weixin.qq.com/s/x_SwGkRxdEkRYUY8ZKg12w",
+      "date": "2023-04-21",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "焕然一新服务师生——嘉定校区菜鸟驿站升级改造完成",
+      "url": "https://mp.weixin.qq.com/s/IbOTSGFytvTyS7-BAECf4A",
+      "date": "2023-04-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办举办“业务素质提升与综合能力塑造”专题培训班",
+      "url": "https://mp.weixin.qq.com/s/wEeMgUrDh3Ix9jIE0fb4mA",
+      "date": "2023-04-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【校园植物探秘】第七期：丝蕊低垂窃声语，满树粉花惹人眼——垂丝海棠",
+      "url": "https://mp.weixin.qq.com/s/8KPyEA7ZYsiRLyOWNcxkDw",
+      "date": "2023-03-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "世界水日•中国水周｜节水上大 全员参与",
+      "url": "https://mp.weixin.qq.com/s/mRbhHMOddWOI1FinlM4YSQ",
+      "date": "2023-03-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "同心强党建，合力促建设——基建处党支部与上海建工五建集团扩建四期工程项目党支部开展联建活动",
+      "url": "https://mp.weixin.qq.com/s/BwbfvQsJ0NV7XbWoq6FyGQ",
+      "date": "2023-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "强化组织意识，争当改革“排头兵” ——总务办第一党支部开展支部组织生活会暨民主评议党员会",
+      "url": "https://mp.weixin.qq.com/s/Ftgc9-Dz2nR1mmgoONQYJA",
+      "date": "2023-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办第六党支部开展植树节主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/Jgx-9y8elTKD4UxGvDooyg",
+      "date": "2023-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学开展2023年度无偿献血活动",
+      "url": "https://mp.weixin.qq.com/s/LPjfllZmkt2IonJR9g40rg",
+      "date": "2023-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "综合办党支部召开2022年度组织生活会暨民主评议党员会",
+      "url": "https://mp.weixin.qq.com/s/b1qSpGJdsnwYe7wYyKqHVg",
+      "date": "2023-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学伟长楼压力容器机组成交公告公示",
+      "url": "https://hbb.shu.edu.cn/info/1005/2165.htm",
+      "date": "2023-03-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "弘扬雷锋精神，淬炼责任担当——总务办第六党支部、悉商工信管学生党支部联合主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/FLEueU9Yxo5n_74yaNvUpg",
+      "date": "2023-03-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "嘉定校区食堂与微电子学院联合举办“新品菜肴品鉴”活动",
+      "url": "https://mp.weixin.qq.com/s/TNVPwLk-rxPROM7ERl_irw",
+      "date": "2023-03-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【校园】诸“试”顺利，宝山校区食堂考试周暖心服务",
+      "url": "https://mp.weixin.qq.com/s/dGCrJAkfboa8fCwK6k_pBQ",
+      "date": "2023-03-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "保卫处党支部赴顾村镇馨佳园第十一居民区开展党建共建活动",
+      "url": "https://mp.weixin.qq.com/s/mNB9YsUOo8H1oep3zz8mAg",
+      "date": "2023-03-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办第二党支部开展“重温雷锋故事 弘扬雷锋精神”主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/sV2t6YMyVU5VHXaiPf51Rg",
+      "date": "2023-03-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学中小修遴选单位2022年度考评结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/2095.htm",
+      "date": "2023-03-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部召开党委理论学习中心组（扩大）学习会",
+      "url": "https://mp.weixin.qq.com/s/Q3hE2WR-2MJU6DcaeMHXhw",
+      "date": "2023-03-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【校园植物探秘】第六期：梅开迎春，校园内可实现赏梅自由啦——梅花",
+      "url": "https://mp.weixin.qq.com/s/FlH4MeHVUMm_QOK7BGSy3w",
+      "date": "2023-02-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部总务办第六党支部开展专题党课活动",
+      "url": "https://mp.weixin.qq.com/s/Is4eXZS0ZeO8alWCFcZIkQ",
+      "date": "2023-02-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校园环境管理中心顺利召开2022年中小修施工单位考评会",
+      "url": "https://mp.weixin.qq.com/s/mRkBdaMBDQMF1iupYMSVfw",
+      "date": "2023-02-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部开展应急救护培训",
+      "url": "https://mp.weixin.qq.com/s/oismCRlSnse4Y3zGLPEiaQ",
+      "date": "2023-02-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校园美食不用寻，宝山食堂“面”目新",
+      "url": "https://mp.weixin.qq.com/s/b1F6jQDZI1McpOJtcL3lUQ",
+      "date": "2023-02-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学三校区教室音乐电铃系统成交公告公示",
+      "url": "https://hbb.shu.edu.cn/info/1005/1995.htm",
+      "date": "2023-02-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2月18、19日对宝山校区生活水箱清洗工作的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1985.htm",
+      "date": "2023-02-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学宝山校区东区物业管理服务的中标（成交）结果公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/1965.htm",
+      "date": "2023-01-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "宝山校区停水、停电通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1955.htm",
+      "date": "2023-01-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "延长校区停电通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1935.htm",
+      "date": "2022-12-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "宝山校区停电通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1945.htm",
+      "date": "2022-12-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "干部提任前公示20221226",
+      "url": "https://hbb.shu.edu.cn/info/1005/1925.htm",
+      "date": "2022-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年12月26日-2023年1月6日期间校车运行调整的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1895.htm",
+      "date": "2022-12-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "校党委第一巡察组向后勤保障部党委反馈巡察情况",
+      "url": "https://hbb.shu.edu.cn/info/1081/1781.htm",
+      "date": "2022-11-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办第一党支部组织学习党的二十大精神",
+      "url": "https://mp.weixin.qq.com/s/7BO_-1BmQY01rZ5mLbNmxA",
+      "date": "2022-11-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "学习明方向 担当勇向前——公寓办第二党支部开展学习宣传贯彻党的二十大精神主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/L0EftEBICABicuuAXi6RDg",
+      "date": "2022-11-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "踔厉奋发 勇毅前行——公寓办第二党支部参观纪念上海大学建校100周年成果展",
+      "url": "https://mp.weixin.qq.com/s/JrukmASfhRTA32oPQFjvsQ",
+      "date": "2022-10-21",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校党委第一巡察组巡察后勤保障党委进驻动员会顺利召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/1744.htm",
+      "date": "2022-09-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学副校长王从春带队检查学校防汛防台工作",
+      "url": "https://mp.weixin.qq.com/s/audcxlyjA4ga3B070Ha1_Q",
+      "date": "2022-08-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办物业中心开展暑期前安全检查",
+      "url": "https://mp.weixin.qq.com/s/vIlIEDoW6q2O6yra76uuRg",
+      "date": "2022-07-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部各党支部深入学习贯彻中共中央政治局常务委员会会议精神和市委常委会扩大会议精神",
+      "url": "https://mp.weixin.qq.com/s/pCAJuZFC_Wx-pdCih50F0Q",
+      "date": "2022-05-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "封控不封爱，宝山食堂开展暖心理发活动",
+      "url": "https://mp.weixin.qq.com/s/pUe9OE-CEbPZTEc5ccjPGA",
+      "date": "2022-05-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办第六党支部组织全体党员学习习近平总书记在中国人民大学考察时的重要讲话精神总务办第六党支部组织全体党员学习习近平总书记在中国人民大学考察时的重要讲话精神",
+      "url": "https://mp.weixin.qq.com/s/nLG8xkFqf9Z4Ud-mAdECXw",
+      "date": "2022-05-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "致后勤保障工作人员的“五一”慰问信",
+      "url": "https://mp.weixin.qq.com/s/rrW1EskGuoJ6jl-Y-Ysy8w",
+      "date": "2022-05-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "1200吨食材、108万只一次性口罩、56万支抗原……背后的你们，我们很感谢！",
+      "url": "https://mp.weixin.qq.com/s/vGYnKfxDRxSwGsJjJk8fKg",
+      "date": "2022-05-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委召开2021年度党史学习教育专题民主生活会",
+      "url": "https://hbb.shu.edu.cn/info/1081/1634.htm",
+      "date": "2022-01-20",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "校领导慰问后勤保障部寒假坚守服务岗位职工",
+      "url": "https://hbb.shu.edu.cn/info/1081/1635.htm",
+      "date": "2022-01-20",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部各单位2021-2022年度寒假期间工作安排",
+      "url": "https://hbb.shu.edu.cn/info/1081/1633.htm",
+      "date": "2022-01-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "饮服中心召开嘉定校区2021年终总结暨表彰大会",
+      "url": "https://mp.weixin.qq.com/s/jApFON7px72bAQnJH0MLXA",
+      "date": "2022-01-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委召开2021年党支部书记述职评议考核",
+      "url": "https://mp.weixin.qq.com/s/yxHn54zs7wj_15XVuWH3Nw",
+      "date": "2022-01-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学副校长王从春调研后勤保障部",
+      "url": "https://hbb.shu.edu.cn/info/1081/1628.htm",
+      "date": "2022-01-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办与管理学院“三结对”共建签约暨管理学院全程导师工作站揭牌活动成功举办",
+      "url": "https://mp.weixin.qq.com/s/Y6mGauVUhTAKNCdqxUkhSw",
+      "date": "2022-01-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "我为群众办实事 | 打造身边的活力健身房",
+      "url": "https://mp.weixin.qq.com/s/cj-8jAzVuxyGefoOrJNHqg",
+      "date": "2022-01-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办第一党支部开展年度党支部书记抓基层党建工作述职及党支部分类定级自评",
+      "url": "https://mp.weixin.qq.com/s/DVisVkXc4eysd5jVHUUk3w",
+      "date": "2022-01-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办第一党支部系列“中国精神”第九期微党课开讲",
+      "url": "https://mp.weixin.qq.com/s/t4po1PXBRhHWXq0Pp815tg",
+      "date": "2022-01-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办第一党支部系列“中国精神”第八期微党课开讲",
+      "url": "https://mp.weixin.qq.com/s/6ctC41Ar4dkvwR5gG7sxsQ",
+      "date": "2021-12-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办第二党支部开展党支部书记抓基层党建工作述职和党支部分类定级自评工作",
+      "url": "https://mp.weixin.qq.com/s/irnIT54T_OR6bdzUPDK6DQ",
+      "date": "2021-12-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部总务办第五党支部与经管中心党支部结对共建签约仪式顺利举行",
+      "url": "https://mp.weixin.qq.com/s/1FdIqM-394E1YWHJA5ebQQ",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学第十九届菊文化节菊花展区撤展工作圆满完成",
+      "url": "https://mp.weixin.qq.com/s/1ezhdMiPO6-LuNwgEf1CGA",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "讲学习 见行动——公寓办第二党支部集体学习十九届六中全会精神",
+      "url": "https://mp.weixin.qq.com/s/1lob_t4PyLJdXelcyi22LA",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部“一报告两评议”会、中层领导班子和干部述职测评会、落实全面从严治党主体责任专项调研会顺利召开",
+      "url": "https://mp.weixin.qq.com/s/2XGJtDHbnFlHducM6NhKiQ",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "习果树养护知识 长施肥剪枝技能 ——记“园艺点亮生活”公益劳动实践项目“学习园艺：果树修剪、施肥”",
+      "url": "https://mp.weixin.qq.com/s/ZdX8t3sPBPjskMdEp80xmg",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "一丝不苟 提升服务——园区全体宿管员应知应会考核工作顺利完成",
+      "url": "https://mp.weixin.qq.com/s/fIIwOtKK1jeGw2N2_btiZQ",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学生活垃圾压缩设备投入试运行",
+      "url": "https://mp.weixin.qq.com/s/nJlRJrJHRHYOWyH29f0_dw",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办第一党支部系列“中国精神”第七期微党课开讲",
+      "url": "https://mp.weixin.qq.com/s/zfZ0N2ZatxOmWD-nEQozTA",
+      "date": "2021-12-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】保卫处党支部集中学习党的十九届六中全会精神",
+      "url": "https://mp.weixin.qq.com/s/5ByxyVPBw0BiEQE6anvarg",
+      "date": "2021-12-08",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公益劳动实践招募|果树修剪、施肥、水仙雕刻、识花识果树、疏果……总有一款适合你！",
+      "url": "https://mp.weixin.qq.com/s/J6mGO8Bws6YcF4zX5oGHZg",
+      "date": "2021-12-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办和保卫处联合举办消防技能演习演练",
+      "url": "https://mp.weixin.qq.com/s/MsgVCy_hWU1PcGaXrxm9_Q",
+      "date": "2021-12-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【为群众办实事】热水进楼，南区涌暖流",
+      "url": "https://mp.weixin.qq.com/s/qW73V0a-rRQQC0wG4lysbw",
+      "date": "2021-12-07",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第三党支部开展主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/RYBEfugs5nu1bnBaBp8OCw",
+      "date": "2021-12-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第六党支部组织开展“学习十九届六中全会精神”主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/sqeBf5WrmIydvrhlh2q8zw",
+      "date": "2021-12-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第四党支部组织开展“学习十九届六中全会精神”主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/t1BaD1456Kdlw9A3G_Sc0w",
+      "date": "2021-12-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "奋进百年正青春 扬帆起航新时代——后勤保障部举办上海大学第十九届菊文化节直播活动",
+      "url": "https://mp.weixin.qq.com/s/GZmOdAT3Mg4rDK2utCnWDw",
+      "date": "2021-11-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】后勤保障部党委中心组专题学习党的十九届六中全会精神",
+      "url": "https://mp.weixin.qq.com/s/ViZgqk42VNgHXkKfj1ByLA",
+      "date": "2021-11-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "公寓办第一党支部系列“中国精神”第四、五期微党课开讲",
+      "url": "https://mp.weixin.qq.com/s/QbgrQ4lAgTSfu9jejrgJLg",
+      "date": "2021-11-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【我为群众办实事】总务办饮服中心嘉定校区食堂增设自习区助力考试周",
+      "url": "https://mp.weixin.qq.com/s/wA4Rq5wMTaFs06Wf8P03oQ",
+      "date": "2021-11-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "深耕菊展十几载 坚守匠心筑精品 ——上海大学菊文化节的幕后人",
+      "url": "https://mp.weixin.qq.com/s/XQP1KoKRy5-RCGeJIcmL3g",
+      "date": "2021-11-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "119全国消防日 | 小黑板，大能量，学生生活园区共绘安全画卷",
+      "url": "https://mp.weixin.qq.com/s/aG015gTbdMKedM7aUew5mg",
+      "date": "2021-11-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "“我为群众办实事” ——助力教科研、乐乎保安心",
+      "url": "https://mp.weixin.qq.com/s/EFmwTC7gzb6iWqsyJgmwhg",
+      "date": "2021-11-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "我为群众办实事 | 宝山校区11间学生爱心寝室崭新亮相",
+      "url": "https://mp.weixin.qq.com/s/HzaLH42xFCiEiHSX_j0jKQ",
+      "date": "2021-11-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】党建引领促发展，共享共建聚合力——总务办第四党支部和交大达通公司党支部、交大教服集团机关党支部开展支部共建活动",
+      "url": "https://mp.weixin.qq.com/s/nh5C_tNkCeC4XyqDpB2XzQ",
+      "date": "2021-11-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "嘉定区食品安全监督所来我校进行食堂食品安全评估",
+      "url": "https://mp.weixin.qq.com/s/rKHDpQPAw9qnxX8GJPTXqQ",
+      "date": "2021-11-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "美食与生活|享受劳动之美 体验收获之乐——饮服中心“美食与生活”公益劳动实践项目第二堂课",
+      "url": "https://mp.weixin.qq.com/s/2_GQ34g_5iggCCteWA2Cgw",
+      "date": "2021-11-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "积跬步至千里 积小流成江海——后勤保障部召开青年员工培训第六讲",
+      "url": "https://mp.weixin.qq.com/s/bRzUizbor6nSClPcgfQtZQ",
+      "date": "2021-11-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学后勤保障部月报（2021.9.28-10.31）",
+      "url": "https://mp.weixin.qq.com/s/HEWMO0dbH1_vBgQKkKYy7w",
+      "date": "2021-11-01",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "劳动点“靓”新“室”界，新生寝室美化大赛来啦~",
+      "url": "https://mp.weixin.qq.com/s/VCa-WRptagAVOaIg4pK7Mw",
+      "date": "2021-11-01",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "打造明星服务窗口，树立食堂服务标杆——饮服中心开展2021—2022学年星级服务明星授牌仪式暨窗口服务培训会",
+      "url": "https://mp.weixin.qq.com/s/9-q6In54L4pjuGgC8ybf8g",
+      "date": "2021-10-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "久久溯源 百年传承 | 红色图书走进学生社区",
+      "url": "https://mp.weixin.qq.com/s/CCPQ1878fd6x-LBO9xxP9w",
+      "date": "2021-10-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学菊文化节|火热筹备，让上大秋日暖洋洋",
+      "url": "https://mp.weixin.qq.com/s/x_5d4gxFb6eknT4J5DGndg",
+      "date": "2021-10-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "品生活之美 享劳动之乐 学一技之长 ——记“美食与生活”公益劳动实践项目第一堂课",
+      "url": "https://mp.weixin.qq.com/s/zufpGZKzkKXlsilA1-0rhQ",
+      "date": "2021-10-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学宝山校区顺利通过“上海市节水型学校（校区）”复评验收",
+      "url": "https://mp.weixin.qq.com/s/GhkurL-FYncEwHg1jStPfA",
+      "date": "2021-10-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部基建办党支部与钱伟长学院师生党支部举行专题联组学习会",
+      "url": "https://mp.weixin.qq.com/s/MX5MHz9OEpf-g7BRvOncIQ",
+      "date": "2021-10-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学2021年中小修项目竣工综合验收会召开",
+      "url": "https://mp.weixin.qq.com/s/Q8c07Tnfmpiz7x1kZDpy8Q",
+      "date": "2021-10-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】公寓办第一党支部召开专题学习会暨系列“中国精神”第二期微党课开讲",
+      "url": "https://mp.weixin.qq.com/s/gwsJ09dTGIu4-JB4dX6Rgg",
+      "date": "2021-10-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第五党支部开展主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/rVaIE3A833yJ6c-Q3PQkjQ",
+      "date": "2021-10-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "综合办党支部和总务办第三党支部组织观看抗疫主题电影《中国医生》",
+      "url": "https://mp.weixin.qq.com/s/4pu12hK1sqBhGWDNOSK_Og",
+      "date": "2021-07-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "百年征程 百年奋斗|上海大学后勤保障部各党支部共同收听收看庆祝中国共产党成立100周年大会",
+      "url": "https://mp.weixin.qq.com/s/1dHXizaX7jTVsDDzgE4ZKw",
+      "date": "2021-07-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】后勤保障部党委中心组学习暨领导干部党史学习教育专题研讨第五场",
+      "url": "https://mp.weixin.qq.com/s/xdJKL9tcfMBwyYjjbnzI1w",
+      "date": "2021-07-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "光荣在党50年|向后勤保障部老党员们致敬！",
+      "url": "https://mp.weixin.qq.com/s/jfZaKIkELaNnlwJpOkYwzQ",
+      "date": "2021-06-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "饮水思源为师生 优质服务守初心——总务办饮服中心宝山食堂开展2021年骨干素质拓展活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/1510.htm",
+      "date": "2021-06-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "以上大美食为纽带 促校际文化大交流 ——记上海大学参加“我为同济毕业生做一餐”活动",
+      "url": "https://mp.weixin.qq.com/s/HX5IB5YvmEv28_oRWQuGXQ",
+      "date": "2021-06-29",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "园区讲堂|“做最好的自己”职场礼仪常识与常用技巧员工培训顺利举办",
+      "url": "https://mp.weixin.qq.com/s/CrSb8ey3AZWHZtHjTY7jyw",
+      "date": "2021-06-28",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "陕西师范大学到我校后勤保障部调研交流",
+      "url": "https://mp.weixin.qq.com/s/RK4qWl3wtSFgUICTu84FTw",
+      "date": "2021-06-28",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第一党支部组织观看“庆祝建党百年高校示范微党课”活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/1506.htm",
+      "date": "2021-06-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第六党支部开展献血志愿服务活动",
+      "url": "https://mp.weixin.qq.com/s/CffXjCaFQLp9nugjSjjBow",
+      "date": "2021-06-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "把握时代要求 履行责任担当——后勤保障部召开青年员工培训第四、第五讲",
+      "url": "https://mp.weixin.qq.com/s/3lZariyWV5wptHpMWdmJsQ",
+      "date": "2021-06-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "忆建党初心 悟百年辉煌——后勤保障部党委组织迎建党百年专题活动",
+      "url": "https://mp.weixin.qq.com/s/6G1URzLHiXrzef-3P17pQQ",
+      "date": "2021-06-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "筑牢思想防线 展现担当作为——后勤保障部召开青年员工培训第三讲",
+      "url": "https://mp.weixin.qq.com/s/I0tcs6MoODh5r2VXIC0pJA",
+      "date": "2021-06-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部成功举办上海大学第四届“工匠杯”技术技能竞赛（后勤保障部赛区）",
+      "url": "https://mp.weixin.qq.com/s/dMDTTKn3aSoKBJS9aOCIHA",
+      "date": "2021-06-16",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "邀您当上海大学第四届“工匠杯”技术技能竞赛评委啦！精美小礼品送不停~",
+      "url": "https://mp.weixin.qq.com/s/039e36NjcX055GrtZE5DsQ",
+      "date": "2021-06-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "同心接力绣党旗，学习《条例》强党性——公寓办第二党支部开展主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/ASN3J50iPuZ7VZhPYo0kNw",
+      "date": "2021-06-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "“长三角区域高校酒店合作与发展论坛”第二届餐饮交流展示会圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/O9aEGu1saxXxS_ANzqkENw",
+      "date": "2021-06-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】后勤保障部党委组织参观浦东开发开放30周年主题展",
+      "url": "https://mp.weixin.qq.com/s/cXc15TKOnEKB1mYAUbeYqQ",
+      "date": "2021-06-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办物业中心宝山校区开展防汛防台预案演练",
+      "url": "https://mp.weixin.qq.com/s/klTkGtGTglN3pWPY9JdsAQ",
+      "date": "2021-06-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "志高存远 奋力前行——后勤保障部召开青年员工培训第二讲",
+      "url": "https://mp.weixin.qq.com/s/lwRWB1qOqKNCY7OHKH8Z1Q",
+      "date": "2021-06-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】总务办第二党支部开展“追忆党史校史 重温入党誓词”主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/cObtRWhTme1sivmxqd1Zww",
+      "date": "2021-04-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】综合办党支部和总务办第三党支部联合召开党史学习教育动员会",
+      "url": "https://mp.weixin.qq.com/s/1qyvQFNHzeQ4pFyAFtOJ6A",
+      "date": "2021-04-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "【党史学习】学党史 温初心 践行动——后勤保障部总务办第六党支部与教务部工训中心党支部开展联组学习",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247489026&idx=2&sn=de863b2abf30f2bae1c2677610f74ad3&chksm=ea2e7ea6dd59f7b08af2f764e7af8199a05e70ce03694da319d01bae0e523226403002c5ff5e&token=54528878&lang=zh_CN#rd",
+      "date": "2021-04-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "铭记英烈 矢志传承——后勤保障部各党支部组织开展“清明祭英烈”活动",
+      "url": "https://mp.weixin.qq.com/s/6mJaY_IaG5tzZ9Lf157M4g",
+      "date": "2021-04-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "“学党史 守初心 办实事” ——打卡生活园区实事“5+N”，我们在行动！",
+      "url": "https://mp.weixin.qq.com/s/njW2cNKiQXrk7MzlJmfB9g",
+      "date": "2021-04-06",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "不忘来时路 方知向何行——后勤保障部召开党史学习教育动员会暨部党委理论中心组学习会",
+      "url": "https://mp.weixin.qq.com/s/T9EVfsSrb4hL99ij7lA01g",
+      "date": "2021-04-02",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "见贤思齐 楷模引领——后勤保障部开展党员教育活动",
+      "url": "https://mp.weixin.qq.com/s/KyyDwskicbcvydFEmss3JA",
+      "date": "2021-03-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "春暖花开 漫步赏景——嘉定饮服中心组织户外踏青活动",
+      "url": "https://mp.weixin.qq.com/s/lW7xXAbyX14AhKy-puWNtg",
+      "date": "2021-03-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "不负春光|上大后勤喊你吃青团喽~",
+      "url": "https://mp.weixin.qq.com/s/w27VlwqA0ub2tkw54G0CpA",
+      "date": "2021-03-24",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "植树节|三月春风，“十”年用心聚成林",
+      "url": "https://mp.weixin.qq.com/s/3UzgJtkF7E2GICfOV4bFXg",
+      "date": "2021-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "青春有你！植树节，“寓”我们一起为绿色家园“撑腰”！",
+      "url": "https://mp.weixin.qq.com/s/Bl77hGoSJddVrSKWU1EA0A",
+      "date": "2021-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "党建引领 春满大地 ——后勤保障部总务办第六党支部开展植树节主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/FtamOsHV5bjXKndbMHpyGQ",
+      "date": "2021-03-15",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "练兵比武强技能 比学赶超优服务——总务办饮服中心嘉定校区开展岗位技术练兵活动",
+      "url": "https://mp.weixin.qq.com/s/676WduArVYpO8tV-U5BhoQ",
+      "date": "2021-03-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "实心干事 用心防疫 ——记后勤保障部总务办第二党支部2020年工作",
+      "url": "https://mp.weixin.qq.com/s/ZisrXMjD9CJmmADOBmo-wg",
+      "date": "2021-03-11",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "万象更新谋开局 追赶超越正当时——总务办饮服中心宝山校区召开2021年工作布置和经理工作会议",
+      "url": "https://mp.weixin.qq.com/s/MGc2rQIILXQWH5A2QNGOFA",
+      "date": "2021-03-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "女神节快乐|祝你幸福快乐不止于今日",
+      "url": "https://mp.weixin.qq.com/s/gozxCJs8xyVALHUn0YVgBA",
+      "date": "2021-03-09",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "只为成功想办法，不为困难找理由——后勤保障部召开2021年度工作推进动员大会",
+      "url": "https://hbb.shu.edu.cn/info/1081/1357.htm",
+      "date": "2021-03-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部总务办第六党支部开展“学雷锋”主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/7nv8klSNPIO3rFbej9qn_Q",
+      "date": "2021-03-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "比学赶超 开拓新局——公寓办第一、第二党支部联合开展主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/YNH-Hj_R5nhwPrP_xa0OUQ",
+      "date": "2021-03-04",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "未雨绸缪，只为等你归来|嘉定校区物业中心扎实做好开学前准备工作",
+      "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
+      "date": "2021-03-01",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "嘉定饮服邀请校工会开展会员权益专题讲座",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488258&idx=1&sn=23bfa4d3e900455472a1e12500b83b55&chksm=ea2e7ba6dd59f2b0d07b9c4fd9602c76dd7b46fcace477a72f99abe386ae6b6a12c4b3fe25c8&token=1910296841&lang=zh_CN#rd",
+      "date": "2020-12-25",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "延长服务时间、助力温暖阅读——生乐物业配合钱伟长图书馆延时开放",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488250&idx=1&sn=af95b7ef67ffa2641fdeaf2f03fa66fc&chksm=ea2e7a5edd59f348c66992ce5a4505240815fff9cd68c1874311e0f044b66bfa434332c9ee7c&token=1134157857&lang=zh_CN#rd",
+      "date": "2020-12-21",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办第六党支部开展主题党日活动",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488254&idx=1&sn=a7f3073e271870d71a3a5023900e2ea5&chksm=ea2e7a5add59f34c302ba48a84b5d8f6b355b3bdcb98be56989c375f1f03e6c26b905f934424&token=1134157857&lang=zh_CN#rd",
+      "date": "2020-12-21",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "保卫处党支部开展处级干部讲党课活动",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488236&idx=1&sn=51471f5de1c7fd761ba728a5312aa585&chksm=ea2e7a48dd59f35e5ecef1ae467164e36c07b7feeabf57b404916eaff4702f1f17b7390b5f7e&token=427713015&lang=zh_CN#rd",
+      "date": "2020-12-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办第六党支部开展无偿献血志愿保障活动",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488236&idx=2&sn=05a505af45049d043700bba954a0148e&chksm=ea2e7a48dd59f35e26c265f6b4cf2b9cd6c6a677412ba6673f9932410ed9a7d15ad69830a366&token=427713015&lang=zh_CN#rd",
+      "date": "2020-12-14",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "天冷了|四张图，“保护”你的校园生活",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488133&idx=1&sn=2386e2f6645dbd0cbf48169e743dfd29&chksm=ea2e7a21dd59f3374c7cb578b40bbdd59a5606191f5528a64384b73a5b77b3c312ac546c54f4&token=1182073790&lang=zh_CN#rd",
+      "date": "2020-11-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部分工会一日游活动顺利开展",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488133&idx=2&sn=d7889822fae63b999bc17010afce7511&chksm=ea2e7a21dd59f337b60f77c26f642d59775aa7eee98bce8c20c30f2ed75bd189afc9a2ff09eb&token=1182073790&lang=zh_CN#rd",
+      "date": "2020-11-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "扬州大学后勤保障处物业服务中心来我校交流菊文化节工作经验 扬州大学后勤保障处物业服务中心来我校交流菊文化节工作经验",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488133&idx=3&sn=18f459118cc60a6afb85a6869123f15f&chksm=ea2e7a21dd59f337c6195234731fa69fd48f23846c450570f257de070cfb78d47b35c17be314&token=1182073790&lang=zh_CN#rd",
+      "date": "2020-11-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "党员先行，助力进博 —— 公寓办第二党支部组织学习习近平主席在第三届进博会开幕式上的主旨演讲",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488133&idx=4&sn=3bf8fa08f910136e8cf322c77bd3a2e8&chksm=ea2e7a21dd59f337be4450bffac2e57fa8a264964464a74201be2ae6a091f811d5e936447572&token=1182073790&lang=zh_CN#rd",
+      "date": "2020-11-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "总务办举办生乐物业入驻东区年度考核",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488148&idx=1&sn=b6719f6ac15bf3930b6da0c4df12c3d9&chksm=ea2e7a30dd59f326b5bcb5b7b770d80d8e0cfbae3a34345524e7841d0beb4bbeec13631f4141&token=1182073790&lang=zh_CN#rd",
+      "date": "2020-11-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "拉近彼此、从“心”出发 —— 嘉定校区楼管会顺利开展“四史”学习教育暨素质拓展活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/1154.htm",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学全员保研的兵哥哥寝室，快来一探他们的秘密......",
+      "url": "https://hbb.shu.edu.cn/info/1081/1155.htm",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "生活中心组织消防安全演练及相关知识培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/1156.htm",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "生乐物业配合做好2020上海大学校运动会保洁工作",
+      "url": "https://hbb.shu.edu.cn/info/1081/1157.htm",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "西北农林科技大学后勤管理处来我校调研",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488004&idx=2&sn=88eb4a1e6b33fd35fb30945add2d890e&chksm=ea2e7aa0dd59f3b6ad2befe91dc5b0ffd9ef289a47a49221ac2348dcf31babb7eb31681d11c7&token=300539822&lang=zh_CN#rd",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "饮服中心召开联办食堂社会餐饮企业法人工作会议",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488004&idx=3&sn=7a937088e48d0c3dd2da36d6c20603e2&chksm=ea2e7aa0dd59f3b6c7b7793d8ea754f3f9213b648cc4717dd588fcc47c16295f67787f0bcd7d&token=300539822&lang=zh_CN#rd",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学后勤保障部分工会开展工会干部实务研讨培训及“进博”知识竞赛",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488056&idx=1&sn=a2fb9f37afa0be53c11f2a0c2fea2623&chksm=ea2e7a9cdd59f38a14981cceaf6c20a0f55989abb43bb362d8b510ad251781b9bb43c0f932a2&token=300539822&lang=zh_CN#rd",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "诸“试”顺利——发现考试周里宝山食堂的各项暖心举措",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488056&idx=3&sn=e5cae077193a3e6398ea4cdb25187df3&chksm=ea2e7a9cdd59f38abe37bb54f13e03b1c128f1527d86c40724a66f6e790c2ade27fdc1a4d304&token=300539822&lang=zh_CN#rd",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "饮服中心宝山食堂组织开展消防安全演练及相关知识培训",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488113&idx=1&sn=eba6b5425440bf89bfb8fe64daff4044&chksm=ea2e7ad5dd59f3c3ad7ebf400232153f50afdfdb13c94cb736c4a3f8a453052e9fb2a29c4934&token=300539822&lang=zh_CN#rd",
+      "date": "2020-11-23",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部举办2020年纪检干部培训班",
+      "url": "https://hbb.shu.edu.cn/info/1081/1121.htm",
+      "date": "2020-10-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委中心组学习聚焦全面从严治党",
+      "url": "https://hbb.shu.edu.cn/info/1081/1092.htm",
+      "date": "2020-10-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部饮服中心开展“端牢中国饭碗，共筑全球粮安”主题活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/1087.htm",
+      "date": "2020-10-26",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "关于号召后勤保障系统党员干部在制止餐饮浪费行为中发挥示范带头作用的倡议书",
+      "url": "https://hbb.shu.edu.cn/info/1081/1101.htm",
+      "date": "2020-10-26",
+      "column": "后勤新闻"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "mba.shu.edu.cn": {
+    "type": "29",
+    "department": "上海大学MBA教育管理中心",
+    "pages": {
+      "cslm/jdxw.htm": {
+        "pages": 60,
+        "column": "焦点新闻"
+      },
+      "cslm/tzgg.htm": {
+        "pages": 25,
+        "column": "通知公告"
+      },
+      "cslm/lthd.htm": {
+        "pages": 50,
+        "column": "论坛活动"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "fw.shu.edu.cn": {
+    "type": "22",
+    "department": "上海大学妇女工作委员会",
+    "pages": {
+      "sylmzl/fwxx.htm": {
+        "pages": 73,
+        "column": "新闻动态"
+      },
+      "sylmzl/tzgg.htm": {
+        "pages": 2,
+        "column": "通知公告"
+      }
+    }
+  },
+  "shpower.shu.edu.cn": {
+    "type": "22",
+    "department": "上海大学上海市电站自动化技术重点实验室",
+    "pages": {
+      "sy/zhxw.htm": {
+        "pages": 2,
+        "column": "综合新闻"
+      },
+      "sy/tzgg.htm": {
+        "pages": 2,
+        "column": "通知公告"
+      },
+      "sy/kydt.htm": {
+        "pages": 1,
+        "column": "科研动态"
+      },
+      "sy/xshd.htm": {
+        "pages": 1,
+        "column": "学术活动"
+      }
+    }
+  }
+}

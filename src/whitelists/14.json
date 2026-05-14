@@ -1,0 +1,32 @@
+{
+  "cla.shu.edu.cn": {
+    "type": "14",
+    "department": "上海大学文学院",
+    "pages": {
+      "/tg/zhxw.htm": {
+        "pages": 52,
+        "column": "综合新闻"
+      },
+      "/tg/xsbg.htm": {
+        "pages": 36,
+        "column": "学术报告"
+      },
+      "/tg/tzgg.htm": {
+        "pages": 42,
+        "column": "通知公告"
+      },
+      "/tg/xyzz.htm": {
+        "pages": 30,
+        "column": "学院周志"
+      },
+      "/tg/kydt.htm": {
+        "pages": 48,
+        "column": "科研动态"
+      },
+      "/tg/xshd.htm": {
+        "pages": 15,
+        "column": "学生动态"
+      }
+    }
+  }
+}

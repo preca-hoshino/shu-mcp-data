@@ -1,0 +1,37 @@
+{
+  "cce.shu.edu.cn": {
+    "pages": {
+      "/symk/tzgg.htm": {
+        "name": "通知公告",
+        "pages": 117
+      },
+      "/symk/xyxw.htm": {
+        "name": "学院新闻",
+        "pages": 53
+      },
+      "/symk/zsrx.htm": {
+        "name": "招生热讯",
+        "pages": 8
+      }
+    },
+    "type": "09",
+    "department": "上海大学继续教育学院"
+  },
+  "sustp.shu.edu.cn": {
+    "pages": {
+      "/xwzx.htm": {
+        "name": "新闻资讯"
+      },
+      "/syxlmzl/tz.htm": {
+        "name": "通知",
+        "pages": 1
+      },
+      "/syxlmzl/gg.htm": {
+        "name": "公告",
+        "pages": 1
+      }
+    },
+    "type": "09",
+    "department": "上海大学科技园区"
+  }
+}

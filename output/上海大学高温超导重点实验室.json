@@ -1,0 +1,253 @@
+{
+  "domain": "asc.shu.edu.cn",
+  "department": "上海大学高温超导重点实验室",
+  "type": "04",
+  "crawl_time": "20260513_175610",
+  "total_articles": 40,
+  "columns": {
+    "综合新闻": 20,
+    "业界动态": 20
+  },
+  "articles": [
+    {
+      "title": "上海市高温超导重点实验室成立十周年研讨会圆满成功",
+      "url": "https://asc.shu.edu.cn/info/1012/1984.htm",
+      "date": "2024-07-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市高温超导重点实验室第二届学术委员会第五次会议成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1874.htm",
+      "date": "2024-03-31",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第十一届亚洲应用超导及低温会议暨第三届亚洲国际低温材料会议成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1774.htm",
+      "date": "2023-11-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "亚洲应用超导和低温会议/亚洲国际低温材料会议联席会议（ACASC-Asian ICMC 2023）会议通知",
+      "url": "https://asc.shu.edu.cn/info/1012/1764.htm",
+      "date": "2023-09-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "赵忠贤：超导——一个充满挑战与发现的领域",
+      "url": "https://asc.shu.edu.cn/info/1014/1663.htm",
+      "date": "2023-07-01",
+      "column": "业界动态"
+    },
+    {
+      "title": "中国首套高温超导电动悬浮全要素试验系统完成首次悬浮运行 未来时速可达600公里",
+      "url": "https://asc.shu.edu.cn/info/1014/1673.htm",
+      "date": "2023-04-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "“室温超导”再发Nature,新突破引争议",
+      "url": "https://asc.shu.edu.cn/info/1014/1683.htm",
+      "date": "2023-03-13",
+      "column": "业界动态"
+    },
+    {
+      "title": "上海市高温超导重点实验室第二届学术委员会第四次会议成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1323.htm",
+      "date": "2022-11-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "世界首条35千伏公里级超导电缆在沪投运",
+      "url": "https://asc.shu.edu.cn/info/1014/1653.htm",
+      "date": "2021-12-23",
+      "column": "业界动态"
+    },
+    {
+      "title": "上海市高温超导重点实验室第二届学术委员会  第三次会议成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1313.htm",
+      "date": "2021-11-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第十二届超导块材与应用国际研讨会成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1543.htm",
+      "date": "2021-11-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市高温超导重点实验室第二届学术委员会第二次会议成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1303.htm",
+      "date": "2020-11-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市高温超导重点实验室学术委员会第四次会议 暨新一届学术委员会委员聘任仪式",
+      "url": "https://asc.shu.edu.cn/info/1012/1181.htm",
+      "date": "2019-12-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学研究生院“泮池讲坛”——中国磁约束聚变的现状及发展",
+      "url": "https://asc.shu.edu.cn/info/1012/1179.htm",
+      "date": "2019-10-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市高温超导重点实验室第三次学术委员会成功举办",
+      "url": "https://asc.shu.edu.cn/info/1012/1177.htm",
+      "date": "2018-05-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "超导材料进展",
+      "url": "https://asc.shu.edu.cn/info/1014/1061.htm",
+      "date": "2018-01-20",
+      "column": "业界动态"
+    },
+    {
+      "title": "EUCAS 2017",
+      "url": "https://asc.shu.edu.cn/info/1012/1182.htm",
+      "date": "2017-08-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "超导简讯",
+      "url": "https://asc.shu.edu.cn/info/1014/1058.htm",
+      "date": "2017-08-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "第十四届全国超导学术研讨会",
+      "url": "https://asc.shu.edu.cn/info/1012/1180.htm",
+      "date": "2017-08-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "室温超导新突破：碳基超导体的临界温度更高了！",
+      "url": "https://asc.shu.edu.cn/info/1014/1053.htm",
+      "date": "2017-08-02",
+      "column": "业界动态"
+    },
+    {
+      "title": "领先全球的装备在南方电网诞生！",
+      "url": "https://asc.shu.edu.cn/info/1014/1057.htm",
+      "date": "2017-08-02",
+      "column": "业界动态"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://asc.shu.edu.cn/info/1012/1175.htm",
+      "date": "2017-06-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://asc.shu.edu.cn/info/1012/1174.htm",
+      "date": "2016-12-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第十三届全国超导学术研讨会",
+      "url": "https://asc.shu.edu.cn/info/1012/1171.htm",
+      "date": "2016-01-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "International Conference on Applied Superconductivity and Electromagnetic Devices (ASEMD2015) will be held from 20 to 23 November 2015 in Shanghai. AS",
+      "url": "https://asc.shu.edu.cn/info/1012/1172.htm",
+      "date": "2016-01-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "亚洲应用超导会议(ACASC2015)",
+      "url": "https://asc.shu.edu.cn/info/1012/1173.htm",
+      "date": "2016-01-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "IEEE 2015 International Conference on   Applied Superconductivity and Electromagnetic Devices",
+      "url": "https://asc.shu.edu.cn/info/1012/1176.htm",
+      "date": "2016-01-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "高温超导涂层导体中的力学问题",
+      "url": "https://asc.shu.edu.cn/info/1012/1178.htm",
+      "date": "2016-01-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "美国超导公司将帮助芝加哥建立一套智能且具弹性的电网系统",
+      "url": "https://asc.shu.edu.cn/info/1014/1034.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "韩国首条高压直流超导电缆在济州岛投用",
+      "url": "https://asc.shu.edu.cn/info/1014/1039.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "铁基高温超导研究获自然科学一等奖",
+      "url": "https://asc.shu.edu.cn/info/1014/1040.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "中科院非常规超导研究获得新突破",
+      "url": "https://asc.shu.edu.cn/info/1014/1044.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://asc.shu.edu.cn/info/1014/1049.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "超导电缆应用：剩下50%在观念",
+      "url": "https://asc.shu.edu.cn/info/1014/1051.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "全世界最长的超导电缆投入使用",
+      "url": "https://asc.shu.edu.cn/info/1014/1088.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "世界最长超导电缆运行180天 输电2千万KWh",
+      "url": "https://asc.shu.edu.cn/info/1014/1090.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "我国研制超级磁悬浮列车",
+      "url": "https://asc.shu.edu.cn/info/1014/1093.htm",
+      "date": "2016-01-06",
+      "column": "业界动态"
+    },
+    {
+      "title": "教育部和上海市领导调研超导实验室",
+      "url": "https://asc.shu.edu.cn/info/1014/1032.htm",
+      "date": "2015-04-09",
+      "column": "业界动态"
+    },
+    {
+      "title": "上海市市长杨雄一行到上海大学科技产业化企业调研",
+      "url": "https://asc.shu.edu.cn/info/1014/1025.htm",
+      "date": "2014-02-24",
+      "column": "业界动态"
+    },
+    {
+      "title": "中科院物理所铁基超导体中反铁磁序与超导共存和竞争问题研究进展",
+      "url": "https://asc.shu.edu.cn/info/1014/1022.htm",
+      "date": "2012-06-28",
+      "column": "业界动态"
+    }
+  ]
+}

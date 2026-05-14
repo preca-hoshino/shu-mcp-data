@@ -1,0 +1,781 @@
+{
+  "domain": "tiyu.shu.edu.cn",
+  "department": "上海大学体育学院",
+  "type": "06",
+  "crawl_time": "20260513_175610",
+  "total_articles": 128,
+  "columns": {
+    "通知公告": 40,
+    "头条新闻": 88
+  },
+  "articles": [
+    {
+      "title": "2025年度上海大学百名优秀团员公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7794.htm",
+      "date": "2026-04-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院开展内控专项监督检查与工作研讨",
+      "url": "https://tiyu.shu.edu.cn/info/1072/7784.htm",
+      "date": "2026-04-10",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2026届研究生优秀毕业生名单公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7734.htm",
+      "date": "2026-03-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "共话合作共促国际化发展:巴林大学健康与运动科学学院院长Leena Mohammad博士一行来访上 海大学体育学院",
+      "url": "https://tiyu.shu.edu.cn/info/1072/7714.htm",
+      "date": "2026-01-23",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2024-2025学年上海大学体育学院优秀学生、优秀学生干部名单公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7604.htm",
+      "date": "2025-12-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学体育学院研究生学业奖学金评审结果公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7544.htm",
+      "date": "2025-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学体育学院硕士研究生国家奖学金评审结果公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7554.htm",
+      "date": "2025-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "突出特色优势，“泳”当改革先锋——体育学院组织开展教师游泳基础项目教学培训",
+      "url": "https://tiyu.shu.edu.cn/info/1072/7494.htm",
+      "date": "2025-09-30",
+      "column": "头条新闻"
+    },
+    {
+      "title": "喜报：体育学院16名研究生在第十四届全国体育科学大会论文评审中获得佳绩",
+      "url": "https://tiyu.shu.edu.cn/info/1072/7434.htm",
+      "date": "2025-09-01",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上海大学游泳馆临时闭馆通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7414.htm",
+      "date": "2025-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学体育学院诚聘游泳救生员",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7404.htm",
+      "date": "2025-06-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院2025年度就业“攀登奖”评选结果公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7384.htm",
+      "date": "2025-05-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院2025年毕业研究生成绩综合排名公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7354.htm",
+      "date": "2025-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院党委关于校第四届党委第一轮巡察集中整改进展情况的通报",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7304.htm",
+      "date": "2025-05-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院群团组织向学院党委做年度工作述职",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5314.htm",
+      "date": "2024-12-25",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院召开2024年度专业技术职务教师学术交流会暨学科建设高质量发展研讨会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5304.htm",
+      "date": "2024-12-24",
+      "column": "头条新闻"
+    },
+    {
+      "title": "校党委第三巡察组向体育学院党委反馈巡察情况",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5274.htm",
+      "date": "2024-12-12",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公告】巡察公告",
+      "url": "https://tiyu.shu.edu.cn/info/1073/5234.htm",
+      "date": "2024-10-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校教师在第三届全国高校体育教师教学与训练技能展示大赛中取得优异成绩",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5214.htm",
+      "date": "2024-10-15",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院开展内控专项监督检查与工作研讨",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5224.htm",
+      "date": "2024-10-15",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院集体学习习近平同志《论教育》一书",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5204.htm",
+      "date": "2024-10-12",
+      "column": "头条新闻"
+    },
+    {
+      "title": "弘扬体育精神，致敬伟大人生 ——我院联合承办“自强不息——钱伟长的体育人生”主题展览",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5184.htm",
+      "date": "2024-10-10",
+      "column": "头条新闻"
+    },
+    {
+      "title": "安全责任大于天 ——体育设施管理中心开展系列安全建设工作",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5164.htm",
+      "date": "2024-10-02",
+      "column": "头条新闻"
+    },
+    {
+      "title": "我院获批学校院级课程思政教学研究中心和学校课程思政名师工作室",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5174.htm",
+      "date": "2024-10-02",
+      "column": "头条新闻"
+    },
+    {
+      "title": "越南胡志明体育师范大学周永辉校长一行访问上海大学",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5154.htm",
+      "date": "2024-09-30",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公告】2024年体育学院研究生国家奖学金评审办法",
+      "url": "https://tiyu.shu.edu.cn/info/1073/5104.htm",
+      "date": "2024-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "【公告】2024年体育学院研究生学业奖学金评审办法",
+      "url": "https://tiyu.shu.edu.cn/info/1073/5114.htm",
+      "date": "2024-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜讯 | 我院青年教师郑莉芳博士获批2024年度国家自然科学基金青年项目",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5064.htm",
+      "date": "2024-08-26",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公示】2024级研究生-导师双选情况公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/5074.htm",
+      "date": "2024-08-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜报：上海大学高水平田径队在第22届全国大学生田径锦标赛斩获佳绩",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5044.htm",
+      "date": "2024-07-24",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公示】2024年上海大学体育学院暑期优秀本科生夏令营 入营名单公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/5024.htm",
+      "date": "2024-07-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院召开党政联席会议 第一时间传达学习学校第四次党代会精神",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5034.htm",
+      "date": "2024-07-06",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上海大学高水平运动队高质量发展研讨会举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/5004.htm",
+      "date": "2024-06-03",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2024 ITF M25金安国际网球公开赛圆满落幕 上海大学高水平网球运动员孙发京包揽两项冠军",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4984.htm",
+      "date": "2024-05-21",
+      "column": "头条新闻"
+    },
+    {
+      "title": "我院与上海红双喜（集团）有限公司商洽校企合作",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4954.htm",
+      "date": "2024-04-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【通知】关于承办大型活动期间宝山校区部分体育场馆暂停开放、体育课程教学场所调整的通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/4944.htm",
+      "date": "2024-04-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "中国矿业大学、广东财经大学相关部门来体育学院交流访问",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4934.htm",
+      "date": "2024-04-04",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院召开第五届教职工大会暨工会会员大会第一次会议",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4924.htm",
+      "date": "2024-04-02",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上海大学获得上海市“第一届全国学生（青年）运动会” 优秀组织奖",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4884.htm",
+      "date": "2024-04-01",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院召开2024年党的建设和 全面从严治党工作会议",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4894.htm",
+      "date": "2024-04-01",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院举办学科前沿讲座“人工智能赋能人体运动：现状与前景”",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4904.htm",
+      "date": "2024-04-01",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2024年上海大学体育学院统招研究生复试名单",
+      "url": "https://tiyu.shu.edu.cn/info/1073/4864.htm",
+      "date": "2024-03-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】体育学院2024年硕士研究生复试安排",
+      "url": "https://tiyu.shu.edu.cn/info/1073/4814.htm",
+      "date": "2024-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学体育学院2024年硕士研究生招生复试工作细则",
+      "url": "https://tiyu.shu.edu.cn/info/1073/4824.htm",
+      "date": "2024-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院圆满完成2024届毕业研究生预答辩工作",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4804.htm",
+      "date": "2024-03-20",
+      "column": "头条新闻"
+    },
+    {
+      "title": "喜报！  体育学院荣获“第31届世界大学生夏季运动会先进集体”称号",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4784.htm",
+      "date": "2024-03-11",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院青年教师李静静博士后获2023年度国家体育总局科技创新项目立项",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4774.htm",
+      "date": "2024-02-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "校领导一行赴体育学院调研指导工作",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4724.htm",
+      "date": "2024-01-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院8篇论文入选世界中医药学会联合会主办的论文报告会并获优秀组织奖",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4704.htm",
+      "date": "2023-12-18",
+      "column": "头条新闻"
+    },
+    {
+      "title": "关爱生命 守护健康——体育学院组织师生开展急救技能培训",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4694.htm",
+      "date": "2023-12-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院8篇论文入选2023年长三角体育学研究生学术创新论坛",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4684.htm",
+      "date": "2023-11-23",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院25名师生赴天津参加第十三届全国体育科学大会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4624.htm",
+      "date": "2023-11-06",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院举办重阳节敬老活动",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4104.htm",
+      "date": "2023-10-24",
+      "column": "头条新闻"
+    },
+    {
+      "title": "逐鹿沙排，问鼎冠军——我校男排勇夺2023年上海大学生沙滩排球锦标赛（高水平组）第一名",
+      "url": "https://tiyu.shu.edu.cn/info/1072/4094.htm",
+      "date": "2023-10-21",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公示】上海大学体育学院体育硕士专业学位研究生国家奖学金评审结果公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3994.htm",
+      "date": "2023-10-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "【公示】上海大学体育学院硕士研究生学业奖学金评审结果公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/4004.htm",
+      "date": "2023-10-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】关于上海大学体育学院学术委员会人员换届",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3974.htm",
+      "date": "2023-10-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】上海大学体育学院2023级研究生招生生源分析",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3984.htm",
+      "date": "2023-10-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】上海大学各校区国庆假期体育场馆开放安排",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3964.htm",
+      "date": "2023-09-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院本科审核评估动员大会召开",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3934.htm",
+      "date": "2023-09-13",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院退休教师荣休会暨教师节交流座谈会顺利举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3944.htm",
+      "date": "2023-09-13",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院党委举行学习贯彻习近平新时代中国特色社会主义思想主题教育专题民主生活会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3824.htm",
+      "date": "2023-09-07",
+      "column": "头条新闻"
+    },
+    {
+      "title": "喜讯！体育学院24篇论文入选第十三届全国体育科学大会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3814.htm",
+      "date": "2023-09-04",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【通知】关于开展第二届上海大学“体育达人”评选的通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3804.htm",
+      "date": "2023-08-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "【公示】2023优秀本科生夏令营名单公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3793.htm",
+      "date": "2023-07-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】体育学院讲座通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3783.htm",
+      "date": "2023-07-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2023年毕业研究生成绩排名",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3763.htm",
+      "date": "2023-06-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "2023年上海大学体育学院聘期考核方案",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3743.htm",
+      "date": "2023-06-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "2023年上海大学体育学院年度考核实施方案",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3753.htm",
+      "date": "2023-06-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院毕业研究生成绩综合排名办法",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3723.htm",
+      "date": "2023-06-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "【公告】2023年上海大学体育学院优秀本科生暑期夏令营招生选拔活动公告",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3713.htm",
+      "date": "2023-06-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "多方联动奋战120天，顺利完成2500名毕业生泳测工作",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3703.htm",
+      "date": "2023-06-20",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院领导班子赴华东理工大学调研",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3693.htm",
+      "date": "2023-06-08",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院党委开展师德师风专题教育",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3673.htm",
+      "date": "2023-05-27",
+      "column": "头条新闻"
+    },
+    {
+      "title": "学院党委书记吴国琴为学院党员干部讲专题党课",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3653.htm",
+      "date": "2023-05-22",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公示】体育学院2023年王宽诚育才奖、宝钢奖等奖项评选的公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3663.htm",
+      "date": "2023-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】关于印发《体育学院新一轮科级干部选拔聘任方案》的通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3633.htm",
+      "date": "2023-05-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校体育学院与上海师范大学体育学院党政班子开展主题教育联组学习交流",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3603.htm",
+      "date": "2023-05-08",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员部署会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3593.htm",
+      "date": "2023-04-24",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2023年上海大学高尔夫球锦标赛拉开帷幕",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3583.htm",
+      "date": "2023-04-13",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【通知】关于成立上海大学体育学院本科教育教学审核评估评建工作组的通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3573.htm",
+      "date": "2023-04-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学体育硕士专业学位授权点建设年度报告 （2022）",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3563.htm",
+      "date": "2023-04-11",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【通知】体育学院2023年硕士研究生复试安排",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3403.htm",
+      "date": "2023-03-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】体育学院2023年硕士研究生招生复试方案",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3393.htm",
+      "date": "2023-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院召开2023年安全稳定工作会议",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3373.htm",
+      "date": "2023-03-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院党委组织全体党员开展党的二十大精神集中学习",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3383.htm",
+      "date": "2023-03-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "【公示】2023届上海大学研究生优秀毕业生候选人名单",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3363.htm",
+      "date": "2023-02-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "【公告】上海大学体育学院学术委员会章程",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3343.htm",
+      "date": "2023-02-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "【通知】上海大学体育学院学术委员会换届工作方案",
+      "url": "https://tiyu.shu.edu.cn/info/1073/3353.htm",
+      "date": "2023-02-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "体育学院举办2023年度国家社科申报动员辅导讲座",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3303.htm",
+      "date": "2023-02-20",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院党委组织教职工开展党的二十大精神学习",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3232.htm",
+      "date": "2022-11-21",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院青联会举办教学成果奖申报辅导讲座",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3242.htm",
+      "date": "2022-11-21",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院青联会组织青年教师交流收看党的二十大体会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3223.htm",
+      "date": "2022-10-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "岁月如歌 情怀依旧 ——体育学院退休教师荣休仪式顺利举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3212.htm",
+      "date": "2022-09-11",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院第三党支部与继续教育学院新嘉党支部开展支部联合组织生活及共建活动",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3094.htm",
+      "date": "2021-12-28",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上观新闻报道：上海大学不断推进高水平运动队建设与发展",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3081.htm",
+      "date": "2021-12-03",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2021年第二届中国大学生桥牌网络赛",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3067.htm",
+      "date": "2021-11-10",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上海大学第二十四届运动会暨第十四届教工运动会圆满举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3064.htm",
+      "date": "2021-11-02",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院2021级体育硕士新生见面会暨学生导师双向选择会召开",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3029.htm",
+      "date": "2021-09-17",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院举行“对话职业发展”教师节主题座谈会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3028.htm",
+      "date": "2021-09-13",
+      "column": "头条新闻"
+    },
+    {
+      "title": "宝山区体育局张彬局长一行访问上海大学体育学院",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3020.htm",
+      "date": "2021-08-20",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校—— 上海大学体育学院教师围绕学校党委理论中心组学习内容，结合东京奥运会中国体育健儿拼搏精神就如何助力体育强国和体育强校抒发感想、建言献策",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3011.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国 助力体育强校专辑——以学生为中心 大力推进校园体育发展",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3012.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——努力实现由体育大国向体育强国的迈进",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3013.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——中国传统体育文化的时代价值与上海大学校园传统体育文化的传播使命",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3014.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——体育教育如何助力体育强国战略——上海大学体育教育发展的总结与展望",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3015.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——奥运：体教融合人才培养模式的成效体现",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3016.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——三人制女子篮球崛起、突破与上海大学校园篮球发展的构思",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3017.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——回看中国女排奥运之旅，展望我校高水平男排未来建设",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3018.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "助力体育强国  助力体育强校专辑——体育强国正在“泳”往直前",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3019.htm",
+      "date": "2021-08-19",
+      "column": "头条新闻"
+    },
+    {
+      "title": "首届中国大学生智力运动会选拔赛暨2021中国大学生桥牌锦标赛举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3010.htm",
+      "date": "2021-08-05",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2021“上大-华为”足球友谊赛圆满落幕",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3004.htm",
+      "date": "2021-07-06",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院师德专题教育动员会暨孙麒麟教授报告会举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/3001.htm",
+      "date": "2021-06-21",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院第四党支部开展“上大师生心向党 同心接力绣党旗”主题活动",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2996.htm",
+      "date": "2021-06-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2021年上海市大学生田径联盟杯赛落幕",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2998.htm",
+      "date": "2021-06-16",
+      "column": "头条新闻"
+    },
+    {
+      "title": "2021年上海市高校“校长杯”网球比赛在上海大学举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2992.htm",
+      "date": "2021-06-08",
+      "column": "头条新闻"
+    },
+    {
+      "title": "聆听百年校史 赓续红色基因——体育学院党史学习专题党课举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2993.htm",
+      "date": "2021-06-08",
+      "column": "头条新闻"
+    },
+    {
+      "title": "在党史中汲取奋发的力量，在热血中铭记革命的精神——体育学院第四党支部“三山会馆”参观学习活动",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2974.htm",
+      "date": "2021-05-18",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上海大学推进二级党组织全面从严治党主体责任落实暨学史力行访民意调研会在体育学院举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2972.htm",
+      "date": "2021-05-08",
+      "column": "头条新闻"
+    },
+    {
+      "title": "上海大学体育学院教师尹默林荣获2021年  全国“五一”劳动奖章",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2966.htm",
+      "date": "2021-04-29",
+      "column": "头条新闻"
+    },
+    {
+      "title": "纪念中美“乒乓外交”50周年，体育学院党史学习走向深入",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2964.htm",
+      "date": "2021-04-27",
+      "column": "头条新闻"
+    },
+    {
+      "title": "深化军民共建 迎接建党百年 ——体育学院组织学生与91306部队足球友谊赛举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2954.htm",
+      "date": "2021-04-21",
+      "column": "头条新闻"
+    },
+    {
+      "title": "“学党史，融‘四史’，周周见”云上思政课程第十八期举行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2945.htm",
+      "date": "2021-04-13",
+      "column": "头条新闻"
+    },
+    {
+      "title": "不忘初心，牢记使命 ——体育学院研究生参观“好八连”事迹展览馆",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2935.htm",
+      "date": "2021-03-30",
+      "column": "头条新闻"
+    },
+    {
+      "title": "“访足迹、增信心、促行动” ——体育学院女职工三八节活动",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2933.htm",
+      "date": "2021-03-26",
+      "column": "头条新闻"
+    },
+    {
+      "title": "体育学院召开党史学习教育动员部署大会",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2931.htm",
+      "date": "2021-03-25",
+      "column": "头条新闻"
+    },
+    {
+      "title": "苏州大学王家宏教授来上海大学体育学院讲学",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2894.htm",
+      "date": "2021-01-20",
+      "column": "头条新闻"
+    },
+    {
+      "title": "疫情防控不放松 学术路上砥砺行",
+      "url": "https://tiyu.shu.edu.cn/info/1072/2895.htm",
+      "date": "2021-01-20",
+      "column": "头条新闻"
+    }
+  ]
+}

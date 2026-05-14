@@ -1,0 +1,20 @@
+{
+  "sfa.shu.edu.cn": {
+    "type": "31",
+    "department": "上海大学上海电影学院",
+    "pages": {
+      "index/tzgg.htm": {
+        "pages": 127,
+        "column": "通知公告"
+      },
+      "index/jz.htm": {
+        "pages": 46,
+        "column": "讲座"
+      },
+      "index/xw.htm": {
+        "pages": 189,
+        "column": "新闻"
+      }
+    }
+  }
+}

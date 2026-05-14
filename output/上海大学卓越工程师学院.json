@@ -1,0 +1,309 @@
+{
+  "domain": "zhgy.shu.edu.cn",
+  "department": "上海大学卓越工程师学院",
+  "type": "01",
+  "crawl_time": "20260513_175610",
+  "total_articles": 49,
+  "columns": {
+    "通知公告": 23,
+    "新闻动态": 10,
+    "集中课程": 10,
+    "科研动态": 6
+  },
+  "articles": [
+    {
+      "title": "华为终端走进校园活动： 第三站——上海大学站",
+      "url": "https://mp.weixin.qq.com/s/AI6iiaaYeepRwEKT0e9tYA?scene=1&click_id=11",
+      "date": "2026-05-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展卓越工程师学院2025年度教学课程案例结项验收工作的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2651.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展卓越工程师学院2025年产教融合课程验收工作的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2661.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "肖希教授作客我院产教融合课程《光电子技术》",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2641.htm",
+      "date": "2025-12-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学卓越工程师学院校企导师培训会召开",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2621.htm",
+      "date": "2025-12-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学卓越工程师学院卓越工程师人才培养政策宣讲会召开",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2631.htm",
+      "date": "2025-12-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办2025年上海大学卓越工程师学院卓越工程师人才培养相关政策宣讲会的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2601.htm",
+      "date": "2025-12-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办2025年上海大学卓越工程师学院校企导师培训会的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2611.htm",
+      "date": "2025-12-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学卓越工程师学院赴中国宝武集团国家卓越工程师学院调研",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2581.htm",
+      "date": "2025-12-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学卓越工程师实践成果申请学位改革项目立项通知（2025年）",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2551.htm",
+      "date": "2025-11-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "卓越工程师学院关于征集2025年度教学课程案例的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2561.htm",
+      "date": "2025-11-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学卓越工程师学院2025年度人才培养改革课题立项通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2571.htm",
+      "date": "2025-11-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "卓工院承办上海市工程硕博士培养改革2026年招生工作校企对接会",
+      "url": "https://www.kankanews.com/detail/dZ2e81vaawR",
+      "date": "2025-10-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学卓越工程师学院关于开展2025年度人才培养改革课题申报的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2531.htm",
+      "date": "2025-10-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学卓越工程师学院2026年硕士研究生招生简章",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2521.htm",
+      "date": "2025-10-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "中国船舶与上海大学联合举办2026级工程硕博士专项招生宣讲会",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2481.htm",
+      "date": "2025-09-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国宝武与上海大学联合举办2026级工程硕博士专项招生宣讲会",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2471.htm",
+      "date": "2025-09-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海电力大学来我校调研卓越工程师人才培养工作",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2211.htm",
+      "date": "2025-07-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学卓越工程师学院2025年研究生创新实践项目立项通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2201.htm",
+      "date": "2025-05-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学卓越工程师学院2025年研究生创新实践项目拟立项名单公示（公示已结束）",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2191.htm",
+      "date": "2025-04-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "宁德时代21C创新实验室专家走进卓越工程师学院AI课堂",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2181.htm",
+      "date": "2025-04-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于2025年清明节、劳动节、端午节放假安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/369125.htm",
+      "date": "2025-04-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海科学院硕博士联培项目对接会",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2141.htm",
+      "date": "2025-03-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "研究生院学位办2024年新晋导师校级培训会会议通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2131.htm",
+      "date": "2025-02-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "【合作项目】航天八院805所项目需求",
+      "url": "https://zhgy.shu.edu.cn/info/1391/2111.htm",
+      "date": "2025-02-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "重点产业领域校企项目课题对接会会议通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2101.htm",
+      "date": "2025-02-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025年元旦放假和2024-2025学年寒假安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/364115.htm",
+      "date": "2024-12-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座：防空导弹中的力学",
+      "url": "https://zhgy.shu.edu.cn/info/1031/1981.htm",
+      "date": "2024-11-21",
+      "column": "集中课程"
+    },
+    {
+      "title": "讲座：力学在核电设计中的应用",
+      "url": "https://zhgy.shu.edu.cn/info/1031/1991.htm",
+      "date": "2024-11-21",
+      "column": "集中课程"
+    },
+    {
+      "title": "讲座：力学在飞机结构设计中的应用",
+      "url": "https://zhgy.shu.edu.cn/info/1031/2001.htm",
+      "date": "2024-11-21",
+      "column": "集中课程"
+    },
+    {
+      "title": "讲座：饮用水品质提升技术研究与实践",
+      "url": "https://zhgy.shu.edu.cn/info/1031/2011.htm",
+      "date": "2024-11-21",
+      "column": "集中课程"
+    },
+    {
+      "title": "讲座：上海高品质饮用水建设与数字化实践",
+      "url": "https://zhgy.shu.edu.cn/info/1031/2021.htm",
+      "date": "2024-11-21",
+      "column": "集中课程"
+    },
+    {
+      "title": "材料学院施思齐教授团队研究成果荣获2024年度中国材料研究学会科学技术奖一等奖",
+      "url": "https://www.shu.edu.cn/info/1055/352595.htm",
+      "date": "2024-09-20",
+      "column": "科研动态"
+    },
+    {
+      "title": "关于2024年中秋节、国庆节放假假日安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/352725.htm",
+      "date": "2024-09-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "AI 向善：最新线索语视频自动识别与生成研究",
+      "url": "https://cs.shu.edu.cn/info/1213/21884.htm",
+      "date": "2024-05-31",
+      "column": "集中课程"
+    },
+    {
+      "title": "学术报告：通过催化利用太阳能实现可持续未来",
+      "url": "https://ece.shu.edu.cn/info/1151/67474.htm",
+      "date": "2024-05-31",
+      "column": "集中课程"
+    },
+    {
+      "title": "关于2025年毕业研究生图像采集与信息核对的通知",
+      "url": "https://gs.shu.edu.cn/info/1027/171632.htm",
+      "date": "2024-05-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：金属与氢，向绿而行",
+      "url": "https://mat.shu.edu.cn/info/1015/15988.htm",
+      "date": "2024-05-31",
+      "column": "集中课程"
+    },
+    {
+      "title": "医学院跨学科新医科论坛第30讲：《从“科研成果”到“知识产权”到“知识产钱”》",
+      "url": "https://medicine.shu.edu.cn/info/1055/8647.htm",
+      "date": "2024-05-31",
+      "column": "集中课程"
+    },
+    {
+      "title": "钱伟长讲坛第75讲：环境科学与技术若干前沿分析",
+      "url": "https://qwc.shu.edu.cn/info/1088/6259.htm",
+      "date": "2024-05-31",
+      "column": "集中课程"
+    },
+    {
+      "title": "关于教工体检开放预约的通知",
+      "url": "https://www.shu.edu.cn/info/1051/343325.htm",
+      "date": "2024-05-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于宝山校区（校本部）部分楼宇停电的通知",
+      "url": "https://www.shu.edu.cn/info/1051/343335.htm",
+      "date": "2024-05-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学转化医学研究院苏佳灿团队在国际高水平期刊Advanced Materials发表论文",
+      "url": "https://www.shu.edu.cn/info/1055/342355.htm",
+      "date": "2024-05-31",
+      "column": "科研动态"
+    },
+    {
+      "title": "李文/张阿方教授团队在《Angewante Chemie》上发表最新成果: 可压缩性螺旋聚合物水凝胶",
+      "url": "https://www.shu.edu.cn/info/1055/345285.htm",
+      "date": "2024-05-31",
+      "column": "科研动态"
+    },
+    {
+      "title": "材料学院硕士生王贤玥在《Advanced Functional Materials》上发表最新成果",
+      "url": "https://www.shu.edu.cn/info/1055/345485.htm",
+      "date": "2024-05-31",
+      "column": "科研动态"
+    },
+    {
+      "title": "环化学院邓小勇/谢益骏团队在《Nano letters》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/346435.htm",
+      "date": "2024-05-31",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院硕士生孙孟霞在《ACS Photonics》上发表最新成果",
+      "url": "https://www.shu.edu.cn/info/1055/346555.htm",
+      "date": "2024-05-31",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学2024年研究生新生党员组织关系转入办理须知",
+      "url": "https://yjszs.shu.edu.cn/info/1003/7274.htm",
+      "date": "2024-05-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2024年拟录取研究生下载调档函和邮寄政审表相关事宜的通知",
+      "url": "https://yjszs.shu.edu.cn/info/1004/7264.htm",
+      "date": "2024-05-31",
+      "column": "通知公告"
+    }
+  ]
+}

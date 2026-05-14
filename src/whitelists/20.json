@@ -1,0 +1,230 @@
+{
+  "ee.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学机电工程与自动化学院电气工程系",
+    "pages": {
+      "sylm/zhxw.htm": {
+        "pages": 4,
+        "column": "综合新闻"
+      },
+      "sylm/kyjx.htm": {
+        "pages": 2,
+        "column": "科研教学"
+      }
+    }
+  },
+  "icn.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学碳中和创新研究中心",
+    "pages": {
+      "index/kydt.htm": {
+        "pages": 2,
+        "column": "科研动态"
+      },
+      "index/xwdt.htm": {
+        "pages": 2,
+        "column": "新闻动态"
+      }
+    }
+  },
+  "jgzx.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学上海经济管理中心",
+    "pages": {
+      "synr/ywsd.htm": {
+        "pages": 42,
+        "column": "要闻速递"
+      },
+      "synr/zsjz.htm": {
+        "pages": 3,
+        "column": "招生简章"
+      }
+    }
+  },
+  "jingji.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学机电工程与自动化学院精密机械工程系",
+    "pages": {
+      "sylmnr/zhxw.htm": {
+        "pages": 2,
+        "column": "综合新闻"
+      },
+      "sylmnr/kyjx.htm": {
+        "pages": 3,
+        "column": "科研教学"
+      },
+      "sylmnr/xsxx.htm": {
+        "pages": 1,
+        "column": "学术信息"
+      },
+      "sylmnr/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      }
+    }
+  },
+  "ladcc.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学云+大文科实验教学示范中心",
+    "pages": {
+      "synr/xwdt.htm": {
+        "pages": 3,
+        "column": "新闻动态"
+      },
+      "synr/syjx.htm": {
+        "pages": 1,
+        "column": "实验教学"
+      }
+    }
+  },
+  "shuedf.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学教育发展基金会",
+    "pages": {
+      "sylm/djdt.htm": {
+        "pages": 2,
+        "column": "党建动态"
+      },
+      "sylm/xwzx.htm": {
+        "pages": 10,
+        "column": "新闻中心"
+      },
+      "sylm/tzgg.htm": {
+        "pages": 6,
+        "column": "通知公告"
+      },
+      "sylm/tpxw.htm": {
+        "pages": 10,
+        "column": "图片新闻"
+      }
+    }
+  },
+  "suitm.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学转化医学研究院",
+    "pages": {
+      "syzl/xwdt.htm": {
+        "pages": 11,
+        "column": "新闻动态"
+      },
+      "tzgg.htm": {
+        "pages": 5,
+        "column": "通知公告"
+      },
+      "tpxw.htm": {
+        "pages": 2,
+        "column": "图片新闻"
+      },
+      "kycg.htm": {
+        "pages": 6,
+        "column": "科研成果"
+      },
+      "hzjl1/qkjs.htm": {
+        "pages": 2,
+        "column": "期刊建设"
+      }
+    }
+  },
+  "zxx.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学哲学系",
+    "pages": {
+      "sylm/xwsd.htm": {
+        "pages": 82,
+        "column": "新闻速递"
+      },
+      "sylm/xsdt.htm": {
+        "pages": 39,
+        "column": "学术动态"
+      },
+      "sylm/xstd.htm": {
+        "pages": 17,
+        "column": "学生天地"
+      },
+      "sylm/tpxw.htm": {
+        "pages": 1,
+        "column": "图片新闻"
+      },
+      "sylm/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      }
+    }
+  },
+  "silclab.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学悉尼工商学院数智经管实验中心",
+    "pages": {
+      "syxw/zxxw.htm": {
+        "pages": 1,
+        "column": "中心新闻"
+      },
+      "syxw/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      },
+      "syxw/cgzs.htm": {
+        "pages": 1,
+        "column": "成果展示"
+      }
+    }
+  },
+  "sklar.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学材料学院先进耐火材料全国实验室",
+    "pages": {
+      "sybk/zhxw.htm": {
+        "pages": 1,
+        "column": "综合新闻"
+      },
+      "sybk/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      },
+      "sybk/kydt.htm": {
+        "pages": 1,
+        "column": "科研动态"
+      },
+      "sybk/xshd.htm": {
+        "pages": 1,
+        "column": "学术活动"
+      }
+    }
+  },
+  "sklass.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学先进特殊钢全国重点实验室",
+    "pages": {
+      "index/zhxw.htm": {
+        "pages": 1,
+        "column": "重要新闻"
+      },
+      "index/gsgg.htm": {
+        "pages": 1,
+        "column": "公示公告"
+      }
+    }
+  },
+  "ziqiangcol.shu.edu.cn": {
+    "type": "20",
+    "department": "上海大学自强书院",
+    "pages": {
+      "sylm/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      },
+      "sylm/tpxw.htm": {
+        "pages": 1,
+        "column": "图片新闻"
+      },
+      "sylm/zhxw.htm": {
+        "pages": 1,
+        "column": "综合新闻"
+      },
+      "sylm/djtx.htm": {
+        "pages": 1,
+        "column": "党建团学"
+      }
+    }
+  }
+}

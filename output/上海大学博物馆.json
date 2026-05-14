@@ -1,0 +1,66 @@
+{
+  "domain": "museum.shu.edu.cn",
+  "department": "上海大学博物馆",
+  "type": "28",
+  "crawl_time": "20260513_175610",
+  "total_articles": 9,
+  "columns": {
+    "通知公告": 9
+  },
+  "articles": [
+    {
+      "title": "关于开展2025年上海大学固定资产（文物和陈列品）清查盘点的通知",
+      "url": "https://museum.shu.edu.cn/info/1112/5056.htm",
+      "date": "2025-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2024年上海大学固定资产（文物和陈列品）清查盘点的通知",
+      "url": "https://museum.shu.edu.cn/info/1112/4236.htm",
+      "date": "2024-09-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展上海大学文物及陈列品清查工作的通知",
+      "url": "https://museum.shu.edu.cn/info/1112/2051.htm",
+      "date": "2021-07-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学博物馆学术委员会章程",
+      "url": "https://museum.shu.edu.cn/info/1112/1917.htm",
+      "date": "2020-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学博物馆提供藏品代为保管、鉴定及咨询服务制度",
+      "url": "https://museum.shu.edu.cn/info/1112/1920.htm",
+      "date": "2020-05-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "博物馆管理人员简历",
+      "url": "https://museum.shu.edu.cn/info/1112/1918.htm",
+      "date": "2020-05-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学博物馆藏品入藏标准和征集工作流程",
+      "url": "https://museum.shu.edu.cn/info/1112/1916.htm",
+      "date": "2019-07-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学博物馆接受捐赠管理办法",
+      "url": "https://museum.shu.edu.cn/info/1112/1915.htm",
+      "date": "2017-08-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学博物馆文物征集工作条例",
+      "url": "https://museum.shu.edu.cn/info/1112/1922.htm",
+      "date": "2015-09-01",
+      "column": "通知公告"
+    }
+  ]
+}

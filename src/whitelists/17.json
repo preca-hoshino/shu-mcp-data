@@ -1,0 +1,16 @@
+{
+  "cwc.shu.edu.cn": {
+    "type": "17",
+    "department": "上海大学财务处",
+    "pages": {
+      "index/tzgg.htm": {
+        "pages": 13,
+        "column": "通知公告"
+      },
+      "index/xxdt.htm": {
+        "pages": 3,
+        "column": "信息动态"
+      }
+    }
+  }
+}

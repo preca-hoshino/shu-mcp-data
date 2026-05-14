@@ -1,0 +1,252 @@
+{
+  "domain": "xyy.shu.edu.cn",
+  "department": "上海大学校医院",
+  "type": "38",
+  "crawl_time": "20260513_175610",
+  "total_articles": 40,
+  "columns": {
+    "公告栏": 40
+  },
+  "articles": [
+    {
+      "title": "关于开展2026年上海大学教职工体检的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5386.htm",
+      "date": "2026-04-30",
+      "column": "公告栏"
+    },
+    {
+      "title": "上海大学AED分布地点明细（2026年3月30日）",
+      "url": "https://xyy.shu.edu.cn/info/1090/5336.htm",
+      "date": "2026-03-30",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于上海大学嘉定校区卫生所恢复医保结算的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5316.htm",
+      "date": "2026-03-20",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于宝山校区校医院12月31日18:00-20:00暂停医保结算服务的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5236.htm",
+      "date": "2025-12-25",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于2026年上海大学嘉定校区 征地养老人员、教职工家属医药费报销的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5066.htm",
+      "date": "2025-12-02",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于2026年上海大学延长校区征地养老人员、教职工家属医药费报销的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5076.htm",
+      "date": "2025-12-02",
+      "column": "公告栏"
+    },
+    {
+      "title": "2026年上海市居民医保（大学生）缴费通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5016.htm",
+      "date": "2025-11-20",
+      "column": "公告栏"
+    },
+    {
+      "title": "校医院关于2025年国庆节、中秋节放假期间工作安排的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/4926.htm",
+      "date": "2025-09-28",
+      "column": "公告栏"
+    },
+    {
+      "title": "2025级秋季新生，快来享受上海市居民医保",
+      "url": "https://xyy.shu.edu.cn/info/1090/4886.htm",
+      "date": "2025-09-11",
+      "column": "公告栏"
+    },
+    {
+      "title": "宝山校区校医院妇科门诊暂停通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/4606.htm",
+      "date": "2025-01-07",
+      "column": "公告栏"
+    },
+    {
+      "title": "2024级秋季新生，快来享受上海市大学生医保",
+      "url": "https://xyy.shu.edu.cn/info/1090/4486.htm",
+      "date": "2024-09-03",
+      "column": "公告栏"
+    },
+    {
+      "title": "2024新生医疗服务指南",
+      "url": "https://xyy.shu.edu.cn/info/1090/4456.htm",
+      "date": "2024-08-22",
+      "column": "公告栏"
+    },
+    {
+      "title": "“2024年世界无烟日”上海健康大讲堂专场活动通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/4376.htm",
+      "date": "2024-05-24",
+      "column": "公告栏"
+    },
+    {
+      "title": "2024年“医疗专家进校园活动”的通知 （3月-6月）",
+      "url": "https://xyy.shu.edu.cn/info/1090/4226.htm",
+      "date": "2024-03-15",
+      "column": "公告栏"
+    },
+    {
+      "title": "上海大学2024年大学生医保缴费通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3976.htm",
+      "date": "2023-11-24",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年传染病防控知识培训通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3906.htm",
+      "date": "2023-10-13",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年中秋国庆假期校医院工作安排",
+      "url": "https://xyy.shu.edu.cn/info/1090/3736.htm",
+      "date": "2023-09-26",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于毕业生申请上海大学生医保账户终止的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3716.htm",
+      "date": "2023-09-05",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于未参加2023级新生入学体检者可自行体检的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3696.htm",
+      "date": "2023-09-01",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年下半年“医疗专家进校园咨询活动”有关通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3666.htm",
+      "date": "2023-08-28",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年校医院暑假工作安排",
+      "url": "https://xyy.shu.edu.cn/info/1090/3645.htm",
+      "date": "2023-07-08",
+      "column": "公告栏"
+    },
+    {
+      "title": "宝山校区校医院B超检查恢复通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3635.htm",
+      "date": "2023-06-28",
+      "column": "公告栏"
+    },
+    {
+      "title": "宝山校区校医院B超暂停通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3625.htm",
+      "date": "2023-06-25",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于上海大学统一激活社保卡的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3595.htm",
+      "date": "2023-06-07",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于上海大学第一批社保卡办理照片补拍暨第二批社保卡集中办理的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3555.htm",
+      "date": "2023-05-23",
+      "column": "公告栏"
+    },
+    {
+      "title": "“专家进校园”工作温馨提示",
+      "url": "https://xyy.shu.edu.cn/info/1090/3495.htm",
+      "date": "2023-04-28",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于教工体检即将开放预约的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3475.htm",
+      "date": "2023-04-24",
+      "column": "公告栏"
+    },
+    {
+      "title": "校医院微信公众号上线啦",
+      "url": "https://xyy.shu.edu.cn/info/1090/3465.htm",
+      "date": "2023-04-21",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于上海大学办理社保卡拍照和申领的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3445.htm",
+      "date": "2023-04-19",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于2022年毕业生登录校医院报销系统的说明",
+      "url": "https://xyy.shu.edu.cn/info/1090/3205.htm",
+      "date": "2023-03-14",
+      "column": "公告栏"
+    },
+    {
+      "title": "校医院停诊紧急通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3175.htm",
+      "date": "2023-03-08",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于开展2023年学校结核病防治宣传活动的通知（上海市静安区公共卫生工作联席会议办公室 ）",
+      "url": "https://xyy.shu.edu.cn/info/1090/3135.htm",
+      "date": "2023-03-01",
+      "column": "公告栏"
+    },
+    {
+      "title": "校医院联合静安区医保中心进行大学生医保宣传",
+      "url": "https://xyy.shu.edu.cn/info/1090/3105.htm",
+      "date": "2023-02-27",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年“医疗专家进校园咨询活动”有关通知（2月-6月）",
+      "url": "https://xyy.shu.edu.cn/info/1090/3045.htm",
+      "date": "2023-02-15",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于2023年上海大学嘉定校区 征地养老人员、教职工家属医药费报销的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3025.htm",
+      "date": "2023-02-06",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年延长校区征地养老人员、教职工家属医药费报销审核时间安排通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/3035.htm",
+      "date": "2023-02-06",
+      "column": "公告栏"
+    },
+    {
+      "title": "2023年宝山校区校医院寒假工作安排",
+      "url": "https://xyy.shu.edu.cn/info/1090/3015.htm",
+      "date": "2023-01-06",
+      "column": "公告栏"
+    },
+    {
+      "title": "大学生持卡就医来了！告别申请报销和凭证结算的时代",
+      "url": "https://xyy.shu.edu.cn/info/1090/3005.htm",
+      "date": "2023-01-05",
+      "column": "公告栏"
+    },
+    {
+      "title": "致广大师生的一封信",
+      "url": "https://xyy.shu.edu.cn/info/1090/2975.htm",
+      "date": "2022-12-27",
+      "column": "公告栏"
+    },
+    {
+      "title": "校医院近期就诊紧急通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2985.htm",
+      "date": "2022-12-27",
+      "column": "公告栏"
+    }
+  ]
+}

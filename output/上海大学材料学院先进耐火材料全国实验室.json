@@ -1,0 +1,24 @@
+{
+  "domain": "sklar.shu.edu.cn",
+  "department": "上海大学材料学院先进耐火材料全国实验室",
+  "type": "20",
+  "crawl_time": "20260513_175610",
+  "total_articles": 2,
+  "columns": {
+    "科研动态": 2
+  },
+  "articles": [
+    {
+      "title": "高彦峰教授课题组在《中国科学：技术科学》上发表废锂电池绿色回收方法的最新综述2025-11-10",
+      "url": "https://sklar.shu.edu.cn/info/1522/1752.htm",
+      "date": "2025-11-10",
+      "column": "科研动态"
+    },
+    {
+      "title": "邹星礼教授团队在《Journal of Materials Science & Technology》上发表最新研究成果2025-11-10",
+      "url": "https://sklar.shu.edu.cn/info/1522/1782.htm",
+      "date": "2025-11-10",
+      "column": "科研动态"
+    }
+  ]
+}

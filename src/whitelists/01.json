@@ -1,0 +1,88 @@
+{
+  "zhgy.shu.edu.cn": {
+    "type": "01",
+    "department": "上海大学卓越工程师学院",
+    "pages": {
+      "xwdt.htm": {
+        "pages": 3,
+        "column": "新闻动态"
+      },
+      "tzgg.htm": {
+        "pages": 3,
+        "column": "通知公告"
+      },
+      "kydt.htm": {
+        "pages": 1,
+        "column": "科研动态"
+      },
+      "jzkec.htm": {
+        "pages": 1,
+        "column": "集中课程"
+      }
+    }
+  },
+  "ece.shu.edu.cn": {
+    "type": "01",
+    "department": "上海大学环境与化学工程学院",
+    "pages": {
+      "sylm/xueyuaxw.htm": {
+        "pages": 75,
+        "column": "学院新闻"
+      },
+      "sylm/tzgg.htm": {
+        "pages": 30,
+        "column": "通知公告"
+      },
+      "sylm/xsbg.htm": {
+        "pages": 45,
+        "column": "学术报告"
+      },
+      "sylm/kydt1.htm": {
+        "pages": 13,
+        "column": "科研动态"
+      },
+      "sylm/yjsjx.htm": {
+        "pages": 21,
+        "column": "研究生教学"
+      },
+      "sylm/bksjx.htm": {
+        "pages": 11,
+        "column": "本科生教学"
+      }
+    }
+  },
+  "mat.shu.edu.cn": {
+    "type": "01",
+    "department": "上海大学材料科学与工程学院",
+    "pages": {
+      "sycdlm/xyxw.htm": {
+        "pages": 109,
+        "column": "学院新闻"
+      },
+      "sycdlm/tzgg/bks.htm": {
+        "pages": 32,
+        "column": "通知公告(本科生)"
+      },
+      "sycdlm/tzgg/yjs.htm": {
+        "pages": 57,
+        "column": "通知公告(研究生)"
+      },
+      "sycdlm/tzgg/js.htm": {
+        "pages": 36,
+        "column": "通知公告(教师)"
+      },
+      "sycdlm/xsdt.htm": {
+        "pages": 37,
+        "column": "学术动态"
+      },
+      "sycdlm/bgjz.htm": {
+        "pages": 35,
+        "column": "报告讲座"
+      },
+      "sycdlm/kydt.htm": {
+        "pages": 15,
+        "column": "科研动态"
+      }
+    }
+  }
+}

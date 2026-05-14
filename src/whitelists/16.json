@@ -1,0 +1,72 @@
+{
+  "www.shu.edu.cn": {
+    "type": "16",
+    "department": "上海大学",
+    "pages": {
+      "zyxw.htm": {
+        "pages": 658,
+        "column": "重要新闻"
+      },
+      "tzgg.htm": {
+        "pages": 123,
+        "column": "通知公告"
+      },
+      "zhxw.htm": {
+        "pages": 3278,
+        "column": "综合新闻"
+      },
+      "kydt1.htm": {
+        "pages": 367,
+        "column": "科研动态"
+      }
+    }
+  },
+  "kyglb.shu.edu.cn": {
+    "type": "16",
+    "department": "上海大学科研管理部",
+    "pages": {
+      "dhl/tzgg.htm": {
+        "pages": 69,
+        "column": "通知公告"
+      },
+      "dhl/kjdt.htm": {
+        "pages": 18,
+        "column": "科技动态"
+      },
+      "dhl/jsxq.htm": {
+        "pages": 4,
+        "column": "技术需求"
+      },
+      "bslc.htm": {
+        "pages": 1,
+        "column": "办事流程"
+      }
+    }
+  },
+  "sdfz.shu.edu.cn": {
+    "type": "16",
+    "department": "上海大学附属中学",
+    "pages": {
+      "index/tzgg.htm": {
+        "pages": 8,
+        "column": "通知公告"
+      },
+      "index/xwzx.htm": {
+        "pages": 40,
+        "column": "新闻中心"
+      },
+      "jxzh.htm": {
+        "pages": 7,
+        "column": "教学纵横"
+      },
+      "kysx.htm": {
+        "pages": 4,
+        "column": "科研师训"
+      },
+      "zszp.htm": {
+        "pages": 3,
+        "column": "招生招聘"
+      }
+    }
+  }
+}

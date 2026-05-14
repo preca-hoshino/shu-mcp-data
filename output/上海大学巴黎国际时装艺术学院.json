@@ -1,0 +1,972 @@
+{
+  "domain": "modart.shu.edu.cn",
+  "department": "上海大学巴黎国际时装艺术学院",
+  "type": "34",
+  "crawl_time": "20260513_175610",
+  "total_articles": 160,
+  "columns": {
+    "时尚资讯": 160
+  },
+  "articles": [
+    {
+      "title": "中古网站Vestiaire Collective携手法国时尚品牌伊莎贝尔·玛兰掀起复古浪潮",
+      "url": "https://modart.shu.edu.cn/info/1010/3785.htm",
+      "date": "2024-07-19",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "AI在奢侈品时尚界只是一种炒作吗?",
+      "url": "https://modart.shu.edu.cn/info/1010/3775.htm",
+      "date": "2024-07-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "蔻依Chloé巴黎旗舰店展出丹麦女艺术家Mie Olise Kjærgaard的作品",
+      "url": "https://modart.shu.edu.cn/info/1010/3765.htm",
+      "date": "2024-07-04",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "米索尼与达美一号航空公司开展合作",
+      "url": "https://modart.shu.edu.cn/info/1010/3755.htm",
+      "date": "2024-06-28",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "人工智能定义豪宅的未来",
+      "url": "https://modart.shu.edu.cn/info/1010/3745.htm",
+      "date": "2024-06-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "圣罗兰x 雷朋超黑旅行者系列",
+      "url": "https://modart.shu.edu.cn/info/1010/3735.htm",
+      "date": "2024-06-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "娇兰发起2024年世界蜜蜂日活动",
+      "url": "https://modart.shu.edu.cn/info/1010/3725.htm",
+      "date": "2024-05-31",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "迪奥任命新的全球形象大使 Rosalia Vila Tobella",
+      "url": "https://modart.shu.edu.cn/info/1010/3715.htm",
+      "date": "2024-05-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "保时捷与MHP合作，使用Apple Vision Pro为员工提供虚拟培训",
+      "url": "https://modart.shu.edu.cn/info/1010/3705.htm",
+      "date": "2024-05-15",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "意大利时尚品牌托德斯在第60届威尼斯国际艺术双年展上推出“工艺艺术”展览",
+      "url": "https://modart.shu.edu.cn/info/1010/3695.htm",
+      "date": "2024-05-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "爱马仕香水流动城市绿地",
+      "url": "https://modart.shu.edu.cn/info/1010/3685.htm",
+      "date": "2024-04-23",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Alessandro Michele担任华伦天奴创意总监",
+      "url": "https://modart.shu.edu.cn/info/1010/3675.htm",
+      "date": "2024-04-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Luxury Unfiltered：奢侈品的隐藏价值",
+      "url": "https://modart.shu.edu.cn/info/1010/3665.htm",
+      "date": "2024-03-25",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "泰格豪雅(Tag Heuer) 携手《特技狂人》进军好莱坞",
+      "url": "https://modart.shu.edu.cn/info/1010/3655.htm",
+      "date": "2024-03-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "开云集团在中国推出可持续时尚课程",
+      "url": "https://modart.shu.edu.cn/info/1010/3645.htm",
+      "date": "2024-03-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "布里奥尼携手奥斯卡·艾萨克推出2024年春夏“慢奢华”系列",
+      "url": "https://modart.shu.edu.cn/info/1010/3635.htm",
+      "date": "2024-02-29",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "丰田雷克萨斯成为直觉巨蛋体育场创始合作伙伴",
+      "url": "https://modart.shu.edu.cn/info/1010/3625.htm",
+      "date": "2024-02-20",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "将决定未来一年时尚议程的10个主题",
+      "url": "https://modart.shu.edu.cn/info/1010/3615.htm",
+      "date": "2024-02-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "圣罗兰有良心的奢华美",
+      "url": "https://modart.shu.edu.cn/info/1010/3605.htm",
+      "date": "2024-01-31",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "爱彼推出限量版皇家橡树高级定制",
+      "url": "https://modart.shu.edu.cn/info/1010/3595.htm",
+      "date": "2024-01-30",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "沙夫豪森IWC万国表(IWC Schaffhausen)推出以《海神》为灵感的腕表",
+      "url": "https://modart.shu.edu.cn/info/1010/3585.htm",
+      "date": "2024-01-26",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "杜嘉班纳展览将在米兰皇家宫殿举行",
+      "url": "https://modart.shu.edu.cn/info/1010/3575.htm",
+      "date": "2024-01-25",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "托德斯与兰博基尼发布首个鞋类系列",
+      "url": "https://modart.shu.edu.cn/info/1010/3555.htm",
+      "date": "2024-01-17",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "时尚行业在反强迫劳动斗争中落后",
+      "url": "https://modart.shu.edu.cn/info/1010/3565.htm",
+      "date": "2024-01-17",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "路易威登推出全新男装活动，全球快闪系列",
+      "url": "https://modart.shu.edu.cn/info/1010/3535.htm",
+      "date": "2024-01-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "东道主肯塔基德比喜迎《体育画报》餐饮俱乐部进驻",
+      "url": "https://modart.shu.edu.cn/info/1010/3545.htm",
+      "date": "2024-01-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "珠宝商弗雷德(Fred)首次在奢侈品牌历史珍品交易平台 Heristoria 上拍卖",
+      "url": "https://modart.shu.edu.cn/info/1010/3525.htm",
+      "date": "2023-12-28",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "迪奥与查理兹·塞隆经典再现",
+      "url": "https://modart.shu.edu.cn/info/1010/3505.htm",
+      "date": "2023-12-22",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Coupang宣布对发发奇（Farfetch）的股权收购计划",
+      "url": "https://modart.shu.edu.cn/info/1010/3495.htm",
+      "date": "2023-12-21",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "宝马发行全新故事系列有声书《解放盖亚》",
+      "url": "https://modart.shu.edu.cn/info/1010/3445.htm",
+      "date": "2023-12-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "奢侈品品牌向原住民设计师伸出橄榄枝",
+      "url": "https://modart.shu.edu.cn/info/1010/3425.htm",
+      "date": "2023-12-08",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "伯格多夫·古德曼（Bergdorf Goodman）推出华丽假日橱窗系列",
+      "url": "https://modart.shu.edu.cn/info/1010/3415.htm",
+      "date": "2023-12-01",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "银海游轮将目光投向个性化旅行体验",
+      "url": "https://modart.shu.edu.cn/info/1010/3395.htm",
+      "date": "2023-11-28",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "迪奥小姐《为爱觉醒》",
+      "url": "https://modart.shu.edu.cn/info/1010/3385.htm",
+      "date": "2023-11-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "蒂芙尼公司将在纽约、东京旗舰店推出神奇宝贝独家系列",
+      "url": "https://modart.shu.edu.cn/info/1010/3375.htm",
+      "date": "2023-11-21",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "二手市场的快时尚清流",
+      "url": "https://modart.shu.edu.cn/info/1010/3365.htm",
+      "date": "2023-11-17",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "美国新晋内衣品牌Parade被Ariela & Associates International收购",
+      "url": "https://modart.shu.edu.cn/info/1010/3285.htm",
+      "date": "2023-11-10",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "华伦天奴在麦迪逊大道首次亮相",
+      "url": "https://modart.shu.edu.cn/info/1010/3275.htm",
+      "date": "2023-11-09",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Longchamp X Robert Indiana系列向“LOVE”雕塑艺术家致敬",
+      "url": "https://modart.shu.edu.cn/info/1010/3255.htm",
+      "date": "2023-11-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "位置的力量：奢侈品时尚店面的战略足迹和生产力",
+      "url": "https://modart.shu.edu.cn/info/1010/3265.htm",
+      "date": "2023-11-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Vestiaire Collective与英国时尚品牌博柏利合作",
+      "url": "https://modart.shu.edu.cn/info/1010/3245.htm",
+      "date": "2023-10-27",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "爱马仕的皮具战略",
+      "url": "https://modart.shu.edu.cn/info/1010/3235.htm",
+      "date": "2023-10-25",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "华伦天奴加入奢侈品行列，为2024春夏时装秀打造艺术中心",
+      "url": "https://modart.shu.edu.cn/info/1010/3225.htm",
+      "date": "2023-10-20",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "由于销售疲软，瑞典纺织品回收公司Renewcell更换首席执行官",
+      "url": "https://modart.shu.edu.cn/info/1010/3215.htm",
+      "date": "2023-10-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "看2023春夏巴黎时装周如何掌握未来半年的时尚趋势",
+      "url": "https://modart.shu.edu.cn/info/1010/3001.htm",
+      "date": "2022-11-04",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "看2023春夏巴黎时装周如何掌握未来半年的时尚趋势",
+      "url": "https://modart.shu.edu.cn/info/1010/3023.htm",
+      "date": "2022-11-04",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "极简主义 | 摩登派 | 模特",
+      "url": "https://modart.shu.edu.cn/info/1010/2932.htm",
+      "date": "2021-04-29",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "亚麻 | 吊带袜 | 长手套",
+      "url": "https://modart.shu.edu.cn/info/1010/2933.htm",
+      "date": "2021-04-29",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "裁缝 | 条纹衫 | 格纹图案",
+      "url": "https://modart.shu.edu.cn/info/1010/2941.htm",
+      "date": "2021-04-29",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "马海毛 | 单色 | 后颈",
+      "url": "https://modart.shu.edu.cn/info/1010/2931.htm",
+      "date": "2021-04-28",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "要治愈不要致郁，时尚品牌为你的心理健康操碎了心",
+      "url": "https://modart.shu.edu.cn/info/1010/2773.htm",
+      "date": "2020-08-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "让零零后痴狂的美国时尚电商品牌Dolls Kill",
+      "url": "https://modart.shu.edu.cn/info/1010/2774.htm",
+      "date": "2020-08-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "鱼皮，低调的优质可持续时尚材料",
+      "url": "https://modart.shu.edu.cn/info/1010/2771.htm",
+      "date": "2020-08-13",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "相较于“便宜穿几次”，“贵点穿几年”的时尚购物观念更高级",
+      "url": "https://modart.shu.edu.cn/info/1010/2772.htm",
+      "date": "2020-08-13",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "能在2020突围的时尚品牌不仅要好玩还要有爱",
+      "url": "https://modart.shu.edu.cn/info/1010/2762.htm",
+      "date": "2020-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "时尚传播传奇人物：火透外网的彩妆品牌Glossier创始人Emily Weiss",
+      "url": "https://modart.shu.edu.cn/info/1010/2763.htm",
+      "date": "2020-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "那些在品牌试衣间PO图的外国网红保留了互联网最后一点信任",
+      "url": "https://modart.shu.edu.cn/info/1010/2764.htm",
+      "date": "2020-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Zara和Chanel，谁的传播能力更胜一筹？",
+      "url": "https://modart.shu.edu.cn/info/1010/2765.htm",
+      "date": "2020-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "这些只有一个尺码的潮牌，要挑战一下吗？",
+      "url": "https://modart.shu.edu.cn/info/1010/2766.htm",
+      "date": "2020-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "那条7500欧元的裙子是P的？没错",
+      "url": "https://modart.shu.edu.cn/info/1010/2767.htm",
+      "date": "2020-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "一点都不难， MODART教你找到属于自己的时尚Style",
+      "url": "https://modart.shu.edu.cn/info/1010/2554.htm",
+      "date": "2019-11-25",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "女王比你潮多了",
+      "url": "https://modart.shu.edu.cn/info/1010/2553.htm",
+      "date": "2019-11-22",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "奥莱低价套路深，悄悄告诉你他们打折的秘密",
+      "url": "https://modart.shu.edu.cn/info/1010/2552.htm",
+      "date": "2019-11-21",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "夏日的清凉一半来自空调，一半来自这个女人",
+      "url": "https://modart.shu.edu.cn/info/1010/2551.htm",
+      "date": "2019-10-31",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "为什么明智的时尚达人不穿快时尚或奢华的高端服装",
+      "url": "https://modart.shu.edu.cn/info/1010/2550.htm",
+      "date": "2019-09-30",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "YSL巴黎右岸概念店 ：一个反乌托邦的圣罗兰宇宙",
+      "url": "https://modart.shu.edu.cn/info/1010/2548.htm",
+      "date": "2019-08-26",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "7个贵得离谱但还是会偷偷想买的奢侈品",
+      "url": "https://modart.shu.edu.cn/info/1010/2549.htm",
+      "date": "2019-08-26",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Lincoln的巴黎留学日记 | 法国人心中最好的时尚概念店DEMAIN",
+      "url": "https://modart.shu.edu.cn/info/1010/2547.htm",
+      "date": "2019-08-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "想穿设计师款，干嘛不去租呢？",
+      "url": "https://modart.shu.edu.cn/info/1010/2544.htm",
+      "date": "2019-08-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "玛黑探店",
+      "url": "https://modart.shu.edu.cn/info/1010/2545.htm",
+      "date": "2019-08-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "ASNIèRES——LOUIS VUITTON的“心脏”",
+      "url": "https://modart.shu.edu.cn/info/1010/2546.htm",
+      "date": "2019-08-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "我们向这些曾经的“时尚错误”道歉， 因为它们真的很酷！",
+      "url": "https://modart.shu.edu.cn/info/1010/2534.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "红透外网的时尚品牌PLT推出全透明系列， 要来一件吗？",
+      "url": "https://modart.shu.edu.cn/info/1010/2535.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "本月最火的Instagram博主最爱时尚单品",
+      "url": "https://modart.shu.edu.cn/info/1010/2537.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "像巴黎当地人一样穿着",
+      "url": "https://modart.shu.edu.cn/info/1010/2538.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "怎么穿才能在明年的白色派对中成为最靓的仔",
+      "url": "https://modart.shu.edu.cn/info/1010/2539.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "拯救尴尬约会的神仙手袋给我来一打~",
+      "url": "https://modart.shu.edu.cn/info/1010/2540.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "宝藏女孩才知道的三个宝藏时尚品牌",
+      "url": "https://modart.shu.edu.cn/info/1010/2541.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "为了不被问“你是什么垃圾”， Stella McCartney 和Addidas决定把衣服液化",
+      "url": "https://modart.shu.edu.cn/info/1010/2542.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "如何有型地出入机场这个时尚黑洞",
+      "url": "https://modart.shu.edu.cn/info/1010/2543.htm",
+      "date": "2019-08-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "Ralph Lauren 牌快闪咖啡店",
+      "url": "https://modart.shu.edu.cn/info/1010/2505.htm",
+      "date": "2019-08-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "镜头的背后| 还原一个全景的巴黎时装周",
+      "url": "https://modart.shu.edu.cn/info/1010/2506.htm",
+      "date": "2019-08-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "迄今为止巴黎时装周的最佳看点",
+      "url": "https://modart.shu.edu.cn/info/1010/2507.htm",
+      "date": "2019-08-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "大码服装品牌",
+      "url": "https://modart.shu.edu.cn/info/1010/2508.htm",
+      "date": "2019-08-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "英伦时尚保持鲜活的秘密- Fashion East",
+      "url": "https://modart.shu.edu.cn/info/1010/2509.htm",
+      "date": "2019-08-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "2018时尚元素大集合",
+      "url": "https://modart.shu.edu.cn/info/1010/2503.htm",
+      "date": "2019-08-01",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "2019时尚元素预测",
+      "url": "https://modart.shu.edu.cn/info/1010/2504.htm",
+      "date": "2019-08-01",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "如何把垃圾变成时尚产品",
+      "url": "https://modart.shu.edu.cn/info/1010/2500.htm",
+      "date": "2019-04-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "娜奥米·坎贝尔推出新的YouTube频道“成为娜奥美”",
+      "url": "https://modart.shu.edu.cn/info/1010/2501.htm",
+      "date": "2019-04-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "史上最嚣张的假Supreme",
+      "url": "https://modart.shu.edu.cn/info/1010/2502.htm",
+      "date": "2019-04-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上海大学巴黎时装学院2011-2012流行趋势预测",
+      "url": "https://modart.shu.edu.cn/info/1010/2449.htm",
+      "date": "2012-01-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "毕业不散伙抱团来创业",
+      "url": "https://modart.shu.edu.cn/info/1010/2448.htm",
+      "date": "2012-01-23",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "百万珠宝上奢侈品专业课堂",
+      "url": "https://modart.shu.edu.cn/info/1010/2447.htm",
+      "date": "2011-05-23",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法国奢侈品进课堂",
+      "url": "https://modart.shu.edu.cn/info/1010/2444.htm",
+      "date": "2011-01-31",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法国学生来沪寻觅中国元素",
+      "url": "https://modart.shu.edu.cn/info/1010/2445.htm",
+      "date": "2011-01-31",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "海归服装设计师多数“水土不服”",
+      "url": "https://modart.shu.edu.cn/info/1010/2446.htm",
+      "date": "2011-01-31",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "顶级珠宝商携百万珠宝进校园",
+      "url": "https://modart.shu.edu.cn/info/1010/2441.htm",
+      "date": "2011-01-30",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“品牌之王”巴特里斯.戴.柏拉斯率领法国学生来我院进行中法时尚文化交流活动",
+      "url": "https://modart.shu.edu.cn/info/1010/2442.htm",
+      "date": "2011-01-30",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "国际奢侈品公司携百万珠宝首次进入校园课堂",
+      "url": "https://modart.shu.edu.cn/info/1010/2443.htm",
+      "date": "2011-01-30",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "钻石,买不起也要会看,法国顶级珠宝品牌",
+      "url": "https://modart.shu.edu.cn/info/1010/2440.htm",
+      "date": "2011-01-27",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "2011上海大学巴黎时装学院毕业秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2418.htm",
+      "date": "2011-01-10",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎学院毕业生“抱团”创业",
+      "url": "https://modart.shu.edu.cn/info/1010/2419.htm",
+      "date": "2011-01-10",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "都市“海盗”—学生设计师的灵感",
+      "url": "https://modart.shu.edu.cn/info/1010/2417.htm",
+      "date": "2011-01-07",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎毕业秀展示年轻的时尚",
+      "url": "https://modart.shu.edu.cn/info/1010/2412.htm",
+      "date": "2011-01-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "预测2012春夏流行趋势—上海大学巴黎时装学院毕业生释义“远航”",
+      "url": "https://modart.shu.edu.cn/info/1010/2413.htm",
+      "date": "2011-01-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“毕业秀”秀灵感",
+      "url": "https://modart.shu.edu.cn/info/1010/2414.htm",
+      "date": "2011-01-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上海大学巴黎时装学院-预测2012春夏流行趋势",
+      "url": "https://modart.shu.edu.cn/info/1010/2415.htm",
+      "date": "2011-01-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "学院就业启示：连续7年100%",
+      "url": "https://modart.shu.edu.cn/info/1010/2416.htm",
+      "date": "2011-01-06",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "看似不经意的培养换得水到渠成",
+      "url": "https://modart.shu.edu.cn/info/1010/2407.htm",
+      "date": "2011-01-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上海大学巴黎时装学院2011-2012流行趋势预测",
+      "url": "https://modart.shu.edu.cn/info/1010/2408.htm",
+      "date": "2011-01-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "今明两年服装流行“时光隧道”",
+      "url": "https://modart.shu.edu.cn/info/1010/2409.htm",
+      "date": "2011-01-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "沪大学生创业瞄准网络奢侈品消费",
+      "url": "https://modart.shu.edu.cn/info/1010/2410.htm",
+      "date": "2011-01-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上海大学巴黎时装学院毕业秀——用设计思考人类未来",
+      "url": "https://modart.shu.edu.cn/info/1010/2411.htm",
+      "date": "2011-01-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "青春毕业秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2404.htm",
+      "date": "2011-01-04",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“易经”时装秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2405.htm",
+      "date": "2011-01-04",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“艺汇上海”：为服装产业输送人才——记上海大学巴黎国际时装艺术学院专场秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2406.htm",
+      "date": "2011-01-04",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎毕业生走创业之新路",
+      "url": "https://modart.shu.edu.cn/info/1010/2400.htm",
+      "date": "2011-01-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎时装学院上演“毕业秀”",
+      "url": "https://modart.shu.edu.cn/info/1010/2401.htm",
+      "date": "2011-01-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“道”和“时装”相结合",
+      "url": "https://modart.shu.edu.cn/info/1010/2402.htm",
+      "date": "2011-01-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "为休闲生活增添更多色彩和情趣，服装设计师俞湘琦谈奢侈品理念",
+      "url": "https://modart.shu.edu.cn/info/1010/2403.htm",
+      "date": "2011-01-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“台上好比战场，我不能趴下”",
+      "url": "https://modart.shu.edu.cn/info/1010/2389.htm",
+      "date": "2010-10-26",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "沪上世博会演出团队创意无穷",
+      "url": "https://modart.shu.edu.cn/info/1010/2388.htm",
+      "date": "2010-10-22",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "蒙古国服装秀今天亮相",
+      "url": "https://modart.shu.edu.cn/info/1010/2382.htm",
+      "date": "2010-07-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "草原环保服装秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2383.htm",
+      "date": "2010-07-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "从大学毕业秀看本季时尚亮点",
+      "url": "https://modart.shu.edu.cn/info/1010/2384.htm",
+      "date": "2010-07-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "大学“毕业秀”展示靓丽时装",
+      "url": "https://modart.shu.edu.cn/info/1010/2385.htm",
+      "date": "2010-07-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎时装学院举办“毕业秀”",
+      "url": "https://modart.shu.edu.cn/info/1010/2386.htm",
+      "date": "2010-07-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大学生毕业秀透时尚亮点",
+      "url": "https://modart.shu.edu.cn/info/1010/2387.htm",
+      "date": "2010-07-16",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大时装学院举行时装毕业秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2381.htm",
+      "date": "2010-07-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "蒙古包模特情牵世博会",
+      "url": "https://modart.shu.edu.cn/info/1010/2380.htm",
+      "date": "2010-07-08",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "时尚“小甜甜” 王展华",
+      "url": "https://modart.shu.edu.cn/info/1010/2379.htm",
+      "date": "2010-05-28",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“秀”出媒体人的世博热忱",
+      "url": "https://modart.shu.edu.cn/info/1010/2378.htm",
+      "date": "2010-05-11",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "从学生毕业秀 看2010全球流行风向标",
+      "url": "https://modart.shu.edu.cn/info/1010/2376.htm",
+      "date": "2010-04-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "从学生毕业秀 看2010全球流行风向标",
+      "url": "https://modart.shu.edu.cn/info/1010/2377.htm",
+      "date": "2010-04-02",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法国“品牌之王”来沪",
+      "url": "https://modart.shu.edu.cn/info/1010/2375.htm",
+      "date": "2010-04-01",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法服装“品牌之王”访沪",
+      "url": "https://modart.shu.edu.cn/info/1010/2374.htm",
+      "date": "2010-03-26",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "中法交流服饰文化 洋小姐青睐“海宝衫”",
+      "url": "https://modart.shu.edu.cn/info/1010/2372.htm",
+      "date": "2010-03-25",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法国大学生也爱世博T恤",
+      "url": "https://modart.shu.edu.cn/info/1010/2373.htm",
+      "date": "2010-03-25",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法国服装界“品牌之王”与沪上设计专业学子交流",
+      "url": "https://modart.shu.edu.cn/info/1010/2371.htm",
+      "date": "2010-03-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "中国本土时装设计师的“四大硬伤”",
+      "url": "https://modart.shu.edu.cn/info/1010/2370.htm",
+      "date": "2010-02-22",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎时装学院被列为全国十家时装顶级院校",
+      "url": "https://modart.shu.edu.cn/info/1010/2357.htm",
+      "date": "2009-12-21",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎时装学院展示“世博”主题服装",
+      "url": "https://modart.shu.edu.cn/info/1010/2358.htm",
+      "date": "2009-12-21",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎时装学院被列为 全国十家时装顶级院校",
+      "url": "https://modart.shu.edu.cn/info/1010/2359.htm",
+      "date": "2009-12-21",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "大学生设计 世博会服装",
+      "url": "https://modart.shu.edu.cn/info/1010/2355.htm",
+      "date": "2009-12-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "大学生设计“世博版”校服",
+      "url": "https://modart.shu.edu.cn/info/1010/2356.htm",
+      "date": "2009-12-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "“时尚创意空间”让人惊叹",
+      "url": "https://modart.shu.edu.cn/info/1010/2354.htm",
+      "date": "2009-10-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "张睿 新一代结构感时装",
+      "url": "https://modart.shu.edu.cn/info/1010/2353.htm",
+      "date": "2009-08-12",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上海大学巴黎国际时装艺术学院 09届学生毕业秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2351.htm",
+      "date": "2009-08-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上海大学—巴黎国际时装艺术学院 09届学生毕业秀",
+      "url": "https://modart.shu.edu.cn/info/1010/2352.htm",
+      "date": "2009-08-05",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "学生毕业秀别出心裁",
+      "url": "https://modart.shu.edu.cn/info/1010/2350.htm",
+      "date": "2009-07-27",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "时装秀中看异域教育",
+      "url": "https://modart.shu.edu.cn/info/1010/2287.htm",
+      "date": "2006-07-18",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大时装首届毕业生预测—时装秀演绎七大时尚风格",
+      "url": "https://modart.shu.edu.cn/info/1010/2282.htm",
+      "date": "2006-07-15",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "首届中法培养打版师科班毕业—打版师的异想世界",
+      "url": "https://modart.shu.edu.cn/info/1010/2284.htm",
+      "date": "2006-07-15",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "首批本科资格服装制版师毕业",
+      "url": "https://modart.shu.edu.cn/info/1010/2286.htm",
+      "date": "2006-07-15",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "为做服装制版师，吃点苦也值",
+      "url": "https://modart.shu.edu.cn/info/1010/2280.htm",
+      "date": "2006-07-14",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "法国青年艺术家造访申城：惊叹上海市民够时尚",
+      "url": "https://modart.shu.edu.cn/info/1010/2277.htm",
+      "date": "2006-06-10",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "大学好进 大二难上 （法国）",
+      "url": "https://modart.shu.edu.cn/info/1010/2275.htm",
+      "date": "2006-03-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "上大巴黎时装学院搭建时尚平台",
+      "url": "https://modart.shu.edu.cn/info/1010/2273.htm",
+      "date": "2004-12-22",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "世界著名模特经纪人吉田先生谈怎样培养优秀模特",
+      "url": "https://modart.shu.edu.cn/info/1010/2271.htm",
+      "date": "2004-12-10",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "名模坎贝尔受聘上海大学艺术顾问",
+      "url": "https://modart.shu.edu.cn/info/1010/2270.htm",
+      "date": "2004-10-28",
+      "column": "时尚资讯"
+    }
+  ]
+}

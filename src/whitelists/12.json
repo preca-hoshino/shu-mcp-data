@@ -1,0 +1,42 @@
+{
+  "chemlab.shu.edu.cn": {
+    "type": "12",
+    "department": "上海大学化学教学实验中心",
+    "pages": {
+      "/dhl/xwdt.htm": {
+        "pages": 8,
+        "column": "新闻动态"
+      },
+      "/dhl/syjxxx.htm": {
+        "pages": 10,
+        "column": "实验教学信息"
+      },
+      "/dhl/syap.htm": {
+        "pages": 5,
+        "column": "实验安排"
+      },
+      "/yqzy.htm": {
+        "pages": 4,
+        "column": "仪器资源"
+      }
+    }
+  },
+  "gzc.shu.edu.cn": {
+    "type": "12",
+    "department": "上海大学国有资产管理办公室",
+    "pages": {
+      "/xxdt.htm": {
+        "pages": 3,
+        "column": "信息动态"
+      },
+      "/tzgg.htm": {
+        "pages": 4,
+        "column": "通知公告"
+      },
+      "/zczd.htm": {
+        "pages": 7,
+        "column": "政策制度"
+      }
+    }
+  }
+}

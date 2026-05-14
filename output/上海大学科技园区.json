@@ -1,0 +1,73 @@
+{
+  "domain": "sustp.shu.edu.cn",
+  "department": "上海大学科技园区",
+  "type": "09",
+  "crawl_time": "20260513_175610",
+  "total_articles": 10,
+  "columns": {
+    "公告": 8,
+    "通知": 2
+  },
+  "articles": [
+    {
+      "title": "结束巡察进驻公告",
+      "url": "https://sustp.shu.edu.cn/info/1123/4471.htm",
+      "date": "2026-04-29",
+      "column": "公告"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://sustp.shu.edu.cn/info/1123/4441.htm",
+      "date": "2026-04-08",
+      "column": "公告"
+    },
+    {
+      "title": "比选结果公示",
+      "url": "https://sustp.shu.edu.cn/info/1123/4089.htm",
+      "date": "2022-12-06",
+      "column": "公告"
+    },
+    {
+      "title": "净资产审计事务所比选公告",
+      "url": "https://sustp.shu.edu.cn/info/1123/4078.htm",
+      "date": "2022-11-18",
+      "column": "公告"
+    },
+    {
+      "title": "科产系统党委组织学习党的二十大精神",
+      "url": "https://sustp.shu.edu.cn/info/1123/4074.htm",
+      "date": "2022-11-16",
+      "column": "公告"
+    },
+    {
+      "title": "比选结果公示",
+      "url": "https://sustp.shu.edu.cn/info/1123/4076.htm",
+      "date": "2022-11-16",
+      "column": "公告"
+    },
+    {
+      "title": "企业经营异常状态下，申请注销、移出怎么办？总局答复了！",
+      "url": "https://sustp.shu.edu.cn/info/1123/3942.htm",
+      "date": "2021-01-21",
+      "column": "公告"
+    },
+    {
+      "title": "关于第22届中国国际工业博览会预约通知",
+      "url": "https://sustp.shu.edu.cn/info/1122/3884.htm",
+      "date": "2020-09-11",
+      "column": "通知"
+    },
+    {
+      "title": "秋季学期教职工返校开学和疫情防控工作提示",
+      "url": "https://sustp.shu.edu.cn/info/1123/3866.htm",
+      "date": "2020-08-30",
+      "column": "公告"
+    },
+    {
+      "title": "关于征集“第22届中国国际工业博览会”参展项目的通知",
+      "url": "https://sustp.shu.edu.cn/info/1122/3867.htm",
+      "date": "2020-05-30",
+      "column": "通知"
+    }
+  ]
+}

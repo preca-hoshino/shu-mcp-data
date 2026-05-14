@@ -1,0 +1,3985 @@
+{
+  "domain": "ms.shu.edu.cn",
+  "department": "上海大学管理学院",
+  "type": "04",
+  "crawl_time": "20260513_175610",
+  "total_articles": 662,
+  "columns": {
+    "学术活动": 160,
+    "重要通知": 502
+  },
+  "articles": [
+    {
+      "title": "0521上海管理论坛第572期（陈星宇教授，深圳大学管理学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/91945.htm",
+      "date": "2026-05-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院关于2026年度本科生校长奖学金学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/91925.htm",
+      "date": "2026-04-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "结束巡察进驻公告",
+      "url": "https://ms.shu.edu.cn/info/1245/91915.htm",
+      "date": "2026-04-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "第十六届全国大学生电子商务“创新、创意及创业”挑战赛上海大学校内赛...",
+      "url": "https://ms.shu.edu.cn/info/1245/91885.htm",
+      "date": "2026-04-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2025年度上海大学百名优秀团员、五四红旗团支部公示",
+      "url": "https://ms.shu.edu.cn/info/1245/91805.htm",
+      "date": "2026-04-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://ms.shu.edu.cn/info/1245/91745.htm",
+      "date": "2026-04-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "0414上海管理论坛第570期（蔡莉教授，吉林大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/91755.htm",
+      "date": "2026-04-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "0422上海管理论坛第571期（葛冰冰，英国兰卡斯特大学管理学院助理教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/91765.htm",
+      "date": "2026-04-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学管理学院2026年硕士研究生调剂工作办法",
+      "url": "https://ms.shu.edu.cn/info/1245/91725.htm",
+      "date": "2026-04-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于2026届本科生优秀毕业生学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/91565.htm",
+      "date": "2026-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2026年硕士研究生招生复试细则",
+      "url": "https://ms.shu.edu.cn/info/1245/91545.htm",
+      "date": "2026-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2026年博士研究生招生考核工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/91505.htm",
+      "date": "2026-03-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2026年寒假值班安排",
+      "url": "https://ms.shu.edu.cn/info/1245/91475.htm",
+      "date": "2026-01-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "0107上海管理论坛第568期（陈小君教授，香港理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/91305.htm",
+      "date": "2026-01-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "0115上海管理论坛第569期（姜铠丰教授，北京大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/91315.htm",
+      "date": "2026-01-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "1224上海管理论坛第567期（贾帅教授，香港科技大学（广州））",
+      "url": "https://ms.shu.edu.cn/info/1246/91195.htm",
+      "date": "2025-12-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "1217上海管理论坛第566期（吕兆松教授，明尼苏达大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/91165.htm",
+      "date": "2025-12-15",
+      "column": "学术活动"
+    },
+    {
+      "title": "1213上海管理论坛第565期（杨翠红院士，中国科学院数学与系统科学研究院...",
+      "url": "https://ms.shu.edu.cn/info/1246/91155.htm",
+      "date": "2025-12-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "1218上海管理论坛第563期（诸竹君教授，浙江工商大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/91115.htm",
+      "date": "2025-12-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "1226上海管理论坛第564期（罗进辉教授，厦门大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/91125.htm",
+      "date": "2025-12-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "2024-2025学年上海大学及管理学院本科生优秀学生、优秀学生干部、学生先...",
+      "url": "https://ms.shu.edu.cn/info/1245/91105.htm",
+      "date": "2025-11-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "1124上海管理论坛第562期（申立银教授，浙大城市学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/91065.htm",
+      "date": "2025-11-21",
+      "column": "学术活动"
+    },
+    {
+      "title": "1125上海管理论坛第561期（周孟初教授，美国新泽西理工学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/91055.htm",
+      "date": "2025-11-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "1112上海管理论坛第559期（赵云彬教授，广东省智能工业孪生与优化工程技...",
+      "url": "https://ms.shu.edu.cn/info/1246/90875.htm",
+      "date": "2025-11-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "1112上海管理论坛第560期（凌晨教授，杭州电子科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90885.htm",
+      "date": "2025-11-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "1117上海管理论坛第558期（赵雁飞教授，牛津大学赛德商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/90865.htm",
+      "date": "2025-11-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "1113上海管理论坛第557期（Christopher Tang教授，加州大学洛杉矶分校）",
+      "url": "https://ms.shu.edu.cn/info/1246/90845.htm",
+      "date": "2025-11-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于2025年对超过最长学习年限研究生 做退学处理的公告",
+      "url": "https://ms.shu.edu.cn/info/1245/90775.htm",
+      "date": "2025-11-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2024-2025学年秋季奖学金初审学生名单",
+      "url": "https://ms.shu.edu.cn/info/1245/90835.htm",
+      "date": "2025-11-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "1031上海管理论坛第556期（李锋教授，华中科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90725.htm",
+      "date": "2025-10-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "1021上海管理论坛第555期（吴鹏教授，福州大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90695.htm",
+      "date": "2025-10-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "1014上海管理论坛第554期（Lars Mönch教授，德国哈根大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90685.htm",
+      "date": "2025-10-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院2024-2025学年上海市奖学金初评推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/90625.htm",
+      "date": "2025-09-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2024-2025学年国家奖学金初评推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/90605.htm",
+      "date": "2025-09-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2024-2025学年宝钢奖学金初评推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/90585.htm",
+      "date": "2025-09-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院国家励志奖学金初审名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/90595.htm",
+      "date": "2025-09-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2026年接收推荐免试攻读硕士学位研究生考核工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/90575.htm",
+      "date": "2025-09-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "0901上海管理论坛第553期（胡肖然博士，英国伦敦政治经济学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/90395.htm",
+      "date": "2025-08-29",
+      "column": "学术活动"
+    },
+    {
+      "title": "2024-2025学年上海大学研究生“优秀党员先锋”“党建工作先进个人”管理...",
+      "url": "https://ms.shu.edu.cn/info/1245/90065.htm",
+      "date": "2025-06-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2025年就业“攀登奖”初审名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/89995.htm",
+      "date": "2025-06-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "2024级上海大学管理学院大类学生优秀学生、优秀学生干部 推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/89965.htm",
+      "date": "2025-05-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2025年博士研究生招生工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/89885.htm",
+      "date": "2025-04-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "第十五届全国大学生电子商务“创新、创意及创业”挑战赛上海大学校内赛...",
+      "url": "https://ms.shu.edu.cn/info/1245/89905.htm",
+      "date": "2025-04-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于2025年度优秀毕业生学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/89015.htm",
+      "date": "2025-04-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2024年度上海大学百名优秀团员、五四红旗团支部公示",
+      "url": "https://ms.shu.edu.cn/info/1245/89005.htm",
+      "date": "2025-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于2025年度本科生校长奖学金 学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/88995.htm",
+      "date": "2025-04-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2025年管理学院硕士研究生调剂工作办法",
+      "url": "https://ms.shu.edu.cn/info/1245/88975.htm",
+      "date": "2025-04-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院各学位授权点《学位授权点建设年度报告》（2020-2024年度）",
+      "url": "https://ms.shu.edu.cn/info/1245/88965.htm",
+      "date": "2025-03-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2025硕士研究生复试名单",
+      "url": "https://ms.shu.edu.cn/info/1245/88895.htm",
+      "date": "2025-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2025年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/88885.htm",
+      "date": "2025-03-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于管理学院2025届研究生优秀毕业生评选推荐名单公示的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/88865.htm",
+      "date": "2025-03-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海大学管理学院2025届研究生“优秀毕业生”评选细则公布的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/88775.htm",
+      "date": "2025-02-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023-2024学年上海大学及管理学院本科生优秀学生、优秀学生干部、学生先...",
+      "url": "https://ms.shu.edu.cn/info/1245/88305.htm",
+      "date": "2024-11-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2023-2024学年本科生秋季奖学金初审名单",
+      "url": "https://ms.shu.edu.cn/info/1245/88115.htm",
+      "date": "2024-11-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于管理学院2023-2024学年上海市奖学金拟推荐候选人增补名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/88085.htm",
+      "date": "2024-11-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2025年接收推荐免试攻读硕士学位研究生考核工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/87685.htm",
+      "date": "2024-09-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2025年优秀应届本科毕业生免试攻读研究生拟推荐名单",
+      "url": "https://ms.shu.edu.cn/info/1245/87665.htm",
+      "date": "2024-09-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2023-2024学年宝钢奖学金、国家奖学金、上海市奖学金初评推荐名...",
+      "url": "https://ms.shu.edu.cn/info/1245/87625.htm",
+      "date": "2024-09-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2025年接收推荐免试攻读研究生（含直博生）相关问题集...",
+      "url": "https://ms.shu.edu.cn/info/1245/87565.htm",
+      "date": "2024-09-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "0627上海管理论坛第529期（Jelmer Pier van der Gaast教授，复旦大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87215.htm",
+      "date": "2024-06-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "0702上海管理论坛第530期（Garry D.Bruton教授，美国德克萨斯基督教大学...",
+      "url": "https://ms.shu.edu.cn/info/1246/87225.htm",
+      "date": "2024-06-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "0702上海管理论坛第531期（许智文教授，香港城市大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87235.htm",
+      "date": "2024-06-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "0705上海管理论坛第532期（杨翼教授，浙江大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87245.htm",
+      "date": "2024-06-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "0622上海管理论坛第528期（胡耀华教授，深圳大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87145.htm",
+      "date": "2024-06-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "0621上海管理论坛第527期（储诚斌教授，巴黎中央理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87115.htm",
+      "date": "2024-06-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "0616上海管理论坛第525期（叶强教授，中国科学技术大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87055.htm",
+      "date": "2024-06-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "0617上海管理论坛第526期（黄伟教授，南方科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87065.htm",
+      "date": "2024-06-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "2023-2024学年上海大学研究生“优秀党员先锋”“党建工作先进个人”管理...",
+      "url": "https://ms.shu.edu.cn/info/1245/87005.htm",
+      "date": "2024-06-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "0610上海管理论坛第524期（汤津彤教授，美国圣路易斯大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86975.htm",
+      "date": "2024-05-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "0527上海管理论坛第522期（王亚东教授，南京理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86955.htm",
+      "date": "2024-05-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "0529上海管理论坛第523期（申培萍教授，华北水利水电大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86965.htm",
+      "date": "2024-05-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于上海大学管理学院研究生学业奖学金评审细则2021年修订版新增补充条...",
+      "url": "https://ms.shu.edu.cn/info/1245/86915.htm",
+      "date": "2024-05-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "0516上海管理论坛第520期（王良燕教授，上海交通大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86875.htm",
+      "date": "2024-05-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "0527上海管理论坛第521期（沈俏蔚教授，北京大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86885.htm",
+      "date": "2024-05-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学管理学院2024年博士研究生招生工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/86865.htm",
+      "date": "2024-05-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于2022-2023学年本科生校长奖学金 学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/86775.htm",
+      "date": "2024-05-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "0507上海管理论坛第517期（蔡天文教授，美国宾夕法尼亚大学沃顿商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/86745.htm",
+      "date": "2024-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "0509上海管理论坛第518期（马甜副教授，中央民族大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86755.htm",
+      "date": "2024-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "0510上海管理论坛第519期（蒋毅教授，中国科学院心理研究所）",
+      "url": "https://ms.shu.edu.cn/info/1246/86765.htm",
+      "date": "2024-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "0508上海管理论坛第516期（Soo Hee Lee 教授，肯特大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86735.htm",
+      "date": "2024-04-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院关于2024年度优秀毕业生学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/86725.htm",
+      "date": "2024-04-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "0422上海管理论坛第515期（石涌江教授，剑桥大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86715.htm",
+      "date": "2024-04-21",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院2023年度上海大学百名优秀团员、五四红旗团支部公示",
+      "url": "https://ms.shu.edu.cn/info/1245/86655.htm",
+      "date": "2024-04-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "创意蓬勃、梦想启航：引领新时代电商发展 —— 第十四届全国大学生电子...",
+      "url": "https://ms.shu.edu.cn/info/1245/86665.htm",
+      "date": "2024-04-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "0410上海管理论坛第514期（罗家德教授，清华大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/86525.htm",
+      "date": "2024-03-31",
+      "column": "学术活动"
+    },
+    {
+      "title": "2024年管理学院硕士复试名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/86505.htm",
+      "date": "2024-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2024年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/86485.htm",
+      "date": "2024-03-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "0328上海管理论坛第513期（王鹤丽教授，新加坡管理大学李光前商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/86415.htm",
+      "date": "2024-03-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于举办第十四届全国大学生电子商务“创新、创意及创业”挑战赛上海赛...",
+      "url": "https://ms.shu.edu.cn/info/1245/85515.htm",
+      "date": "2023-11-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022-2023学年上海大学及管理学院本科生优秀学生、优秀学生干部、学生先...",
+      "url": "https://ms.shu.edu.cn/info/1245/85495.htm",
+      "date": "2023-11-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2022-2023学年秋季奖学金初审学生名单",
+      "url": "https://ms.shu.edu.cn/info/1245/85475.htm",
+      "date": "2023-11-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年上海大学研究生学业奖学金管理学院研究生候选人初选名单",
+      "url": "https://ms.shu.edu.cn/info/1245/85385.htm",
+      "date": "2023-11-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "​2023年上海大学研究生国家奖学金管理学院硕士研究生候选人初选名单（...",
+      "url": "https://ms.shu.edu.cn/info/1245/85205.htm",
+      "date": "2023-10-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年上海大学研究生校长奖学金管理学院候选人初选名单",
+      "url": "https://ms.shu.edu.cn/info/1245/85185.htm",
+      "date": "2023-09-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "​2023年上海大学研究生国家奖学金管理学院博士研究生候选人初选名单（...",
+      "url": "https://ms.shu.edu.cn/info/1245/85195.htm",
+      "date": "2023-09-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "2024年上海大学管理学院硕士研究生统考报名问题解答",
+      "url": "https://ms.shu.edu.cn/info/1245/85115.htm",
+      "date": "2023-09-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022-2023学年国家励志奖学金管理学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/85135.htm",
+      "date": "2023-09-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2022-2023学年宝钢奖学金、国家奖学金、上海市奖学金初评推荐名...",
+      "url": "https://ms.shu.edu.cn/info/1245/85075.htm",
+      "date": "2023-09-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年研究生宝钢奖学金管理学院候选人公示",
+      "url": "https://ms.shu.edu.cn/info/1245/85015.htm",
+      "date": "2023-09-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海大学管理学院研究生“国家”“特种”“学业”奖学金评审细则202...",
+      "url": "https://ms.shu.edu.cn/info/1245/84825.htm",
+      "date": "2023-09-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2021-2022学年秋季奖学金初审学生名单",
+      "url": "https://ms.shu.edu.cn/info/1245/16353.htm",
+      "date": "2022-11-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年上海大学管理学院硕士研究生统考报名问题解答",
+      "url": "https://ms.shu.edu.cn/info/1245/16326.htm",
+      "date": "2022-10-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2023年接收推荐免试攻读硕士学位研究生复试工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/16323.htm",
+      "date": "2022-09-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年上海大学研究生校长奖学金管理学院研究生候选人名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16321.htm",
+      "date": "2022-09-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年上海大学研究生国家奖学金管理学院研究生候选人名单公示(更新)",
+      "url": "https://ms.shu.edu.cn/info/1245/16311.htm",
+      "date": "2022-09-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年上海大学研究生学业奖学金管理学院研究生候选人名单公示(更新）",
+      "url": "https://ms.shu.edu.cn/info/1245/16312.htm",
+      "date": "2022-09-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021-2022学年国家励志奖学金管理学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16301.htm",
+      "date": "2022-09-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年研究生宝钢奖学金管理学院候选人公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16298.htm",
+      "date": "2022-09-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2021-2022学年宝钢奖学金、国家奖学金、上海市奖学金初评推荐名...",
+      "url": "https://ms.shu.edu.cn/info/1245/16299.htm",
+      "date": "2022-09-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2023推免复试相关问题集锦",
+      "url": "https://ms.shu.edu.cn/info/1245/16293.htm",
+      "date": "2022-09-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年度上海市哲学社会科学规划课题申报公告",
+      "url": "https://mp.weixin.qq.com/s/iu3D7WcmHVtu_5DWkBcWvg",
+      "date": "2022-06-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学2024年非全日制工程管理硕士（125601）项目简介",
+      "url": "https://ms.shu.edu.cn/info/1245/16219.htm",
+      "date": "2022-06-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2022年就业“攀登奖”初审名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16217.htm",
+      "date": "2022-06-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于2020-2021学年本科生校长奖学金学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16215.htm",
+      "date": "2022-05-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院各学位授权点《学位授权点建设年度报告》",
+      "url": "https://ms.shu.edu.cn/info/1245/16212.htm",
+      "date": "2022-05-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021-2022学年上海大学本科生“优秀班委”管理学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16202.htm",
+      "date": "2022-05-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于2022年优秀毕业生学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16199.htm",
+      "date": "2022-05-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2022年博士研究生招生工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/16192.htm",
+      "date": "2022-04-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2021-2022年度上海大学百名优秀团员、五四红旗团支部公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16187.htm",
+      "date": "2022-04-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2022年度硕士招生调剂复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/16170.htm",
+      "date": "2022-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2022年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/16171.htm",
+      "date": "2022-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年度教育部人文社会科学研究专项任务项目（中国特色社会主义理论体...",
+      "url": "https://mp.weixin.qq.com/s/JqrwHdzxaWAL_PsacKWTLw",
+      "date": "2022-01-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "2022年度教育部人文社会科学研究一般项目申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/Q_kRgIuIweiYMKrU3qaXSA",
+      "date": "2022-01-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "【国自然】上海大学2022年度国家自然科学基金项目申报通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/4017.htm",
+      "date": "2022-01-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年度管理学院正高级专业技术职务在岗教师年度学术交流评价结果",
+      "url": "https://ms.shu.edu.cn/info/1245/16133.htm",
+      "date": "2022-01-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年上海大学管理学院芈城奖学金评选公示",
+      "url": "https://ms.shu.edu.cn/info/1245/16113.htm",
+      "date": "2021-12-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海大学管理学院研究生“国家”“特种”“学业”奖学金评审细则202...",
+      "url": "https://ms.shu.edu.cn/info/1245/16103.htm",
+      "date": "2021-12-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于举办第十二届全国大学生电子商务“创新、创意及创业”挑战赛上海赛...",
+      "url": "https://ms.shu.edu.cn/info/1245/16093.htm",
+      "date": "2021-11-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "1125上海管理论坛第478期（曹志刚教授，北京交通大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/16081.htm",
+      "date": "2021-11-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "2020-2021学年上海大学及管理学院本科生优秀学生、优秀学生干部、学生先...",
+      "url": "https://ms.shu.edu.cn/info/1245/16056.htm",
+      "date": "2021-11-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年上海大学管理学院会计学术研讨会",
+      "url": "https://ms.shu.edu.cn/info/1246/16335.htm",
+      "date": "2021-11-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学管理学院第一届信管学术报告会会议通知",
+      "url": "https://ms.shu.edu.cn/info/1246/16332.htm",
+      "date": "2021-11-15",
+      "column": "学术活动"
+    },
+    {
+      "title": "2021年管理科学与工程学术年会通知",
+      "url": "https://ms.shu.edu.cn/info/1246/16333.htm",
+      "date": "2021-11-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "1028上海管理论坛第476期（董玉成教授，四川大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/16035.htm",
+      "date": "2021-10-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "1030上海管理论坛第477期（徐根玖教授，西北工业大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/16036.htm",
+      "date": "2021-10-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "1027上海管理论坛第475期（孙建坤博士，英国帝国理工学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/16031.htm",
+      "date": "2021-10-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于开展上海市第十五届哲学社会科学优秀成果(2018-2019)评奖工作的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5142.htm",
+      "date": "2021-10-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "1013上海管理论坛第474期（陈旭教授，电子科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/16017.htm",
+      "date": "2021-10-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "第三届智慧商务论坛暨数字经济管理与卫生健康城市研讨会会议通知",
+      "url": "https://ms.shu.edu.cn/info/1246/16331.htm",
+      "date": "2021-10-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "1012上海管理论坛第472期（陈凯华教授，中国科学院大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/16013.htm",
+      "date": "2021-10-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "1015上海管理论坛第473期（谢康教授，中山大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/16014.htm",
+      "date": "2021-10-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "22年上海大学管理学院硕士研究生统考报名问题解答",
+      "url": "https://ms.shu.edu.cn/info/1245/16001.htm",
+      "date": "2021-09-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2022推免复试相关问题集锦",
+      "url": "https://ms.shu.edu.cn/info/1245/16000.htm",
+      "date": "2021-09-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020-2021学年国家励志奖学金管理学院推荐名单公示",
+      "url": "https://ms.shu.edu.cn/info/1245/15993.htm",
+      "date": "2021-09-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "0917上海管理论坛第471期（龙立荣教授，华中科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15991.htm",
+      "date": "2021-09-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "0916上海管理论坛第470期（施俊琦教授，浙江大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15987.htm",
+      "date": "2021-09-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "【第二轮通知】首届中国管理案例学学科建设研讨会（高端论坛）",
+      "url": "https://ms.shu.edu.cn/info/1245/15974.htm",
+      "date": "2021-08-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年度“曙光计划”项目申报通知",
+      "url": "https://mp.weixin.qq.com/s/dlbQ_lyQkZMZ1rL_I5u3Mw",
+      "date": "2021-07-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于公布上海大学管理学院院级科研项目结题验收评审结果的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/15968.htm",
+      "date": "2021-07-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年度教育部哲学社会科学研究重大课题攻关项目招标通知",
+      "url": "https://mp.weixin.qq.com/s/pbNSV_Y66F5mWIiJPUg95g",
+      "date": "2021-07-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "0713上海管理论坛第469期（韩炜教授，西南政法大学商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/15959.htm",
+      "date": "2021-07-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院关于2020-2021学年宝钢奖学金、国家奖学金、上海市奖学金学院推...",
+      "url": "https://ms.shu.edu.cn/info/1245/15958.htm",
+      "date": "2021-07-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "0705上海管理论坛第465期（马修岩副研究员，浙江工业大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15954.htm",
+      "date": "2021-07-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "0707上海管理论坛第466期（刘家国教授,大连海事大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15955.htm",
+      "date": "2021-07-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "0708上海管理论坛第467期（杨嬛副研究员，上海财经大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15956.htm",
+      "date": "2021-07-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "0715上海管理论坛第468期（毛昊教授，同济大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15957.htm",
+      "date": "2021-07-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "0702上海管理论坛第464期（李勇建教授，天津大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15953.htm",
+      "date": "2021-07-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "0628上海管理论坛第463期（谭志加教授，大连海事大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15948.htm",
+      "date": "2021-06-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "0623上海管理论坛第462期（周小鹏，上海市公安局交通警察总队教授级高工...",
+      "url": "https://ms.shu.edu.cn/info/1246/15946.htm",
+      "date": "2021-06-21",
+      "column": "学术活动"
+    },
+    {
+      "title": "0618上海管理论坛第461期（田歆副教授，中国科学院大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15942.htm",
+      "date": "2021-06-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于校党委第一巡察组结束巡察进驻工作公告",
+      "url": "https://ms.shu.edu.cn/info/1245/15936.htm",
+      "date": "2021-06-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "0621上海管理论坛第460期（周欣悦教授，浙江大学管理学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/15935.htm",
+      "date": "2021-06-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "2021年度上海市浦江人才计划（C类）申报通知",
+      "url": "https://mp.weixin.qq.com/s/X-oYrZJGeulTiyZnpl7NDQ",
+      "date": "2021-06-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院非全日制工程管理（125601）7月3日预面试报名的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/15928.htm",
+      "date": "2021-06-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "0528上海管理论坛第457期（张米尔教授，大连理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15921.htm",
+      "date": "2021-05-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "0528上海管理论坛第458期（唐莉教授，复旦大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15922.htm",
+      "date": "2021-05-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "0602上海管理论坛第459期（陈孝伟副教授，南开大学金融学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/15923.htm",
+      "date": "2021-05-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://ms.shu.edu.cn/info/1245/15915.htm",
+      "date": "2021-05-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年度上海市哲学社会科学规划课题申报公告",
+      "url": "https://mp.weixin.qq.com/s/jE_qLND-PLX7iJvzN8uSNA",
+      "date": "2021-05-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "中国人才研究会工资福利专业委员会2021年年会暨“新发展格局下的收入分...",
+      "url": "https://ms.shu.edu.cn/info/1246/16053.htm",
+      "date": "2021-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "2021年度国家社会科学基金后期资助暨优秀博士论文出版项目申报公告",
+      "url": "https://mp.weixin.qq.com/s/UyG5SdZcX7_WQuYlZbGe5A",
+      "date": "2021-04-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院 2021年博士研究生招生工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/15889.htm",
+      "date": "2021-04-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于发布上海市2021年度“科技创新行动计划”软科学重点项目申报指南的...",
+      "url": "http://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20210402/3275d55a3d124dd18a4abc8486c545df.html",
+      "date": "2021-04-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "0405上海管理论坛第454期（王翔宇教授，欧盟科学院院士）",
+      "url": "https://ms.shu.edu.cn/info/1246/15854.htm",
+      "date": "2021-04-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "0420上海管理论坛第455期（蒋含莞博士，美国威斯康星大学普莱特维尔分校...",
+      "url": "https://ms.shu.edu.cn/info/1246/15856.htm",
+      "date": "2021-04-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "0402上海管理论坛第453期（余江教授，中国科学院大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15851.htm",
+      "date": "2021-03-31",
+      "column": "学术活动"
+    },
+    {
+      "title": "0330上海管理论坛第452期（张进博士，南方科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15850.htm",
+      "date": "2021-03-29",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学管理学院2021年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/15842.htm",
+      "date": "2021-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院调剂工作办法",
+      "url": "https://ms.shu.edu.cn/info/1245/15843.htm",
+      "date": "2021-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海大学管理学院2021年硕士研究生复试时间安排的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/15832.htm",
+      "date": "2021-03-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "0324上海管理论坛第451期（张旭，澳大利亚阿德莱德大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15826.htm",
+      "date": "2021-03-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "0318上海管理论坛第450期（岳晓航教授，美国威斯康星大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15822.htm",
+      "date": "2021-03-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "第六届全国教育科学研究优秀成果评选奖励通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5102.htm",
+      "date": "2021-03-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021非全日制专硕考生咨询情况集中答复",
+      "url": "https://ms.shu.edu.cn/info/1245/15818.htm",
+      "date": "2021-03-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "0301上海管理论坛第449期（汤津彤教授，美国圣路易斯大学查菲兹商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/15816.htm",
+      "date": "2021-02-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于开展2014-2020年上海市教育科学研究优秀成果奖评选的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5092.htm",
+      "date": "2021-02-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年度管理学院正高级专业技术职务在岗教师年度学术交流评价结果",
+      "url": "https://ms.shu.edu.cn/info/1245/15802.htm",
+      "date": "2021-01-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "2021年度教育部人文社会科学研究一般项目申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/15801.htm",
+      "date": "2021-01-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学2021年度国家自然科学基金项目申报通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/3652.htm",
+      "date": "2021-01-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集上海市2021年度“科技创新行动计划” 软科学重点项目指南建议的...",
+      "url": "https://ms.shu.edu.cn/info/1245/15785.htm",
+      "date": "2021-01-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "0115上海管理论坛第447期（胡文清博士，美国密苏里科技大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15772.htm",
+      "date": "2021-01-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "0117上海管理论坛第448期（梁华军高级工程师，上海市道路运输管理局）",
+      "url": "https://ms.shu.edu.cn/info/1246/15773.htm",
+      "date": "2021-01-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "0111上海管理论坛第446期（唐翌教授，香港大学商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/15731.htm",
+      "date": "2021-01-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "0113上海管理论坛第445期（刘建国教授，上海财经大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15732.htm",
+      "date": "2021-01-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "1224上海管理论坛第444期（赵雁飞教授，美国印第安纳大学凯莱商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/15692.htm",
+      "date": "2020-12-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "1216上海管理论坛第443期（杨迤教授，美国洛厄尔麻省大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/15646.htm",
+      "date": "2020-12-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于2020年对超过最长学习年限研究生做退学处理的公告",
+      "url": "https://ms.shu.edu.cn/info/1245/15561.htm",
+      "date": "2020-11-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020研究生国家奖学金管理学院候选人初选名单（含候补）",
+      "url": "https://ms.shu.edu.cn/info/1245/15493.htm",
+      "date": "2020-10-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2020推免事宜的通告",
+      "url": "https://ms.shu.edu.cn/info/1245/15482.htm",
+      "date": "2020-10-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年国家社科基金中华学术外译项目申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/15413.htm",
+      "date": "2020-09-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2020年度“曙光计划”项目申报工作的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4891.htm",
+      "date": "2020-08-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年上海大学管理学院夏季实践类教学安排方案",
+      "url": "https://ms.shu.edu.cn/info/1245/15212.htm",
+      "date": "2020-07-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于做好2020年度教职工考核工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11162.htm",
+      "date": "2020-06-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于开展教职工聘期考核、续聘和岗位等级晋升工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11163.htm",
+      "date": "2020-06-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2020年博士研究生招生工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/11161.htm",
+      "date": "2020-06-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "中国研究数据服务平台(CNRDS)数据库基础库正式权限开通通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11160.htm",
+      "date": "2020-06-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院调剂工作办法",
+      "url": "https://ms.shu.edu.cn/info/1245/11159.htm",
+      "date": "2020-05-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2020年非全日制MPAcc项目接受调剂志愿考生的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11158.htm",
+      "date": "2020-05-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2020年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/11157.htm",
+      "date": "2020-05-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于博士报考材料推迟邮寄事宜的说明",
+      "url": "https://ms.shu.edu.cn/info/1245/11154.htm",
+      "date": "2020-04-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于发布上海市2020年度“科技创新行动计划”软科学重点项目申报指南的...",
+      "url": "http://cxglb.shu.edu.cn/info/1011/2935.htm",
+      "date": "2020-04-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年国外教育调研访问学者项目遴选通知",
+      "url": "http://www.hr.shu.edu.cn/info/1029/4441.htm",
+      "date": "2020-04-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2020年高级专业技术职务晋升聘任工作的通知",
+      "url": "http://www.hr.shu.edu.cn/info/1029/4391.htm",
+      "date": "2020-03-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于举办第十届全国大学生电子商务“创新、创意及创业”挑战赛上海赛区...",
+      "url": "https://ms.shu.edu.cn/info/1245/11148.htm",
+      "date": "2020-03-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于“新冠肺炎疫情等突发公共事件的管理与治理研究”培育项目招标结果...",
+      "url": "https://ms.shu.edu.cn/info/1245/11147.htm",
+      "date": "2020-03-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院\"新冠肺炎疫情等突发公共事件的管理与治理研究”培育项目申报指南",
+      "url": "https://ms.shu.edu.cn/info/1245/11146.htm",
+      "date": "2020-03-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学与法国雷恩商学院联合培养项目（2020）",
+      "url": "https://ms.shu.edu.cn/info/1245/11145.htm",
+      "date": "2020-03-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年度中国外文局对外话语体系建设课题研究项目与中国翻译研究院课题...",
+      "url": "https://ms.shu.edu.cn/info/1245/11144.htm",
+      "date": "2020-02-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学关于推迟2020年度项目申请与结题时间等相关事宜的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11142.htm",
+      "date": "2020-02-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年度国家自然科学基金项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11141.htm",
+      "date": "2020-01-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2020年度国家社科基金重大项目选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11139.htm",
+      "date": "2020-01-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2020年度上海市教育科学研究项目（第二批）的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11140.htm",
+      "date": "2020-01-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年度国家社会科学基金项目申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11137.htm",
+      "date": "2019-12-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "课程思政与人才培养研讨会",
+      "url": "http://www.ms.shu.edu.cn/Portals/593/课程思政与人才培养研讨会.pdf",
+      "date": "2019-12-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于召开“第三届工业工程、创新创业与产业生态学国际论坛”的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11133.htm",
+      "date": "2019-12-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "研究阐释党的十九届四中全会精神国家社科基金重大项目招标公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11132.htm",
+      "date": "2019-11-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2019年对超过最长学习年限研究生做退学处理的公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11131.htm",
+      "date": "2019-10-31",
+      "column": "重要通知"
+    },
+    {
+      "title": "2019年度“晨光计划”项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11130.htm",
+      "date": "2019-10-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院本科生单项奖评审细则",
+      "url": "https://ms.shu.edu.cn/info/1245/11128.htm",
+      "date": "2019-10-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于启动我校2020年度国家社科基金项目预申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11124.htm",
+      "date": "2019-10-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "2019年度国家哲学社会科学成果文库申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11122.htm",
+      "date": "2019-09-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院本科生学籍清理的公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11123.htm",
+      "date": "2019-09-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2020年优秀应届本科毕业生免试攻读硕士学位研究生拟推荐名单",
+      "url": "https://ms.shu.edu.cn/info/1245/11117.htm",
+      "date": "2019-09-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "2019年国家社科基金中华学术外译项目申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11116.htm",
+      "date": "2019-09-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2020年推荐免试攻读硕士研究生工作实施细则",
+      "url": "https://ms.shu.edu.cn/info/1245/11115.htm",
+      "date": "2019-09-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2020年度教育部人文社会科学研究一般项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11114.htm",
+      "date": "2019-08-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "2019年度国家语委科研项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11113.htm",
+      "date": "2019-08-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2020年度教育部哲学社会科学研究后期资助项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11112.htm",
+      "date": "2019-07-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2020年度教育部哲学社会科学研究重大课题攻关项目招标工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/11110.htm",
+      "date": "2019-07-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "2019年国家社科基金冷门“绝学”和国别史等研究专项申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/11108.htm",
+      "date": "2019-06-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2018年度教育部人文社会科学研究专项任务项目（高校思想政治工作）申报...",
+      "url": "https://ms.shu.edu.cn/info/1245/10998.htm",
+      "date": "2018-02-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "2018年度高校示范马克思主义学院和优秀教学科研团队建设项目申报工作的...",
+      "url": "https://ms.shu.edu.cn/info/1245/10999.htm",
+      "date": "2018-02-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2018年国家旅游局科研立项申报的公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10995.htm",
+      "date": "2018-02-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2018年度教育部人文社会科学研究专项任务项目（工程科技人才培养研究）...",
+      "url": "https://ms.shu.edu.cn/info/1245/10996.htm",
+      "date": "2018-02-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2018年度教育部人文社会科学研究专项任务项目（中国特色社会主义理论体...",
+      "url": "https://ms.shu.edu.cn/info/1245/10997.htm",
+      "date": "2018-02-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2018年度教育部人文社会科学研究一般项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10993.htm",
+      "date": "2018-01-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "第八届全国大学生电子三创赛校内赛通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10992.htm",
+      "date": "2018-01-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要通知】2018国家自科基金申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10991.htm",
+      "date": "2018-01-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2018年度教育部哲学社会科学研究重大课题攻关项目选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10989.htm",
+      "date": "2018-01-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "【市科委】关于发布上海市2018年度“科技创新行动计划”软科学研究领域...",
+      "url": "https://ms.shu.edu.cn/info/1245/10986.htm",
+      "date": "2018-01-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2018年度国家社科基金重大项目选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10987.htm",
+      "date": "2018-01-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "2017教育部社科统计工作",
+      "url": "https://ms.shu.edu.cn/info/1245/10985.htm",
+      "date": "2017-12-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学-法国雷恩商学院联合培养项目启动",
+      "url": "https://ms.shu.edu.cn/info/1245/10983.htm",
+      "date": "2017-11-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于报送2018年教职工进修培训计划的通知",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=10296&ctl=Detail&mid=19221&Id=83938&SkinSrc=[L]",
+      "date": "2017-11-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "2018年度上海市浦江人才计划申请公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10981.htm",
+      "date": "2017-11-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于转发《关于开展2017年上海高校高等教育研究人员高级专业技术职务学...",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=10296&ctl=Detail&mid=19221&Id=83931&SkinSrc=[L]",
+      "date": "2017-11-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2017年“蔡冠深优秀青年教师”评选工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10978.htm",
+      "date": "2017-11-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于召开“第一届工业工程与产业生态学国际论坛”的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10977.htm",
+      "date": "2017-11-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于组织申报2018年上海高校智库内涵建设计划项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10975.htm",
+      "date": "2017-11-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市哲学社会科学规划“研究阐释党的十九大精神”系列课题招标公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10976.htm",
+      "date": "2017-11-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集全国教育科学规划2018年度重大、重点项目选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10973.htm",
+      "date": "2017-11-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要通知】2018年度国家社会科学基金项目申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10971.htm",
+      "date": "2017-10-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "2018年度上海市教育科学研究项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10970.htm",
+      "date": "2017-10-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "2017晨光计划申报通知",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=215894&SkinSrc",
+      "date": "2017-10-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要通知】2017年度学院科研工作量核算通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10965.htm",
+      "date": "2017-09-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2018年优秀应届本科毕业生免试攻读硕士学位研究生拟推荐名单",
+      "url": "https://ms.shu.edu.cn/info/1245/10964.htm",
+      "date": "2017-09-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2018年推荐免试攻读硕士研究生工作实施细则",
+      "url": "https://ms.shu.edu.cn/info/1245/10963.htm",
+      "date": "2017-09-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "2017年国家社科基金中华学术外译项目申报公告",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=214494&SkinSrc",
+      "date": "2017-08-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2017年度教育部哲学社会科学研究重大课题攻关项目招标工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10962.htm",
+      "date": "2017-08-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报上汽教育基金会2017-2018年度研究类课题招标的通知",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=213391&SkinSrc",
+      "date": "2017-06-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2017年度上海大学校长奖等奖项评选工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10956.htm",
+      "date": "2017-06-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申请2017年联合国粮农组织准专业官员和访问专家的通知",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=10296&ctl=Detail&mid=19221&Id=83380&SkinSrc=[L]",
+      "date": "2017-06-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "2017年度上海市哲学社会科学规划课题申报公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10952.htm",
+      "date": "2017-06-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于组织申报2017年上海高校智库内涵建设计划的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10951.htm",
+      "date": "2017-05-31",
+      "column": "重要通知"
+    },
+    {
+      "title": "0607上海管理论坛第239期（马铁驹教授，华东理工大学商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11508.htm",
+      "date": "2017-05-31",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于征集上海市2017年度艺术科学规划重大项目选题的通知",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=212085&SkinSrc",
+      "date": "2017-05-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "0531上海管理论坛第237期（刘东副教授，佐治亚理工大学施勒商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11507.htm",
+      "date": "2017-05-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "2017年度“曙光计划”项目申报工作通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10949.htm",
+      "date": "2017-05-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛第238期（Rabah Amir教授，爱荷华大学Tippie商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11506.htm",
+      "date": "2017-05-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第236期（熊焰教授，上海应用技术大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11505.htm",
+      "date": "2017-05-15",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于申报上海汽车工业基金会2017年度资助出版著作教材、奖励著作教材的...",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=211860&SkinSrc",
+      "date": "2017-05-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2018年MBA中文项目提前预面试通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10947.htm",
+      "date": "2017-05-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "0619上海管理论坛第235期（王涛博士，法国格勒诺布尔商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11504.htm",
+      "date": "2017-05-12",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海市社会科学界第十五届（2017）学术年会专场活动、论文征集公告",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=211701&SkinSrc",
+      "date": "2017-05-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "0510上海管理论坛第232期（张胜誉副教授，香港中文大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11502.htm",
+      "date": "2017-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于申报2017年度上海市教育委员会科研创新计划的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10945.htm",
+      "date": "2017-05-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "0615上海管理论坛第234期（Daniel Chen教授，美国德克萨斯基督教大学尼...",
+      "url": "https://ms.shu.edu.cn/info/1246/11501.htm",
+      "date": "2017-04-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第231期（郭沛俊教授，日本横滨国立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11500.htm",
+      "date": "2017-04-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "2017创新教育国际论坛（4月21日）",
+      "url": "https://ms.shu.edu.cn/info/1246/11499.htm",
+      "date": "2017-04-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "0417上海管理论坛第229期（Shan Yuan副教授，西澳大学商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11497.htm",
+      "date": "2017-04-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "0417上海管理论坛第230期（颜敏仁教授，中国文化大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11498.htm",
+      "date": "2017-04-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "0412上海管理论坛第228期（夏凡副教授，法国雷恩高等商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11496.htm",
+      "date": "2017-04-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "0327上海管理论坛第226期（任兵教授, 南开大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11494.htm",
+      "date": "2017-03-21",
+      "column": "学术活动"
+    },
+    {
+      "title": "0416上海管理论坛第227期（石涌江博士,英国剑桥大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11495.htm",
+      "date": "2017-03-21",
+      "column": "学术活动"
+    },
+    {
+      "title": "0316上海管理论坛第225期（罗梅丰副教授,香港理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11493.htm",
+      "date": "2017-03-12",
+      "column": "学术活动"
+    },
+    {
+      "title": "0308上海管理论坛第223期（林志行教授，日本东京国际战略计划研究所）",
+      "url": "https://ms.shu.edu.cn/info/1246/11491.htm",
+      "date": "2017-02-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "0308上海管理论坛第224期（齐藤真哉教授，日本横滨国立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11492.htm",
+      "date": "2017-02-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "02/20上海管理论坛第221期（王帅安博士，香港理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11489.htm",
+      "date": "2017-02-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "02/22上海管理论坛第222期（杨松教授，美国阿肯色大学、上海大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11490.htm",
+      "date": "2017-02-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第220期（张陈健博士，英国巴斯大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11488.htm",
+      "date": "2017-01-03",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第219期（何雪冬副教授，香港中文大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11487.htm",
+      "date": "2016-12-30",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第218期（李友梅教授，上海研究院）",
+      "url": "https://ms.shu.edu.cn/info/1246/11486.htm",
+      "date": "2016-12-29",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第217期（李宁教授，美国爱荷华大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11485.htm",
+      "date": "2016-12-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第216期（卢向华教授，复旦大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11484.htm",
+      "date": "2016-12-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第215期（余江教授，中国科学院大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11483.htm",
+      "date": "2016-12-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "创新驱动下的中国企业战略突围与工商学科发展论坛 ——暨“工商管理学科...",
+      "url": "https://ms.shu.edu.cn/info/1246/11481.htm",
+      "date": "2016-12-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学2016非全日制MPAcc培养研讨会",
+      "url": "https://ms.shu.edu.cn/info/1246/11482.htm",
+      "date": "2016-12-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第213期（陈俊宏教授，美国乔治梅森大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11480.htm",
+      "date": "2016-12-18",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第212期（Bernard De Baets教授，比利时根特大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11478.htm",
+      "date": "2016-12-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "MPAcc实务讲座通知（杨芳 上海立信锐思信息管理有限公司首席合伙人，总...",
+      "url": "https://ms.shu.edu.cn/info/1246/11476.htm",
+      "date": "2016-12-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "MPAcc实务讲座通知（李晓 博士 香港理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11477.htm",
+      "date": "2016-12-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第211期（刘德海教授，东北财经大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11474.htm",
+      "date": "2016-12-06",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第210期（舒嘉教授，东南大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11475.htm",
+      "date": "2016-12-06",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第208期（赵红教授，中国科学院大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11472.htm",
+      "date": "2016-12-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第209期（肖萍博士，新加坡国立大学营销学助理教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11473.htm",
+      "date": "2016-12-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "数据驱动 质量创新——2016第五届质量创新论坛",
+      "url": "https://ms.shu.edu.cn/info/1246/11471.htm",
+      "date": "2016-11-29",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第205期（Anna Khmelnitskaya副教授,俄罗斯格勒州立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11468.htm",
+      "date": "2016-11-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第206期（Anna Khmelnitskaya副教授,俄罗斯格勒州立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11469.htm",
+      "date": "2016-11-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第207期（魏江教授，浙江大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/11470.htm",
+      "date": "2016-11-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学“国际大师讲坛”之国际化创新论坛（六）——中国与美国：创新...",
+      "url": "https://ms.shu.edu.cn/info/1246/11467.htm",
+      "date": "2016-11-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "2016年度教育部哲学社会科学研究重大课题攻关项目招标工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10839.htm",
+      "date": "2016-06-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "[征稿通知]2016年第二届“上海竞争生态论坛”暨大数据时代公平竞争与创...",
+      "url": "https://ms.shu.edu.cn/info/1245/10838.htm",
+      "date": "2016-06-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "2016年度上海市“曙光计划”项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10826.htm",
+      "date": "2016-06-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2016年度上海大学年度单项奖等奖项评选工作的通知",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=10296&ctl=Detail&mid=19221&Id=81505&SkinSrc=[L]",
+      "date": "2016-05-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2016年度国家语委科研项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10817.htm",
+      "date": "2016-05-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市社会科学界第十四届（2016）学术年会专场活动、论文征集公告",
+      "url": "http://www.sssa.org.cn/nhgg/678259.htm",
+      "date": "2016-05-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "[教育部]教育部办公厅关于推荐2016年度高等学校科学研究优秀成果奖（科...",
+      "url": "http://www.sro.shu.edu.cn/Default.aspx?tabid=11098&ctl=Detail&mid=18878&Id=194777&SkinSrc=[",
+      "date": "2016-04-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "[国家其他部委办]关于评选2016年度中国产学研合作创新与促进奖的通知",
+      "url": "http://www.sro.shu.edu.cn/Default.aspx?tabid=11098&ctl=Detail&mid=18878&Id=194866&SkinSrc=[",
+      "date": "2016-04-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2016年乐天（LOTTE）奖学金评选通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10801.htm",
+      "date": "2016-04-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "2015—2016年度上海大学百优团员、十佳团支部书记评选管理学院研究生初...",
+      "url": "https://ms.shu.edu.cn/info/1245/10796.htm",
+      "date": "2016-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市教委关于组织申报上海高校智库内涵建设计划的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10793.htm",
+      "date": "2016-03-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "转发【市科委】上海市2016年度“科技创新行动计划”软科学研究领域重点...",
+      "url": "https://ms.shu.edu.cn/info/1245/10792.htm",
+      "date": "2016-03-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "2016年度国家广电总局部级社科研究项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10790.htm",
+      "date": "2016-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于出国费用的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10791.htm",
+      "date": "2016-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2016年度学校体育科研项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10786.htm",
+      "date": "2016-03-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "“麦子金服杯”上海大学第十届市场营销大赛火热报名中！",
+      "url": "https://ms.shu.edu.cn/info/1245/10789.htm",
+      "date": "2016-03-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于“挑战杯”培育项目招募学生团队的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10785.htm",
+      "date": "2016-03-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展上海市第十一届中国特色社会主义理论体系研究和宣传优秀成果、...",
+      "url": "https://ms.shu.edu.cn/info/1245/10783.htm",
+      "date": "2016-03-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院MBA中文项目调剂系统已开通",
+      "url": "https://ms.shu.edu.cn/info/1245/10776.htm",
+      "date": "2016-03-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院MBA中文项目复试（第一批）通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10775.htm",
+      "date": "2016-03-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "2015年度国家体育总局项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10556.htm",
+      "date": "2014-09-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2015年度上海市自然科学基金项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10552.htm",
+      "date": "2014-09-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2015年推荐免试攻读硕士研究生工作实施细则",
+      "url": "https://ms.shu.edu.cn/info/1245/10553.htm",
+      "date": "2014-09-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "(文科处通知)2015年上海市教育委员会科研创新项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10551.htm",
+      "date": "2014-09-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于完善科研信息统计的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10550.htm",
+      "date": "2014-09-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年下半年度上海市教育委员会科研创新项目验收工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10549.htm",
+      "date": "2014-08-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "启动2014年岗位设置与聘用管理工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10545.htm",
+      "date": "2014-07-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度上海市人民政府决策咨询研究教育政策专项课题公开招标通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10542.htm",
+      "date": "2014-07-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度上海市人民政府决策咨询研究工商联专项课题招标通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10543.htm",
+      "date": "2014-07-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年上海市育才奖评选奖励工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10539.htm",
+      "date": "2014-07-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于《上海大学国内差旅费管理办法》的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10537.htm",
+      "date": "2014-07-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度国家法治与法学理论研究项目课题申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10534.htm",
+      "date": "2014-06-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2013级大类学生专业分流报到安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10535.htm",
+      "date": "2014-06-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2013级大类学生夏季学期（分流后）及秋季学期选课说明",
+      "url": "https://ms.shu.edu.cn/info/1245/10536.htm",
+      "date": "2014-06-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学财务处关于启用新版“薪酬发放申报”系统的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10532.htm",
+      "date": "2014-06-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学财务处关于“最新报销须知”的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10533.htm",
+      "date": "2014-06-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度上海市人民政府决策咨询研究民政专项课题公开招标的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10530.htm",
+      "date": "2014-06-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年上海大学高校教师资格认定申报时间节点及流程",
+      "url": "https://ms.shu.edu.cn/info/1245/10528.htm",
+      "date": "2014-06-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "教育部人文社会科学研究一般项目和重点研究基地重大项目2014年度中期检...",
+      "url": "https://ms.shu.edu.cn/info/1245/10526.htm",
+      "date": "2014-06-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年国家旅游局优秀旅游学术成果申报的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10527.htm",
+      "date": "2014-06-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市“十三五”规划前期研究重大问题公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10523.htm",
+      "date": "2014-06-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度王宽诚育才奖等奖项评选工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10522.htm",
+      "date": "2014-06-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学085工程“都市社会发展与智慧城市建设”重大预研究课题招标通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10519.htm",
+      "date": "2014-05-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要】2014年上海大学文科科研拨款模型分值统计",
+      "url": "https://ms.shu.edu.cn/info/1245/10518.htm",
+      "date": "2014-05-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报上海汽车工业教育基金会2014年度研究类课题招标的通知",
+      "url": "http://www.jwc.shu.edu.cn/Default.aspx?tabid=22970&ctl=Detail&mid=46631&Id=143599&SkinSrc=[",
+      "date": "2014-05-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市社会科学界联合会纪念邓小平同志诞辰110周年主题书画展征稿启事",
+      "url": "http://www.sssa.org.cn//ggtz/672466.htm",
+      "date": "2014-05-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市社会科学界第十二届（2014）学术年会 专场活动、论文征集公告",
+      "url": "http://www.sssa.org.cn//ggtz/672280.htm",
+      "date": "2014-04-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市第十一届教育科学研究优秀成果奖评选活动的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10501.htm",
+      "date": "2014-04-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市第十届邓小平理论研究和宣传优秀成果、上海市第十二届哲学社会科...",
+      "url": "https://ms.shu.edu.cn/info/1245/10502.htm",
+      "date": "2014-04-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "中国社科院当代中国研究所国情调研（上海）基地课题公开招标的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10495.htm",
+      "date": "2014-04-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市2014年度教育科学研究项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10496.htm",
+      "date": "2014-04-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市2014年度“科技创新行动计划”高新技术领域项目指南",
+      "url": "https://ms.shu.edu.cn/info/1245/10494.htm",
+      "date": "2014-04-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "科学技术部国际合作司“中外创新对话专项”美大地区研究课题招标公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10491.htm",
+      "date": "2014-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于10级学生第二轮校对网上成绩大表的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10490.htm",
+      "date": "2014-04-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于组织开展2014年高校新教师岗前培训工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10489.htm",
+      "date": "2014-04-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年度“上海高校青年教师培养资助计划”申报的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10488.htm",
+      "date": "2014-04-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "征集2014年度国家法治与法学理论研究项目课题建议的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10480.htm",
+      "date": "2014-03-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "最新《上海大学报销指南》",
+      "url": "https://ms.shu.edu.cn/info/1245/10477.htm",
+      "date": "2014-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于国家自然科学基金重点项目建议征集的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10475.htm",
+      "date": "2014-03-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于发布“上海市2014年度‘科技创新行动计划’国内科技合作领域项目指...",
+      "url": "https://ms.shu.edu.cn/info/1245/10474.htm",
+      "date": "2014-03-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "联合国贸易与发展会议“信息改变经济格局”论坛通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10471.htm",
+      "date": "2014-03-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "项目名称：2014年世界百强瑞典乌普沙拉大学研究生访学项目",
+      "url": "http://cg.shu.edu.cn/FrIndex.aspx?TYPE=0//",
+      "date": "2014-03-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年国家留学基金委青年骨干教师出国研修项目（第一批、第二批）...",
+      "url": "https://ms.shu.edu.cn/info/1245/10468.htm",
+      "date": "2014-03-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海市高校国际课程师资海外研修项目申请的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10469.htm",
+      "date": "2014-03-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年上半年度上海市教育委员会科研创新项目验收工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10466.htm",
+      "date": "2014-03-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2014年度《国家哲学社会科学成果文库》申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10464.htm",
+      "date": "2014-03-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度上海市哲学社会科学“十二五”规划课题申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10465.htm",
+      "date": "2014-03-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度教育部哲学社会科学研究重大课题攻关项目招标工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10462.htm",
+      "date": "2014-03-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度国家社会科学基金重大项目（第一批）招标公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10463.htm",
+      "date": "2014-03-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于发布《2014年度上海市软科学研究计划重点项目指南》的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10461.htm",
+      "date": "2014-03-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2014年度上海市学术著作出版资助工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10460.htm",
+      "date": "2014-02-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海社会调查研究中心上海大学分中心2014年决策咨询课题选题征集",
+      "url": "https://ms.shu.edu.cn/info/1245/10457.htm",
+      "date": "2014-02-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度国家民委民族问题研究项目的申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10458.htm",
+      "date": "2014-02-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年度教育部哲学社会科学研究重大课题攻关项目招标工作的通知",
+      "url": "http://www.sinoss.net/2014/0220/49330.html",
+      "date": "2014-02-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2013-2014学年冬季学期成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10454.htm",
+      "date": "2014-02-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年上半年常规普通话水平测试报名通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10455.htm",
+      "date": "2014-02-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2014年高级专业技术职务晋升聘任工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10456.htm",
+      "date": "2014-02-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2014年上海市自然科学基金项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10452.htm",
+      "date": "2014-02-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年上海市人民政府决策咨询研究重点课题公开招标通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10451.htm",
+      "date": "2014-02-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013-2014年度国家广电总局部级社科研究项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10450.htm",
+      "date": "2014-02-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度国家旅游局科研立项申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10448.htm",
+      "date": "2014-02-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年度上海市晨光计划（A类）项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10449.htm",
+      "date": "2014-02-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年度教育部哲学社会科学研究后期资助项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10444.htm",
+      "date": "2014-01-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "征集全国教育科学规划2014年度重点项目选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10445.htm",
+      "date": "2014-01-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2014年上海市浦江人才计划的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10441.htm",
+      "date": "2014-01-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度教育部专项任务（科研诚信和学风建设）申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10438.htm",
+      "date": "2014-01-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度教育部专项任务（高校思想政治工作）申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10439.htm",
+      "date": "2014-01-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度教育部专项任务（工程科技人才培养研究）一般项目申报工作的通...",
+      "url": "https://ms.shu.edu.cn/info/1245/10436.htm",
+      "date": "2014-01-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年度教育部专项任务（中国特色社会主义理论体系研究）申报工作的通...",
+      "url": "https://ms.shu.edu.cn/info/1245/10437.htm",
+      "date": "2014-01-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年度“阳光计划”项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10434.htm",
+      "date": "2014-01-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年度上海市“曙光计划”项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10428.htm",
+      "date": "2013-12-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年国家留学基金委青年骨干教师出国研修项目（第一批、第二批）...",
+      "url": "https://ms.shu.edu.cn/info/1245/10429.htm",
+      "date": "2013-12-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要】2013年度社科统计工作",
+      "url": "https://ms.shu.edu.cn/info/1245/10430.htm",
+      "date": "2013-12-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于如何填写国家社科与上海市社科项目申报书的几个要点",
+      "url": "https://ms.shu.edu.cn/info/1245/10427.htm",
+      "date": "2013-12-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "欧盟Eramus Mundus II高等教育交流计划SAT项目奖学金申请通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10426.htm",
+      "date": "2013-12-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2014年度教育部人文社会科学研究一般项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10423.htm",
+      "date": "2013-12-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要通知】2014年度国家自科申请工作",
+      "url": "https://ms.shu.edu.cn/info/1245/10425.htm",
+      "date": "2013-12-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于转发《中国科技论文在线学术监督管理办法》（2013年修订）的通知",
+      "url": "http://www.sro.shu.edu.cn/Default.aspx?tabid=11098&ctl=Detail&mid=18878&Id=132057&SkinSrc=[",
+      "date": "2013-12-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要通知】青年教师联谊会“成长空间”特别活动——刘源张院士与青年...",
+      "url": "https://ms.shu.edu.cn/info/1246/11323.htm",
+      "date": "2013-12-02",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于2014年国家留学基金委公派高级研究学者及访问学者（含博士后）项目...",
+      "url": "https://ms.shu.edu.cn/info/1245/10421.htm",
+      "date": "2013-11-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "2014年上海大学财务管理质量提升研究课题立项",
+      "url": "https://ms.shu.edu.cn/info/1245/10420.htm",
+      "date": "2013-11-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛第97期暨院庆30周年系列讲座（宗福季，香港科技大学教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11322.htm",
+      "date": "2013-11-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "“成长空间”系列活动第五期通知（马君老师《成就目标导向、团队绩效控...",
+      "url": "https://ms.shu.edu.cn/info/1246/11321.htm",
+      "date": "2013-11-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第95期暨院庆30周年系列讲座（季平，香港理工大学副教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11319.htm",
+      "date": "2013-11-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第96期暨院庆30周年系列讲座（唐加福，东北财经大学教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11320.htm",
+      "date": "2013-11-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学管理学院三十周年院庆公告（二）——集中庆祝活动安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10418.htm",
+      "date": "2013-11-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛第93期暨院庆30周年系列讲座（于颖，中采咨询总经理）",
+      "url": "https://ms.shu.edu.cn/info/1246/11318.htm",
+      "date": "2013-11-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "【重要通知】2014国家自科和2014国家社科项目预申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10416.htm",
+      "date": "2013-11-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展上海市2013年度教育科学研究重大项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10417.htm",
+      "date": "2013-11-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛第94期暨院庆30周年系列讲座（蒋炜，上海交通大学特聘教授...",
+      "url": "https://ms.shu.edu.cn/info/1246/11317.htm",
+      "date": "2013-11-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "【科研研讨会通知】上海自贸区相关知识培训",
+      "url": "https://ms.shu.edu.cn/info/1245/10412.htm",
+      "date": "2013-11-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛第92期《实施开放创新,服务上海转型发展》（钮晓鸣教授，上...",
+      "url": "https://ms.shu.edu.cn/info/1246/11315.htm",
+      "date": "2013-11-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "“成长空间”期末特辑通知（主题：教学与生活）",
+      "url": "https://ms.shu.edu.cn/info/1246/11316.htm",
+      "date": "2013-11-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第91期《TRIZ理论及应用性创新实践》（沙永杰教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11314.htm",
+      "date": "2013-11-06",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于征集2014年度教育部哲学社会科学研究重大课题攻关项目选题",
+      "url": "https://ms.shu.edu.cn/info/1245/10409.htm",
+      "date": "2013-11-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于贯彻落实党的十八届三中全会精神加强决策咨询类专家建议报送工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10407.htm",
+      "date": "2013-11-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013-2014学年秋季学期成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10406.htm",
+      "date": "2013-10-31",
+      "column": "重要通知"
+    },
+    {
+      "title": "科技处关于技术合同培训的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10405.htm",
+      "date": "2013-10-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "第二期“会计与财务学术沙龙”活动通知（主讲人：吴建刚博士）",
+      "url": "https://ms.shu.edu.cn/info/1246/11313.htm",
+      "date": "2013-10-18",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院青年教师联谊会“成长空间”系列活动第三期通知（主题：minitab...",
+      "url": "https://ms.shu.edu.cn/info/1246/11312.htm",
+      "date": "2013-10-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学创新项目（文科）预申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10404.htm",
+      "date": "2013-10-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年浙江安吉企业需求",
+      "url": "https://ms.shu.edu.cn/info/1245/10403.htm",
+      "date": "2013-10-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2013年初、中级专业技术职务晋升聘任工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10401.htm",
+      "date": "2013-10-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学2012年度文科科研论文奖励通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10402.htm",
+      "date": "2013-10-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于评选第七届上海市发明创造专利奖的通知",
+      "url": "http://www.sro.shu.edu.cn/Default.aspx?tabid=11098&ctl=Detail&mid=18878&Id=129004&SkinSrc=[",
+      "date": "2013-10-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院三十周年院庆公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10398.htm",
+      "date": "2013-10-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院院徽征集公告",
+      "url": "https://ms.shu.edu.cn/info/1245/10397.htm",
+      "date": "2013-09-30",
+      "column": "重要通知"
+    },
+    {
+      "title": "第一期“会计与财务学术沙龙”通知",
+      "url": "https://ms.shu.edu.cn/info/1246/11311.htm",
+      "date": "2013-09-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第90期（覃正 教授，南方科技大学副校长）",
+      "url": "https://ms.shu.edu.cn/info/1246/11310.htm",
+      "date": "2013-09-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "【教授讲座】——互联网时代下的大数据探秘",
+      "url": "https://ms.shu.edu.cn/info/1246/11309.htm",
+      "date": "2013-09-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "2013年9月28日自费报名普通话考试准考证领取通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10394.htm",
+      "date": "2013-09-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2014年推荐免试攻读硕士研究生工作实施细则",
+      "url": "https://ms.shu.edu.cn/info/1245/10393.htm",
+      "date": "2013-09-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年上海大学教职工健康检查通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10391.htm",
+      "date": "2013-09-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "【招聘会】Benchmark本脉企业管理咨询（上海）有限公司宣讲会",
+      "url": "https://ms.shu.edu.cn/info/1245/10392.htm",
+      "date": "2013-09-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院青年教师联谊会“成长空间”系列活动第二期通知（9月27日）",
+      "url": "https://ms.shu.edu.cn/info/1245/10388.htm",
+      "date": "2013-09-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院青年教师联谊会“成长空间”系列活动通知",
+      "url": "https://ms.shu.edu.cn/info/1246/11308.htm",
+      "date": "2013-09-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第88期（陈小君，香港理工大学教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11306.htm",
+      "date": "2013-06-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第89期（陈志平，西安交通大学教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11307.htm",
+      "date": "2013-06-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第87期（邢陆宾，美国蒙特克莱尔大学商学院终身教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11305.htm",
+      "date": "2013-05-29",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第86期（汪一凡，厦门大学会计系副教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11304.htm",
+      "date": "2013-04-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于申报2013年度教育部哲学社会科学发展报告项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10331.htm",
+      "date": "2013-04-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年上海大学汉字应用水平测试工作通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10330.htm",
+      "date": "2013-04-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报上海市教委竞争性引导项目、高校智库、知识服务平台等专项计划...",
+      "url": "https://ms.shu.edu.cn/info/1245/10329.htm",
+      "date": "2013-04-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学关于推荐申报2013年上海高校示范性全英语教学课程(教务处【2013...",
+      "url": "https://ms.shu.edu.cn/info/1245/10327.htm",
+      "date": "2013-04-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2013年上海大学管理岗位职级晋升聘用工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10326.htm",
+      "date": "2013-04-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院4月16日会计专硕录取名单",
+      "url": "https://ms.shu.edu.cn/info/1245/10325.htm",
+      "date": "2013-04-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院管理科学与工程4月12日复试结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10322.htm",
+      "date": "2013-04-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院工程管理4月12日复试结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10323.htm",
+      "date": "2013-04-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院4月12日物流工程复试结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10324.htm",
+      "date": "2013-04-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2013年研究生招生企业管理和旅游管理复试结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10320.htm",
+      "date": "2013-04-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年管理学院研究生招生管理科学与工程（信息管理与电子商务方向）",
+      "url": "https://ms.shu.edu.cn/info/1245/10321.htm",
+      "date": "2013-04-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年管理学院进社区学院活动预告",
+      "url": "https://ms.shu.edu.cn/info/1245/10316.htm",
+      "date": "2013-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2013年研究生招生会计学复试结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10317.htm",
+      "date": "2013-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2013年研究生招生会计专业硕士（MPACC）复试结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10318.htm",
+      "date": "2013-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于发布《2013年度上海市科技发展基金软科学研究重点项目指南》的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10319.htm",
+      "date": "2013-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年度上海市决策咨询研究绿化市容专项课题的招标通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10310.htm",
+      "date": "2013-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2013年度上海市决策咨询研究国际航运中心专项课题的招标通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10311.htm",
+      "date": "2013-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "CALL FOR PAPERS (ICSSC2013)",
+      "url": "https://ms.shu.edu.cn/info/1245/10312.htm",
+      "date": "2013-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2013年硕士研究生招生复试工作补充规定",
+      "url": "https://ms.shu.edu.cn/info/1245/10313.htm",
+      "date": "2013-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院学术型硕士研究生导师相关信息",
+      "url": "https://ms.shu.edu.cn/info/1245/10314.htm",
+      "date": "2013-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于组织2012年度教育部哲学社会科学研究普及读物项目征集工作的通知",
+      "url": "http://www.sinoss.net/2012/0528/40776.html",
+      "date": "2012-06-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年上海大学高校教师资格认定申报时间节点及流程",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=9990&ctl=Detail&mid=17468&Id=56783&SkinSrc=[L]S",
+      "date": "2012-06-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2012年度“上海高校青年教师培养资助计划”申报的通知",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=9900&ctl=Detail&mid=17299&Id=66234&SkinSrc=[L]S",
+      "date": "2012-05-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海大学中初级聘任系统上线的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10186.htm",
+      "date": "2012-05-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011-2012学年春季学期成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10182.htm",
+      "date": "2012-05-25",
+      "column": "重要通知"
+    },
+    {
+      "title": "“上海大学校友会管理学院分会筹备会议”暨“院友返校日”",
+      "url": "https://ms.shu.edu.cn/info/1245/10181.htm",
+      "date": "2012-05-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2012年上海大学教学成果奖预申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10179.htm",
+      "date": "2012-05-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2012年上海市高等学校计算机等级考试报名工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10178.htm",
+      "date": "2012-05-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2012年度上海大学“王宽诚育才奖”等奖项评选工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10177.htm",
+      "date": "2012-05-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于组织申报2012年上海市自然科学基金项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10174.htm",
+      "date": "2012-05-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展 2012年上海领军人才选拔工作的通知",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=9900&ctl=Detail&mid=17299&Id=65595&SkinSrc=[L]S",
+      "date": "2012-04-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "我的爱对上大说——网络征集上大人“爱”之话语",
+      "url": "https://ms.shu.edu.cn/info/1245/10171.htm",
+      "date": "2012-04-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2012年度上海市科学技术奖的通知",
+      "url": "http://www.sro.shu.edu.cn/Default.aspx?tabid=11098&ctl=Detail&mid=18878&Id=93847&SkinSrc=[L",
+      "date": "2012-04-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "“创新，创意与网络”——上海大学青年教师联谊会管理学院分会第二次主...",
+      "url": "https://ms.shu.edu.cn/info/1245/10168.htm",
+      "date": "2012-04-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年上海大学汉字应用水平测试工作通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10166.htm",
+      "date": "2012-04-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "（新版申请书4月16日更新）关于申报2012年度上海市教育科学研究项目的通...",
+      "url": "https://ms.shu.edu.cn/info/1245/10163.htm",
+      "date": "2012-04-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度上海市政府质量奖申报通知",
+      "url": "http://www.shzj.gov.cn/art/2012/3/22/art_36621_684646.html",
+      "date": "2012-04-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学关于组织申报2012年度上海“海外名师项目”的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10161.htm",
+      "date": "2012-04-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年上海大学管理学院硕士招生安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10160.htm",
+      "date": "2012-04-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学汉字应用水平测试报名",
+      "url": "https://ms.shu.edu.cn/info/1245/10159.htm",
+      "date": "2012-04-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学关于申报2012年度上海高校市级精品课程工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10158.htm",
+      "date": "2012-03-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于发布《2012年度上海市科技发展基金软科学研究重点项目指南》的通知",
+      "url": "http://www.sro.shu.edu.cn/Default.aspx?tabid=11098&ctl=Detail&mid=18878&Id=91454&SkinSrc=[L",
+      "date": "2012-03-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于延长校区第二学科（专业）、西南片辅修专业、双学位“清明节”课程...",
+      "url": "https://ms.shu.edu.cn/info/1245/10155.htm",
+      "date": "2012-03-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "2010级专业分流实施方案",
+      "url": "https://ms.shu.edu.cn/info/1245/10154.htm",
+      "date": "2012-03-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2012年上海市学术著作出版资助工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10152.htm",
+      "date": "2012-03-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要】关于第六届高等学校科学研究优秀成果奖申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10151.htm",
+      "date": "2012-03-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院青年教师联谊会暨主题沙龙通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10148.htm",
+      "date": "2012-03-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度上海市决策咨询研究重点课题招标的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10147.htm",
+      "date": "2012-03-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011-2012冬季学期 冲突考试安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10143.htm",
+      "date": "2012-03-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2012年6月大学英、日、德、俄、法语四级及大学英、日、德、俄语...",
+      "url": "https://ms.shu.edu.cn/info/1245/10145.htm",
+      "date": "2012-03-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度上海市哲社“十二五”规划课题申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10146.htm",
+      "date": "2012-03-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2012年上海市浦江人才计划的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10141.htm",
+      "date": "2012-03-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011-2012学年冬季学期成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10140.htm",
+      "date": "2012-03-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2012年度精品视频公开课推荐工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10139.htm",
+      "date": "2012-02-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011-2012学年冬季学期冲突考试报名的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10138.htm",
+      "date": "2012-02-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海市社会科学界联合会“社会科学普及读物”征集公告",
+      "url": "http://www.sssa.org.cn/news/news_con.cfm?id=13301",
+      "date": "2012-02-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2012年国际课程师资国外研修项目推荐工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10136.htm",
+      "date": "2012-02-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学2011年度文科科研论文奖励通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10133.htm",
+      "date": "2012-02-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2011年《上海年鉴》等信息的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10134.htm",
+      "date": "2012-02-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "【重要通知】2012年高级专业技术职务正常晋升聘任工作安排",
+      "url": "https://ms.shu.edu.cn/info/1245/10135.htm",
+      "date": "2012-02-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度教育部专项任务（工程科技人才培养研究）项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10071.htm",
+      "date": "2011-09-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度教育部专项任务（教育廉政理论研究）项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10072.htm",
+      "date": "2011-09-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度教育部专项任务（马克思主义中国化、时代化、大众化）项目申报...",
+      "url": "https://ms.shu.edu.cn/info/1245/10073.htm",
+      "date": "2011-09-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取普通话水平测试准考证的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10070.htm",
+      "date": "2011-09-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2012年推荐免试攻读硕士研究生工作实施细则",
+      "url": "https://ms.shu.edu.cn/info/1245/10067.htm",
+      "date": "2011-09-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年面向全校推荐选拔免试攻读硕士研究生的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10068.htm",
+      "date": "2011-09-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2011年上海市人才发展资金资助工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10066.htm",
+      "date": "2011-09-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "2010年度国家体育总局项目结题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10065.htm",
+      "date": "2011-09-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2012年度国家体育总局体育哲学社会科学研究项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10064.htm",
+      "date": "2011-09-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2012年度教育部哲学社会科学研究重大课题攻关项目选题的函",
+      "url": "https://ms.shu.edu.cn/info/1245/10062.htm",
+      "date": "2011-09-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2012年度教育部哲学社会科学基础研究中长期重大专项选题的函",
+      "url": "https://ms.shu.edu.cn/info/1245/10063.htm",
+      "date": "2011-09-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2011年12月大学英语四、六级考试报名工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10060.htm",
+      "date": "2011-09-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年度国家广电总局部级社科研究项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10055.htm",
+      "date": "2011-09-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学一年级本科生学业导师招聘通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10056.htm",
+      "date": "2011-09-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011年下半年度上海市教委科研创新项目验收工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10057.htm",
+      "date": "2011-09-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011年中秋节、国庆节放假安排的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10058.htm",
+      "date": "2011-09-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2012年度教育部人文社会科学研究一般项目申报通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10059.htm",
+      "date": "2011-09-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "校财务处通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10054.htm",
+      "date": "2011-09-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年下半年常规普通话水平测试报名通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10052.htm",
+      "date": "2011-09-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2012年度国家科学技术著作出版基金经济管理类选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10053.htm",
+      "date": "2011-09-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011年度国家语委 “十二五”科研立项申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10017.htm",
+      "date": "2011-05-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于高级专业技术职务应具备的科研水平和能力的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10016.htm",
+      "date": "2011-05-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于参加2011年度瑞典延雪平国际商学院研究生暑期课程的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10015.htm",
+      "date": "2011-05-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取2011年3月份普通话测试证书通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10013.htm",
+      "date": "2011-05-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "[重要通知]关于开展消防安全自查、检查的紧急通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10014.htm",
+      "date": "2011-05-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学关于2011年上海市高等学校计算机等级考试报名工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10011.htm",
+      "date": "2011-04-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学关于组织开展第六届上海高等学校教学名师奖评选及国家级教学名...",
+      "url": "https://ms.shu.edu.cn/info/1245/10010.htm",
+      "date": "2011-04-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2009级专业分流结果",
+      "url": "https://ms.shu.edu.cn/info/1245/10009.htm",
+      "date": "2011-04-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报上海汽车工业教育基金会2011年度资助出版著作教材、奖励著作教...",
+      "url": "https://ms.shu.edu.cn/info/1245/10007.htm",
+      "date": "2011-04-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "教育部哲社重大课题攻关项目2011年度招标工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10008.htm",
+      "date": "2011-04-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取2010年12月四六级成绩单的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10006.htm",
+      "date": "2011-04-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "“首届上海大学语言文字专题板报设计大赛”通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10005.htm",
+      "date": "2011-04-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2011年度上海市教育科学研究项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10004.htm",
+      "date": "2011-04-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年度上海市教委科研创新项目验收工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10003.htm",
+      "date": "2011-04-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "4月14日学科条例修改征询意见座谈会通知",
+      "url": "https://ms.shu.edu.cn/info/1245/10002.htm",
+      "date": "2011-04-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "教育部项目及上海哲社项目提醒",
+      "url": "https://ms.shu.edu.cn/info/1245/10000.htm",
+      "date": "2011-04-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学会计上岗证辅导班招生通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9999.htm",
+      "date": "2011-04-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年度上海市哲社课题申报补充说明",
+      "url": "https://ms.shu.edu.cn/info/1245/9996.htm",
+      "date": "2011-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报上海汽车工业教育基金会2011年度研究类课题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9997.htm",
+      "date": "2011-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年孔子学院（课堂）及国家公派汉语教师选拔通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9998.htm",
+      "date": "2011-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于设岗分级工作的紧急通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9967.htm",
+      "date": "2011-03-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于向我校图书馆推荐征定书目(2011年第1期)",
+      "url": "https://ms.shu.edu.cn/info/1245/9968.htm",
+      "date": "2011-03-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "[重要通知]我校设岗分级工作已开始启动",
+      "url": "https://ms.shu.edu.cn/info/1245/9966.htm",
+      "date": "2011-02-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于高级职称申报材料提交的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9964.htm",
+      "date": "2011-02-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "冬季学期冲突考试报名的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9963.htm",
+      "date": "2011-02-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年上半年常规普通话水平测试报名通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9961.htm",
+      "date": "2011-02-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "[重要通知]关于2011年度国家自科基金申请材料接收截止时间延长的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9962.htm",
+      "date": "2011-02-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2011年国家社科基金中华学术外译项目申报工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9958.htm",
+      "date": "2011-02-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报卓越工程师教育培养计划2011年新增试点专业的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9956.htm",
+      "date": "2011-02-18",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2011年国家留学基金出国留学项目申请通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9955.htm",
+      "date": "2011-01-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "院内招聘通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9953.htm",
+      "date": "2011-01-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2010年上海市高校计算机考试成绩",
+      "url": "https://ms.shu.edu.cn/info/1245/9952.htm",
+      "date": "2011-01-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2010-2011学年冬季学期考试监考安排的通知（2011-01）",
+      "url": "https://ms.shu.edu.cn/info/1245/9951.htm",
+      "date": "2011-01-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "法国科研创新人才工程项目",
+      "url": "https://ms.shu.edu.cn/info/1245/9949.htm",
+      "date": "2010-12-28",
+      "column": "重要通知"
+    },
+    {
+      "title": "会议通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9946.htm",
+      "date": "2010-12-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于延长校区第二学科、法学院双学位及西南片辅修专业放假调课通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9945.htm",
+      "date": "2010-12-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年度国家基金项目申请推介宣讲会",
+      "url": "https://ms.shu.edu.cn/info/1245/9942.htm",
+      "date": "2010-12-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2011年上海市社科规划研究选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9944.htm",
+      "date": "2010-12-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于07级学生第一轮校对网上成绩大表的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9938.htm",
+      "date": "2010-12-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "学术交流会通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9935.htm",
+      "date": "2010-12-06",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取10月16日参加普通话考试证书",
+      "url": "https://ms.shu.edu.cn/info/1245/9934.htm",
+      "date": "2010-12-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "[重要通知]2010年科研工作（教师岗位）统计表格填写",
+      "url": "https://ms.shu.edu.cn/info/1245/9933.htm",
+      "date": "2010-12-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2010--2011学年秋季学期本科学生试卷归档的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9931.htm",
+      "date": "2010-11-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院本科双语教学研讨会通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9932.htm",
+      "date": "2010-11-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集2011年上海科普图书创作出版专项项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9930.htm",
+      "date": "2010-11-23",
+      "column": "重要通知"
+    },
+    {
+      "title": "转发科技处合同登记通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9929.htm",
+      "date": "2010-11-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "数据库试用通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9928.htm",
+      "date": "2010-11-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取12月份CET4,6准考证的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9924.htm",
+      "date": "2010-11-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于毕业生领取和使用“求职成绩大表”的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9926.htm",
+      "date": "2010-11-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于上海市科委发布征集2011年度相关项目申请指南",
+      "url": "https://ms.shu.edu.cn/info/1245/9923.htm",
+      "date": "2010-11-10",
+      "column": "重要通知"
+    },
+    {
+      "title": "2010秋管理学院冲突考试安排",
+      "url": "https://ms.shu.edu.cn/info/1245/9922.htm",
+      "date": "2010-11-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "多彩文化生活 尽显学子风采——管理学院与悉尼工商学院的篮球对决篇",
+      "url": "https://ms.shu.edu.cn/info/1245/9921.htm",
+      "date": "2010-11-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "［重要通知］关于2009-2010年考核工作量津贴确认的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9919.htm",
+      "date": "2010-11-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于10-11学年秋季学期期末成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1245/9918.htm",
+      "date": "2010-11-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取2010年6月份CET考试成绩单通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9916.htm",
+      "date": "2010-11-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2010-2011学年秋季学期冲突考试报名的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9915.htm",
+      "date": "2010-10-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "［重要通知］关于开展2010年初、中级专业技术职务晋升聘任工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9914.htm",
+      "date": "2010-10-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "重申《上海大学学生管理规定（本科）》中对于缓考问题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9911.htm",
+      "date": "2010-10-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "计算机三级等级（多媒体技术）考试辅导班招生",
+      "url": "https://ms.shu.edu.cn/info/1245/9909.htm",
+      "date": "2010-10-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取2010年10月16日普通话水平测试准考证通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9908.htm",
+      "date": "2010-10-11",
+      "column": "重要通知"
+    },
+    {
+      "title": "2011年管理学院推免复试安排",
+      "url": "https://ms.shu.edu.cn/info/1245/9907.htm",
+      "date": "2010-10-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2010年度上海大学校级重点课程立项工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9906.htm",
+      "date": "2010-09-26",
+      "column": "重要通知"
+    },
+    {
+      "title": "2009级本科在校生免费普通话水平测试预报名工作开始",
+      "url": "https://ms.shu.edu.cn/info/1245/9904.htm",
+      "date": "2010-09-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院2011年推荐免试攻读硕士研究生工作实施细则",
+      "url": "https://ms.shu.edu.cn/info/1245/9903.htm",
+      "date": "2010-09-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "领计算机考试准考证通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9902.htm",
+      "date": "2010-09-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2010年12月大学英语四、六级考试报名工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9899.htm",
+      "date": "2010-09-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "中秋节、国庆节我校放假日期安排",
+      "url": "https://ms.shu.edu.cn/info/1245/9900.htm",
+      "date": "2010-09-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "2010年下半年常规普通话测试报名",
+      "url": "https://ms.shu.edu.cn/info/1245/9896.htm",
+      "date": "2010-09-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "工会俱乐部成立通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9897.htm",
+      "date": "2010-09-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "中秋联谊会通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9898.htm",
+      "date": "2010-09-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于恢复“助教”、“研究实习员”岗位的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9894.htm",
+      "date": "2010-09-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于7月13日领取学位证书的重要通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9892.htm",
+      "date": "2010-07-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2010届毕业生领取学位证书的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9890.htm",
+      "date": "2010-07-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院发放毕业证书及办理离校手续的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9891.htm",
+      "date": "2010-07-09",
+      "column": "重要通知"
+    },
+    {
+      "title": "2010年国家社会科学基金重大项目招标公告",
+      "url": "https://ms.shu.edu.cn/info/1245/9888.htm",
+      "date": "2010-07-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取计算机考试光盘通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9889.htm",
+      "date": "2010-07-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征集哲学社会科学重大基础理论研究选题的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9886.htm",
+      "date": "2010-07-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报教育部哲学社会科学研究报告资助项目的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9887.htm",
+      "date": "2010-07-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "夏季普通话语音培训班开班通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9884.htm",
+      "date": "2010-06-24",
+      "column": "重要通知"
+    },
+    {
+      "title": "会计系认识实习通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9883.htm",
+      "date": "2010-06-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛第54期（张祥 博士、教授，原外经贸部副部长）",
+      "url": "https://ms.shu.edu.cn/info/1246/11261.htm",
+      "date": "2010-06-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第53期（Prof. Dr. D. Günter LIESEGANG，海德堡大学经济管...",
+      "url": "https://ms.shu.edu.cn/info/1246/11260.htm",
+      "date": "2010-05-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第51期（邢陆宾，美国蒙特克莱尔大学商学院终身教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11259.htm",
+      "date": "2010-05-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第50期(1)院士论坛第2期(刘源张院士)",
+      "url": "https://ms.shu.edu.cn/info/1246/11257.htm",
+      "date": "2010-05-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第50期(2)院士论坛第3期(刘人怀院士)",
+      "url": "https://ms.shu.edu.cn/info/1246/11258.htm",
+      "date": "2010-05-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第49期（马卫民，同济大学教授、博导）",
+      "url": "https://ms.shu.edu.cn/info/1246/11256.htm",
+      "date": "2010-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第48期（杨栋梁，哈佛大学博士）",
+      "url": "https://ms.shu.edu.cn/info/1246/11255.htm",
+      "date": "2010-05-03",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第47期（马铁驹教授）",
+      "url": "https://ms.shu.edu.cn/info/1246/11254.htm",
+      "date": "2010-04-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第46期（Geert Duysters教授，荷兰）",
+      "url": "https://ms.shu.edu.cn/info/1246/11253.htm",
+      "date": "2010-04-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第45期（谈德彬，中国著名民营企业家、上海大事科技发展有...",
+      "url": "https://ms.shu.edu.cn/info/1246/11252.htm",
+      "date": "2010-03-18",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第44期（Daniel Chen，美国）",
+      "url": "https://ms.shu.edu.cn/info/1246/11251.htm",
+      "date": "2010-01-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛青年学者专场第19期（李寿喜）",
+      "url": "https://ms.shu.edu.cn/info/1246/11250.htm",
+      "date": "2009-12-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第43期（叶强，哈工大教授、博导）",
+      "url": "https://ms.shu.edu.cn/info/1246/11249.htm",
+      "date": "2009-12-15",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第42期（席酉民，西交利物浦大学执行校长）",
+      "url": "https://ms.shu.edu.cn/info/1246/11248.htm",
+      "date": "2009-12-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第40期（G.Bruton亚洲管理科学院主席/AMP主编/APJM主编）",
+      "url": "https://ms.shu.edu.cn/info/1246/11246.htm",
+      "date": "2009-12-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第41期（G.Bruton亚洲管理科学院主席/AMP主编/APJM主编）",
+      "url": "https://ms.shu.edu.cn/info/1246/11247.htm",
+      "date": "2009-12-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "德国马格德堡大学杨威主讲第18期上海管理论坛青年学者专场",
+      "url": "https://ms.shu.edu.cn/info/1246/11245.htm",
+      "date": "2009-12-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第39期（陶立新）",
+      "url": "https://ms.shu.edu.cn/info/1246/11244.htm",
+      "date": "2009-12-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "斯坦福大学何晓斌主讲第17期上海管理论坛青年学者专场",
+      "url": "https://ms.shu.edu.cn/info/1246/11243.htm",
+      "date": "2009-12-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛第38期（彭建文）",
+      "url": "https://ms.shu.edu.cn/info/1246/11242.htm",
+      "date": "2009-11-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "08-09春季学期管理学院考试冲突安排",
+      "url": "https://ms.shu.edu.cn/info/1245/9789.htm",
+      "date": "2009-05-22",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于申报2009年度高等学校教学团队的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9788.htm",
+      "date": "2009-05-19",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于领取2009.6 CET考试准考证通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9786.htm",
+      "date": "2009-05-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2008-2009学年春季学期冲突考试报名的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9787.htm",
+      "date": "2009-05-14",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于今年体检工作启动新方案的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9783.htm",
+      "date": "2009-05-08",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于开展2009年度上海大学王宽诚育才奖等奖项评选工作的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9781.htm",
+      "date": "2009-05-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于征订精品教材通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9782.htm",
+      "date": "2009-05-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "07专业分流结果",
+      "url": "https://ms.shu.edu.cn/info/1245/9780.htm",
+      "date": "2009-05-05",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届“全国语文规范化知识大赛”活动通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9778.htm",
+      "date": "2009-04-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院专业分流的有关规定",
+      "url": "https://ms.shu.edu.cn/info/1245/9779.htm",
+      "date": "2009-04-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于参加瑞典延雪平国际商学院本科生暑期课程的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9776.htm",
+      "date": "2009-04-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于参加瑞典延雪平国际商学院研究生暑期课程的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9777.htm",
+      "date": "2009-04-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院关于举办青年教师本科课堂教学竞赛的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9775.htm",
+      "date": "2009-04-03",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院DV设计大赛",
+      "url": "https://ms.shu.edu.cn/info/1245/9773.htm",
+      "date": "2009-03-31",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于2009届应届毕业生重修考试报名、考试的通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9771.htm",
+      "date": "2009-03-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "关于做好2009年6月大学英、日、德、俄、法语四级及大学英语、日语六级考...",
+      "url": "https://ms.shu.edu.cn/info/1245/9770.htm",
+      "date": "2009-03-13",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院重要期刊目录（试用版）",
+      "url": "https://ms.shu.edu.cn/info/1245/9769.htm",
+      "date": "2009-03-12",
+      "column": "重要通知"
+    },
+    {
+      "title": "08-09冬季学期管理学院考试冲突安排",
+      "url": "https://ms.shu.edu.cn/info/1245/9768.htm",
+      "date": "2009-03-02",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院学生会2008年招新通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9767.htm",
+      "date": "2009-02-20",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛（青年学者专场第十一期）讲座通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9766.htm",
+      "date": "2009-02-17",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛（青年学者专场第六期）讲座通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9765.htm",
+      "date": "2008-12-15",
+      "column": "重要通知"
+    },
+    {
+      "title": "管理学院教学科通知",
+      "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
+      "date": "2008-12-02",
+      "column": "重要通知"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "igs.shu.edu.cn": {
+    "type": "27",
+    "department": "上海大学全球问题研究院",
+    "pages": {
+      "cd/xwzx.htm": {
+        "pages": 28,
+        "column": "新闻中心"
+      },
+      "cd/tzgg.htm": {
+        "pages": 9,
+        "column": "通知公告"
+      },
+      "cd/xsrd.htm": {
+        "pages": 40,
+        "column": "学术热点"
+      }
+    }
+  }
+}

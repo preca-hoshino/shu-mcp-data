@@ -1,0 +1,122 @@
+[project]
+name = "shu-mcp-data"
+version = "0.1.0"
+description = "上海大学新闻爬虫数据仓库 — 定时爬取 SHU 各院系/部门网站新闻"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [
+    { name = "arts-amadeus" }
+]
+keywords = ["crawler", "shanghai-university", "news", "scraper"]
+
+# =========================================================================
+# Ruff — ALL 规则启用（最严格模式）
+# =========================================================================
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+src = ["src"]
+extend-exclude = [
+    "temp/*",
+    ".venv/*",
+]
+
+[tool.ruff.lint]
+select = [
+    "ALL",    # ← 启用全部规则
+]
+ignore = [
+    # ---- 项目风格冲突（不可修复） ----
+    "D203",   # 与 D211 冲突（blank line before class）
+    "D212",   # 与 D213 冲突（multi-line summary）
+    "D205",   # 项目使用 ———— 分节符，非标准空行分隔
+    "D415",   # 第一行不以句号结尾（中文注释不适用）
+    "RUF001", # 允许中文全角逗号等模糊字符（中文文本中正常使用）
+    "RUF002", # 允许中文全角句号等（文档字符串中使用）
+    "RUF003", # 允许中文全角符号（注释中使用）
+    "COM812", # 与 ruff format 冲突（trailing comma）
+    # ---- 非包结构（src/ 是脚本模块目录，非 Python 包） ----
+    "INP001", # src/ 无 __init__.py（脚本型项目）
+    # ---- 函数签名风格（不适合本项目） ----
+    "FBT001", # 允许 bool 类型位置参数
+    "FBT002", # 允许 bool 默认值位置参数
+    # ---- 安全审计（爬虫项目可接受） ----
+    "S311",   # random 用于 UA 轮换，非加密场景
+]
+
+[tool.ruff.lint.per-file-ignores]
+# 测试文件
+"tests/**/*.py" = ["T20", "D100", "S101", "ANN"]
+# 启动器（根目录 thin launcher）
+"scheduler.py" = ["T20", "E402", "D103", "PLC0415"]
+# CLI 逻辑（src/ 内）
+"src/scheduler.py" = ["T20", "D103", "PLC0415"]
+# 进度显示模块（终端 UI，允许 print）
+"src/handlers/progress.py" = ["T20"]
+"src/handlers/executor.py" = ["T20"]
+# Handler 文件（长 CSS 选择器注释不可避免）
+"src/handlers/p*.py" = ["E501"]
+# 网络层（UA 字符串不可拆分）
+"src/fetch.py" = ["E501"]
+# 解析器（行内注释超长容忍）
+"src/parser.py" = ["E501"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["config", "crawler", "column", "fetch", "parser", "writer", "whitelist", "handlers"]
+force-sort-within-sections = true
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+
+# =========================================================================
+# mypy — 严格模式
+# =========================================================================
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unused_configs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+no_implicit_optional = true
+ignore_missing_imports = true
+mypy_path = "src"
+exclude = [
+    "temp/",
+    ".venv/",
+    "^scheduler\\.py$",   # 根目录 thin launcher，不参与类型检查
+]
+
+[[tool.mypy.overrides]]
+# 进度显示模块：rich 库的类型标注不够精确
+module = [
+    "handlers.progress",
+    "handlers.executor",
+    "scheduler",
+]
+ignore_errors = true
+
+# =========================================================================
+# pytest — 测试框架配置
+# =========================================================================
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+testpaths = ["tests"]
+pythonpath = ["src"]
+python_files = "test_*.py"
+python_functions = "test_*"
+addopts = [
+    "-v",
+    "--tb=short",
+    "--strict-markers",
+    "--disable-warnings",
+]

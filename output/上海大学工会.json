@@ -1,0 +1,6820 @@
+{
+  "domain": "gh.shu.edu.cn",
+  "department": "上海大学工会",
+  "type": "06",
+  "crawl_time": "20260513_175610",
+  "total_articles": 1134,
+  "columns": {
+    "教工活动": 611,
+    "分工会动态": 293,
+    "新闻动态": 60,
+    "协会动态": 40,
+    "通知公告": 130
+  },
+  "articles": [
+    {
+      "title": "“泮池家长学校”第四十一期预告 | 《八0后沪漂带娃漫记》作者分享会",
+      "url": "https://mp.weixin.qq.com/s/pugBXBeRTIXFx3-PzS_L-Q",
+      "date": "2026-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "收好，一份“心灵”邀请函 | 5月教职工身心健康咨询服务（总第85期）",
+      "url": "https://mp.weixin.qq.com/s/q9QV1FRYs5OByzAvEt38YQ",
+      "date": "2026-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（5月11日）",
+      "url": "https://mp.weixin.qq.com/s/XxnSwBiQrU0Cmya2qin37w",
+      "date": "2026-05-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "活力基层 | 上海大学上海电影学院召开工青妇工作座谈会",
+      "url": "https://mp.weixin.qq.com/s/MzTSMHjM5H3CB1XVFZ_3Sg",
+      "date": "2026-05-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（5月7日）",
+      "url": "https://mp.weixin.qq.com/s/a3BoaG3CWRe1yy6ADDayYA",
+      "date": "2026-04-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "活力基层 | 微电子学院开展教职工团建活动",
+      "url": "https://mp.weixin.qq.com/s/gW3jHp5J296_g1aHyY_XiQ",
+      "date": "2026-04-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "聚焦民生实事 共谋服务新篇——校工会妇委会与后勤保障部开展联组学习活动",
+      "url": "https://mp.weixin.qq.com/s/UJENIvFsIc9b9n1aU5GleQ",
+      "date": "2026-04-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以思政赋能铸魂 以保密履职立心——校工会联合保密办开展保密人员专项思政培训",
+      "url": "https://mp.weixin.qq.com/s/kNW7OLl8KafCoO2MoFy5FA",
+      "date": "2026-04-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "协会动态 | 上海大学教工足球协会2026年“贺岁杯”圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/O-asw3T4-0PgLN6mneZi4w",
+      "date": "2026-01-06",
+      "column": "协会动态"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（1月15日）",
+      "url": "https://mp.weixin.qq.com/s/qhPildpknb2CU9MylhS1yA",
+      "date": "2026-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "解锁“30年教师成就”！这份荣光，值得最亮的灯牌",
+      "url": "https://mp.weixin.qq.com/s/CoUXMuN64prnAMwEmAqqTQ",
+      "date": "2025-12-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "舞韵同心贺新岁 艺暖校园启华章——上海大学“一起跳舞吧”活动燃动冬日校园",
+      "url": "https://mp.weixin.qq.com/s/MhZBNvpy0pJh4hB3O14Gzg",
+      "date": "2025-12-31",
+      "column": "协会动态"
+    },
+    {
+      "title": "嘿，教龄三十年！听听TA们的“独家记忆”",
+      "url": "https://mp.weixin.qq.com/s/DGbS6bWyzf7Z5Tg_aRq8Tw",
+      "date": "2025-12-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "凝心聚力谋发展 砥砺奋进启新程——材料科学与工程学院第七届双代会第三次会议顺利召开",
+      "url": "https://mp.weixin.qq.com/s/UbDNkIPFXMgUHwo-z_srmg",
+      "date": "2025-12-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（12月29日）",
+      "url": "https://mp.weixin.qq.com/s/saZ2DrFX2v0DwuAhw91zpA",
+      "date": "2025-12-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "活动回顾 | 泮池家长学校第三十八讲：游戏是最好的做中学",
+      "url": "https://mp.weixin.qq.com/s/QHdAPtwQDOt78n0cSXIKbg",
+      "date": "2025-12-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（12月22日）",
+      "url": "https://mp.weixin.qq.com/s/4VGX3RdHJ7clxsJS7gEeeQ",
+      "date": "2025-12-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市教育妇工委家庭教育项目——泮池家长学校——研讨会顺利举办",
+      "url": "https://mp.weixin.qq.com/s/aUFQXxzmsR3O7xRPtVqx4w",
+      "date": "2025-12-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "表彰先进+交办提案，上海大学教代会为学校发展聚智",
+      "url": "https://mp.weixin.qq.com/s/RK7HaFhFdQAHA75ul2Et_w",
+      "date": "2025-12-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校第六届教代会执委会暨工会委员会第五次会议成功召开",
+      "url": "https://mp.weixin.qq.com/s/dLb_f2fg0TlpsDmqONxp2g",
+      "date": "2025-12-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "纸韵迎新岁，非遗贺华章 | 管理学院举办衍纸手作活动喜迎2026",
+      "url": "https://mp.weixin.qq.com/s/VelKn24WcbqbVhZWPpAITQ",
+      "date": "2025-12-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学女教授创新论坛成功举办",
+      "url": "https://mp.weixin.qq.com/s/_XM6IAAkE-_i-6gqfWG0rg",
+      "date": "2025-12-16",
+      "column": "协会动态"
+    },
+    {
+      "title": "上海大学京韵戏曲协会“菊影霓裳·京韵打卡”活动圆满收官",
+      "url": "https://mp.weixin.qq.com/s/cp5s1rd-XY8uxpMWvFZUsQ",
+      "date": "2025-12-15",
+      "column": "协会动态"
+    },
+    {
+      "title": "“泮池家长学校”第三十八期预告 | 游戏是孩子最好的做中学",
+      "url": "https://mp.weixin.qq.com/s/gZrc2zcuTbbAY6sUp4ONHw",
+      "date": "2025-12-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "2026年中国教育工会上海大学工会会员节日慰问品供应商遴选项目公开招标公告",
+      "url": "https://gh.shu.edu.cn/info/1061/42272.htm",
+      "date": "2025-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "中国教育工会上海大学委员会2026年蛋糕公开招标公告",
+      "url": "https://gh.shu.edu.cn/info/1061/42282.htm",
+      "date": "2025-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "温馨提示 | 关于教工体检预约的提醒",
+      "url": "https://mp.weixin.qq.com/s/ANjPE0UpkGc0Hsrx9BG5Kw",
+      "date": "2025-10-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "活力基层 | 法学院教工积极参与第十六届教职工运动会展现昂扬奋进精神风貌",
+      "url": "https://mp.weixin.qq.com/s/EnnDyfiz2hO_Jviqjn7yvw",
+      "date": "2025-10-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于教工体检开放预约的通知",
+      "url": "https://www.shu.edu.cn/info/1051/373705.htm",
+      "date": "2025-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "体智融合 先锋有我 | 上海大学第十六届教工运动会趣味运动会圆满举办！",
+      "url": "https://mp.weixin.qq.com/s/Rzypr5c1NgB2l5IZafk4NA",
+      "date": "2025-10-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（10月27日）",
+      "url": "https://mp.weixin.qq.com/s/4VyqsVGSosmLFoey-q68UA",
+      "date": "2025-10-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "活动回顾 | 泮池家长学校第三十六讲：爸爸妈妈，你们准备好了吗？",
+      "url": "https://mp.weixin.qq.com/s/j_bT2jnStafzdEi2nPeBew",
+      "date": "2025-10-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（10月23日）",
+      "url": "https://mp.weixin.qq.com/s/8Tg4IwsXJWFn7Sb3eUIa3g?scene=1&click_id=1",
+      "date": "2025-10-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "“泮池家长学校”第三十六期预告 | 爸爸妈妈，你们准备好了吗？",
+      "url": "https://mp.weixin.qq.com/s/1dFwrrKSfpZ3KJCDd9GRMA",
+      "date": "2025-10-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "铸魂强师，科教兴国！上海大学举行2025年优秀教师表彰典礼",
+      "url": "https://mp.weixin.qq.com/s/exXDpH9fkOO8LJDhzZs22A",
+      "date": "2025-09-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于发布2025年工会理论研究（妇女理论研究）立项课题的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/41082.htm",
+      "date": "2025-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市模范集体、上海大学机电工程与自动化学院：擎创新之炬 育时代新人",
+      "url": "https://mp.weixin.qq.com/s/-oHbrpOTRm0X_jFMqGkisw",
+      "date": "2025-09-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2025师途无忧！全年交通意外险，申城教师一同享",
+      "url": "https://mp.weixin.qq.com/s/Fq1UH9rFauJqWl8pOL10fA",
+      "date": "2025-08-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "华西沃土育佳梨，爱心团购暖乡情",
+      "url": "https://mp.weixin.qq.com/s/ITgIfAsN879Jw3tWL8uXXw",
+      "date": "2025-08-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "祝贺！上海大学郭帅教授荣获2025年上海教育系统“申教名匠”称号",
+      "url": "https://mp.weixin.qq.com/s/TkU7TDSiskBMIUVlQDVTZQ",
+      "date": "2025-07-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "镜头见证初心·光影致敬百年|2025职工摄影大赛，用镜头定格宝山劳动者的高光时刻！",
+      "url": "https://mp.weixin.qq.com/s/x7tGDARBgkDgYc6MMnZ3iw",
+      "date": "2025-07-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "见证成长，童享未来！“上二代成长营”圆满结营！",
+      "url": "https://mp.weixin.qq.com/s/LNVcvnHmcvCiH8Kdf-3nhQ",
+      "date": "2025-07-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上二代成长营班级风采大放送 ！",
+      "url": "https://mp.weixin.qq.com/s/9NNdNzjA4snn1bz_Hrqh_g",
+      "date": "2025-07-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "健康运动 美丽中国 ——上海大学爱瑜伽协会开展舞韵瑜伽活动",
+      "url": "https://mp.weixin.qq.com/s/zsWBhI74At5_uqz9qSw8Tw",
+      "date": "2025-07-03",
+      "column": "协会动态"
+    },
+    {
+      "title": "“上二代成长营”｜夏日奇遇记·生活篇",
+      "url": "https://mp.weixin.qq.com/s/Tu6Ou3J88p7baLEZy2umvw",
+      "date": "2025-07-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "乐享智慧夏，童心向未来 | 上海大学2025年“上二代成长营”活力开营！",
+      "url": "https://mp.weixin.qq.com/s/cMyOnKglp2HlHyzDuOeHBg",
+      "date": "2025-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "薪火相传育桃李，致敬芳华续华章 ——上海大学管理学院退休教师荣休仪式",
+      "url": "https://mp.weixin.qq.com/s/iD7fpEfiEH9RnwZbe4GMMQ",
+      "date": "2025-07-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "勇当改革先锋，服务强国建设！上海大学六届二次“双代会”召开！",
+      "url": "https://mp.weixin.qq.com/s/ENnxmFxMdAhUJc7D4Vb5Dw",
+      "date": "2025-06-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（6月30日）",
+      "url": "https://mp.weixin.qq.com/s/0wZtOwPhCGPjIx___vi7cQ",
+      "date": "2025-06-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "活力基层 | 材料科学与工程学院工会举办“中医传统功法八段锦对师生颈肩部劳损的干预治疗”活动",
+      "url": "https://mp.weixin.qq.com/s/81yG2D_q3djOBEcHzvGG5A",
+      "date": "2025-06-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "倒计时5天！上海大学六届二次“双代会”向您发出邀请",
+      "url": "https://mp.weixin.qq.com/s/_CsPdVB9sCgG5GOoJYQ2Lg",
+      "date": "2025-06-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "活动回顾|泮池家长学校第三十五讲：好父母从认识自己开始",
+      "url": "https://mp.weixin.qq.com/s/ppnPnrNbaIFocRITigiNrQ",
+      "date": "2025-06-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "通知 | 六届二次教代会提案征集工作正式启动！",
+      "url": "https://mp.weixin.qq.com/s/IfcupJf5xf1-Cifz57YQ9w",
+      "date": "2025-06-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "活力基层 | 祝贺！材料学院喜获上海大学教职工羽毛球团体赛第七名",
+      "url": "https://mp.weixin.qq.com/s/Y7iGOtcLMisiWlFodsBJRQ",
+      "date": "2025-06-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "以提案之为，助学校发展 | 上海大学六届一次教代会提案工作总结会召开",
+      "url": "https://mp.weixin.qq.com/s/g8o6WX82InRPTgqtkJsgOw",
+      "date": "2025-06-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办 “新时代下的男性健康” 专题讲座及健康咨询活动的通知",
+      "url": "https://mp.weixin.qq.com/s/9bqnsmSlM0tCEPbLVoeKog",
+      "date": "2025-06-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学机关系统羽毛球队在2025年教职工羽毛球团体赛中斩获佳绩",
+      "url": "https://mp.weixin.qq.com/s/T3lGb3lMb-x-BMmoxkG0gw",
+      "date": "2025-06-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 上海美术学院工会与妇委举办野趣蓝晒活动",
+      "url": "https://mp.weixin.qq.com/s/dkPoa0jgjH4ntwIR4a3fPQ",
+      "date": "2025-06-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于开展2025年度上海大学工会理论研究与调查研究（妇女理论研究）工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/40572.htm",
+      "date": "2025-05-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "活力基层 |通信学院教职工“网球培训”与“集体生日茶话座谈会”如期举行",
+      "url": "https://mp.weixin.qq.com/s/KOGdzqPT4auzVPlDP9sKsg",
+      "date": "2024-05-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于开展“纪念上海大学建校102周年 庆祝上海大学新合并组建30周年”健步走活动的通知",
+      "url": "https://mp.weixin.qq.com/s/gKWKpAb3Xg7FZsOf0WWfvQ",
+      "date": "2024-05-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校微电子学院张建华教授荣获2024全国五一劳动奖章！",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=9361",
+      "date": "2024-04-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校材料科学与工程学院钟云波教授荣获2024上海职工优秀创新成果奖一等奖",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=9371",
+      "date": "2024-04-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "热烈庆祝“五一”国际劳动节",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=9191",
+      "date": "2024-04-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "活力基层 | 微电子学院、溯微书院开展2024年第一季度集体生日活动",
+      "url": "https://mp.weixin.qq.com/s/EBdf2y49cmhFa0SiazUnBQ",
+      "date": "2024-03-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 上海大学经济学院祝各位女同胞们“三八”国际妇女节快乐",
+      "url": "https://mp.weixin.qq.com/s/JJj6XzKO3VjmSMxPEXb5hw",
+      "date": "2024-03-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 通信学院“迎新送福健身走”与“新年茶话会”活动如期举行",
+      "url": "https://gh.shu.edu.cn/info/1064/8961.htm",
+      "date": "2024-02-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 上海大学出版社期刊社党委举办关爱健康科普活动",
+      "url": "https://gh.shu.edu.cn/info/1064/8951.htm",
+      "date": "2024-01-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "以评促建 以评促改 以评促管 以评促强",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=8651",
+      "date": "2023-12-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "活力基层 | 管理学院举办“送你一份新年礼”毛毡包DIY活动",
+      "url": "https://mp.weixin.qq.com/s/R0v-k-WbsgA1p-fugIjgcA",
+      "date": "2023-11-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 管理学院举办冬季越野跑活动",
+      "url": "https://mp.weixin.qq.com/s/4sz8RZ5AWYYiaD6ljVfNBQ",
+      "date": "2023-11-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 管理学院分工会举办冬季趣味运动会",
+      "url": "https://mp.weixin.qq.com/s/oygFOvyk-o8sm3Ay9cp8zA",
+      "date": "2023-11-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“看上海”进行时 | 管理学院分工会开展“看上海”活动",
+      "url": "https://mp.weixin.qq.com/s/SnMPX5-NoSzg-V9aFg4GoA",
+      "date": "2023-11-02",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 |直属单位系统组织教职员工参加学校2023年教工运动会",
+      "url": "https://mp.weixin.qq.com/s/o9N2Pk_42c5BbNoHLUD61w",
+      "date": "2023-10-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "协会招新 | 加入健身舞协会，舞动你的人生！",
+      "url": "https://mp.weixin.qq.com/s/6AG-qhbE9w_QKj4MJW6c5A",
+      "date": "2023-04-10",
+      "column": "协会动态"
+    },
+    {
+      "title": "协会招新 | 瑜伽协会带你体验“Yoga”的快乐！",
+      "url": "https://mp.weixin.qq.com/s/6Qv2MxVjK14bLHXDOnmVDQ",
+      "date": "2023-03-25",
+      "column": "协会动态"
+    },
+    {
+      "title": "活力基层 | 新闻传播学院组织开展庆祝国际劳动妇女节主题活动",
+      "url": "https://mp.weixin.qq.com/s/bd3fQ5qanLDauynzNAoubA",
+      "date": "2023-03-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 微电子学院分工会开展红色研学主题教育活动",
+      "url": "https://mp.weixin.qq.com/s/Qy-8HhP4m_Nd_Gf8-BdfGw",
+      "date": "2023-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 标杆共建促健康，义诊服务涌暖流：理学院工会组织庆祝三八妇女节活动",
+      "url": "https://mp.weixin.qq.com/s/WJDENC_rkKbATOFGYydurQ",
+      "date": "2023-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 |上海电影学院组织《敦煌女儿》观影活动，学习“莫高精神”",
+      "url": "https://mp.weixin.qq.com/s/mTuqCSTi5fJFG5mAH6lCdA",
+      "date": "2023-03-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 文学院开展庆祝第113个国际劳动妇女节活动",
+      "url": "https://mp.weixin.qq.com/s/PazmNOqMcc-a2vOI6OVIBw",
+      "date": "2023-03-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 外国语学院分工会组织趣味运动会",
+      "url": "https://mp.weixin.qq.com/s/sFuXKcz17kB1MKbMhH9NdQ",
+      "date": "2023-03-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层｜诗情“花”意 与你相约：图书馆、博物馆举办2023年“三八”妇女节插花活动",
+      "url": "https://mp.weixin.qq.com/s/-Pvga2fl3tC1IskfxoL2rg",
+      "date": "2023-03-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 理学院举行退休教师荣休仪式",
+      "url": "https://mp.weixin.qq.com/s/nkIa6lbgmM2jHRcLGZX5_w",
+      "date": "2023-02-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 管理学院举办“迎新年画创意赛”活动",
+      "url": "https://mp.weixin.qq.com/s/3qqeeIzJF_LBu42LENunag",
+      "date": "2023-02-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 管理学院举办“助力世界杯、运动无止境”活动",
+      "url": "https://mp.weixin.qq.com/s/Bl-FtgoXCPgHOXPy2a8X_Q",
+      "date": "2023-02-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "五届四次“双代会”召开！上海大学这样实干笃行促发展",
+      "url": "https://mp.weixin.qq.com/s/len9E1HRkaL88CnAa6V2Hw",
+      "date": "2022-11-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "聚焦双代会 | 上海大学五届四次“双代会”代表团分组讨论侧记",
+      "url": "https://mp.weixin.qq.com/s/_uw3GGClg1qh52Hv-WgQ1w",
+      "date": "2022-11-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "聚焦双代会 | 上海大学第五届教职工代表大会暨工会会员代表大会第四次会议代表培训会顺利举行",
+      "url": "https://mp.weixin.qq.com/s/LdquJRbAlyltTmZ7zHz3xQ",
+      "date": "2022-11-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "喜报！微电影《塑》荣获金奖！",
+      "url": "https://mp.weixin.qq.com/s/lfspWnx-lk-qod1fXcaL8A",
+      "date": "2022-10-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "活动回顾 | 泮池家长学校第十一讲上海中考新政的解读与思考开讲啦~",
+      "url": "https://gh.shu.edu.cn/info/1063/7581.htm",
+      "date": "2022-09-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "喜报！热烈祝贺上海大学微电子学院张建华教授荣获“上海市五一劳动奖章”荣誉称号",
+      "url": "https://gh.shu.edu.cn/info/1063/7580.htm",
+      "date": "2022-09-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "结果公布！2022年上海市女大学生创新创业大赛上海大学校赛决赛项目路演圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/7578.htm",
+      "date": "2022-09-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "活动回顾 | 泮池家长学校第十期：中考政策解读与志愿填报",
+      "url": "https://gh.shu.edu.cn/info/1063/7559.htm",
+      "date": "2022-09-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学隆重举行庆祝第38个教师节暨表彰大会",
+      "url": "https://gh.shu.edu.cn/info/1063/7554.htm",
+      "date": "2022-09-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第五届教代会执委会第六次会议暨第五届工会委员会第八次会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/7551.htm",
+      "date": "2022-09-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于开展2022年度教职工健康体检的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/7498.htm",
+      "date": "2022-06-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2022年工会理论研究与调查研究（妇女理论研究）工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/7476.htm",
+      "date": "2022-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "火红的青春，火红的岁月，让我们一起携手同行| 上海大学青年教师联欢活动举行",
+      "url": "https://gh.shu.edu.cn/info/1063/7383.htm",
+      "date": "2021-09-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "建功立业在讲台，青春逐梦促成长 ——上海大学举办上海市青年教师课堂教学竞赛选手选拔赛",
+      "url": "https://gh.shu.edu.cn/info/1063/7393.htm",
+      "date": "2021-09-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "薪火相传 开创未来 | 我校新进教师观看2021年上海市新教师入师入会仪式有感",
+      "url": "https://gh.shu.edu.cn/info/1063/7396.htm",
+      "date": "2021-09-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于发布2021年工会理论研究（妇女理论研究）立项课题的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/7375.htm",
+      "date": "2021-07-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "建党百年，向他们致敬！光荣在党50年，接续奋斗薪火传！",
+      "url": "https://gh.shu.edu.cn/info/1063/7373.htm",
+      "date": "2021-07-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "点赞！上海大学代表队荣获市教育系统“上海教职工学习习近平用典大赛”特等奖！",
+      "url": "https://gh.shu.edu.cn/info/1063/7371.htm",
+      "date": "2021-06-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "2021年上海大学教职工乒乓球团体赛圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1063/7372.htm",
+      "date": "2021-06-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学参赛选手以复赛下午场第一名的成绩进入上海教职工学习习近平用典知识大赛决赛",
+      "url": "https://gh.shu.edu.cn/info/1063/7369.htm",
+      "date": "2021-06-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "挥汗如雨训练不辍，齐心协力再创佳绩——我校教工气排球队在上海市第九届教工运动会气排球赛获突破",
+      "url": "https://gh.shu.edu.cn/info/1063/7370.htm",
+      "date": "2021-06-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "听党话，跟党走，强技能，立新功 | 上海大学第四届“工匠杯”技术技能竞赛（后勤保障部赛区）顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/7363.htm",
+      "date": "2021-06-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "泮池家长学校第五讲“家庭教育中的创新型人才培养——兼论价值观教育的核心作用”开讲了",
+      "url": "https://gh.shu.edu.cn/info/1063/7362.htm",
+      "date": "2021-05-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学五届三次“双代会”圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1063/7350.htm",
+      "date": "2021-05-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学五届三次“双代会”主席团第二次会议顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1063/7348.htm",
+      "date": "2021-05-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "缅怀先烈激斗志  强健体魄徒步行  ——文学院分工会组织探寻上海历史文脉红色徒步行活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7352.htm",
+      "date": "2021-05-15",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学五届三次“双代会”各代表团讨论会实况",
+      "url": "https://gh.shu.edu.cn/info/1063/7361.htm",
+      "date": "2021-05-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学五届三次“双代会”今日开幕！",
+      "url": "https://gh.shu.edu.cn/info/1063/7344.htm",
+      "date": "2021-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "“读峥嵘岁月，绘锦绣家园”活动顺利举办",
+      "url": "https://gh.shu.edu.cn/info/1064/7347.htm",
+      "date": "2021-05-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学五届三次“双代会”代表提升履职能力培训  及校情通报会顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/7345.htm",
+      "date": "2021-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "管理学院母亲节礼物DIY活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7346.htm",
+      "date": "2021-05-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学第五届工会委员会第五次（扩大）会议顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/7331.htm",
+      "date": "2021-04-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "聚焦上海新中考政策与人才培养模式改革  “泮池家长学校”第四讲开讲",
+      "url": "https://gh.shu.edu.cn/info/1063/7341.htm",
+      "date": "2021-04-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "“赛经典名句 促党史学习 庆建党百年”  上海大学教职工学习习近平用典知识竞赛顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/7329.htm",
+      "date": "2021-04-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "微电子学院工会成立大会暨上海大学第五届教代会代表选举顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1064/7323.htm",
+      "date": "2021-04-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "运动青春、师生同心——悉商学院工会举办师生羽毛球联谊赛",
+      "url": "https://gh.shu.edu.cn/info/1064/7327.htm",
+      "date": "2021-04-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "管理学院开展春游踏青活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7322.htm",
+      "date": "2021-04-21",
+      "column": "分工会动态"
+    },
+    {
+      "title": "美术学院举行“上美寻根之旅”青年教师沙龙活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7326.htm",
+      "date": "2021-04-21",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“热血铸春秋 浩气贯日月”——庆祝建党100周年 国际部工会主题参观及健步走活动圆满举办",
+      "url": "https://gh.shu.edu.cn/info/1064/7324.htm",
+      "date": "2021-04-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "外国语学院分工会举行“庆祝建党百年”校园健步走活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7325.htm",
+      "date": "2021-04-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "管理学院开展春季运动会--瑜伽活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7315.htm",
+      "date": "2021-04-02",
+      "column": "分工会动态"
+    },
+    {
+      "title": "泮池家长学校第三讲“上海中考新政的变革”开讲了",
+      "url": "https://gh.shu.edu.cn/info/1063/7316.htm",
+      "date": "2021-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "2021年“医疗专家进校园咨询活动”有关通知",
+      "url": "https://gh.shu.edu.cn/info/1061/7291.htm",
+      "date": "2021-03-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2020年度基层工会工作总结交流会顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1063/7282.htm",
+      "date": "2021-01-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "2020上海大学文体协会年度总结会成功召开",
+      "url": "https://gh.shu.edu.cn/info/1065/41592.htm",
+      "date": "2020-12-29",
+      "column": "协会动态"
+    },
+    {
+      "title": "茶艺协会与摄影协会共同举办辞旧迎新“茶服的摄影艺术”讲座及茶艺表演活动",
+      "url": "https://gh.shu.edu.cn/info/1065/41532.htm",
+      "date": "2020-12-25",
+      "column": "协会动态"
+    },
+    {
+      "title": "对外联络处组织开展“三星堆”特展参观学习及趣味知识竞赛活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7235.htm",
+      "date": "2020-11-26",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院组织开展从“心”启程，育德润心——导师心理育人主题沙龙暨第十一期文苑下午茶",
+      "url": "https://gh.shu.edu.cn/info/1064/7219.htm",
+      "date": "2020-11-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "经济学院顺利举办2020年度健身走活动",
+      "url": "https://gh.shu.edu.cn/info/1064/7217.htm",
+      "date": "2020-11-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "岁月染芳华 桃李育芬芳 ——计算中心举行教师光荣退休欢送会",
+      "url": "https://gh.shu.edu.cn/info/1064/7218.htm",
+      "date": "2020-11-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校上海美术学院2位教师在“上海高校艺术与设计类青年教师教学竞赛”中斩获佳绩",
+      "url": "https://gh.shu.edu.cn/info/1064/7202.htm",
+      "date": "2020-11-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于2020年“医疗专家进校园咨询活动”的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/7172.htm",
+      "date": "2020-11-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "管理学院开展菊花节摄影比赛",
+      "url": "https://gh.shu.edu.cn/info/1064/7203.htm",
+      "date": "2020-11-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2020材料学院-材料基因院羽毛球邀请赛顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1064/7223.htm",
+      "date": "2020-11-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院举行五届三次“双代会”——审议通过《上海大学文学院岗位绩效管理方案》",
+      "url": "https://gh.shu.edu.cn/info/1064/7204.htm",
+      "date": "2020-11-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学社会学院第二届教职工全体大会第四次会议顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1064/7205.htm",
+      "date": "2020-11-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "秋色正好，健康沪行--花开海上生态园和枫泾古镇一日游",
+      "url": "https://gh.shu.edu.cn/info/1064/7222.htm",
+      "date": "2020-10-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "茶艺协会举办“无我茶会”培训讲座",
+      "url": "https://gh.shu.edu.cn/info/1065/41542.htm",
+      "date": "2020-10-16",
+      "column": "协会动态"
+    },
+    {
+      "title": "茶艺协会举办“无我茶会”培训讲座",
+      "url": "https://gh.shu.edu.cn/info/1065/41602.htm",
+      "date": "2020-10-16",
+      "column": "协会动态"
+    },
+    {
+      "title": "金秋十月舞婆娑---记上海大学健身舞协会“金秋十月联谊会”活动",
+      "url": "https://gh.shu.edu.cn/info/1065/41552.htm",
+      "date": "2020-10-10",
+      "column": "协会动态"
+    },
+    {
+      "title": "金秋十月舞婆娑---记上海大学健身舞协会“金秋十月联谊会”活动",
+      "url": "https://gh.shu.edu.cn/info/1065/41612.htm",
+      "date": "2020-10-10",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于上海大学补充医疗保险（人寿保险）理赔办理的通知（05.15）",
+      "url": "https://gh.shu.edu.cn/info/1061/6951.htm",
+      "date": "2020-05-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学补充医疗保险（人寿保险）理赔办理的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6871.htm",
+      "date": "2020-04-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "学工办（武装部）党支部和工会小组贺卡传情，暖心抗“疫”",
+      "url": "https://gh.shu.edu.cn/info/1063/6821.htm",
+      "date": "2020-03-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上美院建筑系谢建军老师参与临汾市“小汤山”应急医院建设小记",
+      "url": "https://gh.shu.edu.cn/info/1063/6822.htm",
+      "date": "2020-03-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "身边的共产党员：总要有人在这种困难时期站出来",
+      "url": "https://gh.shu.edu.cn/info/1063/6811.htm",
+      "date": "2020-02-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "战“疫”留言集｜客观真实有温度有担当",
+      "url": "https://gh.shu.edu.cn/info/1063/6801.htm",
+      "date": "2020-02-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "战“疫”留言：疫情湖北探亲记",
+      "url": "https://gh.shu.edu.cn/info/1063/6802.htm",
+      "date": "2020-02-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "抗击疫情 温暖同行｜工会妇女组织“暖流”入心",
+      "url": "https://gh.shu.edu.cn/info/1063/6791.htm",
+      "date": "2020-02-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "战“疫”一线的上大人| 外国语学院白岸杨老师志愿服务“战\"疫阻击前线",
+      "url": "https://gh.shu.edu.cn/info/1063/6792.htm",
+      "date": "2020-02-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "战“疫”一线的上大人｜与祖国同命运，与人民共患难",
+      "url": "https://gh.shu.edu.cn/info/1063/6784.htm",
+      "date": "2020-02-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "市教卫党委领导看望劳模刘昌胜院士",
+      "url": "https://gh.shu.edu.cn/info/1063/6771.htm",
+      "date": "2020-01-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "积蓄力量 砥砺前行：我校基层工会交流工作经验",
+      "url": "https://gh.shu.edu.cn/info/1063/6763.htm",
+      "date": "2020-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第十七届菊文化节“辉煌七十年 追梦新时代”摄影比赛通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6701.htm",
+      "date": "2019-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "不忘初心，牢记使命",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6681",
+      "date": "2019-10-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上大教工勇夺市教育系统2019年网球比赛冠军",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6672",
+      "date": "2019-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "​“今天是沸点！”上海大学教职工运动会圆满落幕",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6676",
+      "date": "2019-10-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第32期教职工身心健康咨询活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6635.htm",
+      "date": "2019-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "庆祝新中国成立七十华诞 上海大学教职工乒乓球协会举行联谊活动",
+      "url": "https://gh.shu.edu.cn/info/1065/41622.htm",
+      "date": "2019-10-08",
+      "column": "协会动态"
+    },
+    {
+      "title": "免费！上大体育场馆免费对教职工会员开放！",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6613",
+      "date": "2019-09-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举行“中秋团圆 情暖上大”教职工中秋联谊活动",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6602",
+      "date": "2019-09-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校工会举办2019年上海大学教职工中秋国庆慰问品展示评选活动",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6583",
+      "date": "2019-09-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学工会系统“不忘初心 牢记使命”主题教育暨工会骨干研修班结业典礼举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6554",
+      "date": "2019-07-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校工会骨干到上海市公共安全教育实训基地参加素拓课程",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6532",
+      "date": "2019-06-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学2019年工会骨干学习习近平新时代 中国特色社会主义思想专题研修班开班",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6523",
+      "date": "2019-06-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校20个教职工文体协会招新啦！",
+      "url": "https://gh.shu.edu.cn/info/1065/41632.htm",
+      "date": "2019-06-12",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于做好上海大学2019年教职工暑期疗休养工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6501.htm",
+      "date": "2019-06-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "立德树人 砥砺前行——我校一批先进集体和个人受到表彰",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=6495",
+      "date": "2019-06-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "教职工健康工程之颈椎、膝关节养护讲座通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6491.htm",
+      "date": "2019-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公布上海大学2019年工会、妇委会理论研究与调查立项课题的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6493.htm",
+      "date": "2019-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2019年度教职工健康体检的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/6441.htm",
+      "date": "2019-05-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "第28期教职工身心健康咨询活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3691.htm",
+      "date": "2019-04-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "教职工身心健康咨询活动通知(2019年3月 第27期)",
+      "url": "https://gh.shu.edu.cn/info/1061/3698.htm",
+      "date": "2019-03-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学第十六届菊文化节“见证改革•记录辉煌”摄影比赛通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3699.htm",
+      "date": "2018-11-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "校演讲协会邀请姚蓉教授做“谈古诗词的诵读”讲座",
+      "url": "https://gh.shu.edu.cn/info/1065/41642.htm",
+      "date": "2018-11-21",
+      "column": "协会动态"
+    },
+    {
+      "title": "教职工身心健康咨询活动第23期通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3701.htm",
+      "date": "2018-09-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018年下半年“医疗专家进校园咨询活动”通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3702.htm",
+      "date": "2018-08-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "社会学院分工会开展六一“大手牵小手，引领童年走”主题活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5888.htm",
+      "date": "2018-06-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "教职工身心健康咨询活动第22期通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3704.htm",
+      "date": "2018-06-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "文学院举办六一儿童节亲子活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5887.htm",
+      "date": "2018-06-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "科产系统分工会举行“畅想青春、激扬梦想”卡拉OK演唱比赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5885.htm",
+      "date": "2018-05-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "科产系统分工会组织职工集体考察",
+      "url": "https://gh.shu.edu.cn/info/1064/5886.htm",
+      "date": "2018-05-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位“六一”亲子活动走进自然博物馆",
+      "url": "https://gh.shu.edu.cn/info/1064/5884.htm",
+      "date": "2018-05-28",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会领导到文学院进行调研",
+      "url": "https://gh.shu.edu.cn/info/1064/5883.htm",
+      "date": "2018-05-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院组织第三届上海市青年教师教学竞赛赛前实战演练",
+      "url": "https://gh.shu.edu.cn/info/1064/5882.htm",
+      "date": "2018-05-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "图书馆分工会组织教职工辰山植物园春游",
+      "url": "https://gh.shu.edu.cn/info/1064/5880.htm",
+      "date": "2018-05-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "展现青春活力，为自己打CALL—记影院/新传院教师“五四”青春徒步行",
+      "url": "https://gh.shu.edu.cn/info/1064/5881.htm",
+      "date": "2018-05-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "教职工身心健康咨询活动第21期通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3707.htm",
+      "date": "2018-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "直属单位系统分工会开展“直属一家亲”春季素质拓展",
+      "url": "https://gh.shu.edu.cn/info/1064/5879.htm",
+      "date": "2018-05-02",
+      "column": "分工会动态"
+    },
+    {
+      "title": "教职工身心健康咨询活动第19期通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3709.htm",
+      "date": "2018-02-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学工会书画协会笔会活动成功举办",
+      "url": "https://gh.shu.edu.cn/info/1065/41662.htm",
+      "date": "2017-12-18",
+      "column": "协会动态"
+    },
+    {
+      "title": "上海大学第二届教职工文体协会嘉年华隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1065/41672.htm",
+      "date": "2017-12-04",
+      "column": "协会动态"
+    },
+    {
+      "title": "2017年教工钓鱼协会秋季比赛活动如期举行",
+      "url": "https://gh.shu.edu.cn/info/1065/41692.htm",
+      "date": "2017-11-14",
+      "column": "协会动态"
+    },
+    {
+      "title": "朗读属于每一个人——语言魅力提升班开班暨“上海大学朗读者”活动拉开序幕",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4424",
+      "date": "2017-10-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学朗读者第一期培训通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3714.htm",
+      "date": "2017-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于校工会优化服务为体检的教职工定制营养早餐的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3716.htm",
+      "date": "2017-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会帮困工作会议强调：争取把有限的资金发放给最需要的人",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4423",
+      "date": "2017-09-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2017年上海大学教职工校内健康检查通知单",
+      "url": "https://gh.shu.edu.cn/info/1061/3717.htm",
+      "date": "2017-09-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会开展夏日“送清凉”活动",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4421",
+      "date": "2017-09-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校工会、教师工作部慰问暑期坚守岗位的科研团队和青年教师代表",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4420",
+      "date": "2017-09-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "转发：市教育工会在教师节期间为教职工提供义务法律咨询的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3720.htm",
+      "date": "2017-09-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学非编制教职工入会仪式暨新工人艺术团上大唱谈会成功举办",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4418",
+      "date": "2017-06-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海市第八届教工运动会游泳比赛成功举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4419",
+      "date": "2017-06-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2017上海市东北片高校声乐交流演唱会在上海大学举办",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4261",
+      "date": "2017-06-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学工会荣获上海市“模范职工之家”荣誉称号",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4259",
+      "date": "2017-06-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "文学院组织教工子女参观“好八连”",
+      "url": "https://gh.shu.edu.cn/info/1064/5848.htm",
+      "date": "2017-06-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于开展2017年第22个爱眼日活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3723.htm",
+      "date": "2017-06-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学工会（妇委会）荣获上海大学文明单位（2015-2016）",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4257",
+      "date": "2017-05-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于上海大学工会银行账户变更的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3725.htm",
+      "date": "2017-05-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市第八届教工运动会游泳赛上大队运动员招募通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3726.htm",
+      "date": "2017-05-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "材料学院崇明岛生态游",
+      "url": "https://gh.shu.edu.cn/info/1064/5845.htm",
+      "date": "2017-04-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "继续教育学院召开工青妇联席会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5846.htm",
+      "date": "2017-04-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院组织教职工参加义务献血活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5847.htm",
+      "date": "2017-04-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "（转发）2017年上海大学教职工校外体检通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3728.htm",
+      "date": "2017-04-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "直属单位系统召开2017年第一次工作例会",
+      "url": "https://gh.shu.edu.cn/info/1064/5844.htm",
+      "date": "2017-04-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "武术与中国传统文化讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5843.htm",
+      "date": "2017-04-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "继教学院举办第二季度生日会",
+      "url": "https://gh.shu.edu.cn/info/1064/5842.htm",
+      "date": "2017-03-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院举办庆祝“三八节”活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5841.htm",
+      "date": "2017-03-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院教工一季度集体生日活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5839.htm",
+      "date": "2017-03-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算中心“三八”节绿色参观活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5840.htm",
+      "date": "2017-03-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学四届四次“双代会”圆满落幕",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4254",
+      "date": "2017-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办茶艺培训讲座的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3741.htm",
+      "date": "2016-12-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "“秋菊雅韵•上大缘”首届教职工文体协会文化展示活动场面火热人头攒动",
+      "url": "https://gh.shu.edu.cn/info/1065/41712.htm",
+      "date": "2016-11-29",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于举办教职工子女就业咨询专场的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3747.htm",
+      "date": "2016-11-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "太极拳协会举办\"武术与中国传统文化大讲堂\"",
+      "url": "https://gh.shu.edu.cn/info/1065/41732.htm",
+      "date": "2016-11-08",
+      "column": "协会动态"
+    },
+    {
+      "title": "上大教工乒协举办“庆祝国庆67周年”教工乒乓球友谊赛",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4399",
+      "date": "2016-10-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2016年上海大学青年教师中秋联谊活动举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4398",
+      "date": "2016-09-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "（转） “牵手幸福路、共筑宝山情”迎国庆定向交友活动",
+      "url": "https://gh.shu.edu.cn/info/1065/6051.htm",
+      "date": "2016-09-09",
+      "column": "协会动态"
+    },
+    {
+      "title": "2016年第6期教职工身心健康咨询活动通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6050.htm",
+      "date": "2016-09-07",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于山明楼菜管家恢复供应的通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6049.htm",
+      "date": "2016-09-05",
+      "column": "协会动态"
+    },
+    {
+      "title": "(转发）预告 | “身边的好教师微电影”本周艺术人文频道播出，敬请关注！",
+      "url": "https://gh.shu.edu.cn/info/1065/6048.htm",
+      "date": "2016-08-23",
+      "column": "协会动态"
+    },
+    {
+      "title": "我校召开四届三次教代会提案工作会议",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4396",
+      "date": "2016-07-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学校召开第四届教代会执委会（扩大）会议审议“十三五”规划",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4395",
+      "date": "2016-07-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2016年教职工暑期疗休养说明会先后在三个校区召开",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4394",
+      "date": "2016-06-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上大教师在2016年上海高校教工合唱展演会上唱响时代主旋律",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4393",
+      "date": "2016-06-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“筝”情真意中国传统文化校园行之古筝篇即将上演",
+      "url": "https://gh.shu.edu.cn/info/1065/6047.htm",
+      "date": "2016-06-16",
+      "column": "协会动态"
+    },
+    {
+      "title": "6月份的“把爱洒向校园——为教职工服务日”活动在即",
+      "url": "https://gh.shu.edu.cn/info/1065/6046.htm",
+      "date": "2016-06-12",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于山明楼菜管家端午假期调整供应时间的通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6045.htm",
+      "date": "2016-06-07",
+      "column": "协会动态"
+    },
+    {
+      "title": "我校教工队获市八运会乒乓球赛第六名（高校A组）",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4391",
+      "date": "2016-06-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校工会与后勤集团共建“教工之家”活动室揭牌",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4392",
+      "date": "2016-06-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2016年第5期教职工身心健康咨询活动通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6044.htm",
+      "date": "2016-06-06",
+      "column": "协会动态"
+    },
+    {
+      "title": "各学院（系统）分工会主席会议召开",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4390",
+      "date": "2016-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校演讲协会承办长三角地区“中华经典·中国梦想”大学生中华经典诵读上海大学选拔赛",
+      "url": "https://gh.shu.edu.cn/info/1065/41742.htm",
+      "date": "2016-05-31",
+      "column": "协会动态"
+    },
+    {
+      "title": "上海市教育系统“劳模创新工作室”--吴明红有机污染物控制工作室揭牌",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4389",
+      "date": "2016-05-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校举办“第二届上海高校青年教师教学竞赛”选拔赛暨第18 期教师教学沙龙",
+      "url": "https://gh.shu.edu.cn/info/1063/5174.htm",
+      "date": "2016-03-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校工会干部赴上理工、复旦调研",
+      "url": "https://gh.shu.edu.cn/info/1063/5172.htm",
+      "date": "2016-03-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校机自学院分工会被评为“2012-2014年度上海市教育系统模范教工小家”",
+      "url": "https://gh.shu.edu.cn/info/1063/5333.htm",
+      "date": "2016-03-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "宝山区大场镇小学教师招聘通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6030.htm",
+      "date": "2016-02-25",
+      "column": "协会动态"
+    },
+    {
+      "title": "上海大学四届三次“双代会”圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1063/5171.htm",
+      "date": "2016-02-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开四届三次“双代会”主席团、代表团正副团长会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5330.htm",
+      "date": "2016-02-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "上大乒协举办“迎新春”校区间教工乒乓球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/5328.htm",
+      "date": "2016-02-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "增强政治性、先进性、群众性 为办人民满意的教育建功立业——上海大学2015年度工会工作报告（现场版）",
+      "url": "https://gh.shu.edu.cn/info/1063/5326.htm",
+      "date": "2016-01-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学四届三次教代会暨工代会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5166.htm",
+      "date": "2016-01-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学基础教育发展集团成立签约仪式举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5324.htm",
+      "date": "2016-01-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行2014-2015年度先进教工小家总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/5161.htm",
+      "date": "2016-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校近2000名教职工参加迎春跑",
+      "url": "https://gh.shu.edu.cn/info/1063/5163.htm",
+      "date": "2016-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开第四届工会委员会全体会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5165.htm",
+      "date": "2016-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "党委全委（扩大）会暨校领导班子和领导干部述职考核大会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5158.htm",
+      "date": "2016-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工参加东北片高校教职工合唱交流音乐会",
+      "url": "https://gh.shu.edu.cn/info/1063/5156.htm",
+      "date": "2015-12-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开教职工协会工作总结表彰会",
+      "url": "https://gh.shu.edu.cn/info/1063/5154.htm",
+      "date": "2015-12-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第二届教职工台球比赛圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/5150.htm",
+      "date": "2015-12-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "上大承办2015年本市东北片高校网球嘉年华活动圆满收拍",
+      "url": "https://gh.shu.edu.cn/info/1063/5152.htm",
+      "date": "2015-12-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "2015上海大学第十一届运动会教职工组总分排名榜",
+      "url": "https://gh.shu.edu.cn/info/1063/5322.htm",
+      "date": "2015-12-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "12月份的为教职工服务日活动在即",
+      "url": "https://gh.shu.edu.cn/info/1065/6028.htm",
+      "date": "2015-12-14",
+      "column": "协会动态"
+    },
+    {
+      "title": "我校教工在市第八届教工运动会桥牌比赛中获奖",
+      "url": "https://gh.shu.edu.cn/info/1063/5148.htm",
+      "date": "2015-12-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "“珍爱和平 创新发展”——校工会举办菊文化节“天天演”教职工专场演出",
+      "url": "https://gh.shu.edu.cn/info/1063/5146.htm",
+      "date": "2015-12-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "11月份的为教职工服务日活动在即",
+      "url": "https://gh.shu.edu.cn/info/1065/6026.htm",
+      "date": "2015-11-13",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于开展教职工身心健康咨询活动（12月份）的通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6027.htm",
+      "date": "2015-11-13",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于开展教职工身心健康咨询活动（10月份）的通知",
+      "url": "https://gh.shu.edu.cn/info/1065/6025.htm",
+      "date": "2015-10-12",
+      "column": "协会动态"
+    },
+    {
+      "title": "教工太极拳协会举行“太极与生活”茶话会",
+      "url": "https://gh.shu.edu.cn/info/1065/41762.htm",
+      "date": "2015-06-29",
+      "column": "协会动态"
+    },
+    {
+      "title": "弘扬主旋律，传递正能量——“寻找校园里的幸福”教职工演讲比赛暨征文颁奖仪式成功举办",
+      "url": "https://gh.shu.edu.cn/info/1063/5113.htm",
+      "date": "2015-06-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "教职工补充医保说明会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5309.htm",
+      "date": "2015-06-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "各学院（系统）分工会主席会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5109.htm",
+      "date": "2015-06-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教代会代表到上海电力学院考察学习充电桩安装",
+      "url": "https://gh.shu.edu.cn/info/1063/5111.htm",
+      "date": "2015-06-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织教职工参加经纬社区活动",
+      "url": "https://gh.shu.edu.cn/info/1063/5105.htm",
+      "date": "2015-06-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工合唱团参加“纪念抗战胜利70周年”上海高校教工合唱主题展演",
+      "url": "https://gh.shu.edu.cn/info/1063/5107.htm",
+      "date": "2015-06-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会课题成果再次刊登在上海市工会理论刊物上",
+      "url": "https://gh.shu.edu.cn/info/1063/5306.htm",
+      "date": "2015-06-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校两位院士在市教育系统劳模先进表彰会上受表彰",
+      "url": "https://gh.shu.edu.cn/info/1063/5100.htm",
+      "date": "2015-05-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "“演讲这点事”——“寻找校园里的幸福”演讲辅导讲座举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5103.htm",
+      "date": "2015-05-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行“教职工补充医保”签约仪式",
+      "url": "https://gh.shu.edu.cn/info/1063/5096.htm",
+      "date": "2015-05-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校劳模协会成立仪式暨劳模与青年教师座谈会举行",
+      "url": "https://gh.shu.edu.cn/info/1065/41772.htm",
+      "date": "2015-05-25",
+      "column": "协会动态"
+    },
+    {
+      "title": "我校举行“教职工补充医保”签约仪式",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4339",
+      "date": "2015-05-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校教工队勇夺上海市教育系统羽毛球赛亚军（高校A组）",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4239",
+      "date": "2015-05-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学第24次民主管理恳谈会召开",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4338",
+      "date": "2015-05-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“寻找校园里的幸福”演讲辅导的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3795.htm",
+      "date": "2015-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校组织教代会代表校内安装充电桩巡视活动",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4337",
+      "date": "2015-05-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "5月份的为教职工服务日活动在即",
+      "url": "https://gh.shu.edu.cn/info/1065/6003.htm",
+      "date": "2015-05-11",
+      "column": "协会动态"
+    },
+    {
+      "title": "关于开展2015年工会工作理论调研的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3797.htm",
+      "date": "2015-05-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "“山明菜管家”推出熟食卤味出售服务",
+      "url": "https://gh.shu.edu.cn/info/1065/6002.htm",
+      "date": "2015-05-05",
+      "column": "协会动态"
+    },
+    {
+      "title": "我校召开四届二次教代会提案工作第一次会议",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4335",
+      "date": "2015-05-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学劳模协会预备会召开",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4336",
+      "date": "2015-05-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校孙晋良院士荣获“全国先进工作者”荣誉称号载誉而归",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4333",
+      "date": "2015-04-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2015年上海大学“悉商杯”教职工羽毛球团体赛顺利举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4331",
+      "date": "2015-04-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学“教职工补充医保”招标会举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4332",
+      "date": "2015-04-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2015年上海大学教工钓鱼协会春季活动圆满举行",
+      "url": "https://gh.shu.edu.cn/info/1065/41792.htm",
+      "date": "2015-04-21",
+      "column": "协会动态"
+    },
+    {
+      "title": "“医疗专家进校园咨询”活动顺利开展",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4330",
+      "date": "2015-04-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "《勿忘国耻·圆梦中华——上海市高校教师书法展》征稿通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3801.htm",
+      "date": "2015-04-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学青年教师示范课观摩及交流活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3804.htm",
+      "date": "2015-04-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "2015年上半年文体培训班的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3805.htm",
+      "date": "2015-04-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "4月24日体育场馆教工羽毛球活动暂停通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3806.htm",
+      "date": "2015-04-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "大场镇地区入学集中登记的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3807.htm",
+      "date": "2015-04-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "2015年上海大学教工钓鱼协会活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3808.htm",
+      "date": "2015-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "4月10日体育场馆教工活动暂停通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3811.htm",
+      "date": "2015-04-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于居住集体宿舍教职工子女需要办理人户分离的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3812.htm",
+      "date": "2015-03-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "（转发）关于上海教师心理健康发展服务中心正式运行的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3818.htm",
+      "date": "2015-01-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "（转发）关于开展2015年理论研究与调查研究工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3819.htm",
+      "date": "2015-01-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学教职工迎接2015年健身跑举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5060.htm",
+      "date": "2015-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "二工大、海洋、金融三校工会干部到我校交流工会工作",
+      "url": "https://gh.shu.edu.cn/info/1063/5058.htm",
+      "date": "2014-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行2014年上海大学教职工迎新歌咏（卡拉OK）比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/5057.htm",
+      "date": "2014-12-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "校四届一次教代会首次对校领导班子及成员开展“满意度测评”",
+      "url": "https://gh.shu.edu.cn/info/1063/5056.htm",
+      "date": "2014-12-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "《解放日报》刊文：把梦想传递给更多年轻人",
+      "url": "https://gh.shu.edu.cn/info/1063/5280.htm",
+      "date": "2014-12-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "上大宝山教职工“迎新年”乒乓球友谊赛顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5054.htm",
+      "date": "2014-12-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、人事处慰问我校残疾教职工",
+      "url": "https://gh.shu.edu.cn/info/1063/5052.htm",
+      "date": "2014-12-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开第四届教代会执委会（扩大）会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5050.htm",
+      "date": "2014-12-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教职工太极拳协会2014-2015学年冬季学期活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3821.htm",
+      "date": "2014-12-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校设立“教职工维权申诉援助委员会”",
+      "url": "https://gh.shu.edu.cn/info/1063/5279.htm",
+      "date": "2014-12-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "市教育工会表彰优秀教职工代表和教代会优秀提案",
+      "url": "https://gh.shu.edu.cn/info/1063/5278.htm",
+      "date": "2014-12-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "启思 凝聚 发展——“直属讲堂”第三期顺利开讲",
+      "url": "https://gh.shu.edu.cn/info/1064/5712.htm",
+      "date": "2014-11-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院金秋体育比赛圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1064/5711.htm",
+      "date": "2014-11-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高分工会举行工青妇联席会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5709.htm",
+      "date": "2014-11-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院工会举行“秀厨艺，品美食”活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5710.htm",
+      "date": "2014-11-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "科产系统分工会积极参加校教职工游泳比赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5708.htm",
+      "date": "2014-11-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院在校教职工游泳比赛中斩获颇丰",
+      "url": "https://gh.shu.edu.cn/info/1064/5706.htm",
+      "date": "2014-11-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "人生丹青，挥毫池中——外国语学院教职工参加校游泳比赛纪实",
+      "url": "https://gh.shu.edu.cn/info/1064/5707.htm",
+      "date": "2014-11-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "再聚首  暖人心——记走访退休教师凌云",
+      "url": "https://gh.shu.edu.cn/info/1064/5704.htm",
+      "date": "2014-10-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院分工会组织教职工学习习近平主席在北师大的讲话精神",
+      "url": "https://gh.shu.edu.cn/info/1064/5705.htm",
+      "date": "2014-10-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "环化学院射线所教师学习习近平总书记北师大讲话精神体会",
+      "url": "https://gh.shu.edu.cn/info/1064/5703.htm",
+      "date": "2014-10-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位计算中心工会妇委开展专题学习活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5689.htm",
+      "date": "2014-10-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院举办重阳节座谈会",
+      "url": "https://gh.shu.edu.cn/info/1064/5690.htm",
+      "date": "2014-10-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高分工会组织重阳敬老活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5691.htm",
+      "date": "2014-10-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "恩师掬取天池水，洒向人间育新苗——管理学院举行2014年教职工集体生日会",
+      "url": "https://gh.shu.edu.cn/info/1064/5685.htm",
+      "date": "2014-10-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "喝咖啡品人生 谈服务促发展——记管理学院行政工会小组与学工工会小组联合活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5686.htm",
+      "date": "2014-10-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "理学院召开新进教师座谈会",
+      "url": "https://gh.shu.edu.cn/info/1064/5687.htm",
+      "date": "2014-10-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高分工会季度生日会暨“养乐多”参观活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5688.htm",
+      "date": "2014-10-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "材料学院举行敬老节茶话会",
+      "url": "https://gh.shu.edu.cn/info/1064/5684.htm",
+      "date": "2014-09-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "国际交流学院开展迎国庆过重阳慰问活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5683.htm",
+      "date": "2014-09-28",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于在全校教职工中开展学习习近平在北师大讲话精神的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3831.htm",
+      "date": "2014-09-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学教职工太极拳协会秋季学期活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3832.htm",
+      "date": "2014-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "悉商杯“全明星”师生篮球友谊赛举行",
+      "url": "https://gh.shu.edu.cn/info/1064/5682.htm",
+      "date": "2014-09-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会、青联会携手主办我校青年教师亲子系列活动",
+      "url": "https://gh.shu.edu.cn/info/1063/5019.htm",
+      "date": "2014-07-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "(转发)关于举办第十六届上海读书节“东方雁杯”上海职工“逐梦的力量”征文大赛的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3834.htm",
+      "date": "2014-06-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校吴笑、高芳两位老师参加了中华经典诵读师资培训班汇报演出",
+      "url": "https://gh.shu.edu.cn/info/1063/5259.htm",
+      "date": "2014-06-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校与上海工程技术大学教职工乒乓球友谊赛顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5257.htm",
+      "date": "2014-06-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于上海大学2014年工会工作调研和理论论文征集的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3836.htm",
+      "date": "2014-06-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "欢乐的我们跑起来---记我校师生参加“城市乐跑赛”",
+      "url": "https://gh.shu.edu.cn/info/1063/5255.htm",
+      "date": "2014-06-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织教职工献血休养团赴桐庐富阳休养",
+      "url": "https://gh.shu.edu.cn/info/1063/5017.htm",
+      "date": "2014-06-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "“圆梦上大”——庆祝新上大组建20周年主题征文（教职工组）评比结果揭晓",
+      "url": "https://gh.shu.edu.cn/info/1063/5253.htm",
+      "date": "2014-06-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "教职工摄影学会组织薰衣草节采风活动",
+      "url": "https://gh.shu.edu.cn/info/1063/5015.htm",
+      "date": "2014-06-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "忻平主席牵头课题获得2014年市教育系统工会理论研究会立项",
+      "url": "https://gh.shu.edu.cn/info/1063/5248.htm",
+      "date": "2014-06-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会调研课题获市教育系统工会理论研究会2013年度立项课题优秀成果",
+      "url": "https://gh.shu.edu.cn/info/1063/5251.htm",
+      "date": "2014-06-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教工摄影学会采风活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3839.htm",
+      "date": "2014-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会、工会妇委会组织参观“焦裕禄事迹图片展”",
+      "url": "https://gh.shu.edu.cn/info/1063/5013.htm",
+      "date": "2014-06-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "新成高举行主题生日会暨分工会活动日",
+      "url": "https://gh.shu.edu.cn/info/1064/5653.htm",
+      "date": "2014-04-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位系统分工会开展学习活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5651.htm",
+      "date": "2014-03-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位系统教职工热情参加学校乒乓球赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5652.htm",
+      "date": "2014-03-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "畅所欲言，欢声笑语，工会一家亲——校工会常务副主席姜继平到外国语学院座谈",
+      "url": "https://gh.shu.edu.cn/info/1064/5650.htm",
+      "date": "2014-03-28",
+      "column": "分工会动态"
+    },
+    {
+      "title": "理学院召开第五届教代会暨工代会第一次会议并选举产生新一届工会委员会",
+      "url": "https://gh.shu.edu.cn/info/1064/5649.htm",
+      "date": "2014-03-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机械自动化工程系举行三八节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5599.htm",
+      "date": "2014-03-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "数码艺术学院举行“闻香•品茗——享健康人生”三八妇女节主题活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5648.htm",
+      "date": "2014-03-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "环化学院举行“庆三八”系列活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5647.htm",
+      "date": "2014-03-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院开展庆祝三八节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5645.htm",
+      "date": "2014-03-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "科技园区举办庆祝“三八”国际妇女节座谈会",
+      "url": "https://gh.shu.edu.cn/info/1064/5646.htm",
+      "date": "2014-03-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于做好校第四届教代会第一次会议提案征集工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3855.htm",
+      "date": "2013-12-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好我校第四届教职工代表大会暨工会会员代表大会准备工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3859.htm",
+      "date": "2013-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学“共建杯”象棋赛6月9日圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/5180.htm",
+      "date": "2013-06-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "校本部东校区出行公交有望改善",
+      "url": "https://gh.shu.edu.cn/info/1063/5179.htm",
+      "date": "2013-06-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "科产系统妇委举办“爱生活 迎端午”活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5574.htm",
+      "date": "2013-06-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "科产系统举办“爱理财•爱生活”金融理财知识讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5588.htm",
+      "date": "2013-06-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校工会调研课题获2012年度上海工会优秀调查报告",
+      "url": "https://gh.shu.edu.cn/info/1063/5177.htm",
+      "date": "2013-06-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院举办投资理财讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5586.htm",
+      "date": "2013-06-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院组织青年教师观摩课堂教学竞赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5587.htm",
+      "date": "2013-06-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院为老师们送去一片清凉",
+      "url": "https://gh.shu.edu.cn/info/1064/5585.htm",
+      "date": "2013-06-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "三届七次教代会第一次提案工作会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5175.htm",
+      "date": "2013-06-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织教职工献血休养团赴临安休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4927.htm",
+      "date": "2013-06-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学庆祝六一合唱舞蹈专场演出举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4929.htm",
+      "date": "2013-06-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院工会看望慰问退休人员",
+      "url": "https://gh.shu.edu.cn/info/1064/5584.htm",
+      "date": "2013-06-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院任萍萍老师“唱响上大”喜获佳绩",
+      "url": "https://gh.shu.edu.cn/info/1064/5572.htm",
+      "date": "2013-05-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位系统唐佰年获卡拉OK大赛一等奖",
+      "url": "https://gh.shu.edu.cn/info/1064/5570.htm",
+      "date": "2013-05-28",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“唱响上大” 2013年上海大学教职工演唱大赛举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5173.htm",
+      "date": "2013-05-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院为孩子们送上节日礼物",
+      "url": "https://gh.shu.edu.cn/info/1064/5568.htm",
+      "date": "2013-05-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校工会当选市教育系统工会理论研究会副会长单位",
+      "url": "https://gh.shu.edu.cn/info/1063/5170.htm",
+      "date": "2013-05-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市教育系统工会理论研究会成立大会在我校隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4925.htm",
+      "date": "2013-05-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "“上大园”五月歌会",
+      "url": "https://gh.shu.edu.cn/info/1064/5580.htm",
+      "date": "2013-05-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学管理学院成功举办首届教职工卡拉OK大赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5582.htm",
+      "date": "2013-05-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "理学院四届四次教职工代表大会暨工会代表大会顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5566.htm",
+      "date": "2013-05-15",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校工会文章收录在了《上海工运研究》",
+      "url": "https://gh.shu.edu.cn/info/1063/5169.htm",
+      "date": "2013-05-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "情系雅安 奉献爱心——人才服务中心为四川雅安地震捐款",
+      "url": "https://gh.shu.edu.cn/info/1064/5564.htm",
+      "date": "2013-05-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院和新成高青联会举行联谊活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5577.htm",
+      "date": "2013-05-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校教职工为雅安人民捐出爱心款共计56770.3元",
+      "url": "https://gh.shu.edu.cn/info/1063/5167.htm",
+      "date": "2013-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "直属单位系统工会、妇委会召开2013年第二次工作例会",
+      "url": "https://gh.shu.edu.cn/info/1064/5575.htm",
+      "date": "2013-05-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算中心举办首届教职工卡拉OK大赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5573.htm",
+      "date": "2013-05-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会召开2013年第二次学院（系统）分工会主席工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4923.htm",
+      "date": "2013-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料学院第四届双代会第五次会议顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5562.htm",
+      "date": "2013-05-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院举行教职工卡拉OK选拔赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5554.htm",
+      "date": "2013-04-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位系统教职工积极参加无偿献血彰显爱心",
+      "url": "https://gh.shu.edu.cn/info/1064/5556.htm",
+      "date": "2013-04-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位系统羽毛球队初战告捷",
+      "url": "https://gh.shu.edu.cn/info/1064/5558.htm",
+      "date": "2013-04-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高工青妇不断创新为教职工过生日",
+      "url": "https://gh.shu.edu.cn/info/1064/5560.htm",
+      "date": "2013-04-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "用青春的热血 谱写爱的乐章",
+      "url": "https://gh.shu.edu.cn/info/1064/5571.htm",
+      "date": "2013-04-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机自学院李斌教授马拉松中创佳绩",
+      "url": "https://gh.shu.edu.cn/info/1064/5552.htm",
+      "date": "2013-04-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会荣获“语言文字先进集体”称号",
+      "url": "https://gh.shu.edu.cn/info/1063/5164.htm",
+      "date": "2013-04-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "无偿献血，关爱生命，奉献无私——记图书馆分工会无偿献血",
+      "url": "https://gh.shu.edu.cn/info/1064/5567.htm",
+      "date": "2013-04-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "图书馆代表队获得2013我校“科产杯”羽毛球团体赛第4名",
+      "url": "https://gh.shu.edu.cn/info/1064/5569.htm",
+      "date": "2013-04-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校社会学院顾骏教授为工会干部及师生作报告",
+      "url": "https://gh.shu.edu.cn/info/1063/4921.htm",
+      "date": "2013-04-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院教职工积极参加校羽毛球比赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5565.htm",
+      "date": "2013-04-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学2013年“科产杯”教职工羽毛球团体赛顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4919.htm",
+      "date": "2013-04-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会4位同志通过2012年汉字应用水平测试",
+      "url": "https://gh.shu.edu.cn/info/1063/5160.htm",
+      "date": "2013-04-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料科学与材料工程学院为教师举行集体生日",
+      "url": "https://gh.shu.edu.cn/info/1064/5546.htm",
+      "date": "2013-04-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "美丽女性  幸福人生 ——经济学院“妇女之家”集体生日会",
+      "url": "https://gh.shu.edu.cn/info/1064/5548.htm",
+      "date": "2013-04-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "经济学院2013妇女节中国传统文化考察活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5550.htm",
+      "date": "2013-04-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "【三届七次“双代会”专题】上海大学三届七次“双代会”圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1063/5159.htm",
+      "date": "2013-04-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学摄影学会花岙岛采风散记",
+      "url": "https://gh.shu.edu.cn/info/1063/4915.htm",
+      "date": "2013-04-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "【三届七次“双代会”专题】上海大学三届七次教代会暨工代会胜利召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4917.htm",
+      "date": "2013-04-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工足球队与上外教工队举行友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4913.htm",
+      "date": "2013-03-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "2013年上海大学“科产杯”教职工羽毛球团体比赛领队抽签会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5157.htm",
+      "date": "2013-03-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院妇委与罗店镇妇联联谊活动报道",
+      "url": "https://gh.shu.edu.cn/info/1064/5563.htm",
+      "date": "2013-03-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机械自动化工程系女教工三八节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5544.htm",
+      "date": "2013-03-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高分工会“三八妇女节”活动丰富多彩",
+      "url": "https://gh.shu.edu.cn/info/1064/5542.htm",
+      "date": "2013-03-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开第三届工会委员全体（扩大）会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4911.htm",
+      "date": "2013-03-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校窦大营老师成为上海市第262例造血干细胞成功捐献者",
+      "url": "https://gh.shu.edu.cn/info/1063/4909.htm",
+      "date": "2013-03-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "直属单位系统工会、妇委会召开2013年第一次工作例会",
+      "url": "https://gh.shu.edu.cn/info/1064/5561.htm",
+      "date": "2013-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "寒冬中那一缕温暖",
+      "url": "https://gh.shu.edu.cn/info/1064/5540.htm",
+      "date": "2013-03-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "漫步校园，独享校园的春天",
+      "url": "https://gh.shu.edu.cn/info/1064/5557.htm",
+      "date": "2013-03-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "市教育工会领导来我校考察调研",
+      "url": "https://gh.shu.edu.cn/info/1063/4907.htm",
+      "date": "2013-03-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院妇委举办庆祝三八妇女节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5551.htm",
+      "date": "2013-03-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算中心欢度2013“三八”妇女节",
+      "url": "https://gh.shu.edu.cn/info/1064/5553.htm",
+      "date": "2013-03-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "乐乎楼集团举行女职工“三八节”郊游活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5555.htm",
+      "date": "2013-03-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会召开2013年第一次学院（系统）分工会主席工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4904.htm",
+      "date": "2013-03-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开三届六次教代会提案工作第三次会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4903.htm",
+      "date": "2013-02-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院第三届教职工代表大会暨第三届工会会员代表大会第二次会议成功召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5549.htm",
+      "date": "2013-02-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校理学院、材料学院分工会荣获2009-2011年度上海市教育系统模范教工小家",
+      "url": "https://gh.shu.edu.cn/info/1063/5155.htm",
+      "date": "2013-01-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "科技产业系统分工会召开职工大会",
+      "url": "https://gh.shu.edu.cn/info/1064/5547.htm",
+      "date": "2013-01-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位党委领导探望人才服务中心困难职工",
+      "url": "https://gh.shu.edu.cn/info/1064/5538.htm",
+      "date": "2013-01-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "直属单位党委走访慰问困难党员及教职工",
+      "url": "https://gh.shu.edu.cn/info/1064/5545.htm",
+      "date": "2013-01-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校隆重举行2011-2012年度工会工作积极分子表彰大会",
+      "url": "https://gh.shu.edu.cn/info/1063/4900.htm",
+      "date": "2013-01-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开年度工作总结会暨工会干部学习十八大专题报告会",
+      "url": "https://gh.shu.edu.cn/info/1063/4898.htm",
+      "date": "2013-01-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院分工会组织会员学习十八大报告精神",
+      "url": "https://gh.shu.edu.cn/info/1064/5536.htm",
+      "date": "2013-01-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院召开第四届一次教职工代表大会暨工会会员代表大会",
+      "url": "https://gh.shu.edu.cn/info/1064/5541.htm",
+      "date": "2013-01-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院工会为教职工过集体生日",
+      "url": "https://gh.shu.edu.cn/info/1064/5543.htm",
+      "date": "2013-01-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学第十届菊文化节摄影大赛获奖作品（教工组）",
+      "url": "https://gh.shu.edu.cn/info/1063/5153.htm",
+      "date": "2013-01-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院召开新年工作计划讨论会",
+      "url": "https://gh.shu.edu.cn/info/1064/5534.htm",
+      "date": "2013-01-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "薛志良同志被评为2012年度教育系统基层优秀工会主席",
+      "url": "https://gh.shu.edu.cn/info/1063/5151.htm",
+      "date": "2013-01-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "通信学院五届一次“双代会”顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1064/5532.htm",
+      "date": "2013-01-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2012年新成高分工会及妇委青联举行工作总结表彰会",
+      "url": "https://gh.shu.edu.cn/info/1064/5537.htm",
+      "date": "2013-01-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "科技园区成功举办第三届迎新运动会",
+      "url": "https://gh.shu.edu.cn/info/1064/5539.htm",
+      "date": "2013-01-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校举行教职工迎接2013年健身跑",
+      "url": "https://gh.shu.edu.cn/info/1063/4896.htm",
+      "date": "2012-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校与复旦大学举行教工乒乓球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/5149.htm",
+      "date": "2012-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "物理系辞旧迎新晚会",
+      "url": "https://gh.shu.edu.cn/info/1064/5535.htm",
+      "date": "2012-12-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院工会与罗店镇总工会共建活动报道",
+      "url": "https://gh.shu.edu.cn/info/1064/5533.htm",
+      "date": "2012-12-28",
+      "column": "分工会动态"
+    },
+    {
+      "title": "材料学院举行第二届“师生杯”乒乓球赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5530.htm",
+      "date": "2012-12-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "材料学院召开工会、妇委工作总结研讨会",
+      "url": "https://gh.shu.edu.cn/info/1064/5528.htm",
+      "date": "2012-12-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高工会举办“80分大赛”",
+      "url": "https://gh.shu.edu.cn/info/1064/5526.htm",
+      "date": "2012-12-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高分工会组织女教工爱心编织活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5529.htm",
+      "date": "2012-12-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院工会、妇委组织教职工学烧家常菜",
+      "url": "https://gh.shu.edu.cn/info/1064/5531.htm",
+      "date": "2012-12-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会、人事处慰问我校残疾教职工",
+      "url": "https://gh.shu.edu.cn/info/1063/4894.htm",
+      "date": "2012-12-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院举办育儿知识讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5527.htm",
+      "date": "2012-12-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "乒乒乓乓，快乐无双——生命科学学院第一届乒乓球比赛举行",
+      "url": "https://gh.shu.edu.cn/info/1064/5525.htm",
+      "date": "2012-12-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "一场别开生面的卡拉OK“大家唱歌会”",
+      "url": "https://gh.shu.edu.cn/info/1064/5523.htm",
+      "date": "2012-12-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开第二十三次民主恳谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4892.htm",
+      "date": "2012-11-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料学院举行羽毛球团体赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5524.htm",
+      "date": "2012-11-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "沈阳航空航天大学工会领导到我校考察交流",
+      "url": "https://gh.shu.edu.cn/info/1063/5147.htm",
+      "date": "2012-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "学做家常菜——烹饪基础知识讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5522.htm",
+      "date": "2012-11-26",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机关系统-法学院举行教职工羽毛球联谊赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5521.htm",
+      "date": "2012-11-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院举行青年教师座谈会",
+      "url": "https://gh.shu.edu.cn/info/1064/5520.htm",
+      "date": "2012-11-21",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学学院（系统）分工会主席第五次工作会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5142.htm",
+      "date": "2012-11-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "“喜庆十八大”上海大学--复旦大学教职工象棋赛在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5144.htm",
+      "date": "2012-11-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "理学院召开工会、妇委工作研讨会",
+      "url": "https://gh.shu.edu.cn/info/1064/5518.htm",
+      "date": "2012-11-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海市东北片高校工会交流会在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4890.htm",
+      "date": "2012-11-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学工会工运研究会获2011-2012年度上海市工运研究会优秀团体会员",
+      "url": "https://gh.shu.edu.cn/info/1063/5141.htm",
+      "date": "2012-11-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "“花无言 品自高”校工会举办菊文化节天天演教职工专场演出",
+      "url": "https://gh.shu.edu.cn/info/1063/4888.htm",
+      "date": "2012-11-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命科学学院举行秋游活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5515.htm",
+      "date": "2012-11-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "品茶论道，新成高举办茶文化讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5516.htm",
+      "date": "2012-11-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "美兰湖一日游顺利举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5139.htm",
+      "date": "2012-11-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学茶艺与茶道学会揭幕式顺利进行",
+      "url": "https://gh.shu.edu.cn/info/1063/5135.htm",
+      "date": "2012-11-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "《关于上海市高校二级教代会地位和作用的调查报告》获优秀奖",
+      "url": "https://gh.shu.edu.cn/info/1063/5137.htm",
+      "date": "2012-11-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "市第七届教工运动会上海大学总结表彰会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4886.htm",
+      "date": "2012-11-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会领导到理学院调研二级教代会工作",
+      "url": "https://gh.shu.edu.cn/info/1064/5510.htm",
+      "date": "2012-11-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "夕阳映校园，九九喜团圆",
+      "url": "https://gh.shu.edu.cn/info/1064/5512.htm",
+      "date": "2012-11-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "九九重阳节 浓浓敬老情——理学院各单位重阳节活动综合报道",
+      "url": "https://gh.shu.edu.cn/info/1064/5519.htm",
+      "date": "2012-10-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校党委书记于信汇出席上海大学从教三十年教职工颁证仪式暨座谈会并讲话",
+      "url": "https://gh.shu.edu.cn/info/1063/4875.htm",
+      "date": "2012-10-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学优秀青年教师天台山考察活动取得圆满成功",
+      "url": "https://gh.shu.edu.cn/info/1063/4884.htm",
+      "date": "2012-10-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院工会为退休教工过生日",
+      "url": "https://gh.shu.edu.cn/info/1064/5506.htm",
+      "date": "2012-10-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院与退休教师共游吴淞炮台湾湿地森林公园",
+      "url": "https://gh.shu.edu.cn/info/1064/5508.htm",
+      "date": "2012-10-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "市总工会基层调研点第二组第八次会议举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5133.htm",
+      "date": "2012-10-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校2012年青年教师看上海一日游成功举行",
+      "url": "https://gh.shu.edu.cn/info/1063/5129.htm",
+      "date": "2012-10-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教职工钓鱼比赛成功举办",
+      "url": "https://gh.shu.edu.cn/info/1063/5131.htm",
+      "date": "2012-10-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "九九重阳节，温馨茶话会——图情档系开展敬老节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5505.htm",
+      "date": "2012-10-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "薛志良主席调研直属单位系统教代会工作",
+      "url": "https://gh.shu.edu.cn/info/1064/5503.htm",
+      "date": "2012-10-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会举办健身讲座受到师生欢迎",
+      "url": "https://gh.shu.edu.cn/info/1063/5127.htm",
+      "date": "2012-10-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学“中华诵•2012经典诵读”荐选赛在校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4873.htm",
+      "date": "2012-10-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校喜获市七届教工运动会团体总分第三名等多项荣誉",
+      "url": "https://gh.shu.edu.cn/info/1063/5125.htm",
+      "date": "2012-10-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "科技园区举办“新三板”政策解读会",
+      "url": "https://gh.shu.edu.cn/info/1064/5517.htm",
+      "date": "2012-10-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校两项作品荣获市教育系统“校训指引我成长”征文优秀奖",
+      "url": "https://gh.shu.edu.cn/info/1063/5120.htm",
+      "date": "2012-10-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教师认真学习《高等学校教师职业道德规范》推进师德建设",
+      "url": "https://gh.shu.edu.cn/info/1063/5122.htm",
+      "date": "2012-10-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "迎国庆贺中秋，新成高举办“卡拉OK比赛”",
+      "url": "https://gh.shu.edu.cn/info/1064/5501.htm",
+      "date": "2012-10-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开2012年工会系统第四次工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4868.htm",
+      "date": "2012-09-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会成功举办上海大学青年教师中秋国庆联谊活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4869.htm",
+      "date": "2012-09-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "癌症压垮顶梁柱，爱心撑起一片天",
+      "url": "https://gh.shu.edu.cn/info/1064/5514.htm",
+      "date": "2012-09-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海市第七届教工运动会田径、趣味比赛在上海大学成功举办",
+      "url": "https://gh.shu.edu.cn/info/1063/5118.htm",
+      "date": "2012-09-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "直属单位系统分工会、妇委会召开工作例会",
+      "url": "https://gh.shu.edu.cn/info/1064/5499.htm",
+      "date": "2012-09-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "美院2012年青年五项工程之西部采风活动回顾",
+      "url": "https://gh.shu.edu.cn/info/1064/5511.htm",
+      "date": "2012-09-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "践行师德规范—美术学院师生暑期举行知识服务社会活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5513.htm",
+      "date": "2012-09-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "庆祝第28个教师节教职工服务日受到师生热烈欢迎",
+      "url": "https://gh.shu.edu.cn/info/1063/4866.htm",
+      "date": "2012-09-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市第七届教工运动会田径赛、趣味赛领队会议在我校召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5116.htm",
+      "date": "2012-09-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "环化学院教师学习两《规范》",
+      "url": "https://gh.shu.edu.cn/info/1064/5509.htm",
+      "date": "2012-09-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校隆重举行庆祝第28个教师节暨表彰大会",
+      "url": "https://gh.shu.edu.cn/info/1063/4865.htm",
+      "date": "2012-09-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院、社会学院举行教师暑期疗养",
+      "url": "https://gh.shu.edu.cn/info/1064/5497.htm",
+      "date": "2012-08-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开2012年工会系统第三次工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4864.htm",
+      "date": "2012-07-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "成教高职中心组学习《规定》和《规范》",
+      "url": "https://gh.shu.edu.cn/info/1064/5495.htm",
+      "date": "2012-07-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "教职工暑期休养说明会在三个校区召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4862.htm",
+      "date": "2012-07-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教职工积极参加《学校教职工代表大会规定》知识竞赛",
+      "url": "https://gh.shu.edu.cn/info/1063/5114.htm",
+      "date": "2012-07-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会推荐的市教育系统职工技术创新优秀成果获银奖、铜奖",
+      "url": "https://gh.shu.edu.cn/info/1063/5112.htm",
+      "date": "2012-07-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学茶艺与茶道学会首次会员培训举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4858.htm",
+      "date": "2012-06-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "人才服务中心圆满召开首届双代会",
+      "url": "https://gh.shu.edu.cn/info/1064/5493.htm",
+      "date": "2012-06-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“纪念钱伟长校长诞辰100周年——校训指引我成长”主题征文评比结果揭晓",
+      "url": "https://gh.shu.edu.cn/info/1063/5110.htm",
+      "date": "2012-06-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "心 存 感 恩——记人才中心“集体过生日”活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5491.htm",
+      "date": "2012-06-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学参加“群众活动组织法”展示活动",
+      "url": "https://gh.shu.edu.cn/info/1063/5108.htm",
+      "date": "2012-06-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "新成高分工会开展《规定》知识学习竞赛活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5489.htm",
+      "date": "2012-06-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2012年材料学院师生杯羽毛赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5487.htm",
+      "date": "2012-06-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "新成高党工委、工会、妇委庆祝六一儿童节",
+      "url": "https://gh.shu.edu.cn/info/1064/5483.htm",
+      "date": "2012-06-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“飘香咖啡，优雅情致”——新成高分工会配合教学改革活动纪实",
+      "url": "https://gh.shu.edu.cn/info/1064/5485.htm",
+      "date": "2012-06-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "通信学院积极组织开展《高等学校教师职业道德规范》学习座谈会",
+      "url": "https://gh.shu.edu.cn/info/1064/5504.htm",
+      "date": "2012-06-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "材料学院第四届双代会第四次会议顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5507.htm",
+      "date": "2012-06-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“纪念钱伟长校长诞辰100周年——校训指引我成长”主题演讲比赛成功举办",
+      "url": "https://gh.shu.edu.cn/info/1063/4855.htm",
+      "date": "2012-05-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料学院党政领导学习《教代会文件》",
+      "url": "https://gh.shu.edu.cn/info/1064/5502.htm",
+      "date": "2012-05-31",
+      "column": "分工会动态"
+    },
+    {
+      "title": "宁波大学一行来我校考察交流",
+      "url": "https://gh.shu.edu.cn/info/1063/4851.htm",
+      "date": "2012-05-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织教职工参观《城市新印象（2007—2012）》大型主题展览",
+      "url": "https://gh.shu.edu.cn/info/1063/4853.htm",
+      "date": "2012-05-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校游泳队在上海市第七届教工运动会上斩获五“金”",
+      "url": "https://gh.shu.edu.cn/info/1063/4843.htm",
+      "date": "2012-05-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教职工体操代表队在上海市第七届教工运动会开幕式上展演",
+      "url": "https://gh.shu.edu.cn/info/1063/4845.htm",
+      "date": "2012-05-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校《神州太极》节目成功献演上海市第七届教职工运动开幕式",
+      "url": "https://gh.shu.edu.cn/info/1063/4847.htm",
+      "date": "2012-05-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学“军团”出征本市第七届教工运动会",
+      "url": "https://gh.shu.edu.cn/info/1063/4849.htm",
+      "date": "2012-05-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "科技园区举办“喜迎十八大、歌唱共产党”红歌演唱会",
+      "url": "https://gh.shu.edu.cn/info/1064/5479.htm",
+      "date": "2012-05-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "悉商学院举行“高校教师职业道德规范”建设活动月启动仪式",
+      "url": "https://gh.shu.edu.cn/info/1064/5481.htm",
+      "date": "2012-05-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学2012年教职工钓鱼比赛圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4841.htm",
+      "date": "2012-05-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料学院摄影大赛顺利闭幕",
+      "url": "https://gh.shu.edu.cn/info/1064/5500.htm",
+      "date": "2012-05-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于“校训指引我成长”演讲比赛的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3908.htm",
+      "date": "2012-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "工会妇委党支部组织收看学习《劳动最光荣“五一特别节目”》",
+      "url": "https://gh.shu.edu.cn/info/1063/5106.htm",
+      "date": "2012-05-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "校训是明灯 指引我前行—理学院“纪念钱校长诞辰100周年”征文和演讲交流会",
+      "url": "https://gh.shu.edu.cn/info/1064/5472.htm",
+      "date": "2012-05-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "用青春再谱爱的乐章",
+      "url": "https://gh.shu.edu.cn/info/1064/5474.htm",
+      "date": "2012-05-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算中心组织教师学习《高等学校教师职业道德规范》",
+      "url": "https://gh.shu.edu.cn/info/1064/5476.htm",
+      "date": "2012-05-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会组织“四强骨干”赴浙西休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4839.htm",
+      "date": "2012-05-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院工会为退休教职工集体过生日",
+      "url": "https://gh.shu.edu.cn/info/1064/5471.htm",
+      "date": "2012-05-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校教工桥牌代表队荣获上海市第七届运动会比赛第五名",
+      "url": "https://gh.shu.edu.cn/info/1063/4837.htm",
+      "date": "2012-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工乒乓球代表队荣获上海市第七届运动会比赛第四名",
+      "url": "https://gh.shu.edu.cn/info/1063/4835.htm",
+      "date": "2012-05-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "“唱支山歌给党听”庆五一党支部共建活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4833.htm",
+      "date": "2012-05-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织劳模赴南通体检休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4826.htm",
+      "date": "2012-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "2012年教职工暑期休养工作启动",
+      "url": "https://gh.shu.edu.cn/info/1063/4829.htm",
+      "date": "2012-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "第一期青年教师网球培训班开班",
+      "url": "https://gh.shu.edu.cn/info/1063/4831.htm",
+      "date": "2012-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "外国语学院党政领导班子学习【学校教职工代表大会规定】",
+      "url": "https://gh.shu.edu.cn/info/1064/5467.htm",
+      "date": "2012-05-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "材料学院举办青年教师教学经验学习会",
+      "url": "https://gh.shu.edu.cn/info/1064/5469.htm",
+      "date": "2012-05-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "悉尼工商学院举办师生融融趣味运动会",
+      "url": "https://gh.shu.edu.cn/info/1064/5494.htm",
+      "date": "2012-05-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "经济学院工会深入学习贯彻《规定》和《规范》",
+      "url": "https://gh.shu.edu.cn/info/1064/5496.htm",
+      "date": "2012-05-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "法学院成功召开第二届教职工暨工会会员大会第三次会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5498.htm",
+      "date": "2012-05-03",
+      "column": "分工会动态"
+    },
+    {
+      "title": "摄影学会与茶艺学会春季采风活动圆满成功",
+      "url": "https://gh.shu.edu.cn/info/1063/4824.htm",
+      "date": "2012-05-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命学院青年教师积极参加课堂教学竞赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5464.htm",
+      "date": "2012-04-27",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学劳模与青年教师庆“五一”暨学习《高等学校教师职业道德规范》座谈会举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4822.htm",
+      "date": "2012-04-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会袁康明老师被确定为“党员先锋岗”",
+      "url": "https://gh.shu.edu.cn/info/1063/5102.htm",
+      "date": "2012-04-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命科学学院举行春游活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5462.htm",
+      "date": "2012-04-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于举办《学校教职工代表大会规定》知识竞赛的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3915.htm",
+      "date": "2012-04-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "转：关于收看《劳动最光荣“五一特别节目”》的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3916.htm",
+      "date": "2012-04-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会、青联会、房产处组织召开经济适用房信息交流会",
+      "url": "https://gh.shu.edu.cn/info/1063/4820.htm",
+      "date": "2012-04-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "2012年工会系统第二次工作会议暨培训讲座举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4816.htm",
+      "date": "2012-04-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "2012年市教育系统工会干部培训班在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4818.htm",
+      "date": "2012-04-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办“安全用药 健康相伴”主题讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4815.htm",
+      "date": "2012-04-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "“学习雷锋：把爱洒向校园——为教职工服务日”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3919.htm",
+      "date": "2012-04-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校成立茶艺与茶道学会",
+      "url": "https://gh.shu.edu.cn/info/1063/4813.htm",
+      "date": "2012-04-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "新成高分工会妇委为教职工过集体生日",
+      "url": "https://gh.shu.edu.cn/info/1064/5460.htm",
+      "date": "2012-04-06",
+      "column": "分工会动态"
+    },
+    {
+      "title": "转：市政府关于调整本市城镇职工基本医疗保险门诊急诊医疗费用支付办法若干事项的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3921.htm",
+      "date": "2012-04-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "转：优势互补 共创和谐——离退休支部和工会支部共建",
+      "url": "https://gh.shu.edu.cn/info/1063/5101.htm",
+      "date": "2012-04-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命科学学院“春季话养生”",
+      "url": "https://gh.shu.edu.cn/info/1064/5458.htm",
+      "date": "2012-04-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学工会理论研究成果表彰交流会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4811.htm",
+      "date": "2012-03-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校荣获上海市第七届教工运动会网球比赛亚军",
+      "url": "https://gh.shu.edu.cn/info/1063/4808.htm",
+      "date": "2012-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工会系统宣传信息工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4807.htm",
+      "date": "2012-03-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校象棋队在上海市第七届教工运动会比赛中赢得荣誉",
+      "url": "https://gh.shu.edu.cn/info/1063/4802.htm",
+      "date": "2012-03-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工围棋代表队勇夺市第七届教工运动会首金",
+      "url": "https://gh.shu.edu.cn/info/1063/4805.htm",
+      "date": "2012-03-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "摄影学会与茶艺学会采风活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3925.htm",
+      "date": "2012-03-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "2012年上海大学教职工乒乓团体赛圆满收拍",
+      "url": "https://gh.shu.edu.cn/info/1063/4800.htm",
+      "date": "2012-03-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "新成高分工会召开工青妇联席会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5456.htm",
+      "date": "2012-03-26",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会举办《爱与痛的思考》环保摄影讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4798.htm",
+      "date": "2012-03-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "工会妇委支部组织陶艺教学体验党组织生活",
+      "url": "https://gh.shu.edu.cn/info/1063/4797.htm",
+      "date": "2012-03-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会荣获“上海大学2010-2011年度语言文字工作先进集体”称号",
+      "url": "https://gh.shu.edu.cn/info/1063/5099.htm",
+      "date": "2012-03-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开2012年上海大学教职工乒乓球团体赛领队抽签暨协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4795.htm",
+      "date": "2012-03-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料学院与出版社举行教职工乒乓球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5454.htm",
+      "date": "2012-03-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院、社会学院举办庆祝国际“三八”妇女节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5448.htm",
+      "date": "2012-03-15",
+      "column": "分工会动态"
+    },
+    {
+      "title": "出版社庆祝三八妇女节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5450.htm",
+      "date": "2012-03-15",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院“美食达人秀”活动再次举行",
+      "url": "https://gh.shu.edu.cn/info/1064/5452.htm",
+      "date": "2012-03-15",
+      "column": "分工会动态"
+    },
+    {
+      "title": "通信学院信息系女教师妇女节赴青浦朱家角采草莓",
+      "url": "https://gh.shu.edu.cn/info/1064/5492.htm",
+      "date": "2012-03-15",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学三届六次教代会提案工作第二次会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4793.htm",
+      "date": "2012-03-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "新成高妇委“三八妇女节”组织郊外踏青活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5446.htm",
+      "date": "2012-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“学习雷锋：把爱洒向校园——为教职工服务日”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3928.htm",
+      "date": "2012-03-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会召开市第七届教工运动会动员暨文体工作布置会",
+      "url": "https://gh.shu.edu.cn/info/1063/4791.htm",
+      "date": "2012-03-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "直属单位系统工会、妇委会召开工作会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5444.htm",
+      "date": "2012-03-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命学院举行庆祝“三八”妇女节联欢活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5442.htm",
+      "date": "2012-03-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会课题成果在上海市工会理论刊物上刊登",
+      "url": "https://gh.shu.edu.cn/info/1063/5094.htm",
+      "date": "2012-03-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学工会开展学雷锋活动方案",
+      "url": "https://gh.shu.edu.cn/info/1063/5097.htm",
+      "date": "2012-03-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "材料学院举行“师生杯”乒乓球赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5437.htm",
+      "date": "2012-03-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "学校直属单位系统第一届工代会第一次会议举行",
+      "url": "https://gh.shu.edu.cn/info/1064/5439.htm",
+      "date": "2012-03-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "三届六次教代会提案工作委员会第一次会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4788.htm",
+      "date": "2012-03-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "悉尼工商学院召开2012年工会工作会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5490.htm",
+      "date": "2012-03-02",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会召开2012年第一次学院（系统）分工会主席工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4787.htm",
+      "date": "2012-02-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "生命科学学院召开新学期工会工作计划讨论会",
+      "url": "https://gh.shu.edu.cn/info/1064/5435.htm",
+      "date": "2012-02-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学第三届工会委员会常委会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4784.htm",
+      "date": "2012-02-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "悉尼工商学院举行第二届第六次教职工代表大会",
+      "url": "https://gh.shu.edu.cn/info/1064/5433.htm",
+      "date": "2012-02-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "关于“把爱洒向校园——为教职工服务日”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3929.htm",
+      "date": "2012-02-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校工会调研课题获上海市教育工会论文评选一等奖",
+      "url": "https://gh.shu.edu.cn/info/1063/5091.htm",
+      "date": "2012-02-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "机自学院分工会主席文章刊登在了《上海工运》杂志",
+      "url": "https://gh.shu.edu.cn/info/1063/5093.htm",
+      "date": "2012-02-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会被评为2011年度工会网站信息工作优秀单位",
+      "url": "https://gh.shu.edu.cn/info/1063/5089.htm",
+      "date": "2012-02-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院第三届六次教职工代表大会顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5431.htm",
+      "date": "2012-01-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "【三届六次“双代会”专题】上海大学三届六次“双代会”圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1063/5087.htm",
+      "date": "2012-01-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开三届六次“双代会”主席团、代表团正副团长会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4783.htm",
+      "date": "2012-01-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学三届六次教代会暨工代会胜利召开",
+      "url": "https://gh.shu.edu.cn/info/1063/5085.htm",
+      "date": "2012-01-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "国际交流学院分工会积极组织教职工参加迎新年跑",
+      "url": "https://gh.shu.edu.cn/info/1064/5427.htm",
+      "date": "2012-01-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院分工会举办美食达人秀",
+      "url": "https://gh.shu.edu.cn/info/1064/5429.htm",
+      "date": "2012-01-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会领导走访慰问劳模",
+      "url": "https://gh.shu.edu.cn/info/1063/4781.htm",
+      "date": "2012-01-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "物理系举行辞旧迎新晚餐会",
+      "url": "https://gh.shu.edu.cn/info/1064/5425.htm",
+      "date": "2012-01-02",
+      "column": "分工会动态"
+    },
+    {
+      "title": "迎接2012年，我校教职工跑起来",
+      "url": "https://gh.shu.edu.cn/info/1063/4778.htm",
+      "date": "2011-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "薛志良同志被评为2011年度教育系统基层优秀工会主席",
+      "url": "https://gh.shu.edu.cn/info/1063/5083.htm",
+      "date": "2011-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "晒一下《我的2011幸福记忆》的照片",
+      "url": "https://gh.shu.edu.cn/info/1064/5423.htm",
+      "date": "2011-12-30",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学三届六次教代会暨工代会开幕在即",
+      "url": "https://gh.shu.edu.cn/info/1063/5082.htm",
+      "date": "2011-12-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于组织教职工迎新健身跑的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3930.htm",
+      "date": "2011-12-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "我支部活动方案通过机关系统“创新组织活动项目”验收",
+      "url": "https://gh.shu.edu.cn/info/1063/5080.htm",
+      "date": "2011-12-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "工会妇委支部荣获“先锋示范支部”称号",
+      "url": "https://gh.shu.edu.cn/info/1063/5081.htm",
+      "date": "2011-12-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "市教育工会表彰优秀教职工代表和教代会优秀提案",
+      "url": "https://gh.shu.edu.cn/info/1063/5079.htm",
+      "date": "2011-12-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开2012年元旦、春节帮困补助工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4777.htm",
+      "date": "2011-12-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开2011年教职工暑期休养总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/4774.htm",
+      "date": "2011-12-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院与罗店镇总工会共建活动报道",
+      "url": "https://gh.shu.edu.cn/info/1064/5421.htm",
+      "date": "2011-12-20",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会、妇委支部学习周校长《20年后他们在哪里》",
+      "url": "https://gh.shu.edu.cn/info/1063/5077.htm",
+      "date": "2011-12-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "《上海大学人才派遣用工状况的调研与思考》论文喜获一等奖",
+      "url": "https://gh.shu.edu.cn/info/1064/5488.htm",
+      "date": "2011-12-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校与财大举办教职工周末乒乓球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4773.htm",
+      "date": "2011-12-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行2010-2011年度先进教工小家考评会",
+      "url": "https://gh.shu.edu.cn/info/1063/5075.htm",
+      "date": "2011-12-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "外语学院举办女性健康知识讲座",
+      "url": "https://gh.shu.edu.cn/info/1064/5486.htm",
+      "date": "2011-12-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开第三届工会委员会全体会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4770.htm",
+      "date": "2011-12-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "迎新舞会（爱乐者协会年会）通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3933.htm",
+      "date": "2011-12-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "“航天精神”激励我们前进",
+      "url": "https://gh.shu.edu.cn/info/1063/4765.htm",
+      "date": "2011-12-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学象棋队互访比赛险胜复旦",
+      "url": "https://gh.shu.edu.cn/info/1063/4767.htm",
+      "date": "2011-12-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "与我校残疾教职工共铸“自强不息“的信念",
+      "url": "https://gh.shu.edu.cn/info/1063/4768.htm",
+      "date": "2011-12-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "悉尼工商学院工会召开年度总结会",
+      "url": "https://gh.shu.edu.cn/info/1064/5482.htm",
+      "date": "2011-12-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "资产公司党支部、工会组织党员、职工参观上海世博纪念馆",
+      "url": "https://gh.shu.edu.cn/info/1064/5484.htm",
+      "date": "2011-12-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机关、悉商、材料联合举行羽毛球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5480.htm",
+      "date": "2011-11-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上大复旦教职工乒乓球友谊赛在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4761.htm",
+      "date": "2011-11-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织召开“领导干部民主生活会”教职工意见征询座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4763.htm",
+      "date": "2011-11-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学2011年工会理论研究征文评比结果公布",
+      "url": "https://gh.shu.edu.cn/info/1063/5072.htm",
+      "date": "2011-11-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院工会组织教职工参加消防知识培训",
+      "url": "https://gh.shu.edu.cn/info/1064/5419.htm",
+      "date": "2011-11-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4759.htm",
+      "date": "2011-11-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第九届运动会教职工总分排名榜",
+      "url": "https://gh.shu.edu.cn/info/1063/5069.htm",
+      "date": "2011-11-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工会理论研究工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4757.htm",
+      "date": "2011-11-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第九届运动会教职工网球比赛成绩公布",
+      "url": "https://gh.shu.edu.cn/info/1063/4755.htm",
+      "date": "2011-11-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行第九届运动会教职工网球比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4753.htm",
+      "date": "2011-11-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、妇委支部集体参观辛亥革命100周年图片展",
+      "url": "https://gh.shu.edu.cn/info/1063/4750.htm",
+      "date": "2011-11-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4747.htm",
+      "date": "2011-10-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市高校系统职工保障例会在我校召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4743.htm",
+      "date": "2011-10-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "校第九届运动会教职工项目掠影",
+      "url": "https://gh.shu.edu.cn/info/1063/4745.htm",
+      "date": "2011-10-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "教职工钩针编织班受到热烈欢迎",
+      "url": "https://gh.shu.edu.cn/info/1063/5067.htm",
+      "date": "2011-10-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "计算机学院青年教师积极参加课堂教学竞赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5477.htm",
+      "date": "2011-10-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院青年教师积极参加课堂教学竞赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5478.htm",
+      "date": "2011-10-24",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开三届五次教代会提案工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4739.htm",
+      "date": "2011-10-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "《辉煌90 伟业永镌——上海大学教职工2011年摄影展示》颁奖仪式暨《Photoshop CS5新功能的运用》讲座举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4741.htm",
+      "date": "2011-10-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "通信学院举行四届四次双代会",
+      "url": "https://gh.shu.edu.cn/info/1064/5466.htm",
+      "date": "2011-10-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2011年计算机学院敬老节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5468.htm",
+      "date": "2011-10-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "教务处举办2011年“敬老日”茶话会",
+      "url": "https://gh.shu.edu.cn/info/1064/5470.htm",
+      "date": "2011-10-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "社科学院庆祝第24个敬老节",
+      "url": "https://gh.shu.edu.cn/info/1064/5473.htm",
+      "date": "2011-10-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "材料学院第四届双代会第三次会议顺利召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5475.htm",
+      "date": "2011-10-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2011年上海大学新进教师“上海一日游”",
+      "url": "https://gh.shu.edu.cn/info/1063/5059.htm",
+      "date": "2011-09-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开30年教龄教职工颁证仪式暨座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4735.htm",
+      "date": "2011-09-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开30年教龄教职工颁证仪式暨座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4737.htm",
+      "date": "2011-09-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行第九届运动会教职工游泳比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4733.htm",
+      "date": "2011-09-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "教师节教职工服务日活动受到热烈欢迎",
+      "url": "https://gh.shu.edu.cn/info/1063/4731.htm",
+      "date": "2011-09-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "赵海频荣获“2009-2010年度上海市职工职业道德建设先进个人”称号",
+      "url": "https://gh.shu.edu.cn/info/1063/5053.htm",
+      "date": "2011-09-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行青年教师中秋国庆联谊",
+      "url": "https://gh.shu.edu.cn/info/1063/5049.htm",
+      "date": "2011-09-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行青年教师中秋国庆联谊",
+      "url": "https://gh.shu.edu.cn/info/1063/5051.htm",
+      "date": "2011-09-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校隆重举行庆祝第27个教师节暨表彰大会",
+      "url": "https://gh.shu.edu.cn/info/1063/5045.htm",
+      "date": "2011-09-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校隆重举行庆祝第27个教师节暨表彰大会",
+      "url": "https://gh.shu.edu.cn/info/1063/5047.htm",
+      "date": "2011-09-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于“经纬绿洲”房产团购的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3956.htm",
+      "date": "2011-09-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校喜获三颗“校园新星”",
+      "url": "https://gh.shu.edu.cn/info/1063/5041.htm",
+      "date": "2011-09-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校两单位荣获2009-2010年度上海市“教育先锋号”荣誉称号",
+      "url": "https://gh.shu.edu.cn/info/1063/5043.htm",
+      "date": "2011-09-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于‘金地艺境’房产团购的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3957.htm",
+      "date": "2011-07-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "2011年校工会“送清凉”活动有创新",
+      "url": "https://gh.shu.edu.cn/info/1063/5039.htm",
+      "date": "2011-07-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会向在高温下坚守岗位的武保处职工送清凉",
+      "url": "https://gh.shu.edu.cn/info/1063/4729.htm",
+      "date": "2011-07-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于申请办理2011年三十年教龄的荣誉证书的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3958.htm",
+      "date": "2011-07-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学工会2011年“送清凉”的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3959.htm",
+      "date": "2011-07-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学工会2011年“送清凉”的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3960.htm",
+      "date": "2011-07-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于申请办理2011年三十年教龄的荣誉证书的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3961.htm",
+      "date": "2011-07-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于‘金地艺境’房产团购意向反馈的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3962.htm",
+      "date": "2011-07-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于‘金地艺境’房产团购意向反馈的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3963.htm",
+      "date": "2011-07-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校召开中国教育工会上海大学委员会全体会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4727.htm",
+      "date": "2011-07-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学召开第二十二次民主恳谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4725.htm",
+      "date": "2011-07-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织‘金地艺境’团购看房活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3964.htm",
+      "date": "2011-07-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校教工乒协与上海中国弹簧制造有限公司职工乒协联谊比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4720.htm",
+      "date": "2011-07-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教师参加上海市庆祝中国共产党建党90周年大型主题歌会",
+      "url": "https://gh.shu.edu.cn/info/1063/4723.htm",
+      "date": "2011-07-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织献血教工休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4717.htm",
+      "date": "2011-07-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海电视大学鲍鹏山教授来我校讲学",
+      "url": "https://gh.shu.edu.cn/info/1063/4718.htm",
+      "date": "2011-07-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教职工文体协会工作考核互评结果和奖励的通知",
+      "url": "https://gh.shu.edu.cn/info/1063/5035.htm",
+      "date": "2011-06-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教职工文体协会工作考核互评结果和奖励的通知",
+      "url": "https://gh.shu.edu.cn/info/1063/5037.htm",
+      "date": "2011-06-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海电视大学教授来我校讲学",
+      "url": "https://gh.shu.edu.cn/info/1063/4713.htm",
+      "date": "2011-06-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海电视大学教授来我校讲学",
+      "url": "https://gh.shu.edu.cn/info/1063/4715.htm",
+      "date": "2011-06-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办2011年“科研、管理、服务之星”选拔赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4711.htm",
+      "date": "2011-06-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "象棋协会活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/3966.htm",
+      "date": "2011-06-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校召开2011年教职工暑期休养领队会",
+      "url": "https://gh.shu.edu.cn/info/1063/5031.htm",
+      "date": "2011-06-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校师生积极参与上海市民诵读大赛",
+      "url": "https://gh.shu.edu.cn/info/1063/5033.htm",
+      "date": "2011-06-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办2011年“教育新星”上海大学选拔赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4706.htm",
+      "date": "2011-06-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "机自学院举行第四届趣味运动会",
+      "url": "https://gh.shu.edu.cn/info/1064/5465.htm",
+      "date": "2011-06-17",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开2011上海大学教职工暑期休养境外团说明会",
+      "url": "https://gh.shu.edu.cn/info/1063/4705.htm",
+      "date": "2011-06-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "通信学院工会“迎五一，红歌大家唱”",
+      "url": "https://gh.shu.edu.cn/info/1064/5457.htm",
+      "date": "2011-06-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "经管类学院教职工羽毛球团体赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5459.htm",
+      "date": "2011-06-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院“红歌大家唱”",
+      "url": "https://gh.shu.edu.cn/info/1064/5461.htm",
+      "date": "2011-06-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "经管类学院教职工羽毛球团体赛",
+      "url": "https://gh.shu.edu.cn/info/1064/5463.htm",
+      "date": "2011-06-13",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机关分工会积极开展职工帮困工作",
+      "url": "https://gh.shu.edu.cn/info/1064/5455.htm",
+      "date": "2011-06-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校教师参与“上海教师永远跟党走”文艺汇演",
+      "url": "https://gh.shu.edu.cn/info/1063/4703.htm",
+      "date": "2011-06-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "“唱响红歌跟党走 我育英才建新功”教职工演唱比赛获奖名单",
+      "url": "https://gh.shu.edu.cn/info/1063/5027.htm",
+      "date": "2011-05-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校隆重举行“唱响红歌跟党走 我育英才建新功”教职工演唱比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4701.htm",
+      "date": "2011-05-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开上海市“校园新星”评选活动推荐会",
+      "url": "https://gh.shu.edu.cn/info/1063/5025.htm",
+      "date": "2011-05-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工摄影学会组织春季采风活动",
+      "url": "https://gh.shu.edu.cn/info/1063/5024.htm",
+      "date": "2011-05-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会荣获市高校庆祝建党90周年文艺汇演优秀组织奖",
+      "url": "https://gh.shu.edu.cn/info/1063/5022.htm",
+      "date": "2011-05-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织劳模参观辰山植物园",
+      "url": "https://gh.shu.edu.cn/info/1063/4699.htm",
+      "date": "2011-05-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "外语学院教职工学练太极拳",
+      "url": "https://gh.shu.edu.cn/info/1064/5451.htm",
+      "date": "2011-05-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "图情档系'行思爱心基金会'成立",
+      "url": "https://gh.shu.edu.cn/info/1064/5453.htm",
+      "date": "2011-05-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开2011年教职工休养工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4697.htm",
+      "date": "2011-05-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会领导“五一”前夕走访劳模",
+      "url": "https://gh.shu.edu.cn/info/1063/4695.htm",
+      "date": "2011-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开2011’教职工休养工作领导小组会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5018.htm",
+      "date": "2011-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校后勤集团饮服中心获上海市工人先锋号称号",
+      "url": "https://gh.shu.edu.cn/info/1063/5020.htm",
+      "date": "2011-05-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "法学院院第二届教职工暨工会会员大会第二次会议隆重召开",
+      "url": "https://gh.shu.edu.cn/info/1064/5449.htm",
+      "date": "2011-04-28",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开教职工体检工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5016.htm",
+      "date": "2011-04-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "行政楼前齐做广播操",
+      "url": "https://gh.shu.edu.cn/info/1064/5447.htm",
+      "date": "2011-04-26",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校荣获“上海市厂务（校务）公开民主管理先进单位”",
+      "url": "https://gh.shu.edu.cn/info/1063/4693.htm",
+      "date": "2011-04-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织教授团赴安徽绩溪休养",
+      "url": "https://gh.shu.edu.cn/info/1063/5012.htm",
+      "date": "2011-04-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学“迎五一”教职工春季钓鱼比赛圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/5014.htm",
+      "date": "2011-04-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "计算机学院高性能研究室组织踏青赏樱活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5445.htm",
+      "date": "2011-04-12",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5010.htm",
+      "date": "2011-04-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "相约辰山，感受“植物王国”魅力",
+      "url": "https://gh.shu.edu.cn/info/1064/5440.htm",
+      "date": "2011-04-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "社科学院举办纪念“三八”国际劳动妇女节101周年庆祝活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5441.htm",
+      "date": "2011-04-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "外国语学院获教职工羽毛球团体赛第四名",
+      "url": "https://gh.shu.edu.cn/info/1064/5443.htm",
+      "date": "2011-04-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开提案工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5008.htm",
+      "date": "2011-03-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "职工重危牵人心  众人相助献爱心",
+      "url": "https://gh.shu.edu.cn/info/1064/5438.htm",
+      "date": "2011-03-23",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2011’上海大学“科产杯”羽毛球团体赛圆满举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4691.htm",
+      "date": "2011-03-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "外语学院分工会和妇委会召开新年工作会",
+      "url": "https://gh.shu.edu.cn/info/1064/5436.htm",
+      "date": "2011-03-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开三届五次提案工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5006.htm",
+      "date": "2011-03-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "社区学院坚持广播操锻炼",
+      "url": "https://gh.shu.edu.cn/info/1064/5428.htm",
+      "date": "2011-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "社会科学学院组织春节走访慰问活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5430.htm",
+      "date": "2011-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "悉尼工商学院召开第二届第四次教职工代表大会",
+      "url": "https://gh.shu.edu.cn/info/1064/5432.htm",
+      "date": "2011-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "文学院工会、妇委与罗店镇共建活动系列报道",
+      "url": "https://gh.shu.edu.cn/info/1064/5434.htm",
+      "date": "2011-03-14",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会特邀市总工会副主席茆荣华来我校做报告",
+      "url": "https://gh.shu.edu.cn/info/1063/4689.htm",
+      "date": "2011-03-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开第三届工会常委会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5002.htm",
+      "date": "2011-03-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/5005.htm",
+      "date": "2011-03-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校吴笑老师荣获上海市民诗文诵读大赛三等奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4687.htm",
+      "date": "2011-02-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "社科学院张亚月老师获市“爱的教育”征文比赛三等奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4999.htm",
+      "date": "2011-02-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校工会获得“保障工作先进单位”“网站信息工作优秀单位”",
+      "url": "https://gh.shu.edu.cn/info/1063/5001.htm",
+      "date": "2011-02-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校荣获市教育系统“服务世博 奉献世博”先进集体和先进个人各一项",
+      "url": "https://gh.shu.edu.cn/info/1063/4997.htm",
+      "date": "2011-02-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开三届五次“双代会”主席团、代表团正副团长会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4992.htm",
+      "date": "2011-01-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学三届五次“双代会”胜利闭幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4994.htm",
+      "date": "2011-01-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "校党委书记于信汇同志参加人才服务中心迎春团拜活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5426.htm",
+      "date": "2011-01-18",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学三届五次教代会暨工代会胜利召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4685.htm",
+      "date": "2011-01-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会隆重表彰2009-2010年度工会工作积极分子",
+      "url": "https://gh.shu.edu.cn/info/1063/4683.htm",
+      "date": "2011-01-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市东北片高校工会交流会在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4990.htm",
+      "date": "2011-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院召开三届五次教职工代表大会",
+      "url": "https://gh.shu.edu.cn/info/1064/5416.htm",
+      "date": "2011-01-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "社会科学学院顺利召开四届一次工代会",
+      "url": "https://gh.shu.edu.cn/info/1064/5417.htm",
+      "date": "2011-01-05",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学教职工以健身跑迎接2011年",
+      "url": "https://gh.shu.edu.cn/info/1063/4680.htm",
+      "date": "2011-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "外国语学院召开三届四次“双代会”预备会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5422.htm",
+      "date": "2011-01-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "外国语学院举办退休教师欢送会",
+      "url": "https://gh.shu.edu.cn/info/1064/5424.htm",
+      "date": "2011-01-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上大财大教职工迎新乒乓球友谊赛在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4672.htm",
+      "date": "2010-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "数码艺术学院举行迎新年教职工趣味运动会",
+      "url": "https://gh.shu.edu.cn/info/1064/5411.htm",
+      "date": "2010-12-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "悉尼工商学院举行“师生融融”运动会",
+      "url": "https://gh.shu.edu.cn/info/1064/5413.htm",
+      "date": "2010-12-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "管理学院举办教职工趣味运动会",
+      "url": "https://gh.shu.edu.cn/info/1064/5420.htm",
+      "date": "2010-12-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会召开分工会主席年终总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/4671.htm",
+      "date": "2010-12-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "校教工摄影学会太姥山采风散记",
+      "url": "https://gh.shu.edu.cn/info/1063/4670.htm",
+      "date": "2010-12-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学三届五次“双代会”将于2011年初开幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4669.htm",
+      "date": "2010-12-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "让关爱的阳光照亮每一个残疾教职工的心灵",
+      "url": "https://gh.shu.edu.cn/info/1063/4667.htm",
+      "date": "2010-12-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "市总工会副主席周志军一行来我校调研",
+      "url": "https://gh.shu.edu.cn/info/1063/4665.htm",
+      "date": "2010-12-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "“美丽手语，精彩世博”节目荣获2010年上海市师德师风诗歌散文朗诵比赛高校组一等奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4988.htm",
+      "date": "2010-12-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校吴笑老师挺进“中华诵•2010经典诵读大赛”全国总决赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4986.htm",
+      "date": "2010-12-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开三届五次教代会代表团团长会议暨分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4663.htm",
+      "date": "2010-12-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学2010年“世博后冬季钓鱼赛”圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4984.htm",
+      "date": "2010-12-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开2011年上海大学教职工羽毛球团体赛协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4982.htm",
+      "date": "2010-12-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "快乐的趣味活动日",
+      "url": "https://gh.shu.edu.cn/info/1064/5408.htm",
+      "date": "2010-12-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "社科学院举行“双代会”换届系列活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5410.htm",
+      "date": "2010-12-08",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开三届四次教代会第四次提案工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4661.htm",
+      "date": "2010-12-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "教工摄影学会举行摄影展颁奖仪式暨摄影讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4657.htm",
+      "date": "2010-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市教卫党委副书记杜慧芳看望慰问我校“11.15”受灾教师",
+      "url": "https://gh.shu.edu.cn/info/1063/4659.htm",
+      "date": "2010-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校吴笑老师进入上海市民诗文诵读大赛决赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4981.htm",
+      "date": "2010-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于下载“数码照片后期处理工作流程”讲座材料的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4012.htm",
+      "date": "2010-11-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校教职工在菊文化节师德师风展示表演上展风采",
+      "url": "https://gh.shu.edu.cn/info/1063/4655.htm",
+      "date": "2010-11-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "工会温情暖初冬",
+      "url": "https://gh.shu.edu.cn/info/1064/5418.htm",
+      "date": "2010-11-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "校工会领导第一时间慰问我校“11•15”受灾教师家庭",
+      "url": "https://gh.shu.edu.cn/info/1063/4979.htm",
+      "date": "2010-11-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开2010年教职工暑期休养总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/4653.htm",
+      "date": "2010-11-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "校教工摄影学会采风活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4013.htm",
+      "date": "2010-11-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "世博会换票记",
+      "url": "https://gh.shu.edu.cn/info/1064/5415.htm",
+      "date": "2010-11-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "摄影学会影展颁奖及摄影讲座通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4014.htm",
+      "date": "2010-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于“把爱洒向校园——为教职工服务日”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4015.htm",
+      "date": "2010-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织我校师生参加“中华诵”网络投票的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4016.htm",
+      "date": "2010-11-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校教工泳协与嘉定区泳协举行联谊活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4649.htm",
+      "date": "2010-11-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校新进教师参加“上海一日游”活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4651.htm",
+      "date": "2010-11-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开上海大学第三届教代会代表团团长会议暨分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4647.htm",
+      "date": "2010-11-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院妇委与罗店镇举行共建活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5406.htm",
+      "date": "2010-11-04",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学教职工游泳协会活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4018.htm",
+      "date": "2010-10-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于新进教师“上海一日游”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4019.htm",
+      "date": "2010-10-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "教务处举办2010年“敬老日”茶话会",
+      "url": "https://gh.shu.edu.cn/info/1064/5404.htm",
+      "date": "2010-10-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "通信学院召开四届三次“双代会”",
+      "url": "https://gh.shu.edu.cn/info/1064/5412.htm",
+      "date": "2010-10-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院举行敬老节活动",
+      "url": "https://gh.shu.edu.cn/info/1064/5414.htm",
+      "date": "2010-10-22",
+      "column": "分工会动态"
+    },
+    {
+      "title": "荷兰王国克维尼管弦乐合唱团献演我校",
+      "url": "https://gh.shu.edu.cn/info/1063/4645.htm",
+      "date": "2010-10-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "瑜伽班报名通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4021.htm",
+      "date": "2010-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "瑜伽班报名通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4022.htm",
+      "date": "2010-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市“中华诵•2010年经典诵读大赛”上海大学赛区教师组预选赛举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4640.htm",
+      "date": "2010-10-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "《世博——美好生活新看点》作品评比结果",
+      "url": "https://gh.shu.edu.cn/info/1063/4643.htm",
+      "date": "2010-10-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "市“中华诵•2010年经典诵读大赛”上海大学赛区教师组预选赛成绩",
+      "url": "https://gh.shu.edu.cn/info/1063/4977.htm",
+      "date": "2010-10-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于“把爱洒向校园——为教职工服务日”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4024.htm",
+      "date": "2010-10-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于世博预约券预约方式的紧急通知",
+      "url": "https://gh.shu.edu.cn/info/1063/4975.htm",
+      "date": "2010-10-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "上大、工技大教工乒乓球赛在松江大学城举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4638.htm",
+      "date": "2010-10-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "2010年上海大学教职工文艺汇演优秀节目评选结果",
+      "url": "https://gh.shu.edu.cn/info/1063/4973.htm",
+      "date": "2010-10-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校隆重举行“为祖国歌唱 为世博喝彩”2010年上海大学教职工文艺汇演",
+      "url": "https://gh.shu.edu.cn/info/1063/4636.htm",
+      "date": "2010-09-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "《上海市2010年经济适用住房准入标准和供应标准》",
+      "url": "https://gh.shu.edu.cn/info/1063/4971.htm",
+      "date": "2010-09-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "于信汇书记中秋节寄语新进青年教师",
+      "url": "https://gh.shu.edu.cn/info/1063/4634.htm",
+      "date": "2010-09-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "理学院工会举办2010年欢迎新教师联谊活动[图文]",
+      "url": "https://gh.shu.edu.cn/info/1064/5402.htm",
+      "date": "2010-09-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "2010年上海大学教职工游泳趣味赛成功举办",
+      "url": "https://gh.shu.edu.cn/info/1063/4632.htm",
+      "date": "2010-09-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "教师节教职工服务日活动受到热烈欢迎",
+      "url": "https://gh.shu.edu.cn/info/1063/4630.htm",
+      "date": "2010-09-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校隆重举行庆祝第二十六个教师节暨表彰大会",
+      "url": "https://gh.shu.edu.cn/info/1063/4628.htm",
+      "date": "2010-09-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "“世博——美好生活新看点”教职工摄影展展出",
+      "url": "https://gh.shu.edu.cn/info/1063/4967.htm",
+      "date": "2010-09-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开2010年秋季学期第一次分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4969.htm",
+      "date": "2010-09-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "沉痛悼念钱伟长校长",
+      "url": "http://www.qianweichang.shu.edu.cn/",
+      "date": "2010-08-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开第二十一次民主恳谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4627.htm",
+      "date": "2010-07-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4620.htm",
+      "date": "2010-07-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会领导向一线教职工送清凉",
+      "url": "https://gh.shu.edu.cn/info/1063/4623.htm",
+      "date": "2010-07-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "市教育工会表彰市教育系统工会先进集体和先进个人",
+      "url": "https://gh.shu.edu.cn/info/1063/4617.htm",
+      "date": "2010-07-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校2010年教职工暑期休养工作进入倒计时",
+      "url": "https://gh.shu.edu.cn/info/1063/4619.htm",
+      "date": "2010-07-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "市教育工会向我校世博服务第一线的教职工送清凉",
+      "url": "https://gh.shu.edu.cn/info/1063/4614.htm",
+      "date": "2010-07-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校象棋队获得“庆世博中国象棋邀请赛”团体亚军",
+      "url": "https://gh.shu.edu.cn/info/1063/4962.htm",
+      "date": "2010-07-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "理学院“健康心态，美好生活”工会日活动顺利开展",
+      "url": "https://gh.shu.edu.cn/info/1064/5409.htm",
+      "date": "2010-07-01",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校孙晋良院士当选上海市先进工作者（劳动模范）",
+      "url": "https://gh.shu.edu.cn/info/1063/4612.htm",
+      "date": "2010-06-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "外语学院青年教师课堂教学比赛圆满落幕",
+      "url": "https://gh.shu.edu.cn/info/1064/5405.htm",
+      "date": "2010-06-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "“我做着，我做着所以我快乐”",
+      "url": "https://gh.shu.edu.cn/info/1064/5407.htm",
+      "date": "2010-06-07",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学教职工合唱团唱响“上海市教育工会60周年晚会”",
+      "url": "https://gh.shu.edu.cn/info/1063/4611.htm",
+      "date": "2010-06-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校积极筹备“我与世博同行”——2010年上海市师德师风诗歌散文朗诵比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4960.htm",
+      "date": "2010-06-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "楚河斗智谋——上海大学、复旦大学象棋队互访侧记",
+      "url": "https://gh.shu.edu.cn/info/1063/4608.htm",
+      "date": "2010-05-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "慈善倡议书",
+      "url": "https://gh.shu.edu.cn/info/1063/4958.htm",
+      "date": "2010-05-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校与上海财经大学进行教职工乒乓友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4604.htm",
+      "date": "2010-05-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "“材料学院杯”教职工象棋比赛举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4606.htm",
+      "date": "2010-05-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "外语学院大学外语部举行“世博”联欢会",
+      "url": "https://gh.shu.edu.cn/info/1064/5398.htm",
+      "date": "2010-05-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "计算机学院的小小世博会展览窗",
+      "url": "https://gh.shu.edu.cn/info/1064/5400.htm",
+      "date": "2010-05-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "图书馆职工以积极行动服务世博",
+      "url": "https://gh.shu.edu.cn/info/1064/5403.htm",
+      "date": "2010-05-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "机关党员干部、教职工踊跃向玉树地震灾区捐款",
+      "url": "https://gh.shu.edu.cn/info/1064/5396.htm",
+      "date": "2010-05-21",
+      "column": "分工会动态"
+    },
+    {
+      "title": "上海大学2010年教职工体检工作日前启动",
+      "url": "https://gh.shu.edu.cn/info/1063/4600.htm",
+      "date": "2010-05-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4956.htm",
+      "date": "2010-05-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "加大帮扶补助力度  完善各项规章制度",
+      "url": "https://gh.shu.edu.cn/info/1063/4598.htm",
+      "date": "2010-05-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校教工足球队应邀参加宝山区足球联动邀请赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4596.htm",
+      "date": "2010-05-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "悉尼工商学院为青海玉树强震爱心捐款",
+      "url": "https://gh.shu.edu.cn/info/1064/5395.htm",
+      "date": "2010-05-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "生命科学学院领导亲切看望“世博宝贝”",
+      "url": "https://gh.shu.edu.cn/info/1064/5397.htm",
+      "date": "2010-05-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "悉尼工商学院召开工会委员工作会议",
+      "url": "https://gh.shu.edu.cn/info/1064/5399.htm",
+      "date": "2010-05-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "情系玉树地震灾区  社科学院教师“观世博片、奉献爱心”",
+      "url": "https://gh.shu.edu.cn/info/1064/5401.htm",
+      "date": "2010-05-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "致 劳 模 的 慰 问 信",
+      "url": "https://gh.shu.edu.cn/info/1063/4954.htm",
+      "date": "2010-05-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校隆重举行“世博 教育 人才”2010年上海大学师德师风诗歌散文朗诵比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4594.htm",
+      "date": "2010-05-05",
+      "column": "教工活动"
+    },
+    {
+      "title": "图书馆四位职工入选世博园区志愿者",
+      "url": "https://gh.shu.edu.cn/info/1064/5391.htm",
+      "date": "2010-04-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "饱览山水风情 共蓄和谐文化——房地产学院教工春季踏青小记",
+      "url": "https://gh.shu.edu.cn/info/1064/5392.htm",
+      "date": "2010-04-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "心系灾区、爱心行动——图情档系分工会积极为灾区捐款",
+      "url": "https://gh.shu.edu.cn/info/1064/5393.htm",
+      "date": "2010-04-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "经济学院举行首届三次教代会",
+      "url": "https://gh.shu.edu.cn/info/1064/5394.htm",
+      "date": "2010-04-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校2010年教职工暑期休养工作启动",
+      "url": "https://gh.shu.edu.cn/info/1063/4589.htm",
+      "date": "2010-04-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "复旦上大教工乒乓球友谊赛在复旦举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4591.htm",
+      "date": "2010-04-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开教职工协会工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4587.htm",
+      "date": "2010-04-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校学烧家常菜活动启动",
+      "url": "https://gh.shu.edu.cn/info/1063/4585.htm",
+      "date": "2010-04-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "文学院分工会与宝山区罗店镇总工会共建",
+      "url": "https://gh.shu.edu.cn/info/1064/5390.htm",
+      "date": "2010-04-16",
+      "column": "分工会动态"
+    },
+    {
+      "title": "我校召开工会信息员会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4581.htm",
+      "date": "2010-04-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "今年首场妇女干部学习班在巴士汽车学院举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4952.htm",
+      "date": "2010-04-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "“辨体质，论饮食”校工会主办健康讲座取得圆满成功",
+      "url": "https://gh.shu.edu.cn/info/1063/4579.htm",
+      "date": "2010-04-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会为全校教职工购世博会参观券一张并赠送观博书籍",
+      "url": "https://gh.shu.edu.cn/info/1063/4950.htm",
+      "date": "2010-04-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校举行“通信学院杯”教职工乒乓球邀请赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4577.htm",
+      "date": "2010-03-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会干部赴宁波大学工会学习考察",
+      "url": "https://gh.shu.edu.cn/info/1063/4575.htm",
+      "date": "2010-03-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "校三届四次教代会第一次提案工作会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4572.htm",
+      "date": "2010-03-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "摄影大揭秘",
+      "url": "https://gh.shu.edu.cn/info/1063/4573.htm",
+      "date": "2010-03-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开“优秀教工小家”表彰会暨分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4569.htm",
+      "date": "2010-03-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于“把爱洒向校园——为教职工服务日”活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4060.htm",
+      "date": "2010-03-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于《世博——美好生活新看法》摄影展征稿的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4061.htm",
+      "date": "2010-03-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校召开三届四次“双代会”主席团、代表团团长会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4946.htm",
+      "date": "2010-01-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校三届四次“双代会”闭幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4949.htm",
+      "date": "2010-01-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "2009年帮困概况",
+      "url": "https://gh.shu.edu.cn/info/1063/4944.htm",
+      "date": "2010-01-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学三届四次“双代会”隆重开幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4567.htm",
+      "date": "2010-01-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "观摩顶级象棋赛事 领略特级大师风范",
+      "url": "https://gh.shu.edu.cn/info/1063/4565.htm",
+      "date": "2010-01-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "热情的舞步邀请新春的到来",
+      "url": "https://gh.shu.edu.cn/info/1063/4942.htm",
+      "date": "2010-01-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会主办“预防甲流公益讲座”",
+      "url": "https://gh.shu.edu.cn/info/1063/4563.htm",
+      "date": "2010-01-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学三届四次“双代会”将于下周三隆重开幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4940.htm",
+      "date": "2010-01-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举行“教工小家”考评会",
+      "url": "https://gh.shu.edu.cn/info/1063/4561.htm",
+      "date": "2010-01-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "转发《关于做好本市高校甲型H1N1流感疫苗补种工作的通知》",
+      "url": "https://gh.shu.edu.cn/info/1061/4066.htm",
+      "date": "2010-01-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "市教育工会与我校工会举行乒乓球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4559.htm",
+      "date": "2010-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "薛志良同志在市教育系统基层工会主席工作考评中获优秀等级",
+      "url": "https://gh.shu.edu.cn/info/1063/4936.htm",
+      "date": "2010-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校工会被评为“2009年度工会网站信息工作优秀单位”",
+      "url": "https://gh.shu.edu.cn/info/1063/4938.htm",
+      "date": "2010-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "迎着2010年的朝霞，让我们跑起来",
+      "url": "https://gh.shu.edu.cn/info/1063/4557.htm",
+      "date": "2009-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "全面做好上海大学三届四次双代会筹备工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4934.htm",
+      "date": "2009-12-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校第八届运动会隆重闭幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4553.htm",
+      "date": "2009-12-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教职工接种甲流疫苗",
+      "url": "https://gh.shu.edu.cn/info/1063/4555.htm",
+      "date": "2009-12-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "悉商分工会获“2006-2008年度上海市教育系统模范教工小家”",
+      "url": "https://gh.shu.edu.cn/info/1063/4932.htm",
+      "date": "2009-12-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "校第八届运动会组委会召开闭幕式筹备会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4551.htm",
+      "date": "2009-12-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、校人事处领导亲切慰问我校残疾教职工",
+      "url": "https://gh.shu.edu.cn/info/1063/4549.htm",
+      "date": "2009-12-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开分工会主席会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4545.htm",
+      "date": "2009-11-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校青年骨干教师休息休养活动取得圆满成功",
+      "url": "https://gh.shu.edu.cn/info/1063/4547.htm",
+      "date": "2009-11-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于我校教职工甲型H1N1流感疫苗接种事宜的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4071.htm",
+      "date": "2009-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校召开提案工作委员会会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4539.htm",
+      "date": "2009-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "教工瑜伽班第二期开班",
+      "url": "https://gh.shu.edu.cn/info/1063/4540.htm",
+      "date": "2009-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校2009年新进教师上海一日游成功举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4543.htm",
+      "date": "2009-11-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "机关分工会举行干部学习活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4930.htm",
+      "date": "2009-11-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第八届运动会教工趣味比赛再掀高潮",
+      "url": "https://gh.shu.edu.cn/info/1063/4537.htm",
+      "date": "2009-11-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "第二期瑜珈开班的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4073.htm",
+      "date": "2009-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "校第八届运动会隆重开幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4535.htm",
+      "date": "2009-11-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "2009年11月12月上海大学教职工生日费发放的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4076.htm",
+      "date": "2009-11-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校召开2009教职工暑期休养工作总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/4533.htm",
+      "date": "2009-11-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第八届运动会相关事宜通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4077.htm",
+      "date": "2009-11-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "校第八届运动会组委会会议召开做好开幕式前“总动员”",
+      "url": "https://gh.shu.edu.cn/info/1063/4531.htm",
+      "date": "2009-10-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "音乐与灵魂碰撞 台下与台上共鸣",
+      "url": "https://gh.shu.edu.cn/info/1063/4527.htm",
+      "date": "2009-10-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海师范大学工会领导莅临我校交流访问",
+      "url": "https://gh.shu.edu.cn/info/1063/4529.htm",
+      "date": "2009-10-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学从教“三十年”教工颁证仪式暨座谈会隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4523.htm",
+      "date": "2009-10-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开校工会全委会",
+      "url": "https://gh.shu.edu.cn/info/1063/4524.htm",
+      "date": "2009-10-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "《和谐之春——工会工作研究》首发仪式隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4521.htm",
+      "date": "2009-10-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "学院（系统）分工会主席会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4928.htm",
+      "date": "2009-10-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学2009年中秋国庆青年教师联谊会举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4519.htm",
+      "date": "2009-10-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会领导走访慰问劳模",
+      "url": "https://gh.shu.edu.cn/info/1063/4926.htm",
+      "date": "2009-10-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "“国庆杯”校区际乒乓球对抗赛在嘉定校区开赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4924.htm",
+      "date": "2009-10-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "诵读经典　传承传统——上海大学“中华诵•2009经典诵读大赛”成功举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4516.htm",
+      "date": "2009-09-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "“祖国万岁”——上海大学教职工庆祝新中国成立60周年合唱比赛隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4513.htm",
+      "date": "2009-09-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第八届运动会游泳比赛昨晚落下帷幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4515.htm",
+      "date": "2009-09-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "2009年中秋国庆青年教师联谊活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4082.htm",
+      "date": "2009-09-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校与上大附校举行工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4511.htm",
+      "date": "2009-09-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办教师节教职工服务日活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4509.htm",
+      "date": "2009-09-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "领取上海大学教职工游泳赛训练卡通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4084.htm",
+      "date": "2009-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学第二十五届教师节暨表彰大会隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4507.htm",
+      "date": "2009-09-14",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校赵东升代表上海市参加第二届全国青年教师师德演讲比赛荣获二等奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4504.htm",
+      "date": "2009-09-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学工会荣获2009年上海市教师诗（散文）朗诵比赛金奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4503.htm",
+      "date": "2009-09-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "紧急通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4087.htm",
+      "date": "2009-07-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "市总工会基层调研点第二组第一次工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4501.htm",
+      "date": "2009-07-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "机关系统与后勤集团进行教师足球友谊赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4918.htm",
+      "date": "2009-07-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会紧急召开教工暑期休养领队会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4920.htm",
+      "date": "2009-07-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、校教工摄影学会举办摄影讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4499.htm",
+      "date": "2009-07-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织献血教工休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4916.htm",
+      "date": "2009-07-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校2009年度教工暑期休养工作进入倒计时",
+      "url": "https://gh.shu.edu.cn/info/1063/4910.htm",
+      "date": "2009-06-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开第二十次民主恳谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4912.htm",
+      "date": "2009-06-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校教代会召开代表团团长会议表决通过三项议案",
+      "url": "https://gh.shu.edu.cn/info/1063/4914.htm",
+      "date": "2009-06-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "2009年上海大学“乐乎杯”教职工五人制足球赛预赛圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4497.htm",
+      "date": "2009-06-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校2009年度教工暑期休养领队会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4908.htm",
+      "date": "2009-06-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开2009年度第三次提案工作委员会会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4902.htm",
+      "date": "2009-06-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办教职工暑期休养境外休养培训",
+      "url": "https://gh.shu.edu.cn/info/1063/4905.htm",
+      "date": "2009-06-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校工会组织教师参加2009年上海市教师诗（散文）朗诵比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4906.htm",
+      "date": "2009-06-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "火一样的天气  火一样的热情——2009’上海大学“乐乎杯”教职工五人制足球赛开赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4492.htm",
+      "date": "2009-06-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学首届“精英杯三对三”篮球赛预赛圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4495.htm",
+      "date": "2009-06-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上大、复旦2009年教工乒乓球、象棋友谊赛举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4901.htm",
+      "date": "2009-05-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "“上海大学附属学校”签约揭牌仪式隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4899.htm",
+      "date": "2009-05-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "薛志良主席在工会、妇委干部培训班上作辅导报告",
+      "url": "https://gh.shu.edu.cn/info/1063/4897.htm",
+      "date": "2009-05-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "今天你就是大厨——《学烧家常菜》活动进入高潮",
+      "url": "https://gh.shu.edu.cn/info/1063/4487.htm",
+      "date": "2009-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "“当好主力军 建功在讲台”配乐诗朗诵比赛圆满举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4489.htm",
+      "date": "2009-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "全民健身展上大风采  以人为本绘卓越未来 ——2009’上海大学“悉商杯”羽毛球邀请赛圆满举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4490.htm",
+      "date": "2009-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校纳米功能材料研究团队荣获“上海教育先锋号”称号",
+      "url": "https://gh.shu.edu.cn/info/1063/4895.htm",
+      "date": "2009-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "纹枰斗智  握手留温——上海大学、复旦大学象棋队庆五一友谊比赛侧记",
+      "url": "https://gh.shu.edu.cn/info/1063/4482.htm",
+      "date": "2009-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "休养·交流·拓展——校工会组织我校博士生导师赴南京汤山休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4484.htm",
+      "date": "2009-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "薛志良当选为中国教育工会上海市第八届委员会委员、常委",
+      "url": "https://gh.shu.edu.cn/info/1063/4480.htm",
+      "date": "2009-05-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开教职工团购房工作协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4891.htm",
+      "date": "2009-05-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "校帮困基金会收到最大一笔个人捐助",
+      "url": "https://gh.shu.edu.cn/info/1063/4887.htm",
+      "date": "2009-04-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "《学烧家常菜》活动日前启动",
+      "url": "https://gh.shu.edu.cn/info/1063/4889.htm",
+      "date": "2009-04-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办劳模与青年教师“五一”座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4478.htm",
+      "date": "2009-04-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校三部门荣获“上海市教育系统文明班组、文明岗”荣誉称号",
+      "url": "https://gh.shu.edu.cn/info/1063/4885.htm",
+      "date": "2009-04-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "宝山区教育局、大场镇教委与我校就推进区校合作召开交流协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4883.htm",
+      "date": "2009-04-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工摄影学会组织牡丹节采风活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4882.htm",
+      "date": "2009-04-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教职工足球队包揽足球邀请赛冠亚军",
+      "url": "https://gh.shu.edu.cn/info/1063/4475.htm",
+      "date": "2009-04-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学工会理论研究成果颁奖暨交流会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4879.htm",
+      "date": "2009-04-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "法学院2009年教职工暨工会会员大会胜利闭幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4881.htm",
+      "date": "2009-04-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "2009悉商杯教职工羽毛球竞赛规程",
+      "url": "https://gh.shu.edu.cn/info/1063/4870.htm",
+      "date": "2009-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学工会理论研究成果颁奖暨交流会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4872.htm",
+      "date": "2009-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办“应对高血脂健康饮食与运动”讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4874.htm",
+      "date": "2009-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "工会联合召开房改工作恳谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4876.htm",
+      "date": "2009-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学与闸北区有关部门就解决我校教职工子女入学入托等问题召开协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4877.htm",
+      "date": "2009-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开教职工休养领导小组会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4878.htm",
+      "date": "2009-03-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开常委会部署中国教育工会上海市第八次代表大会代表选举以及上海市教育工会第八届工会委员会委员候选人推荐工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4861.htm",
+      "date": "2009-03-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开提案工作协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4863.htm",
+      "date": "2009-03-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于上海大学做好中国教育工会上海市第八次代表大会代表选举以及上海市教育工会第八届工会委员会委员候选人推荐工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1063/4859.htm",
+      "date": "2009-03-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学与宝山区教育局召开“上海大学附属学校”冠名协调会",
+      "url": "https://gh.shu.edu.cn/info/1063/4857.htm",
+      "date": "2009-03-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举行工会工作积极分子表彰会",
+      "url": "https://gh.shu.edu.cn/info/1063/4854.htm",
+      "date": "2009-03-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会与校医院联合举办健康讲座——代谢综合症的诊断与防治",
+      "url": "https://gh.shu.edu.cn/info/1063/4856.htm",
+      "date": "2009-03-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于举办瑜珈培训的通知",
+      "url": "https://gh.shu.edu.cn/info/1063/4852.htm",
+      "date": "2009-02-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "校提案工作委员会召开会议讨论分析三届三次教代会提案",
+      "url": "https://gh.shu.edu.cn/info/1063/4850.htm",
+      "date": "2009-02-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校谢燕青同志获嘉定区虬桥社区居委会“上海市孝亲敬老模范家庭”光荣称号",
+      "url": "https://gh.shu.edu.cn/info/1063/4846.htm",
+      "date": "2009-02-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学三届三次教代会暨工代会顺利闭幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4848.htm",
+      "date": "2009-02-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开三届三次“双代会”主席团、代表团团长会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4844.htm",
+      "date": "2009-01-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校“第三届教职工代表大会暨工会会员代表大会第三次会议”隆重召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4842.htm",
+      "date": "2009-01-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于2008年度上海大学教职工文体协会考核结果的通知",
+      "url": "https://gh.shu.edu.cn/info/1063/4840.htm",
+      "date": "2009-01-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举行“迎新健身长跑”",
+      "url": "https://gh.shu.edu.cn/info/1063/4838.htm",
+      "date": "2009-01-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、体育学院举办“休闲运动与健康”讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4836.htm",
+      "date": "2008-12-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织庆祝改革开放30周年电影招待会",
+      "url": "https://gh.shu.edu.cn/info/1063/4834.htm",
+      "date": "2008-12-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开2008年工会工作总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/4832.htm",
+      "date": "2008-12-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校工会主席薛志良在市科教工会工作考评中获奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4828.htm",
+      "date": "2008-12-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "2008年上海大学“计算机学院”杯教职工象棋比赛举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4830.htm",
+      "date": "2008-12-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开会议讨论三届三次双代会工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4825.htm",
+      "date": "2008-12-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教职工获得市科教工会颁发的多项荣誉",
+      "url": "https://gh.shu.edu.cn/info/1063/4827.htm",
+      "date": "2008-12-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开教工协会工作考核总结会",
+      "url": "https://gh.shu.edu.cn/info/1063/4823.htm",
+      "date": "2008-12-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会2008年度工会工作论文评选结果揭晓",
+      "url": "https://gh.shu.edu.cn/info/1063/4821.htm",
+      "date": "2008-12-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校三届三次教代会暨工代会筹备工作会议召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4819.htm",
+      "date": "2008-12-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学“秋之韵”菊文化节隆重闭幕",
+      "url": "https://gh.shu.edu.cn/info/1063/4817.htm",
+      "date": "2008-11-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工作会议布置年底前的工会工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4814.htm",
+      "date": "2008-11-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校在上海市“为人、为学、为师”师德建设系列活动中获得多项奖项",
+      "url": "https://gh.shu.edu.cn/info/1063/4812.htm",
+      "date": "2008-11-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "“把爱洒向校园——为教职工服务日”活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4108.htm",
+      "date": "2008-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "强身健体铸辉煌  科学发展创一流――记2008年上海大学教职工广播操展示竞赛活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4810.htm",
+      "date": "2008-11-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "妇委会举办2008年青年教师教学论坛",
+      "url": "https://gh.shu.edu.cn/info/1063/4809.htm",
+      "date": "2008-11-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、摄影学会举办“人像摄影”讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4806.htm",
+      "date": "2008-10-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开会议学习贯彻中国工会十五大精神",
+      "url": "https://gh.shu.edu.cn/info/1063/4803.htm",
+      "date": "2008-10-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工会理论研究会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4804.htm",
+      "date": "2008-10-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教工摄影学会讲座、采风活动通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4109.htm",
+      "date": "2008-10-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校吉永华教授当选中国工会新一届执行委员",
+      "url": "https://gh.shu.edu.cn/info/1063/4801.htm",
+      "date": "2008-10-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "“把爱洒向校园——为教职工服务日”活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4796.htm",
+      "date": "2008-10-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举行“科教兴上海、建功在讲坛”——2008年上海大学师德演讲比赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4799.htm",
+      "date": "2008-10-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于开展2008年度工会工作论文征集和评选工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4110.htm",
+      "date": "2008-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "科产系统工会、人事工作备忘录正式签约",
+      "url": "https://gh.shu.edu.cn/info/1063/4794.htm",
+      "date": "2008-10-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "工会、妇委举办“学说上海话”培训班",
+      "url": "https://gh.shu.edu.cn/info/1063/4792.htm",
+      "date": "2008-10-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "2008上海大学“国交学院杯”教职工乒乓球邀请赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4736.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "《廉洁文化与师德风范》——校党委副书记、纪委书记忻平教授为工会、妇委干部作廉洁教育专题讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4738.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会带着上海大学教职工的深情慰问来自地震灾区的伤员",
+      "url": "https://gh.shu.edu.cn/info/1063/4740.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织劳模参观考察洋山深水港",
+      "url": "https://gh.shu.edu.cn/info/1063/4742.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办教职工“学烧家常菜”活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4744.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "一份特殊的“六一”节礼物",
+      "url": "https://gh.shu.edu.cn/info/1063/4746.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "感谢信",
+      "url": "https://gh.shu.edu.cn/info/1063/4748.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "“秀自己”－计算机学院儿童节活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4749.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校喜获上海市科教巾帼健身排舞比赛铜奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4751.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第十九次民主恳谈会会议纪要",
+      "url": "https://gh.shu.edu.cn/info/1063/4754.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "2008年房改工作即将实施——校工会和房改办召开房改工作通报会",
+      "url": "https://gh.shu.edu.cn/info/1063/4756.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "2008年房改工作即将实施——校工会和房改办召开房改工作通报会",
+      "url": "https://gh.shu.edu.cn/info/1063/4758.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织献血教职工赴浙江溪口、绍兴休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4760.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校妇委会召开优秀青年教师座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4762.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开青年教师联谊会工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4764.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会为全校教职工送清凉",
+      "url": "https://gh.shu.edu.cn/info/1063/4766.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校妇委会开设“儿童常见病的预防及保健”讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4769.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "教师节大会发言(文学院  张文宏)",
+      "url": "https://gh.shu.edu.cn/info/1063/4771.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "在2008年教师节表彰会上的讲话(于信汇)",
+      "url": "https://gh.shu.edu.cn/info/1063/4772.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "为科教兴国和人才强国立大业、建新功———写在庆祝第24个教师节之际",
+      "url": "https://gh.shu.edu.cn/info/1063/4776.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "忠诚党的教育事业 履行教师崇高职责  我校召开庆祝第24个教师节大会",
+      "url": "https://gh.shu.edu.cn/info/1063/4780.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学召开庆贺三十年教龄座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4782.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会国庆帮困补助97人，发放补助金6万余元",
+      "url": "https://gh.shu.edu.cn/info/1063/4785.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校领导暑期亲切慰问延长校区科技园区办公楼工地",
+      "url": "https://gh.shu.edu.cn/info/1063/4786.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办“国庆杯”校区际教工乒乓球对抗赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4789.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "教代会提案委员会召开会议总结三届二次教代会提案工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4790.htm",
+      "date": "2008-10-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于08－09学年秋季学期上海大学教职工太极拳协会活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4112.htm",
+      "date": "2008-09-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校教工队勇夺“EMC杯”上海校际乒乓球邀请赛冠军",
+      "url": "https://gh.shu.edu.cn/info/1063/4732.htm",
+      "date": "2008-05-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "地震无情人有情",
+      "url": "https://gh.shu.edu.cn/info/1063/4734.htm",
+      "date": "2008-05-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学首届教职工网球邀请赛圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4730.htm",
+      "date": "2008-05-13",
+      "column": "教工活动"
+    },
+    {
+      "title": "学会维权  走向职场--校妇委会举行女大学生职前教育讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4726.htm",
+      "date": "2008-05-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会走访我校劳模",
+      "url": "https://gh.shu.edu.cn/info/1063/4728.htm",
+      "date": "2008-05-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "讲座通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4119.htm",
+      "date": "2008-04-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学教职工象棋协会成立仪式的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4120.htm",
+      "date": "2008-04-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "踊跃参赛银球舞  群体运动掀高潮――记“国交学院杯”教职工乒乓球邀请赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4724.htm",
+      "date": "2008-04-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "理学院等七个学院获上海大学第六届青年教师课堂教学竞赛优秀组织奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4722.htm",
+      "date": "2008-04-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学首届教职工网球邀请赛（双打比赛）的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4121.htm",
+      "date": "2008-04-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "网球培训班首次授课的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4123.htm",
+      "date": "2008-04-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会召开文体工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4721.htm",
+      "date": "2008-04-07",
+      "column": "教工活动"
+    },
+    {
+      "title": "有关组织“迎奥运知识竞赛”的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4124.htm",
+      "date": "2008-04-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "切实维护教职工切身利益  积极推进教职工互助保障工作——校工会举办《综合补充医疗、意外（工伤）互助保障》讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4719.htm",
+      "date": "2008-03-31",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于开展2008年“为人 为师 为学”师德征文的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4125.htm",
+      "date": "2008-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "妇委工会走访军嫂温文",
+      "url": "https://gh.shu.edu.cn/info/1063/4714.htm",
+      "date": "2008-03-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开宣传工作暨分工会信息员会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4716.htm",
+      "date": "2008-03-24",
+      "column": "教工活动"
+    },
+    {
+      "title": "校妇委会举行插花艺术培训",
+      "url": "https://gh.shu.edu.cn/info/1063/4712.htm",
+      "date": "2008-03-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "心心相印 携手共进——比翼双飞模范佳侣”表彰会举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4710.htm",
+      "date": "2008-03-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工会常委会讨论制定08年工会工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4708.htm",
+      "date": "2008-03-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织召开教代会提案工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4707.htm",
+      "date": "2008-02-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于举办太极拳培训班的通知",
+      "url": "https://gh.shu.edu.cn/info/1063/4704.htm",
+      "date": "2008-02-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "冒寒踏雪 党政工会各级领导探访教职工",
+      "url": "https://gh.shu.edu.cn/info/1063/4702.htm",
+      "date": "2008-02-20",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学第三届第二次教职工暨工会会员代表大会隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4698.htm",
+      "date": "2008-01-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校工会主席薛志良同志被市科教工会评为优秀",
+      "url": "https://gh.shu.edu.cn/info/1063/4700.htm",
+      "date": "2008-01-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学参加“上海首届科技教育工作者运动会”暨2007年教职工文体健身工作的表彰名单",
+      "url": "https://gh.shu.edu.cn/info/1063/4696.htm",
+      "date": "2008-01-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办教职工迎新健身跑活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4690.htm",
+      "date": "2008-01-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "东方讲坛：为祖国健康工作五十年",
+      "url": "https://gh.shu.edu.cn/info/1063/4692.htm",
+      "date": "2008-01-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "公示",
+      "url": "https://gh.shu.edu.cn/info/1063/4694.htm",
+      "date": "2008-01-02",
+      "column": "教工活动"
+    },
+    {
+      "title": "2007年度校比翼双飞模范佳侣评审会召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4688.htm",
+      "date": "2007-12-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开参加市首届科教工作者运动会暨07年度教工文体工作总结表彰会",
+      "url": "https://gh.shu.edu.cn/info/1063/4686.htm",
+      "date": "2007-12-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "大学校园健康行系列教育讲座“如果爱”在我校举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4684.htm",
+      "date": "2007-12-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开教职工文体协会工作会议",
+      "url": "https://gh.shu.edu.cn/info/1063/4682.htm",
+      "date": "2007-12-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校荣获上海市首届科教工作者运动会特殊贡献奖等多项奖项",
+      "url": "https://gh.shu.edu.cn/info/1063/4681.htm",
+      "date": "2007-12-10",
+      "column": "教工活动"
+    },
+    {
+      "title": "教工合唱团通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4140.htm",
+      "date": "2007-12-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "2007年工会协会工作总结会通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4141.htm",
+      "date": "2007-12-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会组织献血教职工双休日休养活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4679.htm",
+      "date": "2007-12-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校妇女品牌工作“巾帼建功在讲台”圆满考评",
+      "url": "https://gh.shu.edu.cn/info/1063/4677.htm",
+      "date": "2007-12-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "送温暖  献爱心——2007 年社会捐助活动圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4678.htm",
+      "date": "2007-12-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市首届科教工作者运动会在我校隆重举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4676.htm",
+      "date": "2007-11-06",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学2007年11月12月生日蛋糕费名单核对的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4142.htm",
+      "date": "2007-11-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展“送温暖、献爱心”社会捐助活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4143.htm",
+      "date": "2007-11-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "首运会当天（11月3日）运动员、工作人员专用车辆安排的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4144.htm",
+      "date": "2007-11-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "追求卓越  超越自我--青年教师课堂教学竞赛再结硕果",
+      "url": "https://gh.shu.edu.cn/info/1063/4675.htm",
+      "date": "2007-10-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "饮服中心努力稳定学生食堂饭菜价格",
+      "url": "https://gh.shu.edu.cn/info/1063/4674.htm",
+      "date": "2007-10-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市科教系统校务公开领导小组对上海大学校务公开进行调研检查",
+      "url": "https://gh.shu.edu.cn/info/1063/4668.htm",
+      "date": "2007-10-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校教工健美健身体操队参加市科教工作者运动会比赛喜获铜奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4673.htm",
+      "date": "2007-10-22",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办教职工趣味健身赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4666.htm",
+      "date": "2007-10-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举行青年教师中秋联谊活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4662.htm",
+      "date": "2007-10-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "校妇委会举行优秀青年女教师座谈会暨成才资助金发放仪式",
+      "url": "https://gh.shu.edu.cn/info/1063/4664.htm",
+      "date": "2007-10-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市首届科教运动会组委会筹备会在我校召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4658.htm",
+      "date": "2007-10-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举行“为人  为师  为学”师德小故事演讲赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4656.htm",
+      "date": "2007-09-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "从教三十载  桃李满天下――校工会举行三十年教龄颁证仪式暨座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4650.htm",
+      "date": "2007-09-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学庆祝第23届教师节工会活动的安排",
+      "url": "https://gh.shu.edu.cn/info/1063/4652.htm",
+      "date": "2007-09-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会举办教工服务日活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4654.htm",
+      "date": "2007-09-17",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工作会议 布置落实教师节系列活动",
+      "url": "https://gh.shu.edu.cn/info/1063/4646.htm",
+      "date": "2007-09-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "科教工会举行市劳模、劳模集体表彰暨座谈会  我校滕玉浩、高性能复合材料研究学术团队受表彰",
+      "url": "https://gh.shu.edu.cn/info/1063/4644.htm",
+      "date": "2007-09-03",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会网在2006年度科教系统工会网站交流与评比活动中荣获一等奖",
+      "url": "https://gh.shu.edu.cn/info/1063/4639.htm",
+      "date": "2007-07-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会向全校教职工送清凉",
+      "url": "https://gh.shu.edu.cn/info/1063/4641.htm",
+      "date": "2007-07-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学教职工网球协会会员招募通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4147.htm",
+      "date": "2007-06-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办舞蹈—交谊舞培训班（自修巩固阶段）的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4148.htm",
+      "date": "2007-06-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会举办的第一届交谊舞培训班圆满结束",
+      "url": "https://gh.shu.edu.cn/info/1063/4637.htm",
+      "date": "2007-06-28",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校召开第三届教代会代表团团长会议表决通过了我校房改实施细则",
+      "url": "https://gh.shu.edu.cn/info/1063/4635.htm",
+      "date": "2007-06-26",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开工作会议  布置落实近期工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4633.htm",
+      "date": "2007-06-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "从教三十年教龄申请的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4149.htm",
+      "date": "2007-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "2007年7月8月生日蛋糕费名单核对的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4150.htm",
+      "date": "2007-06-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校在上海市科教系统“为人、为师、为学—讲述我身边师德小故事”的演讲活动中获多项奖项",
+      "url": "https://gh.shu.edu.cn/info/1063/4631.htm",
+      "date": "2007-06-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织基层党组织书记双休日休养团赴扬州、镇江休养考察和研讨工会工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4629.htm",
+      "date": "2007-06-12",
+      "column": "教工活动"
+    },
+    {
+      "title": "学习贯彻市第九次党代会精神努力开创工会工作新局面――校工会召开工会工作学习研讨会",
+      "url": "https://gh.shu.edu.cn/info/1063/4626.htm",
+      "date": "2007-06-04",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会组织优秀青年教师赴浙江双休日休养",
+      "url": "https://gh.shu.edu.cn/info/1063/4624.htm",
+      "date": "2007-06-01",
+      "column": "教工活动"
+    },
+    {
+      "title": "关于举办舞蹈—交谊舞培训班的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4151.htm",
+      "date": "2007-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "校教工摄影学会赴八都岕、顾渚山采风",
+      "url": "https://gh.shu.edu.cn/info/1063/4621.htm",
+      "date": "2007-05-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "校妇委会举行青年女教师示范公开课",
+      "url": "https://gh.shu.edu.cn/info/1063/4622.htm",
+      "date": "2007-05-21",
+      "column": "教工活动"
+    },
+    {
+      "title": "共同办好“教工之家”活动室，为建设和谐校园作贡献",
+      "url": "https://gh.shu.edu.cn/info/1063/4618.htm",
+      "date": "2007-05-19",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会为教职工开办家庭理财讲座",
+      "url": "https://gh.shu.edu.cn/info/1063/4616.htm",
+      "date": "2007-05-15",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市首届科教工作者运动会乒乓球比赛简讯",
+      "url": "https://gh.shu.edu.cn/info/1063/4615.htm",
+      "date": "2007-05-11",
+      "column": "教工活动"
+    },
+    {
+      "title": "敬业 爱校 奉献 廉洁——校工会举办“上海大学‘颂劳模 庆五一’联谊活动”",
+      "url": "https://gh.shu.edu.cn/info/1063/4610.htm",
+      "date": "2007-05-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "我校滕玉浩和以孙晋良院士领衔的“高性能复合材料研究学术团队”荣获劳模个人、劳模集体的荣誉",
+      "url": "https://gh.shu.edu.cn/info/1063/4613.htm",
+      "date": "2007-05-09",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学“颂劳模 庆五一”联谊会校党委副书记忻平发言",
+      "url": "https://gh.shu.edu.cn/info/1063/4601.htm",
+      "date": "2007-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "“廉洁教育 从我做起”倡议书",
+      "url": "https://gh.shu.edu.cn/info/1063/4603.htm",
+      "date": "2007-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海大学“理想·爱情·事业”专题讲座成功举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4605.htm",
+      "date": "2007-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、妇委、团委联合举行东方讲坛——《走进2007》",
+      "url": "https://gh.shu.edu.cn/info/1063/4607.htm",
+      "date": "2007-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "“谈成才  促发展”我校召开优秀青年女教师座谈会",
+      "url": "https://gh.shu.edu.cn/info/1063/4609.htm",
+      "date": "2007-05-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "于信汇同志“五一”贺信",
+      "url": "https://gh.shu.edu.cn/info/1063/4597.htm",
+      "date": "2007-04-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会、妇委、团委联合举行东方讲坛——《走进2007》",
+      "url": "https://gh.shu.edu.cn/info/1063/4595.htm",
+      "date": "2007-04-27",
+      "column": "教工活动"
+    },
+    {
+      "title": "上海市首届科教工作者运动会组委会成立暨动员大会在上海大学召开",
+      "url": "https://gh.shu.edu.cn/info/1063/4593.htm",
+      "date": "2007-04-25",
+      "column": "教工活动"
+    },
+    {
+      "title": "青年教师踊跃报名参加校第六届教学竞赛",
+      "url": "https://gh.shu.edu.cn/info/1063/4590.htm",
+      "date": "2007-04-18",
+      "column": "教工活动"
+    },
+    {
+      "title": "市首届科教运动会趣味类项目培训会在上海大学举行",
+      "url": "https://gh.shu.edu.cn/info/1063/4586.htm",
+      "date": "2007-04-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "校工会召开会议  布置近期工作",
+      "url": "https://gh.shu.edu.cn/info/1063/4588.htm",
+      "date": "2007-04-16",
+      "column": "教工活动"
+    },
+    {
+      "title": "协会协调会通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4183.htm",
+      "date": "2006-11-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "双代会换届筹备会议通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4185.htm",
+      "date": "2006-11-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "校教工合唱团排练的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4186.htm",
+      "date": "2006-11-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学“和谐的旋律”教职工卡拉OK演唱赛复赛通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4187.htm",
+      "date": "2006-11-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学“和谐的旋律”卡拉OK赛领队会议通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4188.htm",
+      "date": "2006-11-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展“送温暖、献爱心”社会捐助活动的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4189.htm",
+      "date": "2006-11-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "校工会常委会会议通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4191.htm",
+      "date": "2006-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于评选2005-2006年度上海大学工会工作积极分子的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4194.htm",
+      "date": "2006-10-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于校工会活动室舞会开放的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4196.htm",
+      "date": "2006-10-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "博士学位授权点导师双休日休养的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4198.htm",
+      "date": "2006-10-12",
+      "column": "通知公告"
+    }
+  ]
+}

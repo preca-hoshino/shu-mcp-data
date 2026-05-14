@@ -1,0 +1,20 @@
+{
+  "bksy.shu.edu.cn": {
+    "type": "07",
+    "department": "上海大学本科生院",
+    "pages": {
+      "index/tzgg.htm": {
+        "pages": 208,
+        "column": "通知公告"
+      },
+      "index/xw.htm": {
+        "pages": 80,
+        "column": "新闻动态"
+      },
+      "index/zcwj.htm": {
+        "pages": 6,
+        "column": "政策文件"
+      }
+    }
+  }
+}

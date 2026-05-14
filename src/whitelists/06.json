@@ -1,0 +1,264 @@
+{
+  "automation.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学自动化系",
+    "pages": {
+      "sy/xw.htm": {
+        "pages": 11,
+        "column": "新闻"
+      },
+      "sy/jz_hy.htm": {
+        "pages": 1,
+        "column": "讲座/会议"
+      }
+    }
+  },
+  "gh.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学工会",
+    "pages": {
+      "index/tzgg.htm": {
+        "pages": 26,
+        "column": "通知公告"
+      },
+      "index/xwdt.htm": {
+        "pages": 32,
+        "column": "新闻动态"
+      },
+      "index/jghd.htm": {
+        "pages": 102,
+        "column": "教工活动"
+      },
+      "index/fghdt.htm": {
+        "pages": 71,
+        "column": "分工会动态"
+      },
+      "index/xhdt.htm": {
+        "pages": 8,
+        "column": "协会动态"
+      }
+    }
+  },
+  "hmlct.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学氢冶金与低碳技术团队",
+    "pages": {
+      "sylm/xwzx1.htm": {
+        "pages": 2,
+        "column": "新闻中心"
+      },
+      "sylm/zyjz.htm": {
+        "pages": 1,
+        "column": "重要进展"
+      }
+    }
+  },
+  "lib.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学图书馆",
+    "pages": {
+      "sho/ggxx.htm": {
+        "pages": 4,
+        "column": "公告信息"
+      },
+      "sho/zydt.htm": {
+        "pages": 4,
+        "column": "资源动态"
+      },
+      "sho/tsgxw.htm": {
+        "pages": 4,
+        "column": "图书馆新闻"
+      }
+    }
+  },
+  "mae.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学机电工程与自动化学院机械自动化工程系",
+    "pages": {
+      "sy/zhxw.htm": {
+        "pages": 12,
+        "column": "综合新闻"
+      },
+      "sy/jydt.htm": {
+        "pages": 12,
+        "column": "教研动态"
+      },
+      "sy/tzgg.htm": {
+        "pages": 4,
+        "column": "通知公告"
+      },
+      "sy/ssyd.htm": {
+        "pages": 10,
+        "column": "师生园地"
+      }
+    }
+  },
+  "sfs.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学外国语学院",
+    "pages": {
+      "index/tzgg.htm": {
+        "pages": 30,
+        "column": "通知公告"
+      },
+      "index/xshdyg.htm": {
+        "pages": 54,
+        "column": "学术活动预告"
+      },
+      "index/xyxw.htm": {
+        "pages": 290,
+        "column": "学院新闻"
+      },
+      "xsyj.htm": {
+        "pages": 6,
+        "column": "学术研究"
+      }
+    }
+  },
+  "shenjichu.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学审计处",
+    "pages": {
+      "dtxx/sjdt.htm": {
+        "pages": 9,
+        "column": "审计动态"
+      },
+      "dwzhuan_l/zbsh.htm": {
+        "pages": 2,
+        "column": "支部生活"
+      },
+      "sgsgg/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      }
+    }
+  },
+  "skl4nm.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学核电关键材料全国重点实验室",
+    "pages": {
+      "sybk/xwzx.htm": {
+        "pages": 1,
+        "column": "新闻资讯"
+      },
+      "sybk/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      },
+      "sybk/yjcg.htm": {
+        "pages": 1,
+        "column": "研究成果"
+      },
+      "sybk/zszp.htm": {
+        "pages": 1,
+        "column": "招生招聘"
+      },
+      "sybk/kfkt.htm": {
+        "pages": 1,
+        "column": "开放课题"
+      }
+    }
+  },
+  "sme.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学微电子学院",
+    "pages": {
+      "index/xwdt.htm": {
+        "pages": 45,
+        "column": "新闻动态"
+      },
+      "index/tzgg.htm": {
+        "pages": 10,
+        "column": "通知公告"
+      },
+      "index/jzxx.htm": {
+        "pages": 1,
+        "column": "讲座信息"
+      },
+      "index/zxdt.htm": {
+        "pages": 1,
+        "column": "资讯动态"
+      }
+    }
+  },
+  "sociology.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学社会学院",
+    "pages": {
+      "synr/zhxw.htm": {
+        "pages": 58,
+        "column": "综合新闻"
+      },
+      "synr/tzgg.htm": {
+        "pages": 31,
+        "column": "通知公告"
+      },
+      "synr/xsdt.htm": {
+        "pages": 79,
+        "column": "学术动态"
+      },
+      "synr/xsbg.htm": {
+        "pages": 41,
+        "column": "学术报告"
+      },
+      "synr/jxjw.htm": {
+        "pages": 30,
+        "column": "教学教务"
+      },
+      "synr/xsdt1.htm": {
+        "pages": 39,
+        "column": "学生动态"
+      },
+      "synr/xyhd.htm": {
+        "pages": 2,
+        "column": "校友活动"
+      },
+      "synr/mtbd1.htm": {
+        "pages": 21,
+        "column": "媒体报道"
+      },
+      "synr/tpxw.htm": {
+        "pages": 11,
+        "column": "图片新闻"
+      }
+    }
+  },
+  "suns.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学数据科学与都市研究中心",
+    "pages": {
+      "sy/xw.htm": {
+        "pages": 2,
+        "column": "新闻"
+      },
+      "sy/gg.htm": {
+        "pages": 4,
+        "column": "公告"
+      }
+    }
+  },
+  "tiyu.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学体育学院",
+    "pages": {
+      "syxwzl/ttxw.htm": {
+        "pages": 9,
+        "column": "头条新闻"
+      },
+      "syxwzl/tzgg.htm": {
+        "pages": 9,
+        "column": "通知公告"
+      }
+    }
+  },
+  "xdh.shu.edu.cn": {
+    "type": "06",
+    "department": "上海大学董事会",
+    "pages": {
+      "xdfc.htm": {
+        "pages": 4,
+        "column": "校董风采"
+      }
+    }
+  }
+}

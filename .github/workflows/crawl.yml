@@ -1,0 +1,67 @@
+name: Crawl SHU News
+
+on:
+  schedule:
+    # 每天北京时间 10:00 (UTC 02:00)，增量模式
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '爬取模式'
+        required: true
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - full
+      max_pages:
+        description: '每栏目最大页数（0=不限，incremental 默认 3）'
+        required: false
+        default: '3'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install ruff mypy pytest
+
+      - name: Quality gate
+        run: |
+          ruff format --check .
+          ruff check .
+          mypy .
+          pytest tests/ -q
+
+      - name: Run crawler
+        run: |
+          MODE="${{ github.event.inputs.mode || 'incremental' }}"
+          PAGES="${{ github.event.inputs.max_pages || '3' }}"
+          python scheduler.py --no-progress -c 5 --mode "$MODE" -p "$PAGES"
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[Chore](data): update news data $(date +%Y%m%d)"
+          file_pattern: 'output/*.json'
+          skip_dirty_check: false
+          branch: master

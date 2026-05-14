@@ -1,0 +1,190 @@
+{
+  "imrobot.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学上海市智能制造及机器人重点实验室",
+    "pages": {
+      "zhxw.htm": {
+        "pages": 1,
+        "column": "综合新闻"
+      }
+    }
+  },
+  "ischool.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学图书情报档案系",
+    "pages": {
+      "xwdt.htm": {
+        "pages": 11,
+        "column": "新闻动态"
+      },
+      "xwdt/tzgg.htm": {
+        "pages": 3,
+        "column": "通知公告"
+      },
+      "xwdt/bksdt.htm": {
+        "pages": 1,
+        "column": "本科生动态"
+      },
+      "xwdt/yjsdt.htm": {
+        "pages": 1,
+        "column": "研究生动态"
+      }
+    }
+  },
+  "museum.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学博物馆",
+    "pages": {
+      "bggk/xwkd.htm": {
+        "pages": 1,
+        "column": "新闻快递"
+      },
+      "bggk/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      }
+    }
+  },
+  "oiqa.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学教育质量考察与评估办公室",
+    "pages": {
+      "syzl/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      },
+      "syzl/xw.htm": {
+        "pages": 1,
+        "column": "新闻"
+      }
+    }
+  },
+  "safa.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学上海美术学院",
+    "pages": {
+      "synr/djgz.htm": {
+        "pages": 10,
+        "column": "党建工作"
+      },
+      "synr/xyxw.htm": {
+        "pages": 42,
+        "column": "学院新闻"
+      },
+      "synr/tzgg.htm": {
+        "pages": 2,
+        "column": "通知公告"
+      },
+      "synr/xsjz.htm": {
+        "pages": 17,
+        "column": "学术讲座"
+      },
+      "synr/jx.htm": {
+        "pages": 18,
+        "column": "教学"
+      },
+      "synr/ky.htm": {
+        "pages": 6,
+        "column": "科研"
+      },
+      "synr/xsgz.htm": {
+        "pages": 7,
+        "column": "学生工作"
+      },
+      "synr/zlzs.htm": {
+        "pages": 3,
+        "column": "展览展示"
+      }
+    }
+  },
+  "sbc.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学实验室与设备管理处",
+    "pages": {
+      "tg/gzdt.htm": {
+        "pages": 17,
+        "column": "工作动态"
+      },
+      "tg/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      }
+    }
+  },
+  "smes.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学力学与工程科学学院",
+    "pages": {
+      "index/zhxw.htm": {
+        "pages": 1,
+        "column": "综合新闻"
+      },
+      "index/jsfc.htm": {
+        "pages": 6,
+        "column": "教师风采"
+      },
+      "index/xsxx.htm": {
+        "pages": 4,
+        "column": "学生信息"
+      },
+      "index/tzgg.htm": {
+        "pages": 5,
+        "column": "通知公告"
+      },
+      "index/jxdt.htm": {
+        "pages": 4,
+        "column": "教学动态"
+      },
+      "index/kydt.htm": {
+        "pages": 10,
+        "column": "科研动态"
+      },
+      "index/xsbg.htm": {
+        "pages": 5,
+        "column": "学术报告"
+      }
+    }
+  },
+  "wmzx.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学文明校园创建",
+    "pages": {
+      "xydt.htm": {
+        "pages": 1,
+        "column": "校园动态"
+      },
+      "wmsj.htm": {
+        "pages": 1,
+        "column": "文明实践"
+      },
+      "wmcj.htm": {
+        "pages": 4,
+        "column": "文明创建"
+      }
+    }
+  },
+  "xdh.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学董事会",
+    "pages": {
+      "xwdt.htm": {
+        "pages": 7,
+        "column": "新闻动态"
+      }
+    }
+  },
+  "zcb.shu.edu.cn": {
+    "type": "28",
+    "department": "上海大学房屋资产管理处",
+    "pages": {
+      "index/bmxw.htm": {
+        "pages": 1,
+        "column": "部门新闻"
+      },
+      "index/tzgg.htm": {
+        "pages": 1,
+        "column": "通知公告"
+      }
+    }
+  }
+}

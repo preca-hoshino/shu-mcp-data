@@ -1,0 +1,16 @@
+{
+  "xyy.shu.edu.cn": {
+    "type": "38",
+    "department": "上海大学校医院",
+    "pages": {
+      "sylm/ggl.htm": {
+        "pages": 6,
+        "column": "公告栏"
+      },
+      "sylm/xw.htm": {
+        "pages": 2,
+        "column": "新闻"
+      }
+    }
+  }
+}

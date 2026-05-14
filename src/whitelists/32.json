@@ -1,0 +1,36 @@
+{
+  "sjc.shu.edu.cn": {
+    "type": "32",
+    "department": "上海大学新闻传播学院",
+    "pages": {
+      "tg/zhxw.htm": {
+        "pages": 48,
+        "column": "综合新闻"
+      },
+      "tg/xygg.htm": {
+        "pages": 13,
+        "column": "学院公告"
+      },
+      "tg/bksjy.htm": {
+        "pages": 4,
+        "column": "本科生教育"
+      },
+      "tg/yjsjy.htm": {
+        "pages": 5,
+        "column": "研究生教育"
+      },
+      "tg/dwgk.htm": {
+        "pages": 1,
+        "column": "党务公开"
+      },
+      "tg/mtjj.htm": {
+        "pages": 2,
+        "column": "媒体聚焦"
+      },
+      "tg/xsjz.htm": {
+        "pages": 7,
+        "column": "学术讲座"
+      }
+    }
+  }
+}

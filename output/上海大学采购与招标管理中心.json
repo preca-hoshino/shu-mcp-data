@@ -1,0 +1,639 @@
+{
+  "domain": "czb.shu.edu.cn",
+  "department": "上海大学采购与招标管理中心",
+  "type": "18",
+  "crawl_time": "20260513_175610",
+  "total_articles": 104,
+  "columns": {
+    "工作动态": 40,
+    "服务指南": 21,
+    "成交公告": 20,
+    "采购公告": 23
+  },
+  "articles": [
+    {
+      "title": "分享采购管理经验 深化校际协同合作——上海大学接待深圳大学一行调研采购与招标管理工作",
+      "url": "https://czb.shu.edu.cn/info/1121/3312.htm",
+      "date": "2026-03-27",
+      "column": "工作动态"
+    },
+    {
+      "title": "中国教育会计学会高校政府采购分会赴上海大学调研政府采购信息化建设工作",
+      "url": "https://czb.shu.edu.cn/info/1121/3282.htm",
+      "date": "2026-03-05",
+      "column": "工作动态"
+    },
+    {
+      "title": "上海大学联合接待多校采招工作调研交流",
+      "url": "https://czb.shu.edu.cn/info/1121/3242.htm",
+      "date": "2026-01-23",
+      "column": "工作动态"
+    },
+    {
+      "title": "四川省教育会计学会高教采购管理分会来校调研交流",
+      "url": "https://czb.shu.edu.cn/info/1121/3202.htm",
+      "date": "2025-12-04",
+      "column": "工作动态"
+    },
+    {
+      "title": "重阳寄深情，共话采购新篇章——上海大学采购与招标管理办公室举办重阳节活动",
+      "url": "https://czb.shu.edu.cn/info/1121/3182.htm",
+      "date": "2025-10-29",
+      "column": "工作动态"
+    },
+    {
+      "title": "安徽省招标采购协会一行调研上海大学",
+      "url": "https://czb.shu.edu.cn/info/1121/3152.htm",
+      "date": "2025-06-13",
+      "column": "工作动态"
+    },
+    {
+      "title": "中国教育会计学会高校政府采购分会赴上海大学调研",
+      "url": "https://czb.shu.edu.cn/info/1121/3132.htm",
+      "date": "2025-05-28",
+      "column": "工作动态"
+    },
+    {
+      "title": "浦东新区财政局赴上海大学调研采购数字化转型工作",
+      "url": "https://czb.shu.edu.cn/info/1121/3112.htm",
+      "date": "2025-04-18",
+      "column": "工作动态"
+    },
+    {
+      "title": "上海大学在中国政府采购报年会上分享采招数字化转型经验",
+      "url": "https://czb.shu.edu.cn/info/1121/3092.htm",
+      "date": "2025-04-16",
+      "column": "工作动态"
+    },
+    {
+      "title": "南京大学、苏州大学调研团赴上海大学共话采购管理数字化转型",
+      "url": "https://czb.shu.edu.cn/info/1121/3042.htm",
+      "date": "2025-03-26",
+      "column": "工作动态"
+    },
+    {
+      "title": "上海大学电商平台操作指南",
+      "url": "https://czb.shu.edu.cn/info/1120/3012.htm",
+      "date": "2025-03-14",
+      "column": "服务指南"
+    },
+    {
+      "title": "2025年上半年采购工作预告",
+      "url": "https://czb.shu.edu.cn/info/1120/2982.htm",
+      "date": "2025-02-14",
+      "column": "服务指南"
+    },
+    {
+      "title": "高地大项目采购注意事项",
+      "url": "https://czb.shu.edu.cn/info/1120/2992.htm",
+      "date": "2025-02-14",
+      "column": "服务指南"
+    },
+    {
+      "title": "进口设备采购流程图",
+      "url": "https://czb.shu.edu.cn/info/1120/2882.htm",
+      "date": "2024-03-29",
+      "column": "服务指南"
+    },
+    {
+      "title": "政府采购需求管理工作流程",
+      "url": "https://czb.shu.edu.cn/info/1120/2892.htm",
+      "date": "2024-03-29",
+      "column": "服务指南"
+    },
+    {
+      "title": "《上海市政府集中采购目录及标准（2024年版）》解释及对照表",
+      "url": "https://czb.shu.edu.cn/info/1120/2712.htm",
+      "date": "2024-01-15",
+      "column": "服务指南"
+    },
+    {
+      "title": "上海大学采购需求管理文件模板",
+      "url": "https://czb.shu.edu.cn/info/1120/2662.htm",
+      "date": "2024-01-12",
+      "column": "服务指南"
+    },
+    {
+      "title": "2024年招标采购工作重要提示",
+      "url": "https://czb.shu.edu.cn/info/1120/2682.htm",
+      "date": "2024-01-12",
+      "column": "服务指南"
+    },
+    {
+      "title": "2024年版上海市政府集中采购目录",
+      "url": "https://czb.shu.edu.cn/info/1120/2642.htm",
+      "date": "2023-12-25",
+      "column": "服务指南"
+    },
+    {
+      "title": "关于调整采购管理系统合同审批的通知",
+      "url": "https://czb.shu.edu.cn/info/1120/2612.htm",
+      "date": "2023-12-21",
+      "column": "服务指南"
+    },
+    {
+      "title": "政府采购-框架协议采购查询说明（2024版）",
+      "url": "https://czb.shu.edu.cn/info/1120/2522.htm",
+      "date": "2023-09-14",
+      "column": "服务指南"
+    },
+    {
+      "title": "市政府采购中心到上海大学调研政府采购工作",
+      "url": "https://czb.shu.edu.cn/info/1121/2301.htm",
+      "date": "2023-05-17",
+      "column": "工作动态"
+    },
+    {
+      "title": "采购与招标管理办公室赴西安交通大学调研交流",
+      "url": "https://czb.shu.edu.cn/info/1121/2251.htm",
+      "date": "2023-04-27",
+      "column": "工作动态"
+    },
+    {
+      "title": "采购与招标管理办公室一行赴陕西师范大学调研采购工作",
+      "url": "https://czb.shu.edu.cn/info/1121/2261.htm",
+      "date": "2023-04-27",
+      "column": "工作动态"
+    },
+    {
+      "title": "采购与招标管理办公室赴中山大学调研交流",
+      "url": "https://czb.shu.edu.cn/info/1121/2281.htm",
+      "date": "2023-04-27",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员部署会",
+      "url": "https://czb.shu.edu.cn/info/1121/2211.htm",
+      "date": "2023-04-26",
+      "column": "工作动态"
+    },
+    {
+      "title": "采购与招标管理办公室一行赴华东理工大学调研采购工作",
+      "url": "https://czb.shu.edu.cn/info/1121/2231.htm",
+      "date": "2023-04-26",
+      "column": "工作动态"
+    },
+    {
+      "title": "兄弟高校调研我校采购工作，共谋采购高质量发展",
+      "url": "https://czb.shu.edu.cn/info/1121/2191.htm",
+      "date": "2023-04-23",
+      "column": "工作动态"
+    },
+    {
+      "title": "浦东新区财政局领导一行调研上海大学采购管理工作",
+      "url": "https://czb.shu.edu.cn/info/1121/2161.htm",
+      "date": "2023-03-03",
+      "column": "工作动态"
+    },
+    {
+      "title": "《上海科技报》打造高校采购的数字化“应用场景” ——上海大学摘得“中国政府采购奖•年度创新奖”",
+      "url": "https://czb.shu.edu.cn/info/1121/2141.htm",
+      "date": "2023-02-22",
+      "column": "工作动态"
+    },
+    {
+      "title": "《中国政府采购报》上海大学“加码”供应商监督管理",
+      "url": "https://czb.shu.edu.cn/info/1121/2151.htm",
+      "date": "2023-02-22",
+      "column": "工作动态"
+    },
+    {
+      "title": "上海大学荣获“中国政府采购奖•年度创新奖”",
+      "url": "https://czb.shu.edu.cn/info/1121/2131.htm",
+      "date": "2023-02-17",
+      "column": "工作动态"
+    },
+    {
+      "title": "上海海事大学资产与实验室管理处一行调研我校采购工作",
+      "url": "https://czb.shu.edu.cn/info/1121/2098.htm",
+      "date": "2022-09-24",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办支部集体学习《习近平谈治国理政》第四卷",
+      "url": "https://czb.shu.edu.cn/info/1121/2092.htm",
+      "date": "2022-09-16",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部集体学习习近平总书记在省部级主要领导干部专题研讨班上的重要讲话精神",
+      "url": "https://czb.shu.edu.cn/info/1121/2090.htm",
+      "date": "2022-09-13",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部组织开展“学党章，践宗旨”主题党日活动",
+      "url": "https://czb.shu.edu.cn/info/1121/2088.htm",
+      "date": "2022-09-09",
+      "column": "工作动态"
+    },
+    {
+      "title": "暑期工作进行时：采招办全力推进高水平大学建设项目",
+      "url": "https://czb.shu.edu.cn/info/1121/2078.htm",
+      "date": "2022-08-09",
+      "column": "工作动态"
+    },
+    {
+      "title": "以高质量党建引领高效治理",
+      "url": "https://czb.shu.edu.cn/info/1121/2064.htm",
+      "date": "2022-07-01",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办支部组织庆祝建党101周年主题党日活动",
+      "url": "https://czb.shu.edu.cn/info/1121/2066.htm",
+      "date": "2022-07-01",
+      "column": "工作动态"
+    },
+    {
+      "title": "开展党风廉政教育 以案为鉴警钟长鸣",
+      "url": "https://czb.shu.edu.cn/info/1121/2059.htm",
+      "date": "2022-06-30",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部组织专题学习贯彻党代会精神主题党日活动",
+      "url": "https://czb.shu.edu.cn/info/1121/2061.htm",
+      "date": "2022-06-30",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部热议中国共产党上海市第十二次代表大会报告",
+      "url": "https://czb.shu.edu.cn/info/1121/2058.htm",
+      "date": "2022-06-27",
+      "column": "工作动态"
+    },
+    {
+      "title": "微光汇聚，同心抗疫——采招办党支部战疫纪实",
+      "url": "https://czb.shu.edu.cn/info/1121/2044.htm",
+      "date": "2022-05-12",
+      "column": "工作动态"
+    },
+    {
+      "title": "上大迅采：疫情防控下的采购数字化解决方案",
+      "url": "https://czb.shu.edu.cn/info/1121/2043.htm",
+      "date": "2022-05-10",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部深入学习贯彻中央政治局常委会和市委常委扩大会精神",
+      "url": "https://czb.shu.edu.cn/info/1121/2041.htm",
+      "date": "2022-05-06",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部认真学习习近平总书记考察中国人民大学重要讲话精神",
+      "url": "https://czb.shu.edu.cn/info/1121/2038.htm",
+      "date": "2022-04-28",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部召开疫情防控专题组织生活会",
+      "url": "https://czb.shu.edu.cn/info/1121/2028.htm",
+      "date": "2022-04-08",
+      "column": "工作动态"
+    },
+    {
+      "title": "让党旗在疫情防控一线高高飘扬 ——采购与招标管理办公室党支部开展主题党日",
+      "url": "https://czb.shu.edu.cn/info/1121/2018.htm",
+      "date": "2022-03-13",
+      "column": "工作动态"
+    },
+    {
+      "title": "【党课开讲啦！】采招办党支部开展支部书记讲党课活动",
+      "url": "https://czb.shu.edu.cn/info/1121/1998.htm",
+      "date": "2021-12-15",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办党支部组织党史学习教育第十次集中学习",
+      "url": "https://czb.shu.edu.cn/info/1121/1988.htm",
+      "date": "2021-11-22",
+      "column": "工作动态"
+    },
+    {
+      "title": "采招办支部认真学习并热议党的十九届六中全会精神",
+      "url": "https://czb.shu.edu.cn/info/1121/1986.htm",
+      "date": "2021-11-15",
+      "column": "工作动态"
+    },
+    {
+      "title": "有关“十四五”期间进口设备采购清单调整的提示",
+      "url": "https://czb.shu.edu.cn/info/1120/1985.htm",
+      "date": "2021-11-10",
+      "column": "服务指南"
+    },
+    {
+      "title": "关于我校进口设备采购环节中相关警示注意事项的通告",
+      "url": "https://czb.shu.edu.cn/info/1120/1861.htm",
+      "date": "2021-04-07",
+      "column": "服务指南"
+    },
+    {
+      "title": "上海大学采购行为负面清单",
+      "url": "https://czb.shu.edu.cn/info/1120/1839.htm",
+      "date": "2021-03-17",
+      "column": "服务指南"
+    },
+    {
+      "title": "上海大学采购红线",
+      "url": "https://czb.shu.edu.cn/info/1120/1841.htm",
+      "date": "2021-03-17",
+      "column": "服务指南"
+    },
+    {
+      "title": "上海大学采购须知",
+      "url": "https://czb.shu.edu.cn/info/1120/1842.htm",
+      "date": "2021-03-17",
+      "column": "服务指南"
+    },
+    {
+      "title": "采购流程和报销提示",
+      "url": "https://czb.shu.edu.cn/info/1120/1806.htm",
+      "date": "2021-01-12",
+      "column": "服务指南"
+    },
+    {
+      "title": "2021年政府集中采购目录及标准解读",
+      "url": "https://czb.shu.edu.cn/info/1120/1807.htm",
+      "date": "2021-01-12",
+      "column": "服务指南"
+    },
+    {
+      "title": "关于转发上海市财政局《关于印发＜上海市政府集中采购目录及标准（2021年版）＞的通知》的通知",
+      "url": "https://czb.shu.edu.cn/info/1120/1808.htm",
+      "date": "2020-12-23",
+      "column": "服务指南"
+    },
+    {
+      "title": "服务类合同（参考模板）",
+      "url": "https://czb.shu.edu.cn/info/1120/1819.htm",
+      "date": "2020-12-03",
+      "column": "服务指南"
+    },
+    {
+      "title": "货物类合同（参考模板）",
+      "url": "https://czb.shu.edu.cn/info/1120/1820.htm",
+      "date": "2020-12-03",
+      "column": "服务指南"
+    },
+    {
+      "title": "2019年度上海大学宝山校区基础修缮项目- 宝山校区F楼、M楼、南5楼家具搬运服务中标公告",
+      "url": "https://czb.shu.edu.cn/xsxmfmn.pdf",
+      "date": "2020-07-30",
+      "column": "成交公告"
+    },
+    {
+      "title": "2019年度上海大学宝山校区基础修缮项目-电子班牌及控电设备采购安装工程中标公告",
+      "url": "https://czb.shu.edu.cn/dzbp.pdf",
+      "date": "2020-07-15",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学宝山校区J区足球场地基础设施维修中标公告",
+      "url": "https://czb.shu.edu.cn/jqzqc.pdf",
+      "date": "2020-07-15",
+      "column": "成交公告"
+    },
+    {
+      "title": "2019年度上海大学宝山校区基础修缮项目二标段-宝山校区实验室改造及网络提升弱电工程中标公告",
+      "url": "https://czb.shu.edu.cn/2019ebd.pdf",
+      "date": "2020-07-08",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海建设工程中标结果公告",
+      "url": "https://czb.shu.edu.cn/432.png",
+      "date": "2020-06-22",
+      "column": "成交公告"
+    },
+    {
+      "title": "2019年度上海大学嘉定校区基础修缮项目消防工程施工招标项目（项目编号：19402208）的招标公告",
+      "url": "https://czb.shu.edu.cn/xfgc.pdf",
+      "date": "2020-06-19",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海市建设工程施工招标中标候选人公示",
+      "url": "https://czb.shu.edu.cn/jzgc.pdf",
+      "date": "2020-06-17",
+      "column": "成交公告"
+    },
+    {
+      "title": "关于上海大学微电子学院装饰装修工程房屋安全检测竞争性磋商招标项目的成交结果公告",
+      "url": "https://czb.shu.edu.cn/wdzxyzszxfwaqjc.pdf",
+      "date": "2020-06-04",
+      "column": "成交公告"
+    },
+    {
+      "title": "关于上海大学微电子学院装饰装修工程房屋施工监理竞争性磋商招标项目的成交结果公告",
+      "url": "https://czb.shu.edu.cn/wdzxyzxzsgcfwsgjl.pdf",
+      "date": "2020-06-04",
+      "column": "成交公告"
+    },
+    {
+      "title": "嘉定校区2019年度校园基础修缮及功能提升10kv系统改造采购项目招标公告",
+      "url": "https://czb.shu.edu.cn/jdxq2019xyjsxsjgnsj10kv.pdf",
+      "date": "2020-06-01",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程——第一次补充招标文件公告",
+      "url": "https://czb.shu.edu.cn/111.pdf",
+      "date": "2020-05-29",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程施工图设计文件审查服务询价公告",
+      "url": "https://czb.shu.edu.cn/SHDXWDZXYZSZXGCSGTSJWJSC.pdf",
+      "date": "2020-05-20",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程房屋施工监理竞争性磋商公告",
+      "url": "https://czb.shu.edu.cn/WDZXYZSZXGCFWSGJL.pdf",
+      "date": "2020-05-20",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程房屋安全检测的竞争性磋商公告",
+      "url": "https://czb.shu.edu.cn/WDZXYZXZSGCFWAQJC.pdf",
+      "date": "2020-05-20",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程公开招标公告信息表",
+      "url": "https://czb.shu.edu.cn/WDZXYZXGCZBXXB.pdf",
+      "date": "2020-05-14",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程项目管理竞争性磋商招标项目的成交候选人公示",
+      "url": "https://czb.shu.edu.cn/WDZXYGCZMGL.pdf",
+      "date": "2020-04-24",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学校园停车管理系统升级改造竞争性磋商成交通知书",
+      "url": "https://czb.shu.edu.cn/0821.pdf",
+      "date": "2020-04-21",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学电子束曝光系统中标结果公告",
+      "url": "https://czb.shu.edu.cn/JGdzsbgxt.pdf",
+      "date": "2019-12-16",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学激光污染物降解研究光学平台中标结果公告",
+      "url": "https://czb.shu.edu.cn/JGjgwrwjjyjgxpt.pdf",
+      "date": "2019-12-16",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学探针台中标结果公告",
+      "url": "https://czb.shu.edu.cn/JGtzt.pdf",
+      "date": "2019-12-16",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学线扫描焦点调制荧光显微镜中标结果公告",
+      "url": "https://czb.shu.edu.cn/JGxsmjdtzygxwj.pdf",
+      "date": "2019-12-16",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学多功能电磁冶金实验平台国际招标公告",
+      "url": "https://czb.shu.edu.cn/dgndcyj.pdf",
+      "date": "2019-12-16",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学高强梯度磁场国际招标公告",
+      "url": "https://czb.shu.edu.cn/gqdcc.pdf",
+      "date": "2019-12-16",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学上海美术学院南院房屋租赁服务的公开招标公告",
+      "url": "https://czb.shu.edu.cn/CGFWshdxmsxynyfwzl.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学教职工健康体检服务的公开招标公告",
+      "url": "https://czb.shu.edu.cn/CGshdxjzgtj.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学上海美术学院南院综合行政商务服务的招标公告",
+      "url": "https://czb.shu.edu.cn/CGshmsxynyzhxz.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "2019年度上海大学嘉定校区基础修缮项目",
+      "url": "https://czb.shu.edu.cn/GCbsxqjcxs.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "2019年度上海大学宝山校区基础修缮项目",
+      "url": "https://czb.shu.edu.cn/GCbsxqjcxs.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "2019年度上海大学宝山校区基础修缮项目二标段-宝山校区实验室改造及网络提升施工公开招标公告",
+      "url": "https://czb.shu.edu.cn/GCbsxqsysgz.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学融合信息网络内容安全平台续建的公开招标公告",
+      "url": "https://czb.shu.edu.cn/rhxxwl.pdf",
+      "date": "2019-12-13",
+      "column": "采购公告"
+    },
+    {
+      "title": "2019年度上海大学宝山校区荷球场修缮项目",
+      "url": "https://czb.shu.edu.cn/GCbsxqhqcxs.pdf",
+      "date": "2019-12-03",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学宝山校区荷球场修缮项目中标公示",
+      "url": "https://czb.shu.edu.cn/ZBGChqc.pdf",
+      "date": "2019-12-03",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学延长校区基础修缮项目（五期）施工招标中标公示",
+      "url": "https://czb.shu.edu.cn/ZBGCycxqjcxs.pdf",
+      "date": "2019-12-03",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学2019年足球系列体育服务成交公告",
+      "url": "https://czb.shu.edu.cn/GJFWzqxl.pdf",
+      "date": "2019-12-02",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学傅立叶红外光谱仪和红外显微光谱仪联机系统国际招标公告",
+      "url": "https://czb.shu.edu.cn/flyhwgpuhhwxwgpylyj.pdf",
+      "date": "2019-11-26",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学高水平大学延长校区绿色智慧示范校园（物联网）的中标公告",
+      "url": "https://czb.shu.edu.cn/GJFWlszhsfxy.pdf",
+      "date": "2019-11-13",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学宝山校区G楼五楼六楼卫生间改造中标公示",
+      "url": "https://czb.shu.edu.cn/ZBGCwsjgz.pdf",
+      "date": "2019-10-23",
+      "column": "成交公告"
+    },
+    {
+      "title": "上海大学宝山校区室外网球场灯光及配套设施改造工程中标公示",
+      "url": "https://czb.shu.edu.cn/ZBGCwqcdg.pdf",
+      "date": "2019-10-21",
+      "column": "成交公告"
+    },
+    {
+      "title": "2019年第六届上海大学生创新创业训练计划成果展竞争性磋商项目的招标公告",
+      "url": "https://czb.shu.edu.cn/CGFWshdxscxcyxljhcgz.pdf",
+      "date": "2019-08-23",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学（嘉定校区）博雅苑学生1号宿舍楼及场地改造工程竞争性磋商",
+      "url": "https://czb.shu.edu.cn/GCCGa.pdf",
+      "date": "2019-07-16",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学宝山校区美院大楼屋面维修工程竞争性磋商",
+      "url": "https://czb.shu.edu.cn/GCCGb.pdf",
+      "date": "2019-07-04",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学宝山校区伟长楼（大礼堂）钢结构屋面维修工程竞争性磋商",
+      "url": "https://czb.shu.edu.cn/GCCGc.pdf",
+      "date": "2019-07-04",
+      "column": "采购公告"
+    },
+    {
+      "title": "上海大学校本部水表安装工程竞争性磋商公告",
+      "url": "https://czb.shu.edu.cn/GCCGd.pdf",
+      "date": "2019-07-04",
+      "column": "采购公告"
+    }
+  ]
+}

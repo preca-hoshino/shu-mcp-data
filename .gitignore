@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+*.egg
+*.so
+
+# 测试 & 覆盖率
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# 类型检查
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

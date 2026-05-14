@@ -1,0 +1,655 @@
+{
+  "domain": "music.shu.edu.cn",
+  "department": "上海大学音乐学院",
+  "type": "04",
+  "crawl_time": "20260513_175610",
+  "total_articles": 107,
+  "columns": {
+    "通知公告": 27,
+    "热点新闻": 80
+  },
+  "articles": [
+    {
+      "title": "音乐学院2026年推荐应届优秀本科毕业生免试攻读硕士学位研究生名单公示",
+      "url": "https://music.shu.edu.cn/info/1175/5189.htm",
+      "date": "2025-09-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "音乐学院党委关于校第四届党委第一轮巡察集中整改进展情况的通报",
+      "url": "https://music.shu.edu.cn/info/1175/5159.htm",
+      "date": "2025-05-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "结束巡察进驻公告",
+      "url": "https://music.shu.edu.cn/info/1175/5139.htm",
+      "date": "2024-11-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "校党委第三巡察组巡察音乐学院党委、体育学院党委进驻动员会召开",
+      "url": "https://music.shu.edu.cn/info/1175/5129.htm",
+      "date": "2024-10-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "音乐学院2025年推荐应届优秀本科毕业生免试攻读硕士学位研究生名单公示",
+      "url": "https://music.shu.edu.cn/info/1175/5099.htm",
+      "date": "2024-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2024年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4979.htm",
+      "date": "2023-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "音乐学院2024 年推荐应届优秀本科毕业生免试攻读硕士学位研究生名单公示",
+      "url": "https://music.shu.edu.cn/info/1175/4969.htm",
+      "date": "2023-09-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2024年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4959.htm",
+      "date": "2023-09-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2023-2024学年秋季学期音乐素质教育课程——音乐会系列课程安排",
+      "url": "https://music.shu.edu.cn/info/1173/4939.htm",
+      "date": "2023-09-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院2023年研究生招生考试复试工作办法",
+      "url": "https://music.shu.edu.cn/info/1175/4888.htm",
+      "date": "2023-03-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022-2023学年春季学期音乐素质教育课程——音乐会系列",
+      "url": "https://music.shu.edu.cn/info/1173/4878.htm",
+      "date": "2023-03-28",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院2023年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4675.htm",
+      "date": "2022-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022-2023学年秋季学期音乐素质教育课程——音乐会系列课程安排",
+      "url": "https://music.shu.edu.cn/info/1173/4674.htm",
+      "date": "2022-09-21",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院2023年推荐应届优秀本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4671.htm",
+      "date": "2022-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "中国教育工会上海大学委员会为音院老师送上教师节祝福",
+      "url": "https://music.shu.edu.cn/info/1173/4644.htm",
+      "date": "2021-11-03",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院2022年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4634.htm",
+      "date": "2021-09-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2022年推荐应届优秀本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4632.htm",
+      "date": "2021-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2020年春季学期音乐素质教育课程——音乐会系列",
+      "url": "https://music.shu.edu.cn/info/1173/4621.htm",
+      "date": "2021-04-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院2020年冬季学期音乐素质教育课程——音乐会系列",
+      "url": "https://music.shu.edu.cn/info/1173/4592.htm",
+      "date": "2020-11-20",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2020年音乐学院研究生国家奖学金评审公示",
+      "url": "https://music.shu.edu.cn/info/1175/4582.htm",
+      "date": "2020-10-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2021年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4561.htm",
+      "date": "2020-09-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2021年推荐应届优秀本科毕业生免试攻读硕士学位名单公示",
+      "url": "https://music.shu.edu.cn/info/1175/4572.htm",
+      "date": "2020-09-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2021年推荐应届优秀本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4554.htm",
+      "date": "2020-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020至2021年秋季学期素质教育音乐会安排",
+      "url": "https://music.shu.edu.cn/info/1173/4542.htm",
+      "date": "2020-09-21",
+      "column": "热点新闻"
+    },
+    {
+      "title": "公  示",
+      "url": "https://music.shu.edu.cn/info/1175/4511.htm",
+      "date": "2020-08-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "音乐学院直属党总支委员候选人预备人选公示",
+      "url": "https://music.shu.edu.cn/info/1175/4494.htm",
+      "date": "2020-06-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "校党委第四巡察组向音乐学院直属党总支反馈巡察情况",
+      "url": "https://music.shu.edu.cn/info/1173/3776.htm",
+      "date": "2020-05-12",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院2020年研究生招生复试工作办法",
+      "url": "https://music.shu.edu.cn/info/1175/4046.htm",
+      "date": "2020-05-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "《他是“最平凡”》、《别哭武汉 愿你平安》上海大学音乐学院同心战“疫”、“隔空合创”新歌",
+      "url": "https://music.shu.edu.cn/info/1173/3775.htm",
+      "date": "2020-02-19",
+      "column": "热点新闻"
+    },
+    {
+      "title": "一场唯美的视听盛宴在上海大学伟长楼落下帷幕——“不忘初心，砥砺前行”2019“泮池之声”新年音乐会隆重献演",
+      "url": "https://music.shu.edu.cn/info/1173/3729.htm",
+      "date": "2019-12-30",
+      "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院院长王勇当选上海音乐家协会新一届理事会副主席",
+      "url": "https://music.shu.edu.cn/info/1173/3728.htm",
+      "date": "2019-12-09",
+      "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院召开巡察工作动员会",
+      "url": "https://music.shu.edu.cn/info/1173/3727.htm",
+      "date": "2019-12-04",
+      "column": "热点新闻"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://music.shu.edu.cn/info/1175/4045.htm",
+      "date": "2019-12-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "2019至2020年冬季学期素质教育音乐会安排",
+      "url": "https://music.shu.edu.cn/info/1173/3774.htm",
+      "date": "2019-11-25",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2019年音乐学院研究生学业奖学金评审公示",
+      "url": "https://music.shu.edu.cn/info/1175/4043.htm",
+      "date": "2019-10-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "2019年音乐学院研究生国家奖学金评审公示",
+      "url": "https://music.shu.edu.cn/info/1175/4044.htm",
+      "date": "2019-10-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2020年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4042.htm",
+      "date": "2019-09-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2020年推荐应届优秀本科毕业生免试攻读硕士学位名单公示",
+      "url": "https://music.shu.edu.cn/info/1175/4041.htm",
+      "date": "2019-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2020年推荐应届优秀本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/4040.htm",
+      "date": "2019-09-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018至2019学年音乐学院年度考核优秀人员名单公示",
+      "url": "https://music.shu.edu.cn/info/1175/4039.htm",
+      "date": "2019-07-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "美国瓦尔普莱索大学Valparaiso University音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3726.htm",
+      "date": "2019-06-04",
+      "column": "热点新闻"
+    },
+    {
+      "title": "武汉音乐学院郑荣达教授“音色的形成原理及其可动性”学术讲座成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3725.htm",
+      "date": "2019-05-27",
+      "column": "热点新闻"
+    },
+    {
+      "title": "格莱美提名指挥家James Jordan到我院访问",
+      "url": "https://music.shu.edu.cn/info/1173/3723.htm",
+      "date": "2019-05-24",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“刘氏三杰”传人—— 刘育熙教授小提琴音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3724.htm",
+      "date": "2019-05-24",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“管弦丝竹醉东风”——上大音院“上海之春”开放周第二场音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3714.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“六弦的邀约”——2019吉他名家专场音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3715.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣王黎从教三十二年师生音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3716.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣王石磊师生中国艺术歌曲音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3717.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“来自汉堡浪漫的问候”音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3718.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣台湾师范大学与上海大学音乐学院室内乐交流音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3719.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣陈琦玲长笛室内音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3720.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣鳟鱼五重奏室内乐音乐会圆满举办",
+      "url": "https://music.shu.edu.cn/info/1173/3721.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“我爱你，中国”致公党音乐家与上大统战系统艺术家庆祝新中国成立70周年音乐会在我校隆重举行",
+      "url": "https://music.shu.edu.cn/info/1173/3722.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣中德国际青少年钢琴邀请赛德国选手回访音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3773.htm",
+      "date": "2019-05-08",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣香港演艺学院洪嘉扬大提琴独奏音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3712.htm",
+      "date": "2019-04-23",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣香港演艺学院与上海大学音乐学院师生钢琴交流音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3713.htm",
+      "date": "2019-04-23",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣用音乐吟唱对祖国的爱——上大音院“上海之春”开放周首场演出圆满举办",
+      "url": "https://music.shu.edu.cn/info/1173/3711.htm",
+      "date": "2019-04-19",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣上海大学弦乐团巴赫勃兰登堡专场音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3685.htm",
+      "date": "2018-06-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣王石磊苏俄歌曲专场音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3686.htm",
+      "date": "2018-06-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“浪漫小提琴与钢琴之夜”成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3687.htm",
+      "date": "2018-06-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“徐婷大提琴音乐会”成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3688.htm",
+      "date": "2018-06-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“怡情雅作”音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3689.htm",
+      "date": "2018-06-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣台湾师范大学CROss木管五重奏与上海大学铜管五重奏交流音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3690.htm",
+      "date": "2018-06-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学艺术团赴法国贝尔福世界大学生音乐节演出圆满成功",
+      "url": "https://music.shu.edu.cn/info/1173/3684.htm",
+      "date": "2018-05-25",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“一起燃爆爵士乐”法国巴黎爵士乐讲座音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3683.htm",
+      "date": "2018-05-09",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“纪念一位伟大的艺术家”——柴可夫斯基钢琴三重奏音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3681.htm",
+      "date": "2018-05-07",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海之春∣“中国民族器乐乐种形成和发展中的若干问题”讲座综述",
+      "url": "https://music.shu.edu.cn/info/1173/3682.htm",
+      "date": "2018-05-07",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“‘音乐与心理’音乐融化心灵在正念”专题讲座音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3651.htm",
+      "date": "2017-05-19",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“诗人的歌”首届中国上海国际大学生钢琴比赛获奖选手音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3648.htm",
+      "date": "2017-05-16",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“国乐飘香”民乐专场音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3649.htm",
+      "date": "2017-05-16",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“心中的咏叹”声乐专场音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3650.htm",
+      "date": "2017-05-16",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“弦动我心”上海大学弦乐团音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3647.htm",
+      "date": "2017-05-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“亲情中华”上海老歌三人行讲座音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3642.htm",
+      "date": "2017-05-11",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“指尖舞琴乐，律音蹈心声”钢琴重奏音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3643.htm",
+      "date": "2017-05-11",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办旅美钢琴家孙梅庭钢琴大师班",
+      "url": "https://music.shu.edu.cn/info/1173/3644.htm",
+      "date": "2017-05-11",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周成功举办“诠释六弦琴”吉他专场音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3645.htm",
+      "date": "2017-05-11",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“时代音画”第六讲、七讲联袂上演：以20世纪五十年的时间为笔，勾勒音画新篇章",
+      "url": "https://music.shu.edu.cn/info/1173/3646.htm",
+      "date": "2017-05-11",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际艺术节，上大音乐学院素质教育成果展示周首场讲座“琴弦上的力学”——叶志明教授讲座成功开讲",
+      "url": "https://music.shu.edu.cn/info/1173/3639.htm",
+      "date": "2017-05-10",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际艺术节，上大音乐学院素质教育成果展示周首场音乐会“‘亲情中华’旅美钢琴家孙梅庭钢琴独奏音乐会”成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3640.htm",
+      "date": "2017-05-10",
+      "column": "热点新闻"
+    },
+    {
+      "title": "第34届上海之春国际艺术节，上大音乐学院素质教育成果展示周举办“巴扬与室内乐”方璇博士专题讲座",
+      "url": "https://music.shu.edu.cn/info/1173/3641.htm",
+      "date": "2017-05-10",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“时代音画”第四讲：“中国音乐如何革故鼎新”",
+      "url": "https://music.shu.edu.cn/info/1173/3637.htm",
+      "date": "2017-05-09",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“时代音画”第五讲：“烽火岁月”中唯有音乐呐喊出时代的“最强音”",
+      "url": "https://music.shu.edu.cn/info/1173/3638.htm",
+      "date": "2017-05-09",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“时代音画”的第三幅面庞：九首国歌“命运”的辗转透射出民族屈辱与自强的轨迹",
+      "url": "https://music.shu.edu.cn/info/1173/3636.htm",
+      "date": "2017-04-20",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学弦乐团于上海大剧院参演中职院校学生讲座音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3634.htm",
+      "date": "2017-04-18",
+      "column": "热点新闻"
+    },
+    {
+      "title": "澳大利亚华裔大提琴家何烨联大提琴独奏音乐会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3635.htm",
+      "date": "2017-04-18",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学-澳门科技大学交流音乐会在音乐学院成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3633.htm",
+      "date": "2017-04-17",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“时代音画”的第二次美丽“邂逅”：耳朵与双眼相交相织 解密中国文化密码",
+      "url": "https://music.shu.edu.cn/info/1173/3632.htm",
+      "date": "2017-04-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“今夜因贝九而不眠”——上海大学合唱团参演2015年上海学生新年音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3535.htm",
+      "date": "2015-02-02",
+      "column": "热点新闻"
+    },
+    {
+      "title": "聆听大师课堂，感受音乐魅力—听英国钢琴家查尔斯•威芬大师课有感",
+      "url": "https://music.shu.edu.cn/info/1173/3534.htm",
+      "date": "2015-01-20",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2015上海大学“泮池之声•新年音乐会”隆重献演伟长楼",
+      "url": "https://music.shu.edu.cn/info/1173/3533.htm",
+      "date": "2015-01-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院成功举办“音乐素质教育课程——音乐会系列（十七）舞蹈专场”",
+      "url": "https://music.shu.edu.cn/info/1173/3532.htm",
+      "date": "2015-01-13",
+      "column": "热点新闻"
+    },
+    {
+      "title": "英国巴斯斯巴大学音乐与表演艺术学院与上海大学音乐学院交流演出成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3756.htm",
+      "date": "2015-01-13",
+      "column": "热点新闻"
+    },
+    {
+      "title": "牵手星星的孩子-2015新年音乐会在我院奏响",
+      "url": "https://music.shu.edu.cn/info/1173/3755.htm",
+      "date": "2014-12-29",
+      "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院成功举办“音乐素质教育课程——音乐会系列(十六）：中国民族器乐作品音乐会”",
+      "url": "https://music.shu.edu.cn/info/1173/3531.htm",
+      "date": "2014-12-28",
+      "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院成功举办“音乐素质教育课程——音乐会系列(十五)：双排键电子琴音乐会”",
+      "url": "https://music.shu.edu.cn/info/1173/3530.htm",
+      "date": "2014-12-20",
+      "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院成功举办“音乐素质教育课程——音乐会系列(十四）：刘天华作品音乐会”",
+      "url": "https://music.shu.edu.cn/info/1173/3529.htm",
+      "date": "2014-12-13",
+      "column": "热点新闻"
+    },
+    {
+      "title": "美国青年大提琴家Riona•Anthony演奏会成功举行",
+      "url": "https://music.shu.edu.cn/info/1173/3754.htm",
+      "date": "2014-12-12",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2014年“泮池之声”新年音乐会演出幕后的故事之手风琴、二胡和琵琶三重奏《母亲》篇",
+      "url": "https://music.shu.edu.cn/info/1173/3487.htm",
+      "date": "2013-12-24",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2014年“泮池之声”新年音乐会演出幕后的故事之女声独唱《上大——遇到你是我的缘》篇",
+      "url": "https://music.shu.edu.cn/info/1173/3488.htm",
+      "date": "2013-12-24",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2014“泮池之声”新年音乐会隆重献演上海大学伟长楼",
+      "url": "https://music.shu.edu.cn/info/1173/3486.htm",
+      "date": "2013-12-23",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院举行2014年科研项目申报研讨会",
+      "url": "https://music.shu.edu.cn/info/1173/3485.htm",
+      "date": "2013-12-16",
+      "column": "热点新闻"
+    },
+    {
+      "title": "《张口天和她的朋友们——黑管、大提、钢琴三重奏音乐会》成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3484.htm",
+      "date": "2013-12-11",
+      "column": "热点新闻"
+    },
+    {
+      "title": "2013“校园艺术家”陈遇安钢琴独奏音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3483.htm",
+      "date": "2013-12-06",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海市欧美同学会百年庆典音乐会在上海大学伟长楼奏响",
+      "url": "https://music.shu.edu.cn/info/1173/3733.htm",
+      "date": "2013-12-04",
+      "column": "热点新闻"
+    },
+    {
+      "title": "Sara Davis Buechner女士钢琴独奏音乐会成功举办",
+      "url": "https://music.shu.edu.cn/info/1173/3482.htm",
+      "date": "2013-12-02",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海音乐学院交响管乐团在我校成功举办专场演出",
+      "url": "https://music.shu.edu.cn/info/1173/3481.htm",
+      "date": "2013-11-28",
+      "column": "热点新闻"
+    },
+    {
+      "title": "中国音乐学院上海校友会在上海大学成立",
+      "url": "https://music.shu.edu.cn/info/1173/3480.htm",
+      "date": "2013-11-26",
+      "column": "热点新闻"
+    }
+  ]
+}

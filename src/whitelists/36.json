@@ -1,0 +1,16 @@
+{
+  "news.shu.edu.cn": {
+    "type": "36",
+    "department": "上海大学新闻网",
+    "pages": {
+      "index/whxx.htm": {
+        "pages": 30,
+        "column": "文化信息"
+      },
+      "index/tpxw.htm": {
+        "pages": 14,
+        "column": "图片新闻"
+      }
+    }
+  }
+}

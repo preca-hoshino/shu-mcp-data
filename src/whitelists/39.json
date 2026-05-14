@@ -1,0 +1,16 @@
+{
+  "yjszs.shu.edu.cn": {
+    "type": "39",
+    "department": "上海大学研究生招生网",
+    "pages": {
+      "cd/tzgg.htm": {
+        "pages": 5,
+        "column": "通知公告"
+      },
+      "cd/zsdt.htm": {
+        "pages": 6,
+        "column": "招生动态"
+      }
+    }
+  }
+}

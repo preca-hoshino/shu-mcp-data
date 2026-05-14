@@ -1,0 +1,772 @@
+{
+  "domain": "sjc.shu.edu.cn",
+  "department": "上海大学新闻传播学院",
+  "type": "32",
+  "crawl_time": "20260513_175610",
+  "total_articles": 126,
+  "columns": {
+    "学院公告": 58,
+    "学术讲座": 30,
+    "党务公开": 10,
+    "本科生教育": 14,
+    "媒体聚焦": 14
+  },
+  "articles": [
+    {
+      "title": "上海大学新闻传播学院2026届本科生优秀毕业生候选人评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/6259.htm",
+      "date": "2026-03-27",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2026届研究生优秀毕业生候选人评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/6269.htm",
+      "date": "2026-03-27",
+      "column": "学院公告"
+    },
+    {
+      "title": "2025年度上海大学新闻传播学院“大钟奖学金”评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/5319.htm",
+      "date": "2025-12-19",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2026年免试攻读硕士学位研究生建议推荐名单",
+      "url": "https://sjc.shu.edu.cn/info/1003/4999.htm",
+      "date": "2025-09-07",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2026年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://sjc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=4989",
+      "date": "2025-09-03",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024-2025学年上海大学研究生十佳党员标兵、十佳党建工作先进个人、十佳主题党日、优秀党员先锋、党建工作先进个人新闻传播学院推荐名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4859.htm",
+      "date": "2025-06-11",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院关于2024级上海大学大类学生优秀学生、优秀学生干部拟推荐名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4789.htm",
+      "date": "2025-05-19",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024年度上海大学新闻传播学院“奥致奥奖学金”评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4799.htm",
+      "date": "2025-05-19",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024年度上海大学百名优秀团员、五四红旗团支部新闻传播学院推荐名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4629.htm",
+      "date": "2025-04-15",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2024-2025学年本科生校长奖学金初评结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4599.htm",
+      "date": "2025-04-10",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2025年度本科生优秀毕业生评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4609.htm",
+      "date": "2025-04-10",
+      "column": "学院公告"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://sjc.shu.edu.cn/info/1003/4579.htm",
+      "date": "2025-04-07",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2025年硕士研究生统考招生复试方案",
+      "url": "https://sjc.shu.edu.cn/info/1003/4499.htm",
+      "date": "2025-03-24",
+      "column": "学院公告"
+    },
+    {
+      "title": "2025届上海大学新闻传播学院研究生优秀毕业生候选人评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4409.htm",
+      "date": "2025-03-12",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024年度上海大学新闻传播学院“大钟奖学金”评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/4259.htm",
+      "date": "2024-12-20",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于CINEMA 4D（简称 C4D）、RED GIANT、 REDSHIFT、ZBRUSH等系列软件排查和停止使用的通知",
+      "url": "https://sjc.shu.edu.cn/info/1003/4149.htm",
+      "date": "2024-11-18",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024 年度“大黄山项目”专题项目立项结果公布",
+      "url": "https://sjc.shu.edu.cn/info/1003/4039.htm",
+      "date": "2024-10-31",
+      "column": "学院公告"
+    },
+    {
+      "title": "两个结合与新时代中国特色新闻话语建构——第三届上海大学马克思主义新闻学术年会暨研究生论坛",
+      "url": "https://sjc.shu.edu.cn/info/1003/4059.htm",
+      "date": "2024-10-31",
+      "column": "学院公告"
+    },
+    {
+      "title": "第五届全国会展策划创意大赛举办时间推迟通知",
+      "url": "https://sjc.shu.edu.cn/info/1003/4019.htm",
+      "date": "2024-10-23",
+      "column": "学院公告"
+    },
+    {
+      "title": "中文期刊论文发表的学术规范与写作",
+      "url": "https://sjc.shu.edu.cn/info/1008/3939.htm",
+      "date": "2024-10-15",
+      "column": "学术讲座"
+    },
+    {
+      "title": "健康、环境与科技传播领域的实证研究选题与论文发表",
+      "url": "https://sjc.shu.edu.cn/info/1008/3949.htm",
+      "date": "2024-10-15",
+      "column": "学术讲座"
+    },
+    {
+      "title": "关于2024上海国际大学生智能媒体论坛评审结果的公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3899.htm",
+      "date": "2024-10-14",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于2024上海国际大学生智能媒体节 第六届“卓越杯”智能媒体作品大赛评审结果的公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3909.htm",
+      "date": "2024-10-14",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院接收2025级推荐免试攻读研究生工作方案",
+      "url": "https://sjc.shu.edu.cn/info/1003/3859.htm",
+      "date": "2024-09-24",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024年度“大黄山项目”专题研究课题指南",
+      "url": "https://sjc.shu.edu.cn/info/1003/3709.htm",
+      "date": "2024-07-04",
+      "column": "学院公告"
+    },
+    {
+      "title": "元宇宙出版联合研发中心与出版单位项目合作公告",
+      "url": "https://sjc.shu.edu.cn/info/1003/3729.htm",
+      "date": "2024-07-04",
+      "column": "学院公告"
+    },
+    {
+      "title": "“守党纪践初心 正学风铸党魂”上海大学新闻传播学院党纪学习教育暨“迎七一”系列活动顺利开展",
+      "url": "https://sjc.shu.edu.cn/info/1002/3649.htm",
+      "date": "2024-06-18",
+      "column": "党务公开"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年面向港澳台研究生招生复试工作方案",
+      "url": "https://sjc.shu.edu.cn/info/1003/3639.htm",
+      "date": "2024-06-14",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院党委召开党员大会选举出席学校第四次党代会代表",
+      "url": "https://sjc.shu.edu.cn/info/1002/3599.htm",
+      "date": "2024-06-08",
+      "column": "党务公开"
+    },
+    {
+      "title": "2023-2024学年上海大学研究生十佳党员标兵、十佳党建工作先进个人、优秀党员先锋、党建工作先进个人新闻传播学院推荐名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3559.htm",
+      "date": "2024-06-04",
+      "column": "学院公告"
+    },
+    {
+      "title": "讲座预告：钟布——《AI 想象：塑造身份融合与社会认知》",
+      "url": "https://sjc.shu.edu.cn/info/1008/3519.htm",
+      "date": "2024-05-27",
+      "column": "学术讲座"
+    },
+    {
+      "title": "讲座预告：周树华《主观感知与媒体效果》",
+      "url": "https://sjc.shu.edu.cn/info/1008/3529.htm",
+      "date": "2024-05-27",
+      "column": "学术讲座"
+    },
+    {
+      "title": "讲座预告：亨利∙詹金斯《想象的家园、泡泡玛特(Pop Mart)和跨文化粉丝：上海印象》",
+      "url": "https://sjc.shu.edu.cn/info/1008/3539.htm",
+      "date": "2024-05-27",
+      "column": "学术讲座"
+    },
+    {
+      "title": "国际SSCI期刊主编圆桌对话 ——上海大学智媒传播创新研究系列工作坊之二",
+      "url": "https://sjc.shu.edu.cn/info/1008/3549.htm",
+      "date": "2024-05-27",
+      "column": "学术讲座"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年招收博士研究生（申请-考核）工作方案",
+      "url": "https://sjc.shu.edu.cn/info/1003/3489.htm",
+      "date": "2024-05-10",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年博士研究生招生资格审核通过名单",
+      "url": "https://sjc.shu.edu.cn/info/1003/3499.htm",
+      "date": "2024-05-10",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2022-2023学年本科生校长奖学金 初评结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3479.htm",
+      "date": "2024-05-08",
+      "column": "学院公告"
+    },
+    {
+      "title": "2023年度上海大学新闻传播学院“奥致奥奖学金”评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3429.htm",
+      "date": "2024-04-22",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年度本科生优秀毕业生评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3439.htm",
+      "date": "2024-04-22",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024年上海大学新闻传播学院新闻与传播（非全日制）调剂招生复试须知",
+      "url": "https://sjc.shu.edu.cn/info/1003/3389.htm",
+      "date": "2024-04-07",
+      "column": "学院公告"
+    },
+    {
+      "title": "马克思主义新闻观大讲坛| 郑保卫受邀在我院作《党的十八大以来习近平创新发展马克思主义新闻观的理论贡献》专题讲座",
+      "url": "https://sjc.shu.edu.cn/info/1008/3399.htm",
+      "date": "2024-04-07",
+      "column": "学术讲座"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年硕士研究生招生调剂工作办法",
+      "url": "https://sjc.shu.edu.cn/info/1003/3379.htm",
+      "date": "2024-04-04",
+      "column": "学院公告"
+    },
+    {
+      "title": "元宇宙出版联合研发中心与出版单位项目合作公告",
+      "url": "https://sjc.shu.edu.cn/info/1003/3349.htm",
+      "date": "2024-03-29",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年硕士研究生统考招生复试方案",
+      "url": "https://sjc.shu.edu.cn/info/1003/3339.htm",
+      "date": "2024-03-25",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024届上海大学新闻传播学院研究生优秀毕业生评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3249.htm",
+      "date": "2024-01-25",
+      "column": "学院公告"
+    },
+    {
+      "title": "2023年度上海大学新闻传播学院“大钟奖学金”评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3149.htm",
+      "date": "2023-11-23",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学新闻传播学院2024年免试攻读硕士学位研究生建议推荐名单",
+      "url": "https://sjc.shu.edu.cn/info/1003/3079.htm",
+      "date": "2023-09-23",
+      "column": "学院公告"
+    },
+    {
+      "title": "2024年应届推免学生学术专长公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/3089.htm",
+      "date": "2023-09-23",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院2024年优秀应届本科毕业生推免资格遴选工作程序",
+      "url": "https://sjc.shu.edu.cn/info/1003/3049.htm",
+      "date": "2023-09-20",
+      "column": "学院公告"
+    },
+    {
+      "title": "讲座预告：激发数字劳动研究的想象力——传播政治经济学的视野",
+      "url": "https://sjc.shu.edu.cn/info/1008/2848.htm",
+      "date": "2023-06-02",
+      "column": "学术讲座"
+    },
+    {
+      "title": "讲座预告：传播学研究与学术能力培养",
+      "url": "https://sjc.shu.edu.cn/info/1008/2698.htm",
+      "date": "2023-03-17",
+      "column": "学术讲座"
+    },
+    {
+      "title": "新闻传播学院实验中心设备器材采购管理制度宣讲",
+      "url": "https://sjc.shu.edu.cn/info/1002/2687.htm",
+      "date": "2022-12-04",
+      "column": "党务公开"
+    },
+    {
+      "title": "关于上海大学新闻传播学院2021-2022学年国家奖学金与上海市奖学金初评结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2628.htm",
+      "date": "2022-09-22",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院关于2023年推荐优秀应届本科毕业生免试攻读硕士学位研究生工作的实施细则",
+      "url": "https://sjc.shu.edu.cn/info/1003/2623.htm",
+      "date": "2022-09-15",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院2023年优秀应届本科毕业生推免资格遴选工作程序",
+      "url": "https://sjc.shu.edu.cn/info/1003/2624.htm",
+      "date": "2022-09-15",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院研究生2022—2023学年党团学骨干名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2611.htm",
+      "date": "2022-08-01",
+      "column": "学院公告"
+    },
+    {
+      "title": "2021-2022学年上海大学研究生优秀党员先锋 、优秀党支部书记、十佳党员标兵、十佳党支部书记、优秀主题党日活动新闻传播学院推荐名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2593.htm",
+      "date": "2022-06-15",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院2020-2021学年本科生校长奖学金初评结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2592.htm",
+      "date": "2022-05-29",
+      "column": "学院公告"
+    },
+    {
+      "title": "2021-2022学年上海大学新闻传播学院优秀班委评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2591.htm",
+      "date": "2022-05-20",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于上海大学新闻传播学院2022年春季学期推荐优秀团员作为入党积极分子人选的名单公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2586.htm",
+      "date": "2022-05-05",
+      "column": "学院公告"
+    },
+    {
+      "title": "2022届上海大学新闻传播学院本科生优秀毕业生评审结果公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2587.htm",
+      "date": "2022-05-05",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于上海大学新闻传播学院2022年春季学期党员推荐李婷作为入党积极分子人选的公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/2584.htm",
+      "date": "2022-04-29",
+      "column": "学院公告"
+    },
+    {
+      "title": "讲座预告丨名师工作室系列讲座将在新闻传播学院上海智能媒体传播创新实验中心开讲",
+      "url": "https://sjc.shu.edu.cn/info/1008/2482.htm",
+      "date": "2021-10-11",
+      "column": "学术讲座"
+    },
+    {
+      "title": "关于新闻传播学院2019—2020学年宝钢奖学金、国家奖学金与上海市奖学金初评结果的公示",
+      "url": "https://sjc.shu.edu.cn/info/1004/2101.htm",
+      "date": "2020-07-24",
+      "column": "本科生教育"
+    },
+    {
+      "title": "【主题教育】新闻传播学院广告学系教工党支部与上海市公共卫生临床中心开展共建活动",
+      "url": "https://sjc.shu.edu.cn/info/1002/1575.htm",
+      "date": "2019-10-16",
+      "column": "党务公开"
+    },
+    {
+      "title": "关于新闻传播学院2018—2019学年国家励志奖学金初评结果的公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/1481.htm",
+      "date": "2019-09-24",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于德国新闻业的现状以及发展趋势",
+      "url": "https://sjc.shu.edu.cn/info/1008/1441.htm",
+      "date": "2019-09-18",
+      "column": "学术讲座"
+    },
+    {
+      "title": "关于新闻传播学院2018—2019学年国家奖学金与上海市奖学金初评结果的公示",
+      "url": "https://sjc.shu.edu.cn/info/1003/1437.htm",
+      "date": "2019-09-12",
+      "column": "学院公告"
+    },
+    {
+      "title": "《中国消费金融品牌2019上半年报》正式发布",
+      "url": "https://sjc.shu.edu.cn/info/1006/1408.htm",
+      "date": "2019-09-05",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "聚焦品牌定位 探索品牌创新丨中原消费金融品牌定位研讨会圆满召开",
+      "url": "https://sjc.shu.edu.cn/info/1006/1413.htm",
+      "date": "2019-09-05",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "2019年下半年常规普通话水平测试报名通知",
+      "url": "https://sjc.shu.edu.cn/info/1003/1389.htm",
+      "date": "2019-08-02",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于2019届本科生毕业设计（论文）查重操作说明",
+      "url": "https://sjc.shu.edu.cn/info/1003/1390.htm",
+      "date": "2019-08-02",
+      "column": "学院公告"
+    },
+    {
+      "title": "关于暑假期间开放自修教室的通知",
+      "url": "https://sjc.shu.edu.cn/info/1003/1392.htm",
+      "date": "2019-08-02",
+      "column": "学院公告"
+    },
+    {
+      "title": "新传军训记 I 新闻传播学院暑期“四力”实践出征仪式暨军训慰问活动顺利举行",
+      "url": "https://sjc.shu.edu.cn/info/1004/1386.htm",
+      "date": "2019-08-02",
+      "column": "本科生教育"
+    },
+    {
+      "title": "关于2019届本科生毕业设计（论文）查重操作说明",
+      "url": "https://sjc.shu.edu.cn/info/1004/1391.htm",
+      "date": "2019-08-02",
+      "column": "本科生教育"
+    },
+    {
+      "title": "新时代·新未来丨上海高校智能媒体节启动暨智媒精英夏令营开营仪式顺利举行",
+      "url": "https://sjc.shu.edu.cn/info/1006/1368.htm",
+      "date": "2019-08-02",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "新闻传播学院2019智媒精英夏令营成功举办",
+      "url": "https://sjc.shu.edu.cn/info/1008/1372.htm",
+      "date": "2019-08-02",
+      "column": "学术讲座"
+    },
+    {
+      "title": "环境传播专家Bret Shaw到新闻传播学院讲学交流",
+      "url": "https://sjc.shu.edu.cn/info/1008/1382.htm",
+      "date": "2019-08-02",
+      "column": "学术讲座"
+    },
+    {
+      "title": "美国圣家大学传播学教授Janice Hua Xu做客新闻传播学院国际传媒大师讲坛",
+      "url": "https://sjc.shu.edu.cn/info/1008/1384.htm",
+      "date": "2019-08-02",
+      "column": "学术讲座"
+    },
+    {
+      "title": "上海大学新闻传播学院德清实践基地揭牌仪式暨德清采风出征仪式成功举行",
+      "url": "https://sjc.shu.edu.cn/info/1004/1352.htm",
+      "date": "2019-07-26",
+      "column": "本科生教育"
+    },
+    {
+      "title": "新闻传播学院新闻传播系与SMG融媒体中心Knews进行党建共建签约",
+      "url": "https://sjc.shu.edu.cn/info/1006/1336.htm",
+      "date": "2019-07-26",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "媒体进课堂丨人民日报社上海分社副社长李泓冰带来精彩讲座",
+      "url": "https://sjc.shu.edu.cn/info/1008/1339.htm",
+      "date": "2019-07-26",
+      "column": "学术讲座"
+    },
+    {
+      "title": "2019国际大师讲坛丨“真相”机制与公共生活的重建——探索新的传播学理论和实践命题",
+      "url": "https://sjc.shu.edu.cn/info/1008/1345.htm",
+      "date": "2019-07-26",
+      "column": "学术讲座"
+    },
+    {
+      "title": "上海大学杰出校友、上海国际展览公司总裁为新闻传播学院学子面授机宜",
+      "url": "https://sjc.shu.edu.cn/info/1004/1266.htm",
+      "date": "2019-06-10",
+      "column": "本科生教育"
+    },
+    {
+      "title": "致敬五四丨上海高校青年演讲大赛邀你一起挥斥方遒话中国！",
+      "url": "https://sjc.shu.edu.cn/info/1004/1272.htm",
+      "date": "2019-06-10",
+      "column": "本科生教育"
+    },
+    {
+      "title": "新思享丨新闻传播学院第二期青年教师沙龙与青年学生谈学术",
+      "url": "https://sjc.shu.edu.cn/info/1004/1274.htm",
+      "date": "2019-06-10",
+      "column": "本科生教育"
+    },
+    {
+      "title": "会展行业翘楚走进课堂教新传学子如何成为优秀策展人",
+      "url": "https://sjc.shu.edu.cn/info/1004/1278.htm",
+      "date": "2019-06-10",
+      "column": "本科生教育"
+    },
+    {
+      "title": "马克思主义新闻观大讲坛丨郑保卫教授到新闻传播学院做马克思主义新闻观教育学术报告",
+      "url": "https://sjc.shu.edu.cn/info/1004/1289.htm",
+      "date": "2019-06-10",
+      "column": "本科生教育"
+    },
+    {
+      "title": "全球500强企业3M公司走进新闻传播学院课堂讲述公司品牌整合营销之道",
+      "url": "https://sjc.shu.edu.cn/info/1004/1297.htm",
+      "date": "2019-06-10",
+      "column": "本科生教育"
+    },
+    {
+      "title": "上海国际大学生广告节三方战略合作达成，上海大学作为主办单位继续助力大广节",
+      "url": "https://sjc.shu.edu.cn/info/1006/1294.htm",
+      "date": "2019-06-10",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "“新金融·新品牌”第一届中国消费金融品牌创新论坛暨中国消费金融品牌研究院揭牌仪式顺利举行",
+      "url": "https://sjc.shu.edu.cn/info/1006/1300.htm",
+      "date": "2019-06-10",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "上海大学杰出校友、上海国际展览公司总裁为新闻传播学院学子面授机宜",
+      "url": "https://sjc.shu.edu.cn/info/1008/1268.htm",
+      "date": "2019-06-10",
+      "column": "学术讲座"
+    },
+    {
+      "title": "新思享丨青年节，我们一起聊学术！",
+      "url": "https://sjc.shu.edu.cn/info/1008/1270.htm",
+      "date": "2019-06-10",
+      "column": "学术讲座"
+    },
+    {
+      "title": "新思享丨新闻传播学院第二期青年教师沙龙与青年学生谈学术",
+      "url": "https://sjc.shu.edu.cn/info/1008/1275.htm",
+      "date": "2019-06-10",
+      "column": "学术讲座"
+    },
+    {
+      "title": "会展行业翘楚走进课堂教新传学子如何成为优秀策展人",
+      "url": "https://sjc.shu.edu.cn/info/1008/1276.htm",
+      "date": "2019-06-10",
+      "column": "学术讲座"
+    },
+    {
+      "title": "马克思主义新闻观大讲坛丨郑保卫教授到新闻传播学院做马克思主义新闻观教育学术报告",
+      "url": "https://sjc.shu.edu.cn/info/1008/1291.htm",
+      "date": "2019-06-10",
+      "column": "学术讲座"
+    },
+    {
+      "title": "全球500强企业3M公司走进新闻传播学院课堂讲述公司品牌整合营销之道",
+      "url": "https://sjc.shu.edu.cn/info/1008/1298.htm",
+      "date": "2019-06-10",
+      "column": "学术讲座"
+    },
+    {
+      "title": "传媒大师工作坊丨中国社科院新闻与传播研究所副所长季为民为新传师生开讲",
+      "url": "https://sjc.shu.edu.cn/info/1008/1222.htm",
+      "date": "2019-05-09",
+      "column": "学术讲座"
+    },
+    {
+      "title": "业界专家与新传学子共话\"一带一路\"创新机遇",
+      "url": "https://sjc.shu.edu.cn/info/1008/1229.htm",
+      "date": "2019-05-09",
+      "column": "学术讲座"
+    },
+    {
+      "title": "卓越传媒讲坛丨澎湃新闻编辑杨深来做客新闻传播学院",
+      "url": "https://sjc.shu.edu.cn/info/1008/1235.htm",
+      "date": "2019-05-09",
+      "column": "学术讲座"
+    },
+    {
+      "title": "卓越传媒讲坛丨新时代都市报的融媒体转型新闻实践",
+      "url": "https://sjc.shu.edu.cn/info/1008/1241.htm",
+      "date": "2019-05-09",
+      "column": "学术讲座"
+    },
+    {
+      "title": "万耀企龙总裁仲刚先生走进新闻传播学院课堂带来精彩讲座",
+      "url": "https://sjc.shu.edu.cn/info/1008/1247.htm",
+      "date": "2019-05-09",
+      "column": "学术讲座"
+    },
+    {
+      "title": "2019年美国密西根州立大学“创意广告”暑期访学项目招募通知",
+      "url": "https://sjc.shu.edu.cn/info/1003/1202.htm",
+      "date": "2019-04-25",
+      "column": "学院公告"
+    },
+    {
+      "title": "上海大学朋辈分享会 | 一起来聊聊海外留学的那些事吧！",
+      "url": "https://sjc.shu.edu.cn/info/1003/1205.htm",
+      "date": "2019-04-25",
+      "column": "学院公告"
+    },
+    {
+      "title": "新闻传播学院师生聆听市委宣传部国情教育专题讲座",
+      "url": "https://sjc.shu.edu.cn/info/1006/1195.htm",
+      "date": "2019-04-25",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "会展业专家为你讲解会展场馆运营和发展",
+      "url": "https://sjc.shu.edu.cn/info/1008/1190.htm",
+      "date": "2019-04-25",
+      "column": "学术讲座"
+    },
+    {
+      "title": "国际传媒大师讲坛丨心理分析、社交媒体与大数据",
+      "url": "https://sjc.shu.edu.cn/info/1008/1200.htm",
+      "date": "2019-04-25",
+      "column": "学术讲座"
+    },
+    {
+      "title": "会展科技先行者引领上大学子走向人工智能",
+      "url": "https://sjc.shu.edu.cn/info/1008/1207.htm",
+      "date": "2019-04-25",
+      "column": "学术讲座"
+    },
+    {
+      "title": "新闻传播学院与封面传媒共商战略合作落实推进",
+      "url": "https://sjc.shu.edu.cn/info/1006/1153.htm",
+      "date": "2019-03-27",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "新闻传播学院安全管理制度",
+      "url": "https://sjc.shu.edu.cn/info/1002/1122.htm",
+      "date": "2019-03-19",
+      "column": "党务公开"
+    },
+    {
+      "title": "新闻传播学院突发事件应急预案",
+      "url": "https://sjc.shu.edu.cn/info/1002/1123.htm",
+      "date": "2019-03-19",
+      "column": "党务公开"
+    },
+    {
+      "title": "新闻传播学院假期安全工作预案",
+      "url": "https://sjc.shu.edu.cn/info/1002/1124.htm",
+      "date": "2019-03-19",
+      "column": "党务公开"
+    },
+    {
+      "title": "新闻传播学院防汛防台工作预案",
+      "url": "https://sjc.shu.edu.cn/info/1002/1125.htm",
+      "date": "2019-03-19",
+      "column": "党务公开"
+    },
+    {
+      "title": "新闻传播学院实验室突发事故防范制度及应急工作预案",
+      "url": "https://sjc.shu.edu.cn/info/1002/1126.htm",
+      "date": "2019-03-19",
+      "column": "党务公开"
+    },
+    {
+      "title": "新闻传播学院学生工作假期突发事件工作预案",
+      "url": "https://sjc.shu.edu.cn/info/1002/1127.htm",
+      "date": "2019-03-19",
+      "column": "党务公开"
+    },
+    {
+      "title": "内蒙招生丨新闻传播学院正式启动寒假返乡招生宣讲活动",
+      "url": "https://sjc.shu.edu.cn/info/1004/1063.htm",
+      "date": "2019-03-19",
+      "column": "本科生教育"
+    },
+    {
+      "title": "新闻传播学院学业发展指导中心正式揭牌成立",
+      "url": "https://sjc.shu.edu.cn/info/1004/1069.htm",
+      "date": "2019-03-19",
+      "column": "本科生教育"
+    },
+    {
+      "title": "新闻传播学院举办“自强杯”学术科技作品竞赛项目评审会",
+      "url": "https://sjc.shu.edu.cn/info/1004/1070.htm",
+      "date": "2019-03-19",
+      "column": "本科生教育"
+    },
+    {
+      "title": "新闻传播学院举办“00后眼中的改革开放”微演讲",
+      "url": "https://sjc.shu.edu.cn/info/1004/1078.htm",
+      "date": "2019-03-19",
+      "column": "本科生教育"
+    },
+    {
+      "title": "媒体进课堂 | 东方网董事长何继良分享新型主流媒体集团探索之路",
+      "url": "https://sjc.shu.edu.cn/info/1006/1066.htm",
+      "date": "2019-03-19",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "新闻传播学院开展“好记者讲好故事”进校园活动",
+      "url": "https://sjc.shu.edu.cn/info/1006/1074.htm",
+      "date": "2019-03-19",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "上海大学新闻传播学院与上海剧星传媒达成战略合作",
+      "url": "https://sjc.shu.edu.cn/info/1006/1104.htm",
+      "date": "2019-03-19",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "新闻传播学院师生参加SMG视频极客训练营启动仪式",
+      "url": "https://sjc.shu.edu.cn/info/1006/1107.htm",
+      "date": "2019-03-19",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "重磅丨封面新闻上海中心落户上海大学新闻传播学院",
+      "url": "https://sjc.shu.edu.cn/info/1006/1113.htm",
+      "date": "2019-03-19",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "万耀企龙总裁受聘为上海会展研究院特约研究员",
+      "url": "https://sjc.shu.edu.cn/info/1006/1114.htm",
+      "date": "2019-03-19",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "2019年上海大学新闻传播学院博士研究生申请考核入学方式选拔工作方案",
+      "url": "https://sjc.shu.edu.cn/info/1003/1053.htm",
+      "date": "2019-03-15",
+      "column": "学院公告"
+    }
+  ]
+}

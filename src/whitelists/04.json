@@ -1,0 +1,340 @@
+{
+  "adrichn.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学亚洲人口研究中心",
+    "pages": {
+      "sylmnr/xwdt.htm": {
+        "pages": 10,
+        "column": "新闻动态"
+      },
+      "sylmnr/rdxw.htm": {
+        "pages": 2,
+        "column": "热点新闻"
+      },
+      "sylmnr/tpxw.htm": {
+        "pages": 2,
+        "column": "图片新闻"
+      }
+    }
+  },
+  "alumni.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学校友会",
+    "pages": {
+      "xwzx/xyhxw.htm": {
+        "pages": 2015,
+        "column": "校友会新闻"
+      },
+      "xwzx/mxxw.htm": {
+        "pages": 25,
+        "column": "母校新闻"
+      },
+      "xwzx/tzgg.htm": {
+        "pages": 6,
+        "column": "通知公告"
+      },
+      "xwzx/zthd.htm": {
+        "pages": 5,
+        "column": "主题活动"
+      }
+    }
+  },
+  "asc.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学高温超导重点实验室",
+    "pages": {
+      "sjdr/yjdt.htm": {
+        "pages": 3,
+        "column": "业界动态"
+      },
+      "sjdr/hyxw.htm": {
+        "pages": 2,
+        "column": "综合新闻"
+      }
+    }
+  },
+  "dzdg.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学通信与信息工程学院电子电工实验教学中心",
+    "pages": {
+      "sylm/zxxw.htm": {
+        "pages": 2,
+        "column": "中心新闻"
+      }
+    }
+  },
+  "dwygb.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学党委研究生工作部",
+    "pages": {
+      "xwzx/tzgg.htm": {
+        "pages": 11,
+        "column": "通知公告"
+      },
+      "xwzx/xwdt.htm": {
+        "pages": 159,
+        "column": "新闻动态"
+      }
+    }
+  },
+  "math.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学理学院数学系",
+    "pages": {
+      "sylm/xshy.htm": {
+        "pages": 3,
+        "column": "学术会议"
+      },
+      "sylm/xwkd.htm": {
+        "pages": 31,
+        "column": "新闻快递"
+      },
+      "sylm/xsbg.htm": {
+        "pages": 180,
+        "column": "学术报告"
+      }
+    }
+  },
+  "fzghc.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学发展规划处",
+    "pages": {
+      "index/xwgg.htm": {
+        "pages": 23,
+        "column": "新闻通告"
+      }
+    }
+  },
+  "irctmt.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学张量与矩阵理论国际研究中心",
+    "pages": {
+      "Academic_Activities.htm": {
+        "pages": 2,
+        "column": "News"
+      }
+    }
+  },
+  "jhai.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学无人艇工程研究院",
+    "pages": {
+      "sylm/xwdt.htm": {
+        "pages": 8,
+        "column": "新闻动态"
+      }
+    }
+  },
+  "jwjc.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学纪检监察",
+    "pages": {
+      "index/gzdt.htm": {
+        "pages": 27,
+        "column": "工作动态"
+      }
+    }
+  },
+  "mec.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学微电子研究与开发中心",
+    "pages": {
+      "xwzx.htm": {
+        "pages": 7,
+        "column": ""
+      }
+    }
+  },
+  "metc.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学现代教育技术中心",
+    "pages": {
+      "zxxw.htm": {
+        "pages": 10,
+        "column": "中心新闻"
+      },
+      "zxxw/bmxw___.htm": {
+        "pages": 5,
+        "column": "部门新闻"
+      },
+      "zxxw/qbxw___.htm": {
+        "pages": 9,
+        "column": "通知公告"
+      }
+    }
+  },
+  "mgi.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学材料基因组工程研究院",
+    "pages": {
+      "index/lmzl/zhxw.htm": {
+        "pages": 7,
+        "column": "综合新闻"
+      },
+      "index/lmzl/tzgg.htm": {
+        "pages": 8,
+        "column": "通知公告"
+      },
+      "index/lmzl/kydt.htm": {
+        "pages": 9,
+        "column": "科研动态"
+      },
+      "index/lmzl/xsbg.htm": {
+        "pages": 20,
+        "column": "学术报告"
+      }
+    }
+  },
+  "ms.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学管理学院",
+    "pages": {
+      "syzl/xyxw.htm": {
+        "pages": 102,
+        "column": "学院新闻"
+      },
+      "syzl/zytz.htm": {
+        "pages": 53,
+        "column": "重要通知"
+      },
+      "syzl/xshd.htm": {
+        "pages": 35,
+        "column": "学术活动"
+      }
+    }
+  },
+  "music.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学音乐学院",
+    "pages": {
+      "xwzx/tzgg.htm": {
+        "pages": 3,
+        "column": "通知公告"
+      },
+      "xwzx/rdxw.htm": {
+        "pages": 31,
+        "column": "热点新闻"
+      },
+      "xwzx/xyxw.htm": {
+        "pages": 27,
+        "column": "学院新闻"
+      }
+    }
+  },
+  "qwc.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学钱伟长学院",
+    "pages": {
+      "xwdt.htm": {
+        "pages": 67,
+        "column": "最新动态"
+      },
+      "tzgg.htm": {
+        "pages": 28,
+        "column": "通知公告"
+      },
+      "xsbg.htm": {
+        "pages": 24,
+        "column": "学术报告"
+      }
+    }
+  },
+  "rwskc.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学人文社会科学处",
+    "pages": {
+      "syzl/tzgg.htm": {
+        "pages": 37,
+        "column": "通知公告"
+      },
+      "syzl/zxlx.htm": {
+        "pages": 5,
+        "column": "最新立项"
+      },
+      "syzl/wkdt.htm": {
+        "pages": 33,
+        "column": "文科动态"
+      }
+    }
+  },
+  "sdyywz.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学语言文字网",
+    "pages": {
+      "index/xwdt.htm": {
+        "pages": 10,
+        "column": "新闻动态"
+      },
+      "tztg.htm": {
+        "pages": 4,
+        "column": "通知通告"
+      }
+    }
+  },
+  "siamm.shu.edu.cn": {
+    "type": "04",
+    "department": "上海市应用数学和力学研究所",
+    "pages": {
+      "kxyj/Seminarxshd.htm": {
+        "pages": 3,
+        "column": "学术活动"
+      },
+      "lxsgk/xw.htm": {
+        "pages": 4,
+        "column": "新闻"
+      },
+      "lxsgk/tzgg.htm": {
+        "pages": 1,
+        "column": "公告"
+      }
+    }
+  },
+  "xgb.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学党委本科生研究生工作部本科生处",
+    "pages": {
+      "xgdt/djjb.htm": {
+        "pages": 16,
+        "column": "党建简报"
+      },
+      "xgdt/tzgg.htm": {
+        "pages": 63,
+        "column": "通知公告"
+      },
+      "xgdt/xgxw.htm": {
+        "pages": 339,
+        "column": "学工新闻"
+      }
+    }
+  },
+  "zzb.shu.edu.cn": {
+    "type": "04",
+    "department": "上海大学党委组织部（党校）",
+    "pages": {
+      "gbgz.htm": {
+        "pages": 10,
+        "column": "干部工作"
+      },
+      "djgz.htm": {
+        "pages": 12,
+        "column": "党建工作"
+      },
+      "dxgz.htm": {
+        "pages": 25,
+        "column": "党校工作"
+      },
+      "jcfc.htm": {
+        "pages": 14,
+        "column": "基层风采"
+      },
+      "llxx.htm": {
+        "pages": 4,
+        "column": "理论学习"
+      },
+      "rcgz.htm": {
+        "pages": 2,
+        "column": "人才工作"
+      }
+    }
+  }
+}

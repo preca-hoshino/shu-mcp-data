@@ -1,0 +1,16 @@
+{
+  "hbb.shu.edu.cn": {
+    "type": "25",
+    "department": "上海大学后勤保障部",
+    "pages": {
+      "hqxw.htm": {
+        "pages": 46,
+        "column": "后勤新闻"
+      },
+      "tzgg.htm": {
+        "pages": 26,
+        "column": "通知公告"
+      }
+    }
+  }
+}

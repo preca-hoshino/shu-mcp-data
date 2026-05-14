@@ -1,0 +1,24 @@
+{
+  "ce.shu.edu.cn": {
+    "type": "11",
+    "department": "上海大学土木工程系",
+    "pages": {
+      "/index/yxxw.htm": {
+        "pages": 9,
+        "column": "院系新闻"
+      },
+      "/index/tzgs.htm": {
+        "pages": 5,
+        "column": "通知公示"
+      },
+      "/index/kydt.htm": {
+        "pages": 2,
+        "column": "科研动态"
+      },
+      "/index/xsbg.htm": {
+        "pages": 5,
+        "column": "学术报告"
+      }
+    }
+  }
+}

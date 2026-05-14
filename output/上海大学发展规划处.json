@@ -1,0 +1,828 @@
+{
+  "domain": "fzghc.shu.edu.cn",
+  "department": "上海大学发展规划处",
+  "type": "04",
+  "crawl_time": "20260513_175610",
+  "total_articles": 136,
+  "columns": {
+    "新闻通告": 136
+  },
+  "articles": [
+    {
+      "title": "“青少年科创教育体系建构与探索性实践及其长效机制建设研究” 子课题一中期专家指导会顺利举行",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3455.htm",
+      "date": "2026-03-31",
+      "column": "新闻通告"
+    },
+    {
+      "title": "2025年度上海大学教育统计与评价工作表彰会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3405.htm",
+      "date": "2026-01-08",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于评选上海大学教育统计先进集体、教育统计先进个人及教育评价改革优秀案例的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3385.htm",
+      "date": "2025-12-08",
+      "column": "新闻通告"
+    },
+    {
+      "title": "适应产业需求变化的高校人才培养改革学术活动成功召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3375.htm",
+      "date": "2025-11-09",
+      "column": "新闻通告"
+    },
+    {
+      "title": "DeepSeek赋能高校创新发展暨教育统计培训会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3365.htm",
+      "date": "2025-03-10",
+      "column": "新闻通告"
+    },
+    {
+      "title": "华为云一行到访我校，共促AI赋能教育高质量发展",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3355.htm",
+      "date": "2025-02-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于2025年上海大学青年学术领导力及数字学术领导力发展（跨境研修）项目申请的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3345.htm",
+      "date": "2025-01-09",
+      "column": "新闻通告"
+    },
+    {
+      "title": "2024年度上海大学教育统计与评价工作表彰会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3325.htm",
+      "date": "2024-12-26",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校成功获批新一轮高等教育督导评价研究基地",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3305.htm",
+      "date": "2024-11-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部观看电影《志愿军：存亡之战》",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3295.htm",
+      "date": "2024-10-24",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部召开党纪学习教育总结会暨深入学习贯彻党的二十届三中全会精神辅导报告会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3245.htm",
+      "date": "2024-09-30",
+      "column": "新闻通告"
+    },
+    {
+      "title": "华知大模型技术交流研讨会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3225.htm",
+      "date": "2024-06-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "华知大模型应用场景研讨会暨战略合作协议推进落实工作会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3235.htm",
+      "date": "2024-06-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "同方知网与上海大学签署战略合作协议开启合作共赢新篇章",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3185.htm",
+      "date": "2024-04-22",
+      "column": "新闻通告"
+    },
+    {
+      "title": "大数据赋能高等教育研讨会暨支部共建活动顺利举办",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3195.htm",
+      "date": "2024-04-22",
+      "column": "新闻通告"
+    },
+    {
+      "title": "支部共建聚合力，党建引领齐发展——上海大学发规处联合党支部与材料研究所党支部、分析测试中心党支部、上善院党支部签订党建共建协议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3165.htm",
+      "date": "2023-11-12",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部举行学习贯彻习近平新时代中国特色社会主义思想主题教育专题组织生活会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3145.htm",
+      "date": "2023-09-18",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部扎实开展“七个一”活动 推进主题教育见实见效",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3155.htm",
+      "date": "2023-09-18",
+      "column": "新闻通告"
+    },
+    {
+      "title": "江西省委教育工委书记、教育厅厅长吴永明一行来校调研座谈",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3135.htm",
+      "date": "2023-09-05",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海市高校分类评价学术沙龙（第二期）在我校举行",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3134.htm",
+      "date": "2023-06-19",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处赴北京大学、清华大学、中国人民大学、北京理工大学、同方知网调研学习",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3124.htm",
+      "date": "2023-06-05",
+      "column": "新闻通告"
+    },
+    {
+      "title": "教育部教育管理信息中心调研我校大数据平台建设情况",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3114.htm",
+      "date": "2023-06-02",
+      "column": "新闻通告"
+    },
+    {
+      "title": "同方知网党委书记、董事长刘长欣一行来我校调研",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3104.htm",
+      "date": "2023-05-31",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处赴上海交通大学医学院学习调研",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3094.htm",
+      "date": "2023-05-11",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部开展结对共建  推动主题教育走深走实",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3084.htm",
+      "date": "2023-05-08",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部召开学习贯彻习近平新时代中国特色社会主义思想主题教育动员部署会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3074.htm",
+      "date": "2023-04-27",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处党支部召开党的二十大精神专题学习会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3024.htm",
+      "date": "2023-03-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校召开“高地大”项目2023年预算编制工作说明会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3014.htm",
+      "date": "2023-03-09",
+      "column": "新闻通告"
+    },
+    {
+      "title": "喜讯！上海大学成功入选“2022年度上海市教育评价改革优秀案例”",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3004.htm",
+      "date": "2023-03-02",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处联合党支部开展“奋进新征程，建功新时代”主题党日活动",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2993.htm",
+      "date": "2022-11-16",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学习党的历史，牢记初心使命——发展规划处联合党支部举行主题党日活动",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2905.htm",
+      "date": "2021-10-28",
+      "column": "新闻通告"
+    },
+    {
+      "title": "《2020上海大学可持续发展（SDGs）行动报告》正式发布！",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2907.htm",
+      "date": "2021-10-25",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校2021年教育事业统计工作启动会暨培训会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2894.htm",
+      "date": "2021-09-07",
+      "column": "新闻通告"
+    },
+    {
+      "title": "大数据赋能长三角论坛在我校顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2893.htm",
+      "date": "2021-07-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "走进中共一大纪念馆 感悟党的初心和使命——发展规划处（高教所、学术委员会秘书处）党支部参观中共一大纪念馆",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2892.htm",
+      "date": "2021-07-05",
+      "column": "新闻通告"
+    },
+    {
+      "title": "赓续红色基因  坚守育人初心——发展规划处（高教所）、学术委员会秘书处联合党支部开展党建联建活动",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2891.htm",
+      "date": "2021-06-15",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处（高教所、学术委员会秘书处）党支部举行“学党史悟初心 谋规划创一流”主题活动",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2881.htm",
+      "date": "2021-05-30",
+      "column": "新闻通告"
+    },
+    {
+      "title": "信仰的力量 教育的梦想——上海大学最新成果齐齐亮相第十八届上海教育博览会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2871.htm",
+      "date": "2021-05-23",
+      "column": "新闻通告"
+    },
+    {
+      "title": "河南科技大学发展规划处来校调研",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2851.htm",
+      "date": "2021-03-16",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学“十四五”规划前期研究重点课题成果研讨会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2821.htm",
+      "date": "2020-12-08",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发规处党支部与材料学院材料研究所教工党支部联合举办“四史”情景党课",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2711.htm",
+      "date": "2020-08-03",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我为上海大学“十四五”规划提建议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2701.htm",
+      "date": "2020-07-09",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学第二届学术委员会第七次全体会议顺利举行",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2681.htm",
+      "date": "2020-06-25",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学“十四五”发展规划重点课题研讨会召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2673.htm",
+      "date": "2020-06-15",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校2020年分类评价工作启动与培训会顺利召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2661.htm",
+      "date": "2020-06-05",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于上海大学“十四五”发展规划前期研究重点课题立项的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2641.htm",
+      "date": "2020-01-14",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于申报上海大学“十四五”发展规划前期研究课题的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2633.htm",
+      "date": "2019-12-23",
+      "column": "新闻通告"
+    },
+    {
+      "title": "发展规划处、研究生院联合举行与民主党派工作对接座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2611.htm",
+      "date": "2019-10-15",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学校召开高水平大学建设2020年项目预算申报校内评审会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/2581.htm",
+      "date": "2019-07-17",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学学术委员会召开2018年度第二次全体会议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1818.htm",
+      "date": "2019-01-18",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学9个学科进入2016年QS世界大学学科排行榜全球前400",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1829.htm",
+      "date": "2016-03-24",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学参加第十一届QS-APPLE亚太地区教育领导人大会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1830.htm",
+      "date": "2015-12-08",
+      "column": "新闻通告"
+    },
+    {
+      "title": "《上海大学深化综合改革方案》获批准全面实施",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1831.htm",
+      "date": "2015-12-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "中南大学学科办主任武明花教授到我校做学科专题讲座",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1832.htm",
+      "date": "2015-11-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "吴明红副校长率团访问法国、荷兰著名高校",
+      "url": "http://news.shu.edu.cn/Default.aspx?tabid=446&ctl=Details&mid=1053&ItemID=31461&SkinSrc=[L]",
+      "date": "2015-11-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“走向国际的中国人口学——亚洲人口研究中心成立暨国际咨询委员会聘任仪式”国际学术研讨会在我校顺利进行",
+      "url": "http://www.sociology.shu.edu.cn/Default.aspx?tabid=22026&ctl=Detail&mid=41021&Id=188408&Ski",
+      "date": "2015-11-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“高峰高原”学科建设项目提前申购设备流程",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1835.htm",
+      "date": "2015-10-16",
+      "column": "新闻通告"
+    },
+    {
+      "title": "2015年QS世界大学排行榜-上海大学位居全球第411-420位档、国内高校第18位",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1836.htm",
+      "date": "2015-09-22",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于征求学校“十三五”规划意见及建议的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1837.htm",
+      "date": "2015-08-31",
+      "column": "新闻通告"
+    },
+    {
+      "title": "2015年全系统管理中期检查会顺利举行",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1838.htm",
+      "date": "2015-08-31",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“集成计算与材料设计”系列报告会第九次学术研讨会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1900.htm",
+      "date": "2012-11-23",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学与中科院长三角地区院所全面合作恳谈会召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1901.htm",
+      "date": "2012-06-04",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学“材料基因组工程”学术论坛隆重举行",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1902.htm",
+      "date": "2012-05-31",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“转型期长三角都市圈文化价值变迁研究”项目组召开第一次学术座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1903.htm",
+      "date": "2012-04-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“上海大学前沿科学与技术系列研讨会”正式开幕",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1904.htm",
+      "date": "2012-03-10",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学前沿科学与技术系列研讨会通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1905.htm",
+      "date": "2012-03-02",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校“211工程”三期建设子项目校内验收工作正式启动",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1906.htm",
+      "date": "2012-03-02",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“085工程”第二个项目研讨会召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1907.htm",
+      "date": "2012-02-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于使用新预约系统的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1908.htm",
+      "date": "2011-12-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校召开“211工程”三期重点学科建设项目调研会议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1909.htm",
+      "date": "2011-12-05",
+      "column": "新闻通告"
+    },
+    {
+      "title": "夯实建设内涵 规范材料申报",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1910.htm",
+      "date": "2011-11-18",
+      "column": "新闻通告"
+    },
+    {
+      "title": "先进材料技术申报推进会第二次会议召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1911.htm",
+      "date": "2011-10-26",
+      "column": "新闻通告"
+    },
+    {
+      "title": "“都市社会发展与智慧城市建设”项目系列推进会第二次会议召开",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1912.htm",
+      "date": "2011-10-26",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学内涵建设项目系列推进会拉开帷幕",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1913.htm",
+      "date": "2011-10-24",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校两项科研管理办法初显成效",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1914.htm",
+      "date": "2010-11-15",
+      "column": "新闻通告"
+    },
+    {
+      "title": "沉痛悼念钱伟长校长",
+      "url": "http://www.qianweichang.shu.edu.cn/",
+      "date": "2010-08-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "吴松副校长赴同济大学调研",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1916.htm",
+      "date": "2010-06-29",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于开展上海大学 “十二五”规划网上大讨论的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1917.htm",
+      "date": "2010-05-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "图情档系召开学科建设研讨会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1918.htm",
+      "date": "2009-10-22",
+      "column": "新闻通告"
+    },
+    {
+      "title": "计算机学院召开2009年学科建设暨研究室中长期规划座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1919.htm",
+      "date": "2009-10-12",
+      "column": "新闻通告"
+    },
+    {
+      "title": "数码学院召开学科建设座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1920.htm",
+      "date": "2009-10-12",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校隆重召开2009年学科建设会议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1921.htm",
+      "date": "2009-09-30",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校《上海大学学术委员会章程》正式发布实行",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1922.htm",
+      "date": "2009-04-21",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校召开校学术委员会二○○九年度第一次全体会议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1923.htm",
+      "date": "2009-04-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "转发《教育部关于严肃处理高等学校学术不端行为的通知》",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1924.htm",
+      "date": "2009-04-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "通信学院召开学习科学发展观-学科和实验室建设研讨会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1925.htm",
+      "date": "2008-11-25",
+      "column": "新闻通告"
+    },
+    {
+      "title": "周哲玮常务副校长主持召开学院院长座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1926.htm",
+      "date": "2008-11-14",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学科办组织召开“分析测试中心改革方案”座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1927.htm",
+      "date": "2008-11-10",
+      "column": "新闻通告"
+    },
+    {
+      "title": "周哲玮常务副校长主持召开211重点学科带头人座谈会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1928.htm",
+      "date": "2008-11-10",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校初步完成学科发展定位规划编制工作",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1929.htm",
+      "date": "2008-10-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校“211工程”三期重点学科建设项目顺利通过国家评审",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1930.htm",
+      "date": "2008-10-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学学科建设办公室通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1931.htm",
+      "date": "2008-09-11",
+      "column": "新闻通告"
+    },
+    {
+      "title": "常务副校长周哲玮到艺术、材料等领域进行学科建设调研",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1932.htm",
+      "date": "2008-05-12",
+      "column": "新闻通告"
+    },
+    {
+      "title": "教育部、国家发展改革委、财政部联合召开“211工程”三期建设项目规划编制及论证工作视频会议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1933.htm",
+      "date": "2008-05-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学科办组织召开大型仪器设备“责任教授”研讨会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1934.htm",
+      "date": "2008-04-14",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学科办召开“211工程”三期建设工作研讨会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1935.htm",
+      "date": "2008-03-27",
+      "column": "新闻通告"
+    },
+    {
+      "title": "教育部党组发出通知要求教育战线认真学习贯彻...",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1937.htm",
+      "date": "2007-10-27",
+      "column": "新闻通告"
+    },
+    {
+      "title": "服务经济服务社会潜心钻研形成特色—记我校钢铁冶金",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1938.htm",
+      "date": "2007-10-18",
+      "column": "新闻通告"
+    },
+    {
+      "title": "机自学院召开学科建设会议",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1939.htm",
+      "date": "2007-09-26",
+      "column": "新闻通告"
+    },
+    {
+      "title": "引领学科发展 培育学派风格—记国家重点学科社会学",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1940.htm",
+      "date": "2007-09-24",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于认真做好《国家重点学科建设与发展规划（200...",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1941.htm",
+      "date": "2007-09-21",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校新一轮国家重点学科增补工作成绩斐然",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1942.htm",
+      "date": "2007-09-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "教育部关于公布国家重点学科名单的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1943.htm",
+      "date": "2007-08-20",
+      "column": "新闻通告"
+    },
+    {
+      "title": "我校参加“钢铁可循环流程技术创新战略联盟”签约",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1944.htm",
+      "date": "2007-07-10",
+      "column": "新闻通告"
+    },
+    {
+      "title": "有关国家重点学科增补评估工作会议通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1945.htm",
+      "date": "2007-07-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "转发教育部《关于国家重点学科增补工作报送材料...",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1946.htm",
+      "date": "2007-06-07",
+      "column": "新闻通告"
+    },
+    {
+      "title": "转发教育部《关于开展国家重点学科增补工作的通知》",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1947.htm",
+      "date": "2007-06-07",
+      "column": "新闻通告"
+    },
+    {
+      "title": "6月4日，教育部举行新闻发布会，解读国务院近日...",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1948.htm",
+      "date": "2007-06-07",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于开展国家重点学科增补工作的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1949.htm",
+      "date": "2007-06-07",
+      "column": "新闻通告"
+    },
+    {
+      "title": "影视学院举行学科规划研讨会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1950.htm",
+      "date": "2007-03-23",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学学科建设会议简报",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1951.htm",
+      "date": "2007-01-25",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学学科建设办公室通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1952.htm",
+      "date": "2007-01-17",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学科办邀请中青年学者研讨如何推进我校学科建设",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1953.htm",
+      "date": "2006-12-28",
+      "column": "新闻通告"
+    },
+    {
+      "title": "环化学院结合学科建设大讨论开展党建工作交流评比",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1954.htm",
+      "date": "2006-12-28",
+      "column": "新闻通告"
+    },
+    {
+      "title": "计算机学院组织各层面多形式的学科建设大讨论",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1955.htm",
+      "date": "2006-12-28",
+      "column": "新闻通告"
+    },
+    {
+      "title": "微结构研究中心召开学科建设讨论会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1956.htm",
+      "date": "2006-12-27",
+      "column": "新闻通告"
+    },
+    {
+      "title": "机自学院召开学科建设讨论会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1957.htm",
+      "date": "2006-12-26",
+      "column": "新闻通告"
+    },
+    {
+      "title": "外语学院展开学科建设讨论",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1958.htm",
+      "date": "2006-12-25",
+      "column": "新闻通告"
+    },
+    {
+      "title": "计算中心召开学科建设研讨会，贯彻学科建设会议精神",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1959.htm",
+      "date": "2006-12-23",
+      "column": "新闻通告"
+    },
+    {
+      "title": "上海大学图书馆学科建设服务措施",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1960.htm",
+      "date": "2006-12-23",
+      "column": "新闻通告"
+    },
+    {
+      "title": "体育教学部举行学科建设专题讲座",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1961.htm",
+      "date": "2006-12-13",
+      "column": "新闻通告"
+    },
+    {
+      "title": "关于报送国家重点学科考核评估有关材料的通知",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1962.htm",
+      "date": "2006-12-12",
+      "column": "新闻通告"
+    },
+    {
+      "title": "机自学院召开学科建设讨论会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1963.htm",
+      "date": "2006-12-08",
+      "column": "新闻通告"
+    },
+    {
+      "title": "体育部召开专题研讨会共商体育学科建设",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1964.htm",
+      "date": "2006-12-07",
+      "column": "新闻通告"
+    },
+    {
+      "title": "美术学院召开学科建设专题报告会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1965.htm",
+      "date": "2006-12-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "美术学院召开学科建设专题报告会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1967.htm",
+      "date": "2006-12-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "商管学院举行第三次学科建设讨论会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1968.htm",
+      "date": "2006-12-06",
+      "column": "新闻通告"
+    },
+    {
+      "title": "影视学院组织专题研讨，贯彻学科建设会议精神",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1969.htm",
+      "date": "2006-12-04",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学科办邀请专家研讨如何推进我校学科建设",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1970.htm",
+      "date": "2006-12-04",
+      "column": "新闻通告"
+    },
+    {
+      "title": "学校召开学科建设会议推进我校新一轮学科建设",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1971.htm",
+      "date": "2006-12-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "振奋精神 群策群力 推进新一轮学科建设",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1972.htm",
+      "date": "2006-12-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "文学院召开学科建设讨论动员会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1973.htm",
+      "date": "2006-12-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "商管学院召开第二次学科建设讨论会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1974.htm",
+      "date": "2006-12-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "外国语学院精心组织学科建设大讨论",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1975.htm",
+      "date": "2006-12-01",
+      "column": "新闻通告"
+    },
+    {
+      "title": "全校掀起学科建设讨论热潮",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1976.htm",
+      "date": "2006-11-29",
+      "column": "新闻通告"
+    },
+    {
+      "title": "环化学院动员全体教师，全面开展学科建设讨论",
+      "url": "https://fzghc.shu.edu.cn/info/1029/1977.htm",
+      "date": "2006-11-29",
+      "column": "新闻通告"
+    }
+  ]
+}

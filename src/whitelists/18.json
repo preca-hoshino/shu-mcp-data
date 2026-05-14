@@ -1,0 +1,58 @@
+{
+  "czb.shu.edu.cn": {
+    "type": "18",
+    "department": "上海大学采购与招标管理中心",
+    "pages": {
+      "sy_/tzgg.htm": {
+        "pages": 6,
+        "column": "通知公告"
+      },
+      "sy_/fwzn.htm": {
+        "pages": 3,
+        "column": "服务指南"
+      },
+      "sy_/gzdt.htm": {
+        "pages": 11,
+        "column": "工作动态"
+      },
+      "sy_/cjgg.htm": {
+        "pages": 3,
+        "column": "成交公告"
+      },
+      "sy_/cggg.htm": {
+        "pages": 3,
+        "column": "采购公告"
+      }
+    }
+  },
+  "medicine.shu.edu.cn": {
+    "type": "18",
+    "department": "上海大学医学院",
+    "pages": {
+      "index/zhxw.htm": {
+        "pages": 43,
+        "column": "综合新闻"
+      },
+      "index/kydt.htm": {
+        "pages": 10,
+        "column": "科研动态"
+      },
+      "index/tzgg.htm": {
+        "pages": 16,
+        "column": "通知公告"
+      },
+      "index/xsjz.htm": {
+        "pages": 17,
+        "column": "学术讲座"
+      },
+      "index/jssw.htm": {
+        "pages": 5,
+        "column": "教师事务"
+      },
+      "index/xssw.htm": {
+        "pages": 9,
+        "column": "学生事务"
+      }
+    }
+  }
+}

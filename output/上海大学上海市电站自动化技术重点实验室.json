@@ -1,0 +1,164 @@
+{
+  "domain": "shpower.shu.edu.cn",
+  "department": "上海大学上海市电站自动化技术重点实验室",
+  "type": "22",
+  "crawl_time": "20260513_175610",
+  "total_articles": 25,
+  "columns": {
+    "综合新闻": 20,
+    "科研动态": 3,
+    "学术活动": 2
+  },
+  "articles": [
+    {
+      "title": "2025年全国嵌入式仪表及系统技术会议成功举办",
+      "url": "https://shpower.shu.edu.cn/info/1022/1590.htm",
+      "date": "2025-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市电站自动化技术重点实验室学术委员会会议顺利召开",
+      "url": "https://shpower.shu.edu.cn/info/1022/1570.htm",
+      "date": "2025-05-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "国家自然科学基金联合基金重点项目“工业互联网异构融合系统的攻击可视化学习感知和安全协同调控及应用”启动会顺利召开",
+      "url": "https://shpower.shu.edu.cn/info/1025/1530.htm",
+      "date": "2025-04-27",
+      "column": "科研动态"
+    },
+    {
+      "title": "清华大学国家教学名师师丽教授在上海大学作学术报告",
+      "url": "https://shpower.shu.edu.cn/info/1026/1550.htm",
+      "date": "2025-04-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学代表团访问塞尔维亚",
+      "url": "https://shpower.shu.edu.cn/info/1022/1510.htm",
+      "date": "2024-10-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2024年生命系统建模与仿真国际会议暨 可持续能源与环境智能计算国际会议在苏州顺利召开",
+      "url": "https://shpower.shu.edu.cn/info/1022/1500.htm",
+      "date": "2024-09-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "彭晨教授牵头的国家重点研发计划项目顺利通过验收",
+      "url": "https://shpower.shu.edu.cn/info/1025/1490.htm",
+      "date": "2024-09-05",
+      "column": "科研动态"
+    },
+    {
+      "title": "周文举教授团队科研成果荣获\"中国智能制造十大科技进展\"",
+      "url": "https://shpower.shu.edu.cn/info/1022/1440.htm",
+      "date": "2023-12-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "周文举教授、费敏锐教授团队牵头的科研成果荣获中国仪器仪表学会科技进步一等奖",
+      "url": "https://shpower.shu.edu.cn/info/1022/1430.htm",
+      "date": "2023-10-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2023年中国传感器创新创业大赛（华东赛区）在上海大学顺利举办",
+      "url": "https://shpower.shu.edu.cn/info/1022/1420.htm",
+      "date": "2023-10-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新型电力系统联合创新实验室成立仪式隆重举行",
+      "url": "https://shpower.shu.edu.cn/info/1022/1410.htm",
+      "date": "2023-10-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "汪小帆副校长率团访问英国",
+      "url": "https://shpower.shu.edu.cn/info/1022/1379.htm",
+      "date": "2023-06-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "喜报！杜大军教授牵头获得2022年度上海市自然科学二等奖！",
+      "url": "https://shpower.shu.edu.cn/info/1022/1399.htm",
+      "date": "2023-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "喜报！特等奖2项、三等奖1项，第十八届“挑战杯”上海市赛再创历史佳绩！",
+      "url": "https://shpower.shu.edu.cn/info/1022/1409.htm",
+      "date": "2023-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "彭晨教授团队荣获2022年度中国仿真学会创新技术奖一等奖",
+      "url": "https://shpower.shu.edu.cn/info/1022/1369.htm",
+      "date": "2023-01-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "费敏锐教授团队获“中国仪器仪表学会科技进步一等奖”",
+      "url": "https://shpower.shu.edu.cn/info/1022/1368.htm",
+      "date": "2022-12-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "喜报！周文举教授团队项目荣获上海市高价值专利运营百强称号！",
+      "url": "https://shpower.shu.edu.cn/info/1022/1358.htm",
+      "date": "2022-11-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "彭晨、潘全科、王曰英3位教授入选2022年“全球高被引科学家”",
+      "url": "https://shpower.shu.edu.cn/info/1022/1357.htm",
+      "date": "2022-11-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "实验室成功举办2022全国嵌入式仪表及系统技术会议",
+      "url": "https://shpower.shu.edu.cn/info/1022/1355.htm",
+      "date": "2022-11-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2022年全国嵌入式仪表及系统技术会议",
+      "url": "https://shpower.shu.edu.cn/info/1026/1356.htm",
+      "date": "2022-11-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "2022年中国仿真产业展会即将开幕-实验室将携最新成果参展",
+      "url": "https://shpower.shu.edu.cn/info/1022/1342.htm",
+      "date": "2022-10-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "复杂网络化系统智能测控与应用国际科研联盟启动揭牌仪式成功举办",
+      "url": "https://shpower.shu.edu.cn/info/1022/1352.htm",
+      "date": "2022-10-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "国家自然科学基金重点项目——融合通信与计算的复杂网络化系统安全控制及应用（61633016）成果展示",
+      "url": "https://shpower.shu.edu.cn/info/1022/1312.htm",
+      "date": "2022-02-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "国家重点研发计划项目  “海南科创岛”平台发布会成功举办",
+      "url": "https://shpower.shu.edu.cn/info/1025/1311.htm",
+      "date": "2022-01-18",
+      "column": "科研动态"
+    },
+    {
+      "title": "【喜报】祝贺费敏锐教授当选亚洲仿真联盟会士",
+      "url": "https://shpower.shu.edu.cn/info/1022/1302.htm",
+      "date": "2022-01-13",
+      "column": "综合新闻"
+    }
+  ]
+}

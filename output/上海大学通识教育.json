@@ -1,0 +1,415 @@
+{
+  "domain": "sdts.shu.edu.cn",
+  "department": "上海大学通识教育",
+  "type": "05",
+  "crawl_time": "20260513_175610",
+  "total_articles": 67,
+  "columns": {
+    "新闻动态": 57,
+    "通知公告": 10
+  },
+  "articles": [
+    {
+      "title": "通识示范课公开课《音乐与科技》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/19123.htm",
+      "date": "2026-04-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通识示范课公开课《鲁迅与当代中国》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/19113.htm",
+      "date": "2026-04-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "媒体视角|沪上高校爱情课为什么长红不衰？",
+      "url": "http://sh.people.com.cn/n2/2026/0413/c134768-41550997.html",
+      "date": "2026-04-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通识示范课公开课《品牌与传播智慧》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/18782.htm",
+      "date": "2026-04-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于2026年度新建通识课程申报与现有通选课升级核心通识课的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/18722.htm",
+      "date": "2026-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "通识示范课公开课《爱情社会学》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/18652.htm",
+      "date": "2026-03-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2025年度上海大学通识示范课程建设项目拟立项名单公示",
+      "url": "https://sdts.shu.edu.cn/info/1581/16781.htm",
+      "date": "2025-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2025年度通识示范课程立项申报工作的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/16771.htm",
+      "date": "2025-05-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "通识示范课公开课《苏轼与中国文人画》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/2593.htm",
+      "date": "2024-12-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学教务部举行通识示范课建设研讨会",
+      "url": "https://sdts.shu.edu.cn/info/1037/2583.htm",
+      "date": "2024-09-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于开展通识示范课程立项申报工作的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/16661.htm",
+      "date": "2024-06-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学新一届通识教育委员会成立",
+      "url": "https://sdts.shu.edu.cn/info/1037/16741.htm",
+      "date": "2023-10-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办“学风教风建设与通识类课程学生学业评价”第二期专题培训暨第66期教师教学沙龙",
+      "url": "https://sdts.shu.edu.cn/info/1581/16671.htm",
+      "date": "2022-10-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "迎评促建 铸魂育人 上海大学第61期教师教学沙龙暨通选课和新生研讨课 质量提升研讨会通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/16681.htm",
+      "date": "2022-03-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "迎评促建 铸魂育人：上海大学举办通识教育核心课程质量提升研讨会",
+      "url": "https://sdts.shu.edu.cn/info/1037/2161.htm",
+      "date": "2022-02-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学通识教育委员会工作组召开第33次会议",
+      "url": "https://sdts.shu.edu.cn/info/1037/2148.htm",
+      "date": "2021-07-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于通识类课程教学管理工作的提示",
+      "url": "https://sdts.shu.edu.cn/info/1581/16701.htm",
+      "date": "2021-04-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办上海大学2021年度“为未来：我与通识教育”征文比赛的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/16711.htm",
+      "date": "2021-04-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "“为未来 育新人：我们的十年通识教育” 教务部走访无人艇研究院 交流通识教育教学理念与课程建设",
+      "url": "https://sdts.shu.edu.cn/info/1037/2071.htm",
+      "date": "2021-01-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于冬季学期将“光影中国”通识课设为公开课的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/16721.htm",
+      "date": "2020-12-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "壮美的“中国山川”：我校电影学院新开“光影中国”通识大课",
+      "url": "https://news.shu.edu.cn/info/1012/59261.htm",
+      "date": "2020-12-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校新开“红色传承”系列通识课",
+      "url": "https://sdts.shu.edu.cn/info/1037/2031.htm",
+      "date": "2020-09-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校开展第29次通识教育委员会工作组活动",
+      "url": "https://sdts.shu.edu.cn/info/1037/2022.htm",
+      "date": "2020-09-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校又有四门通识教育选修课程通过评审",
+      "url": "https://sdts.shu.edu.cn/info/1037/1981.htm",
+      "date": "2020-07-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "为未来 培养全面发展的时代新人：我校举办第41期教师教学沙龙研讨通识教育",
+      "url": "https://sdts.shu.edu.cn/info/1037/1971.htm",
+      "date": "2020-04-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行第27次例会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1941.htm",
+      "date": "2020-01-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于开展“大国方略”系列课程学生征文活动的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/16731.htm",
+      "date": "2019-12-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校开展第25次通识教育委员会工作组活动",
+      "url": "https://sdts.shu.edu.cn/info/1037/1911.htm",
+      "date": "2019-06-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行第24次例会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1913.htm",
+      "date": "2018-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行第23次例会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1203.htm",
+      "date": "2018-09-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行第20次例会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1201.htm",
+      "date": "2017-05-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“凸显价值引领 提升通识课教学质量” 上海大学举办第23期教师教学沙龙",
+      "url": "http://news.shu.edu.cn/info/1012/38541.htm",
+      "date": "2017-04-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于开展2016-2017学年春季学期“通识教育品牌课教学观摩”活动的通知",
+      "url": "http://www.jwc201810.shu.edu.cn/Default.aspx?tabid=22957&ctl=Detail&mid=43465&Id=183409&SkinSrc=[",
+      "date": "2017-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "争创一流本科教学   今天我们怎样用全英文讲好专业课——上海大学第22期教师教学沙龙",
+      "url": "https://sdts.shu.edu.cn/info/1037/1194.htm",
+      "date": "2016-12-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行第19次例会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1191.htm",
+      "date": "2016-12-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“争创一流本科教学 今天怎样上好课“（之二）暨第21期教师教学沙龙圆满落幕",
+      "url": "https://sdts.shu.edu.cn/info/1037/1187.htm",
+      "date": "2016-11-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“争创一流本科教学 今天怎样上好课” 暨第20期教师教学沙龙顺利举行",
+      "url": "https://sdts.shu.edu.cn/info/1037/1184.htm",
+      "date": "2016-10-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2016年下半年上海大学通选课立项通知",
+      "url": "https://sdts.shu.edu.cn/info/1037/1176.htm",
+      "date": "2016-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "遇见通识教育，你准备好了吗？",
+      "url": "https://sdts.shu.edu.cn/info/1037/1181.htm",
+      "date": "2016-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校举办激励计划之“我喜爱的老师是这样授课的”征文颁奖暨师生座谈会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1175.htm",
+      "date": "2016-01-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“好的课程是有温度的”  ——激励计划之“通识课程创新教与学”研讨会成功举行",
+      "url": "https://sdts.shu.edu.cn/info/1037/1172.htm",
+      "date": "2015-11-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行第15次例会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1164.htm",
+      "date": "2015-04-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校长罗宏杰走进“大国方略” 与本科生分享“科创中国”",
+      "url": "https://sdts.shu.edu.cn/info/1037/1166.htm",
+      "date": "2015-04-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "专业课程“点”上突破 推进“面”上教改成效——我校举办综改课程项目推进会暨第十期教师教学沙龙",
+      "url": "https://sdts.shu.edu.cn/info/1037/1169.htm",
+      "date": "2015-04-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校成功举办核心通识课教学研讨会暨第九期教师教学沙龙",
+      "url": "https://sdts.shu.edu.cn/info/1037/1161.htm",
+      "date": "2014-12-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于冬季学期开放部分通识课程为公开课的通知(教务处【2014】46号)",
+      "url": "https://sdts.shu.edu.cn/info/1037/1158.htm",
+      "date": "2014-12-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校新开通选课“大国方略”受到媒体关注",
+      "url": "https://sdts.shu.edu.cn/info/1037/1157.htm",
+      "date": "2014-12-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“魅力核心课 重在引领学生走进学问和思想的殿堂”——核心通识课教师交流（二）暨第八期教师教学沙龙纪实",
+      "url": "https://sdts.shu.edu.cn/info/1037/1147.htm",
+      "date": "2014-06-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“大师•大主题•大受益”——核心通识课教师首场交流暨第七期教师教学沙龙顺利举行",
+      "url": "https://sdts.shu.edu.cn/info/1037/1146.htm",
+      "date": "2014-05-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“留学”、“强国”和“梦想”：忻平教授为大类新生主讲通识教育讲座",
+      "url": "https://sdts.shu.edu.cn/info/1037/1144.htm",
+      "date": "2014-04-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于对“1+X”通识课对接中国大学视频公开课试点教学(教务处【2013】26号)",
+      "url": "https://sdts.shu.edu.cn/info/1037/1113.htm",
+      "date": "2013-04-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“空谈误事，实干兴校”——叶志明就进一步推进我校大类招生与通识教育教学作报告",
+      "url": "https://sdts.shu.edu.cn/info/1037/1112.htm",
+      "date": "2013-04-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校召开2013年度首次通识课教学研讨会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1111.htm",
+      "date": "2013-04-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校通识教育委员会工作组举行2013年度首轮通识课立项评审",
+      "url": "https://sdts.shu.edu.cn/info/1037/1110.htm",
+      "date": "2013-03-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "剑桥名师来上大 “透析创新”营造通识教育新氛围",
+      "url": "https://sdts.shu.edu.cn/info/1037/1108.htm",
+      "date": "2013-03-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2013年3月5日通识教育委员会第六次会议",
+      "url": "https://sdts.shu.edu.cn/info/1037/1109.htm",
+      "date": "2013-03-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "教务处召开2012年度通识教育教学管理工作总结会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1107.htm",
+      "date": "2012-12-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学通识教育委员会工作组召开第五次会议",
+      "url": "https://sdts.shu.edu.cn/info/1037/1106.htm",
+      "date": "2012-11-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举行理工类通识课教学研讨会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1105.htm",
+      "date": "2012-11-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校召开2012年度通识教育委员会工作组第四次会议",
+      "url": "https://sdts.shu.edu.cn/info/1037/1104.htm",
+      "date": "2012-10-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "面向全校征开新生研讨课的通知",
+      "url": "https://sdts.shu.edu.cn/info/1037/1020.htm",
+      "date": "2010-12-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "叶志明副校长召集课程负责人举行大类招生与本科生培养研讨会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1018.htm",
+      "date": "2010-12-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以学生为本，深化教育教学改革，创新“人的全面发展”的培养模式与体系",
+      "url": "https://sdts.shu.edu.cn/info/1037/1015.htm",
+      "date": "2010-10-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "专题报告预告——以学生为本，创新‘人的全面发展’的培养体系",
+      "url": "https://sdts.shu.edu.cn/info/1037/1013.htm",
+      "date": "2010-10-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学术报告预告——以学生为本，深化教育教学改革，创新‘人的全面发展’的培养体系",
+      "url": "https://sdts.shu.edu.cn/info/1037/1011.htm",
+      "date": "2010-10-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以学生为本，深化教育教学改革，创新“人的全面发展”的培养模式（体系）",
+      "url": "https://sdts.shu.edu.cn/info/1037/1008.htm",
+      "date": "2010-09-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学术报告预告——以学生为本，深化教育教学改革，创新人的全面发展的培养体系",
+      "url": "https://sdts.shu.edu.cn/info/1037/1006.htm",
+      "date": "2010-09-27",
+      "column": "新闻动态"
+    }
+  ]
+}

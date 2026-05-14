@@ -1,0 +1,60 @@
+{
+  "domain": "oiqa.shu.edu.cn",
+  "department": "上海大学教育质量考察与评估办公室",
+  "type": "28",
+  "crawl_time": "20260513_175610",
+  "total_articles": 8,
+  "columns": {
+    "通知公告": 8
+  },
+  "articles": [
+    {
+      "title": "关于开展上海大学学生学习与教师教学状况调查的通知",
+      "url": "https://oiqa.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1019&wbnewsid=1749",
+      "date": "2024-06-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学第十三届青年教师本科课堂教学竞赛获奖名单 及入围市赛选拔赛选手名单公示",
+      "url": "https://oiqa.shu.edu.cn/info/1019/1572.htm",
+      "date": "2021-07-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公布第十三届上海大学青年教师本科课堂教学竞赛决赛选手名单的通知",
+      "url": "https://oiqa.shu.edu.cn/info/1019/1571.htm",
+      "date": "2021-06-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "考评办3月疫情防控阶段工作开展方案",
+      "url": "https://oiqa.shu.edu.cn/info/1019/1253.htm",
+      "date": "2020-03-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "业务提示",
+      "url": "https://oiqa.shu.edu.cn/info/1019/1254.htm",
+      "date": "2020-03-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展我校18-19春季和19-20秋季学期 课程考试（查）抽样考评工作的通知",
+      "url": "https://oiqa.shu.edu.cn/18-19chun19-20qiushijuankaopingtongzhi.pdf",
+      "date": "2019-11-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展我校2018-2019学年冬季学期 课程考试（查）抽样考评工作的通知",
+      "url": "https://oiqa.shu.edu.cn/18-19dongshijuankaopingtongzhi.pdf",
+      "date": "2019-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展我校2018-2019学年秋季学期 课程考试（查）抽样考评工作的通知",
+      "url": "https://oiqa.shu.edu.cn/18-19qiushijuankaoping.pdf",
+      "date": "2018-11-26",
+      "column": "通知公告"
+    }
+  ]
+}

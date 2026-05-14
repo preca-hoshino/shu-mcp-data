@@ -1,0 +1,28 @@
+{
+  "ac.shu.edu.cn": {
+    "type": "02",
+    "department": "上海大学学术委员会",
+    "pages": {
+      "synr/tzfw.htm": {
+        "pages": 4,
+        "column": "通知发文"
+      },
+      "synr/fwzn.htm": {
+        "pages": 1,
+        "column": "服务指南"
+      },
+      "synr/sdxs.htm": {
+        "pages": 17,
+        "column": "上大学术"
+      },
+      "synr/xfjs.htm": {
+        "pages": 7,
+        "column": "学风建设"
+      },
+      "synr/xszx.htm": {
+        "pages": 11,
+        "column": "学术资讯"
+      }
+    }
+  }
+}

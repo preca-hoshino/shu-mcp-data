@@ -1,0 +1,16 @@
+{
+  "cie.shu.edu.cn": {
+    "type": "13",
+    "department": "上海大学国际教育学院",
+    "pages": {
+      "/tg/xwdt.htm": {
+        "pages": 50,
+        "column": "新闻动态"
+      },
+      "/tg/xytz.htm": {
+        "pages": 1,
+        "column": "学院通知"
+      }
+    }
+  }
+}

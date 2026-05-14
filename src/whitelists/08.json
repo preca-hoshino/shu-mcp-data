@@ -1,0 +1,20 @@
+{
+  "cast.shu.edu.cn": {
+    "type": "08",
+    "department": "上海大学先进凝固技术中心",
+    "pages": {
+      "sylm/xwkd.htm": {
+        "pages": 36,
+        "column": "新闻快递"
+      },
+      "sylm/yjcg.htm": {
+        "pages": 3,
+        "column": "研究成果"
+      },
+      "sylm/xsdt.htm": {
+        "pages": 4,
+        "column": "学术动态"
+      }
+    }
+  }
+}
