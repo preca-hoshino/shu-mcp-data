@@ -171,7 +171,7 @@ def fetch(url: str, verbose: bool = True) -> str | None:  # noqa: C901, PLR0911
     for attempt in range(1, MAX_RETRIES + 1):
         _apply_delay()
         try:
-            r = session.get(url, headers=headers, timeout=REQUEST_TIMEOUT)  # type: ignore[arg-type]
+            r = session.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
         except requests.exceptions.Timeout:
             if not _retry_wait(attempt, "TIMEOUT", url, verbose):
                 return None
