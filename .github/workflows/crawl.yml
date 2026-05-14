@@ -1,4 +1,5 @@
 name: Crawl SHU News
+run-name: 'crawl-${{ github.run_number }} ${{ github.event.inputs.mode || ''incremental'' }}'
 
 on:
   schedule:
@@ -32,6 +33,10 @@ jobs:
     timeout-minutes: 120
 
     steps:
+      - name: Display run time
+        run: |
+          TZ='Asia/Shanghai' echo "## 🕘 北京时间: $(date '+%Y-%m-%d %H:%M:%S')" >> "$GITHUB_STEP_SUMMARY"
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -65,7 +70,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          DATE=$(date +%Y%m%d)
+          TZ='Asia/Shanghai' DATE=$(date '+%Y-%m-%d %H:%M')
           git add output/*.json
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "[Chore](data): update news data ${DATE}"
