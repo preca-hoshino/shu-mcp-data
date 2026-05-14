@@ -2,7 +2,7 @@
   "domain": "icn.shu.edu.cn",
   "department": "上海大学碳中和创新研究中心",
   "type": "20",
-  "crawl_time": "20260514_004804",
+  "crawl_time": "20260514_010243",
   "total_articles": 32,
   "columns": {
     "科研动态": 17,
@@ -10,7 +10,7 @@
   },
   "articles": [
     {
-      "title": "环境催化新进展： Angew实现单原子-纳米簇协同高效环境催化2026-04-22",
+      "title": "Angewandte Chemie：单原子-纳米簇协同高效环境催化2026-04-22",
       "url": "https://icn.shu.edu.cn/info/1531/2551.htm",
       "date": "2026-04-22",
       "column": "科研动态"
