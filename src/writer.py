@@ -55,13 +55,15 @@ def _build_record(meta: OutputMeta, articles: list[dict[str, Any]]) -> dict[str,
     for a in articles:
         cn = str(a.get("column", ""))
         col_counts[cn] = col_counts.get(cn, 0) + 1
+    # 按字典序排列栏目，确保输出确定性
+    sorted_col_counts = dict(sorted(col_counts.items()))
     return {
         "domain": meta.domain,
         "department": meta.department,
         "type": meta.site_type,
         "crawl_time": meta.crawl_time,
         "total_articles": len(articles),
-        "columns": col_counts,
+        "columns": sorted_col_counts,
         "articles": articles,
     }
 
