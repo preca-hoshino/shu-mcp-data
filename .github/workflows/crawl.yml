@@ -2,8 +2,11 @@ name: Crawl SHU News
 
 on:
   schedule:
-    # 每天北京时间 10:00 (UTC 02:00)，增量模式
-    - cron: '0 2 * * *'
+    # 每天 4 次：北京时间 09:00 / 12:00 / 16:00 / 20:00
+    - cron: '0 1 * * *'
+    - cron: '0 4 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
     inputs:
       mode:
