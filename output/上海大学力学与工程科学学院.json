@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260514_004804",
-  "total_articles": 234,
+  "crawl_time": "20260514_011839",
+  "total_articles": 235,
   "columns": {
+    "学生信息": 40,
     "通知公告": 34,
     "学术报告": 47,
     "综合新闻": 28,
     "教学动态": 22,
     "科研动态": 59,
-    "学生信息": 39,
     "教师风采": 5
   },
   "articles": [
+    {
+      "title": "上海大学力学与工程科学学院2025年力志助学金资助名...",
+      "url": "https://smes.shu.edu.cn/info/1016/10365.htm",
+      "date": "2026-05-13",
+      "column": "学生信息"
+    },
     {
       "title": "力工学院2026年博士研究生招生复试安排（第二批）",
       "url": "https://smes.shu.edu.cn/info/1015/10355.htm",

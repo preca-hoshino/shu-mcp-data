@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260514_004804",
-  "total_articles": 366,
+  "crawl_time": "20260514_011839",
+  "total_articles": 368,
   "columns": {
     "重要通知": 310,
-    "新闻动态": 29,
+    "新闻动态": 31,
     "风采展示": 6,
     "学术活动": 21
   },
@@ -20,6 +20,12 @@
     {
       "title": "上海大学第17届JUST搜搜信息检索能力大赛圆满闭幕！",
       "url": "https://mp.weixin.qq.com/s/8iIhFIDmvTlRGwVg0HhmzQ",
+      "date": "2026-05-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2026年上海高校计算机学院院长论坛在上海大学举行",
+      "url": "https://mp.weixin.qq.com/s/KjEYwzM1O8GJa1tpUPOpDQ",
       "date": "2026-05-01",
       "column": "新闻动态"
     },
@@ -2152,6 +2158,12 @@
       "url": "https://cs.shu.edu.cn/info/1501/42061.htm",
       "date": "2010-06-01",
       "column": "学术活动"
+    },
+    {
+      "title": "计算机学院青年教师荣获校田径运动会铅球冠亚军",
+      "url": "https://cs.shu.edu.cn/info/1061/1421.htm",
+      "date": "2009-11-01",
+      "column": "新闻动态"
     },
     {
       "title": "计算机学院参加“迎国庆、歌唱祖国”合唱比赛",

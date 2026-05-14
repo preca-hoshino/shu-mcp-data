@@ -2,10 +2,10 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260514_004804",
-  "total_articles": 939,
+  "crawl_time": "20260514_011839",
+  "total_articles": 940,
   "columns": {
-    "研究生教学": 202,
+    "研究生教学": 203,
     "通知公告": 100,
     "科研动态": 113,
     "学院新闻": 376,
@@ -13,6 +13,12 @@
     "学术报告": 79
   },
   "articles": [
+    {
+      "title": "环化学院2026年硕博连读预备生名单公示",
+      "url": "https://ece.shu.edu.cn/info/1304/87934.htm",
+      "date": "2026-05-14",
+      "column": "研究生教学"
+    },
     {
       "title": "关于第110次校学位评定委员会会前准备工作的通知",
       "url": "https://ece.shu.edu.cn/info/1304/87914.htm",

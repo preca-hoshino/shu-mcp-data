@@ -2,7 +2,7 @@
   "domain": "icn.shu.edu.cn",
   "department": "上海大学碳中和创新研究中心",
   "type": "20",
-  "crawl_time": "20260514_010243",
+  "crawl_time": "20260514_011839",
   "total_articles": 32,
   "columns": {
     "科研动态": 17,
@@ -16,13 +16,13 @@
       "column": "科研动态"
     },
     {
-      "title": "重大进展登顶Advanced Science： 计算引导双位点催化实现亚硝酸盐到氨的高效转化2026-04-16",
+      "title": "Advanced Science：计算引导双位点催化实现亚硝酸盐到氨的高效转化2026-04-16",
       "url": "https://icn.shu.edu.cn/info/1531/2521.htm",
       "date": "2026-04-16",
       "column": "科研动态"
     },
     {
-      "title": "顶刊JACS发表： 双金属原子对实现高效光热甲烷干重整2026-01-21",
+      "title": "JACS：双金属原子对实现高效光热甲烷干重整2026-01-21",
       "url": "https://icn.shu.edu.cn/info/1531/2491.htm",
       "date": "2026-01-21",
       "column": "科研动态"
@@ -46,13 +46,13 @@
       "column": "新闻动态"
     },
     {
-      "title": "聚焦大气污染治理： Chemical Reviews全面解析催化剂失活机制、防控与再生技术2025-12-10",
+      "title": "Chemical Reviews：气态污染物净化催化剂失活机制、防控与再生技术2025-12-10",
       "url": "https://icn.shu.edu.cn/info/1531/2451.htm",
       "date": "2025-12-10",
       "column": "科研动态"
     },
     {
-      "title": "突破低温催化瓶颈： AFM报道富铝分子筛界面调控活性位点助力高效环境催化2025-11-21",
+      "title": "Advanced Functional Materials：富铝分子筛界面调控活性位点助力高效环境催化2025-11-21",
       "url": "https://icn.shu.edu.cn/info/1531/2441.htm",
       "date": "2025-11-21",
       "column": "科研动态"
@@ -64,13 +64,13 @@
       "column": "新闻动态"
     },
     {
-      "title": "界面工程新突破： JACS发表催化界面分子工程赋能高效电还原一氧化氮合成氨2025-11-04",
+      "title": "JACS：催化界面分子工程赋能高效电还原一氧化氮合成氨2025-11-04",
       "url": "https://icn.shu.edu.cn/info/1531/2351.htm",
       "date": "2025-11-04",
       "column": "科研动态"
     },
     {
-      "title": "杂质抗性新策略： Angew展示铜铈双原子位点增强沸石分子筛催化抗干扰能力2025-10-12",
+      "title": "Angewandte Chemie：铜铈双原子位点增强沸石分子筛催化抗干扰能力2025-10-12",
       "url": "https://icn.shu.edu.cn/info/1531/2341.htm",
       "date": "2025-10-12",
       "column": "科研动态"
@@ -112,19 +112,19 @@
       "column": "新闻动态"
     },
     {
-      "title": "串联催化新策略： Angew展示双金属活性位点高效串联催化还原氮氧化物2025-07-07",
+      "title": "Angewandte Chemie：双金属活性位点高效串联催化还原氮氧化物2025-07-07",
       "url": "https://icn.shu.edu.cn/info/1531/2231.htm",
       "date": "2025-07-07",
       "column": "科研动态"
     },
     {
-      "title": "硫介导新机制： Angew报道硫界面质子定向迁移助力电催化一氧化氮还原2025-07-07",
+      "title": "Angewandte Chemie：硫界面质子定向迁移助力电催化一氧化氮还原2025-07-07",
       "url": "https://icn.shu.edu.cn/info/1531/2241.htm",
       "date": "2025-07-07",
       "column": "科研动态"
     },
     {
-      "title": "三元异质结新进展： Nature Communications报道高效电催化一氧化氮还原制氨2025-07-07",
+      "title": "Nature Communications：高效电催化一氧化氮还原制氨2025-07-07",
       "url": "https://icn.shu.edu.cn/info/1531/2251.htm",
       "date": "2025-07-07",
       "column": "科研动态"
@@ -136,19 +136,19 @@
       "column": "新闻动态"
     },
     {
-      "title": "催化氧化新突破： Angew报道梯度氧化双位点催化剂助力工业烟气低温净化2025-04-15",
+      "title": "Angewandte Chemie：梯度氧化双位点催化剂助力工业烟气低温净化2025-04-15",
       "url": "https://icn.shu.edu.cn/info/1531/2051.htm",
       "date": "2025-04-15",
       "column": "科研动态"
     },
     {
-      "title": "不对称光氧化新成就： Nature Nanotechnology报道甘油向羟基丙酮酸的绿色转化2025-04-09",
+      "title": "Nature Nanotechnology：甘油向羟基丙酮酸的绿色催化转化2025-04-09",
       "url": "https://icn.shu.edu.cn/info/1531/2061.htm",
       "date": "2025-04-09",
       "column": "科研动态"
     },
     {
-      "title": "质子耦合电子转移新发现： Angew揭示N-Cu-N界面高效动力学机制2024-12-26",
+      "title": "Angewandte Chemie：N-Cu-N界面质子耦合电子高效转移动力学机制2024-12-26",
       "url": "https://icn.shu.edu.cn/info/1531/2071.htm",
       "date": "2024-12-26",
       "column": "科研动态"
@@ -172,25 +172,25 @@
       "column": "新闻动态"
     },
     {
-      "title": "选择性提升新技术： Angew报道多酸介导Pt1/CeO2催化剂选择性优化2024-10-25",
+      "title": "Angewandte Chemie：多酸介导单原子选择性催化净化机制2024-10-25",
       "url": "https://icn.shu.edu.cn/info/1531/2111.htm",
       "date": "2024-10-25",
       "column": "科研动态"
     },
     {
-      "title": "碱金属耐受性突破： Environmental Science & Technology报道非晶态FePO4载体抗中毒新策略2024-09-19",
+      "title": "Environmental Science & Technology：非晶态载体提升催化剂抗中毒能力2024-09-19",
       "url": "https://icn.shu.edu.cn/info/1531/2121.htm",
       "date": "2024-09-19",
       "column": "科研动态"
     },
     {
-      "title": "空间位阻调控创新： Environmental Science & Technology报道B-Ti-O界面高效光催化降解甲苯2024-09-19",
+      "title": "Environmental Science & Technology：B-Ti-O界面高效光催化降解甲苯2024-09-19",
       "url": "https://icn.shu.edu.cn/info/1531/2131.htm",
       "date": "2024-09-19",
       "column": "科研动态"
     },
     {
-      "title": "多污染物共去除突破： Environmental Science & Technology报道CeO₂协同催化实现NOₓ与氯苯高效共去除2024-09-19",
+      "title": "Environmental Science & Technology：氮氧化物与氯苯高效协同催化净化2024-09-19",
       "url": "https://icn.shu.edu.cn/info/1531/2141.htm",
       "date": "2024-09-19",
       "column": "科研动态"
