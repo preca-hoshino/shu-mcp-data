@@ -2,11 +2,13 @@
   "domain": "ziqiangcol.shu.edu.cn",
   "department": "上海大学自强书院",
   "type": "20",
-  "crawl_time": "20260513_175610",
-  "total_articles": 11,
+  "crawl_time": "20260514_004804",
+  "total_articles": 19,
   "columns": {
     "综合新闻": 9,
-    "党建团学": 2
+    "通知公告": 6,
+    "党建团学": 2,
+    "图片新闻": 2
   },
   "articles": [
     {
@@ -14,6 +16,30 @@
       "url": "https://ziqiangcol.shu.edu.cn/info/1037/1308.htm",
       "date": "2026-03-03",
       "column": "综合新闻"
+    },
+    {
+      "title": "关于开展评选、表彰2024-2025学年上海大学机自学院“机自之星”，优秀学生团总支、团支部活动的通知2026/02/27",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1036/1278.htm",
+      "date": "2026-02-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "【学工】自强书院2024-2025学年中国银行·上海大学卓越书院奖学金评审细则2025/11/24",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1036/1228.htm",
+      "date": "2025-11-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "【学工】自强书院2024-2025学年中国银行·上海大学卓越书院奖学金评审细则2025/11/18",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1036/1238.htm",
+      "date": "2025-11-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "【学工】自强书院、机自学院2024-2025学年大学生创新训练项目（大一）公示2024/11/14",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1036/1168.htm",
+      "date": "2024-11-14",
+      "column": "通知公告"
     },
     {
       "title": "自强书院、机自学院开展“凝聚青春活力，共话科技强国梦”主题党日活动2023/05/08",
@@ -35,15 +61,33 @@
     },
     {
       "title": "自强书院青年学子在2022年中国大学生机械工程 创新创意大赛中斩获佳绩2022/12/11",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1035/1046.htm",
+      "date": "2022-12-11",
+      "column": "图片新闻"
+    },
+    {
+      "title": "自强书院青年学子在2022年中国大学生机械工程 创新创意大赛中斩获佳绩2022/12/11",
       "url": "https://ziqiangcol.shu.edu.cn/info/1037/1056.htm",
       "date": "2022-12-11",
       "column": "综合新闻"
     },
     {
       "title": "机自学院、自强书院“青春心向党，奋进新征程——装置艺术文化展”顺利开幕2022/11/15",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1035/1032.htm",
+      "date": "2022-11-15",
+      "column": "图片新闻"
+    },
+    {
+      "title": "机自学院、自强书院“青春心向党，奋进新征程——装置艺术文化展”顺利开幕2022/11/15",
       "url": "https://ziqiangcol.shu.edu.cn/info/1037/1033.htm",
       "date": "2022-11-15",
       "column": "综合新闻"
+    },
+    {
+      "title": "活动通知2022/10/27",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1036/1015.htm",
+      "date": "2022-10-27",
+      "column": "通知公告"
     },
     {
       "title": "【SMEA·迎新】自强书院、机自学院、里斯本电气2022级本科新生适应性教育系列活动顺利举行2022/10/27",
@@ -56,6 +100,12 @@
       "url": "https://ziqiangcol.shu.edu.cn/info/1037/1022.htm",
       "date": "2022-10-27",
       "column": "综合新闻"
+    },
+    {
+      "title": "关于开展机自学院2021级、2022级（里斯本、直招班） 本科生全程导师结对工作的通知2022/10/25",
+      "url": "https://ziqiangcol.shu.edu.cn/info/1036/1016.htm",
+      "date": "2022-10-25",
+      "column": "通知公告"
     },
     {
       "title": "《自强优导·说》第一讲  未来由你——做好出国留学“前”准备2022/10/25",

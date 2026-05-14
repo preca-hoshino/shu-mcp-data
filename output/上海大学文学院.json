@@ -2,12 +2,12 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260513_175610",
-  "total_articles": 1956,
+  "crawl_time": "20260514_004804",
+  "total_articles": 1955,
   "columns": {
     "综合新闻": 519,
     "通知公告": 415,
-    "学院周志": 300,
+    "学院周志": 299,
     "科研动态": 475,
     "学术报告": 100,
     "学生动态": 147
@@ -5244,12 +5244,6 @@
       "url": "https://cla.shu.edu.cn/info/1017/8641.htm",
       "date": "2022-03-12",
       "column": "通知公告"
-    },
-    {
-      "title": "文学院周志总第553期（2022年第4期，2月21日-2月27日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi533.pdf",
-      "date": "2022-03-05",
-      "column": "学院周志"
     },
     {
       "title": "西南大学韩云波教授应邀线上讲授学术论文写作",

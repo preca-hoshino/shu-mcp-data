@@ -2,11 +2,11 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260513_175610",
-  "total_articles": 299,
+  "crawl_time": "20260514_004804",
+  "total_articles": 316,
   "columns": {
-    "新闻动态": 230,
-    "通知公告": 59,
+    "新闻动态": 237,
+    "通知公告": 69,
     "讲座信息": 8,
     "资讯动态": 2
   },
@@ -216,10 +216,58 @@
       "column": "通知公告"
     },
     {
+      "title": "2025年微电子学院研究生校长奖学金评审结果公示",
+      "url": "https://sme.shu.edu.cn/info/1030/6182.htm",
+      "date": "2025-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年微电子学院研究生国家奖学金评审结果公示",
+      "url": "https://sme.shu.edu.cn/info/1030/6192.htm",
+      "date": "2025-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年微电子学院学业奖学金拟推荐名单公示",
+      "url": "https://sme.shu.edu.cn/info/1030/6202.htm",
+      "date": "2025-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "微电子学院研究生奖学金评审标准和评定方法",
+      "url": "https://sme.shu.edu.cn/info/1030/6162.htm",
+      "date": "2025-09-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年度微电子学院研究生宝钢奖学金候选人公示",
+      "url": "https://sme.shu.edu.cn/info/1030/6132.htm",
+      "date": "2025-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学微电子学院2026年接收推荐免试攻读硕士学位研究生（含直博生）复试工作安排",
+      "url": "https://sme.shu.edu.cn/info/1030/6112.htm",
+      "date": "2025-09-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "微电子学院2026年推荐优秀应届本科毕业生 免试攻读研究生工作实施方案",
+      "url": "https://sme.shu.edu.cn/info/1030/6072.htm",
+      "date": "2025-09-03",
+      "column": "通知公告"
+    },
+    {
       "title": "上海大学微电子学院党委与市经信委半导体产业处党支部、嘉定区经委机关第一党支部、新微集团党支部和上海智能传感器产业园党支部开展联组学习",
       "url": "https://sme.shu.edu.cn/info/1029/6052.htm",
       "date": "2025-08-12",
       "column": "新闻动态"
+    },
+    {
+      "title": "上海大学微电子学院2025年暑期夏令营活动通知",
+      "url": "https://sme.shu.edu.cn/info/1030/6062.htm",
+      "date": "2025-08-12",
+      "column": "通知公告"
     },
     {
       "title": "2025年电子封装技术国际会议成功举办",
@@ -250,6 +298,18 @@
       "url": "https://sme.shu.edu.cn/info/1029/6002.htm",
       "date": "2025-06-27",
       "column": "新闻动态"
+    },
+    {
+      "title": "微电子学院2023级学术型硕士研究生硕博连读资格认定结果公示（第二批）",
+      "url": "https://sme.shu.edu.cn/info/1030/5872.htm",
+      "date": "2025-05-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "微电子学院2023级学术型硕士研究生硕博连读预备生（第二批）推荐名单公示",
+      "url": "https://sme.shu.edu.cn/info/1030/5822.htm",
+      "date": "2025-05-16",
+      "column": "通知公告"
     },
     {
       "title": "微电子学院张建华、张磊、宋健等《Advanced Materials》：掺杂聚合物中压力诱导的分子重排和电荷密度微扰，用于智能动作和语音识别",
@@ -1770,6 +1830,12 @@
       "column": "讲座信息"
     },
     {
+      "title": "微电子学院古元冬教授的相关工作在《Nature Biomedical Engineering》发表",
+      "url": "https://sme.shu.edu.cn/info/1029/1152.htm",
+      "date": "2020-10-30",
+      "column": "新闻动态"
+    },
+    {
       "title": "2021年微电子学院研究生招生直播咨询会",
       "url": "https://sme.shu.edu.cn/info/1032/1134.htm",
       "date": "2020-10-01",
@@ -1782,10 +1848,28 @@
       "column": "通知公告"
     },
     {
+      "title": "师者，传道授业解惑——微电子学院召开院长交流座谈会",
+      "url": "https://sme.shu.edu.cn/info/1029/1128.htm",
+      "date": "2020-09-27",
+      "column": "新闻动态"
+    },
+    {
       "title": "上海大学微电子学院2021研究生招生简章",
       "url": "https://sme.shu.edu.cn/info/1030/1126.htm",
       "date": "2020-09-27",
       "column": "通知公告"
+    },
+    {
+      "title": "以主人翁意识浓厚学术氛围 追求创新卓越——微电子学院2020级研究生新生党员座谈会暨“四史”学习教育微党课",
+      "url": "https://sme.shu.edu.cn/info/1029/1125.htm",
+      "date": "2020-09-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "微电子学院2019级本科生迎新大会顺利召开！",
+      "url": "https://sme.shu.edu.cn/info/1029/1103.htm",
+      "date": "2020-08-31",
+      "column": "新闻动态"
     },
     {
       "title": "适应性教育学术讲座",
@@ -1794,10 +1878,28 @@
       "column": "讲座信息"
     },
     {
+      "title": "微电子学院赴云南大学进行学术交流访问活动",
+      "url": "https://sme.shu.edu.cn/info/1029/1101.htm",
+      "date": "2020-08-18",
+      "column": "新闻动态"
+    },
+    {
       "title": "微电子芯片——方寸之地 ，攸关国运",
       "url": "https://sme.shu.edu.cn/info/1031/1076.htm",
       "date": "2020-08-14",
       "column": "讲座信息"
+    },
+    {
+      "title": "上海大学微电子学院与上海微技术工业研究院联合举办学生专场开放日活动",
+      "url": "https://sme.shu.edu.cn/info/1029/1088.htm",
+      "date": "2020-08-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院实训平台简介",
+      "url": "https://sme.shu.edu.cn/info/1029/1092.htm",
+      "date": "2020-08-13",
+      "column": "新闻动态"
     },
     {
       "title": "学院实训平台",

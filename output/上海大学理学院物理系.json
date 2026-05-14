@@ -2,13 +2,21 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260513_175610",
-  "total_articles": 313,
+  "crawl_time": "20260514_004804",
+  "total_articles": 351,
   "columns": {
-    "研究动态": 36,
-    "学术报告": 277
+    "新闻快递": 16,
+    "研究动态": 44,
+    "学术报告": 277,
+    "通知公告": 14
   },
   "articles": [
+    {
+      "title": "理学院大中物理学科贯通教育与拔尖人才培养座谈会举行",
+      "url": "https://physics.shu.edu.cn/info/1021/9394.htm",
+      "date": "2026-05-11",
+      "column": "新闻快递"
+    },
     {
       "title": "物理系张杰副教授在光子学顶级期刊《Nature Photonics》发表重要研究成果",
       "url": "https://physics.shu.edu.cn/info/1076/9384.htm",
@@ -20,6 +28,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/9374.htm",
       "date": "2026-04-27",
       "column": "学术报告"
+    },
+    {
+      "title": "2026年物理系本科专业建设专题研讨会",
+      "url": "https://physics.shu.edu.cn/info/1021/9354.htm",
+      "date": "2026-04-24",
+      "column": "新闻快递"
     },
     {
       "title": "理学院宋宏伟课题组在《Advanced Functional Materials》上发表稀土红外发光的研究...",
@@ -38,6 +52,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/9324.htm",
       "date": "2026-04-17",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学大学生物理竞赛颁奖礼举行",
+      "url": "https://physics.shu.edu.cn/info/1021/9314.htm",
+      "date": "2026-04-16",
+      "column": "新闻快递"
     },
     {
       "title": "量子科技研究院seminar第94讲暨物理学科Seminar第796讲:黄旭光(2026年4月17日10:00...",
@@ -80,6 +100,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/9224.htm",
       "date": "2026-03-26",
       "column": "学术报告"
+    },
+    {
+      "title": "上海市高温超导重点实验室第三届学术委员会第二次会议成功举办",
+      "url": "https://physics.shu.edu.cn/info/1021/9204.htm",
+      "date": "2026-03-24",
+      "column": "新闻快递"
     },
     {
       "title": "物理学科Seminar第791:Jeffrey R. Reimers(2026年3月24日14:00)",
@@ -142,10 +168,70 @@
       "column": "学术报告"
     },
     {
+      "title": "物理学科举办2025年度康阔科技——“守望相助”奖教金颁奖仪式",
+      "url": "https://physics.shu.edu.cn/info/1021/9054.htm",
+      "date": "2026-01-15",
+      "column": "新闻快递"
+    },
+    {
       "title": "量子科技研究院seminar第87讲暨物理学科Seminar第785讲:童利军(2026年1月14日16:00...",
       "url": "https://physics.shu.edu.cn/info/1078/9044.htm",
       "date": "2026-01-14",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学物理学科康阔科技 ——“守望相助”奖教金实施细则",
+      "url": "https://physics.shu.edu.cn/info/1015/9014.htm",
+      "date": "2026-01-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学物理学科康阔科技——“守望相助”奖教金人员名单公示",
+      "url": "https://physics.shu.edu.cn/info/1015/9034.htm",
+      "date": "2026-01-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "理学院物理系青年教师易昌浩在《Physical Review Letters》发表最新研究成果",
+      "url": "https://physics.shu.edu.cn/info/1076/8994.htm",
+      "date": "2026-01-06",
+      "column": "研究动态"
+    },
+    {
+      "title": "尹鑫茂教授团队在《Advanced Functional Materials》上发表高温超导物理的研究新进...",
+      "url": "https://physics.shu.edu.cn/info/1076/9004.htm",
+      "date": "2026-01-06",
+      "column": "研究动态"
+    },
+    {
+      "title": "2025年物理系科研动态汇总",
+      "url": "https://physics.shu.edu.cn/info/1076/8964.htm",
+      "date": "2026-01-04",
+      "column": "研究动态"
+    },
+    {
+      "title": "物理实验中心在全国第十七届物理演示仪器评比中喜获佳绩 ​",
+      "url": "https://physics.shu.edu.cn/info/1021/8914.htm",
+      "date": "2025-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "情暖重阳访校园，薪火相传续华章——物理系举办退休教师茶话会",
+      "url": "https://physics.shu.edu.cn/info/1021/8934.htm",
+      "date": "2025-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理系韩咏梅老师获2025年全国高等学校物理基础（实验）课程青年教师讲课比赛上海 ...",
+      "url": "https://physics.shu.edu.cn/info/1021/8944.htm",
+      "date": "2025-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海市物理学会原子分子与光物理2025年度学术会议召开",
+      "url": "https://physics.shu.edu.cn/info/1021/8954.htm",
+      "date": "2025-12-31",
+      "column": "新闻快递"
     },
     {
       "title": "物理学科Seminar第783讲:Prof. Bum-Hoon Lee(2025年12月17日16:00)",
@@ -304,6 +390,12 @@
       "column": "学术报告"
     },
     {
+      "title": "上海大学物理学科2026年接收推荐免试攻读硕士学位研究生(含直博生)",
+      "url": "https://physics.shu.edu.cn/info/1015/8564.htm",
+      "date": "2025-09-26",
+      "column": "通知公告"
+    },
+    {
       "title": "物理学科Seminar第754-755讲：邹竞祥（2025年08月28日20:00，2025年08月29日20:00 ...",
       "url": "https://physics.shu.edu.cn/info/1078/8544.htm",
       "date": "2025-09-19",
@@ -350,6 +442,24 @@
       "url": "https://physics.shu.edu.cn/info/1078/8534.htm",
       "date": "2025-08-26",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学理学院顺利举行Bum-Hoon Lee兼职教授聘任仪式",
+      "url": "https://physics.shu.edu.cn/info/1021/8444.htm",
+      "date": "2025-08-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理系师生在声学黑洞研究领域取得重要进展，成果荣登《物理学报》封面",
+      "url": "https://physics.shu.edu.cn/info/1021/8434.htm",
+      "date": "2025-08-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2025年上海大学理学院物理学科优秀大学生夏令营报名通知",
+      "url": "https://physics.shu.edu.cn/info/1015/8404.htm",
+      "date": "2025-07-01",
+      "column": "通知公告"
     },
     {
       "title": "物理学科Seminar第744讲：陈智（2025年06月23日10:00）",
@@ -506,6 +616,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/7814.htm",
       "date": "2025-02-17",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学理学院与超对称技术公司AI赋能与合作交流活动顺利完成",
+      "url": "https://physics.shu.edu.cn/info/1021/7804.htm",
+      "date": "2025-01-08",
+      "column": "新闻快递"
     },
     {
       "title": "量子科技研究院Seminar第48讲/物理学科Seminar第719讲：张固非（2025年01月08日14:...",
@@ -674,6 +790,30 @@
       "url": "https://physics.shu.edu.cn/info/1078/7664.htm",
       "date": "2024-12-18",
       "column": "学术报告"
+    },
+    {
+      "title": "物理系孙硕副教授在《Advanced Materials》上发表在一维磷烯构筑平带新成果",
+      "url": "https://physics.shu.edu.cn/info/1076/7384.htm",
+      "date": "2024-12-17",
+      "column": "研究动态"
+    },
+    {
+      "title": "上海大学物理学科勒拿科技——“守望相助”奖教金实施细则",
+      "url": "https://physics.shu.edu.cn/info/1015/7294.htm",
+      "date": "2024-12-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "高能理论中的系综平均国际研讨会成功召开",
+      "url": "https://physics.shu.edu.cn/info/1076/7274.htm",
+      "date": "2024-12-11",
+      "column": "研究动态"
+    },
+    {
+      "title": "物理系尹鑫茂教授团队在ACS Nano上发表量子物理新成果",
+      "url": "https://physics.shu.edu.cn/info/1076/7254.htm",
+      "date": "2024-09-27",
+      "column": "研究动态"
     },
     {
       "title": "物理学科Seminar第692讲：龙啸（2024年10月11日15:00）",
@@ -1240,6 +1380,12 @@
       "column": "研究动态"
     },
     {
+      "title": "2023年度上海大学“鸿之微”奖学金评选通知",
+      "url": "https://physics.shu.edu.cn/info/1015/5743.htm",
+      "date": "2023-07-21",
+      "column": "通知公告"
+    },
+    {
       "title": "曾志刚副教授和尹鑫茂教授合作在《Applied Physics Reviews》上发表新成果",
       "url": "https://physics.shu.edu.cn/info/1076/5733.htm",
       "date": "2023-07-07",
@@ -1286,6 +1432,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/5603.htm",
       "date": "2023-06-07",
       "column": "学术报告"
+    },
+    {
+      "title": "2023年上海大学理学院物理学科优秀大学生夏令营报名通知",
+      "url": "https://physics.shu.edu.cn/info/1015/5563.htm",
+      "date": "2023-06-06",
+      "column": "通知公告"
     },
     {
       "title": "物理学科量子科技发展研讨会顺利召开",
@@ -1336,10 +1488,22 @@
       "column": "学术报告"
     },
     {
+      "title": "转发：上海大学理学院物理系2023年硕士研究生招生调剂工作办法",
+      "url": "https://physics.shu.edu.cn/info/1015/5283.htm",
+      "date": "2023-04-04",
+      "column": "通知公告"
+    },
+    {
       "title": "物理学科Seminar第600讲：张天爵（2023年4月6日14:00）",
       "url": "https://physics.shu.edu.cn/info/1078/5293.htm",
       "date": "2023-04-04",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学物理系-美国肯塔基大学医学物理专业3+1+1联合培养宣讲会",
+      "url": "https://physics.shu.edu.cn/info/1015/5093.htm",
+      "date": "2023-02-10",
+      "column": "通知公告"
     },
     {
       "title": "物理学科Seminar第599讲：刘俊杰（2022年12月16日10:00）",
@@ -1376,6 +1540,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/4951.htm",
       "date": "2022-11-22",
       "column": "学术报告"
+    },
+    {
+      "title": "英才汇聚，理想启航|上海大学理学院物理学科2022年国际青年学者论坛",
+      "url": "https://physics.shu.edu.cn/info/1015/1825.htm",
+      "date": "2022-11-15",
+      "column": "通知公告"
     },
     {
       "title": "物理学科Seminar第593讲：孙运祥（2022年11月18日10:00）",
@@ -1460,6 +1630,12 @@
       "url": "https://physics.shu.edu.cn/info/1076/1772.htm",
       "date": "2022-09-21",
       "column": "研究动态"
+    },
+    {
+      "title": "近期学生国际交流项目",
+      "url": "https://physics.shu.edu.cn/info/1015/1769.htm",
+      "date": "2022-09-19",
+      "column": "通知公告"
     },
     {
       "title": "物理学科Seminar第582讲：蒋坤（2022年9月21日10:00）",
@@ -1684,6 +1860,12 @@
       "column": "学术报告"
     },
     {
+      "title": "【上海大学科研管理部--通知公告栏目】",
+      "url": "https://kyglb.shu.edu.cn/dhl/tzgg.htm",
+      "date": "2021-06-08",
+      "column": "通知公告"
+    },
+    {
       "title": "物理学科Seminar第547讲：叶祥熙（2021年6月9日16:00）",
       "url": "https://physics.shu.edu.cn/info/1078/1549.htm",
       "date": "2021-06-08",
@@ -1876,6 +2058,18 @@
       "column": "学术报告"
     },
     {
+      "title": "量子与分子结构国际中心2D Systems课题组在物理化学快报杂志上发表论文",
+      "url": "https://physics.shu.edu.cn/info/1076/1051.htm",
+      "date": "2019-12-11",
+      "column": "研究动态"
+    },
+    {
+      "title": "上海大学物理系任伟课题组在钙钛矿材料SmFeO3反铁磁畴壁诱导非本征铁电研究上取得 ...",
+      "url": "https://physics.shu.edu.cn/info/1076/1052.htm",
+      "date": "2019-12-11",
+      "column": "研究动态"
+    },
+    {
       "title": "06-28 ICQMS Seminar 铜基纳米材料的可控合成及催化性质的研究（固体材料表面结构 ...",
       "url": "https://physics.shu.edu.cn/info/1078/1048.htm",
       "date": "2019-12-11",
@@ -1886,6 +2080,42 @@
       "url": "https://physics.shu.edu.cn/info/1078/1049.htm",
       "date": "2019-12-11",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学2018年博士研究生报考须知",
+      "url": "https://physics.shu.edu.cn/info/1015/1017.htm",
+      "date": "2019-11-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于我校学生参加上海市第33届全国部分地区大学生物理竞赛通知",
+      "url": "https://physics.shu.edu.cn/info/1015/1019.htm",
+      "date": "2019-11-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "诺奖物理学家Anthony J.Leggett (安东尼•莱格特)教授访问物理系",
+      "url": "https://physics.shu.edu.cn/info/1021/1020.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理系任伟团队在Journal of Physical Chemistry Letters发表生物铁电晶体材料论文",
+      "url": "https://physics.shu.edu.cn/info/1021/1021.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理系青年教师教学能力建设研讨会（12月8日上午9:30）",
+      "url": "https://physics.shu.edu.cn/info/1021/1022.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理实验中心青年教师实验讲课交流会成功举办",
+      "url": "https://physics.shu.edu.cn/info/1021/1023.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
     }
   ]
 }

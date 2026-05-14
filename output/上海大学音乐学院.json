@@ -2,11 +2,12 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 107,
+  "crawl_time": "20260514_004804",
+  "total_articles": 141,
   "columns": {
     "通知公告": 27,
-    "热点新闻": 80
+    "学院新闻": 24,
+    "热点新闻": 90
   },
   "articles": [
     {
@@ -40,6 +41,12 @@
       "column": "通知公告"
     },
     {
+      "title": "音乐学院召开本科教育教学审核评估工作推进会",
+      "url": "https://music.shu.edu.cn/info/1174/4989.htm",
+      "date": "2023-09-25",
+      "column": "学院新闻"
+    },
+    {
       "title": "上海大学音乐学院2024年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
       "url": "https://music.shu.edu.cn/info/1175/4979.htm",
       "date": "2023-09-25",
@@ -64,6 +71,12 @@
       "column": "热点新闻"
     },
     {
+      "title": "校党委书记成旦红前往音乐学院进行专题调研",
+      "url": "https://music.shu.edu.cn/info/1174/4908.htm",
+      "date": "2023-05-04",
+      "column": "学院新闻"
+    },
+    {
       "title": "上海大学音乐学院2023年研究生招生考试复试工作办法",
       "url": "https://music.shu.edu.cn/info/1175/4888.htm",
       "date": "2023-03-29",
@@ -74,6 +87,12 @@
       "url": "https://music.shu.edu.cn/info/1173/4878.htm",
       "date": "2023-03-28",
       "column": "热点新闻"
+    },
+    {
+      "title": "继续教育学院党政领导班子一行到我院开展调研交流",
+      "url": "https://music.shu.edu.cn/info/1174/4858.htm",
+      "date": "2023-03-27",
+      "column": "学院新闻"
     },
     {
       "title": "上海大学音乐学院2023年接收应届优秀本科毕业生免试攻读硕士学位研究生复试实施办法",
@@ -92,6 +111,12 @@
       "url": "https://music.shu.edu.cn/info/1175/4671.htm",
       "date": "2022-09-16",
       "column": "通知公告"
+    },
+    {
+      "title": "院长寄语",
+      "url": "https://music.shu.edu.cn/info/1174/5059.htm",
+      "date": "2022-05-24",
+      "column": "学院新闻"
     },
     {
       "title": "中国教育工会上海大学委员会为音院老师送上教师节祝福",
@@ -140,6 +165,12 @@
       "url": "https://music.shu.edu.cn/info/1175/4572.htm",
       "date": "2020-09-28",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学音乐学院2021年研究生招生简章",
+      "url": "https://music.shu.edu.cn/info/1174/4556.htm",
+      "date": "2020-09-24",
+      "column": "学院新闻"
     },
     {
       "title": "上海大学音乐学院2021年推荐应届优秀本科毕业生免试攻读硕士学位研究生工作实施办法",
@@ -256,6 +287,12 @@
       "column": "热点新闻"
     },
     {
+      "title": "19级音乐与舞蹈学研究生培养方案修订论证会成功举行",
+      "url": "https://music.shu.edu.cn/info/1174/4038.htm",
+      "date": "2019-05-31",
+      "column": "学院新闻"
+    },
+    {
       "title": "武汉音乐学院郑荣达教授“音色的形成原理及其可动性”学术讲座成功举行",
       "url": "https://music.shu.edu.cn/info/1173/3725.htm",
       "date": "2019-05-27",
@@ -272,6 +309,12 @@
       "url": "https://music.shu.edu.cn/info/1173/3724.htm",
       "date": "2019-05-24",
       "column": "热点新闻"
+    },
+    {
+      "title": "“五月青歌，声如夏花”音乐学院十大歌手争霸赛圆满落幕",
+      "url": "https://music.shu.edu.cn/info/1174/4037.htm",
+      "date": "2019-05-16",
+      "column": "学院新闻"
     },
     {
       "title": "上海之春∣“管弦丝竹醉东风”——上大音院“上海之春”开放周第二场音乐会成功举办",
@@ -352,6 +395,72 @@
       "column": "热点新闻"
     },
     {
+      "title": "上海大学音乐学院2018-2019学年春季学期首日教育",
+      "url": "https://music.shu.edu.cn/info/1174/3987.htm",
+      "date": "2019-03-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "音乐学院召开2018年度领导班子民主生活会",
+      "url": "https://music.shu.edu.cn/info/1174/4036.htm",
+      "date": "2019-01-16",
+      "column": "学院新闻"
+    },
+    {
+      "title": "王勇院长在上海音乐学院附属安师实验中学做“生涯导航”讲座",
+      "url": "https://music.shu.edu.cn/info/1174/4035.htm",
+      "date": "2019-01-07",
+      "column": "学院新闻"
+    },
+    {
+      "title": "音乐学院党总支集体学习“习近平总书记进博会讲话精神 贯彻新发展理念”讲座",
+      "url": "https://music.shu.edu.cn/info/1174/4034.htm",
+      "date": "2018-12-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大之莺翩翩来，蓬门今始为君开",
+      "url": "https://music.shu.edu.cn/info/1174/3985.htm",
+      "date": "2018-10-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "“学习教育大会精神 积极参与进博工作”高立伟教授为音乐学院师生党员举办专题讲座",
+      "url": "https://music.shu.edu.cn/info/1174/4033.htm",
+      "date": "2018-09-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "关于李芸申报上海大学教学型教师高级专业技术职务（副教授）的 公示",
+      "url": "https://music.shu.edu.cn/info/1174/3983.htm",
+      "date": "2018-09-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2017至2018学年音乐学院年度考核优秀人员名单公示",
+      "url": "https://music.shu.edu.cn/info/1174/3981.htm",
+      "date": "2018-07-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "“音伴青春，乐响未来”——上海大学音乐学院2018届毕业典礼",
+      "url": "https://music.shu.edu.cn/info/1174/3979.htm",
+      "date": "2018-07-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学音乐学院党政领导班子任命会议成功举行",
+      "url": "https://music.shu.edu.cn/info/1174/4032.htm",
+      "date": "2018-07-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "静安区政协主席、党组书记陈永弟莅临学院慰问看望我院声乐教授、静安政协委员李建林",
+      "url": "https://music.shu.edu.cn/info/1174/4031.htm",
+      "date": "2018-06-21",
+      "column": "学院新闻"
+    },
+    {
       "title": "上海之春∣上海大学弦乐团巴赫勃兰登堡专场音乐会成功举行",
       "url": "https://music.shu.edu.cn/info/1173/3685.htm",
       "date": "2018-06-15",
@@ -394,6 +503,12 @@
       "column": "热点新闻"
     },
     {
+      "title": "“跨越星辰大海，我想给你最深情的告白”——上海大学师生中法两地上演520快闪表白祖国",
+      "url": "https://music.shu.edu.cn/info/1174/3977.htm",
+      "date": "2018-05-22",
+      "column": "学院新闻"
+    },
+    {
       "title": "上海之春∣“一起燃爆爵士乐”法国巴黎爵士乐讲座音乐会成功举办",
       "url": "https://music.shu.edu.cn/info/1173/3683.htm",
       "date": "2018-05-09",
@@ -410,6 +525,12 @@
       "url": "https://music.shu.edu.cn/info/1173/3682.htm",
       "date": "2018-05-07",
       "column": "热点新闻"
+    },
+    {
+      "title": "无偿献血，爱心传递——2018年上海大学音乐学院无偿献血光荣榜",
+      "url": "https://music.shu.edu.cn/info/1174/4030.htm",
+      "date": "2018-05-02",
+      "column": "学院新闻"
     },
     {
       "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“‘音乐与心理’音乐融化心灵在正念”专题讲座音乐会",
@@ -646,10 +767,94 @@
       "column": "热点新闻"
     },
     {
+      "title": "MAP计划高校巡演--长笛重奏音乐会",
+      "url": "https://music.shu.edu.cn/info/1173/3479.htm",
+      "date": "2013-11-26",
+      "column": "热点新闻"
+    },
+    {
       "title": "中国音乐学院上海校友会在上海大学成立",
       "url": "https://music.shu.edu.cn/info/1173/3480.htm",
       "date": "2013-11-26",
       "column": "热点新闻"
+    },
+    {
+      "title": "土耳其传统专场音乐会走进社区学院",
+      "url": "https://music.shu.edu.cn/info/1173/3478.htm",
+      "date": "2013-11-22",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学音乐学院领导与美国肯塔基大学艺术学院就两院合作进行洽谈",
+      "url": "https://music.shu.edu.cn/info/1173/3477.htm",
+      "date": "2013-11-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "美哉----东之韵兮西之魅----美国肯塔基大学孔子学院3周年纪念音乐会隆重举行",
+      "url": "https://music.shu.edu.cn/info/1173/3732.htm",
+      "date": "2013-11-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "李岚清同志上海大学“走进经典音乐”专题讲座背后的故事",
+      "url": "https://music.shu.edu.cn/info/1173/3731.htm",
+      "date": "2013-11-01",
+      "column": "热点新闻"
+    },
+    {
+      "title": "高雅艺术进校园之“满天星”交响乐团上海大学音乐沙龙幕后故事",
+      "url": "https://music.shu.edu.cn/info/1173/3730.htm",
+      "date": "2013-10-30",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大剧院艺术课堂特别活动《尼伯龙根的指环》专题讲座将走入上海大学",
+      "url": "https://music.shu.edu.cn/info/1173/3475.htm",
+      "date": "2013-10-29",
+      "column": "热点新闻"
+    },
+    {
+      "title": "上海大学第十届运动会盛大开幕",
+      "url": "https://music.shu.edu.cn/info/1173/3476.htm",
+      "date": "2013-10-29",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“我爱小提琴”夏小曹副院长携二十名上海大学同学与以色列小提琴大师Mintz同台演出",
+      "url": "https://music.shu.edu.cn/info/1173/3474.htm",
+      "date": "2013-10-28",
+      "column": "热点新闻"
+    },
+    {
+      "title": "澳门交响乐团联合上海学生交响乐团将在我校演出《贝多芬专场交响音乐会》",
+      "url": "https://music.shu.edu.cn/info/1173/3473.htm",
+      "date": "2013-10-24",
+      "column": "热点新闻"
+    },
+    {
+      "title": "我校王思思老师荣获第五届全国高校声乐比赛教师组民族唱法金奖",
+      "url": "https://music.shu.edu.cn/info/1174/3780.htm",
+      "date": "2013-08-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "军中绿花，璀璨上大——上海大学音乐学院13级新生军训圆满结束",
+      "url": "https://music.shu.edu.cn/info/1174/3779.htm",
+      "date": "2013-08-29",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学音乐学院2013级本科生迎新工作顺利完成",
+      "url": "https://music.shu.edu.cn/info/1174/3778.htm",
+      "date": "2013-08-14",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学音乐学院第一次全体大会召开",
+      "url": "https://music.shu.edu.cn/info/1174/3777.htm",
+      "date": "2013-06-08",
+      "column": "学院新闻"
     }
   ]
 }

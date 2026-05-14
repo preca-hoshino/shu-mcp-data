@@ -2,11 +2,12 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260513_175610",
-  "total_articles": 529,
+  "crawl_time": "20260514_004804",
+  "total_articles": 557,
   "columns": {
     "论坛活动": 169,
-    "焦点新闻": 360
+    "通知公告": 27,
+    "焦点新闻": 361
   },
   "articles": [
     {
@@ -28,10 +29,22 @@
       "column": "论坛活动"
     },
     {
+      "title": "关于2026届毕业研究生进沪就业申请本市户籍材料递交及成绩综合排名评定工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26411.htm",
+      "date": "2026-05-12",
+      "column": "通知公告"
+    },
+    {
       "title": "数智金融方向《AI时代的公司估值》课堂教学与实践",
       "url": "https://mp.weixin.qq.com/s/AP0a8dJ6GRcOn-8qYrb-rg",
       "date": "2026-05-11",
       "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA360°职业洞察营首批报名即将截止",
+      "url": "https://mp.weixin.qq.com/s/El8273cPyOm3QNtVZ_d_hA",
+      "date": "2026-05-11",
+      "column": "通知公告"
     },
     {
       "title": "上海大学MBA中心举办专业方向及课程优化调整方案征询意见会",
@@ -40,10 +53,28 @@
       "column": "论坛活动"
     },
     {
+      "title": "关于2027届毕业生生源信息网上校对的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26341.htm",
+      "date": "2026-05-07",
+      "column": "通知公告"
+    },
+    {
       "title": "从课堂到书架|方向学术主任遴选书单助力深度学习（第三期GLMBA）",
       "url": "https://mp.weixin.qq.com/s/Vmx-XxjjnkAHTibBJYHjXg",
       "date": "2026-05-07",
       "column": "论坛活动"
+    },
+    {
+      "title": "招生活动|上海大学MBA2027级“招生零距离”系列活动正式启动",
+      "url": "https://mp.weixin.qq.com/s/wEycHmsUv-rINoLUGXfkQg",
+      "date": "2026-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "赤子之心·热血无畏丨沙15上海大学MBA战队荣耀出征！",
+      "url": "https://mp.weixin.qq.com/s/KJ0uO612htoKOKCuA1Ql1w",
+      "date": "2026-05-06",
+      "column": "通知公告"
     },
     {
       "title": "重磅发布|上海大学MBA中心2027级奖学金政策正式发布",
@@ -58,10 +89,22 @@
       "column": "论坛活动"
     },
     {
+      "title": "招募令|2026-2027上大MBA学联主席换届选举启动",
+      "url": "https://mp.weixin.qq.com/s/mKeenPQbXeqmuDNUaO4BdQ",
+      "date": "2026-05-06",
+      "column": "通知公告"
+    },
+    {
       "title": "从课堂到书架|方向学术主任遴选书单助力深度学习",
       "url": "https://mp.weixin.qq.com/s/s3s0-p8j9ZiBk3jxAIVZFA",
       "date": "2026-04-29",
       "column": "论坛活动"
+    },
+    {
+      "title": "关于23PT毕业生办理云离校手续的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26271.htm",
+      "date": "2026-04-28",
+      "column": "通知公告"
     },
     {
       "title": "深化中欧研学合作 | 欧洲商学院上海研学之旅圆满举行",
@@ -100,6 +143,30 @@
       "column": "论坛活动"
     },
     {
+      "title": "赋能教师专业成长：上大MBA邀您参加两大高水平案例赛事",
+      "url": "https://mp.weixin.qq.com/s/zQElteEv-gIUldkOZmRa5g",
+      "date": "2026-04-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026届春季上海大学MBA中心首选毕业生（Outstanding Graduates）评选方案公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26191.htm",
+      "date": "2026-04-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "上大MBA学子闪耀首届“青梧杯”！斩获佳绩，展现国际风采",
+      "url": "https://mp.weixin.qq.com/s/vhI5B2gpL1Pyxu53s9TU1A",
+      "date": "2026-04-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA中心关于开展2026年ESG可持续发展商业人才奖学金申报工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26161.htm",
+      "date": "2026-04-17",
+      "column": "通知公告"
+    },
+    {
       "title": "智能制造专业方向《系统战略设计》课程教学与实践",
       "url": "https://mp.weixin.qq.com/s/kd31QlSG7kcvI6kJ8UZCIA?token=1412030538&lang=zh_CN",
       "date": "2026-04-17",
@@ -122,6 +189,18 @@
       "url": "https://mp.weixin.qq.com/s/HWMMfFJTbxwo38bSraT5bg",
       "date": "2026-04-15",
       "column": "论坛活动"
+    },
+    {
+      "title": "关于上海大学2027年毕业研究生图像信息采集 (毕业照片拍摄)工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26121.htm",
+      "date": "2026-04-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "开创新局 逐梦赛场 | 研创赛校园宣讲",
+      "url": "https://mp.weixin.qq.com/s/lnxc81niYe2mRkt1YOJM3Q",
+      "date": "2026-04-14",
+      "column": "通知公告"
     },
     {
       "title": "数智文创专业方向《艺术与文化创新》课堂教学与实践",
@@ -148,6 +227,12 @@
       "column": "论坛活动"
     },
     {
+      "title": "2026暑假联合国实地交流项目·人工智能（日内瓦-维也纳）招募通知",
+      "url": "https://mba.shu.edu.cn/cslm/tzgg/2026暑假联合国实地交流项目·人工智能（日内瓦-维也纳）招募通知",
+      "date": "2026-04-08",
+      "column": "通知公告"
+    },
+    {
       "title": "专精特新专业方向《数字化转型与创新驱动发展》课堂教学与实践",
       "url": "https://mp.weixin.qq.com/s/DZzkISTRvX5sggYADOlN8A",
       "date": "2026-04-07",
@@ -158,6 +243,42 @@
       "url": "https://mp.weixin.qq.com/s/LlLWL6TFBqJ6kD_MFroVJg",
       "date": "2026-04-01",
       "column": "焦点新闻"
+    },
+    {
+      "title": "2026年上海大学MBA中心工商管理硕士(MBA)调剂工作办法",
+      "url": "https://mba.shu.edu.cn/info/1024/25991.htm",
+      "date": "2026-03-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（3月31日-4月2日）",
+      "url": "https://mp.weixin.qq.com/s/lEs-0tGRW02wtV7aNy2WuA",
+      "date": "2026-03-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学MBA中心2026届研究生优秀毕业生推荐名单的公示",
+      "url": "https://mba.shu.edu.cn/info/1024/25961.htm",
+      "date": "2026-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生活动 | 上海大学MBA招生政策深度解析—调剂专场",
+      "url": "https://mp.weixin.qq.com/s/IabAIK524chdfe-VDTBdBw",
+      "date": "2026-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "重要通知 | 2026年上海大学MBA调剂意向通道已开启",
+      "url": "https://mp.weixin.qq.com/s/Pb8wVSfrsBZed2UVJHnyyA",
+      "date": "2026-03-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "【国际组织】2026年国家留学基金委与有关国际组织实习生合作项目遴选工作启动",
+      "url": "https://mp.weixin.qq.com/s/lSvzfczb7wVolN8pyi6LDg",
+      "date": "2026-03-27",
+      "column": "通知公告"
     },
     {
       "title": "课程回顾系列一 | 春芽破土，在时代浪潮中积蓄力量",
@@ -2902,6 +3023,12 @@
       "column": "论坛活动"
     },
     {
+      "title": "寻找沪上最具性价比MBA？上海大学MBA在等你！",
+      "url": "https://mba.shu.edu.cn/info/1024/9864.htm",
+      "date": "2019-10-17",
+      "column": "通知公告"
+    },
+    {
       "title": "寻找沪上最具性价比MBA？上海大学MBA等你来！",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7234",
       "date": "2019-10-16",
@@ -2960,6 +3087,36 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7114",
       "date": "2019-09-20",
       "column": "焦点新闻"
+    },
+    {
+      "title": "重大通知 | 上海大学2020级工商管理硕士招生简章正式发布",
+      "url": "https://mba.shu.edu.cn/info/1024/9914.htm",
+      "date": "2019-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "重大通知 | 上海大学MBA 2020级9月22日预复试（面试）即将举行！",
+      "url": "https://mba.shu.edu.cn/info/1024/9934.htm",
+      "date": "2019-09-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学 MBA 2020 年工商管理硕士招生简章",
+      "url": "https://mba.shu.edu.cn/info/1024/9944.htm",
+      "date": "2019-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA 2020级8月31日预复试（面试）通知！",
+      "url": "https://mba.shu.edu.cn/info/1024/9954.htm",
+      "date": "2019-08-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "焦点新闻：SHU MBA Induction 入学导向课程正式开启！",
+      "url": "https://mba.shu.edu.cn/info/1024/9964.htm",
+      "date": "2019-08-09",
+      "column": "通知公告"
     },
     {
       "title": "晴热高温来袭 | SHU MBA本周课程、活动预告",
@@ -3070,6 +3227,12 @@
       "column": "焦点新闻"
     },
     {
+      "title": "招生动态 | 政策解读，不容错过：上大MBA招生宣讲会安排",
+      "url": "https://mba.shu.edu.cn/info/1024/9734.htm",
+      "date": "2019-05-15",
+      "column": "通知公告"
+    },
+    {
       "title": "用爱拥抱明天 | 上大MBA Weekly News Letter（5.8）",
       "url": "https://mba.shu.edu.cn/info/1025/7864.htm",
       "date": "2019-05-09",
@@ -3163,6 +3326,12 @@
       "title": "从司法的有限性去追求司法的确定性——SHU MBA全面发展大讲堂（259场），跨学科讲堂（第8场）顺利举行",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5774",
       "date": "2019-01-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "科学之轮不停转动——SHU MBA全面发展大讲堂（257场），跨学科讲堂（第6场）圆满结束",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4834",
+      "date": "2019-01-12",
       "column": "焦点新闻"
     },
     {

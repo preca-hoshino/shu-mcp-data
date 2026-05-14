@@ -2,12 +2,13 @@
   "domain": "ischool.shu.edu.cn",
   "department": "上海大学图书情报档案系",
   "type": "28",
-  "crawl_time": "20260513_175610",
-  "total_articles": 300,
+  "crawl_time": "20260514_004804",
+  "total_articles": 174,
   "columns": {
-    "新闻动态": 240,
-    "通知公告": 30,
-    "本科生动态": 30
+    "新闻动态": 86,
+    "通知公告": 31,
+    "研究生动态": 42,
+    "本科生动态": 15
   },
   "articles": [
     {
@@ -17,18 +18,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "“聚焦AGI时代的数字人文发展”研讨会在上海大学举行",
-      "url": "https://ischool.shu.edu.cn/info/1221/3923.htm",
-      "date": "2024-11-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "主题教育丨文化遗产与信息管理学院党委领导班子带队赴北京开展学习调研",
-      "url": "https://ischool.shu.edu.cn/info/1221/3912.htm",
-      "date": "2023-05-25",
-      "column": "新闻动态"
-    },
-    {
       "title": "主题教育丨文化遗产与信息管理学院党委领导班子带队赴北京开展学习调研",
       "url": "https://ischool.shu.edu.cn/info/1221/3912.htm",
       "date": "2023-05-25",
@@ -38,65 +27,11 @@
       "title": "文化遗产与信息管理学院2023年硕士研究生招生复试工作办法",
       "url": "https://ischool.shu.edu.cn/info/1013/3892.htm",
       "date": "2023-03-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "文化遗产与信息管理学院2023年硕士研究生招生复试工作办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3892.htm",
-      "date": "2023-03-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "文化遗产与信息管理学院2023年硕士研究生招生复试工作办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3892.htm",
-      "date": "2023-03-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "文化遗产与信息管理学院2023年硕士研究生招生复试工作办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3892.htm",
-      "date": "2023-03-25",
       "column": "通知公告"
     },
     {
       "title": "2022年研究生国家奖学金文信学院推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3883.htm",
-      "date": "2022-09-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年研究生国家奖学金文信学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3883.htm",
-      "date": "2022-09-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年研究生国家奖学金文信学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3883.htm",
-      "date": "2022-09-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年研究生国家奖学金文信学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3883.htm",
-      "date": "2022-09-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年研究生校长奖学金文信学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3884.htm",
-      "date": "2022-09-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年研究生校长奖学金文信学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3884.htm",
-      "date": "2022-09-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年研究生校长奖学金文信学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3884.htm",
       "date": "2022-09-26",
       "column": "通知公告"
     },
@@ -110,65 +45,11 @@
       "title": "2022年文信学院研究生学业奖学金推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3885.htm",
       "date": "2022-09-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年文信学院研究生学业奖学金推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3885.htm",
-      "date": "2022-09-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年文信学院研究生学业奖学金推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3885.htm",
-      "date": "2022-09-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年文信学院研究生学业奖学金推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3885.htm",
-      "date": "2022-09-26",
       "column": "通知公告"
     },
     {
       "title": "2023年上海大学文化遗产与信息管理学院推免生复试方案",
       "url": "https://ischool.shu.edu.cn/info/1013/3873.htm",
-      "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试方案",
-      "url": "https://ischool.shu.edu.cn/info/1013/3873.htm",
-      "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试方案",
-      "url": "https://ischool.shu.edu.cn/info/1013/3873.htm",
-      "date": "2022-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试方案",
-      "url": "https://ischool.shu.edu.cn/info/1013/3873.htm",
-      "date": "2022-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/3874.htm",
-      "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/3874.htm",
-      "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/3874.htm",
       "date": "2022-09-23",
       "column": "通知公告"
     },
@@ -182,66 +63,12 @@
       "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知——文物与博物馆",
       "url": "https://ischool.shu.edu.cn/info/1013/3875.htm",
       "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知——文物与博物馆",
-      "url": "https://ischool.shu.edu.cn/info/1013/3875.htm",
-      "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知——文物与博物馆",
-      "url": "https://ischool.shu.edu.cn/info/1013/3875.htm",
-      "date": "2022-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知——文物与博物馆",
-      "url": "https://ischool.shu.edu.cn/info/1013/3875.htm",
-      "date": "2022-09-23",
       "column": "通知公告"
     },
     {
       "title": "2023年上海大学文化遗产与信息管理学院推免硕士研究生复试通知",
       "url": "https://ischool.shu.edu.cn/info/1013/3881.htm",
       "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免硕士研究生复试通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/3881.htm",
-      "date": "2022-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免硕士研究生复试通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/3881.htm",
-      "date": "2022-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2023年上海大学文化遗产与信息管理学院推免硕士研究生复试通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/3881.htm",
-      "date": "2022-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年研究生宝钢奖学金文化遗产与信息管理学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3872.htm",
-      "date": "2022-09-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年研究生宝钢奖学金文化遗产与信息管理学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3872.htm",
-      "date": "2022-09-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年研究生宝钢奖学金文化遗产与信息管理学院推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3872.htm",
-      "date": "2022-09-21",
       "column": "通知公告"
     },
     {
@@ -254,65 +81,17 @@
       "title": "院研究生第二党支部换届大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3870.htm",
       "date": "2022-09-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "院研究生第二党支部换届大会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/3870.htm",
-      "date": "2022-09-20",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "院研究生第六党支部成立大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3871.htm",
       "date": "2022-09-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "院研究生第六党支部成立大会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/3871.htm",
-      "date": "2022-09-20",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2023年免试攻读硕士研究生推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3866.htm",
-      "date": "2022-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2023年免试攻读硕士研究生推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3866.htm",
-      "date": "2022-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2023年免试攻读硕士研究生推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3866.htm",
-      "date": "2022-09-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2023年免试攻读硕士研究生推荐名单公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3866.htm",
-      "date": "2022-09-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年上海大学文化遗产与信息管理学院研究生学业奖学金评定办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3868.htm",
-      "date": "2022-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年上海大学文化遗产与信息管理学院研究生学业奖学金评定办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3868.htm",
-      "date": "2022-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年上海大学文化遗产与信息管理学院研究生学业奖学金评定办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3868.htm",
       "date": "2022-09-16",
       "column": "通知公告"
     },
@@ -326,42 +105,6 @@
       "title": "2022年上海大学文化遗产与信息管理学院研究生国家奖学金评审办法",
       "url": "https://ischool.shu.edu.cn/info/1013/3869.htm",
       "date": "2022-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年上海大学文化遗产与信息管理学院研究生国家奖学金评审办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3869.htm",
-      "date": "2022-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2022年上海大学文化遗产与信息管理学院研究生国家奖学金评审办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3869.htm",
-      "date": "2022-09-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年上海大学文化遗产与信息管理学院研究生国家奖学金评审办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/3869.htm",
-      "date": "2022-09-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2023年推荐应届优秀本科毕业生免试攻读硕士学位研...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3865.htm",
-      "date": "2022-09-14",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2023年推荐应届优秀本科毕业生免试攻读硕士学位研...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3865.htm",
-      "date": "2022-09-14",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2023年推荐应届优秀本科毕业生免试攻读硕士学位研...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3865.htm",
-      "date": "2022-09-14",
       "column": "通知公告"
     },
     {
@@ -374,79 +117,31 @@
       "title": "上海大学文化遗产与信息管理学院2022级研究生新生欢迎会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3863.htm",
       "date": "2022-09-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022级研究生新生欢迎会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/3863.htm",
-      "date": "2022-09-12",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022级研究生新生见面会暨团学纳新考察圆满落幕",
       "url": "https://ischool.shu.edu.cn/info/1231/3864.htm",
       "date": "2022-09-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022级研究生新生见面会暨团学纳新考察圆满落幕",
-      "url": "https://ischool.shu.edu.cn/info/1231/3864.htm",
-      "date": "2022-09-12",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022-2023学年研究生团学换届大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3862.htm",
       "date": "2022-09-08",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022-2023学年研究生团学换届大会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/3862.htm",
-      "date": "2022-09-08",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022-2023学年研究生党总支换届大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3851.htm",
       "date": "2022-09-06",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022-2023学年研究生党总支换届大会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/3851.htm",
-      "date": "2022-09-06",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "院研究生第三党支部、第五党支部联动开展“红色故事润心田，革命精神代代传”主题...",
       "url": "https://ischool.shu.edu.cn/info/1231/3841.htm",
       "date": "2022-08-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "院研究生第三党支部、第五党支部联动开展“红色故事润心田，革命精神代代传”主题...",
-      "url": "https://ischool.shu.edu.cn/info/1231/3841.htm",
-      "date": "2022-08-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022年全国优秀大学生图书情报与档案管理学科夏令...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3832.htm",
-      "date": "2022-07-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022年全国优秀大学生图书情报与档案管理学科夏令...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3832.htm",
-      "date": "2022-07-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022年全国优秀大学生图书情报与档案管理学科夏令...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3832.htm",
-      "date": "2022-07-20",
-      "column": "通知公告"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022年全国优秀大学生图书情报与档案管理学科夏令...",
@@ -458,31 +153,7 @@
       "title": "院研究生第一党支部、第四党支部“我和我的家乡”党史学习教育第五期顺利举办",
       "url": "https://ischool.shu.edu.cn/info/1231/3827.htm",
       "date": "2022-07-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "院研究生第一党支部、第四党支部“我和我的家乡”党史学习教育第五期顺利举办",
-      "url": "https://ischool.shu.edu.cn/info/1231/3827.htm",
-      "date": "2022-07-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022年“全国优秀大学生图书情报与档案管理学科夏...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3826.htm",
-      "date": "2022-07-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022年“全国优秀大学生图书情报与档案管理学科夏...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3826.htm",
-      "date": "2022-07-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学文化遗产与信息管理学院2022年“全国优秀大学生图书情报与档案管理学科夏...",
-      "url": "https://ischool.shu.edu.cn/info/1013/3826.htm",
-      "date": "2022-07-12",
-      "column": "通知公告"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022年“全国优秀大学生图书情报与档案管理学科夏...",
@@ -494,78 +165,198 @@
       "title": "文信学院研究生第一、第四党支部联合召开“中国共产党上海市第十二次代表大会精神...",
       "url": "https://ischool.shu.edu.cn/info/1231/3824.htm",
       "date": "2022-07-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "文信学院研究生第一、第四党支部联合召开“中国共产党上海市第十二次代表大会精神...",
-      "url": "https://ischool.shu.edu.cn/info/1231/3824.htm",
-      "date": "2022-07-09",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "文信学院研究生第三党支部、第五党支部“砥砺奋进 勇毅前行——中国共产党上海市第...",
       "url": "https://ischool.shu.edu.cn/info/1231/3825.htm",
       "date": "2022-07-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "文信学院研究生第三党支部、第五党支部“砥砺奋进 勇毅前行——中国共产党上海市第...",
-      "url": "https://ischool.shu.edu.cn/info/1231/3825.htm",
-      "date": "2022-07-09",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学2022届文化遗产与信息管理学院研究生成绩综合排名公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3823.htm",
       "date": "2022-07-05",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学2022届文化遗产与信息管理学院研究生成绩综合排名公示",
-      "url": "https://ischool.shu.edu.cn/info/1013/3823.htm",
-      "date": "2022-07-05",
-      "column": "新闻动态"
+      "column": "通知公告"
     },
     {
       "title": "文信学院开展庆七一暨2022年毕业主题教育活动",
       "url": "https://ischool.shu.edu.cn/info/1231/3821.htm",
       "date": "2022-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "文信学院开展庆七一暨2022年毕业主题教育活动",
-      "url": "https://ischool.shu.edu.cn/info/1231/3821.htm",
-      "date": "2022-07-01",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院本硕党支部党建工作荣获多项荣誉表彰",
       "url": "https://ischool.shu.edu.cn/info/1231/3822.htm",
       "date": "2022-07-01",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
-      "title": "上海大学文化遗产与信息管理学院本硕党支部党建工作荣获多项荣誉表彰",
-      "url": "https://ischool.shu.edu.cn/info/1231/3822.htm",
-      "date": "2022-07-01",
-      "column": "新闻动态"
+      "title": "上海大学文化遗产与信息管理学院关于举办2022年全国优秀大学生图书情报与档案管理...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3812.htm",
+      "date": "2022-06-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "文信学院研究生第一、第三、第四、第五党支部顺利联合召开专题组织生活会",
+      "url": "https://ischool.shu.edu.cn/info/1231/3809.htm",
+      "date": "2022-06-06",
+      "column": "研究生动态"
+    },
+    {
+      "title": "院研究生第一党支部、第四党支部 “我和我的家乡”活动顺利举办",
+      "url": "https://ischool.shu.edu.cn/info/1231/3810.htm",
+      "date": "2022-06-06",
+      "column": "研究生动态"
+    },
+    {
+      "title": "图书情报专业学位授权点建设年度报告（2020-2021年）",
+      "url": "https://ischool.shu.edu.cn/info/1231/3807.htm",
+      "date": "2022-05-21",
+      "column": "研究生动态"
+    },
+    {
+      "title": "上海大学文化遗产与信息管理学院2022届毕业生访企拓岗就业宣讲会第一场顺利举办",
+      "url": "https://ischool.shu.edu.cn/info/1231/3793.htm",
+      "date": "2022-05-14",
+      "column": "研究生动态"
+    },
+    {
+      "title": "文信学院成功举办2022年五四主题团日活动",
+      "url": "https://ischool.shu.edu.cn/info/1231/3792.htm",
+      "date": "2022-05-06",
+      "column": "研究生动态"
+    },
+    {
+      "title": "院研究生第四党支部举办“学习习近平总书记考察中国人民大学重要讲话精神”主题党...",
+      "url": "https://ischool.shu.edu.cn/info/1231/3789.htm",
+      "date": "2022-05-03",
+      "column": "研究生动态"
+    },
+    {
+      "title": "院研究生第一党支部召开“百年校史展芳华 时代青年担使命”主题党日活动",
+      "url": "https://ischool.shu.edu.cn/info/1231/3790.htm",
+      "date": "2022-05-03",
+      "column": "研究生动态"
+    },
+    {
+      "title": "院研究生第三党支部、研究生第五党支部联合开展 “争做堪当民族复兴重任的时代新人...",
+      "url": "https://ischool.shu.edu.cn/info/1231/3791.htm",
+      "date": "2022-05-03",
+      "column": "研究生动态"
+    },
+    {
+      "title": "上海大学文化遗产与信息管理学院（图书情报与档案管理）2022年博士研究生复试考生...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3783.htm",
+      "date": "2022-04-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学文化遗产与信息管理学院（图书情报与档案管理）2022年博士研究生招生工作...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3781.htm",
+      "date": "2022-04-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "文化遗产与信息管理学院（图书情报与档案管理）2022年博士研究生复试名单公示",
+      "url": "https://ischool.shu.edu.cn/info/1013/3782.htm",
+      "date": "2022-04-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "文化遗产与信息管理学院成功举办“生涯导航季”系列活动——“找到令你心动的Offer...",
+      "url": "https://ischool.shu.edu.cn/info/1231/3788.htm",
+      "date": "2022-04-25",
+      "column": "研究生动态"
+    },
+    {
+      "title": "青春聚力，“疫”线中的靓丽色彩，研究生线上春日校园摄影展活动",
+      "url": "https://ischool.shu.edu.cn/info/1231/3787.htm",
+      "date": "2022-04-24",
+      "column": "研究生动态"
+    },
+    {
+      "title": "“学科碰撞萌火花，学术互鉴促提升”文化遗产与信息管理学院2021-2022学年研究生赏...",
+      "url": "https://ischool.shu.edu.cn/info/1231/3779.htm",
+      "date": "2022-04-16",
+      "column": "研究生动态"
+    },
+    {
+      "title": "院研究生党支部召开联合专题组织生活会",
+      "url": "https://ischool.shu.edu.cn/info/1231/3778.htm",
+      "date": "2022-04-14",
+      "column": "研究生动态"
+    },
+    {
+      "title": "同心抗疫谱芳华，青春聚力勇担当 ——感悟抗疫精神系列主题团日活动",
+      "url": "https://ischool.shu.edu.cn/info/1231/3786.htm",
+      "date": "2022-04-12",
+      "column": "研究生动态"
+    },
+    {
+      "title": "上海大学文化遗产与信息管理学院 2021-2022 学年春季学期研究生首日教育顺利举行",
+      "url": "https://ischool.shu.edu.cn/info/1231/3777.htm",
+      "date": "2022-04-06",
+      "column": "研究生动态"
+    },
+    {
+      "title": "院研究生第三、五党支部联合召开 “凝聚力量·携手战‘疫’” 主题党日活动暨组织生...",
+      "url": "https://ischool.shu.edu.cn/info/1231/3776.htm",
+      "date": "2022-04-05",
+      "column": "研究生动态"
+    },
+    {
+      "title": "2022年上海大学文化遗产与信息管理学院（图书情报档案系）硕士研究生复试补充通知...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3775.htm",
+      "date": "2022-04-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年上海大学文化遗产与信息管理学院（图书情报档案系）硕士研究生复试补充通知...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3774.htm",
+      "date": "2022-03-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年上海大学文化遗产与信息管理学院（图书情报档案系）硕士研究生复试补充通知...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3773.htm",
+      "date": "2022-03-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "文化遗产与信息管理学院研究生联合团支部荣获2021-2022学年冬季学期“活力团支部”...",
+      "url": "https://ischool.shu.edu.cn/info/1231/3785.htm",
+      "date": "2022-03-30",
+      "column": "研究生动态"
+    },
+    {
+      "title": "2022年上海大学文化遗产与信息管理学院（图书情报档案系）硕士研究生复试考生模拟...",
+      "url": "https://ischool.shu.edu.cn/info/1013/3772.htm",
+      "date": "2022-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "文化遗产与信息管理学院（图书情报档案系）2022年硕士研究生招生复试方案",
+      "url": "https://ischool.shu.edu.cn/info/1013/3763.htm",
+      "date": "2022-03-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "“云”端共相守，“疫”起向未来——文信学院研究生春日打卡接力",
+      "url": "https://ischool.shu.edu.cn/info/1231/3784.htm",
+      "date": "2022-03-26",
+      "column": "研究生动态"
+    },
+    {
+      "title": "文信学院研究生第一党支部召开“聚焦两会凝力量，同心战疫克时艰”主题党日活动",
+      "url": "https://ischool.shu.edu.cn/info/1231/3761.htm",
+      "date": "2022-03-17",
+      "column": "研究生动态"
     },
     {
       "title": "传承红色基因，赓续百年荣光——上大记忆项目部分成果作品圆满展出",
       "url": "https://ischool.shu.edu.cn/info/1222/3742.htm",
       "date": "2022-01-07",
-      "column": "本科生动态"
-    },
-    {
-      "title": "传承红色基因，赓续百年荣光——上大记忆项目部分成果作品圆满展出",
-      "url": "https://ischool.shu.edu.cn/info/1222/3742.htm",
-      "date": "2022-01-07",
-      "column": "本科生动态"
-    },
-    {
-      "title": "“把我的大学带回母校”——北京学子寒假回母校培训交流会活动圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1222/3741.htm",
-      "date": "2022-01-03",
       "column": "本科生动态"
     },
     {
@@ -581,18 +372,6 @@
       "column": "本科生动态"
     },
     {
-      "title": "2022年寒假社会实践立项答辩——图书情报档案系百人实践团队集结完毕",
-      "url": "https://ischool.shu.edu.cn/info/1222/3739.htm",
-      "date": "2021-12-31",
-      "column": "本科生动态"
-    },
-    {
-      "title": "悟青年担当，谱时代华章——图书情报档案系2021-2022学年冬季学期本科生联合团支部...",
-      "url": "https://ischool.shu.edu.cn/info/1222/3738.htm",
-      "date": "2021-12-28",
-      "column": "本科生动态"
-    },
-    {
       "title": "悟青年担当，谱时代华章——图书情报档案系2021-2022学年冬季学期本科生联合团支部...",
       "url": "https://ischool.shu.edu.cn/info/1222/3738.htm",
       "date": "2021-12-28",
@@ -601,18 +380,6 @@
     {
       "title": "我系2022年寒期社会实践动员培训会圆满结束",
       "url": "https://ischool.shu.edu.cn/info/1222/3735.htm",
-      "date": "2021-12-27",
-      "column": "本科生动态"
-    },
-    {
-      "title": "我系2022年寒期社会实践动员培训会圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1222/3735.htm",
-      "date": "2021-12-27",
-      "column": "本科生动态"
-    },
-    {
-      "title": "师生同行·教学相长——导师驻楼之社区讲堂第一讲在南区活动室圆满开展",
-      "url": "https://ischool.shu.edu.cn/info/1222/3737.htm",
       "date": "2021-12-27",
       "column": "本科生动态"
     },
@@ -629,27 +396,9 @@
       "column": "本科生动态"
     },
     {
-      "title": "我系本科生党支部召开党员大会",
-      "url": "https://ischool.shu.edu.cn/info/1222/3736.htm",
-      "date": "2021-12-24",
-      "column": "本科生动态"
-    },
-    {
       "title": "凝心聚力 强健体魄 赛出风采｜图情档系师生本硕联动篮球赛圆满举办",
       "url": "https://ischool.shu.edu.cn/info/1222/3708.htm",
       "date": "2021-12-23",
-      "column": "本科生动态"
-    },
-    {
-      "title": "凝心聚力 强健体魄 赛出风采｜图情档系师生本硕联动篮球赛圆满举办",
-      "url": "https://ischool.shu.edu.cn/info/1222/3708.htm",
-      "date": "2021-12-23",
-      "column": "本科生动态"
-    },
-    {
-      "title": "“研”路有你，一路畅行——考研经验交流分享会圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1222/3701.htm",
-      "date": "2021-12-14",
       "column": "本科生动态"
     },
     {
@@ -665,26 +414,8 @@
       "column": "本科生动态"
     },
     {
-      "title": "喜报！我系本科生联合团支部荣获上海大学2021-2022学年秋季学期“活力团支部”称号",
-      "url": "https://ischool.shu.edu.cn/info/1222/3700.htm",
-      "date": "2021-12-10",
-      "column": "本科生动态"
-    },
-    {
       "title": "“学”路师生行，“术”说图情档——我系2021年本科生学风建设季总结",
       "url": "https://ischool.shu.edu.cn/info/1222/3698.htm",
-      "date": "2021-12-06",
-      "column": "本科生动态"
-    },
-    {
-      "title": "“学”路师生行，“术”说图情档——我系2021年本科生学风建设季总结",
-      "url": "https://ischool.shu.edu.cn/info/1222/3698.htm",
-      "date": "2021-12-06",
-      "column": "本科生动态"
-    },
-    {
-      "title": "“引领伟大复兴征程·意气风发走向未来”我系本科生党支部开展学习十九届六中全会主...",
-      "url": "https://ischool.shu.edu.cn/info/1222/3699.htm",
       "date": "2021-12-06",
       "column": "本科生动态"
     },
@@ -701,18 +432,6 @@
       "column": "本科生动态"
     },
     {
-      "title": "我系学子参与上海大学第四届本科生学术论坛答辩及主论坛颁奖典礼",
-      "url": "https://ischool.shu.edu.cn/info/1222/3672.htm",
-      "date": "2021-12-02",
-      "column": "本科生动态"
-    },
-    {
-      "title": "我系本科生团委、学生会秋季学期述职评议会暨“菁才班”开班仪式圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1222/3670.htm",
-      "date": "2021-11-30",
-      "column": "本科生动态"
-    },
-    {
       "title": "我系本科生团委、学生会秋季学期述职评议会暨“菁才班”开班仪式圆满结束",
       "url": "https://ischool.shu.edu.cn/info/1222/3670.htm",
       "date": "2021-11-30",
@@ -725,16 +444,34 @@
       "column": "本科生动态"
     },
     {
-      "title": "肩负使命，​开创未来 |我系团委圆满召开党的十九届六中全会精神专题学习会",
-      "url": "https://ischool.shu.edu.cn/info/1222/3669.htm",
-      "date": "2021-11-29",
-      "column": "本科生动态"
+      "title": "2021年研究生校长奖学金图书情报档案系推荐名单公示",
+      "url": "https://ischool.shu.edu.cn/info/1013/3606.htm",
+      "date": "2021-10-12",
+      "column": "通知公告"
     },
     {
-      "title": "2018级党支部组织观看专题片 《我们走在大路上》",
-      "url": "https://ischool.shu.edu.cn/info/1231/1984.htm",
-      "date": "2019-12-13",
-      "column": "新闻动态"
+      "title": "2021年研究生国家奖学金图书情报档案系推荐名单公示",
+      "url": "https://ischool.shu.edu.cn/info/1013/3607.htm",
+      "date": "2021-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2021图书情报档案系研究生学业奖学金推荐名单公示",
+      "url": "https://ischool.shu.edu.cn/info/1013/3608.htm",
+      "date": "2021-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年上海大学图书情报档案系推免硕士研究生复试通知",
+      "url": "https://ischool.shu.edu.cn/info/1013/3586.htm",
+      "date": "2021-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年上海大学图书情报档案系推免生复试模拟测试的通知",
+      "url": "https://ischool.shu.edu.cn/info/1013/3585.htm",
+      "date": "2021-09-22",
+      "column": "通知公告"
     },
     {
       "title": "2018级党支部组织观看专题片 《我们走在大路上》",
@@ -745,18 +482,6 @@
     {
       "title": "2017级研究生党支部召开专题组织生活会和民主评议会",
       "url": "https://ischool.shu.edu.cn/info/1231/1981.htm",
-      "date": "2019-12-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2017级研究生党支部召开专题组织生活会和民主评议会",
-      "url": "https://ischool.shu.edu.cn/info/1231/1981.htm",
-      "date": "2019-12-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2017级研究生党支部参观“建国七十周年大型成就展”数字展厅",
-      "url": "https://ischool.shu.edu.cn/info/1231/1982.htm",
       "date": "2019-12-12",
       "column": "新闻动态"
     },
@@ -773,27 +498,9 @@
       "column": "新闻动态"
     },
     {
-      "title": "2019年上海市基层档案专业技术人员互联网+思维暨档案信息管理能力专题培训在我系举...",
-      "url": "https://ischool.shu.edu.cn/info/1221/1971.htm",
-      "date": "2019-12-09",
-      "column": "新闻动态"
-    },
-    {
       "title": "2019信息资源管理论坛暨图情档学科研究生论坛顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1972.htm",
       "date": "2019-12-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2019信息资源管理论坛暨图情档学科研究生论坛顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1972.htm",
-      "date": "2019-12-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1966.htm",
-      "date": "2019-12-06",
       "column": "新闻动态"
     },
     {
@@ -809,18 +516,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "我系金波教授获2019年度国家社科基金重大项目",
-      "url": "https://ischool.shu.edu.cn/info/1221/1962.htm",
-      "date": "2019-12-05",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2019年暑期社会实践活动硕果累累",
-      "url": "https://ischool.shu.edu.cn/info/1221/1951.htm",
-      "date": "2019-12-04",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系2019年暑期社会实践活动硕果累累",
       "url": "https://ischool.shu.edu.cn/info/1221/1951.htm",
       "date": "2019-12-04",
@@ -833,26 +528,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "图书情报档案系党政班子专题民主生活会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1221/1945.htm",
-      "date": "2019-12-03",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系2017级研究生党支部参观钱伟长纪念馆与上大校史馆",
       "url": "https://ischool.shu.edu.cn/info/1231/1941.htm",
-      "date": "2019-12-02",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2017级研究生党支部参观钱伟长纪念馆与上大校史馆",
-      "url": "https://ischool.shu.edu.cn/info/1231/1941.htm",
-      "date": "2019-12-02",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2019年第3期研究生赏论讲坛顺利举办",
-      "url": "https://ischool.shu.edu.cn/info/1231/1944.htm",
       "date": "2019-12-02",
       "column": "新闻动态"
     },
@@ -869,26 +546,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "终场落幕！图情档外国语联队VS材料学院战报速递",
-      "url": "https://ischool.shu.edu.cn/info/1231/1942.htm",
-      "date": "2019-12-01",
-      "column": "新闻动态"
-    },
-    {
       "title": "我系志愿者为重要领导讲解上海大学校史",
       "url": "https://ischool.shu.edu.cn/info/1221/1932.htm",
-      "date": "2019-11-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我系志愿者为重要领导讲解上海大学校史",
-      "url": "https://ischool.shu.edu.cn/info/1221/1932.htm",
-      "date": "2019-11-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1931.htm",
       "date": "2019-11-29",
       "column": "新闻动态"
     },
@@ -905,27 +564,9 @@
       "column": "新闻动态"
     },
     {
-      "title": "放眼世界风云 紧扣时代脉搏",
-      "url": "https://ischool.shu.edu.cn/info/1222/1922.htm",
-      "date": "2019-11-28",
-      "column": "新闻动态"
-    },
-    {
       "title": "图情档系金波主任一行参加苏州档案日活动",
       "url": "https://ischool.shu.edu.cn/info/1221/1832.htm",
       "date": "2019-11-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图情档系金波主任一行参加苏州档案日活动",
-      "url": "https://ischool.shu.edu.cn/info/1221/1832.htm",
-      "date": "2019-11-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1842.htm",
-      "date": "2019-11-08",
       "column": "新闻动态"
     },
     {
@@ -941,26 +582,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "助力进博会，图情档人在行动",
-      "url": "https://ischool.shu.edu.cn/info/1221/1843.htm",
-      "date": "2019-11-07",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系研究生党建例会顺利召开",
       "url": "https://ischool.shu.edu.cn/info/1231/1818.htm",
-      "date": "2019-11-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系研究生党建例会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1231/1818.htm",
-      "date": "2019-11-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系研究生党团学例会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1231/1819.htm",
       "date": "2019-11-03",
       "column": "新闻动态"
     },
@@ -977,26 +600,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "图书情报档案系2019年第2期研究生赏论讲坛顺利举办",
-      "url": "https://ischool.shu.edu.cn/info/1231/1820.htm",
-      "date": "2019-11-03",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系第一届校史馆志愿讲解培训会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1821.htm",
-      "date": "2019-11-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系第一届校史馆志愿讲解培训会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1821.htm",
-      "date": "2019-11-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系召开2018级研究生入党积极分子推优大会",
-      "url": "https://ischool.shu.edu.cn/info/1231/1822.htm",
       "date": "2019-11-03",
       "column": "新闻动态"
     },
@@ -1013,26 +618,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "图情档系领导班子与教工党支部参观校史馆和溯园",
-      "url": "https://ischool.shu.edu.cn/info/1221/1815.htm",
-      "date": "2019-11-01",
-      "column": "新闻动态"
-    },
-    {
       "title": "上海市档案局领导莅临我校参观指导",
       "url": "https://ischool.shu.edu.cn/info/1221/1823.htm",
-      "date": "2019-11-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海市档案局领导莅临我校参观指导",
-      "url": "https://ischool.shu.edu.cn/info/1221/1823.htm",
-      "date": "2019-11-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1816.htm",
       "date": "2019-11-01",
       "column": "新闻动态"
     },
@@ -1049,18 +636,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "活动回顾 【2020考研经验分享会】",
-      "url": "https://ischool.shu.edu.cn/info/1222/1806.htm",
-      "date": "2019-10-30",
-      "column": "新闻动态"
-    },
-    {
-      "title": "自检自查——图书情报档案系2019级研究生党支部召开“不忘初心追卓越、牢记使命创...",
-      "url": "https://ischool.shu.edu.cn/info/1231/1813.htm",
-      "date": "2019-10-30",
-      "column": "新闻动态"
-    },
-    {
       "title": "自检自查——图书情报档案系2019级研究生党支部召开“不忘初心追卓越、牢记使命创...",
       "url": "https://ischool.shu.edu.cn/info/1231/1813.htm",
       "date": "2019-10-30",
@@ -1069,18 +644,6 @@
     {
       "title": "图情档系领导班子召开“不忘初心、牢记使命”主题教育专题学习会",
       "url": "https://ischool.shu.edu.cn/info/1221/1803.htm",
-      "date": "2019-10-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图情档系领导班子召开“不忘初心、牢记使命”主题教育专题学习会",
-      "url": "https://ischool.shu.edu.cn/info/1221/1803.htm",
-      "date": "2019-10-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "活动回顾【“和压力打个招呼”心理沙龙】",
-      "url": "https://ischool.shu.edu.cn/info/1222/1801.htm",
       "date": "2019-10-29",
       "column": "新闻动态"
     },
@@ -1097,18 +660,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "新时代 新青年 新担当 党支部书记专题党课",
-      "url": "https://ischool.shu.edu.cn/info/1231/1817.htm",
-      "date": "2019-10-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "自查整改交流——图情档系2018级研究生党支部召开第二次“不忘初心追卓越，牢记使...",
-      "url": "https://ischool.shu.edu.cn/info/1231/1802.htm",
-      "date": "2019-10-28",
-      "column": "新闻动态"
-    },
-    {
       "title": "自查整改交流——图情档系2018级研究生党支部召开第二次“不忘初心追卓越，牢记使...",
       "url": "https://ischool.shu.edu.cn/info/1231/1802.htm",
       "date": "2019-10-28",
@@ -1117,18 +668,6 @@
     {
       "title": "图书情报档案系研究生党支部慈善爱心屋捐书志愿活动圆满结束",
       "url": "https://ischool.shu.edu.cn/info/1231/1791.htm",
-      "date": "2019-10-27",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系研究生党支部慈善爱心屋捐书志愿活动圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1231/1791.htm",
-      "date": "2019-10-27",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2017级研究生党支部召开党员大会",
-      "url": "https://ischool.shu.edu.cn/info/1231/1943.htm",
       "date": "2019-10-27",
       "column": "新闻动态"
     },
@@ -1145,18 +684,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "图情档系“加强党建思想引领，激发学术创新活力” 专题党课顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1221/1804.htm",
-      "date": "2019-10-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "“不忘研途初心，牢记学术担当” 图情档系学风建设促进会成功举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1793.htm",
-      "date": "2019-10-26",
-      "column": "新闻动态"
-    },
-    {
       "title": "“不忘研途初心，牢记学术担当” 图情档系学风建设促进会成功举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1793.htm",
       "date": "2019-10-26",
@@ -1169,26 +696,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "图情档系领导班子召开对照党章党规找差距专题会议",
-      "url": "https://ischool.shu.edu.cn/info/1221/1781.htm",
-      "date": "2019-10-25",
-      "column": "新闻动态"
-    },
-    {
       "title": "图情档系召开“不忘初心、牢记使命” 主题教育党支部书记培训会",
       "url": "https://ischool.shu.edu.cn/info/1221/1783.htm",
-      "date": "2019-10-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图情档系召开“不忘初心、牢记使命” 主题教育党支部书记培训会",
-      "url": "https://ischool.shu.edu.cn/info/1221/1783.htm",
-      "date": "2019-10-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图情档系“为人民服务：永远不变的初心使命”专题党课顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1221/1784.htm",
       "date": "2019-10-23",
       "column": "新闻动态"
     },
@@ -1205,26 +714,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "图情档系领导班子召开“不忘初心，牢记使命，推进学科建设”主题党课活动",
-      "url": "https://ischool.shu.edu.cn/info/1221/1782.htm",
-      "date": "2019-10-22",
-      "column": "新闻动态"
-    },
-    {
       "title": "上大体育节圆满落幕，图情档学子喜获佳绩",
       "url": "https://ischool.shu.edu.cn/info/1221/1785.htm",
-      "date": "2019-10-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上大体育节圆满落幕，图情档学子喜获佳绩",
-      "url": "https://ischool.shu.edu.cn/info/1221/1785.htm",
-      "date": "2019-10-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2019年第1期研究生赏论讲坛顺利举办",
-      "url": "https://ischool.shu.edu.cn/info/1231/1751.htm",
       "date": "2019-10-19",
       "column": "新闻动态"
     },
@@ -1241,18 +732,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "“新中国档案学研究的成就——以档案学基础理论为例”讲座顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1752.htm",
-      "date": "2019-10-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我系与法学院联合举办“我和我的祖国”新时代爱国主义教育活动",
-      "url": "https://ischool.shu.edu.cn/info/1231/1753.htm",
-      "date": "2019-10-19",
-      "column": "新闻动态"
-    },
-    {
       "title": "我系与法学院联合举办“我和我的祖国”新时代爱国主义教育活动",
       "url": "https://ischool.shu.edu.cn/info/1231/1753.htm",
       "date": "2019-10-19",
@@ -1265,26 +744,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "中山大学陈永生教授莅临图书情报档案系作学术报告",
-      "url": "https://ischool.shu.edu.cn/info/1231/1756.htm",
-      "date": "2019-10-18",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系“不忘初心，牢记使命”党团学干部座谈会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1221/1661.htm",
-      "date": "2019-09-28",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系“不忘初心，牢记使命”党团学干部座谈会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1221/1661.htm",
-      "date": "2019-09-28",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系“不忘初心，牢记使命” 支部书记培训会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1221/1664.htm",
       "date": "2019-09-28",
       "column": "新闻动态"
     },
@@ -1301,27 +762,9 @@
       "column": "新闻动态"
     },
     {
-      "title": "图书情报档案系“口述历史档案资源建设”讲座顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1221/1663.htm",
-      "date": "2019-09-26",
-      "column": "新闻动态"
-    },
-    {
       "title": "图情档系领导班子召开关于 “加强党的政治建设，坚持全面从严治党”专题学习会",
       "url": "https://ischool.shu.edu.cn/info/1221/1641.htm",
       "date": "2019-09-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图情档系领导班子召开关于 “加强党的政治建设，坚持全面从严治党”专题学习会",
-      "url": "https://ischool.shu.edu.cn/info/1221/1641.htm",
-      "date": "2019-09-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "【学术报告】口述历史档案资源建设",
-      "url": "https://ischool.shu.edu.cn/info/1013/1631.htm",
-      "date": "2019-09-24",
       "column": "新闻动态"
     },
     {
@@ -1337,26 +780,8 @@
       "column": "新闻动态"
     },
     {
-      "title": "2020年上海大学图书情报档案系推免生复试方案",
-      "url": "https://ischool.shu.edu.cn/info/1013/1621.htm",
-      "date": "2019-09-23",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系研究生奖学金评审委员会名单",
       "url": "https://ischool.shu.edu.cn/info/1013/1610.htm",
-      "date": "2019-09-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系研究生奖学金评审委员会名单",
-      "url": "https://ischool.shu.edu.cn/info/1013/1610.htm",
-      "date": "2019-09-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2019年图书情报档案系研究生奖学金评选工作的通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/1614.htm",
       "date": "2019-09-21",
       "column": "新闻动态"
     },
@@ -1373,18 +798,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "图书情报档案系召开“不忘初心、牢记使命” 主题教育党支部书记培训会",
-      "url": "https://ischool.shu.edu.cn/info/1221/1605.htm",
-      "date": "2019-09-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2019级研究生党支部召开 “不忘初心、牢记使命”主题教育组织生活会",
-      "url": "https://ischool.shu.edu.cn/info/1231/1601.htm",
-      "date": "2019-09-21",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系2019级研究生党支部召开 “不忘初心、牢记使命”主题教育组织生活会",
       "url": "https://ischool.shu.edu.cn/info/1231/1601.htm",
       "date": "2019-09-21",
@@ -1394,29 +807,11 @@
       "title": "图书情报档案系“不忘初心、牢记使命” 主题教育学习会顺利召开",
       "url": "https://ischool.shu.edu.cn/info/1231/1586.htm",
       "date": "2019-09-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系“不忘初心、牢记使命” 主题教育学习会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1231/1586.htm",
-      "date": "2019-09-19",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "图书情报档案系本科生学籍清理的公告",
       "url": "https://ischool.shu.edu.cn/info/1013/1584.htm",
-      "date": "2019-09-18",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系本科生学籍清理的公告",
-      "url": "https://ischool.shu.edu.cn/info/1013/1584.htm",
-      "date": "2019-09-18",
-      "column": "新闻动态"
-    },
-    {
-      "title": "“妙趣横生：面向大众的记忆机构文创产品开发”国际工作坊会议通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/1585.htm",
       "date": "2019-09-18",
       "column": "新闻动态"
     },
@@ -1433,28 +828,10 @@
       "column": "新闻动态"
     },
     {
-      "title": "上海大学图书情报档案系推荐2020年应届优秀本科毕业生免试攻读硕士学位研究生工作...",
-      "url": "https://ischool.shu.edu.cn/info/1013/1561.htm",
-      "date": "2019-09-10",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系团学见面会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1541.htm",
       "date": "2019-09-08",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系团学见面会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1541.htm",
-      "date": "2019-09-08",
-      "column": "新闻动态"
-    },
-    {
-      "title": "​2019-2020学年秋季学期上海大学图书情报档案系OFFICE HOURS",
-      "url": "https://ischool.shu.edu.cn/info/1013/1521.htm",
-      "date": "2019-09-05",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "​2019-2020学年秋季学期上海大学图书情报档案系OFFICE HOURS",
@@ -1466,42 +843,18 @@
       "title": "上海大学图书情报档案系研究生首日教育圆满结束",
       "url": "https://ischool.shu.edu.cn/info/1231/1502.htm",
       "date": "2019-09-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学图书情报档案系研究生首日教育圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1231/1502.htm",
-      "date": "2019-09-03",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "图书情报档案系研究生团学纳新暨新生见面会圆满结束",
       "url": "https://ischool.shu.edu.cn/info/1231/1503.htm",
       "date": "2019-09-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系研究生团学纳新暨新生见面会圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1231/1503.htm",
-      "date": "2019-09-03",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "2019寻梦上海滩——上海城市记忆研习营成功举办",
       "url": "https://ischool.shu.edu.cn/info/1221/1481.htm",
       "date": "2019-07-31",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2019寻梦上海滩——上海城市记忆研习营成功举办",
-      "url": "https://ischool.shu.edu.cn/info/1221/1481.htm",
-      "date": "2019-07-31",
-      "column": "新闻动态"
-    },
-    {
-      "title": "慰问军训师生，传递温暖真情",
-      "url": "https://ischool.shu.edu.cn/info/1222/1471.htm",
-      "date": "2019-07-19",
       "column": "新闻动态"
     },
     {
@@ -1517,27 +870,9 @@
       "column": "新闻动态"
     },
     {
-      "title": "图书情报档案系风采展示全面拉开帷幕",
-      "url": "https://ischool.shu.edu.cn/info/1221/1451.htm",
-      "date": "2019-07-15",
-      "column": "新闻动态"
-    },
-    {
       "title": "情系一大，慰问暖心——图情档系老师走进中共一大会址",
       "url": "https://ischool.shu.edu.cn/info/1221/1442.htm",
       "date": "2019-07-13",
-      "column": "新闻动态"
-    },
-    {
-      "title": "情系一大，慰问暖心——图情档系老师走进中共一大会址",
-      "url": "https://ischool.shu.edu.cn/info/1221/1442.htm",
-      "date": "2019-07-13",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我系成为国际顶尖信息学院联盟iSchools成员",
-      "url": "https://ischool.shu.edu.cn/info/1221/1492.htm",
-      "date": "2019-07-10",
       "column": "新闻动态"
     },
     {
@@ -1553,18 +888,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "图情档系本科生《创新创业实践》课程学分认定方案",
-      "url": "https://ischool.shu.edu.cn/info/1013/1431.htm",
-      "date": "2019-07-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "【学术报告】The application of PLS-SEM in the information science context",
-      "url": "https://ischool.shu.edu.cn/info/1013/1422.htm",
-      "date": "2019-07-01",
-      "column": "新闻动态"
-    },
-    {
       "title": "【学术报告】The application of PLS-SEM in the information science context",
       "url": "https://ischool.shu.edu.cn/info/1013/1422.htm",
       "date": "2019-07-01",
@@ -1573,18 +896,6 @@
     {
       "title": "上海大学图书情报档案系2019届毕业典礼圆满落幕",
       "url": "https://ischool.shu.edu.cn/info/1221/1415.htm",
-      "date": "2019-06-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学图书情报档案系2019届毕业典礼圆满落幕",
-      "url": "https://ischool.shu.edu.cn/info/1221/1415.htm",
-      "date": "2019-06-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "讲好建党故事，唱响时代强音——中共一大志愿讲解正在进行时",
-      "url": "https://ischool.shu.edu.cn/info/1221/1416.htm",
       "date": "2019-06-29",
       "column": "新闻动态"
     },
@@ -1601,40 +912,16 @@
       "column": "新闻动态"
     },
     {
-      "title": "【学术报告】UCLDH: Digital Humanities research and teaching at UCL",
-      "url": "https://ischool.shu.edu.cn/info/1013/1412.htm",
-      "date": "2019-06-27",
-      "column": "新闻动态"
-    },
-    {
       "title": "图书情报档案系2019届优秀毕业生风采|市级优秀毕业生",
       "url": "https://ischool.shu.edu.cn/info/1231/1405.htm",
       "date": "2019-06-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2019届优秀毕业生风采|市级优秀毕业生",
-      "url": "https://ischool.shu.edu.cn/info/1231/1405.htm",
-      "date": "2019-06-21",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "图书情报档案系2019届优秀毕业生风采|校级优秀毕业生",
       "url": "https://ischool.shu.edu.cn/info/1231/1406.htm",
       "date": "2019-06-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系2019届优秀毕业生风采|校级优秀毕业生",
-      "url": "https://ischool.shu.edu.cn/info/1231/1406.htm",
-      "date": "2019-06-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "“讲好红色故事，传唱时代强音”中共一大志愿者培训会",
-      "url": "https://ischool.shu.edu.cn/info/1221/1404.htm",
-      "date": "2019-06-19",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "“讲好红色故事，传唱时代强音”中共一大志愿者培训会",
@@ -1649,99 +936,45 @@
       "column": "新闻动态"
     },
     {
-      "title": "我系师生参加静安区档案局实习生培训会",
-      "url": "https://ischool.shu.edu.cn/info/1221/1414.htm",
-      "date": "2019-06-18",
-      "column": "新闻动态"
-    },
-    {
       "title": "上海大学图书情报档案系研究生党团学新老干部交流会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1401.htm",
       "date": "2019-06-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学图书情报档案系研究生党团学新老干部交流会顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1401.htm",
-      "date": "2019-06-17",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "加强监督管理，严肃政治生活 ——图书情报档案系研究生党支部书记、党支部委员培训...",
       "url": "https://ischool.shu.edu.cn/info/1231/1402.htm",
       "date": "2019-06-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "加强监督管理，严肃政治生活 ——图书情报档案系研究生党支部书记、党支部委员培训...",
-      "url": "https://ischool.shu.edu.cn/info/1231/1402.htm",
-      "date": "2019-06-17",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "16级研究生党支部预备党员转正大会顺利召开",
       "url": "https://ischool.shu.edu.cn/info/1231/1403.htm",
       "date": "2019-06-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "16级研究生党支部预备党员转正大会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1231/1403.htm",
-      "date": "2019-06-17",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "上海大学图书情报档案系互动国际档案周：展望未来",
       "url": "https://ischool.shu.edu.cn/info/1231/1393.htm",
       "date": "2019-06-11",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学图书情报档案系互动国际档案周：展望未来",
-      "url": "https://ischool.shu.edu.cn/info/1231/1393.htm",
-      "date": "2019-06-11",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "图书情报档案系第十二次研究生党员代表大会暨2019-2020年度研究生党总支换届大会圆...",
       "url": "https://ischool.shu.edu.cn/info/1231/1381.htm",
       "date": "2019-06-06",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系第十二次研究生党员代表大会暨2019-2020年度研究生党总支换届大会圆...",
-      "url": "https://ischool.shu.edu.cn/info/1231/1381.htm",
-      "date": "2019-06-06",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "图书情报档案系研究生第十二次双代会顺利召开",
       "url": "https://ischool.shu.edu.cn/info/1231/1384.htm",
       "date": "2019-06-06",
-      "column": "新闻动态"
-    },
-    {
-      "title": "图书情报档案系研究生第十二次双代会顺利召开",
-      "url": "https://ischool.shu.edu.cn/info/1231/1384.htm",
-      "date": "2019-06-06",
-      "column": "新闻动态"
+      "column": "研究生动态"
     },
     {
       "title": "长兴县档案局姚源平局长一行来我系访问",
       "url": "https://ischool.shu.edu.cn/info/1221/1311.htm",
       "date": "2019-05-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "长兴县档案局姚源平局长一行来我系访问",
-      "url": "https://ischool.shu.edu.cn/info/1221/1311.htm",
-      "date": "2019-05-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学图书情报档案系毕业研究生学习成绩综合排名办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/1302.htm",
-      "date": "2019-05-10",
       "column": "新闻动态"
     },
     {
@@ -1757,27 +990,9 @@
       "column": "新闻动态"
     },
     {
-      "title": "图书情报档案系2019年博士研究生招生复试工作办法",
-      "url": "https://ischool.shu.edu.cn/info/1013/1098.htm",
-      "date": "2019-04-24",
-      "column": "新闻动态"
-    },
-    {
       "title": "爱心涌动——上海大学图书情报档案系无偿献血活动",
       "url": "https://ischool.shu.edu.cn/info/1222/1281.htm",
       "date": "2019-04-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "爱心涌动——上海大学图书情报档案系无偿献血活动",
-      "url": "https://ischool.shu.edu.cn/info/1222/1281.htm",
-      "date": "2019-04-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "国际iSchools联盟主席吴三均教授莅临图书情报档案系作学术报告",
-      "url": "https://ischool.shu.edu.cn/info/1221/1282.htm",
-      "date": "2019-04-17",
       "column": "新闻动态"
     },
     {
@@ -1793,22 +1008,52 @@
       "column": "新闻动态"
     },
     {
-      "title": "关于举办“连线长三角，对话图情档”系列学术活动之研究生学术创新论坛的通知",
-      "url": "https://ischool.shu.edu.cn/info/1013/1172.htm",
-      "date": "2019-04-16",
-      "column": "新闻动态"
-    },
-    {
       "title": "数据科学与iSchools发展国际学术研讨会顺利举办",
       "url": "https://ischool.shu.edu.cn/info/1221/1283.htm",
       "date": "2019-04-16",
       "column": "新闻动态"
     },
     {
-      "title": "数据科学与iSchools发展国际学术研讨会顺利举办",
-      "url": "https://ischool.shu.edu.cn/info/1221/1283.htm",
-      "date": "2019-04-16",
+      "title": "我系2018年度“人大复印报刊资料”学术论文转载排名学科第五",
+      "url": "https://ischool.shu.edu.cn/info/1221/1284.htm",
+      "date": "2019-03-28",
       "column": "新闻动态"
+    },
+    {
+      "title": "【学术报告】情报学范式的冲突与思考（3月28日）",
+      "url": "https://ischool.shu.edu.cn/info/1013/1176.htm",
+      "date": "2019-03-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "OFFICE HOURS",
+      "url": "https://ischool.shu.edu.cn/info/1013/1102.htm",
+      "date": "2019-03-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我系金波教授国家社科基金项目获得“优秀”等级",
+      "url": "https://ischool.shu.edu.cn/info/1221/1285.htm",
+      "date": "2019-02-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "图情档系赴法国档案学院、瑞典林奈大学和荷兰鹿特丹图书馆进行合作交流",
+      "url": "https://ischool.shu.edu.cn/info/1221/1286.htm",
+      "date": "2019-01-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2018信息资源管理与信息社会创新论坛暨国际学术研讨会顺利举行",
+      "url": "https://ischool.shu.edu.cn/info/1221/1288.htm",
+      "date": "2018-12-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "【学术报告】Recordkeeping Informatics（12月12日）",
+      "url": "https://ischool.shu.edu.cn/info/1013/1181.htm",
+      "date": "2018-12-20",
+      "column": "通知公告"
     }
   ]
 }

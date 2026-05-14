@@ -2,13 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 662,
+  "crawl_time": "20260514_004804",
+  "total_articles": 752,
   "columns": {
-    "学术活动": 160,
+    "学院新闻": 60,
+    "学术活动": 190,
     "重要通知": 502
   },
   "articles": [
+    {
+      "title": "管理学院举办专报撰写专题辅导会",
+      "url": "https://ms.shu.edu.cn/info/1244/91985.htm",
+      "date": "2026-05-11",
+      "column": "学院新闻"
+    },
     {
       "title": "0521上海管理论坛第572期（陈星宇教授，深圳大学管理学院）",
       "url": "https://ms.shu.edu.cn/info/1246/91945.htm",
@@ -20,6 +27,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/91925.htm",
       "date": "2026-04-30",
       "column": "重要通知"
+    },
+    {
+      "title": "英国兰卡斯特大学管理学院葛冰冰教授做客上海管理论坛分享《修辞性历史...",
+      "url": "https://ms.shu.edu.cn/info/1244/91905.htm",
+      "date": "2026-04-29",
+      "column": "学院新闻"
     },
     {
       "title": "结束巡察进驻公告",
@@ -34,10 +47,40 @@
       "column": "重要通知"
     },
     {
+      "title": "上海大学管理学院成功举办“学术进嘉定”报告会：数字赋能乡村振兴：电...",
+      "url": "https://ms.shu.edu.cn/info/1244/91865.htm",
+      "date": "2026-04-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "党建引领聚合力 校企联学促发展 | 中建八局发展建设公司与上海大学管理...",
+      "url": "https://ms.shu.edu.cn/info/1244/91855.htm",
+      "date": "2026-04-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管理学院召开树立和践行正确政绩观学习教育专题学习会暨学院内控管理制...",
+      "url": "https://ms.shu.edu.cn/info/1244/91825.htm",
+      "date": "2026-04-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学管理学院1篇案例获“2025中国工商管理国际最佳案例奖”",
+      "url": "https://ms.shu.edu.cn/info/1244/91815.htm",
+      "date": "2026-04-17",
+      "column": "学院新闻"
+    },
+    {
       "title": "管理学院2025年度上海大学百名优秀团员、五四红旗团支部公示",
       "url": "https://ms.shu.edu.cn/info/1245/91805.htm",
       "date": "2026-04-16",
       "column": "重要通知"
+    },
+    {
+      "title": "校党委第二巡察组巡察管理学院党委进驻动员会召开",
+      "url": "https://ms.shu.edu.cn/info/1244/91775.htm",
+      "date": "2026-04-13",
+      "column": "学院新闻"
     },
     {
       "title": "巡察公告",
@@ -58,6 +101,12 @@
       "column": "学术活动"
     },
     {
+      "title": "上海大学管理学院“十五五”规划研讨会顺利召开",
+      "url": "https://ms.shu.edu.cn/info/1244/91735.htm",
+      "date": "2026-04-08",
+      "column": "学院新闻"
+    },
+    {
       "title": "上海大学管理学院2026年硕士研究生调剂工作办法",
       "url": "https://ms.shu.edu.cn/info/1245/91725.htm",
       "date": "2026-04-01",
@@ -76,16 +125,40 @@
       "column": "重要通知"
     },
     {
+      "title": "李远勤教授等在《解放日报》发表文章：加快培育世界级数商生态",
+      "url": "https://ms.shu.edu.cn/info/1244/91525.htm",
+      "date": "2026-03-11",
+      "column": "学院新闻"
+    },
+    {
       "title": "上海大学管理学院2026年博士研究生招生考核工作方案",
       "url": "https://ms.shu.edu.cn/info/1245/91505.htm",
       "date": "2026-03-09",
       "column": "重要通知"
     },
     {
+      "title": "于晓宇教授团队获教育部学位中心主题案例征集立项",
+      "url": "https://ms.shu.edu.cn/info/1244/91485.htm",
+      "date": "2026-02-13",
+      "column": "学院新闻"
+    },
+    {
       "title": "管理学院2026年寒假值班安排",
       "url": "https://ms.shu.edu.cn/info/1245/91475.htm",
       "date": "2026-01-22",
       "column": "重要通知"
+    },
+    {
+      "title": "北京大学光华管理学院姜铠丰教授做客上海管理论坛分享《战略人力资源管...",
+      "url": "https://ms.shu.edu.cn/info/1244/91445.htm",
+      "date": "2026-01-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "财智逐光，赛创未来——上海大学管理学院学子斩获第十届“科云杯”全国...",
+      "url": "https://ms.shu.edu.cn/info/1244/91425.htm",
+      "date": "2026-01-09",
+      "column": "学院新闻"
     },
     {
       "title": "0107上海管理论坛第568期（陈小君教授，香港理工大学）",
@@ -100,10 +173,58 @@
       "column": "学术活动"
     },
     {
+      "title": "喜报！我院新增国家级一流本科课程1门！",
+      "url": "https://ms.shu.edu.cn/info/1244/91275.htm",
+      "date": "2025-12-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学物流管理专业“国华物流”奖学金颁奖仪式顺利举行",
+      "url": "https://ms.shu.edu.cn/info/1244/91295.htm",
+      "date": "2025-12-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "厦门大学管理学院罗进辉教授做客上海管理论坛分享《技术护航：海外专利...",
+      "url": "https://ms.shu.edu.cn/info/1244/91265.htm",
+      "date": "2025-12-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管理学院1项课题获2025年度国家社会科学基金后期资助项目立项",
+      "url": "https://ms.shu.edu.cn/info/1244/91235.htm",
+      "date": "2025-12-25",
+      "column": "学院新闻"
+    },
+    {
+      "title": "欧美同学会上大分会携手管理学院走进塘溪镇 共启“堇山艺启·红脉新生”...",
+      "url": "https://ms.shu.edu.cn/info/1244/91225.htm",
+      "date": "2025-12-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "美国明尼苏达大学吕召松教授做客《上海管理论坛》 分享双层规划一阶算法...",
+      "url": "https://ms.shu.edu.cn/info/1244/91215.htm",
+      "date": "2025-12-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "浙江工商大学经济学院诸竹君教授做客上海管理论坛分享《增值税税制完善...",
+      "url": "https://ms.shu.edu.cn/info/1244/91205.htm",
+      "date": "2025-12-20",
+      "column": "学院新闻"
+    },
+    {
       "title": "1224上海管理论坛第567期（贾帅教授，香港科技大学（广州））",
       "url": "https://ms.shu.edu.cn/info/1246/91195.htm",
       "date": "2025-12-17",
       "column": "学术活动"
+    },
+    {
+      "title": "对接国家战略，共筑人才高地|上海大学管理学院携手五锐金属集团深化产教...",
+      "url": "https://ms.shu.edu.cn/info/1244/91185.htm",
+      "date": "2025-12-16",
+      "column": "学院新闻"
     },
     {
       "title": "1217上海管理论坛第566期（吕兆松教授，明尼苏达大学）",
@@ -116,6 +237,18 @@
       "url": "https://ms.shu.edu.cn/info/1246/91155.htm",
       "date": "2025-12-11",
       "column": "学术活动"
+    },
+    {
+      "title": "管理学院成功举办第三届人力资源创新与发展论坛",
+      "url": "https://ms.shu.edu.cn/info/1244/91145.htm",
+      "date": "2025-12-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管理学院博士后李雨薇发表第二篇UTD24期刊论文",
+      "url": "https://ms.shu.edu.cn/info/1244/91135.htm",
+      "date": "2025-12-07",
+      "column": "学院新闻"
     },
     {
       "title": "1218上海管理论坛第563期（诸竹君教授，浙江工商大学）",
@@ -142,10 +275,46 @@
       "column": "学术活动"
     },
     {
+      "title": "牛津大学赛德商学院赵雁飞教授做客上海管理论坛分享《成为学者：人工智...",
+      "url": "https://ms.shu.edu.cn/info/1244/90975.htm",
+      "date": "2025-11-19",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第五届战略与创业微观基础学术会议成功举办",
+      "url": "https://ms.shu.edu.cn/info/1244/91035.htm",
+      "date": "2025-11-19",
+      "column": "学院新闻"
+    },
+    {
       "title": "1125上海管理论坛第561期（周孟初教授，美国新泽西理工学院）",
       "url": "https://ms.shu.edu.cn/info/1246/91055.htm",
       "date": "2025-11-19",
       "column": "学术活动"
+    },
+    {
+      "title": "管理学院教师带领研究生在“2025年第二十届长三角研究生学术论坛”中再...",
+      "url": "https://ms.shu.edu.cn/info/1244/90965.htm",
+      "date": "2025-11-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "喜讯|我院MEM学生在第四届中国研究生工程管理案例大赛中斩获佳绩",
+      "url": "https://ms.shu.edu.cn/info/1244/90945.htm",
+      "date": "2025-11-17",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第四届信息管理学术报告会成功举办",
+      "url": "https://ms.shu.edu.cn/info/1244/90905.htm",
+      "date": "2025-11-14",
+      "column": "学院新闻"
+    },
+    {
+      "title": "深圳市大数据研究院赵云彬教授、杭州电子科技大学凌晨教授做客《上海管...",
+      "url": "https://ms.shu.edu.cn/info/1244/90895.htm",
+      "date": "2025-11-13",
+      "column": "学院新闻"
     },
     {
       "title": "1112上海管理论坛第559期（赵云彬教授，广东省智能工业孪生与优化工程技...",
@@ -182,6 +351,30 @@
       "url": "https://ms.shu.edu.cn/info/1245/90835.htm",
       "date": "2025-11-06",
       "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院成功举办“学术进嘉定”报告会：基于模型融合的猕猴桃...",
+      "url": "https://ms.shu.edu.cn/info/1244/90745.htm",
+      "date": "2025-11-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学管理学院成功举办“人机智能融合背景下的工商管理学科创新发展...",
+      "url": "https://ms.shu.edu.cn/info/1244/90915.htm",
+      "date": "2025-11-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学会计学专业实习实践基地建设研讨会成功举办",
+      "url": "https://ms.shu.edu.cn/info/1244/90735.htm",
+      "date": "2025-10-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "福州大学吴鹏教授做客上海管理论坛分享《不确定路况下的通勤定制公交鲁...",
+      "url": "https://ms.shu.edu.cn/info/1244/90715.htm",
+      "date": "2025-10-22",
+      "column": "学院新闻"
     },
     {
       "title": "1031上海管理论坛第556期（李锋教授，华中科技大学）",
@@ -232,9 +425,81 @@
       "column": "重要通知"
     },
     {
+      "title": "上海大学3篇原创案例入选第十六届“全国百篇优秀管理案例”",
+      "url": "https://ms.shu.edu.cn/info/1244/90445.htm",
+      "date": "2025-09-12",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第五届工业工程、创新创业与产业生态学研讨会（IE3）在我校举行",
+      "url": "https://ms.shu.edu.cn/info/1244/90425.htm",
+      "date": "2025-09-04",
+      "column": "学院新闻"
+    },
+    {
+      "title": "英国伦敦政治经济学院胡肖然博士做客上海管理论坛分享《创新创造力和人...",
+      "url": "https://ms.shu.edu.cn/info/1244/90405.htm",
+      "date": "2025-09-02",
+      "column": "学院新闻"
+    },
+    {
       "title": "0901上海管理论坛第553期（胡肖然博士，英国伦敦政治经济学院）",
       "url": "https://ms.shu.edu.cn/info/1246/90395.htm",
       "date": "2025-08-29",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院获得11项国家自然科学基金立项资助",
+      "url": "https://ms.shu.edu.cn/info/1244/90385.htm",
+      "date": "2025-08-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "祝贺！我院新增上海市级重点课程立项3项！",
+      "url": "https://ms.shu.edu.cn/info/1244/90375.htm",
+      "date": "2025-08-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院MEM学生在第九届上海市工程管理创新大赛中喜获特等奖等多项佳绩！",
+      "url": "https://ms.shu.edu.cn/info/1244/90365.htm",
+      "date": "2025-08-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2025国际可靠性维修性安全性会议在上海大学成功举行",
+      "url": "https://ms.shu.edu.cn/info/1244/90345.htm",
+      "date": "2025-07-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "0728上海管理论坛第552期（孙立君副教授，加拿大蒙特利尔麦吉尔大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90335.htm",
+      "date": "2025-07-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "筑梦新征程 一起向未来｜管理学院2025年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://ms.shu.edu.cn/info/1244/90315.htm",
+      "date": "2025-07-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "0627上海管理论坛第550期（聂佳佳教授，西南交通大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90175.htm",
+      "date": "2025-06-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "0627上海管理论坛第551期（姜宝军教授，圣路易斯华盛顿大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90185.htm",
+      "date": "2025-06-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "0623上海管理论坛第549期（郑欢教授，上海交通大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90135.htm",
+      "date": "2025-06-16",
       "column": "学术活动"
     },
     {
@@ -242,6 +507,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/90065.htm",
       "date": "2025-06-10",
       "column": "重要通知"
+    },
+    {
+      "title": "0609上海管理论坛第548期（Stephen X.Zhang教授，美国贝勒大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/90015.htm",
+      "date": "2025-06-04",
+      "column": "学术活动"
     },
     {
       "title": "管理学院2025年就业“攀登奖”初审名单公示",
@@ -266,6 +537,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/89905.htm",
       "date": "2025-04-30",
       "column": "重要通知"
+    },
+    {
+      "title": "0425上海管理论坛第547期（林秉旋教授，美国罗德岛大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/89065.htm",
+      "date": "2025-04-18",
+      "column": "学术活动"
     },
     {
       "title": "管理学院关于2025年度优秀毕业生学院推荐名单公示",
@@ -322,10 +599,40 @@
       "column": "重要通知"
     },
     {
+      "title": "1224上海管理论坛第546期（Loon Ching TANG院士，新加坡国立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/88515.htm",
+      "date": "2024-12-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "1204上海管理论坛第545期（田林教授，复旦大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/88325.htm",
+      "date": "2024-12-02",
+      "column": "学术活动"
+    },
+    {
       "title": "2023-2024学年上海大学及管理学院本科生优秀学生、优秀学生干部、学生先...",
       "url": "https://ms.shu.edu.cn/info/1245/88305.htm",
       "date": "2024-11-29",
       "column": "重要通知"
+    },
+    {
+      "title": "1203上海管理论坛第543期（张旭教授，阿德莱德大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/88285.htm",
+      "date": "2024-11-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "1212上海管理论坛第544期（徐丹凯教授，美国北达科他州立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/88295.htm",
+      "date": "2024-11-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "1125上海管理论坛第542期（袁亚湘院士，中国科学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/88225.htm",
+      "date": "2024-11-21",
+      "column": "学术活动"
     },
     {
       "title": "上海大学管理学院2023-2024学年本科生秋季奖学金初审名单",
@@ -338,6 +645,48 @@
       "url": "https://ms.shu.edu.cn/info/1245/88085.htm",
       "date": "2024-11-06",
       "column": "重要通知"
+    },
+    {
+      "title": "1108上海管理论坛第538期（周文慧教授，华南理工大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/88045.htm",
+      "date": "2024-11-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "1110上海管理论坛第539期（廖虎昌教授，四川大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/88055.htm",
+      "date": "2024-11-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "1115上海管理论坛第541期（杨晓光教授，中国科学院数学与系统科学研究院...",
+      "url": "https://ms.shu.edu.cn/info/1246/88065.htm",
+      "date": "2024-11-04",
+      "column": "学术活动"
+    },
+    {
+      "title": "1115上海管理论坛第540期（常晋源教授，西南财经大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87975.htm",
+      "date": "2024-10-31",
+      "column": "学术活动"
+    },
+    {
+      "title": "1030上海管理论坛第536期（孙捷教授，科廷大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87925.htm",
+      "date": "2024-10-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "1122上海管理论坛第537期（祝继高教授，对外经济贸易大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87935.htm",
+      "date": "2024-10-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "1103上海管理论坛第535期（夏军教授，德克萨斯大学达拉斯分校Naveen Jin...",
+      "url": "https://ms.shu.edu.cn/info/1246/87915.htm",
+      "date": "2024-10-25",
+      "column": "学术活动"
     },
     {
       "title": "上海大学管理学院2025年接收推荐免试攻读硕士学位研究生考核工作方案",
@@ -364,6 +713,12 @@
       "column": "重要通知"
     },
     {
+      "title": "0724上海管理论坛第534期（赵雁飞教授，牛津大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87835.htm",
+      "date": "2024-07-22",
+      "column": "学术活动"
+    },
+    {
       "title": "0627上海管理论坛第529期（Jelmer Pier van der Gaast教授，复旦大学）",
       "url": "https://ms.shu.edu.cn/info/1246/87215.htm",
       "date": "2024-06-26",
@@ -384,6 +739,12 @@
     {
       "title": "0705上海管理论坛第532期（杨翼教授，浙江大学）",
       "url": "https://ms.shu.edu.cn/info/1246/87245.htm",
+      "date": "2024-06-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "0706上海管理论坛第533期（魏玖长教授，中国科学技术大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/87255.htm",
       "date": "2024-06-26",
       "column": "学术活动"
     },
@@ -3980,6 +4341,186 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "管理学院运动员书写赛场神话",
+      "url": "https://ms.shu.edu.cn/info/1244/8094.htm",
+      "date": "2008-11-04",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海劳登营销咨询有限公司总经理俞效锋受聘我管理学院兼职教授并作学术讲座",
+      "url": "https://ms.shu.edu.cn/info/1244/8089.htm",
+      "date": "2008-11-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "日本教育专家访问管理学院",
+      "url": "https://ms.shu.edu.cn/info/1244/8084.htm",
+      "date": "2008-10-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管理学院上海管理论坛学术讲座第七期",
+      "url": "https://ms.shu.edu.cn/info/1246/11177.htm",
+      "date": "2008-10-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "美国田纳西大学访问团部分代表访问我院",
+      "url": "https://ms.shu.edu.cn/info/1244/8079.htm",
+      "date": "2008-10-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海交大王方华教授受聘我院兼职教授并作学术报告",
+      "url": "https://ms.shu.edu.cn/info/1244/8075.htm",
+      "date": "2008-10-19",
+      "column": "学院新闻"
+    },
+    {
+      "title": "温州大学商学院代表团来我院访问",
+      "url": "https://ms.shu.edu.cn/info/1244/8070.htm",
+      "date": "2008-10-16",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管理学院上海管理论坛学术讲座第六期",
+      "url": "https://ms.shu.edu.cn/info/1246/11175.htm",
+      "date": "2008-10-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "我院“上海管理论坛”第五期学术讲座顺利举行",
+      "url": "https://ms.shu.edu.cn/info/1244/8067.htm",
+      "date": "2008-10-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "德国雷根斯堡大学Stefan Huesig博士将来管理学院演讲",
+      "url": "https://ms.shu.edu.cn/info/1244/8062.htm",
+      "date": "2008-10-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大管理学院上海管理论坛学术讲座第五期",
+      "url": "https://ms.shu.edu.cn/info/1246/11174.htm",
+      "date": "2008-09-30",
+      "column": "学术活动"
+    },
+    {
+      "title": "西安交大李垣教授在管理学院演讲“全球化与管理学科的发展”",
+      "url": "https://ms.shu.edu.cn/info/1246/11173.htm",
+      "date": "2008-09-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "上大管理学院上海管理论坛学术讲座第四期",
+      "url": "https://ms.shu.edu.cn/info/1246/11172.htm",
+      "date": "2008-09-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "残奥健儿为上大争光，师生中秋在水立方团圆",
+      "url": "https://ms.shu.edu.cn/info/1244/8057.htm",
+      "date": "2008-09-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院召开迎新迎中秋全院大会",
+      "url": "https://ms.shu.edu.cn/info/1244/8055.htm",
+      "date": "2008-09-17",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2008年管理学院直升研究生相关通知",
+      "url": "https://ms.shu.edu.cn/info/1246/11170.htm",
+      "date": "2008-09-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "2008年度06级在校大学生普通话培训、测试通知",
+      "url": "https://ms.shu.edu.cn/info/1246/11171.htm",
+      "date": "2008-09-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "斯晓夫博士再次当选美国管理科学院期刊AMP编委",
+      "url": "https://ms.shu.edu.cn/info/1244/8052.htm",
+      "date": "2008-08-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "美国纽约州立大学管理学院林骏教授来我院谈合作",
+      "url": "https://ms.shu.edu.cn/info/1244/8050.htm",
+      "date": "2008-08-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "美国佛罗里达大学艾春荣教授来我校访问",
+      "url": "https://ms.shu.edu.cn/info/1244/8047.htm",
+      "date": "2008-07-17",
+      "column": "学院新闻"
+    },
+    {
+      "title": "重要通知：学院网站已经开通并将在近期内全面使用",
+      "url": "https://ms.shu.edu.cn/info/1246/11169.htm",
+      "date": "2008-07-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "美国爱达菏大学管理学院许胜寒教授来我院访问",
+      "url": "https://ms.shu.edu.cn/info/1244/8045.htm",
+      "date": "2008-07-16",
+      "column": "学院新闻"
+    },
+    {
+      "title": "田国强教授谈管理有效性真谛",
+      "url": "https://ms.shu.edu.cn/info/1244/8042.htm",
+      "date": "2008-07-14",
+      "column": "学院新闻"
+    },
+    {
+      "title": "马萨诸塞州立大学刘瑞明教授来我校作学术报告",
+      "url": "https://ms.shu.edu.cn/info/1244/8040.htm",
+      "date": "2008-07-09",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大管理学院上海管理论坛学术讲座第三期",
+      "url": "https://ms.shu.edu.cn/info/1246/11168.htm",
+      "date": "2008-06-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "管理学院全球招募精英管理教育人才",
+      "url": "https://ms.shu.edu.cn/info/1244/8038.htm",
+      "date": "2008-06-19",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管理学院面向海内外公开招聘系主任",
+      "url": "https://ms.shu.edu.cn/info/1244/8035.htm",
+      "date": "2008-06-16",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大管理学院上海管理论坛学术活动第二期",
+      "url": "https://ms.shu.edu.cn/info/1246/11167.htm",
+      "date": "2008-06-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "美国教授Arthur Galarza博士领导模式学术讲座",
+      "url": "https://ms.shu.edu.cn/info/1244/8034.htm",
+      "date": "2008-06-12",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海管理论坛：斯晓夫博士管理与管理教育学术讲座",
+      "url": "https://ms.shu.edu.cn/info/1244/8032.htm",
+      "date": "2008-06-07",
+      "column": "学院新闻"
     }
   ]
 }

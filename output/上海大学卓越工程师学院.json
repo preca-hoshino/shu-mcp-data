@@ -2,11 +2,11 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20260513_175610",
-  "total_articles": 49,
+  "crawl_time": "20260514_004804",
+  "total_articles": 60,
   "columns": {
     "通知公告": 23,
-    "新闻动态": 10,
+    "新闻动态": 21,
     "集中课程": 10,
     "科研动态": 6
   },
@@ -174,6 +174,30 @@
       "column": "通知公告"
     },
     {
+      "title": "人工智能领域分论坛顺利召开",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2051.htm",
+      "date": "2024-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "机械工程领域分论坛顺利召开",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2061.htm",
+      "date": "2024-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "新材料领域分论坛顺利召开",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2071.htm",
+      "date": "2024-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "卓越工程师创新人才培养论坛召开",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2041.htm",
+      "date": "2024-12-13",
+      "column": "新闻动态"
+    },
+    {
       "title": "讲座：防空导弹中的力学",
       "url": "https://zhgy.shu.edu.cn/info/1031/1981.htm",
       "date": "2024-11-21",
@@ -202,6 +226,30 @@
       "url": "https://zhgy.shu.edu.cn/info/1031/2021.htm",
       "date": "2024-11-21",
       "column": "集中课程"
+    },
+    {
+      "title": "卓越工程师学院干部宣布大会",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1811.htm",
+      "date": "2024-10-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "卓越工程师学院培养方案研讨会",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1821.htm",
+      "date": "2024-10-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学与上海机床厂洽谈",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1831.htm",
+      "date": "2024-10-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学与中国石化调研洽谈",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1841.htm",
+      "date": "2024-10-08",
+      "column": "新闻动态"
     },
     {
       "title": "材料学院施思齐教授团队研究成果荣获2024年度中国材料研究学会科学技术奖一等奖",
@@ -304,6 +352,24 @@
       "url": "https://yjszs.shu.edu.cn/info/1004/7264.htm",
       "date": "2024-05-31",
       "column": "通知公告"
+    },
+    {
+      "title": "刘益春院士莅临卓工院指导",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1331.htm",
+      "date": "2024-05-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "田立君带队调研同济大学卓工院",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1341.htm",
+      "date": "2024-05-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学卓越工程师学院成立",
+      "url": "https://zhgy.shu.edu.cn/info/1151/1351.htm",
+      "date": "2024-05-30",
+      "column": "新闻动态"
     }
   ]
 }

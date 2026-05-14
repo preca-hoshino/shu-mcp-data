@@ -2,8 +2,155 @@
   "domain": "jhai.shu.edu.cn",
   "department": "上海大学无人艇工程研究院",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 0,
-  "columns": {},
-  "articles": []
+  "crawl_time": "20260514_004804",
+  "total_articles": 24,
+  "columns": {
+    "新闻动态": 24
+  },
+  "articles": [
+    {
+      "title": "无人艇工程研究院2025年度健步走活动顺利举办",
+      "url": "https://jhai.shu.edu.cn/info/1042/1767.htm",
+      "date": "2025-11-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办2025年全国优秀大学生夏令营活动的通知",
+      "url": "https://jhai.shu.edu.cn/info/1042/1757.htm",
+      "date": "2025-06-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学术报告：室内应用的有机和钙钛矿光伏（Organic and perovskite photovoltaics for indoor applications）",
+      "url": "https://jhai.shu.edu.cn/info/1042/1707.htm",
+      "date": "2024-08-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院刘娜副研究员在国际著名期刊《Nature Communications》上发表研究成果",
+      "url": "https://jhai.shu.edu.cn/info/1042/1687.htm",
+      "date": "2024-01-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院在《Energy & Environmental Science》发表提高摩擦电纳米发电机输出性能的研究进展",
+      "url": "https://jhai.shu.edu.cn/info/1042/1657.htm",
+      "date": "2023-12-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "精海团队学术带头人汪小帆为两名南极出征教师授旗",
+      "url": "https://jhai.shu.edu.cn/info/1042/1637.htm",
+      "date": "2023-12-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“以史为鉴，开创未来”无人装备与系统党支部与无人艇研究生党支部开展师生党建共建活动",
+      "url": "https://jhai.shu.edu.cn/info/1042/1617.htm",
+      "date": "2023-12-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院沈帆博士代表上海大学参与‘我是中国研究生，科创报国青年说’活动",
+      "url": "https://jhai.shu.edu.cn/info/1042/1586.htm",
+      "date": "2023-07-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "李忠杰副研究员课题组在顶刊《Advanced Science》发表文章",
+      "url": "https://jhai.shu.edu.cn/info/1042/1576.htm",
+      "date": "2023-07-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "怀进鹏调研上海教育工作，深入我院实地考察",
+      "url": "https://jhai.shu.edu.cn/info/1042/1566.htm",
+      "date": "2023-04-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院自供能团队在顶刊《Advanced Functional Materials》上发表文章",
+      "url": "https://jhai.shu.edu.cn/info/1042/1556.htm",
+      "date": "2023-04-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "彭艳教授荣获2022年何梁何利基金科学与技术创新奖",
+      "url": "https://jhai.shu.edu.cn/info/1042/1506.htm",
+      "date": "2023-02-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院彭艳教授及李忠杰老师指导博士生沈帆获2022年度校长奖学金",
+      "url": "https://jhai.shu.edu.cn/info/1042/1485.htm",
+      "date": "2022-12-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院王曰英教授入选2022年“全球高被引科学家”",
+      "url": "https://jhai.shu.edu.cn/info/1042/1496.htm",
+      "date": "2022-11-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院学生团队在国际顶级会议ECCV 2022挑战赛中斩获佳绩",
+      "url": "https://jhai.shu.edu.cn/info/1042/1411.htm",
+      "date": "2022-10-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "新型无人艇自主布放回收系统成功完成海试",
+      "url": "https://jhai.shu.edu.cn/info/1042/1401.htm",
+      "date": "2022-05-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学精海系列无人艇助力长江口二号古沉船探测",
+      "url": "https://jhai.shu.edu.cn/info/1042/1381.htm",
+      "date": "2022-03-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院获“上海市模范集体”荣誉称号",
+      "url": "https://jhai.shu.edu.cn/info/1042/1267.htm",
+      "date": "2020-12-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "无人艇研究生党支部换届大会顺利召开",
+      "url": "https://jhai.shu.edu.cn/info/1042/1266.htm",
+      "date": "2020-12-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "成旦红书记参加我院无人装备与系统党支部主题党日活动",
+      "url": "https://jhai.shu.edu.cn/info/1042/1265.htm",
+      "date": "2020-11-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院谢少荣院长获得2016上海市五一劳动奖章",
+      "url": "https://jhai.shu.edu.cn/info/1042/1220.htm",
+      "date": "2016-04-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "精海无人艇喜获2016上海市科技进步一等奖",
+      "url": "https://jhai.shu.edu.cn/info/1042/1217.htm",
+      "date": "2016-04-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学精海4号无人艇参加2016年全国高教仪器设备展示会",
+      "url": "https://jhai.shu.edu.cn/info/1042/1215.htm",
+      "date": "2016-04-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院谢少荣教授获第十四届上海市科技精英提名奖",
+      "url": "https://jhai.shu.edu.cn/info/1042/1208.htm",
+      "date": "2016-03-08",
+      "column": "新闻动态"
+    }
+  ]
 }

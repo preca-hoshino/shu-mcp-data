@@ -2,14 +2,14 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20260513_175610",
-  "total_articles": 1134,
+  "crawl_time": "20260514_004804",
+  "total_articles": 1161,
   "columns": {
     "教工活动": 611,
-    "分工会动态": 293,
-    "新闻动态": 60,
-    "协会动态": 40,
-    "通知公告": 130
+    "分工会动态": 303,
+    "新闻动态": 69,
+    "协会动态": 46,
+    "通知公告": 132
   },
   "articles": [
     {
@@ -361,14 +361,74 @@
       "column": "分工会动态"
     },
     {
+      "title": "活力基层 | 机自力量闪耀赛场，羽球飞扬勇创佳绩——机电工程与自动化学院教职工羽毛球队勇夺校团体赛第四名",
+      "url": "https://mp.weixin.qq.com/s/6g_VXtYWxpXjNtl7VsZNPw",
+      "date": "2025-06-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 微电子学院开展“微二代童心大爆炸”儿童节活动",
+      "url": "https://mp.weixin.qq.com/s/GmTpcvEkWtTBi9arlhsqUQ",
+      "date": "2025-06-11",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 法学院羽毛球队奋勇拼搏 彰显法苑健儿风采",
+      "url": "https://mp.weixin.qq.com/s/dNb7EK_6PlhQJI6FJ8B0Gg",
+      "date": "2025-06-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "羽动青春，“羽”众不同 ——管理学院、经济学院联队勇夺校羽毛球赛冠军",
+      "url": "https://mp.weixin.qq.com/s/ytaUU6aUz5sz7YAopa76Cw",
+      "date": "2025-06-10",
+      "column": "分工会动态"
+    },
+    {
+      "title": "六一回顾 | 出版社期刊社举办“草锤生香，亲子艾创造”手作活动",
+      "url": "https://mp.weixin.qq.com/s/LBHJ4aufD6WRqp-YfFfdqg",
+      "date": "2025-06-09",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 后勤保障部举办“六一儿童节”特别活动 ——我们都是最优秀的小朋友",
+      "url": "https://mp.weixin.qq.com/s/bhjMFvRHPi-KosMEKSu9HA",
+      "date": "2025-06-07",
+      "column": "分工会动态"
+    },
+    {
       "title": "关于开展2025年度上海大学工会理论研究与调查研究（妇女理论研究）工作的通知",
       "url": "https://gh.shu.edu.cn/info/1061/40572.htm",
       "date": "2025-05-30",
       "column": "通知公告"
     },
     {
+      "title": "管理学院在2024年上海大学教职工羽毛球团体赛又获佳绩",
+      "url": "https://mp.weixin.qq.com/s/W3fnTGi0nKilHnEPo7jBZg",
+      "date": "2024-06-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "羽你一起，奋勇拼搏——机关系统在2024上海大学教职工羽毛球团体赛中喜获第一名",
+      "url": "https://mp.weixin.qq.com/s/eRc1MFG74nxsbFrlPluGRw",
+      "date": "2024-06-25",
+      "column": "分工会动态"
+    },
+    {
+      "title": "第七！文信学院与出版社期刊社联合组队在2024年上海大学教职工羽毛球团体赛中荣获佳绩",
+      "url": "https://mp.weixin.qq.com/s/eb1X5oAyS7Vg_yW7N6UQIw",
+      "date": "2024-06-25",
+      "column": "分工会动态"
+    },
+    {
       "title": "活力基层 |通信学院教职工“网球培训”与“集体生日茶话座谈会”如期举行",
       "url": "https://mp.weixin.qq.com/s/KOGdzqPT4auzVPlDP9sKsg",
+      "date": "2024-05-29",
+      "column": "分工会动态"
+    },
+    {
+      "title": "活力基层 | 外国语学院开展“劳模工匠进校园”活动",
+      "url": "https://mp.weixin.qq.com/s/m7ALvSfvwATiHsW1mgzFTQ",
       "date": "2024-05-29",
       "column": "分工会动态"
     },
@@ -2227,10 +2287,64 @@
       "column": "通知公告"
     },
     {
+      "title": "“花无言 品自高”——校工会举办“我爱上大美”校园文化展演教职工专场演出",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4263",
+      "date": "2013-11-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校举行“打造以上大为核心的区域优质教育链”研讨会",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4262",
+      "date": "2013-11-14",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于做好我校第四届教职工代表大会暨工会会员代表大会准备工作的通知",
       "url": "https://gh.shu.edu.cn/info/1061/3859.htm",
       "date": "2013-11-11",
       "column": "通知公告"
+    },
+    {
+      "title": "校工会召开2013年第四次学院（系统）分工会主席工作会议",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4260",
+      "date": "2013-11-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "市总工会副主席周志军一行来我校调研",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4217",
+      "date": "2013-10-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校第十届运动会教职工项目掠影",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4258",
+      "date": "2013-10-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学从教三十年教职工颁证仪式暨座谈会隆重举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4256",
+      "date": "2013-10-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“美丽中国•魅力上海•精彩上大”主题征文讲演比赛在校举行",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4255",
+      "date": "2013-10-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中秋、国庆联谊活动把青年教师带回了“家”",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4253",
+      "date": "2013-09-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校工会召开2013年第三次学院（系统）分工会主席工作会议",
+      "url": "https://gh.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1062&wbnewsid=4251",
+      "date": "2013-09-16",
+      "column": "新闻动态"
     },
     {
       "title": "上海大学“共建杯”象棋赛6月9日圆满结束",
@@ -6397,6 +6511,12 @@
       "column": "教工活动"
     },
     {
+      "title": "上海大学教职工文体协会一览表",
+      "url": "https://gh.shu.edu.cn/info/1065/41992.htm",
+      "date": "2008-01-02",
+      "column": "协会动态"
+    },
+    {
       "title": "2007年度校比翼双飞模范佳侣评审会召开",
       "url": "https://gh.shu.edu.cn/info/1063/4688.htm",
       "date": "2007-12-27",
@@ -6523,6 +6643,12 @@
       "column": "教工活动"
     },
     {
+      "title": "上海大学教职工网球协会报道",
+      "url": "https://gh.shu.edu.cn/info/1065/42002.htm",
+      "date": "2007-10-09",
+      "column": "协会动态"
+    },
+    {
       "title": "上海市首届科教运动会组委会筹备会在我校召开",
       "url": "https://gh.shu.edu.cn/info/1063/4658.htm",
       "date": "2007-10-08",
@@ -6563,6 +6689,12 @@
       "url": "https://gh.shu.edu.cn/info/1063/4644.htm",
       "date": "2007-09-03",
       "column": "教工活动"
+    },
+    {
+      "title": "上海大学教职工乒乓球协会举办“八一杯”乒乓球对抗赛",
+      "url": "https://gh.shu.edu.cn/info/1065/42012.htm",
+      "date": "2007-08-27",
+      "column": "协会动态"
     },
     {
       "title": "校工会网在2006年度科教系统工会网站交流与评比活动中荣获一等奖",
@@ -6757,6 +6889,24 @@
       "column": "教工活动"
     },
     {
+      "title": "上海大学教职工乒乓球协会举办“迎春杯”乒乓球对抗赛",
+      "url": "https://gh.shu.edu.cn/info/1065/42022.htm",
+      "date": "2007-03-13",
+      "column": "协会动态"
+    },
+    {
+      "title": "“和谐的旋律”演唱比赛成绩表",
+      "url": "https://gh.shu.edu.cn/info/1065/41502.htm",
+      "date": "2006-12-13",
+      "column": "协会动态"
+    },
+    {
+      "title": "和谐的旋律——记2006年上海大学教职工卡拉OK演唱赛",
+      "url": "https://gh.shu.edu.cn/info/1065/41512.htm",
+      "date": "2006-12-13",
+      "column": "协会动态"
+    },
+    {
       "title": "协会协调会通知",
       "url": "https://gh.shu.edu.cn/info/1061/4183.htm",
       "date": "2006-11-27",
@@ -6814,6 +6964,18 @@
       "title": "博士学位授权点导师双休日休养的通知",
       "url": "https://gh.shu.edu.cn/info/1061/4198.htm",
       "date": "2006-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "庆祝教师节活动安排的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/4199.htm",
+      "date": "2006-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "博士学位授权点导师双休日休养的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/41022.htm",
+      "date": "2001-09-02",
       "column": "通知公告"
     }
   ]

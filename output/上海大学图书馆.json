@@ -2,11 +2,11 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260513_175610",
-  "total_articles": 96,
+  "crawl_time": "20260514_004804",
+  "total_articles": 106,
   "columns": {
     "公告信息": 34,
-    "资源动态": 23,
+    "资源动态": 33,
     "图书馆新闻": 39
   },
   "articles": [
@@ -119,6 +119,12 @@
       "column": "图书馆新闻"
     },
     {
+      "title": "上海大学图书馆万方数据新产品试用说明",
+      "url": "https://lib.shu.edu.cn/info/1023/6744.htm",
+      "date": "2026-03-07",
+      "column": "资源动态"
+    },
+    {
       "title": "企研社科大数据平台试用通知",
       "url": "https://lib.shu.edu.cn/info/1023/6754.htm",
       "date": "2026-03-07",
@@ -135,6 +141,18 @@
       "url": "https://lib.shu.edu.cn/info/1024/6724.htm",
       "date": "2026-01-23",
       "column": "图书馆新闻"
+    },
+    {
+      "title": "上海电视新闻影像库、海派纪录片库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6704.htm",
+      "date": "2026-01-16",
+      "column": "资源动态"
+    },
+    {
+      "title": "蓝博图学术快报试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6714.htm",
+      "date": "2026-01-16",
+      "column": "资源动态"
     },
     {
       "title": "关于2026年图书馆寒假开放的通知",
@@ -161,6 +179,12 @@
       "column": "图书馆新闻"
     },
     {
+      "title": "关于EndNote旧版本终止服务及文献库备份的紧急通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6654.htm",
+      "date": "2026-01-08",
+      "column": "资源动态"
+    },
+    {
       "title": "图书馆获赠《中华传统文化百部经典》70种典籍",
       "url": "https://lib.shu.edu.cn/info/1024/6644.htm",
       "date": "2026-01-04",
@@ -183,6 +207,18 @@
       "url": "https://lib.shu.edu.cn/info/1022/6604.htm",
       "date": "2025-12-23",
       "column": "公告信息"
+    },
+    {
+      "title": "尚古汇典·古籍数字服务平台延长试用",
+      "url": "https://lib.shu.edu.cn/info/1023/6584.htm",
+      "date": "2025-12-18",
+      "column": "资源动态"
+    },
+    {
+      "title": "HeinOnline-Intellectual Property Law Collection（知识产权法学文献库）数据库开通通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6594.htm",
+      "date": "2025-12-18",
+      "column": "资源动态"
     },
     {
       "title": "一起见证两千多年前的中华文明  ---胡平生先生珍贵文献特藏捐赠上海大学图书馆",
@@ -227,16 +263,40 @@
       "column": "图书馆新闻"
     },
     {
+      "title": "耶鲁大学“人类关系区域档案”开通试用",
+      "url": "https://lib.shu.edu.cn/info/1023/6504.htm",
+      "date": "2025-11-28",
+      "column": "资源动态"
+    },
+    {
+      "title": "E-Academic（易学术）数据库试用的通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6484.htm",
+      "date": "2025-11-27",
+      "column": "资源动态"
+    },
+    {
       "title": "潘守永馆长出席全国科技名词委年会，发布非遗热词",
       "url": "https://lib.shu.edu.cn/info/1024/6494.htm",
       "date": "2025-11-27",
       "column": "图书馆新闻"
     },
     {
+      "title": "DMSAS数据分析系统试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6474.htm",
+      "date": "2025-11-24",
+      "column": "资源动态"
+    },
+    {
       "title": "西南民族大学图书馆同仁赴上海大学图书馆开展专题调研交流",
       "url": "https://lib.shu.edu.cn/info/1024/6464.htm",
       "date": "2025-11-21",
       "column": "图书馆新闻"
+    },
+    {
+      "title": "SpecialSci数据库开通试用",
+      "url": "https://lib.shu.edu.cn/info/1023/6444.htm",
+      "date": "2025-11-12",
+      "column": "资源动态"
     },
     {
       "title": "关于2025年图书馆暑假开放的通知",

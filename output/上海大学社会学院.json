@@ -2,16 +2,17 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260513_175610",
-  "total_articles": 2380,
+  "crawl_time": "20260514_004804",
+  "total_articles": 2493,
   "columns": {
     "学术动态": 542,
     "综合新闻": 870,
-    "学术报告": 105,
-    "教学教务": 120,
-    "媒体报道": 30,
+    "通知公告": 43,
+    "学术报告": 131,
+    "教学教务": 132,
+    "媒体报道": 47,
     "校友活动": 30,
-    "图片新闻": 104,
+    "图片新闻": 119,
     "学生动态": 579
   },
   "articles": [
@@ -28,6 +29,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "上海大学社会学院2026年高校思想政治工作骨干在职攻读博士学位专项计划研究生招生简章",
+      "url": "https://yjszs.shu.edu.cn/info/1004/8644.htm ",
+      "date": "2026-05-07",
+      "column": "通知公告"
+    },
+    {
       "title": "2026公共性论坛05|物业何以联合？街镇物业联合体中的责任共担与公共服务再组织",
       "url": "https://sociology.shu.edu.cn/info/1105/41368.htm",
       "date": "2026-05-06",
@@ -38,6 +45,12 @@
       "url": "https://sociology.shu.edu.cn/info/1105/41378.htm",
       "date": "2026-05-06",
       "column": "学术报告"
+    },
+    {
+      "title": "转|本科生院：关于2026年度上海大学跨学科联合大作业项目招募学生的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320344.htm",
+      "date": "2026-04-30",
+      "column": "通知公告"
     },
     {
       "title": "新书 | 武洹宇等《徐宗汉生平考述》",
@@ -58,10 +71,22 @@
       "column": "教学教务"
     },
     {
+      "title": "第15届·应用社会科学研究方法研修班·基础班招生简章",
+      "url": "https://sociology.shu.edu.cn/info/1103/41308.htm",
+      "date": "2026-04-24",
+      "column": "通知公告"
+    },
+    {
       "title": "2026公共性论坛04|中国高学历年轻女性的生育协商与个体选择",
       "url": "https://sociology.shu.edu.cn/info/1105/40338.htm",
       "date": "2026-04-23",
       "column": "学术报告"
+    },
+    {
+      "title": "第六届费孝通田野调查项目资助计划公告",
+      "url": "https://sociology.shu.edu.cn/info/1103/41258.htm",
+      "date": "2026-04-22",
+      "column": "通知公告"
     },
     {
       "title": "ADRI系列讲座|进入破1生育率的中国人口",
@@ -154,6 +179,12 @@
       "column": "媒体报道"
     },
     {
+      "title": "关于开展2026年度上海市高校学生赴国际组织实习申报工作的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/40978.htm",
+      "date": "2026-04-13",
+      "column": "通知公告"
+    },
+    {
       "title": "讲座回顾|“在全球城市喝一杯：上海和东京酒吧文化的转变”讲座成功举办",
       "url": "https://sociology.shu.edu.cn/info/1104/40928.htm",
       "date": "2026-04-13",
@@ -202,6 +233,18 @@
       "column": "学术报告"
     },
     {
+      "title": "在全球城市喝一杯：上海和东京酒吧文化的转变（Drinking in the Global City: The Transformation of Bar Culture in Shanghai and Tokyo）",
+      "url": "https://sociology.shu.edu.cn/info/1105/40798.htm",
+      "date": "2026-04-07",
+      "column": "学术报告"
+    },
+    {
+      "title": "​中国城市消费革命的探索式重访：研究议题的讨论与展望",
+      "url": "https://sociology.shu.edu.cn/info/1105/40808.htm",
+      "date": "2026-04-07",
+      "column": "学术报告"
+    },
+    {
       "title": "羊城晚报|武洹宇|徐宗汉：豪门千金有侠骨 女学先声显慈心",
       "url": "https://sociology.shu.edu.cn/info/1109/40828.htm",
       "date": "2026-04-07",
@@ -214,10 +257,34 @@
       "column": "媒体报道"
     },
     {
+      "title": "社会科学中的理论化工作",
+      "url": "https://sociology.shu.edu.cn/info/1105/40788.htm",
+      "date": "2026-04-06",
+      "column": "学术报告"
+    },
+    {
+      "title": "社会学院关于开展2025年度上海大学百名优秀团员、上海大学五四红旗团支部评选工作的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/40748.htm",
+      "date": "2026-04-02",
+      "column": "通知公告"
+    },
+    {
       "title": "《光明日报》 | 李友梅：以整体性治理的制度创新开创人民城市建设新局面",
       "url": "https://sociology.shu.edu.cn/info/1104/40638.htm",
       "date": "2026-03-30",
       "column": "学术动态"
+    },
+    {
+      "title": "高级社会工作实务系列讲座|从“相加”到“相融”：探索社志融合的静安实践",
+      "url": "https://sociology.shu.edu.cn/info/1105/40588.htm",
+      "date": "2026-03-30",
+      "column": "学术报告"
+    },
+    {
+      "title": "ADRI系列讲座|Building Common Ground: GHSL, GEO Human Planet, and the Science of Collaborative Settlement Data​ (构建共识：GHSL、GEO人类星球与协同性聚落数据科学)",
+      "url": "https://sociology.shu.edu.cn/info/1105/40598.htm",
+      "date": "2026-03-30",
+      "column": "学术报告"
     },
     {
       "title": "《光明日报》 | 李友梅：以整体性治理的制度创新开创人民城市建设新局面",
@@ -226,10 +293,28 @@
       "column": "媒体报道"
     },
     {
+      "title": "高级社会工作实务系列讲座|安宁疗护中的社会工作个案服务",
+      "url": "https://sociology.shu.edu.cn/info/1105/40498.htm",
+      "date": "2026-03-28",
+      "column": "学术报告"
+    },
+    {
+      "title": "高级社会工作实务系列讲座|香气疗愈社会工作",
+      "url": "https://sociology.shu.edu.cn/info/1105/40508.htm",
+      "date": "2026-03-28",
+      "column": "学术报告"
+    },
+    {
       "title": "喜讯 | CJS入选期刊分区表2区",
       "url": "https://mp.weixin.qq.com/s/0Rq9DMA_3hPk1wMm0x20VA",
       "date": "2026-03-27",
       "column": "学术动态"
+    },
+    {
+      "title": "高级社会工作实务系列讲座|新时代背景下社区医院发展的思考与实践",
+      "url": "https://sociology.shu.edu.cn/info/1105/40488.htm",
+      "date": "2026-03-27",
+      "column": "学术报告"
     },
     {
       "title": "社会学院召开青年教师联谊分会换届会议",
@@ -242,6 +327,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/40528.htm",
       "date": "2026-03-25",
       "column": "学术动态"
+    },
+    {
+      "title": "IESM讲座|练中学：本科生田野尝试与实践——从雅万高铁的田野谈起",
+      "url": "https://sociology.shu.edu.cn/info/1105/40478.htm",
+      "date": "2026-03-25",
+      "column": "学术报告"
     },
     {
       "title": "“汇智聚才，共话创新人才培养”——社会学院举行“十五五”规划优秀校友、重点行业代表座谈会",
@@ -262,6 +353,18 @@
       "column": "校友活动"
     },
     {
+      "title": "关于2026年清明节、劳动节、端午节放假安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/392005.htm",
+      "date": "2026-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026公共性论坛02|自我照护教育的课程嵌入——基于社会工作专业硕士培养的实施研究",
+      "url": "https://sociology.shu.edu.cn/info/1105/40378.htm",
+      "date": "2026-03-23",
+      "column": "学术报告"
+    },
+    {
       "title": "澎湃新闻|一入匪坵深似海：《寨墙内外》成书记",
       "url": "https://sociology.shu.edu.cn/info/1109/40388.htm",
       "date": "2026-03-23",
@@ -280,10 +383,34 @@
       "column": "学术动态"
     },
     {
+      "title": "高级社会工作实务系列讲座|宏观精神健康社会工作——以上海为例",
+      "url": "https://sociology.shu.edu.cn/info/1105/40348.htm",
+      "date": "2026-03-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "高级社会工作实务系列讲座|舞动疗愈社会工作",
+      "url": "https://sociology.shu.edu.cn/info/1105/40358.htm",
+      "date": "2026-03-20",
+      "column": "学术报告"
+    },
+    {
       "title": "华南农业大学公共管理学院到我院调研交流",
       "url": "https://sociology.shu.edu.cn/info/1111/40328.htm",
       "date": "2026-03-20",
       "column": "图片新闻"
+    },
+    {
+      "title": "人生与田野24|教育何为？城乡教育田野调查工作坊",
+      "url": "https://sociology.shu.edu.cn/info/1105/40308.htm",
+      "date": "2026-03-19",
+      "column": "学术报告"
+    },
+    {
+      "title": "关于2026年上半年全国大学英语四、六级考试报名的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/319804.htm",
+      "date": "2026-03-18",
+      "column": "通知公告"
     },
     {
       "title": "社会学院召开干部宣布会",
@@ -304,10 +431,22 @@
       "column": "学术动态"
     },
     {
+      "title": "ADRI系列讲座|基础设施演化：中国赴美非常规移民的算法中介与平台逻辑",
+      "url": "https://sociology.shu.edu.cn/info/1105/40198.htm",
+      "date": "2026-03-17",
+      "column": "学术报告"
+    },
+    {
       "title": "上海大学社会学院2025-2026学年春季学期校内自习辅导信息表",
       "url": "https://sociology.shu.edu.cn/info/1106/40218.htm",
       "date": "2026-03-17",
       "column": "教学教务"
+    },
+    {
+      "title": "国家话语与社会生活变迁",
+      "url": "https://sociology.shu.edu.cn/info/1105/40188.htm",
+      "date": "2026-03-16",
+      "column": "学术报告"
     },
     {
       "title": "转新刊 |《社会》2026年第1期目录",
@@ -442,16 +581,34 @@
       "column": "综合新闻"
     },
     {
+      "title": "2025-2026学年秋季学期补考、缓考安排",
+      "url": "https://bksy.shu.edu.cn/info/1015/319334.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
       "title": "凝聚青年力量 共话发展蓝图 —— 社会学院青年教师座谈会成功举办",
       "url": "https://sociology.shu.edu.cn/info/1102/39518.htm",
       "date": "2026-01-09",
       "column": "综合新闻"
     },
     {
+      "title": "上海大学关于“教务部”更名为“本科生院”及网址更新的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/319304.htm",
+      "date": "2026-01-08",
+      "column": "通知公告"
+    },
+    {
       "title": "书香上海 | 视界·访谈 ｜ 邓伟志：不创新对不起上海这座文化之都",
       "url": "https://sociology.shu.edu.cn/info/1109/39298.htm",
       "date": "2026-01-08",
       "column": "媒体报道"
+    },
+    {
+      "title": "2026年上海大学社会学院教师科研人员公开招聘",
+      "url": "https://sociology.shu.edu.cn/info/1103/39228.htm",
+      "date": "2026-01-06",
+      "column": "通知公告"
     },
     {
       "title": "学术文化节|“走进田野·洞悉社会”田野调查技能大赛圆满落幕",
@@ -526,6 +683,12 @@
       "column": "媒体报道"
     },
     {
+      "title": "关于2026年元旦和2025-2026学年寒假安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/387575.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
       "title": "“易”路同行 展青春风采|我院2025级社会学直招班在上海高校易班新生班级风采大赛中斩获佳绩",
       "url": "https://sociology.shu.edu.cn/info/1102/38878.htm",
       "date": "2025-12-25",
@@ -550,6 +713,12 @@
       "column": "学生动态"
     },
     {
+      "title": "上海大学关于申报2026年度校级大学生创新训练计划项目的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/319054.htm",
+      "date": "2025-12-23",
+      "column": "通知公告"
+    },
+    {
       "title": "校地协同·暖“新”赋能：学院携手淮海中路街道深耕“骑手友好街区”建设",
       "url": "https://sociology.shu.edu.cn/info/1102/38748.htm",
       "date": "2025-12-23",
@@ -572,6 +741,18 @@
       "url": "https://sociology.shu.edu.cn/info/1111/38788.htm",
       "date": "2025-12-23",
       "column": "图片新闻"
+    },
+    {
+      "title": "上海大学社会学院关于组织参加第十五届“自强杯”大学生创业大赛的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/38678.htm",
+      "date": "2025-12-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学社会学院关于组织开展2026年寒假社会实践活动的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/38688.htm",
+      "date": "2025-12-19",
+      "column": "通知公告"
     },
     {
       "title": "博士研究生吴童在国际期刊《Environmental Impact Assessment Review》发表最新研究成果",
@@ -616,6 +797,12 @@
       "column": "教学教务"
     },
     {
+      "title": "上观新闻 | 思响上海｜黄晓春：超越技术主义线性思维，以系统优化构建物业治理新范式",
+      "url": "https://sociology.shu.edu.cn/info/1109/38238.htm",
+      "date": "2025-12-15",
+      "column": "媒体报道"
+    },
+    {
       "title": "启智润心话成长 聚力前行谱新篇——2025年班导师工作交流会顺利召开",
       "url": "https://sociology.shu.edu.cn/info/1102/38128.htm",
       "date": "2025-12-12",
@@ -640,6 +827,18 @@
       "column": "学术动态"
     },
     {
+      "title": "中国新闻社|武洹宇：一封中国人的信，为何成美大学首个汉学系开端？",
+      "url": "https://sociology.shu.edu.cn/info/1109/38218.htm",
+      "date": "2025-12-12",
+      "column": "媒体报道"
+    },
+    {
+      "title": "关于组织我校学生参加2026年(第十八届)上海市大学生计算机应用能力大赛的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318974.htm",
+      "date": "2025-12-11",
+      "column": "通知公告"
+    },
+    {
       "title": "英国谢菲尔德大学知名学者Peter Matanle访问人口学研究所",
       "url": "https://sociology.shu.edu.cn/info/1104/38058.htm",
       "date": "2025-12-09",
@@ -652,6 +851,24 @@
       "column": "学生动态"
     },
     {
+      "title": "陈佳副教授参加“智汇助残，融创未来”国际残疾人日主题活动",
+      "url": "https://sociology.shu.edu.cn/info/1109/38098.htm",
+      "date": "2025-12-09",
+      "column": "媒体报道"
+    },
+    {
+      "title": "新闻晨报 | 山海相约！“未来非遗在沪滇之间”VR展启幕",
+      "url": "https://www.shxwcb.com/#/detail/A900CCAE3E5C04E3851F8B7563F50C18398FC2D18258C336937A51120ACE02BB",
+      "date": "2025-12-09",
+      "column": "媒体报道"
+    },
+    {
+      "title": "2025年12月全国大学英语四、六级考试考前须知及注意事项",
+      "url": "https://jwb.shu.edu.cn/info/1015/318914.htm",
+      "date": "2025-12-08",
+      "column": "通知公告"
+    },
+    {
       "title": "2019级博士生王涛荣获余天休社会学优秀博士论文（提名奖）",
       "url": "https://sociology.shu.edu.cn/info/1104/37988.htm",
       "date": "2025-12-08",
@@ -662,6 +879,18 @@
       "url": "https://sociology.shu.edu.cn/info/1104/37898.htm",
       "date": "2025-12-05",
       "column": "学术动态"
+    },
+    {
+      "title": "上观：思响上海｜黄晓春：超越技术主义线性思维，以系统优化构建物业治理新范式",
+      "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1029980",
+      "date": "2025-12-05",
+      "column": "媒体报道"
+    },
+    {
+      "title": "学院阅览室近期开放安排",
+      "url": "https://sociology.shu.edu.cn/info/1103/37868.htm",
+      "date": "2025-12-04",
+      "column": "通知公告"
     },
     {
       "title": "学院师生参加第四届长江流域社会学优秀博士生论坛暨上海市社会学学会青年学者论坛",
@@ -688,10 +917,28 @@
       "column": "综合新闻"
     },
     {
+      "title": "2025年度上海大学社会学院孙嘉明奖学金实施公告",
+      "url": "https://sociology.shu.edu.cn/info/1103/37548.htm",
+      "date": "2025-12-01",
+      "column": "通知公告"
+    },
+    {
       "title": "探访美美江村，研学乡土中国——社会学院、秋白书院本硕学子江村研学活动顺利开展",
       "url": "https://sociology.shu.edu.cn/info/1107/37508.htm",
       "date": "2025-12-01",
       "column": "学生动态"
+    },
+    {
+      "title": "关于组织第十七届蓝桥杯全国大学生软件和信息技术专业人才大赛上海大学训练营的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318754.htm",
+      "date": "2025-11-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办2026年（第十八届）上海市大学生计算机应用能力大赛的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318774.htm",
+      "date": "2025-11-28",
+      "column": "通知公告"
     },
     {
       "title": "学院召开课程思政建设暨本科人才培养交流研讨会",
@@ -718,6 +965,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "关于举办2025年上海大学人工智能创新大赛的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318704.htm",
+      "date": "2025-11-21",
+      "column": "通知公告"
+    },
+    {
       "title": "逐梦知行！社会学院学子荣获上海市“知行杯”二等奖！",
       "url": "https://sociology.shu.edu.cn/info/1107/37178.htm",
       "date": "2025-11-18",
@@ -736,10 +989,22 @@
       "column": "综合新闻"
     },
     {
+      "title": "关于评审第二届上海大学社会学院青葵奖学金的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/36938.htm",
+      "date": "2025-11-13",
+      "column": "通知公告"
+    },
+    {
       "title": "“职”面挑战，赋能未来 | 2026届社工毕业生简历制作与面试技巧分享会圆满举行",
       "url": "https://sociology.shu.edu.cn/info/1107/36998.htm",
       "date": "2025-11-13",
       "column": "学生动态"
+    },
+    {
+      "title": "社会学院关于开展2024-2025学年校、院两级优秀学生、优秀学生干部和学生先进班集体评选活动的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/36948.htm",
+      "date": "2025-11-12",
+      "column": "通知公告"
     },
     {
       "title": "第四届亚洲人口论坛在上海大学成功举办",
@@ -764,6 +1029,12 @@
       "url": "https://sociology.shu.edu.cn/info/1111/36768.htm",
       "date": "2025-11-07",
       "column": "图片新闻"
+    },
+    {
+      "title": "转 | 财务处关于做好2025年度年终关账对账工作和2026年经费预拨工作的通知",
+      "url": "https://mp.weixin.qq.com/s/mCpCRCcL9hRE52OIxtqXMg",
+      "date": "2025-11-06",
+      "column": "通知公告"
     },
     {
       "title": "新加坡国立大学冯秋石一行访问社会学院探讨合作新机遇",
@@ -802,6 +1073,18 @@
       "column": "教学教务"
     },
     {
+      "title": "上海大学关于推荐教师参与首届长三角高校“超星杯”智慧教与学大赛的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318504.htm",
+      "date": "2025-10-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2025年上海大学本科教学成果奖申报工作的通知（教务部〔2025〕27号）",
+      "url": "https://jwb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=318484",
+      "date": "2025-10-29",
+      "column": "通知公告"
+    },
+    {
       "title": "讲座回顾|联合国人口司司长John Wilmoth在上海大学发表“世界人口展望：趋势差异、叙事博弈和联合国的作用”的主题演讲",
       "url": "https://sociology.shu.edu.cn/info/1111/36378.htm",
       "date": "2025-10-28",
@@ -820,6 +1103,24 @@
       "column": "图片新闻"
     },
     {
+      "title": "滂湃|《轮廓：中国人类学南派的重建伊始》：一部当代学科史",
+      "url": "https://m.thepaper.cn/newsDetail_forward_31768856",
+      "date": "2025-10-22",
+      "column": "媒体报道"
+    },
+    {
+      "title": "组织人事报 | 纪莺莺、汪真诚《深化党的组织体系全覆盖，引领快递骑手融入城市社区共同体——让骑手在城市更“自在”》",
+      "url": "https://mp.weixin.qq.com/s/BmFA21Uio_BiR3vTmrBZDg",
+      "date": "2025-10-22",
+      "column": "媒体报道"
+    },
+    {
+      "title": "人民网 | 多维视角共话发展路径 医务社会工作注入新动能",
+      "url": "http://sh.people.com.cn/n2/2025/1021/c134768-41386627.html",
+      "date": "2025-10-21",
+      "column": "媒体报道"
+    },
+    {
       "title": "上海大学·十院校级实习基地揭牌暨医务社工服务研讨会举行",
       "url": "https://sociology.shu.edu.cn/info/1102/36028.htm",
       "date": "2025-10-17",
@@ -836,6 +1137,18 @@
       "url": "https://sociology.shu.edu.cn/info/1107/36068.htm",
       "date": "2025-10-17",
       "column": "学生动态"
+    },
+    {
+      "title": "人民日报客户端 | 中英安宁缓和照护与善终关怀工作坊在沪举办",
+      "url": "https://www.peopleapp.com/column/30050514823-500007144822",
+      "date": "2025-10-17",
+      "column": "媒体报道"
+    },
+    {
+      "title": "关于2025年上海市高等学校信息技术水平模拟考试的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318214.htm",
+      "date": "2025-10-16",
+      "column": "通知公告"
     },
     {
       "title": "博士研究生沙力塔娜提·哈比都拉再赴哈萨克斯坦开展中资企业“走出去”田野调查",
@@ -892,6 +1205,12 @@
       "column": "学生动态"
     },
     {
+      "title": "《文汇报》| 纪莺莺：自立和依赖，对于人类来说都是重要的",
+      "url": "https://sociology.shu.edu.cn/info/1109/34928.htm",
+      "date": "2025-09-17",
+      "column": "媒体报道"
+    },
+    {
       "title": "喜报 | 学院获4项国家级项目立项",
       "url": "https://sociology.shu.edu.cn/info/1102/34868.htm",
       "date": "2025-09-12",
@@ -908,6 +1227,24 @@
       "url": "https://sociology.shu.edu.cn/info/1106/34818.htm",
       "date": "2025-09-02",
       "column": "教学教务"
+    },
+    {
+      "title": "上观号|上海市社联|理论在一线|纪莺莺：在行走中感知人民城市理念的道理、学理、哲理",
+      "url": "https://web.shobserver.com/sgh/detail?id=1614967",
+      "date": "2025-07-24",
+      "column": "媒体报道"
+    },
+    {
+      "title": "中国社会科学网-中国社会科学报|黄晓春：以人民城市理念推动城市治理现代化",
+      "url": "https://www.cssn.cn/skgz/bwyc/202507/t20250717_5886615.shtml",
+      "date": "2025-07-17",
+      "column": "媒体报道"
+    },
+    {
+      "title": "新华网|AI赋能廉脉传，千年家风润今朝",
+      "url": "http://gd.news.cn/20250710/2fd782191ab44d878023bf3d62e303f2/c.html",
+      "date": "2025-07-11",
+      "column": "媒体报道"
     },
     {
       "title": "上海大学社会学院项目脱颖而出，全力冲刺“挑战杯”国赛",
@@ -934,6 +1271,12 @@
       "column": "学生动态"
     },
     {
+      "title": "上观 | 刘玉照：走出园区，在交流交融中塑造自身形象",
+      "url": "https://sociology.shu.edu.cn/info/1109/34248.htm",
+      "date": "2025-06-17",
+      "column": "媒体报道"
+    },
+    {
       "title": "提升服务能力 践行志愿精神——社会学院志愿者协会成功举办志愿者专项培训",
       "url": "https://sociology.shu.edu.cn/info/1107/34198.htm",
       "date": "2025-06-12",
@@ -950,6 +1293,12 @@
       "url": "https://sociology.shu.edu.cn/info/1106/34088.htm",
       "date": "2025-06-10",
       "column": "教学教务"
+    },
+    {
+      "title": "中国新闻 |张海东：汇聚新阶层“建设力”助推中国式现代化",
+      "url": "https://sociology.shu.edu.cn/info/1109/34008.htm",
+      "date": "2025-06-06",
+      "column": "媒体报道"
     },
     {
       "title": "闪耀市赛！再获佳绩，祝贺社院学子！",
@@ -1552,6 +1901,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "“民俗与日常：现代民俗学的理论与方法”学术研讨会顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1111/27918.htm",
+      "date": "2024-11-08",
+      "column": "图片新闻"
+    },
+    {
       "title": "上海大学首届“社会工作与心理健康”研究生论坛专家讲座",
       "url": "https://mp.weixin.qq.com/s/93inp_fH4qa3yeqVkAj3yg",
       "date": "2024-11-07",
@@ -1568,6 +1923,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/27748.htm",
       "date": "2024-11-07",
       "column": "综合新闻"
+    },
+    {
+      "title": "上海大学世界安宁疗护日系列活动成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1111/28088.htm",
+      "date": "2024-11-07",
+      "column": "图片新闻"
     },
     {
       "title": "首届“江财·上大社会学与社会工作学生学术交流节”成功举办",
@@ -1622,6 +1983,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/27268.htm",
       "date": "2024-10-15",
       "column": "综合新闻"
+    },
+    {
+      "title": "2024年度市级“美好社区先锋行动”专项对接会顺利召开",
+      "url": "https://sociology.shu.edu.cn/info/1111/27338.htm",
+      "date": "2024-10-15",
+      "column": "图片新闻"
     },
     {
       "title": "社会学院第三届教职工全体大会暨工会会员大会第二次会议顺利举办",
@@ -1822,6 +2189,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "跨越山海 创“社”未来 | 上海大学社会学院2024年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1111/25748.htm",
+      "date": "2024-06-26",
+      "column": "图片新闻"
+    },
+    {
       "title": "校社携手，共赴美好：记罗店镇郡园党群服务站赴上海大学校史馆溯源红色足迹活动",
       "url": "https://sociology.shu.edu.cn/info/1107/26338.htm",
       "date": "2024-06-21",
@@ -1870,10 +2243,22 @@
       "column": "校友活动"
     },
     {
+      "title": "沐春而聚，共忆长情｜2024年社会学院校友值年返校活动圆满举行",
+      "url": "https://sociology.shu.edu.cn/info/1111/24198.htm",
+      "date": "2024-05-28",
+      "column": "图片新闻"
+    },
+    {
       "title": "中共上海大学社会学院委员会党员大会顺利召开",
       "url": "https://sociology.shu.edu.cn/info/1102/24108.htm",
       "date": "2024-05-27",
       "column": "综合新闻"
+    },
+    {
+      "title": "中共上海大学社会学院委员会党员大会顺利召开",
+      "url": "https://sociology.shu.edu.cn/info/1111/24118.htm",
+      "date": "2024-05-27",
+      "column": "图片新闻"
     },
     {
       "title": "虹口区广中路街道党工委一行赴社会学院走访交流",
@@ -1886,6 +2271,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/23998.htm",
       "date": "2024-05-23",
       "column": "综合新闻"
+    },
+    {
+      "title": "常州市觅渡教育集团参访上海大学——“重走秋白教育路”",
+      "url": "https://sociology.shu.edu.cn/info/1111/24048.htm",
+      "date": "2024-05-23",
+      "column": "图片新闻"
     },
     {
       "title": "2021级人类学硕士研究生胡煌参加由荷兰阿姆斯特丹大学和北京大学联合举办的SOCIAL AND CULTURAL IMAGINATIONS OF RURAL MODERNIZATION（乡村现代化的社会与文化想象）学术工作坊",
@@ -1910,6 +2301,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/23788.htm",
       "date": "2024-05-17",
       "column": "综合新闻"
+    },
+    {
+      "title": "Wolfgang Lutz院士受聘上海大学合同签约仪式圆满完成",
+      "url": "https://sociology.shu.edu.cn/info/1111/24058.htm",
+      "date": "2024-05-17",
+      "column": "图片新闻"
     },
     {
       "title": "山河有待 携手致远 ——第二届研究生就业、考公、升学经验分享会系列三",
@@ -1990,6 +2387,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "缅怀先烈寄哀思 赓续血脉永奋进  ——上海大学社会学院秋白党支部举行纪念瞿秋白诞辰125周年清明祭扫活动",
+      "url": "https://sociology.shu.edu.cn/info/1111/22938.htm",
+      "date": "2024-04-12",
+      "column": "图片新闻"
+    },
+    {
       "title": "中共上海市徐汇区委党校王晔夏副校长一行来院交流",
       "url": "https://sociology.shu.edu.cn/info/1102/22858.htm",
       "date": "2024-04-11",
@@ -2068,6 +2471,18 @@
       "column": "综合新闻"
     },
     {
+      "title": "励学有为 青春闪耀｜社会学院2024年学生荣誉奖学金颁奖典礼隆重举行",
+      "url": "https://sociology.shu.edu.cn/info/1111/21978.htm",
+      "date": "2024-03-12",
+      "column": "图片新闻"
+    },
+    {
+      "title": "聚力 提质 攀登",
+      "url": "https://www.shu.edu.cn/index.htm",
+      "date": "2024-01-31",
+      "column": "图片新闻"
+    },
+    {
       "title": "《政治人类学评论（第18辑）》“经济社会学与企业海外民族志专刊”正式发布",
       "url": "https://sociology.shu.edu.cn/info/1102/21718.htm",
       "date": "2024-01-26",
@@ -2080,10 +2495,22 @@
       "column": "综合新闻"
     },
     {
+      "title": "《政治人类学评论（第18辑）》“经济社会学与企业海外民族志专刊”正式发布",
+      "url": "https://sociology.shu.edu.cn/info/1111/21738.htm",
+      "date": "2024-01-26",
+      "column": "图片新闻"
+    },
+    {
       "title": "成旦红书记参加社会学院秋白党支部主题党日活动",
       "url": "https://sociology.shu.edu.cn/info/1102/21588.htm",
       "date": "2024-01-20",
       "column": "综合新闻"
+    },
+    {
+      "title": "成旦红书记参加社会学院秋白党支部主题党日活动",
+      "url": "https://sociology.shu.edu.cn/info/1111/21598.htm",
+      "date": "2024-01-20",
+      "column": "图片新闻"
     },
     {
       "title": "同叙校友情，共话发展路——学院领导带队走访优秀校友张大钟",
@@ -2104,10 +2531,22 @@
       "column": "综合新闻"
     },
     {
+      "title": "2026学术会议信息与征文资讯（采集自网络）",
+      "url": "https://sociology.shu.edu.cn/info/1103/21398.htm",
+      "date": "2024-01-08",
+      "column": "通知公告"
+    },
+    {
       "title": "“上海智库论坛•党建引领社会治理创新”举办，深入聚焦党建引领社会治理创新的新动态",
       "url": "https://sociology.shu.edu.cn/info/1102/21188.htm",
       "date": "2024-01-01",
       "column": "综合新闻"
+    },
+    {
+      "title": "“上海智库论坛•党建引领社会治理创新”举办，深入聚焦党建引领社会治理创新的新动态",
+      "url": "https://sociology.shu.edu.cn/info/1111/21208.htm",
+      "date": "2024-01-01",
+      "column": "图片新闻"
     },
     {
       "title": "三门县姜华副书记一行到访费孝通学术思想研究中心",
@@ -2192,6 +2631,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/20298.htm",
       "date": "2023-12-05",
       "column": "综合新闻"
+    },
+    {
+      "title": "第十届费孝通学术思想论坛举行！",
+      "url": "https://sociology.shu.edu.cn/info/1111/20318.htm",
+      "date": "2023-12-05",
+      "column": "图片新闻"
     },
     {
       "title": "2021级博士研究生叶珍同学参加第十九届中国青少年发展论坛",
@@ -10750,6 +11195,12 @@
       "column": "学生动态"
     },
     {
+      "title": "讲座预告：“美国文化中的白手起家之梦”系列讲座",
+      "url": "https://sociology.shu.edu.cn/info/1105/5259.htm",
+      "date": "2015-05-08",
+      "column": "学术报告"
+    },
+    {
       "title": "上海大学社会学院与上海市公安局外联办党组织结对共建活动圆满举行",
       "url": "https://sociology.shu.edu.cn/info/1102/4974.htm",
       "date": "2015-05-07",
@@ -10762,10 +11213,22 @@
       "column": "图片新闻"
     },
     {
+      "title": "中法研究生论坛会议通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8642.htm",
+      "date": "2015-05-05",
+      "column": "通知公告"
+    },
+    {
       "title": "我院与中海环境科技（上海）股份有限公司达成初步合作意向",
       "url": "https://sociology.shu.edu.cn/info/1107/3978.htm",
       "date": "2015-05-05",
       "column": "学生动态"
+    },
+    {
+      "title": "关于开展2015年社会学院暑期社会实践活动的预通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8640.htm",
+      "date": "2015-04-30",
+      "column": "通知公告"
     },
     {
       "title": "博士海外交流经验点燃硕士生学术钻研热情开启职业生涯",
@@ -10810,6 +11273,12 @@
       "column": "学术动态"
     },
     {
+      "title": "2015年上海大学教职工体检通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8639.htm",
+      "date": "2015-04-27",
+      "column": "通知公告"
+    },
+    {
       "title": "安山老师为全院党员学生讲授反腐倡廉专题讲座",
       "url": "https://sociology.shu.edu.cn/info/1107/3983.htm",
       "date": "2015-04-27",
@@ -10820,6 +11289,12 @@
       "url": "https://sociology.shu.edu.cn/info/1107/3984.htm",
       "date": "2015-04-27",
       "column": "学生动态"
+    },
+    {
+      "title": "第4届应用社会科学研究方法研修班（暑期班 2015上海）简章",
+      "url": "https://sociology.shu.edu.cn/info/1103/8638.htm",
+      "date": "2015-04-26",
+      "column": "通知公告"
     },
     {
       "title": "社会学院本科生党总支慰问答疑专业教师",
@@ -10876,6 +11351,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "讲座预告：自然科学与社会科学的区别",
+      "url": "https://sociology.shu.edu.cn/info/1105/5260.htm",
+      "date": "2015-04-22",
+      "column": "学术报告"
+    },
+    {
       "title": "李友梅：特大城市风险如何避免",
       "url": "https://sociology.shu.edu.cn/info/1104/5803.htm",
       "date": "2015-04-21",
@@ -10892,6 +11373,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/5941.htm",
       "date": "2015-04-21",
       "column": "学术动态"
+    },
+    {
+      "title": "讲座预告：中国阶级结构的变迁与社会治理的阶段性任务",
+      "url": "https://sociology.shu.edu.cn/info/1105/5261.htm",
+      "date": "2015-04-21",
+      "column": "学术报告"
     },
     {
       "title": "我院与嘉定区中心医院共建医务社会工作教学实训基地",
@@ -10954,10 +11441,34 @@
       "column": "学术动态"
     },
     {
+      "title": "紧急通知：“百优团员”申报通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8634.htm",
+      "date": "2015-04-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告：中国食物生产与消费的可持续性——制度变迁的视角",
+      "url": "https://sociology.shu.edu.cn/info/1105/5262.htm",
+      "date": "2015-04-13",
+      "column": "学术报告"
+    },
+    {
       "title": "社会学院刘玉照、孙秀林等一行赴市人口办、凉城街道调研",
       "url": "https://sociology.shu.edu.cn/info/1102/4979.htm",
       "date": "2015-04-09",
       "column": "综合新闻"
+    },
+    {
+      "title": "社会学院“职业导航”系列活动月主题活动信息",
+      "url": "https://sociology.shu.edu.cn/info/1103/8633.htm",
+      "date": "2015-04-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告：华西村旅游——现代性、国家与市场的空间",
+      "url": "https://sociology.shu.edu.cn/info/1105/5263.htm",
+      "date": "2015-04-09",
+      "column": "学术报告"
     },
     {
       "title": "社会学院党委召开全体教工党员专题组织生活会",
@@ -11020,6 +11531,12 @@
       "column": "学术动态"
     },
     {
+      "title": "2015年春季学期社会学院教师校内辅导信息表",
+      "url": "https://sociology.shu.edu.cn/info/1106/5492.htm",
+      "date": "2015-03-27",
+      "column": "教学教务"
+    },
+    {
       "title": "校友引航社工专业学生职业定位----记社会学院社工专业研究生首日教育",
       "url": "https://sociology.shu.edu.cn/info/1102/4986.htm",
       "date": "2015-03-26",
@@ -11050,10 +11567,22 @@
       "column": "学生动态"
     },
     {
+      "title": "2015年上半年常规普通话水平测试报名通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8630.htm",
+      "date": "2015-03-24",
+      "column": "通知公告"
+    },
+    {
       "title": "袁浩副院长访问香港科技大学和香港浸会大学",
       "url": "https://sociology.shu.edu.cn/info/1104/5348.htm",
       "date": "2015-03-24",
       "column": "学术动态"
+    },
+    {
+      "title": "2015年上半年常规普通话水平测试报名通知",
+      "url": "https://sociology.shu.edu.cn/info/1106/5493.htm",
+      "date": "2015-03-24",
+      "column": "教学教务"
     },
     {
       "title": "讲中国故事，聚青春能量----社会学院2013级本科生首日教育",
@@ -11068,10 +11597,52 @@
       "column": "综合新闻"
     },
     {
+      "title": "【研究生复试】 领取复试通知单须知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8626.htm",
+      "date": "2015-03-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2015年6月大学英语46级报名通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8627.htm",
+      "date": "2015-03-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "第十二届组织社会学实证研究工作坊启事",
+      "url": "https://sociology.shu.edu.cn/info/1103/8628.htm",
+      "date": "2015-03-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "社会学院关于选拔学生赴海外学习交流的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8629.htm",
+      "date": "2015-03-20",
+      "column": "通知公告"
+    },
+    {
       "title": "孙秀林《新视野》《城市研究中的空间分析》",
       "url": "https://sociology.shu.edu.cn/info/1104/5933.htm",
       "date": "2015-03-20",
       "column": "学术动态"
+    },
+    {
+      "title": "社会学院关于选拔学生赴海外学习交流的通知",
+      "url": "https://sociology.shu.edu.cn/info/1106/5494.htm",
+      "date": "2015-03-20",
+      "column": "教学教务"
+    },
+    {
+      "title": "讲座预告：大饥荒的政治经济学解析",
+      "url": "https://sociology.shu.edu.cn/info/1105/5264.htm",
+      "date": "2015-03-18",
+      "column": "学术报告"
+    },
+    {
+      "title": "2014-2015学年春季学期社会学院研究生课程安排",
+      "url": "https://sociology.shu.edu.cn/info/1106/5683.htm",
+      "date": "2015-03-18",
+      "column": "教学教务"
     },
     {
       "title": "孙秀林副研究员入选2014年度“曙光计划”项目",
@@ -11114,6 +11685,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/5929.htm",
       "date": "2015-02-10",
       "column": "学术动态"
+    },
+    {
+      "title": "荣获上海大学社会学院费孝通田野调查基金项目资助名单公示",
+      "url": "https://sociology.shu.edu.cn/info/1106/5684.htm",
+      "date": "2015-02-06",
+      "column": "教学教务"
     },
     {
       "title": "【喜报】我院获评校全系统管理年终考核优秀",
@@ -11194,6 +11771,18 @@
       "column": "综合新闻"
     },
     {
+      "title": "讲座预告：新闻专业主义的危机再思考——文化权力",
+      "url": "https://sociology.shu.edu.cn/info/1105/5265.htm",
+      "date": "2015-01-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "讲座预告：人口环境、人力资本与国际移民专题讲座",
+      "url": "https://sociology.shu.edu.cn/info/1105/5266.htm",
+      "date": "2015-01-15",
+      "column": "学术报告"
+    },
+    {
       "title": "中国社会学期刊2015年论坛在上海大学举办",
       "url": "https://sociology.shu.edu.cn/info/1111/4068.htm",
       "date": "2015-01-15",
@@ -11204,6 +11793,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/5349.htm",
       "date": "2015-01-12",
       "column": "学术动态"
+    },
+    {
+      "title": "讲座预告：戏剧与仪式——幻想的世界",
+      "url": "https://sociology.shu.edu.cn/info/1105/5267.htm",
+      "date": "2015-01-12",
+      "column": "学术报告"
     },
     {
       "title": "我院研究生赴迪拜参加“2014商学、经济学和社会科学国际研究会议”",
@@ -11872,6 +12467,12 @@
       "column": "学生动态"
     },
     {
+      "title": "生命历程社会学研讨课",
+      "url": "https://sociology.shu.edu.cn/info/1106/8116.htm",
+      "date": "2014-01-06",
+      "column": "教学教务"
+    },
+    {
       "title": "我院10级学生陈婷婷荣获第九届校长奖学金",
       "url": "https://sociology.shu.edu.cn/info/1102/7967.htm",
       "date": "2014-01-03",
@@ -11918,6 +12519,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/7970.htm",
       "date": "2013-12-25",
       "column": "综合新闻"
+    },
+    {
+      "title": "《邓伟志全集》出版座谈会召开",
+      "url": "https://sociology.shu.edu.cn/info/1109/7971.htm",
+      "date": "2013-12-25",
+      "column": "媒体报道"
     },
     {
       "title": "学术通讯：社会流动与政治信任",
@@ -12002,6 +12609,12 @@
       "url": "https://sociology.shu.edu.cn/info/1107/8263.htm",
       "date": "2013-11-28",
       "column": "学生动态"
+    },
+    {
+      "title": "解放日报|李友梅：激活社会组织，改进社会治理----解放日报访谈",
+      "url": "https://sociology.shu.edu.cn/info/1109/8132.htm",
+      "date": "2013-11-26",
+      "column": "媒体报道"
     },
     {
       "title": "“上海人文社科青年学者沙龙”第三次学术研讨活动在我院举行",
@@ -12448,6 +13061,12 @@
       "column": "学术动态"
     },
     {
+      "title": "学院召开研究生优秀学位论文培育方案实施会议",
+      "url": "https://sociology.shu.edu.cn/info/1106/8184.htm",
+      "date": "2013-03-18",
+      "column": "教学教务"
+    },
+    {
       "title": "学术通讯：外国移民在上海：一份民族志研究报告",
       "url": "https://sociology.shu.edu.cn/info/1104/8186.htm",
       "date": "2013-03-13",
@@ -12568,6 +13187,12 @@
       "column": "学术动态"
     },
     {
+      "title": "社会学院2012年学生学术交流研讨会通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8196.htm",
+      "date": "2012-12-06",
+      "column": "通知公告"
+    },
+    {
       "title": "王亚芳赴德国比勒费尔德大学开展学术合作与交流活动",
       "url": "https://sociology.shu.edu.cn/info/1104/8197.htm",
       "date": "2012-12-03",
@@ -12676,6 +13301,12 @@
       "column": "学术动态"
     },
     {
+      "title": "社会工作专业接受社会工作专家本科新专业检查",
+      "url": "https://sociology.shu.edu.cn/info/1106/8021.htm",
+      "date": "2012-10-30",
+      "column": "教学教务"
+    },
+    {
       "title": "我院2010级硕士研究生王佳获上海市社会科学界学术年会优秀论文奖并作报告",
       "url": "https://sociology.shu.edu.cn/info/1107/8208.htm",
       "date": "2012-10-29",
@@ -12782,6 +13413,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/8217.htm",
       "date": "2012-09-11",
       "column": "学术动态"
+    },
+    {
+      "title": "社会学院举行2012级研究生开学典礼暨导师见面会",
+      "url": "https://sociology.shu.edu.cn/info/1106/8030.htm",
+      "date": "2012-09-10",
+      "column": "教学教务"
     },
     {
       "title": "学院举行新进教师座谈会",
@@ -12922,6 +13559,12 @@
       "column": "学术动态"
     },
     {
+      "title": "社会工作专业接受学校考评办本科新专业检查",
+      "url": "https://sociology.shu.edu.cn/info/1106/8038.htm",
+      "date": "2012-05-18",
+      "column": "教学教务"
+    },
+    {
       "title": "学院召开“科研项目经费管理”学习会",
       "url": "https://sociology.shu.edu.cn/info/1102/8061.htm",
       "date": "2012-05-17",
@@ -12944,6 +13587,12 @@
       "url": "https://sociology.shu.edu.cn/info/1107/8045.htm",
       "date": "2012-05-14",
       "column": "学生动态"
+    },
+    {
+      "title": "知行合一 体验群学——记社会学院开放日成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1106/8043.htm",
+      "date": "2012-05-11",
+      "column": "教学教务"
     },
     {
       "title": "学术通讯：国家、市场和公共空间的变迁",
@@ -13108,6 +13757,18 @@
       "column": "学术动态"
     },
     {
+      "title": "国际社会学会社会分层与流动研究委员会(ISA-RC28)2012年春季香港会议征文",
+      "url": "https://sociology.shu.edu.cn/info/1103/8246.htm",
+      "date": "2011-11-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "英文SSCI杂志《中国社会学评论》（Chinese Sociological Review）征文",
+      "url": "https://sociology.shu.edu.cn/info/1103/8252.htm",
+      "date": "2011-11-23",
+      "column": "通知公告"
+    },
+    {
       "title": "社会学院举行副院长、系（所）主任任命宣布会",
       "url": "https://sociology.shu.edu.cn/info/1102/8056.htm",
       "date": "2011-11-22",
@@ -13244,6 +13905,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/7101.htm",
       "date": "2011-04-03",
       "column": "学术动态"
+    },
+    {
+      "title": "理论与实践的结合——上海大学MSW冬季学期实习总结会有感",
+      "url": "https://sociology.shu.edu.cn/info/1106/7194.htm",
+      "date": "2011-04-03",
+      "column": "教学教务"
     },
     {
       "title": "学术通讯：邱泽奇教授作“CFPS的设计与数据”",
@@ -14222,6 +14889,18 @@
       "url": "https://sociology.shu.edu.cn/info/1104/7047.htm",
       "date": "2006-09-21",
       "column": "学术动态"
+    },
+    {
+      "title": "Nicholas Tapp(王富文)教授",
+      "url": "https://sociology.shu.edu.cn/info/1105/7270.htm",
+      "date": "2006-09-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "著名人类学家马库斯教授系列讲座",
+      "url": "https://sociology.shu.edu.cn/info/1105/7215.htm",
+      "date": "2006-06-30",
+      "column": "学术报告"
     },
     {
       "title": "感受草根文化的力量——记文学院博士沙龙(二)",

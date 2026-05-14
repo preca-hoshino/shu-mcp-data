@@ -2,11 +2,11 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260513_175610",
-  "total_articles": 478,
+  "crawl_time": "20260514_004804",
+  "total_articles": 492,
   "columns": {
     "通知公告": 393,
-    "科技动态": 40,
+    "科技动态": 54,
     "技术需求": 38,
     "办事流程": 7
   },
@@ -210,10 +210,28 @@
       "column": "通知公告"
     },
     {
+      "title": "机自学院上海市智能制造及机器人重点实验室王洁羽副教授在《IEEE Transactions on Robotics》上发表变形...",
+      "url": "https://www.shu.edu.cn/info/1055/393075.htm",
+      "date": "2026-04-17",
+      "column": "科技动态"
+    },
+    {
       "title": "转发关于征集新一代人工智能国家科技重大专项人工智能驱动科学研究（AI4S）领域相关专家的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/10492.htm",
       "date": "2026-04-16",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学杨绪勇团队在Nature上发表突破性研究成果",
+      "url": "https://mp.weixin.qq.com/s/0dQ2OgEvygHwocskIeAwbA",
+      "date": "2026-04-16",
+      "column": "科技动态"
+    },
+    {
+      "title": "市委深改委会议研究创新发展供应链金融、农业科技体制机制改革等事项",
+      "url": "https://mp.weixin.qq.com/s/1Fvs-XSRV0SGuRzArd_jiw",
+      "date": "2026-04-15",
+      "column": "科技动态"
     },
     {
       "title": "【揭榜挂帅】轻杂质流向/流量传感器跨尺度多场耦合机制研究——上海拜安传感技术有限公司",
@@ -240,6 +258,12 @@
       "column": "通知公告"
     },
     {
+      "title": "教育部等五部门联合印发《“人工智能+教育”行动计划》",
+      "url": "https://mp.weixin.qq.com/s/EUsYMlbm6BVW5al16qGFkw",
+      "date": "2026-04-13",
+      "column": "科技动态"
+    },
+    {
       "title": "第六届青山科技奖申报于4月10日正式启动！",
       "url": "https://greentech.meituan.com/award/application",
       "date": "2026-04-10",
@@ -252,16 +276,52 @@
       "column": "通知公告"
     },
     {
+      "title": "深化部门协同融合 赋能知识产权管理服务新模式丨上海大学知识产权管理与馆部协作交流会",
+      "url": "https://kyglb.shu.edu.cn/info/1012/10412.htm",
+      "date": "2026-04-10",
+      "column": "科技动态"
+    },
+    {
+      "title": "产业发展开创新局面——学习贯彻习近平总书记全国两会期间关于发展新质生产力重要论述系列述评之三",
+      "url": "https://mp.weixin.qq.com/s/W0iEK0zQ0NzZQMzjsMxedw?click_id=2",
+      "date": "2026-04-09",
+      "column": "科技动态"
+    },
+    {
       "title": "转发市教委《关于组织开展2026年度商用航空发动机产学研联合创新计划项目申报工作的通知》",
       "url": "https://kyglb.shu.edu.cn/info/1011/10392.htm",
       "date": "2026-04-08",
       "column": "通知公告"
     },
     {
+      "title": "成果转化探索新途径——学习贯彻习近平总书记全国两会期间关于发展新质生产力重要论述系列述评之二",
+      "url": "https://mp.weixin.qq.com/s/0t3lQoYQGKhZ-PRrEoD3tg",
+      "date": "2026-04-08",
+      "column": "科技动态"
+    },
+    {
+      "title": "科技创新实现新突破——学习贯彻习近平总书记全国两会期间关于发展新质生产力重要论述系列述评之一",
+      "url": "https://mp.weixin.qq.com/s/OME4Bxj9oajdwYRbtlLjcw",
+      "date": "2026-04-07",
+      "column": "科技动态"
+    },
+    {
+      "title": "核电关键材料全国重点实验室与国核锆业国家能源核级锆材研发中心完成合作签约",
+      "url": "https://www.shu.edu.cn/info/1055/392585.htm",
+      "date": "2026-04-03",
+      "column": "科技动态"
+    },
+    {
       "title": "【揭榜挂帅】超音速客机流固热多场耦合仿真方法研究",
       "url": "https://jbgs.pudong.gov.cn/pdkjwjbgs-website/zh-cn/pudxqkjw/enterpriseRank/details/1090877192319025153",
       "date": "2026-04-02",
       "column": "技术需求"
+    },
+    {
+      "title": "产业出题，科技答题 | 上海市未来产业原子级制造专业委员会2026年度工作会议",
+      "url": "https://mp.weixin.qq.com/s/S_EpRpnE7F7pOJVL9WRV5g",
+      "date": "2026-04-02",
+      "column": "科技动态"
     },
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年3月）",
@@ -2878,6 +2938,30 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/1744.htm",
       "date": "2018-10-22",
       "column": "通知公告"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室第二届学术委员会2017年度会议顺利召开",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1416.htm",
+      "date": "2018-01-24",
+      "column": "科技动态"
+    },
+    {
+      "title": "2017年度下半年理工科科研会议召开",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1418.htm",
+      "date": "2018-01-24",
+      "column": "科技动态"
+    },
+    {
+      "title": "我校吴晓春教授承担的国家重点研发计划 “高性能工模具钢及应用”项目2016-2017年项目进展报告会在上海...",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1419.htm",
+      "date": "2018-01-24",
+      "column": "科技动态"
+    },
+    {
+      "title": "上海市科技党委书记刘岩一行到上海大学调研指导",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1420.htm",
+      "date": "2018-01-24",
+      "column": "科技动态"
     }
   ]
 }

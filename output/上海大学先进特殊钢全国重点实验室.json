@@ -2,10 +2,11 @@
   "domain": "sklass.shu.edu.cn",
   "department": "上海大学先进特殊钢全国重点实验室",
   "type": "20",
-  "crawl_time": "20260513_175610",
-  "total_articles": 10,
+  "crawl_time": "20260514_004804",
+  "total_articles": 12,
   "columns": {
-    "重要新闻": 10
+    "重要新闻": 10,
+    "公示公告": 2
   },
   "articles": [
     {
@@ -31,6 +32,18 @@
       "url": "https://sklass.shu.edu.cn/info/1042/10192.htm",
       "date": "2025-12-11",
       "column": "重要新闻"
+    },
+    {
+      "title": "材料学院关于开展消防安全、实验室安全教育及消防疏散演练的通知2025-11-10",
+      "url": "https://mat.shu.edu.cn/info/1020/24458.htm",
+      "date": "2025-11-10",
+      "column": "公示公告"
+    },
+    {
+      "title": "先进特殊钢全国重点实验室（上海）2025年开放课题申请指南2025-10-21",
+      "url": "https://sklass.shu.edu.cn/info/1044/10172.htm",
+      "date": "2025-10-21",
+      "column": "公示公告"
     },
     {
       "title": "任忠鸣老师受邀参加上海市第41个教师节主题活动2025-09-11",

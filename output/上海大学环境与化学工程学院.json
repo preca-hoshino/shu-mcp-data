@@ -2,15 +2,15 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260513_175610",
-  "total_articles": 900,
+  "crawl_time": "20260514_004804",
+  "total_articles": 939,
   "columns": {
     "研究生教学": 202,
-    "通知公告": 90,
+    "通知公告": 100,
     "科研动态": 113,
     "学院新闻": 376,
-    "本科生教学": 59,
-    "学术报告": 60
+    "本科生教学": 69,
+    "学术报告": 79
   },
   "articles": [
     {
@@ -278,6 +278,12 @@
       "column": "通知公告"
     },
     {
+      "title": "环化学院党群接待日公告20260108",
+      "url": "https://ece.shu.edu.cn/info/1147/85514.htm",
+      "date": "2026-01-06",
+      "column": "通知公告"
+    },
+    {
       "title": "赵微团队在《Journal of the American Chemical Society》上发表最新研究成果",
       "url": "https://ece.shu.edu.cn/info/1148/85424.htm",
       "date": "2026-01-05",
@@ -294,6 +300,24 @@
       "url": "https://ece.shu.edu.cn/info/1303/84974.htm",
       "date": "2025-12-23",
       "column": "本科生教学"
+    },
+    {
+      "title": "环化学院党群接待日公告20251209",
+      "url": "https://ece.shu.edu.cn/info/1147/84424.htm",
+      "date": "2025-12-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于评选2025年度上海大学青年五四奖章的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/84324.htm",
+      "date": "2025-12-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "环化学院党群接待日公告20251126",
+      "url": "https://ece.shu.edu.cn/info/1147/84094.htm",
+      "date": "2025-11-25",
+      "column": "通知公告"
     },
     {
       "title": "关于第108次校学位评定委员会会前准备工作的通知",
@@ -314,16 +338,46 @@
       "column": "科研动态"
     },
     {
+      "title": "结束巡察进驻公告",
+      "url": "https://ece.shu.edu.cn/info/1147/83874.htm",
+      "date": "2025-11-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "AI短视频创作大赛征稿",
+      "url": "https://mp.weixin.qq.com/s/ZyGhZXVpS9OhWE5Op-eHAg",
+      "date": "2025-11-10",
+      "column": "通知公告"
+    },
+    {
       "title": "关于开展2026年硕士研究生硕博连读申请推荐与资格认定工作的通知",
       "url": "https://ece.shu.edu.cn/info/1304/83274.htm",
       "date": "2025-11-04",
       "column": "研究生教学"
     },
     {
+      "title": "【伦理】上海大学科技伦理申请注意事项",
+      "url": "https://ece.shu.edu.cn/info/1147/42253.htm",
+      "date": "2025-11-03",
+      "column": "通知公告"
+    },
+    {
       "title": "上海大学环境与化学工程学院直博生综合考试考核方案",
       "url": "https://ece.shu.edu.cn/info/1304/82874.htm",
       "date": "2025-10-29",
       "column": "研究生教学"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://ece.shu.edu.cn/info/1147/82824.htm",
+      "date": "2025-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "环化学院党群接待日公告20251022",
+      "url": "https://ece.shu.edu.cn/info/1147/82784.htm",
+      "date": "2025-10-21",
+      "column": "通知公告"
     },
     {
       "title": "我院本科生赵同瀚以第一作者在中科院一区期刊等发表研究成果",
@@ -336,6 +390,12 @@
       "url": "https://ece.shu.edu.cn/info/1304/82744.htm",
       "date": "2025-10-14",
       "column": "研究生教学"
+    },
+    {
+      "title": "环化学院党群接待日公告20251015",
+      "url": "https://ece.shu.edu.cn/info/1147/82674.htm",
+      "date": "2025-10-11",
+      "column": "通知公告"
     },
     {
       "title": "2025年环境与化学工程学院研究生学业奖学金评审实施细则",
@@ -632,10 +692,28 @@
       "column": "学院新闻"
     },
     {
+      "title": "上海大学关于申报2025年度校级大学生创新训练计划项目的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/74944.htm",
+      "date": "2024-12-20",
+      "column": "本科生教学"
+    },
+    {
+      "title": "关于开展2024年度上海市一流本科课程申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/74494.htm",
+      "date": "2024-12-17",
+      "column": "本科生教学"
+    },
+    {
       "title": "“The Belt and Road” International Workshop on Air Pollution and Climate Change 2024",
       "url": "https://ece.shu.edu.cn/info/1151/74454.htm",
       "date": "2024-12-16",
       "column": "学术报告"
+    },
+    {
+      "title": "关于开展2024年度校级本科教学团队建设申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/74304.htm",
+      "date": "2024-12-05",
+      "column": "本科生教学"
     },
     {
       "title": "The Urban Heat Island in a Mediterranean coastal city",
@@ -734,6 +812,12 @@
       "column": "学术报告"
     },
     {
+      "title": "关于申报上海大学2024年本科教学改革与研究项目的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/71264.htm",
+      "date": "2024-10-08",
+      "column": "本科生教学"
+    },
+    {
       "title": "​蒋永教授团队荣获第24届工博会高校展区创新奖",
       "url": "https://ece.shu.edu.cn/info/1148/71204.htm",
       "date": "2024-09-30",
@@ -786,6 +870,18 @@
       "url": "https://ece.shu.edu.cn/info/1304/70804.htm",
       "date": "2024-09-20",
       "column": "研究生教学"
+    },
+    {
+      "title": "“红帆绿漾”讲坛第178讲：重点行业场地土壤污染物的人体暴露组学与健康效应",
+      "url": "https://ece.shu.edu.cn/info/1151/70774.htm",
+      "date": "2024-09-19",
+      "column": "学术报告"
+    },
+    {
+      "title": "“红帆绿漾”讲坛第177讲：城市废弃物循环利用系统工程创新：无废、零碳、智能、高质",
+      "url": "https://ece.shu.edu.cn/info/1151/70164.htm",
+      "date": "2024-09-18",
+      "column": "学术报告"
     },
     {
       "title": "相约金秋，月满情浓——2024-2025学年环境与化学工程学院新生全程导师见面会顺利召开",
@@ -854,6 +950,12 @@
       "column": "通知公告"
     },
     {
+      "title": "环境与化学工程学院2025年推荐应届优秀本科毕业生免试攻读硕士学位研究生工作实施办法",
+      "url": "https://ece.shu.edu.cn/info/1303/69984.htm",
+      "date": "2024-09-10",
+      "column": "本科生教学"
+    },
+    {
       "title": "环化学院祝您第四十个教师节快乐！",
       "url": "https://mp.weixin.qq.com/s/qTYAy0wd0A8rx4uf3WICjg",
       "date": "2024-09-10",
@@ -864,6 +966,12 @@
       "url": "https://ece.shu.edu.cn/info/1149/69934.htm",
       "date": "2024-09-05",
       "column": "学院新闻"
+    },
+    {
+      "title": "“红帆绿漾”讲坛：健康所9月学术报告",
+      "url": "https://ece.shu.edu.cn/info/1151/69914.htm",
+      "date": "2024-09-04",
+      "column": "学术报告"
     },
     {
       "title": "2024级上海大学卓越工程师学院低碳环保材料专班师生见面会圆满召开！",
@@ -926,6 +1034,18 @@
       "column": "科研动态"
     },
     {
+      "title": "上海大学关于开展“十四五”普通高等教育本科国家级规划教材第一次推荐遴选工作的通知（教务部〔2024〕19号）",
+      "url": "https://ece.shu.edu.cn/info/1303/69384.htm",
+      "date": "2024-08-12",
+      "column": "本科生教学"
+    },
+    {
+      "title": "How to write a good research paper in English",
+      "url": "https://ece.shu.edu.cn/info/1151/69304.htm",
+      "date": "2024-07-16",
+      "column": "学术报告"
+    },
+    {
       "title": "关于公布上海大学环化学院2024年全国优秀大学生暑期夏令营营员名单的通知",
       "url": "https://ece.shu.edu.cn/info/1147/69034.htm",
       "date": "2024-06-26",
@@ -942,6 +1062,18 @@
       "url": "https://ece.shu.edu.cn/info/1148/69014.htm",
       "date": "2024-06-25",
       "column": "科研动态"
+    },
+    {
+      "title": "关于开展2024年度上海高校市级重点课程立项申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/69024.htm",
+      "date": "2024-06-25",
+      "column": "本科生教学"
+    },
+    {
+      "title": "关于开展2024年度校级本科教材建设项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/68984.htm",
+      "date": "2024-06-24",
+      "column": "本科生教学"
     },
     {
       "title": "赢在当“夏”—上海大学环境与化学工程学院2024年暑期夏令营通知",
@@ -962,16 +1094,46 @@
       "column": "通知公告"
     },
     {
+      "title": "​关于开展 2024 年度上海大学“党史学习教育与课程相融合”示范课程立项建设申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/68934.htm",
+      "date": "2024-06-18",
+      "column": "本科生教学"
+    },
+    {
       "title": "李瑞飞、李辉研究团队在EST上发表最新研究成果",
       "url": "https://ece.shu.edu.cn/info/1148/68704.htm",
       "date": "2024-06-12",
       "column": "科研动态"
     },
     {
+      "title": "关于开展通识示范课程立项申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/68694.htm",
+      "date": "2024-06-12",
+      "column": "本科生教学"
+    },
+    {
+      "title": "“红帆绿漾”讲坛第171讲：农田土壤污染镉的植物吸取修复原理与技术及实践",
+      "url": "https://ece.shu.edu.cn/info/1151/68264.htm",
+      "date": "2024-06-06",
+      "column": "学术报告"
+    },
+    {
       "title": "邓小勇/谢益骏团队在《Nano letters》上发表最新研究成果",
       "url": "https://ece.shu.edu.cn/info/1148/67874.htm",
       "date": "2024-05-29",
       "column": "科研动态"
+    },
+    {
+      "title": "通过催化利用太阳能实现可持续未来",
+      "url": "https://ece.shu.edu.cn/info/1151/67474.htm",
+      "date": "2024-05-23",
+      "column": "学术报告"
+    },
+    {
+      "title": "“红帆绿漾”讲坛第170讲：合成气直接制C2+醇高性能钴/铁基催化剂的构建",
+      "url": "https://ece.shu.edu.cn/info/1151/67434.htm",
+      "date": "2024-05-21",
+      "column": "学术报告"
     },
     {
       "title": "关于开展2023-2024学年春季学期研究型挑战性课程认定申请工作的通知（教务部〔2024〕9号）",
@@ -1014,6 +1176,12 @@
       "url": "https://ece.shu.edu.cn/info/1304/66974.htm",
       "date": "2024-05-09",
       "column": "研究生教学"
+    },
+    {
+      "title": "“红帆绿漾”讲坛第169讲：气溶胶液滴界面化学和气溶胶分子组成的新认识",
+      "url": "https://ece.shu.edu.cn/info/1151/67354.htm",
+      "date": "2024-05-08",
+      "column": "学术报告"
     },
     {
       "title": "【环保节·低碳生活】绿色骑行特别活动圆满结束！",
@@ -1062,6 +1230,18 @@
       "url": "https://ece.shu.edu.cn/info/1149/65774.htm",
       "date": "2024-04-11",
       "column": "学院新闻"
+    },
+    {
+      "title": "Degradation of emerging contaminants using sunlight photocatalysts based on MOFs",
+      "url": "https://ece.shu.edu.cn/info/1151/65784.htm",
+      "date": "2024-04-11",
+      "column": "学术报告"
+    },
+    {
+      "title": "TiO2 heterostructures for the photocatalytic treatment of water",
+      "url": "https://ece.shu.edu.cn/info/1151/65794.htm",
+      "date": "2024-04-11",
+      "column": "学术报告"
     },
     {
       "title": "赵微教授团队在《Nano Letters》上发表最新研究成果",
@@ -5186,6 +5366,12 @@
       "column": "学院新闻"
     },
     {
+      "title": "运用Pb同位素示踪技术研究大气Pb污染历史",
+      "url": "https://ece.shu.edu.cn/info/1151/6046.htm",
+      "date": "2016-07-06",
+      "column": "学术报告"
+    },
+    {
       "title": "踏寻周公馆，感悟“两学一做”---化工系党支部“两学一做”红色教育基地参观纪实",
       "url": "https://ece.shu.edu.cn/info/1149/2978.htm",
       "date": "2016-07-05",
@@ -5196,6 +5382,30 @@
       "url": "https://ece.shu.edu.cn/info/1147/2602.htm",
       "date": "2016-07-04",
       "column": "通知公告"
+    },
+    {
+      "title": "蘑菇菌渣强化土壤重金属修复的影响",
+      "url": "https://ece.shu.edu.cn/info/1151/6048.htm",
+      "date": "2016-06-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "合成麝香的人体迁移特性研究",
+      "url": "https://ece.shu.edu.cn/info/1151/6049.htm",
+      "date": "2016-06-27",
+      "column": "学术报告"
+    },
+    {
+      "title": "质子转移反应质谱仪器的研发与应用",
+      "url": "https://ece.shu.edu.cn/info/1151/6050.htm",
+      "date": "2016-06-27",
+      "column": "学术报告"
+    },
+    {
+      "title": "高比能二次锂电池关键材料研究",
+      "url": "https://ece.shu.edu.cn/info/1151/6051.htm",
+      "date": "2016-06-27",
+      "column": "学术报告"
     },
     {
       "title": "我院师生参加“第二十二届上海市化学化工类本科毕业生优秀论文交流会”并荣获二等奖",
@@ -5210,10 +5420,34 @@
       "column": "学院新闻"
     },
     {
+      "title": "多溴联苯醚的生物利用度和生物有效性",
+      "url": "https://ece.shu.edu.cn/info/1151/6052.htm",
+      "date": "2016-06-21",
+      "column": "学术报告"
+    },
+    {
       "title": "关于2016年秋季毕业生办理离校手续的说明（研究生）",
       "url": "https://ece.shu.edu.cn/info/1304/5759.htm",
       "date": "2016-06-21",
       "column": "研究生教学"
+    },
+    {
+      "title": "1-氯-2-羟基-3-丁烯（CHB）的肝微粒体代谢转化",
+      "url": "https://ece.shu.edu.cn/info/1151/6053.htm",
+      "date": "2016-06-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "食品级二氧化硅纳米材料的表征、宿命和影响：生命周期视角",
+      "url": "https://ece.shu.edu.cn/info/1151/6054.htm",
+      "date": "2016-06-19",
+      "column": "学术报告"
+    },
+    {
+      "title": "上海市污染源在线监测系统及其在环境管理中的应用",
+      "url": "https://ece.shu.edu.cn/info/1151/6055.htm",
+      "date": "2016-06-18",
+      "column": "学术报告"
     },
     {
       "title": "关于第65次校学位评定委员会会前准备工作的通知",

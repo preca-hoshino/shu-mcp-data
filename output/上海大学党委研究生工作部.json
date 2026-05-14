@@ -2,10 +2,10 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 2785,
+  "crawl_time": "20260514_004804",
+  "total_articles": 2805,
   "columns": {
-    "新闻动态": 2572,
+    "新闻动态": 2592,
     "通知公告": 213
   },
   "articles": [
@@ -13,6 +13,12 @@
       "title": "不止课堂！这场比赛，上大师生一起“羽”见未来！",
       "url": "https://mp.weixin.qq.com/s/Fx0rUtQYzv5Is02XJbKgQw",
       "date": "2026-04-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "样板选树强引领 聚力赋能共成长——上海大学学生样板党支部培育单位中期建设交流会顺利举行！",
+      "url": "https://mp.weixin.qq.com/s/MmScY-wyZi9AbYm9IAE6Qg",
+      "date": "2026-03-30",
       "column": "新闻动态"
     },
     {
@@ -172,6 +178,12 @@
       "column": "新闻动态"
     },
     {
+      "title": "凝“新”赋能，聚力启程！新任研究生辅导员培训班圆满结束！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40729.htm",
+      "date": "2025-10-31",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于评审2025年上海大学费孝通教育奖学金的通知",
       "url": "https://dwygb.shu.edu.cn/info/1050/40709.htm",
       "date": "2025-10-14",
@@ -190,9 +202,21 @@
       "column": "新闻动态"
     },
     {
+      "title": "关于开展2025级研究生新生入学教育的通知",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40739.htm",
+      "date": "2025-09-22",
+      "column": "新闻动态"
+    },
+    {
       "title": "逐梦上大，青春启航！上海大学2025级新生开学典礼举行！",
       "url": "https://dwygb.shu.edu.cn/info/1053/40639.htm",
       "date": "2025-09-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "迎新筹备“加速跑”！研工系统召开研究生迎新协调部署会",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40699.htm",
+      "date": "2025-09-15",
       "column": "新闻动态"
     },
     {
@@ -202,10 +226,34 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学研究生资助介绍",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40169.htm",
+      "date": "2025-07-15",
+      "column": "新闻动态"
+    },
+    {
       "title": "上海大学国家助学贷款管理办法",
       "url": "https://dwygb.shu.edu.cn/info/1050/40429.htm",
       "date": "2025-07-08",
       "column": "通知公告"
+    },
+    {
+      "title": "以赛赋能，精彩纷呈：我校举办研究生辅导员主题班会展示活动",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40109.htm",
+      "date": "2025-07-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学国家助学贷款管理办法",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40439.htm",
+      "date": "2025-07-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "祝贺！这11个研究生项目入选2025年上海市研究生创新创业能力培养计划入孵项目名单",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40119.htm",
+      "date": "2025-07-06",
+      "column": "新闻动态"
     },
     {
       "title": "关于上海大学2025年研究生思政教育研究课题立项的通知",
@@ -220,10 +268,22 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学研究生特殊及突发情况困难补助管理办法",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40339.htm",
+      "date": "2025-07-03",
+      "column": "新闻动态"
+    },
+    {
       "title": "上海大学家庭经济困难研究生认定管理办法",
       "url": "https://dwygb.shu.edu.cn/info/1050/40289.htm",
       "date": "2025-07-02",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学家庭经济困难研究生认定管理办法",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40299.htm",
+      "date": "2025-07-02",
+      "column": "新闻动态"
     },
     {
       "title": "关于表彰2024-2025学年上海大学研究生十佳党员标兵、十佳党建工作先进个人、十佳主题党日、优秀党员先锋、党建工作先进个人的决定",
@@ -248,6 +308,12 @@
       "url": "https://dwygb.shu.edu.cn/info/1050/40569.htm",
       "date": "2025-06-04",
       "column": "通知公告"
+    },
+    {
+      "title": "纪念五卅运动一百周年，上海大学研究生在阅读中赓续百年薪火！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40489.htm",
+      "date": "2025-05-30",
+      "column": "新闻动态"
     },
     {
       "title": "关于开展2025年上海大学研究生辅导员主题班会展示活动的通知",
@@ -280,6 +346,24 @@
       "column": "通知公告"
     },
     {
+      "title": "赓续红色基因，激扬青春力量｜五四青年节，上大研究生这样行走沪上！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40479.htm",
+      "date": "2025-05-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "从宿舍到操场！这场比赛，上大师生的拼劲“篮”不住！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40559.htm",
+      "date": "2025-04-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "标题：光影阅记，云上同行｜第三十个世界读书日，上大研究生一起“云阅读”！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40499.htm",
+      "date": "2025-04-27",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于开展“科学也偶像——讲好共和国脊梁的故事”弘扬科学家精神主题征文活动的通知",
       "url": "https://dwygb.shu.edu.cn/info/1050/40599.htm",
       "date": "2025-04-22",
@@ -292,16 +376,52 @@
       "column": "通知公告"
     },
     {
+      "title": "“职”引未来｜如何在基层书写青春答卷！这场选调生经验分享会干货满满！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40549.htm",
+      "date": "2025-04-21",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于第三届“上海大学研究生年度人物”评选结果的公示",
       "url": "https://dwygb.shu.edu.cn/info/1050/39959.htm",
       "date": "2025-04-17",
       "column": "通知公告"
     },
     {
+      "title": "关于第三届“上海大学研究生年度人物”评选结果的公示",
+      "url": "https://dwygb.shu.edu.cn/info/1053/39969.htm",
+      "date": "2025-04-17",
+      "column": "新闻动态"
+    },
+    {
       "title": "第二届“上证杯”“海聚英才”上海大学生创新创业大赛新能源、新材料、节能环保赛道复赛结果公示",
       "url": "https://dwygb.shu.edu.cn/info/1050/39929.htm",
       "date": "2025-04-15",
       "column": "通知公告"
+    },
+    {
+      "title": "第二届“上证杯”“海聚英才”上海大学生创新创业大赛新能源、新材料、节能环保赛道复赛结果公示",
+      "url": "https://dwygb.shu.edu.cn/info/1053/39939.htm",
+      "date": "2025-04-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "慎终追远，万物清明，今天，上大研究生一同缅怀……",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40469.htm",
+      "date": "2025-04-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "这个春天，上大研究生师生一起“羽”动青春！",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40539.htm",
+      "date": "2025-04-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "春启新程，研路同行！上海大学第四十届研究生常任代表委员会春季学期全体会议顺利举行",
+      "url": "https://dwygb.shu.edu.cn/info/1053/40529.htm",
+      "date": "2025-03-27",
+      "column": "新闻动态"
     },
     {
       "title": "关于开展上海大学2025年研究生思政教育研究课题申报的通知",

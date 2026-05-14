@@ -2,12 +2,12 @@
   "domain": "siamm.shu.edu.cn",
   "department": "上海市应用数学和力学研究所",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 45,
+  "crawl_time": "20260514_004804",
+  "total_articles": 65,
   "columns": {
     "新闻": 31,
     "公告": 4,
-    "学术活动": 10
+    "学术活动": 30
   },
   "articles": [
     {
@@ -203,6 +203,36 @@
       "column": "学术活动"
     },
     {
+      "title": "浅谈海上可再生能源的力学问题",
+      "url": "https://siamm.shu.edu.cn/info/1025/1737.htm",
+      "date": "2017-06-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "中科院力学所李家春院士应邀来我所做学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1736.htm",
+      "date": "2017-05-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学敖平教授应邀来所进行学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1735.htm",
+      "date": "2017-05-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "王自强院士来所指导和交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1734.htm",
+      "date": "2017-05-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "阿尔伯塔大学茹重庆教授应邀来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1733.htm",
+      "date": "2017-05-05",
+      "column": "学术活动"
+    },
+    {
       "title": "乐嘉陵院士来力学所指导和交流",
       "url": "https://siamm.shu.edu.cn/info/1011/1564.htm",
       "date": "2017-04-28",
@@ -213,6 +243,30 @@
       "url": "https://siamm.shu.edu.cn/info/1011/1565.htm",
       "date": "2017-04-28",
       "column": "新闻"
+    },
+    {
+      "title": "上海交通大学张文明教授应邀来所进行学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1731.htm",
+      "date": "2017-04-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "同济大学徐鉴教授应邀来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1730.htm",
+      "date": "2017-03-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "中国科学院石钟慈院士赴力学所访问交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1729.htm",
+      "date": "2017-03-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "商飞上飞院杨士普高级工程师应邀来我所做学术报告",
+      "url": "https://siamm.shu.edu.cn/info/1025/1727.htm",
+      "date": "2017-02-24",
+      "column": "学术活动"
     },
     {
       "title": "纪念上海市应用数学和力学研究所成立三十周年",
@@ -249,6 +303,72 @@
       "url": "https://siamm.shu.edu.cn/info/1011/1560.htm",
       "date": "2016-07-29",
       "column": "新闻"
+    },
+    {
+      "title": "上海交通大学尤云祥教授来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1726.htm",
+      "date": "2016-06-30",
+      "column": "学术活动"
+    },
+    {
+      "title": "同济大学航空航天与力学学院嵇醒教授来所访问交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1725.htm",
+      "date": "2016-06-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "浙江大学陈伟球教授来我所做学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1724.htm",
+      "date": "2016-06-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "细长弹性结构非线性振动Galerkin方法收敛性",
+      "url": "https://siamm.shu.edu.cn/info/1025/1723.htm",
+      "date": "2016-06-03",
+      "column": "学术活动"
+    },
+    {
+      "title": "北京大学工学院杨越教授来我所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1722.htm",
+      "date": "2016-05-12",
+      "column": "学术活动"
+    },
+    {
+      "title": "中国科学院力学所胡文瑞院士应邀来我校做学术报告",
+      "url": "https://siamm.shu.edu.cn/info/1025/1720.htm",
+      "date": "2016-04-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "High order lattice Boltzmann model for rarefied gas flows（稀薄气体流动的高阶格子玻尔兹...",
+      "url": "https://siamm.shu.edu.cn/info/1025/1719.htm",
+      "date": "2016-04-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "双扩散对流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1718.htm",
+      "date": "2016-04-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "大连理工大学教授吴锤结来我所讲学",
+      "url": "https://siamm.shu.edu.cn/info/1025/1717.htm",
+      "date": "2016-03-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "直升机旋翼和大型客机增升装置空气动力学数值模拟方法与应用研究",
+      "url": "https://siamm.shu.edu.cn/info/1025/1715.htm",
+      "date": "2016-03-03",
+      "column": "学术活动"
+    },
+    {
+      "title": "Fine-grained Algorithms of Fully-implicit CFD",
+      "url": "https://siamm.shu.edu.cn/info/1025/1713.htm",
+      "date": "2016-01-07",
+      "column": "学术活动"
     },
     {
       "title": "校党委常委、副校长丛玉豪一行赴力学所调研",

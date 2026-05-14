@@ -2,10 +2,11 @@
   "domain": "dwjsgzb.shu.edu.cn",
   "department": "上海大学党委教师工作部",
   "type": "19",
-  "crawl_time": "20260513_175610",
-  "total_articles": 22,
+  "crawl_time": "20260514_004804",
+  "total_articles": 37,
   "columns": {
-    "新闻动态": 22
+    "新闻动态": 22,
+    "通知公告": 15
   },
   "articles": [
     {
@@ -19,6 +20,12 @@
       "url": "https://dwjsgzb.shu.edu.cn/info/1005/2674.htm",
       "date": "2026-01-09",
       "column": "新闻动态"
+    },
+    {
+      "title": "关于2024-2025学年“优秀本科生全程导师”、“本科生全程导师制工作示范学院”及“...",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/2644.htm",
+      "date": "2025-07-01",
+      "column": "通知公告"
     },
     {
       "title": "上海大学举行本科生导师制工作小组2025年第一次工作会议",
@@ -43,6 +50,12 @@
       "url": "https://dwjsgzb.shu.edu.cn/info/1005/2464.htm",
       "date": "2024-06-26",
       "column": "新闻动态"
+    },
+    {
+      "title": "关于2023-2024学年“优秀本科生全程导师”、“本科生全程导师制工作示范学院”及“...",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/2424.htm",
+      "date": "2024-06-25",
+      "column": "通知公告"
     },
     {
       "title": "担当科技创新重任    赋能高质量发展",
@@ -129,10 +142,88 @@
       "column": "新闻动态"
     },
     {
+      "title": "“师与远方” 之 “师荐” 重磅来袭！",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1423.htm",
+      "date": "2019-05-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "“师与远方” 之 “师荐” 重磅来袭！",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/1424.htm",
+      "date": "2019-05-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018年上海大学新进教师岗前培训之业务工作模块培训通知",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1361.htm",
+      "date": "2019-04-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018年上海大学新进教师校内岗前培训班实施计划",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1254.htm",
+      "date": "2018-07-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织集中观看电影《厉害了，我的国》的通知",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1211.htm",
+      "date": "2018-03-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展学习钟扬同志先进事迹的通知",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1151.htm",
+      "date": "2017-12-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2017年“上海最美教师”候选人评选推荐结果的公示",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1141.htm",
+      "date": "2017-12-07",
+      "column": "通知公告"
+    },
+    {
       "title": "“秉承工匠精神，探索科研创新之路”——我校举办第一期教师沙龙",
       "url": "https://dwjsgzb.shu.edu.cn/info/1005/1131.htm",
       "date": "2017-11-24",
       "column": "新闻动态"
+    },
+    {
+      "title": "第33个教师节 谈谈习近平心中的好老师",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/1061.htm",
+      "date": "2017-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2017年中秋节、国庆节放假安排的通知",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1043.htm",
+      "date": "2017-09-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "习近平总书记对黄大年同志先进事迹作出重要指示",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/1053.htm",
+      "date": "2017-09-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "习近平对河北农业大学教授李保国同志先进事迹作出重要批示",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/1054.htm",
+      "date": "2017-09-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "中共教育部党组关于加强新形势下高校教师党支部建设的意见",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1029.htm",
+      "date": "2017-09-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "中共中央党校关于全国各级党校学习《习近平的七年知青岁月》的意见",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1004/1031.htm",
+      "date": "2017-09-15",
+      "column": "通知公告"
     },
     {
       "title": "我校举行2017年新进教师岗前培训",

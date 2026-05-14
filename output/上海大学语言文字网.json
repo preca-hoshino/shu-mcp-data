@@ -2,10 +2,11 @@
   "domain": "sdyywz.shu.edu.cn",
   "department": "上海大学语言文字网",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 197,
+  "crawl_time": "20260514_004804",
+  "total_articles": 241,
   "columns": {
-    "新闻动态": 197
+    "新闻动态": 197,
+    "通知通告": 44
   },
   "articles": [
     {
@@ -27,6 +28,48 @@
       "column": "新闻动态"
     },
     {
+      "title": "关于2025年度国家普通话水平测试(自费测)上海大学考点报名的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2842.htm",
+      "date": "2025-06-03",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于第七届中华经典诵写讲大赛——“诗教中国” 诗词讲解大赛上海大学赛区的比赛结果公示",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2802.htm",
+      "date": "2025-05-13",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于举办第七届中华经典诵写讲大赛—— “笔墨中国”汉字书写大赛上海大学赛区比赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2782.htm",
+      "date": "2025-04-25",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于举办第七届中华经典诵写讲大赛——“印记中国”师生篆刻大赛上海大学赛区比赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2792.htm",
+      "date": "2025-04-25",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于举办第七届中华经典诵写讲大赛——“诵读中国”经典诵读大赛上海大学赛区比赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2772.htm",
+      "date": "2025-04-21",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于举办第七届中华经典诵写讲大赛——“诗教中国”诗词讲解大赛上海大学赛区比赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2762.htm",
+      "date": "2025-04-15",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于上海大学2025年国家普通话水平测试工作安排的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2752.htm",
+      "date": "2025-03-10",
+      "column": "通知通告"
+    },
+    {
       "title": "解码《纲要》—— 推广普及国家通用语言文字",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2722.htm",
       "date": "2025-02-20",
@@ -37,6 +80,36 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2672.htm",
       "date": "2024-12-17",
       "column": "新闻动态"
+    },
+    {
+      "title": "关于2024年国家汉字应用水平测试上海大学考点报名测试工作的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2652.htm",
+      "date": "2024-10-17",
+      "column": "通知通告"
+    },
+    {
+      "title": "AI时代语言文字在高校教与学中创新性运用的案例征集",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2632.htm",
+      "date": "2024-09-20",
+      "column": "通知通告"
+    },
+    {
+      "title": "上海大学2022年度普通话水平（自费）测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1002&wbnewsid=2631",
+      "date": "2022-10-26",
+      "column": "通知通告"
+    },
+    {
+      "title": "2022年上海大学汉字应用水平测试工作通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2621.htm",
+      "date": "2022-09-15",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于组织推荐国家通用语言文字推广普及先进集体和先进个人的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2622.htm",
+      "date": "2022-09-15",
+      "column": "通知通告"
     },
     {
       "title": "喜报！文学院在第七届上海市民诗歌节中荣获佳绩",
@@ -51,10 +124,112 @@
       "column": "新闻动态"
     },
     {
+      "title": "2021年上半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1867.htm",
+      "date": "2021-03-04",
+      "column": "通知通告"
+    },
+    {
+      "title": "2020年普通话水平测试优秀学生奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1866.htm",
+      "date": "2020-12-22",
+      "column": "通知通告"
+    },
+    {
+      "title": "2019年汉字应用水平测试奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1865.htm",
+      "date": "2020-11-25",
+      "column": "通知通告"
+    },
+    {
+      "title": "2020年汉字应用水平测试工作通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1863.htm",
+      "date": "2020-09-27",
+      "column": "通知通告"
+    },
+    {
+      "title": "2020年下半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1864.htm",
+      "date": "2020-09-27",
+      "column": "通知通告"
+    },
+    {
+      "title": "2018年汉字应用水平测试奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1861.htm",
+      "date": "2019-12-09",
+      "column": "通知通告"
+    },
+    {
+      "title": "2019年普通话水平测试优秀学生奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1862.htm",
+      "date": "2019-12-09",
+      "column": "通知通告"
+    },
+    {
+      "title": "2019年汉字应用水平测试工作通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1860.htm",
+      "date": "2019-09-19",
+      "column": "通知通告"
+    },
+    {
       "title": "我校师生在“2019中华经典诵写讲大赛”中获佳绩",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2511.htm",
       "date": "2019-09-19",
       "column": "新闻动态"
+    },
+    {
+      "title": "2019年下半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1859.htm",
+      "date": "2019-06-19",
+      "column": "通知通告"
+    },
+    {
+      "title": "2019年上半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1858.htm",
+      "date": "2019-03-12",
+      "column": "通知通告"
+    },
+    {
+      "title": "2018年普通话水平测试优秀学生奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1857.htm",
+      "date": "2018-12-25",
+      "column": "通知通告"
+    },
+    {
+      "title": "2018年国家汉字应用水平测试如期开考",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1818.htm",
+      "date": "2018-11-20",
+      "column": "通知通告"
+    },
+    {
+      "title": "我校师生参加《中国诗词大会》（第四季）上海地区央视选拔活动",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1816.htm",
+      "date": "2018-11-07",
+      "column": "通知通告"
+    },
+    {
+      "title": "2016年汉字应用水平测试奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1855.htm",
+      "date": "2018-09-13",
+      "column": "通知通告"
+    },
+    {
+      "title": "2017年普通话水平测试优秀学生奖励通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1856.htm",
+      "date": "2018-09-13",
+      "column": "通知通告"
+    },
+    {
+      "title": "2018年下半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1853.htm",
+      "date": "2018-09-03",
+      "column": "通知通告"
+    },
+    {
+      "title": "2018年汉字应用水平测试工作通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1854.htm",
+      "date": "2018-09-03",
+      "column": "通知通告"
     },
     {
       "title": "我校中外学子在“新时代•中国梦•我的故事”上海市大学生主题演讲展示活动中喜获佳绩",
@@ -67,6 +242,42 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2580.htm",
       "date": "2018-05-29",
       "column": "新闻动态"
+    },
+    {
+      "title": "关于开展2018年度国家语委科研项目申报工作的通知",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=229094&SkinSrc",
+      "date": "2018-05-03",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于组织参加“第二届长三角地区大学生中华经典诵读邀请赛”的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1851.htm",
+      "date": "2018-04-09",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于做好2018年市语言文字工作相关培训活动报名工作的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1850.htm",
+      "date": "2018-03-15",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于组织申报市语测中心2019年科研课题的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1849.htm",
+      "date": "2018-03-13",
+      "column": "通知通告"
+    },
+    {
+      "title": "2018年上半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1848.htm",
+      "date": "2018-03-05",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于组织参加“新时代•中国梦•我的故事”大中小学生主题演讲展示活动的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1847.htm",
+      "date": "2018-01-25",
+      "column": "通知通告"
     },
     {
       "title": "国交院周梅、杨昱华老师获国家级普通话水平测试员资格",
@@ -93,6 +304,18 @@
       "column": "新闻动态"
     },
     {
+      "title": "2017年下半年常规普通话水平测试延期通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1845.htm",
+      "date": "2017-09-12",
+      "column": "通知通告"
+    },
+    {
+      "title": "2017年汉字应用水平测试工作通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1846.htm",
+      "date": "2017-09-12",
+      "column": "通知通告"
+    },
+    {
       "title": "我校师生积极参加上海市2017诗歌创作征集活动",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2575.htm",
       "date": "2017-07-06",
@@ -103,6 +326,24 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2574.htm",
       "date": "2017-07-04",
       "column": "新闻动态"
+    },
+    {
+      "title": "关于组织我校学生参加“博阳杯·文化寻根”上海市大学生创意大赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1843.htm",
+      "date": "2017-06-19",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于组织我校学生参加“博阳杯·文化寻根”上海市大学生创意大赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1844.htm",
+      "date": "2017-06-19",
+      "column": "通知通告"
+    },
+    {
+      "title": "2017年下半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1842.htm",
+      "date": "2017-06-08",
+      "column": "通知通告"
     },
     {
       "title": "“说唱中国”——2016留学生教学成果汇报演出",
@@ -237,6 +478,24 @@
       "column": "新闻动态"
     },
     {
+      "title": "关于组织我校师生参加 “汉口银行杯”全国“双推”漫画大赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1821.htm",
+      "date": "2011-04-18",
+      "column": "通知通告"
+    },
+    {
+      "title": "“首届上海大学语言文字专题板报设计大赛”通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1820.htm",
+      "date": "2011-04-12",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于申报2011年度上海市语言文字水平测试中心科研项目的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1819.htm",
+      "date": "2011-03-29",
+      "column": "通知通告"
+    },
+    {
       "title": "市普通话水平测试管理岗位业务培训班在我校举办",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2494.htm",
       "date": "2011-03-15",
@@ -253,6 +512,12 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2558.htm",
       "date": "2011-02-28",
       "column": "新闻动态"
+    },
+    {
+      "title": "2011年上半年常规普通话水平测试报名通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1817.htm",
+      "date": "2011-02-22",
+      "column": "通知通告"
     },
     {
       "title": "学校召开2010年度语言文字工作总结会",

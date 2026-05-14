@@ -2,11 +2,11 @@
   "domain": "asc.shu.edu.cn",
   "department": "上海大学高温超导重点实验室",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 40,
+  "crawl_time": "20260514_004804",
+  "total_articles": 45,
   "columns": {
     "综合新闻": 20,
-    "业界动态": 20
+    "业界动态": 25
   },
   "articles": [
     {
@@ -247,6 +247,36 @@
       "title": "中科院物理所铁基超导体中反铁磁序与超导共存和竞争问题研究进展",
       "url": "https://asc.shu.edu.cn/info/1014/1022.htm",
       "date": "2012-06-28",
+      "column": "业界动态"
+    },
+    {
+      "title": "物理所铜氧化物材料超导能隙和赝能隙性质研究取得进展",
+      "url": "https://asc.shu.edu.cn/info/1014/1018.htm",
+      "date": "2012-06-27",
+      "column": "业界动态"
+    },
+    {
+      "title": "近两年主要超导会议",
+      "url": "https://asc.shu.edu.cn/info/1014/1012.htm",
+      "date": "2012-04-23",
+      "column": "业界动态"
+    },
+    {
+      "title": "高温超导带材参展上海工博会",
+      "url": "https://asc.shu.edu.cn/info/1014/1008.htm",
+      "date": "2011-11-23",
+      "column": "业界动态"
+    },
+    {
+      "title": "搭上智能电网建设快车 超导十年十倍增长可期",
+      "url": "https://asc.shu.edu.cn/info/1014/1003.htm",
+      "date": "2011-04-15",
+      "column": "业界动态"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://asc.shu.edu.cn/info/1014/1006.htm",
+      "date": "2011-04-15",
       "column": "业界动态"
     }
   ]

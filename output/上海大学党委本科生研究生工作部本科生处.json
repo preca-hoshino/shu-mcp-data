@@ -2,18 +2,43 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 795,
+  "crawl_time": "20260514_004804",
+  "total_articles": 847,
   "columns": {
-    "通知公告": 675,
-    "党建简报": 120
+    "学工新闻": 35,
+    "通知公告": 680,
+    "党建简报": 132
   },
   "articles": [
+    {
+      "title": "上海大学第五届 “最美退役大学生” 终评会举行",
+      "url": "https://xgb.shu.edu.cn/info/1005/45834.htm",
+      "date": "2026-05-11",
+      "column": "学工新闻"
+    },
     {
       "title": "上海大学关于开展2026年本科生校长奖学金评选工作的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/45774.htm",
       "date": "2026-04-20",
       "column": "通知公告"
+    },
+    {
+      "title": "学校2026年第一次征兵工作领导小组会议举行",
+      "url": "https://xgb.shu.edu.cn/info/1005/45794.htm",
+      "date": "2026-04-20",
+      "column": "学工新闻"
+    },
+    {
+      "title": "走进实践育人大课堂·听上大青年讲述新时代伟大变革",
+      "url": "https://xgb.shu.edu.cn/info/1005/45724.htm",
+      "date": "2026-04-03",
+      "column": "学工新闻"
+    },
+    {
+      "title": "样板选树强引领 聚力赋能共成长——上海大学学生样板党支部培...",
+      "url": "https://xgb.shu.edu.cn/info/1005/45754.htm",
+      "date": "2026-04-03",
+      "column": "学工新闻"
     },
     {
       "title": "关于开展2026年度春季学期本科生退役士兵国家助学金申报通知",
@@ -34,6 +59,12 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学2025-2026学年“本科生党建样板党支部”培育答辩暨本...",
+      "url": "https://xgb.shu.edu.cn/info/1005/45614.htm",
+      "date": "2025-11-25",
+      "column": "学工新闻"
+    },
+    {
       "title": "上海大学第十届“十佳辅导员”名单公示",
       "url": "https://xgb.shu.edu.cn/info/1003/45574.htm",
       "date": "2025-11-20",
@@ -52,6 +83,12 @@
       "column": "通知公告"
     },
     {
+      "title": "2025年上海高校辅导员“思想政治教育研究能力提升”专题培训...",
+      "url": "https://xgb.shu.edu.cn/info/1005/45474.htm",
+      "date": "2025-10-28",
+      "column": "学工新闻"
+    },
+    {
       "title": "上海大学关于开展2024-2025学年本科生秋季奖学金评审工作的通...",
       "url": "https://xgb.shu.edu.cn/info/1003/45284.htm",
       "date": "2025-10-23",
@@ -68,6 +105,24 @@
       "url": "https://xgb.shu.edu.cn/info/1003/45264.htm",
       "date": "2025-10-14",
       "column": "通知公告"
+    },
+    {
+      "title": "三明学院赴上海大学交流学生见面会顺利举行",
+      "url": "https://xgb.shu.edu.cn/info/1005/45234.htm",
+      "date": "2025-09-29",
+      "column": "学工新闻"
+    },
+    {
+      "title": "上海大学书院辅导员工作室立项答辩会召开",
+      "url": "https://xgb.shu.edu.cn/info/1005/45224.htm",
+      "date": "2025-09-28",
+      "column": "学工新闻"
+    },
+    {
+      "title": "“跃”动青春，“协”手共赢：新学期从趣味体能挑战赛开始",
+      "url": "https://xgb.shu.edu.cn/info/1005/45214.htm",
+      "date": "2025-09-22",
+      "column": "学工新闻"
     },
     {
       "title": "关于开展2025-2026学年秋季学期本科生退役士兵国家助学金申请...",
@@ -94,10 +149,34 @@
       "column": "通知公告"
     },
     {
+      "title": "未入校 先开课 |上海大学推出 2025级新生“适应性先导课程”",
+      "url": "https://xgb.shu.edu.cn/info/1005/45154.htm",
+      "date": "2025-09-07",
+      "column": "学工新闻"
+    },
+    {
       "title": "2025年上海大学本科生学生手册",
       "url": "https://xgb.shu.edu.cn/info/1003/45124.htm",
       "date": "2025-09-06",
       "column": "通知公告"
+    },
+    {
+      "title": "2025年上海大学思政理论课题中期交流会举行",
+      "url": "https://xgb.shu.edu.cn/info/1005/45114.htm",
+      "date": "2025-08-22",
+      "column": "学工新闻"
+    },
+    {
+      "title": "上海大学举办暑期线上家长专场心理讲座",
+      "url": "https://xgb.shu.edu.cn/info/1005/45104.htm",
+      "date": "2025-08-17",
+      "column": "学工新闻"
+    },
+    {
+      "title": "上海大学举办暑期线上学生专场心理讲座",
+      "url": "https://xgb.shu.edu.cn/info/1005/45094.htm",
+      "date": "2025-07-23",
+      "column": "学工新闻"
     },
     {
       "title": "2024-2025 学年学生工作办公室暑假值班安排",
@@ -106,10 +185,28 @@
       "column": "通知公告"
     },
     {
+      "title": "三明学院本科生赴上海大学学习交流结业式顺利进行",
+      "url": "https://xgb.shu.edu.cn/info/1005/44984.htm",
+      "date": "2025-07-03",
+      "column": "学工新闻"
+    },
+    {
+      "title": "学生工作办公室（武装部）党支部开展主题党日活动",
+      "url": "https://xgb.shu.edu.cn/info/1005/45014.htm",
+      "date": "2025-07-03",
+      "column": "学工新闻"
+    },
+    {
       "title": "学生工作办公室（武装部）党支部开展主题党日活动",
       "url": "https://xgb.shu.edu.cn/info/1007/44994.htm",
       "date": "2025-07-03",
       "column": "党建简报"
+    },
+    {
+      "title": "“数智润心，有爱同行”2025年上海大学心理健康教育风采季闭...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44974.htm",
+      "date": "2025-07-02",
+      "column": "学工新闻"
     },
     {
       "title": "关于开展2025-2026学年上海大学本科生经济困难认定申请的通知",
@@ -122,6 +219,24 @@
       "url": "https://xgb.shu.edu.cn/info/1003/44904.htm",
       "date": "2025-07-01",
       "column": "通知公告"
+    },
+    {
+      "title": "笃行·致远   ——上海大学2024级民族预科生结业典礼       暨...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44854.htm",
+      "date": "2025-07-01",
+      "column": "学工新闻"
+    },
+    {
+      "title": "2025年夏季学期《思想道德与法治（实践）》授课教师培训会举...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44744.htm",
+      "date": "2025-05-21",
+      "column": "学工新闻"
+    },
+    {
+      "title": "上海大学第七届专业博览会顺利举行",
+      "url": "https://xgb.shu.edu.cn/info/1005/44734.htm",
+      "date": "2025-05-14",
+      "column": "学工新闻"
     },
     {
       "title": "关于2024级本科生军训时间调整的通知",
@@ -160,16 +275,40 @@
       "column": "通知公告"
     },
     {
+      "title": "学生工作办公室、本科生书院管理中心（“一站式”学生社区中...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44534.htm",
+      "date": "2025-01-24",
+      "column": "学工新闻"
+    },
+    {
+      "title": "“家在上海·圆梦宝山·花开上大”上海大学民族学生奖助学金座...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44494.htm",
+      "date": "2025-01-13",
+      "column": "学工新闻"
+    },
+    {
       "title": "2024-2025学年学生工作办公室寒假值班安排",
       "url": "https://xgb.shu.edu.cn/info/1003/44454.htm",
       "date": "2025-01-11",
       "column": "通知公告"
     },
     {
+      "title": "市教委心理健康教育专家组来我校调研指导",
+      "url": "https://xgb.shu.edu.cn/info/1005/44444.htm",
+      "date": "2025-01-06",
+      "column": "学工新闻"
+    },
+    {
       "title": "上海大学2025年迎元旦升旗仪式举行",
       "url": "https://xgb.shu.edu.cn/info/1003/44434.htm",
       "date": "2025-01-02",
       "column": "通知公告"
+    },
+    {
+      "title": "校领导赴本科生书院管理中心（“一站式”学生社区中心）调研座谈",
+      "url": "https://xgb.shu.edu.cn/info/1005/44374.htm",
+      "date": "2024-11-09",
+      "column": "学工新闻"
     },
     {
       "title": "上海大学关于开展2023-2024学年本科生秋季奖学金评审工作的通...",
@@ -220,6 +359,12 @@
       "column": "通知公告"
     },
     {
+      "title": "学生工作办公室（武装部）支部开展“学习党的二十届三中全会...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44194.htm",
+      "date": "2024-09-28",
+      "column": "学工新闻"
+    },
+    {
       "title": "关于评审2024年上海大学费孝通教育奖学金的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/44134.htm",
       "date": "2024-09-27",
@@ -250,10 +395,22 @@
       "column": "通知公告"
     },
     {
+      "title": "逐梦新起点 启航新征程——上海大学2024级迎新工作培训会暨辅...",
+      "url": "https://xgb.shu.edu.cn/info/1005/44024.htm",
+      "date": "2024-08-18",
+      "column": "学工新闻"
+    },
+    {
       "title": "2023-2024学年学工办（武装部）暑假值班安排",
       "url": "https://xgb.shu.edu.cn/info/1003/44014.htm",
       "date": "2024-07-01",
       "column": "通知公告"
+    },
+    {
+      "title": "2024《思想道德与法治(实践)》授课教师培训会举行",
+      "url": "https://xgb.shu.edu.cn/info/1005/43964.htm",
+      "date": "2024-05-21",
+      "column": "学工新闻"
     },
     {
       "title": "上海大学关于开展2022-2023学年本科生校长奖学金评选工作的通...",
@@ -296,6 +453,30 @@
       "url": "https://xgb.shu.edu.cn/info/1003/43764.htm",
       "date": "2024-01-29",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学第六届本科生学术论坛颁奖典礼暨第三届学风建设月总...",
+      "url": "https://xgb.shu.edu.cn/info/1005/43694.htm",
+      "date": "2023-12-04",
+      "column": "学工新闻"
+    },
+    {
+      "title": "“上海壹众管理咨询有限公司-上海大学”教育基金资助仪式顺利...",
+      "url": "https://xgb.shu.edu.cn/info/1005/43664.htm",
+      "date": "2023-11-30",
+      "column": "学工新闻"
+    },
+    {
+      "title": "做创新课堂的参与者 做优良学风的建设者 ——积极参与本科教...",
+      "url": "https://xgb.shu.edu.cn/info/1005/43644.htm",
+      "date": "2023-11-28",
+      "column": "学工新闻"
+    },
+    {
+      "title": "涵养文化根脉，探索前沿科技 | 上海大学第六届本科生学术论坛...",
+      "url": "https://xgb.shu.edu.cn/info/1005/43574.htm",
+      "date": "2023-11-19",
+      "column": "学工新闻"
     },
     {
       "title": "上海大学关于开展2022-2023学年本科生秋季奖学金评审工作的通...",
@@ -4180,6 +4361,12 @@
       "column": "党建简报"
     },
     {
+      "title": "吴欢章教授为影视学院学生献上毛泽东诗词艺术解读",
+      "url": "https://xgb.shu.edu.cn/info/1005/38092.htm",
+      "date": "2009-03-02",
+      "column": "学工新闻"
+    },
+    {
       "title": "田纳西大学访问学者Tim Johnson主讲政工干部学习会",
       "url": "https://xgb.shu.edu.cn/info/1007/3481.htm",
       "date": "2009-02-27",
@@ -4198,10 +4385,34 @@
       "column": "通知公告"
     },
     {
+      "title": "理学院积极组织召开毕业生就业推进业",
+      "url": "https://xgb.shu.edu.cn/info/1005/38089.htm",
+      "date": "2009-02-25",
+      "column": "学工新闻"
+    },
+    {
+      "title": "理学院“学盟社”开展社区辅导",
+      "url": "https://xgb.shu.edu.cn/info/1005/38090.htm",
+      "date": "2009-02-25",
+      "column": "学工新闻"
+    },
+    {
       "title": "关于开展2008-2009学年春季学期首日教育的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/7676.htm",
       "date": "2009-02-24",
       "column": "通知公告"
+    },
+    {
+      "title": "社区学院团委与理学院团委进行工作交流",
+      "url": "https://xgb.shu.edu.cn/info/1005/38088.htm",
+      "date": "2009-02-23",
+      "column": "学工新闻"
+    },
+    {
+      "title": "经济学院第一届经济学子论坛第三场开讲",
+      "url": "https://xgb.shu.edu.cn/info/1005/38086.htm",
+      "date": "2009-02-13",
+      "column": "学工新闻"
     },
     {
       "title": "上海大学2009年度学生工作要点",
@@ -4768,16 +4979,118 @@
       "column": "通知公告"
     },
     {
+      "title": "第五届全国高校思政教育成果推荐评审会在我校举行",
+      "url": "https://xgb.shu.edu.cn/info/1007/3199.htm",
+      "date": "2007-06-12",
+      "column": "党建简报"
+    },
+    {
+      "title": "上海大学2007年学生工作研究课题",
+      "url": "https://xgb.shu.edu.cn/info/1007/3201.htm",
+      "date": "2007-06-12",
+      "column": "党建简报"
+    },
+    {
+      "title": "卢吉超在学生工作课题发布会上的交流发言稿",
+      "url": "https://xgb.shu.edu.cn/info/1007/3202.htm",
+      "date": "2007-06-12",
+      "column": "党建简报"
+    },
+    {
+      "title": "辅导员为什么要开展学生工作研究",
+      "url": "https://xgb.shu.edu.cn/info/1007/3203.htm",
+      "date": "2007-06-12",
+      "column": "党建简报"
+    },
+    {
+      "title": "学工办组织召开2007年学生工作研究课题发布会",
+      "url": "https://xgb.shu.edu.cn/info/1007/3197.htm",
+      "date": "2007-06-11",
+      "column": "党建简报"
+    },
+    {
       "title": "关于对辅导员进行2006-2007年度工作考核的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/7544.htm",
       "date": "2007-06-06",
       "column": "通知公告"
     },
     {
+      "title": "上海大学首期家长学校隆重开班",
+      "url": "https://xgb.shu.edu.cn/info/1007/3193.htm",
+      "date": "2007-06-06",
+      "column": "党建简报"
+    },
+    {
+      "title": "加州富乐敦州立大学副校长为我校学生政工干部作讲座",
+      "url": "https://xgb.shu.edu.cn/info/1007/3195.htm",
+      "date": "2007-06-06",
+      "column": "党建简报"
+    },
+    {
       "title": "上海大学学生医疗管理与保障办法(试行)",
       "url": "https://xgb.shu.edu.cn/info/1003/7543.htm",
       "date": "2007-05-22",
       "column": "通知公告"
+    },
+    {
+      "title": "关于征集第五次全国高校思想政治教育优秀征文的通知",
+      "url": "https://xgb.shu.edu.cn/info/1003/7538.htm",
+      "date": "2007-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于评审2007年春季班奖学金的通知及资格线公布",
+      "url": "https://xgb.shu.edu.cn/info/1003/7539.htm",
+      "date": "2007-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展上海大学2007年度学生思想状况调研的通知",
+      "url": "https://xgb.shu.edu.cn/info/1003/7540.htm",
+      "date": "2007-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告：爱篱笆----大学生恋爱、情感讲座",
+      "url": "https://xgb.shu.edu.cn/info/1003/7541.htm",
+      "date": "2007-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于评审2007春季新生入学奖学金的通知",
+      "url": "https://xgb.shu.edu.cn/info/1003/7542.htm",
+      "date": "2007-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "团体辅导预告:人际你我他---人际沟通成长团体",
+      "url": "https://xgb.shu.edu.cn/info/1007/3183.htm",
+      "date": "2007-04-03",
+      "column": "党建简报"
+    },
+    {
+      "title": "学工系统寒假期间组织召开07年学生工作研讨会",
+      "url": "https://xgb.shu.edu.cn/info/1007/3185.htm",
+      "date": "2007-04-03",
+      "column": "党建简报"
+    },
+    {
+      "title": "我校召开2006年学生工作总结交流会",
+      "url": "https://xgb.shu.edu.cn/info/1007/3187.htm",
+      "date": "2007-04-03",
+      "column": "党建简报"
+    },
+    {
+      "title": "我校隆重举行2007级春季新生开学典礼暨入学宣誓仪式",
+      "url": "https://xgb.shu.edu.cn/info/1007/3189.htm",
+      "date": "2007-04-03",
+      "column": "党建简报"
+    },
+    {
+      "title": "我校2007级春季新生适应性训练活动顺利开展",
+      "url": "https://xgb.shu.edu.cn/info/1007/3191.htm",
+      "date": "2007-04-03",
+      "column": "党建简报"
     }
   ]
 }

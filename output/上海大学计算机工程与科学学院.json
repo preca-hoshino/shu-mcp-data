@@ -2,11 +2,13 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260513_175610",
-  "total_articles": 316,
+  "crawl_time": "20260514_004804",
+  "total_articles": 366,
   "columns": {
     "重要通知": 310,
-    "风采展示": 6
+    "新闻动态": 29,
+    "风采展示": 6,
+    "学术活动": 21
   },
   "articles": [
     {
@@ -14,6 +16,24 @@
       "url": "https://cs.shu.edu.cn/info/1081/50801.htm",
       "date": "2026-05-01",
       "column": "重要通知"
+    },
+    {
+      "title": "上海大学第17届JUST搜搜信息检索能力大赛圆满闭幕！",
+      "url": "https://mp.weixin.qq.com/s/8iIhFIDmvTlRGwVg0HhmzQ",
+      "date": "2026-05-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海市计算机学会2026年度学术年会在上海大学举行",
+      "url": "https://mp.weixin.qq.com/s/QXsU3KOdVnWQnfYrIlz31A",
+      "date": "2026-05-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "喜报！计算机学院钱权研究员、余航教授入选2026年上海大学“伟长学者”",
+      "url": "https://mp.weixin.qq.com/s/y5Nk6zrLxR-Z3J15MKDTvg?scene=1&click_id=2",
+      "date": "2026-05-01",
+      "column": "新闻动态"
     },
     {
       "title": "2026年上海大学计算机工程与科学学院硕士研究生招生调剂工作办法",
@@ -28,10 +48,64 @@
       "column": "重要通知"
     },
     {
+      "title": "计算机工程与科学学院举办“社区有约”师生座谈会 共话人工智能时代的人才培养",
+      "url": "https://mp.weixin.qq.com/s/2rWjm12jZoKO1CrUMf4Hfg",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "深耕科创沃土 勇当AI时代硬核指挥官——计算机工程与科学学院开展创新创业交流座谈会",
+      "url": "https://mp.weixin.qq.com/s/8NCwKUYlOKl7gzYs_5qAwg",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学开源社区举办 AstrBot 技术分享交流活动",
+      "url": "https://mp.weixin.qq.com/s/IfLsH-sP-RSl1wcIpUaMAQ",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "热血赛场，青春当“燃”！计算机学院第五届“Black Horse”杯3V3篮球赛顺利举办",
+      "url": "https://mp.weixin.qq.com/s/Iq7IzgBls_HFwXfvP_PE1w",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海智能计算系统工程技术研究中心2026年度技术委员会会议圆满召开",
+      "url": "https://mp.weixin.qq.com/s/LVjGIGOUGAQfcawWKVvOdw",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "聚力同行，共话未来！计算机专业认知小讲堂圆满举行",
+      "url": "https://mp.weixin.qq.com/s/WIRyksMQOnavtdn34EQ4UQ",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "学院杰出校友、中国电信首席科学家、云计算研究院院长吴杰被聘为“CCF海外科技人物奖“评奖分委员会候任主席",
       "url": "https://mp.weixin.qq.com/s/_2EmnmkqvgUTKi1N0ZnoHQ",
       "date": "2026-04-01",
       "column": "风采展示"
+    },
+    {
+      "title": "从“士兵”到“指挥官”：AI时代计算机学子的成长跃迁——企业导师曾艳开展职业发展主题讲座",
+      "url": "https://mp.weixin.qq.com/s/cMGSl1k3vBemLDXmGOdYRA",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“上海高校示范性本科课堂”《智能控制》教学观摩活动在上海大学计算机学院举办",
+      "url": "https://mp.weixin.qq.com/s/ehdooCXVeIrYUxAV6-Havg",
+      "date": "2026-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2026年（第十八届）上海市大学生计算机应用能力大赛开幕式顺利举行",
+      "url": "https://mp.weixin.qq.com/s/vZwxoXJ48jyWgLFxg2y1gQ",
+      "date": "2026-04-01",
+      "column": "新闻动态"
     },
     {
       "title": "2026年上海大学计算机工程与科学学院硕士研究生统一招生考试进入复试阶段名单",
@@ -58,16 +132,70 @@
       "column": "重要通知"
     },
     {
+      "title": "计算机工程与科学学院党委部署树立和践行正确政绩观学习教育",
+      "url": "https://mp.weixin.qq.com/s/0eeRICWutayxGHNwdIAA6A",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院召开第八届青年教师联谊会换届大会暨学院“十五五”发展规划青年教师座谈会",
+      "url": "https://mp.weixin.qq.com/s/3BI1BBPdaNZiad3Dmdf9LA",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2026中国研究生创新实践系列大赛上海大学校园宣讲会——第1场：计算机学院&通信学院专场圆满落幕！",
+      "url": "https://mp.weixin.qq.com/s/52e9GTHhRf51j_RKrs_BPA",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院 “十五五”规划校企座谈会顺利举行",
+      "url": "https://mp.weixin.qq.com/s/8F7rLDhs2BsQg1iadXUqiw?scene=1&click_id=7",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "就业先锋 | 以梦为归处，乘风赴远方：计算机工程与科学学院——马唯一",
       "url": "https://mp.weixin.qq.com/s/8K0L_FY6KBe-fZjNVE2BFw",
       "date": "2026-03-01",
       "column": "风采展示"
     },
     {
+      "title": "走进科创高地，解码数字未来——第三届“天翼云杯”大赛研学活动圆满举行",
+      "url": "https://mp.weixin.qq.com/s/9iXBidWbMYD8mSrZYOhzXA",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院本科生第二党支部“红色引路人”考研复试经验分享会顺利开展",
+      "url": "https://mp.weixin.qq.com/s/SQgt9DBBbV5KWTK1gcohSw",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机工程与科学学院召开“十五五”发展规划学生代表座谈会",
+      "url": "https://mp.weixin.qq.com/s/Zuw--EScsdqWQ31uIUj1pw",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "就业先锋 | 逆境求生存，顺境求突破：计算机工程与科学学院——王波",
       "url": "https://mp.weixin.qq.com/s/dtcBMoTM_vnCc0imdo-KJg?scene=1&click_id=8",
       "date": "2026-03-01",
       "column": "风采展示"
+    },
+    {
+      "title": "校企协同促就业，奋楫扬帆正当时——2026年上海大学宏嘉书院、丝路书院春季招聘会暨实习双选会顺利举办",
+      "url": "https://mp.weixin.qq.com/s/uvaX0xhB5ljMkgsX3jiXBQ",
+      "date": "2026-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学术报告566：面向数据要素可信流通的生成式人工智能大模型确权技术与挑战",
+      "url": "https://cs.shu.edu.cn/info/1501/49661.htm",
+      "date": "2026-01-01",
+      "column": "学术活动"
     },
     {
       "title": "吕仲涛校董：智能金融进入普惠发展新阶段，推理成本降低助力中小机构转型升级",
@@ -88,16 +216,34 @@
       "column": "风采展示"
     },
     {
+      "title": "学术报告565：具身概念对齐中的关键问题",
+      "url": "https://cs.shu.edu.cn/info/1501/49671.htm",
+      "date": "2025-12-01",
+      "column": "学术活动"
+    },
+    {
       "title": "计算机工程与科学学院2025-2026学年秋季学期自习辅导安排表",
       "url": "https://cs.shu.edu.cn/info/1081/25521.htm",
       "date": "2025-11-01",
       "column": "重要通知"
     },
     {
+      "title": "学术报告564：智慧医疗技术论坛",
+      "url": "https://cs.shu.edu.cn/info/1501/46201.htm",
+      "date": "2025-10-01",
+      "column": "学术活动"
+    },
+    {
       "title": "上海大学计算机学院2026年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
       "url": "https://cs.shu.edu.cn/info/1081/25501.htm",
       "date": "2025-09-01",
       "column": "重要通知"
+    },
+    {
+      "title": "学术报告563：1. 磁性微型机器人与癌症治疗应用 2. 子刊等高水平学术论文经验分享",
+      "url": "https://cs.shu.edu.cn/info/1501/46781.htm",
+      "date": "2025-07-01",
+      "column": "学术活动"
     },
     {
       "title": "25-26学年计算机学院2022级及之前各年级部分学科基础课程替代方案",
@@ -142,10 +288,22 @@
       "column": "重要通知"
     },
     {
+      "title": "学术报告562：基于多模态信息融合的智能环境感知与导航技术",
+      "url": "https://cs.shu.edu.cn/info/1501/45231.htm",
+      "date": "2025-02-01",
+      "column": "学术活动"
+    },
+    {
       "title": "2024-2025学年冬季学期自习辅导安排表",
       "url": "https://cs.shu.edu.cn/info/1081/25581.htm",
       "date": "2024-11-01",
       "column": "重要通知"
+    },
+    {
+      "title": "学术报告561：电影中的“计算”与“算计”",
+      "url": "https://cs.shu.edu.cn/info/1501/46501.htm",
+      "date": "2024-11-01",
+      "column": "学术活动"
     },
     {
       "title": "计算机学院24-25学年自习辅导安排表",
@@ -164,6 +322,18 @@
       "url": "https://cs.shu.edu.cn/info/1081/25611.htm",
       "date": "2024-09-01",
       "column": "重要通知"
+    },
+    {
+      "title": "学术报告560：区块链零知识证明机制的异构加速研究",
+      "url": "https://cs.shu.edu.cn/info/1501/47041.htm",
+      "date": "2024-09-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告559：人工智能对电影艺术教学的融入、科研的赋能",
+      "url": "https://cs.shu.edu.cn/info/1501/47021.htm",
+      "date": "2024-06-01",
+      "column": "学术活动"
     },
     {
       "title": "2023-2024学年夏季学期计算机学院2022级各专业学生课程安排方案",
@@ -196,6 +366,12 @@
       "column": "重要通知"
     },
     {
+      "title": "学术报告558：AI 向善：最新线索语视频自动识别与生成研究",
+      "url": "https://cs.shu.edu.cn/info/1501/46521.htm",
+      "date": "2024-05-01",
+      "column": "学术活动"
+    },
+    {
       "title": "2023-24学年春季学期自习辅导安排表",
       "url": "https://cs.shu.edu.cn/info/1081/13281.htm",
       "date": "2024-03-01",
@@ -206,6 +382,48 @@
       "url": "https://cs.shu.edu.cn/info/1081/25481.htm",
       "date": "2024-03-01",
       "column": "重要通知"
+    },
+    {
+      "title": "学术报告556：未来人工智能发展前景展望",
+      "url": "https://cs.shu.edu.cn/info/1501/45261.htm",
+      "date": "2024-03-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告555：拥抱数字化转型，打造未来智慧医院 Embracing Digital Transformation to Build the Smart Hospital of the Future",
+      "url": "https://cs.shu.edu.cn/info/1501/47031.htm",
+      "date": "2023-12-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告554：面向数据基础设施的安全韧性指数评价体系",
+      "url": "https://cs.shu.edu.cn/info/1501/47211.htm",
+      "date": "2023-12-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告549：基金申请经验分享",
+      "url": "https://cs.shu.edu.cn/info/1501/46551.htm",
+      "date": "2023-11-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告553：基金申请经验分享",
+      "url": "https://cs.shu.edu.cn/info/1501/49651.htm",
+      "date": "2023-11-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告548：面向金融时序数据预测分析的增量学习技术",
+      "url": "https://cs.shu.edu.cn/info/1501/46351.htm",
+      "date": "2023-10-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "考公讲座：国家及上海公务员考试考情及申论备考",
+      "url": "https://cs.shu.edu.cn/info/1501/49321.htm",
+      "date": "2023-10-01",
+      "column": "学术活动"
     },
     {
       "title": "上海大学计算机学院2024年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
@@ -224,6 +442,30 @@
       "url": "https://cs.shu.edu.cn/info/1081/25551.htm",
       "date": "2023-06-01",
       "column": "重要通知"
+    },
+    {
+      "title": "学术报告547：A Distribution-Based Classification in Person Re-identification",
+      "url": "https://cs.shu.edu.cn/info/1501/45311.htm",
+      "date": "2023-03-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告546：深度学习在医学成像中的挑战",
+      "url": "https://cs.shu.edu.cn/info/1501/46561.htm",
+      "date": "2023-03-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告545：ModelScope回声消除与远场唤醒",
+      "url": "https://cs.shu.edu.cn/info/1501/47201.htm",
+      "date": "2023-02-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告544：高性能结构/功能材料超常冶金与制备-进展与思考",
+      "url": "https://cs.shu.edu.cn/info/1501/46891.htm",
+      "date": "2023-01-01",
+      "column": "学术活动"
     },
     {
       "title": "2018年上半年常规普通话水平测试报名通知",
@@ -1904,6 +2146,66 @@
       "url": "https://cs.shu.edu.cn/info/1081/35321.htm",
       "date": "2010-06-01",
       "column": "重要通知"
+    },
+    {
+      "title": "学术报告 - Structured Concurrency: An Approach to Programming",
+      "url": "https://cs.shu.edu.cn/info/1501/42061.htm",
+      "date": "2010-06-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "计算机学院参加“迎国庆、歌唱祖国”合唱比赛",
+      "url": "https://cs.shu.edu.cn/info/1061/1001.htm",
+      "date": "2009-10-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院青年教师参加本科课堂教学竞赛荣获佳绩",
+      "url": "https://cs.shu.edu.cn/info/1061/1111.htm",
+      "date": "2009-10-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院举行第三届三次双代会",
+      "url": "https://cs.shu.edu.cn/info/1061/1431.htm",
+      "date": "2009-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院妇委举办庆六一“祝福宝宝”寄语活动",
+      "url": "https://cs.shu.edu.cn/info/1061/1821.htm",
+      "date": "2009-05-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院举行教职工羽毛球比赛",
+      "url": "https://cs.shu.edu.cn/info/1061/1471.htm",
+      "date": "2009-04-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院办公室、实验室支部参观上海博物馆",
+      "url": "https://cs.shu.edu.cn/info/1061/1061.htm",
+      "date": "2009-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院妇委举办“走近世博”系列活动",
+      "url": "https://cs.shu.edu.cn/info/1061/1841.htm",
+      "date": "2009-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院“学说上海话”开班",
+      "url": "https://cs.shu.edu.cn/info/1061/1661.htm",
+      "date": "2009-02-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "08“六一儿童节”活动",
+      "url": "https://cs.shu.edu.cn/info/1061/1831.htm",
+      "date": "2008-06-01",
+      "column": "新闻动态"
     }
   ]
 }

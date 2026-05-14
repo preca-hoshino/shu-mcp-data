@@ -2,10 +2,10 @@
   "domain": "automation.shu.edu.cn",
   "department": "上海大学自动化系",
   "type": "06",
-  "crawl_time": "20260513_175610",
-  "total_articles": 62,
+  "crawl_time": "20260514_004804",
+  "total_articles": 72,
   "columns": {
-    "新闻": 54,
+    "新闻": 64,
     "讲座/会议": 8
   },
   "articles": [
@@ -67,6 +67,66 @@
       "title": "华东六省一市自动化学会学术年会先进控制与智能系统论坛在上海顺利召开",
       "url": "https://automation.shu.edu.cn/info/1128/3993.htm",
       "date": "2025-06-14",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市电站自动化技术重点实验室学术委员会会议顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3973.htm",
+      "date": "2025-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "“上电所奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/3933.htm",
+      "date": "2025-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "“精控能源奖学金”管理章程",
+      "url": "https://automation.shu.edu.cn/info/1128/3953.htm",
+      "date": "2025-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "“自仪奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/3963.htm",
+      "date": "2025-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "清华大学国家教学名师师丽教授在上海大学作学术报告",
+      "url": "https://automation.shu.edu.cn/info/1128/3913.htm",
+      "date": "2025-04-17",
+      "column": "新闻"
+    },
+    {
+      "title": "国家自然科学基金联合基金重点项目“工业互联网异构融合系统的攻击可视化学习感知和安全协同调控及应用”启动会顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3923.htm",
+      "date": "2025-04-17",
+      "column": "新闻"
+    },
+    {
+      "title": "国家重点研发计划项目“生成式人工智能驱动的机器人集群三维环境协同探索” 启动会暨实施方案论证会召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3903.htm",
+      "date": "2025-03-25",
+      "column": "新闻"
+    },
+    {
+      "title": "史航副教授团队在《IEEE Transactions on Robotics》期刊发表最新研究成果",
+      "url": "https://automation.shu.edu.cn/info/1128/3893.htm",
+      "date": "2025-02-24",
+      "column": "新闻"
+    },
+    {
+      "title": "杜大军教授团队论文获《Journal of Modern Power Systems and Clean Energy》期刊优秀论文奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3843.htm",
+      "date": "2025-01-08",
+      "column": "新闻"
+    },
+    {
+      "title": "机械工程一流学科产教协同发展研讨会——航空前沿技术论坛顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3813.htm",
+      "date": "2024-11-29",
       "column": "新闻"
     },
     {

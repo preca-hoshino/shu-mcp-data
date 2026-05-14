@@ -2,8 +2,161 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260513_175610",
-  "total_articles": 0,
-  "columns": {},
-  "articles": []
+  "crawl_time": "20260514_004804",
+  "total_articles": 25,
+  "columns": {
+    "重要新闻": 25
+  },
+  "articles": [
+    {
+      "title": "深化中法教育科技合作，共绘创新人才新篇章",
+      "url": "https://utseus.shu.edu.cn/info/1009/6016.htm",
+      "date": "2026-05-11",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧工程技术学院接受法国工程师职衔委员会（CTI）实地考察认证",
+      "url": "https://utseus.shu.edu.cn/info/1009/6026.htm",
+      "date": "2026-05-11",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧学院第六届“学贯中欧 企创未来”大学生创新竞赛开幕",
+      "url": "https://utseus.shu.edu.cn/info/1009/5506.htm",
+      "date": "2026-03-27",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中法协同绘蓝图 聚力赋能新发展——中欧学院2026年第一次联合管理委员会会议成功召开",
+      "url": "https://utseus.shu.edu.cn/info/1009/4436.htm",
+      "date": "2026-01-30",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧工程技术学院访问汉洁集团  并聘任刘峰总裁为联管会成员",
+      "url": "https://utseus.shu.edu.cn/info/1009/4446.htm",
+      "date": "2026-01-30",
+      "column": "重要新闻"
+    },
+    {
+      "title": "走进上大 筑梦未来｜吴淞中学高中生研学营活动纪实",
+      "url": "https://utseus.shu.edu.cn/info/1009/4456.htm",
+      "date": "2026-01-30",
+      "column": "重要新闻"
+    },
+    {
+      "title": "Oui Talk中欧校友说：一张法国工程师文凭，凭什么敲开全球职场大门？",
+      "url": "https://utseus.shu.edu.cn/info/1009/4466.htm",
+      "date": "2026-01-30",
+      "column": "重要新闻"
+    },
+    {
+      "title": "原中国驻法国大使馆公使衔教育参赞马燕生一行访问学院",
+      "url": "https://utseus.shu.edu.cn/info/1009/4416.htm",
+      "date": "2026-01-21",
+      "column": "重要新闻"
+    },
+    {
+      "title": "跨界协同，共育英才！中欧学院与上海现代服务业联合会共探数字化人才新路径",
+      "url": "https://utseus.shu.edu.cn/info/1009/4406.htm",
+      "date": "2026-01-20",
+      "column": "重要新闻"
+    },
+    {
+      "title": "2026年上海大学广东招宣组“我为上大代言”培训会顺利举行",
+      "url": "https://utseus.shu.edu.cn/info/1009/4376.htm",
+      "date": "2026-01-13",
+      "column": "重要新闻"
+    },
+    {
+      "title": "走进上海大学，共筑未来之梦——2026届晋元中学高中生高校体验活动纪实",
+      "url": "https://utseus.shu.edu.cn/info/1009/4386.htm",
+      "date": "2026-01-13",
+      "column": "重要新闻"
+    },
+    {
+      "title": "喜报！中欧工程技术学院荣获2025年上海大学“党的光辉照我心”主题合唱比赛特等奖",
+      "url": "https://utseus.shu.edu.cn/info/1009/4356.htm",
+      "date": "2026-01-09",
+      "column": "重要新闻"
+    },
+    {
+      "title": "凝聚共识，明确方向 | 中欧学院召开2024-2025学年招生工作总结会",
+      "url": "https://utseus.shu.edu.cn/info/1009/4366.htm",
+      "date": "2026-01-03",
+      "column": "重要新闻"
+    },
+    {
+      "title": "20周年·对话未来——Oui Talk中欧校友连连看",
+      "url": "https://utseus.shu.edu.cn/info/1009/4346.htm",
+      "date": "2025-11-14",
+      "column": "重要新闻"
+    },
+    {
+      "title": "“溯源中欧忆芳华，聚力廿载绘新篇”",
+      "url": "https://utseus.shu.edu.cn/info/1009/4336.htm",
+      "date": "2025-11-12",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧二十周年庆典 | 携手十六家企业共启中法合作新篇章",
+      "url": "https://utseus.shu.edu.cn/info/1009/4316.htm",
+      "date": "2025-11-10",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧工程技术学院举行新学年全体教职工大会",
+      "url": "https://utseus.shu.edu.cn/info/1009/4326.htm",
+      "date": "2025-09-24",
+      "column": "重要新闻"
+    },
+    {
+      "title": "2025年吴淞中学走进中欧学院开启研学之旅",
+      "url": "https://utseus.shu.edu.cn/info/1009/4246.htm",
+      "date": "2025-09-09",
+      "column": "重要新闻"
+    },
+    {
+      "title": "沪粤联动育英才：上海大学赴广东省开展招生宣传系列活动",
+      "url": "https://utseus.shu.edu.cn/info/1009/4216.htm",
+      "date": "2025-05-29",
+      "column": "重要新闻"
+    },
+    {
+      "title": "08级校友返校分享  系统思维、跨界实践：中欧人的“底气”",
+      "url": "https://utseus.shu.edu.cn/info/1009/4206.htm",
+      "date": "2025-05-21",
+      "column": "重要新闻"
+    },
+    {
+      "title": "不忘初心、怀梦起航",
+      "url": "https://utseus.shu.edu.cn/info/1009/1192.htm",
+      "date": "2018-06-19",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中法学生交流系列活动之“上海的安居”",
+      "url": "https://utseus.shu.edu.cn/info/1009/1024.htm",
+      "date": "2018-06-05",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧学院“创新创业”项目国际学生首次参加亚洲消费电子展",
+      "url": "https://utseus.shu.edu.cn/info/1009/1025.htm",
+      "date": "2018-06-05",
+      "column": "重要新闻"
+    },
+    {
+      "title": "“尖峰时刻”",
+      "url": "https://utseus.shu.edu.cn/info/1009/1026.htm",
+      "date": "2018-06-05",
+      "column": "重要新闻"
+    },
+    {
+      "title": "第十一届国际24小时创新大赛圆满落幕",
+      "url": "https://utseus.shu.edu.cn/info/1009/1182.htm",
+      "date": "2018-06-05",
+      "column": "重要新闻"
+    }
+  ]
 }

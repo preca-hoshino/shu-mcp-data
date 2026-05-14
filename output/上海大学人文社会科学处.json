@@ -2,12 +2,12 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 243,
+  "crawl_time": "20260514_004804",
+  "total_articles": 296,
   "columns": {
-    "通知公告": 160,
-    "最新立项": 40,
-    "文科动态": 43
+    "通知公告": 185,
+    "最新立项": 48,
+    "文科动态": 63
   },
   "articles": [
     {
@@ -323,6 +323,12 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学首届文科大会闭幕——凝心聚力 砥砺奋进 推动文科新发展",
+      "url": "https://rwskc.shu.edu.cn/info/1070/5022.htm",
+      "date": "2020-12-16",
+      "column": "文科动态"
+    },
+    {
       "title": "上海大学首届文科大会系列专题会议之 智库特区建设会议顺利召开",
       "url": "https://rwskc.shu.edu.cn/info/1070/5011.htm",
       "date": "2020-11-30",
@@ -359,6 +365,12 @@
       "column": "文科动态"
     },
     {
+      "title": "2020年度上海市艺术科学规划项目申报公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4951.htm",
+      "date": "2020-09-30",
+      "column": "通知公告"
+    },
+    {
       "title": "我校曾军教授的科研成果入选2019年度国家哲学社会科学成果文库",
       "url": "https://rwskc.shu.edu.cn/info/1070/4942.htm",
       "date": "2020-09-28",
@@ -377,10 +389,76 @@
       "column": "文科动态"
     },
     {
+      "title": "上海市社会科学界第十八届学术年会论文征集公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4902.htm",
+      "date": "2020-08-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于科研管理部(文科处、艺术处、智库办)2020年暑假值班通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4881.htm",
+      "date": "2020-08-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好2020年度“曙光计划”项目申报工作的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4891.htm",
+      "date": "2020-08-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年度国家社会科学基金重大项目招标公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4871.htm",
+      "date": "2020-07-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家社科基金重大项目 “人工智能前沿问题的马克思主义哲学研究” 举行开题研讨会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4862.htm",
+      "date": "2020-07-23",
+      "column": "文科动态"
+    },
+    {
       "title": "我校喜获2项2020年度国家社科基金艺术学重大项目立项",
       "url": "https://rwskc.shu.edu.cn/info/1071/4861.htm",
       "date": "2020-07-22",
       "column": "最新立项"
+    },
+    {
+      "title": "华东师范大学人文与社会科学研究院一行来我校调研",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4851.htm",
+      "date": "2020-07-15",
+      "column": "文科动态"
+    },
+    {
+      "title": "2020年度国家法治与法学理论研究项目申报公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4841.htm",
+      "date": "2020-07-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年度上海市浦江人才计划项目申报通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4831.htm",
+      "date": "2020-06-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于教育部2020年度高校思想政治理论课教师研究专项申报工作的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4821.htm",
+      "date": "2020-06-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织申报2021年度上海市教育委员会科研创新计划的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4811.htm",
+      "date": "2020-06-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "人文社科艺术处疫情防控期间值班安排",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4782.htm",
+      "date": "2020-03-28",
+      "column": "通知公告"
     },
     {
       "title": "我校2020年度教育部人文社会科学研究一般项目获立14项",
@@ -389,9 +467,111 @@
       "column": "最新立项"
     },
     {
+      "title": "2020年度“文化繁荣与社会发展决策咨询研究基地” 决策咨询课题申报的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4771.htm",
+      "date": "2020-02-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术战“疫”(二)：发挥高校科研优势，为疫情防控提供智力支持",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4761.htm",
+      "date": "2020-02-25",
+      "column": "文科动态"
+    },
+    {
+      "title": "“越是艰险越向前，打赢疫情防控人民战争”——马院高立伟教授接受《光明日报》采访",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4751.htm",
+      "date": "2020-02-19",
+      "column": "文科动态"
+    },
+    {
+      "title": "马院高立伟教授接受人民网采访指出“疫情防控越吃劲越要毫不放松”",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4741.htm",
+      "date": "2020-02-16",
+      "column": "文科动态"
+    },
+    {
+      "title": "文学战“疫”：用文学唤醒爱，用善举表达爱",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4732.htm",
+      "date": "2020-02-15",
+      "column": "文科动态"
+    },
+    {
+      "title": "艺术战“疫”：用艺术点亮生命，用情感温暖人心——上海电影学院、上海音乐学院篇",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4734.htm",
+      "date": "2020-02-15",
+      "column": "文科动态"
+    },
+    {
+      "title": "艺术战“疫”：用艺术点亮生命，用情感温暖人心——上海美术学院篇",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4735.htm",
+      "date": "2020-02-15",
+      "column": "文科动态"
+    },
+    {
+      "title": "学术战“疫”：发挥高校科研优势，为疫情防控提供智力支持",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4721.htm",
+      "date": "2020-02-14",
+      "column": "文科动态"
+    },
+    {
+      "title": "人文社科处及艺术创作处寒假工作安排",
+      "url": "https://rwskc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1069&wbnewsid=4712",
+      "date": "2020-02-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于疫情防控期间开展科研工作的指导意见",
+      "url": "https://rwskc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1069&wbnewsid=4713",
+      "date": "2020-02-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年度国家社会科学基金艺术学重大项目招标公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4691.htm",
+      "date": "2020-01-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年度国家社会科学基金艺术学项目申报公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4694.htm",
+      "date": "2020-01-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好2020年度国家社科基金逾期项目和上海市社科规划逾期项目清理工作的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4701.htm",
+      "date": "2020-01-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于征集2020年度国家社科基金重大项目选题的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4681.htm",
+      "date": "2020-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于申报2020年度上海市教育科学研究项目（第二批）的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4673.htm",
+      "date": "2020-01-06",
+      "column": "通知公告"
+    },
+    {
       "title": "关于创新管理部(文科处、艺术处)2020年寒假值班通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/4662.htm",
       "date": "2020-01-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市教育委员会科研创新计划项目工作进展情况公示",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4666.htm",
+      "date": "2020-01-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年度国家社会科学基金项目申报公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/4641.htm",
+      "date": "2019-12-20",
       "column": "通知公告"
     },
     {
@@ -441,6 +621,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/3556.htm",
       "date": "2019-09-10",
       "column": "通知公告"
+    },
+    {
+      "title": "第二届诗词学与诗礼文化研究国际论坛成功举办",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4194.htm",
+      "date": "2019-09-04",
+      "column": "文科动态"
     },
     {
       "title": "我校2019年度上海市哲学社会科学规划课题获立33项",
@@ -545,6 +731,36 @@
       "column": "通知公告"
     },
     {
+      "title": "文科处召开文科横向科研项目管理座谈会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4193.htm",
+      "date": "2019-05-09",
+      "column": "文科动态"
+    },
+    {
+      "title": "“上海城市形象传播”上大智库专题论坛圆满举办",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4192.htm",
+      "date": "2019-05-01",
+      "column": "文科动态"
+    },
+    {
+      "title": "段勇副书记所著《国宝星散复寻踪——清宫散佚文物调查研究》一书被评为 “国家出版基金2018年度’优秀’资助项目”",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4190.htm",
+      "date": "2019-04-30",
+      "column": "文科动态"
+    },
+    {
+      "title": "孙伟平教授所著《大变革时代的哲学》一书被评为 “国家出版基金2018年度’优秀’资助项目”",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4191.htm",
+      "date": "2019-04-30",
+      "column": "文科动态"
+    },
+    {
+      "title": "上海大学“2018年度人大复印报刊资料转载指数排名”再创佳绩",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4189.htm",
+      "date": "2019-04-29",
+      "column": "文科动态"
+    },
+    {
       "title": "“文化繁荣与社会融合决策咨询研究基地”2019年度决策咨询课题申报通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/3538.htm",
       "date": "2019-04-28",
@@ -567,6 +783,30 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/3536.htm",
       "date": "2019-04-03",
       "column": "通知公告"
+    },
+    {
+      "title": "文科科研院长会议暨“文化繁荣与社会融合”决策咨询研究基地工作会议顺利召开",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4188.htm",
+      "date": "2019-03-29",
+      "column": "文科动态"
+    },
+    {
+      "title": "徐旭副书记一行赴浙江调研长三角美育协同体建设",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4186.htm",
+      "date": "2019-03-28",
+      "column": "文科动态"
+    },
+    {
+      "title": "上海大学江南文化研究院芝英研究中心揭牌仪式在浙江永康举行",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4187.htm",
+      "date": "2019-03-28",
+      "column": "文科动态"
+    },
+    {
+      "title": "教育部“中华古诗文吟诵和创作基地”建设推进会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/4185.htm",
+      "date": "2019-03-25",
+      "column": "文科动态"
     },
     {
       "title": "我校2019年度教育部人文社会科学研究一般项目获立12项",
@@ -1091,6 +1331,54 @@
       "column": "通知公告"
     },
     {
+      "title": "我校33项课题获2014年度上海市教育委员会科研创新项目立项",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4202.htm",
+      "date": "2014-07-31",
+      "column": "最新立项"
+    },
+    {
+      "title": "我校获立14项2014年度上海市哲学社会科学“十二五”规划课题",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4201.htm",
+      "date": "2014-07-28",
+      "column": "最新立项"
+    },
+    {
+      "title": "我校12项课题获2014年度教育部人文社会科学研究一般项目立项",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4200.htm",
+      "date": "2014-07-05",
+      "column": "最新立项"
+    },
+    {
+      "title": "我校文科10位老师入选2014年度上海市浦江人才计划(C类)",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4199.htm",
+      "date": "2014-07-03",
+      "column": "最新立项"
+    },
+    {
+      "title": "我校获立20项2014年度国家社科基金项目",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4197.htm",
+      "date": "2014-06-19",
+      "column": "最新立项"
+    },
+    {
+      "title": "图情档系又获五项国家社科基金项目",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4198.htm",
+      "date": "2014-06-19",
+      "column": "最新立项"
+    },
+    {
+      "title": "我校获得5项《面向未来30年的上海》发展战略研究课题",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4196.htm",
+      "date": "2014-05-26",
+      "column": "最新立项"
+    },
+    {
+      "title": "我校获得1项上海市人民政府决策咨询研究重点课题",
+      "url": "https://rwskc.shu.edu.cn/info/1071/4195.htm",
+      "date": "2014-04-17",
+      "column": "最新立项"
+    },
+    {
       "title": "关于认真审核国家社科基金项目结项材料的通知",
       "url": "http://www.npopss-cn.gov.cn/n/2013/0912/c219469-22900951.html",
       "date": "2013-09-12",
@@ -1451,10 +1739,40 @@
       "column": "通知公告"
     },
     {
+      "title": "关于申报2008“上海发展研究奖学金”的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/2847.htm",
+      "date": "2008-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "2008年度“通用汽车青年奖学金”项目申报通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/2848.htm",
+      "date": "2008-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市社会科学界第六届（2008）学术年会征文工作启动",
+      "url": "http://www.sssa.org.cn/news/news_con.cfm?id=8201",
+      "date": "2008-05-23",
+      "column": "通知公告"
+    },
+    {
       "title": "上海市史学论坛——上海大学专场",
       "url": "https://rwskc.shu.edu.cn/info/1070/3564.htm",
       "date": "2008-05-22",
       "column": "文科动态"
+    },
+    {
+      "title": "2008年度共青团中央研究课题申报通知",
+      "url": "http://www.cycs.org/InsInfo.asp?InsID=19&ID=7316",
+      "date": "2008-05-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "公示：我校近三年文科核心期刊论文数排名表",
+      "url": "https://rwskc.shu.edu.cn/info/1069/2844.htm",
+      "date": "2008-05-19",
+      "column": "通知公告"
     },
     {
       "title": "文科处召开文科科研会议",

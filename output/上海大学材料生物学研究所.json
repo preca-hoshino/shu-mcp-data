@@ -2,8 +2,114 @@
   "domain": "mbio.shu.edu.cn",
   "department": "上海大学材料生物学研究所",
   "type": "30",
-  "crawl_time": "20260513_175610",
-  "total_articles": 0,
-  "columns": {},
-  "articles": []
+  "crawl_time": "20260514_004804",
+  "total_articles": 17,
+  "columns": {
+    "新闻动态": 6,
+    "科研动态": 11
+  },
+  "articles": [
+    {
+      "title": "波兰科学院院士Jerzy Duszynski一行访问上海大学材料生物学研究所",
+      "url": "https://mbio.shu.edu.cn/info/1462/1961.htm",
+      "date": "2025-09-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学材料生物学研究所学术报告－心跳呼吸驱动的组织液全身性循环网络",
+      "url": "https://mbio.shu.edu.cn/info/1462/1841.htm",
+      "date": "2024-12-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Jwa-Min Nam等4位韩国学者访问上海大学材料生物研究所并做报告",
+      "url": "https://mbio.shu.edu.cn/info/1462/1811.htm",
+      "date": "2024-11-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学材料生物学研究所成立",
+      "url": "https://mbio.shu.edu.cn/info/1462/1751.htm",
+      "date": "2024-05-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学材料生物学研究所学术报告－先进节点高性能电子器件的精准组装",
+      "url": "https://mbio.shu.edu.cn/info/1462/1321.htm",
+      "date": "2023-08-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学材料生物学研究所学术报告-生物材料助力肿瘤免疫治疗：基础研究面向应用转化",
+      "url": "https://mbio.shu.edu.cn/info/1462/1331.htm",
+      "date": "2023-08-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院李江研究员及合作团队在《Nature Machine Intelligence》发表高水平成果",
+      "url": "https://mbio.shu.edu.cn/info/1452/1311.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院材料生物学研究所孙乐乐副教授及合作团队在《Angewandte Chemie International Edition》发表关于自佐剂DNA纳米结构用于高效亚单位疫苗构建的高水平综述论文",
+      "url": "https://mbio.shu.edu.cn/info/1452/1361.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院材料生物学研究所李江研究员及合作团队在《Advanced Materials》上发表最新研究成果",
+      "url": "https://mbio.shu.edu.cn/info/1452/1371.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院材料生物学研究所在原子精确的“超”稳定纳米机器领域取得重要进展",
+      "url": "https://mbio.shu.edu.cn/info/1452/1441.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院材料生物学研究所孙乐乐与苏州大学团队合作在《Angewandte Chemie International Edition》发表最新研究成果",
+      "url": "https://mbio.shu.edu.cn/info/1452/1451.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院材料生物学研究所诸颖研究员及合作团队在《Angewandte Chemie International Edition》上发表最新研究成果",
+      "url": "https://mbio.shu.edu.cn/info/1452/1681.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院材料生物学研究所诸颖研究员、王丽华研究员及合作团队在《Journal of the American Chemical Society》上发表最新研究成果",
+      "url": "https://mbio.shu.edu.cn/info/1452/1771.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学在框架核酸近红外荧光探针及手术导航方面取得重要进展",
+      "url": "https://mbio.shu.edu.cn/info/1452/1791.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学在人脑神经元高保真染色与X射线成像领域取得重要进展",
+      "url": "https://mbio.shu.edu.cn/info/1452/1931.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "Cell子刊：DNA水凝胶调控雌性生殖干细胞命运取得重要进展",
+      "url": "https://mbio.shu.edu.cn/info/1452/1941.htm",
+      "date": "",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学在同步辐射X射线全脑成像技术上取得重要突破",
+      "url": "https://mbio.shu.edu.cn/info/1452/1971.htm",
+      "date": "",
+      "column": "科研动态"
+    }
+  ]
 }

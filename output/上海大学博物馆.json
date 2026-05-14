@@ -2,17 +2,198 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20260513_175610",
-  "total_articles": 9,
+  "crawl_time": "20260514_004804",
+  "total_articles": 44,
   "columns": {
+    "新闻快递": 35,
     "通知公告": 9
   },
   "articles": [
+    {
+      "title": "展览推介 | 旗袍、方言与海派风华",
+      "url": "https://museum.shu.edu.cn/info/1030/5296.htm",
+      "date": "2026-03-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学博物馆3月旗袍展志愿讲解安排（3月13日-3月31日）",
+      "url": "https://museum.shu.edu.cn/info/1030/5276.htm",
+      "date": "2026-03-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "关于调整上海大学博物馆开放时间的公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5286.htm",
+      "date": "2026-03-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学博物馆2026年寒假开放公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5256.htm",
+      "date": "2026-01-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学博物馆2026年元旦假期开放公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5206.htm",
+      "date": "2025-12-31",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“何以新海派”展览开放信息更新啦！请查收这份参观指南",
+      "url": "https://museum.shu.edu.cn/info/1030/5166.htm",
+      "date": "2025-12-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "重磅展讯 | 上海大学美术馆“何以新海派”大展即将开幕",
+      "url": "https://museum.shu.edu.cn/info/1030/5156.htm",
+      "date": "2025-12-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "文创上新 | “玉见文明：良渚文化特展”惊喜上线！这枚文创印章，等你来解锁！",
+      "url": "https://museum.shu.edu.cn/info/1030/5146.htm",
+      "date": "2025-12-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学博物馆12月20日至21日临时闭馆公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5186.htm",
+      "date": "2025-12-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "博物馆新馆首展，“玉见文明：良渚文化特展”重磅来袭！",
+      "url": "https://museum.shu.edu.cn/info/1030/5176.htm",
+      "date": "2025-12-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "喜报 | “一战华工纪念及考古展”项目入选上海市革命文物保护利用优秀案例",
+      "url": "https://museum.shu.edu.cn/info/1030/5136.htm",
+      "date": "2025-12-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "馆校合作 | 思政共建新篇章：“大思政课”教学实践基地共建协议签约仪式举行",
+      "url": "https://museum.shu.edu.cn/info/1030/5106.htm",
+      "date": "2025-11-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "人才培养 | 2024级博物馆专硕“博物馆工作实务”课程启动",
+      "url": "https://museum.shu.edu.cn/info/1030/5086.htm",
+      "date": "2025-10-10",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学博物馆2025年国庆及中秋假期开放公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5076.htm",
+      "date": "2025-09-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "云展上新 | “斯文在兹：西南联大学人墨迹展” 线上展",
+      "url": "https://museum.shu.edu.cn/info/1030/5066.htm",
+      "date": "2025-09-25",
+      "column": "新闻快递"
+    },
     {
       "title": "关于开展2025年上海大学固定资产（文物和陈列品）清查盘点的通知",
       "url": "https://museum.shu.edu.cn/info/1112/5056.htm",
       "date": "2025-09-23",
       "column": "通知公告"
+    },
+    {
+      "title": "“文有上大，武有黄埔”，追忆上海大学的抗战足迹",
+      "url": "https://museum.shu.edu.cn/info/1030/5046.htm",
+      "date": "2025-08-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学中国海外文物研究中心与日本中国文物返还运动推进会举行会谈",
+      "url": "https://museum.shu.edu.cn/info/1030/5036.htm",
+      "date": "2025-08-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2025年暑假博物馆开放公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5026.htm",
+      "date": "2025-07-04",
+      "column": "新闻快递"
+    },
+    {
+      "title": "追寻斯文足迹，赓续使命担当——民盟市委机关总支参观“西南联大学人墨迹展”",
+      "url": "https://museum.shu.edu.cn/info/1030/5016.htm",
+      "date": "2025-06-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "重磅上新！上海大学联合三校推出西南联大特展",
+      "url": "https://museum.shu.edu.cn/info/1030/4966.htm",
+      "date": "2025-05-21",
+      "column": "新闻快递"
+    },
+    {
+      "title": "展览预告 | “斯文在兹：西南联大学人墨迹展”即将在上海大学博物馆举办",
+      "url": "https://museum.shu.edu.cn/info/1030/4876.htm",
+      "date": "2025-05-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2025年劳动节假期开放安排",
+      "url": "https://museum.shu.edu.cn/info/1030/4836.htm",
+      "date": "2025-04-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "SHUM记忆｜榴花燃霞，赤星挂枝照眼明——五月纪念印章上新",
+      "url": "https://museum.shu.edu.cn/info/1030/4846.htm",
+      "date": "2025-04-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "揭牌！上海玉器研究鉴定实验室在上海大学成立！",
+      "url": "https://museum.shu.edu.cn/info/1030/4806.htm",
+      "date": "2025-04-11",
+      "column": "新闻快递"
+    },
+    {
+      "title": "校党委第四巡察组专项巡察图书馆博物馆档案馆党委进驻动员会召开",
+      "url": "https://museum.shu.edu.cn/info/1030/4786.htm",
+      "date": "2025-04-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2025年清明节假期开放安排",
+      "url": "https://museum.shu.edu.cn/info/1030/4796.htm",
+      "date": "2025-04-03",
+      "column": "新闻快递"
+    },
+    {
+      "title": "博物馆获赠李岚清同志珍贵篆刻作品及文献资料",
+      "url": "https://museum.shu.edu.cn/info/1030/4546.htm",
+      "date": "2025-03-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "倒计时 | “战地黄花袅余香：一战华工纪念及考古展”还有最后一天",
+      "url": "https://museum.shu.edu.cn/info/1030/4556.htm",
+      "date": "2025-03-14",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“一战华工纪念及考古展”获评2024年度上海市博物馆陈列展精品推介",
+      "url": "https://museum.shu.edu.cn/info/1030/4516.htm",
+      "date": "2025-03-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学“黄宣佩考古与文博教育基金”捐赠仪式暨“宣佩书屋”启用典礼举行",
+      "url": "https://museum.shu.edu.cn/info/1030/4526.htm",
+      "date": "2025-03-07",
+      "column": "新闻快递"
     },
     {
       "title": "关于2024年上海大学固定资产（文物和陈列品）清查盘点的通知",
@@ -61,6 +242,36 @@
       "url": "https://museum.shu.edu.cn/info/1112/1922.htm",
       "date": "2015-09-01",
       "column": "通知公告"
+    },
+    {
+      "title": "陶飞亚馆长率队赴苏州大学博物馆调研",
+      "url": "https://museum.shu.edu.cn/info/1030/1478.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "博物馆获赠上大辩协书法",
+      "url": "https://museum.shu.edu.cn/info/1030/1479.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“青春是美丽的——巴金图片文献展”开幕",
+      "url": "https://museum.shu.edu.cn/info/1030/1480.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“青春是美丽的——巴金图片文献展”系列活动之读书会",
+      "url": "https://museum.shu.edu.cn/info/1030/1481.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我馆感谢上大辩协捐赠",
+      "url": "https://museum.shu.edu.cn/info/1030/1482.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
     }
   ]
 }

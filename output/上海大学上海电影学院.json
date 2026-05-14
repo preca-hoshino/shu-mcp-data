@@ -2,11 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260513_175610",
-  "total_articles": 1714,
+  "crawl_time": "20260514_004804",
+  "total_articles": 1739,
   "columns": {
     "讲座": 459,
-    "通知公告": 1255
+    "通知公告": 1255,
+    "新闻": 25
   },
   "articles": [
     {
@@ -88,6 +89,12 @@
       "column": "讲座"
     },
     {
+      "title": "2026VPC全国大学生虚拟制作大赛华东站研讨会暨华东赛区启动仪式成功举办",
+      "url": "https://mp.weixin.qq.com/s/3PVaixnRNmyF02msythT8w",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "「JUST」电影计划——2025纪录电影专题：'附近'与'陌生人'",
       "url": "https://mp.weixin.qq.com/s/3XKeP6gwchbMePsJoCMwJQ?scene=1&click_id=1",
       "date": "",
@@ -100,10 +107,28 @@
       "column": "讲座"
     },
     {
+      "title": "2026VPC全国大学生虚拟制作大赛华东站研讨会暨华东赛区启动仪式",
+      "url": "https://mp.weixin.qq.com/s/4-DmRWbONMQq_-wbx_GgZQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "“AI赋能科普短视频创作一日实战工坊暨上海电影学院AI赋能影像创研系列讲座”成功举办",
+      "url": "https://mp.weixin.qq.com/s/7ENOKSGdjEb7ewrdAsJ1dQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "上海大学上海电影学院2026年戏剧影视导演专业校考初试（线上考试）考生须知",
       "url": "https://mp.weixin.qq.com/s/7JRIE4Qxu_XChLaoAxL2OA",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "大型历史人文纪录片《大江南》放映分享会走进上海电影学院",
+      "url": "https://mp.weixin.qq.com/s/9N-ayypMrHmNt24NyOU3vQ",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "“光影视界”摄影专业系列讲座：用神牛光学点亮你的创作灵感",
@@ -136,6 +161,12 @@
       "column": "通知公告"
     },
     {
+      "title": "上海电影学院2026年春季招聘会用人单位邀请函",
+      "url": "https://mp.weixin.qq.com/s/FoAsHc92DlXHTw9ArLk9qQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "儿影百年 继承发展”讲座在上海电影学院举办",
       "url": "https://mp.weixin.qq.com/s/HGtfyGquZAXQ8kGR6TOgkw",
       "date": "",
@@ -148,6 +179,18 @@
       "column": "通知公告"
     },
     {
+      "title": "创作实践走进上海大学附属学校，创新优化美育教育路径",
+      "url": "https://mp.weixin.qq.com/s/I5CBJbqJa7iC4xr420jUVw",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "探岗寻职，逐梦未来——上海电影学院学生积极参加上海大学2026届招聘会",
+      "url": "https://mp.weixin.qq.com/s/IGUWEHI0eFdUFHL89jXvyA",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "《120年中国电影的起点：关于<定军山>及其他》讲座回顾",
       "url": "https://mp.weixin.qq.com/s/IovM8uyBKjEcWArrCWAUFQ",
       "date": "",
@@ -158,6 +201,18 @@
       "url": "https://mp.weixin.qq.com/s/IrJAxTWFWzmAHJPgK-X2Rw",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学上海电影学院青年教师联谊会分会圆满完成换届大会",
+      "url": "https://mp.weixin.qq.com/s/Iy5vhho_vEJKBA63j2cbjQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "青年教师徐响入选上海国际电影节SIFF ING青年新锐影像计划手机电影创作营",
+      "url": "https://mp.weixin.qq.com/s/KCzuuYpx1ZQWF90knKLB5A",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "电影音乐大师班《电影音乐创意传达：与作曲家的沟通艺术",
@@ -176,6 +231,12 @@
       "url": "https://mp.weixin.qq.com/s/L0BpbIRQNgSwgmgzKgU6gw",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "跨越重洋的影像接力：哥伦比亚大学东亚图书馆向上海电影学院捐赠珍贵数字档案",
+      "url": "https://mp.weixin.qq.com/s/LD2uYEW1tnr4AGHLFUTzfw",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "艺术技术融合创新系列讲座（上咖会2025年第2期）",
@@ -202,10 +263,22 @@
       "column": "讲座"
     },
     {
+      "title": "上海大学上海电影学院召开工青妇工作座谈会",
+      "url": "https://mp.weixin.qq.com/s/PzIVdW_PwN2hh5JwZXPxRQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "UST电影计划·学术活动《寻狗启事》《耳朵大有福》",
       "url": "https://mp.weixin.qq.com/s/QdMEvEA52bmHqkbjwJth-w",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "创作实践进校园，美育双向赋能",
+      "url": "https://mp.weixin.qq.com/s/Qx05vpBIsL4jWLPpsfzUfg",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海电影学院2026年春季招聘会学生邀请函",
@@ -310,6 +383,12 @@
       "column": "通知公告"
     },
     {
+      "title": "共话改革 共谋发展：上海电影学院行政党支部与财务处党支部联合开展政绩观学习教育",
+      "url": "https://mp.weixin.qq.com/s/aSFALQ5GncJEg8iUj6ZBIA",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "JUST电影计划NO.3《狩猎》预告：对话的可能",
       "url": "https://mp.weixin.qq.com/s/aYg0CcGM58kZvfmKnfsxBA",
       "date": "",
@@ -332,6 +411,12 @@
       "url": "https://mp.weixin.qq.com/s/c01Ip2WtPfgeyNLcrSdzdA",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "校企共探产教融合新路径——上海电影学院赴华为练秋湖研发中心调研交流",
+      "url": "https://mp.weixin.qq.com/s/cHCqABh08HBckiA6zgU4xQ",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "国家艺术基金2024年度人才培训资助项目“昆曲艺术数字化设计与创作人才培训”招生简章",
@@ -358,6 +443,12 @@
       "column": "通知公告"
     },
     {
+      "title": "2026年国家艺术基金传播交流推广资助项目“‘艺’起童年——中国儿童美术百年巡展”开幕",
+      "url": "https://mp.weixin.qq.com/s/evC1WSEufm8FygTJqBi0lw",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "华语电影在海外的接受与研究：历史回顾与展望",
       "url": "https://mp.weixin.qq.com/s/f5C-ondTgHhVpWFT5HdG2w",
       "date": "",
@@ -376,10 +467,22 @@
       "column": "通知公告"
     },
     {
+      "title": "2026年春季招聘会成功举办",
+      "url": "https://mp.weixin.qq.com/s/iMUHuZBiww5QiDWbpK0HxA",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "「JUST」电影计划——PTA电影回顾专题：《性本恶》学术交流",
       "url": "https://mp.weixin.qq.com/s/izCtU2AJIbWkdPF9dJF7qw?scene=1&click_id=3",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "学院教师舒浩仑执导的剧情长片《行走的夜》上映",
+      "url": "https://mp.weixin.qq.com/s/jqIy0JDBYHbipcTuuwVGFA",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "纪录片：通往他人和自我的钥匙",
@@ -424,6 +527,12 @@
       "column": "通知公告"
     },
     {
+      "title": "双向启幕!“AI高清视界”计划+短剧创作大赛！",
+      "url": "https://mp.weixin.qq.com/s/nKU46wGYhstooLDeAt2-kQ?scene=1&click_id=2",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "征片开启！2026上海大学AI短剧创作大赛细则发布！",
       "url": "https://mp.weixin.qq.com/s/ppVEvbywHLx96zAFN5YH2g",
       "date": "",
@@ -446,6 +555,12 @@
       "url": "https://mp.weixin.qq.com/s/qdbNPJBGUSHpvJ14CQvqSQ",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "汇聚专家智慧 谋划学科发展——上海电影学院召开戏剧与影视专业学位博士生培养与“十五五”规划专家咨询会",
+      "url": "https://mp.weixin.qq.com/s/qj4EWlGCkfBs5Ux0aHlb_A?scene=1&click_id=6",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "人工智能影视创意工程微专业2025年招生简章",
@@ -494,6 +609,12 @@
       "url": "https://mp.weixin.qq.com/s/vcnIau20lfTZ8z_9RBrFMw",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "法国电影工作坊“艺术电影的海外策略”顺利结束",
+      "url": "https://mp.weixin.qq.com/s/w0YQmqCYB3lJiFAcVCMZFA",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海大学上海电影学院2023年戏剧影视导演专业校考初试（线上考试）考生须知及操作流程",
@@ -3068,6 +3189,36 @@
       "url": "https://sfa.shu.edu.cn/info/1210/9844.htm",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "影视学院研究生积极参加全国助残日的志愿者活动",
+      "url": "https://sfa.shu.edu.cn/info/1211/3803.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "同舟共济 抗震救灾—我院志愿者在火车站为灾区募捐",
+      "url": "https://sfa.shu.edu.cn/info/1211/3804.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "解放日报报业集团社长尹明华先生受聘为我校兼职教授",
+      "url": "https://sfa.shu.edu.cn/info/1211/4203.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "影视学院21期入党积极分子培训班举行校外考察活动",
+      "url": "https://sfa.shu.edu.cn/info/1211/4205.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "影视学院学生党支部举行赈灾爱心义卖活动",
+      "url": "https://sfa.shu.edu.cn/info/1211/4206.htm",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海大学上海电影学院2024年面向港澳台研究生招生复试工作方案",

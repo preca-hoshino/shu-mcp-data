@@ -2,12 +2,253 @@
   "domain": "news.shu.edu.cn",
   "department": "上海大学新闻网",
   "type": "36",
-  "crawl_time": "20260513_175610",
-  "total_articles": 278,
+  "crawl_time": "20260514_004804",
+  "total_articles": 328,
   "columns": {
+    "文化信息": 50,
     "图片新闻": 278
   },
   "articles": [
+    {
+      "title": "薪火传承 —— 红色主题油画创作人才培训结业汇报展",
+      "url": "https://news.shu.edu.cn/info/1014/177235.htm",
+      "date": "2026-05-13",
+      "column": "文化信息"
+    },
+    {
+      "title": "2026上海美术学院毕业作品展",
+      "url": "https://news.shu.edu.cn/info/1014/177245.htm",
+      "date": "2026-05-13",
+      "column": "文化信息"
+    },
+    {
+      "title": "博物馆展览上新，“玉见文明：良渚文化特展”重磅来袭",
+      "url": "https://news.shu.edu.cn/info/1014/170095.htm",
+      "date": "2025-12-25",
+      "column": "文化信息"
+    },
+    {
+      "title": "何以新海派",
+      "url": "https://news.shu.edu.cn/info/1014/170105.htm",
+      "date": "2025-12-25",
+      "column": "文化信息"
+    },
+    {
+      "title": "从经验到算法——人工智能赋能新海派艺术研究展",
+      "url": "https://news.shu.edu.cn/info/1014/168805.htm",
+      "date": "2025-12-07",
+      "column": "文化信息"
+    },
+    {
+      "title": "叶尔羌河的回响——沪莎非遗文艺交流展",
+      "url": "https://news.shu.edu.cn/info/1014/168815.htm",
+      "date": "2025-12-07",
+      "column": "文化信息"
+    },
+    {
+      "title": "2025上海美术学院本科课程案例展",
+      "url": "https://news.shu.edu.cn/info/1014/165175.htm",
+      "date": "2025-10-24",
+      "column": "文化信息"
+    },
+    {
+      "title": "烽火岁月·青春回响 经典沪剧《芦荡火种》在我校上演",
+      "url": "https://news.shu.edu.cn/info/1014/162345.htm",
+      "date": "2025-09-15",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于第八届上海文化艺术奖拟推荐参评人员的公示(已结束）",
+      "url": "https://news.shu.edu.cn/info/1014/161795.htm",
+      "date": "2025-08-18",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于组织参加第八届上海高校网络文化节的通知",
+      "url": "https://news.shu.edu.cn/info/1014/161335.htm",
+      "date": "2025-07-15",
+      "column": "文化信息"
+    },
+    {
+      "title": "“丰碑永驻——上海大学纪念中国人民抗日战争暨 世界反法西斯战争胜利八十周年专题展览”",
+      "url": "https://news.shu.edu.cn/info/1014/159855.htm",
+      "date": "2025-06-25",
+      "column": "文化信息"
+    },
+    {
+      "title": "上海高校江南文化与海派文化育人联盟工作交流研讨会召开",
+      "url": "https://news.shu.edu.cn/info/1014/159595.htm",
+      "date": "2025-06-23",
+      "column": "文化信息"
+    },
+    {
+      "title": "展览预告 | “斯文在兹：西南联大学人墨迹展”即将在上海大学博物馆举办",
+      "url": "https://news.shu.edu.cn/info/1014/156295.htm",
+      "date": "2025-05-16",
+      "column": "文化信息"
+    },
+    {
+      "title": "“云上一公里”｜2025上海美术学院毕业作品展启幕",
+      "url": "https://news.shu.edu.cn/info/1014/155395.htm",
+      "date": "2025-05-12",
+      "column": "文化信息"
+    },
+    {
+      "title": "上海大学第十二届莎士比亚戏剧节暨2025年度大戏《威尼斯商人》",
+      "url": "https://news.shu.edu.cn/info/1014/155335.htm",
+      "date": "2025-05-09",
+      "column": "文化信息"
+    },
+    {
+      "title": "书香润心·智享未来 ——2025年“书香上大”全校阅读系列活动",
+      "url": "https://news.shu.edu.cn/info/1014/154405.htm",
+      "date": "2025-04-19",
+      "column": "文化信息"
+    },
+    {
+      "title": "2025上海之春国际音乐节——上海大学音乐学院艺术教学成果展示活动安排",
+      "url": "https://news.shu.edu.cn/info/1014/151995.htm",
+      "date": "2025-03-19",
+      "column": "文化信息"
+    },
+    {
+      "title": "我校在第七届全国大学生网络文化节取得优异成绩",
+      "url": "https://news.shu.edu.cn/info/1014/146425.htm",
+      "date": "2024-12-20",
+      "column": "文化信息"
+    },
+    {
+      "title": "展览预告 | 礼颂盛世 墨韵华章——陈志宏书画展",
+      "url": "https://news.shu.edu.cn/info/1014/146105.htm",
+      "date": "2024-12-16",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于上海大学第七届校园文化建设品牌的公示（公式已结束）",
+      "url": "https://news.shu.edu.cn/info/1014/145325.htm",
+      "date": "2024-12-06",
+      "column": "文化信息"
+    },
+    {
+      "title": "战地黄花袅余香：一战华工纪念及考古展",
+      "url": "https://news.shu.edu.cn/info/1014/144005.htm",
+      "date": "2024-11-27",
+      "column": "文化信息"
+    },
+    {
+      "title": "上海大学原创大师剧《钱伟长》重磅回归！",
+      "url": "https://news.shu.edu.cn/info/1014/142535.htm",
+      "date": "2024-11-12",
+      "column": "文化信息"
+    },
+    {
+      "title": "“自强不息——钱伟长的体育人生”主题展览",
+      "url": "https://news.shu.edu.cn/info/1014/138185.htm",
+      "date": "2024-10-08",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于组织参加第九届上海大学生公益广告大赛的通知",
+      "url": "https://news.shu.edu.cn/info/1014/135315.htm",
+      "date": "2024-09-02",
+      "column": "文化信息"
+    },
+    {
+      "title": "《抓铁有痕铸党魂——中国共产党早期纪律建设图片史料展》",
+      "url": "https://news.shu.edu.cn/info/1014/129605.htm",
+      "date": "2024-06-03",
+      "column": "文化信息"
+    },
+    {
+      "title": "上海大学上海电影学院2024毕业作品展演系列活动",
+      "url": "https://news.shu.edu.cn/info/1014/128805.htm",
+      "date": "2024-05-27",
+      "column": "文化信息"
+    },
+    {
+      "title": "“砥砺前行攀高峰 凝心聚力再发出”——上海大学学术论文成果展（1994-2024）",
+      "url": "https://news.shu.edu.cn/info/1014/128705.htm",
+      "date": "2024-05-24",
+      "column": "文化信息"
+    },
+    {
+      "title": "小品工作方法—以契诃夫的角色为例 菲利斯金斯基大师课",
+      "url": "https://news.shu.edu.cn/info/1014/127525.htm",
+      "date": "2024-05-16",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于申报上海大学第七届校园文化建设品牌的通知",
+      "url": "https://news.shu.edu.cn/info/1014/125245.htm",
+      "date": "2024-04-23",
+      "column": "文化信息"
+    },
+    {
+      "title": "阅读世界 悦见未来 ——2024年“书香上大”阅读系列活动",
+      "url": "https://news.shu.edu.cn/info/1014/125175.htm",
+      "date": "2024-04-22",
+      "column": "文化信息"
+    },
+    {
+      "title": "2024上海之春国际音乐节——上海大学音乐学院艺术教学成果展示活动安排",
+      "url": "https://news.shu.edu.cn/info/1014/122805.htm",
+      "date": "2024-03-25",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于开展上海法治文化作品征集的通知",
+      "url": "https://news.shu.edu.cn/info/1014/121635.htm",
+      "date": "2024-03-12",
+      "column": "文化信息"
+    },
+    {
+      "title": "“青铜之光：三星堆与罗丹的超时空对话”特展上新并延展至3月15日",
+      "url": "https://news.shu.edu.cn/info/1014/117845.htm",
+      "date": "2024-01-05",
+      "column": "文化信息"
+    },
+    {
+      "title": "关于组织参加第七届上海网络文化节通知",
+      "url": "https://news.shu.edu.cn/info/1014/114325.htm",
+      "date": "2023-12-11",
+      "column": "文化信息"
+    },
+    {
+      "title": "城市·人物——全国高等艺术院校人物画教学与创作师生作品展",
+      "url": "https://news.shu.edu.cn/info/1014/112165.htm",
+      "date": "2023-11-22",
+      "column": "文化信息"
+    },
+    {
+      "title": "“新海派 新动力”上海美术学院青年教师作品展",
+      "url": "https://news.shu.edu.cn/info/1014/112175.htm",
+      "date": "2023-11-22",
+      "column": "文化信息"
+    },
+    {
+      "title": "预告 | “不忘初心 巾帼育才 奋进新时代” 2023年上海大学女教授创新发展论坛",
+      "url": "https://news.shu.edu.cn/info/1014/110325.htm",
+      "date": "2023-11-10",
+      "column": "文化信息"
+    },
+    {
+      "title": "中国残疾人艺术团音乐舞蹈诗《我的梦》上海大学专场演出圆满落幕",
+      "url": "https://news.shu.edu.cn/info/1014/109205.htm",
+      "date": "2023-11-02",
+      "column": "文化信息"
+    },
+    {
+      "title": "高雅特殊艺术进校园----中国残疾人艺术团音乐舞蹈诗《我的梦》 上海大学专场演出预告",
+      "url": "https://news.shu.edu.cn/info/1014/108015.htm",
+      "date": "2023-10-25",
+      "column": "文化信息"
+    },
+    {
+      "title": "“光影中国”德艺双馨讲坛第十二期暨电影《志愿军：雄兵出击》观影会预告",
+      "url": "https://news.shu.edu.cn/info/1014/105475.htm",
+      "date": "2023-10-08",
+      "column": "文化信息"
+    },
     {
       "title": "上海大学与孔子学院外方合作学校参加第十一届全球孔子学院大会",
       "url": "https://news.shu.edu.cn/info/1015/2662.htm",
@@ -1425,6 +1666,12 @@
       "column": "图片新闻"
     },
     {
+      "title": "5-6月交响乐优惠票",
+      "url": "https://news.shu.edu.cn/info/1014/46052.htm",
+      "date": "2013-05-13",
+      "column": "文化信息"
+    },
+    {
       "title": "翁铁慧副市长一行来我校调研",
       "url": "https://news.shu.edu.cn/info/1015/5020.htm",
       "date": "2013-05-09",
@@ -1461,6 +1708,18 @@
       "column": "图片新闻"
     },
     {
+      "title": "2013年西部志愿者报名开始啦！",
+      "url": "https://news.shu.edu.cn/info/1014/46050.htm",
+      "date": "2013-04-22",
+      "column": "文化信息"
+    },
+    {
+      "title": "“青春是美丽的——巴金图片文献展”系列活动",
+      "url": "https://news.shu.edu.cn/info/1014/46051.htm",
+      "date": "2013-04-22",
+      "column": "文化信息"
+    },
+    {
       "title": "全国数学科普论坛在我校举行",
       "url": "https://news.shu.edu.cn/info/1015/5053.htm",
       "date": "2013-04-16",
@@ -1477,6 +1736,24 @@
       "url": "https://news.shu.edu.cn/info/1015/5051.htm",
       "date": "2013-04-09",
       "column": "图片新闻"
+    },
+    {
+      "title": "上海大学科技馆志愿者活动开始报名",
+      "url": "https://news.shu.edu.cn/info/1014/46049.htm",
+      "date": "2013-04-08",
+      "column": "文化信息"
+    },
+    {
+      "title": "健身舞协会培训通知",
+      "url": "https://news.shu.edu.cn/info/1014/46123.htm",
+      "date": "2013-04-08",
+      "column": "文化信息"
+    },
+    {
+      "title": "“我的中国梦”主题征文活动",
+      "url": "https://news.shu.edu.cn/info/1014/46048.htm",
+      "date": "2013-04-07",
+      "column": "文化信息"
     },
     {
       "title": "上海大学三届七次“双代会”闭幕",
@@ -1497,6 +1774,12 @@
       "column": "图片新闻"
     },
     {
+      "title": "青年大提琴演奏家耿文彬大提琴独奏音乐会免费入场券",
+      "url": "https://news.shu.edu.cn/info/1014/46047.htm",
+      "date": "2013-04-01",
+      "column": "文化信息"
+    },
+    {
       "title": "2013年上海大学职能部门工作目标签字仪式举行",
       "url": "https://news.shu.edu.cn/info/1015/5046.htm",
       "date": "2013-03-29",
@@ -1507,6 +1790,12 @@
       "url": "https://news.shu.edu.cn/info/1015/5047.htm",
       "date": "2013-03-29",
       "column": "图片新闻"
+    },
+    {
+      "title": "上海市社会科学界联合会成立55周年有奖知识竞赛",
+      "url": "https://news.shu.edu.cn/info/1014/46046.htm",
+      "date": "2013-03-28",
+      "column": "文化信息"
     },
     {
       "title": "我校举行林野名誉教授授证仪式暨学术报告会",
@@ -1527,6 +1816,12 @@
       "column": "图片新闻"
     },
     {
+      "title": "沪剧《挑山女人》即将献演伟长楼",
+      "url": "https://news.shu.edu.cn/info/1014/46045.htm",
+      "date": "2013-03-14",
+      "column": "文化信息"
+    },
+    {
       "title": "海南大学党委书记刘康德一行来我校调研",
       "url": "https://news.shu.edu.cn/info/1015/5042.htm",
       "date": "2013-03-13",
@@ -1537,6 +1832,12 @@
       "url": "https://news.shu.edu.cn/info/1015/5041.htm",
       "date": "2013-03-12",
       "column": "图片新闻"
+    },
+    {
+      "title": "天蟾逸夫舞台[昆剧]惠民公益专场优惠票代售",
+      "url": "https://news.shu.edu.cn/info/1014/46044.htm",
+      "date": "2013-03-11",
+      "column": "文化信息"
     },
     {
       "title": "哈萨克斯坦共和国驻华大使一行访问上海大学",

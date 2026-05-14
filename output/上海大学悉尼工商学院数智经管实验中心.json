@@ -2,10 +2,11 @@
   "domain": "silclab.shu.edu.cn",
   "department": "上海大学悉尼工商学院数智经管实验中心",
   "type": "20",
-  "crawl_time": "20260513_175610",
-  "total_articles": 8,
+  "crawl_time": "20260514_004804",
+  "total_articles": 13,
   "columns": {
     "中心新闻": 4,
+    "通知公告": 5,
     "成果展示": 4
   },
   "articles": [
@@ -22,6 +23,18 @@
       "column": "中心新闻"
     },
     {
+      "title": "道路施工期间进出实验室路线通知2024-05-22",
+      "url": "https://silclab.shu.edu.cn/info/1321/1121.htm",
+      "date": "2024-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "停电通知2024-05-21",
+      "url": "https://silclab.shu.edu.cn/info/1321/1151.htm",
+      "date": "2024-05-21",
+      "column": "通知公告"
+    },
+    {
       "title": "无人巡检车助力隧道健康检测2024-05-21",
       "url": "https://silclab.shu.edu.cn/info/1331/1181.htm",
       "date": "2024-05-21",
@@ -32,6 +45,24 @@
       "url": "https://silclab.shu.edu.cn/info/1311/1081.htm",
       "date": "2024-05-18",
       "column": "中心新闻"
+    },
+    {
+      "title": "考试周机房安排通知2024-05-10",
+      "url": "https://silclab.shu.edu.cn/info/1321/1111.htm",
+      "date": "2024-05-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好劳动节假期间实验室安全工作的通知2024-04-30",
+      "url": "https://silclab.shu.edu.cn/info/1321/1141.htm",
+      "date": "2024-04-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织参加 2024年高校实验室安全工作培训会的通知2024-04-23",
+      "url": "https://silclab.shu.edu.cn/info/1321/1131.htm",
+      "date": "2024-04-23",
+      "column": "通知公告"
     },
     {
       "title": "眼动仪使用及行为仿真实验设计培训2024-03-21",

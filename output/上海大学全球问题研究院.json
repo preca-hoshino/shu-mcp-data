@@ -2,11 +2,12 @@
   "domain": "igs.shu.edu.cn",
   "department": "上海大学全球问题研究院",
   "type": "27",
-  "crawl_time": "20260513_175610",
-  "total_articles": 356,
+  "crawl_time": "20260514_004804",
+  "total_articles": 385,
   "columns": {
     "新闻中心": 56,
-    "学术热点": 300
+    "学术热点": 306,
+    "通知公告": 23
   },
   "articles": [
     {
@@ -50,6 +51,12 @@
       "url": "https://igs.shu.edu.cn/info/1012/6950.htm",
       "date": "2025-12-17",
       "column": "新闻中心"
+    },
+    {
+      "title": "会议预告｜Decolonizing Knowledge Production and Circulation",
+      "url": "https://igs.shu.edu.cn/info/1011/6940.htm",
+      "date": "2025-11-15",
+      "column": "通知公告"
     },
     {
       "title": "【国际合作】上海大学与莫斯科大学深化全球问题研究合作",
@@ -100,10 +107,28 @@
       "column": "新闻中心"
     },
     {
+      "title": "会议通知｜“万隆会议——70年后的南南合作”学术研讨会",
+      "url": "https://igs.shu.edu.cn/info/1011/6710.htm",
+      "date": "2025-06-19",
+      "column": "通知公告"
+    },
+    {
       "title": "【学术会议】“大国竞争与中东”国际学术研讨会在伊斯坦布尔成功举行",
       "url": "https://igs.shu.edu.cn/info/1012/6720.htm",
       "date": "2025-06-19",
       "column": "新闻中心"
+    },
+    {
+      "title": "【会议议程】第二届中国-土耳其学术合作论坛",
+      "url": "https://igs.shu.edu.cn/info/1011/6690.htm",
+      "date": "2025-06-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "【会议议程】第九届上海中东学论坛",
+      "url": "https://igs.shu.edu.cn/info/1011/6700.htm",
+      "date": "2025-06-05",
+      "column": "通知公告"
     },
     {
       "title": "【公共外交】中心博士生叶章旭参加中国驻土耳其大使馆招待会",
@@ -116,6 +141,12 @@
       "url": "https://igs.shu.edu.cn/info/1013/6680.htm",
       "date": "2025-04-27",
       "column": "学术热点"
+    },
+    {
+      "title": "会议预告｜第九届“上海中东学论坛”征稿启事",
+      "url": "https://igs.shu.edu.cn/info/1011/6650.htm",
+      "date": "2025-04-13",
+      "column": "通知公告"
     },
     {
       "title": "Serdar Yurtçiçek｜The international system through China’s eyes: An in-depth interview with academics in Shanghai, Hangzhou, and Beijing",
@@ -158,6 +189,12 @@
       "url": "https://igs.shu.edu.cn/info/1013/6600.htm",
       "date": "2024-11-14",
       "column": "学术热点"
+    },
+    {
+      "title": "工作坊｜事关空间：作为一个全球史核心概念的空间性及其不同的在地表现",
+      "url": "https://igs.shu.edu.cn/info/1011/6570.htm",
+      "date": "2024-10-26",
+      "column": "通知公告"
     },
     {
       "title": "【期刊论文】土耳其中心博士生Hasan Aydin与刘义教授在《Insight Turkey》上发表学术论文",
@@ -250,6 +287,18 @@
       "column": "学术热点"
     },
     {
+      "title": "Workshop｜The Turkish Press in the New Political Era after the Elections",
+      "url": "https://igs.shu.edu.cn/info/1011/6200.htm",
+      "date": "2024-04-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告｜Rajiv Ranjan:China-India Relations: Past, Present and Future",
+      "url": "https://igs.shu.edu.cn/info/1011/6190.htm",
+      "date": "2024-04-15",
+      "column": "通知公告"
+    },
+    {
       "title": "杜东辉｜反思传统范式:小许理和《土耳其现代史》述评",
       "url": "https://igs.shu.edu.cn/info/1013/6170.htm",
       "date": "2024-04-13",
@@ -298,6 +347,18 @@
       "column": "学术热点"
     },
     {
+      "title": "讲座预告｜黄民兴：中东历史上的经济与文明",
+      "url": "https://igs.shu.edu.cn/info/1011/5870.htm",
+      "date": "2023-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告｜Veronica Gimenez Beliveau:文明互鉴视域下阿根廷的减贫与发展",
+      "url": "https://igs.shu.edu.cn/info/1011/5740.htm",
+      "date": "2023-11-06",
+      "column": "通知公告"
+    },
+    {
       "title": "杨晨：The Palestine Conflict in global context and China’s perspective on it",
       "url": "https://igs.shu.edu.cn/info/1013/5650.htm",
       "date": "2023-11-01",
@@ -308,6 +369,36 @@
       "url": "https://igs.shu.edu.cn/info/1013/5660.htm",
       "date": "2023-11-01",
       "column": "学术热点"
+    },
+    {
+      "title": "讲座预告｜Veronica Gimenez Beliveau:从全球视野研究拉丁美洲:三国边界地区",
+      "url": "https://igs.shu.edu.cn/info/1011/5610.htm",
+      "date": "2023-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "工作坊｜Mutual Learning of Chinese and Turkish Civilizations",
+      "url": "https://igs.shu.edu.cn/info/1011/5620.htm",
+      "date": "2023-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告｜马晓霖：纵论中东战争与和平",
+      "url": "https://igs.shu.edu.cn/info/1011/5600.htm",
+      "date": "2023-10-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告|| Zalzadeh Mahdi:BRI in the Iranian Social Media",
+      "url": "https://igs.shu.edu.cn/info/1011/5339.htm",
+      "date": "2023-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告|| Sergio Gonzalez Miranda：“和谐线”简史：秘鲁与智利的双边关系（1884-2014）",
+      "url": "https://igs.shu.edu.cn/info/1011/5069.htm",
+      "date": "2023-05-29",
+      "column": "通知公告"
     },
     {
       "title": "土耳其中心主任郭长刚教授接受CRI采访",
@@ -338,6 +429,12 @@
       "url": "https://igs.shu.edu.cn/info/1013/4899.htm",
       "date": "2023-05-08",
       "column": "学术热点"
+    },
+    {
+      "title": "讲座预告||周戎：土耳其与中国周边国家关系",
+      "url": "https://igs.shu.edu.cn/info/1011/4869.htm",
+      "date": "2023-05-05",
+      "column": "通知公告"
     },
     {
       "title": "外交部发言人谈拉美（2023年4月）",
@@ -382,10 +479,22 @@
       "column": "学术热点"
     },
     {
+      "title": "研讨会|| 如何进一步推动中国与巴西的关系",
+      "url": "https://igs.shu.edu.cn/info/1011/4679.htm",
+      "date": "2023-04-14",
+      "column": "通知公告"
+    },
+    {
       "title": "张琨：“全球文明倡议”视野下的拉丁美洲与中拉关系",
       "url": "https://igs.shu.edu.cn/info/1013/4609.htm",
       "date": "2023-04-11",
       "column": "学术热点"
+    },
+    {
+      "title": "讲座预告||阿尤布·撒勒塔史：土耳其汉学研究",
+      "url": "https://igs.shu.edu.cn/info/1011/4559.htm",
+      "date": "2023-04-06",
+      "column": "通知公告"
     },
     {
       "title": "外交部发言人谈拉美（2023年3月）",
@@ -416,6 +525,18 @@
       "url": "https://igs.shu.edu.cn/info/1013/4289.htm",
       "date": "2023-03-14",
       "column": "学术热点"
+    },
+    {
+      "title": "会议通知|欢迎参加亚洲大洋洲地区拉丁美洲研究理事会（CELAO)第九届学术大会",
+      "url": "https://igs.shu.edu.cn/info/1011/4249.htm",
+      "date": "2023-03-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "Convocatoria para participar en el IX Congreso de CELAO  sobre Estudios Latinoamericanos",
+      "url": "https://igs.shu.edu.cn/info/1011/4279.htm",
+      "date": "2023-03-13",
+      "column": "通知公告"
     },
     {
       "title": "杨晨：Middle East looks to the East and China to the West",
@@ -2110,6 +2231,48 @@
       "column": "学术热点"
     },
     {
+      "title": "【圆桌】大选后土耳其稳中有变，埃尔多安连任对中国利大于弊",
+      "url": "https://igs.shu.edu.cn/info/1013/1025.htm",
+      "date": "2018-06-27",
+      "column": "学术热点"
+    },
+    {
+      "title": "【讲座通知】Peronism and the Labor Union",
+      "url": "https://igs.shu.edu.cn/info/1011/1033.htm",
+      "date": "2018-06-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "郭长刚：埃尔多安胜选实属意料之中",
+      "url": "https://igs.shu.edu.cn/info/1013/1021.htm",
+      "date": "2018-06-26",
+      "column": "学术热点"
+    },
+    {
+      "title": "【观点】土耳其大选不眠夜：埃尔多安为何又赢了？",
+      "url": "https://igs.shu.edu.cn/info/1013/1023.htm",
+      "date": "2018-06-25",
+      "column": "学术热点"
+    },
+    {
+      "title": "杨晨：土耳其为何提前17个月举行大选？",
+      "url": "https://igs.shu.edu.cn/info/1013/1031.htm",
+      "date": "2018-05-10",
+      "column": "学术热点"
+    },
+    {
+      "title": "【讲座预告】墨西哥学者谈全球秩序的变革",
+      "url": "https://igs.shu.edu.cn/info/1011/1157.htm",
+      "date": "2018-04-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "【会议征稿】全球六十年代：全球意识与跨国互通",
+      "url": "https://igs.shu.edu.cn/info/1011/1012.htm",
+      "date": "2017-11-30",
+      "column": "通知公告"
+    },
+    {
       "title": "土耳其记者友好代表团访问上海大学土耳其研究中心",
       "url": "https://igs.shu.edu.cn/info/1012/1043.htm",
       "date": "2017-11-30",
@@ -2138,6 +2301,18 @@
       "url": "https://igs.shu.edu.cn/info/1012/1048.htm",
       "date": "2017-05-30",
       "column": "新闻中心"
+    },
+    {
+      "title": "王三义：帝国与帝制：张鸣教授的见解",
+      "url": "https://igs.shu.edu.cn/info/1013/1029.htm",
+      "date": "2017-04-24",
+      "column": "学术热点"
+    },
+    {
+      "title": "BRITISH ANNEXATION OF SINDH: THE OPIUM ECONOMY FACTOR",
+      "url": "https://igs.shu.edu.cn/info/1013/1425.htm",
+      "date": "2016-08-13",
+      "column": "学术热点"
     },
     {
       "title": "上海大学全球学研究中心与阿根廷方面合作设立“中-阿联合研究中心”",

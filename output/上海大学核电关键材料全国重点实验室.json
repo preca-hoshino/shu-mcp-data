@@ -2,13 +2,12 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260513_195202",
-  "total_articles": 20,
+  "crawl_time": "20260514_004804",
+  "total_articles": 19,
   "columns": {
     "新闻资讯": 7,
     "通知公告": 7,
     "研究成果": 4,
-    "开放课题": 1,
     "招生招聘": 1
   },
   "articles": [
@@ -107,12 +106,6 @@
       "url": "https://mp.weixin.qq.com/s/S5f5nAKok0SN0DIcvGFrKA",
       "date": "2025-11-25",
       "column": "新闻资讯"
-    },
-    {
-      "title": "核电关键材料全国重点实验室2025年开放课题申请指南",
-      "url": "https://skl4nm.shu.edu.cn/info/1071/1161.htm",
-      "date": "2025-11-25",
-      "column": "开放课题"
     },
     {
       "title": "2025年上海高校青年学者论坛上海大学材料前沿专场会议通知",

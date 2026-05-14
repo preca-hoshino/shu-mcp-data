@@ -2,11 +2,11 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260513_175610",
-  "total_articles": 403,
+  "crawl_time": "20260514_004804",
+  "total_articles": 424,
   "columns": {
-    "后勤新闻": 303,
-    "通知公告": 100
+    "后勤新闻": 313,
+    "通知公告": 111
   },
   "articles": [
     {
@@ -118,15 +118,81 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学超市及便利店服务用房招租项目失败公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9646.htm",
+      "date": "2026-03-03",
+      "column": "通知公告"
+    },
+    {
       "title": "后勤保障部召开2026年工作推进会",
       "url": "https://hbb.shu.edu.cn/info/1081/9776.htm",
       "date": "2026-03-03",
       "column": "后勤新闻"
     },
     {
+      "title": "上海大学超市及便利店服务用房招租项目招租公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9636.htm",
+      "date": "2026-02-10",
+      "column": "通知公告"
+    },
+    {
       "title": "上海高校后勤服务股份有限公司与上海大学后勤保障部开展交流座谈会",
       "url": "https://hbb.shu.edu.cn/info/1081/9766.htm",
       "date": "2026-01-30",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学党委常委、副校长王从春慰问后勤保障部困难教职工",
+      "url": "https://hbb.shu.edu.cn/info/1081/9756.htm",
+      "date": "2026-01-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海大学宝山校区书店商铺招租项目 招租结果更正公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9626.htm",
+      "date": "2026-01-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "“绿叶”亦有光华  ---走近五位后勤保障部2025年度“泮池绿叶”人物奖得主",
+      "url": "https://hbb.shu.edu.cn/info/1081/9496.htm",
+      "date": "2026-01-19",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "2026年度嘉定校区10KV预防性试验及系统维保服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9206.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学宝山校区35KV总降站电力系统检测试验服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9216.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学宝山校区MR有载调压开关年度保养与检修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9226.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学延长校区10KV、35KV变电站预防性试验服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9236.htm",
+      "date": "2026-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部党委关于校第四届党委第二轮巡察集中整改进展情况的通报",
+      "url": "https://hbb.shu.edu.cn/info/1005/9196.htm",
+      "date": "2026-01-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "每一个声音 我们用心聆听|上海大学第九届后勤恳谈会开展",
+      "url": "https://hbb.shu.edu.cn/info/1081/9416.htm",
+      "date": "2025-12-29",
       "column": "后勤新闻"
     },
     {
@@ -154,6 +220,18 @@
       "column": "通知公告"
     },
     {
+      "title": "2026年度上海大学延长校区10KV、35KV变压器年度维保服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9166.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度上海大学延长校区宿舍开水器维保维修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/9176.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
       "title": "上海大学宝山校区部分商铺招租项目 招租结果公告（包件三）",
       "url": "https://hbb.shu.edu.cn/info/1005/9056.htm",
       "date": "2025-12-16",
@@ -164,6 +242,24 @@
       "url": "https://hbb.shu.edu.cn/info/1005/9086.htm",
       "date": "2025-12-16",
       "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部举行2025年度领导班子和干部考核周边满意度测评会",
+      "url": "https://hbb.shu.edu.cn/info/1081/9026.htm",
+      "date": "2025-12-12",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部举办科级干部培训结业汇报暨“阅读·悦心”读书会成立和青年员工工作交流会",
+      "url": "https://hbb.shu.edu.cn/info/1081/9016.htm",
+      "date": "2025-12-03",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部2025年棋牌比赛顺利开展",
+      "url": "https://hbb.shu.edu.cn/info/1081/9006.htm",
+      "date": "2025-12-01",
+      "column": "后勤新闻"
     },
     {
       "title": "上海大学车辆（大型普通客车）购置项目采购公告",
@@ -184,10 +280,34 @@
       "column": "通知公告"
     },
     {
+      "title": "九九重阳节 福满金秋至——后勤保障部举办敬老月活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/8676.htm",
+      "date": "2025-11-05",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部嘉定校区党支部组织观看电影《志愿者-浴血和平》",
+      "url": "https://hbb.shu.edu.cn/info/1081/8566.htm",
+      "date": "2025-10-23",
+      "column": "后勤新闻"
+    },
+    {
       "title": "2025年上海大学宝山校区银杏种植服务项目公告",
       "url": "https://hbb.shu.edu.cn/info/1005/8506.htm",
       "date": "2025-10-13",
       "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部党委召开深入贯彻中央八项规定精神学习教育专题党课暨警示教育会",
+      "url": "https://hbb.shu.edu.cn/info/1081/8416.htm",
+      "date": "2025-07-01",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部党委举办“光荣在党50年”纪念章颁发仪式暨座谈会",
+      "url": "https://hbb.shu.edu.cn/info/1081/8396.htm",
+      "date": "2025-06-27",
+      "column": "后勤新闻"
     },
     {
       "title": "上海大学后勤保障部开展财务报销专题培训",
@@ -2426,6 +2546,12 @@
       "url": "https://hbb.shu.edu.cn/info/1081/1101.htm",
       "date": "2020-10-26",
       "column": "后勤新闻"
+    },
+    {
+      "title": "宝山校区停电通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1085.htm",
+      "date": "2020-09-13",
+      "column": "通知公告"
     }
   ]
 }

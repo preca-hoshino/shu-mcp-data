@@ -2,10 +2,10 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 677,
+  "crawl_time": "20260514_004804",
+  "total_articles": 682,
   "columns": {
-    "通知公告": 100,
+    "通知公告": 105,
     "最新动态": 362,
     "学术报告": 215
   },
@@ -4005,6 +4005,36 @@
       "url": "https://qwc.shu.edu.cn/info/1088/2575.htm",
       "date": "2015-06-29",
       "column": "学术报告"
+    },
+    {
+      "title": "钱伟长学院2014-2015学年寒假“经典阅读”项目通知",
+      "url": "https://qwc.shu.edu.cn/info/1086/2162.htm",
+      "date": "2015-04-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "钱伟长学院关于做好2015年优秀毕业生评选工作的通知",
+      "url": "https://qwc.shu.edu.cn/info/1086/2163.htm",
+      "date": "2015-04-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学钱伟长学院2015届优秀毕业生评选公示",
+      "url": "https://qwc.shu.edu.cn/info/1086/2164.htm",
+      "date": "2015-04-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "“缅怀钱老，爱国荣校”征文通知",
+      "url": "https://qwc.shu.edu.cn/info/1086/2165.htm",
+      "date": "2015-04-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2014—2015年度上海大学百名优秀团员、十佳团支部书记评选的通知",
+      "url": "https://qwc.shu.edu.cn/info/1086/2166.htm",
+      "date": "2015-04-19",
+      "column": "通知公告"
     },
     {
       "title": "钱伟长学院13级2班春季学期首日班级踏青活动顺利开展",

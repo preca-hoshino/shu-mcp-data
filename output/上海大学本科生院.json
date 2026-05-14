@@ -2,13 +2,26 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260513_175610",
-  "total_articles": 1756,
+  "crawl_time": "20260514_004804",
+  "total_articles": 1784,
   "columns": {
-    "通知公告": 1699,
+    "新闻动态": 29,
+    "通知公告": 1698,
     "政策文件": 57
   },
   "articles": [
+    {
+      "title": "喜报！我校在第六届上海市高校教师教学创新大赛中获多项奖项",
+      "url": "https://bksy.shu.edu.cn/info/1016/320534.htm",
+      "date": "2026-05-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办“上海大学示范性本科课堂”《商业空间设计B》教学观摩活动",
+      "url": "https://bksy.shu.edu.cn/info/1016/320504.htm",
+      "date": "2026-05-09",
+      "column": "新闻动态"
+    },
     {
       "title": "2026-2027学年秋季学期本科生选课通知",
       "url": "https://bksy.shu.edu.cn/info/1015/320424.htm",
@@ -28,6 +41,24 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学生命科学学院第十五届大学生创新论坛圆满落幕",
+      "url": "https://bksy.shu.edu.cn/info/1016/320364.htm",
+      "date": "2026-04-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通识示范课公开课《音乐与科技》开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/320384.htm",
+      "date": "2026-04-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办“上海高校示范性本科课堂”《智能控制》教学观摩活动",
+      "url": "https://bksy.shu.edu.cn/info/1016/320404.htm",
+      "date": "2026-04-30",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于举办2026年上海大学第七届“力与美”基础创新赛的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/320334.htm",
       "date": "2026-04-29",
@@ -40,10 +71,28 @@
       "column": "通知公告"
     },
     {
+      "title": "通识示范课公开课《鲁迅与当代中国》开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/320304.htm",
+      "date": "2026-04-27",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于开展2026年度本科生转专业报名工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/320284.htm",
       "date": "2026-04-24",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学与国元证券深化校企合作 共谱协同育人新篇章",
+      "url": "https://bksy.shu.edu.cn/info/1016/320274.htm",
+      "date": "2026-04-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "祝贺！我校“艺乡人”项目斩获首届全国高校创新转化大赛总决赛金奖！",
+      "url": "https://bksy.shu.edu.cn/info/1016/320264.htm",
+      "date": "2026-04-23",
+      "column": "新闻动态"
     },
     {
       "title": "关于公布上海大学2026年度校级大学生创新训练计划项目立项结果的通知",
@@ -68,6 +117,18 @@
       "url": "https://bksy.shu.edu.cn/info/1015/320194.htm",
       "date": "2026-04-15",
       "column": "通知公告"
+    },
+    {
+      "title": "媒体视角|沪上高校爱情课为什么长红不衰？",
+      "url": "http://sh.people.com.cn/n2/2026/0413/c134768-41550997.html",
+      "date": "2026-04-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（艺术类专场）",
+      "url": "https://bksy.shu.edu.cn/info/1016/320164.htm",
+      "date": "2026-04-14",
+      "column": "新闻动态"
     },
     {
       "title": "关于举办第十四届上海大学大学生结构设计竞赛暨第九届上海市大学生结构设计竞赛校内选拔赛的通知",
@@ -104,6 +165,12 @@
       "url": "https://bksy.shu.edu.cn/info/1015/320134.htm",
       "date": "2026-04-09",
       "column": "通知公告"
+    },
+    {
+      "title": "通识示范课公开课《品牌与传播智慧》开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/320084.htm",
+      "date": "2026-04-09",
+      "column": "新闻动态"
     },
     {
       "title": "关于举办2026年上海大学化学实验竞赛暨“第20届上海大学生化学实验竞赛”选拔赛的通知",
@@ -166,6 +233,12 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（人文社科类专场）",
+      "url": "https://bksy.shu.edu.cn/info/1016/319904.htm",
+      "date": "2026-03-23",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于举办2026年全国大学生统计建模大赛上海大学校赛的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/319864.htm",
       "date": "2026-03-20",
@@ -182,6 +255,48 @@
       "url": "https://bksy.shu.edu.cn/info/1015/319844.htm",
       "date": "2026-03-19",
       "column": "通知公告"
+    },
+    {
+      "title": "通识示范课公开课《爱情社会学》开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/319744.htm",
+      "date": "2026-03-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（经管类专场）",
+      "url": "https://bksy.shu.edu.cn/info/1016/319764.htm",
+      "date": "2026-03-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办ISW/FDW认证培训师发展研讨会暨教师人工智能培训需求研讨会",
+      "url": "https://bksy.shu.edu.cn/info/1016/319464.htm",
+      "date": "2026-01-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办人文社科、艺术、经管类学院人工智能赋能教学研讨会",
+      "url": "https://bksy.shu.edu.cn/info/1016/319484.htm",
+      "date": "2026-01-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以产教融合为引领 政校企携手共推学生实训基地建设",
+      "url": "https://bksy.shu.edu.cn/info/1016/319364.htm",
+      "date": "2026-01-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校领导带队开展2025-2026学年秋季学期期末考试巡考",
+      "url": "https://bksy.shu.edu.cn/info/1016/319344.htm",
+      "date": "2026-01-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学“创新中国”2.0第五课“高端装备与智能制造”开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/319214.htm",
+      "date": "2025-12-27",
+      "column": "新闻动态"
     },
     {
       "title": "关于印发《上海大学关于晋升教授、副教授教师的本科教学水平评价办法》的通知",
@@ -620,6 +735,12 @@
       "url": "https://bksy.shu.edu.cn/info/1015/315674.htm",
       "date": "2025-03-12",
       "column": "通知公告"
+    },
+    {
+      "title": "学校正式发布《2023-2024学年上海大学本科教育教学质量报告》",
+      "url": "https://bksy.shu.edu.cn/info/1016/315284.htm",
+      "date": "2025-01-06",
+      "column": "新闻动态"
     },
     {
       "title": "​2024年本科生学生手册",
@@ -6148,12 +6269,6 @@
       "column": "通知公告"
     },
     {
-      "title": "2018年上海大学与台湾中央大学春季交换生项目招募通知",
-      "url": "http://www.jwc.shu.edu.cn/Default.aspx?tabid=38755&ctl=Login",
-      "date": "2017-09-26",
-      "column": "通知公告"
-    },
-    {
       "title": "2018年上海大学与台湾铭传大学春季交换生项目招募通知",
       "url": "http://www.jwc.shu.edu.cn/Default.aspx?tabid=38755&ctl=Login",
       "date": "2017-09-26",
@@ -10474,6 +10589,18 @@
       "column": "政策文件"
     },
     {
+      "title": "吹响我校新一轮教育教学改革的号角",
+      "url": "https://bksy.shu.edu.cn/info/1016/34773.htm",
+      "date": "2010-07-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学第二届物理实验创作竞赛成功举办",
+      "url": "https://bksy.shu.edu.cn/info/1016/34774.htm",
+      "date": "2010-07-05",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于材料学院到宝钢实习的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/34597.htm",
       "date": "2010-06-13",
@@ -10522,6 +10649,30 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学第二届大学生创新论坛学生论坛成功举行",
+      "url": "https://bksy.shu.edu.cn/info/1016/34775.htm",
+      "date": "2010-05-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校两项目入选参展全国大学生创新创业成果展",
+      "url": "https://bksy.shu.edu.cn/info/1016/34776.htm",
+      "date": "2010-05-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举行2009-2010机器人仿真大赛颁奖仪式",
+      "url": "https://bksy.shu.edu.cn/info/1016/34777.htm",
+      "date": "2010-05-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校七个项目获批上海市第四期本科教育高地建设项目",
+      "url": "https://bksy.shu.edu.cn/info/1016/34778.htm",
+      "date": "2010-05-13",
+      "column": "新闻动态"
+    },
+    {
       "title": "关于2010年上海大学第五届大学生电子设计竞赛征题通知",
       "url": "https://bksy.shu.edu.cn/info/1015/34608.htm",
       "date": "2010-05-06",
@@ -10544,6 +10695,24 @@
       "url": "https://bksy.shu.edu.cn/info/1015/34611.htm",
       "date": "2010-04-29",
       "column": "通知公告"
+    },
+    {
+      "title": "大学生创新活动项目学习之旅",
+      "url": "https://bksy.shu.edu.cn/info/1016/34779.htm",
+      "date": "2010-04-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "教学院长工作例会布置招生简章和教学计划修订工作",
+      "url": "https://bksy.shu.edu.cn/info/1016/34780.htm",
+      "date": "2010-03-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学本科教育教学研讨会召开",
+      "url": "https://bksy.shu.edu.cn/info/1016/34781.htm",
+      "date": "2010-03-17",
+      "column": "新闻动态"
     }
   ]
 }

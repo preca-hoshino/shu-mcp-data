@@ -2,11 +2,11 @@
   "domain": "fpd.shu.edu.cn",
   "department": "上海大学新型显示技术及应用集成教育部重点实验室",
   "type": "21",
-  "crawl_time": "20260513_175610",
-  "total_articles": 91,
+  "crawl_time": "20260514_004804",
+  "total_articles": 93,
   "columns": {
     "通知公告": 46,
-    "新闻中心": 45
+    "新闻中心": 47
   },
   "articles": [
     {
@@ -553,6 +553,18 @@
       "title": "正在更新",
       "url": "https://fpd.shu.edu.cn/info/1113/3397.htm",
       "date": "2016-03-16",
+      "column": "新闻中心"
+    },
+    {
+      "title": "客座教授受聘仪式暨学术报告会",
+      "url": "https://fpd.shu.edu.cn/info/1113/3452.htm",
+      "date": "2005-06-14",
+      "column": "新闻中心"
+    },
+    {
+      "title": "英国Bristol 大学电子工程系主任率团访问我室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3456.htm",
+      "date": "2004-11-14",
       "column": "新闻中心"
     }
   ]

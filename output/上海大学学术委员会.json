@@ -2,13 +2,13 @@
   "domain": "ac.shu.edu.cn",
   "department": "上海大学学术委员会",
   "type": "02",
-  "crawl_time": "20260513_175610",
-  "total_articles": 178,
+  "crawl_time": "20260514_004804",
+  "total_articles": 201,
   "columns": {
-    "学术资讯": 93,
-    "学风建设": 50,
-    "通知发文": 10,
-    "上大学术": 20,
+    "学术资讯": 91,
+    "学风建设": 61,
+    "通知发文": 23,
+    "上大学术": 21,
     "服务指南": 5
   },
   "articles": [
@@ -151,6 +151,12 @@
       "column": "学术资讯"
     },
     {
+      "title": "对话任正非！人民日报头版刊文",
+      "url": "https://www.toutiao.com/article/7514112104006271500/?app=news_article×tamp=1749709371&use_new_style=1&req_id=20250612142251DF7AA05238C4900ACAAF&group_id=7514112104006271500&req_id_new=20250612142251DF7AA05238C4900ACAAF&chn_id=-3&category_new=__search",
+      "date": "2025-06-27",
+      "column": "学术资讯"
+    },
+    {
       "title": "关于第三届上海大学十大学术进展评选结果的公示",
       "url": "https://ac.shu.edu.cn/info/1009/2824.htm",
       "date": "2025-06-25",
@@ -187,16 +193,34 @@
       "column": "学术资讯"
     },
     {
+      "title": "严惩科研造假行为，严厉打击论文产业链：最高法发布以高质量审判服务保障科技创新指导意见",
+      "url": "https://mp.weixin.qq.com/s/3kKh9Ui7mSy1OAO8sB2pnA",
+      "date": "2025-01-09",
+      "column": "学风建设"
+    },
+    {
       "title": "生成式人工智能与科研伦理：变革、挑战与展望",
       "url": "https://mp.weixin.qq.com/s/QKrKghEabfGq3D4nft3hXA",
       "date": "2025-01-09",
       "column": "学术资讯"
     },
     {
+      "title": "2024年度上海市科研诚信宣讲团主题讲座暨工作交流会在上海大学钱伟长图书馆顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/362725.htm",
+      "date": "2024-12-31",
+      "column": "学风建设"
+    },
+    {
       "title": "中美科技合作协定终获续签，但这些关键技术被排除其外",
       "url": "https://mp.weixin.qq.com/s/Lwt-9Hbfl4ehHqqn8ip-Yw",
       "date": "2024-12-19",
       "column": "学术资讯"
+    },
+    {
+      "title": "《上海市科技信用信息管理办法》",
+      "url": "https://mp.weixin.qq.com/s/f-ccEUOrkYv0varSzIpjAQ",
+      "date": "2024-12-19",
+      "column": "学风建设"
     },
     {
       "title": "国家战略科技力量体系化布局研究",
@@ -209,6 +233,12 @@
       "url": "https://mp.weixin.qq.com/s/tQgr4AAxOCxBmDpyAgegEw",
       "date": "2024-12-02",
       "column": "学术资讯"
+    },
+    {
+      "title": "AI生成材料，属失信行为！",
+      "url": "https://mp.weixin.qq.com/s/ukkk_S71Kd0GNytXM5yszw",
+      "date": "2024-12-02",
+      "column": "学风建设"
     },
     {
       "title": "2024-2025年度上海大学学术治理理论与实践研究课题立项公示",
@@ -265,10 +295,46 @@
       "column": "学术资讯"
     },
     {
+      "title": "中国科学院发布八条诚信提醒",
+      "url": "https://rmtzx.sciencenet.cn/mixmedia/a/202409/11/WS66e0d5d5e4b03713a6f9b59b.html",
+      "date": "2024-09-11",
+      "column": "学风建设"
+    },
+    {
+      "title": "《人工智能安全治理框架》1.0版发布",
+      "url": "https://www.163.com/dy/article/JBQ7QDTE053874C1.html",
+      "date": "2024-09-11",
+      "column": "学风建设"
+    },
+    {
+      "title": "中共中央 国务院关于弘扬教育家精神加强新时代高素质专业化教师队伍建设的意见",
+      "url": "https://mp.weixin.qq.com/s/-MW3-wK8H6AjEC499fwyqg",
+      "date": "2024-08-28",
+      "column": "学风建设"
+    },
+    {
       "title": "上海大学第三届学术委员会第三次全体会议顺利召开",
       "url": "https://www.shu.edu.cn/info/1053/349135.htm",
       "date": "2024-06-24",
       "column": "上大学术"
+    },
+    {
+      "title": "教育部关于加强高等学校科研诚信建设和学术不端治理的指导意见",
+      "url": "https://mp.weixin.qq.com/s/S3XVtR4BSz9g4GxBuDvAsw",
+      "date": "2024-05-20",
+      "column": "学风建设"
+    },
+    {
+      "title": "教育部关于印发《高等学校学术不端行为调查处理实施细则》的通知",
+      "url": "https://mp.weixin.qq.com/s/nG-t7-WXpVZzSnCpzQPiFA",
+      "date": "2024-05-20",
+      "column": "学风建设"
+    },
+    {
+      "title": "国家基金委最新通报，2024年不端行为案件处理结果，涉及多所双一流高校",
+      "url": "https://mp.weixin.qq.com/s/x5evA2YF9mjf19s5Zx-_pw",
+      "date": "2024-04-15",
+      "column": "学风建设"
     },
     {
       "title": "阴和俊：让科技创新为新质生产力发展注入强大动能",
@@ -319,12 +385,6 @@
       "column": "通知发文"
     },
     {
-      "title": "国务院关于修改《中华人民共和国专利法实施细则》的决定",
-      "url": "https://article.xuexi.cn/articles/index.html?art_id=6257079017100233994&source=share&study_style_id=feeds_default&reco_id=10275c1823c5c0a8843c000s&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=6257079017100233994",
-      "date": "2023-12-26",
-      "column": "学术资讯"
-    },
-    {
       "title": "基金委发布《科研诚信规范手册》",
       "url": "https://rmtzx.sciencenet.cn/mixmedia/a/202312/21/WS65841b69e4b0131e6521791a.html",
       "date": "2023-12-26",
@@ -340,7 +400,7 @@
       "title": "科技部印发《国家科学技术奖提名办法》",
       "url": "https://mp.weixin.qq.com/s/_N7lyiFPFv1wgX1vIMQJtA",
       "date": "2023-12-15",
-      "column": "学术资讯"
+      "column": "通知发文"
     },
     {
       "title": "加强科技创新法治建设 为科技自立自强提供法治保障",
@@ -373,6 +433,12 @@
       "column": "学风建设"
     },
     {
+      "title": "2023-2024年度上海大学学术治理理论与实践研究课题立项公示",
+      "url": "https://ac.shu.edu.cn/info/1009/2264.htm",
+      "date": "2023-11-06",
+      "column": "通知发文"
+    },
+    {
       "title": "诺奖是对坚持长期主义与良好科研生态的回报",
       "url": "https://rmtzx.sciencenet.cn/mixmedia/a/202310/06/WS651ff79ee4b0131e65214107.html",
       "date": "2023-10-07",
@@ -383,6 +449,12 @@
       "url": "https://mp.weixin.qq.com/s/R5CReAVbBHJRGota5jsHng",
       "date": "2023-09-28",
       "column": "学术资讯"
+    },
+    {
+      "title": "上海大学2023年度高校学术治理理论与实践研究课题申报公告",
+      "url": "https://ac.shu.edu.cn/info/1009/2184.htm",
+      "date": "2023-09-14",
+      "column": "通知发文"
     },
     {
       "title": "杨卫院士：漫谈我的两个机器人课题研究",
@@ -451,6 +523,18 @@
       "column": "上大学术"
     },
     {
+      "title": "关于印发《上海大学关于进一步加强学风建设工作的意见》的通知",
+      "url": "https://ac.shu.edu.cn/info/1009/2234.htm",
+      "date": "2023-04-17",
+      "column": "通知发文"
+    },
+    {
+      "title": "关于印发《上海大学2023年学风建设工作要点》的通知",
+      "url": "https://ac.shu.edu.cn/info/1009/2244.htm",
+      "date": "2023-04-17",
+      "column": "通知发文"
+    },
+    {
       "title": "科技部关于公开征求对《科技伦理审查办法（试行）》意见的公告",
       "url": "https://mp.weixin.qq.com/s/a9vMPz_c4ujBZAkeKA_2eQ",
       "date": "2023-04-07",
@@ -505,6 +589,18 @@
       "column": "上大学术"
     },
     {
+      "title": "2022-2023年度上海大学学术治理理论与实践研究课题立项公示",
+      "url": "https://ac.shu.edu.cn/info/1009/1991.htm",
+      "date": "2022-11-15",
+      "column": "通知发文"
+    },
+    {
+      "title": "关于成立上海大学学风建设工作领导小组的通知",
+      "url": "https://ac.shu.edu.cn/info/1009/2254.htm",
+      "date": "2022-10-29",
+      "column": "通知发文"
+    },
+    {
       "title": "功崇惟志，业广惟勤——记录你与上大文科科研共同成长的十年",
       "url": "https://mp.weixin.qq.com/s/UbBXWKhXbSNn35crK1U1Dg",
       "date": "2022-10-17",
@@ -547,10 +643,22 @@
       "column": "学风建设"
     },
     {
+      "title": "关于公布上海大学第三届学术委员会委员名单的通知",
+      "url": "https://ac.shu.edu.cn/info/1009/1978.htm",
+      "date": "2022-09-26",
+      "column": "通知发文"
+    },
+    {
       "title": "上海大学第三届学术委员会成立大会暨第一次全体会议举行",
       "url": "https://news.shu.edu.cn/info/1021/65351.htm",
       "date": "2022-09-06",
       "column": "上大学术"
+    },
+    {
+      "title": "上海大学2022年度高校学术治理理论与实践研究课题申报公告",
+      "url": "https://ac.shu.edu.cn/info/1009/1941.htm",
+      "date": "2022-08-08",
+      "column": "通知发文"
     },
     {
       "title": "严东生：立志为中国的建设发展而献身是我国几代科学家的理想和美德",
@@ -625,28 +733,22 @@
       "column": "学风建设"
     },
     {
+      "title": "关于启动上海大学学术委员会换届并做好第三届学术委员会委员推选工作的通知",
+      "url": "https://ac.shu.edu.cn/info/1009/1979.htm",
+      "date": "2021-12-29",
+      "column": "通知发文"
+    },
+    {
       "title": "上海大学首届学风建设大会闭幕",
       "url": "https://news.shu.edu.cn/info/1021/63401.htm",
       "date": "2021-12-28",
       "column": "上大学术"
     },
     {
-      "title": "上海大学首届学风建设大会闭幕",
-      "url": "https://news.shu.edu.cn/info/1021/63401.htm",
-      "date": "2021-12-28",
-      "column": "学风建设"
-    },
-    {
       "title": "上海大学学风建设大会开幕式举行",
       "url": "https://news.shu.edu.cn/info/1021/63334.htm",
       "date": "2021-12-26",
       "column": "上大学术"
-    },
-    {
-      "title": "上海大学学风建设大会开幕式举行",
-      "url": "https://news.shu.edu.cn/info/1021/63334.htm",
-      "date": "2021-12-26",
-      "column": "学风建设"
     },
     {
       "title": "上海大学学风建设大会本科生工作组研讨会召开",
@@ -889,12 +991,6 @@
       "column": "学风建设"
     },
     {
-      "title": "《数据安全法（草案）》专家研讨会综述",
-      "url": "http://www.legaldaily.com.cn/IT/content/2020-07/07/content_8239396.htm?from=timeline",
-      "date": "2020-08-12",
-      "column": "学术资讯"
-    },
-    {
       "title": "中国高校100年：巨变、求生、浪潮、重启",
       "url": "https://mp.weixin.qq.com/s/8Qh0FFbLXqb6felD_DRpPg",
       "date": "2020-08-12",
@@ -997,6 +1093,12 @@
       "column": "学术资讯"
     },
     {
+      "title": "中央军委科技委发出加强科研诚信及作风建设行动倡议",
+      "url": "https://mp.weixin.qq.com/s/IaQBfr5Z-sRAYK4ITTKPcA",
+      "date": "2020-07-13",
+      "column": "学风建设"
+    },
+    {
       "title": "科技部 财政部 发展改革委关于印发《中央财政科技计划（专项、基金等）绩效评估规范（试行）》的通知",
       "url": "http://news.sciencenet.cn/htmlnews/2020/7/442585.shtm",
       "date": "2020-07-10",
@@ -1075,10 +1177,46 @@
       "column": "学术资讯"
     },
     {
+      "title": "人民时评：用学术诚信涵养科技创新",
+      "url": "https://ac.shu.edu.cn/info/1071/1456.htm",
+      "date": "2019-12-27",
+      "column": "学风建设"
+    },
+    {
+      "title": "学术诚信是学术发展和社会进步的基石",
+      "url": "https://ac.shu.edu.cn/info/1071/1457.htm",
+      "date": "2019-12-27",
+      "column": "学风建设"
+    },
+    {
+      "title": "关于成立上海大学科技伦理委员会的发文",
+      "url": "https://ac.shu.edu.cn/info/1009/1275.htm",
+      "date": "2019-12-26",
+      "column": "通知发文"
+    },
+    {
       "title": "上海大学学术委员会章程",
       "url": "https://ac.shu.edu.cn/info/1009/1272.htm",
       "date": "2019-12-09",
       "column": "通知发文"
+    },
+    {
+      "title": "上海大学学术规范",
+      "url": "https://ac.shu.edu.cn/info/1009/1273.htm",
+      "date": "2019-12-09",
+      "column": "通知发文"
+    },
+    {
+      "title": "上海大学违反学术规范处理办法",
+      "url": "https://ac.shu.edu.cn/info/1009/1274.htm",
+      "date": "2019-12-09",
+      "column": "通知发文"
+    },
+    {
+      "title": "上海大学召开学术委员会全体会议",
+      "url": "http://www.shu.edu.cn/info/1053/8830.htm",
+      "date": "2016-12-09",
+      "column": "上大学术"
     }
   ]
 }

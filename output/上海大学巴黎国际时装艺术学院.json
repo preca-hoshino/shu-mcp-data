@@ -2,10 +2,11 @@
   "domain": "modart.shu.edu.cn",
   "department": "上海大学巴黎国际时装艺术学院",
   "type": "34",
-  "crawl_time": "20260513_175610",
-  "total_articles": 160,
+  "crawl_time": "20260514_004804",
+  "total_articles": 198,
   "columns": {
-    "时尚资讯": 160
+    "时尚资讯": 168,
+    "学院新闻": 30
   },
   "articles": [
     {
@@ -171,6 +172,12 @@
       "column": "时尚资讯"
     },
     {
+      "title": "我院支持单位中国服装协会会长陈大鹏于2023中国服装论坛高精尖创新大会发表讲话",
+      "url": "https://modart.shu.edu.cn/info/1009/3515.htm",
+      "date": "2023-12-26",
+      "column": "学院新闻"
+    },
+    {
       "title": "迪奥与查理兹·塞隆经典再现",
       "url": "https://modart.shu.edu.cn/info/1010/3505.htm",
       "date": "2023-12-22",
@@ -181,6 +188,12 @@
       "url": "https://modart.shu.edu.cn/info/1010/3495.htm",
       "date": "2023-12-21",
       "column": "时尚资讯"
+    },
+    {
+      "title": "教师带领学生进行实地教学",
+      "url": "https://modart.shu.edu.cn/info/1009/3485.htm",
+      "date": "2023-12-15",
+      "column": "学院新闻"
     },
     {
       "title": "宝马发行全新故事系列有声书《解放盖亚》",
@@ -199,6 +212,12 @@
       "url": "https://modart.shu.edu.cn/info/1010/3415.htm",
       "date": "2023-12-01",
       "column": "时尚资讯"
+    },
+    {
+      "title": "我院赴黄山举办徽州古城非遗国际时装秀",
+      "url": "https://modart.shu.edu.cn/info/1009/3405.htm",
+      "date": "2023-11-29",
+      "column": "学院新闻"
     },
     {
       "title": "银海游轮将目光投向个性化旅行体验",
@@ -223,6 +242,12 @@
       "url": "https://modart.shu.edu.cn/info/1010/3365.htm",
       "date": "2023-11-17",
       "column": "时尚资讯"
+    },
+    {
+      "title": "我院领导赴法国总校进行学术交流和工作汇报",
+      "url": "https://modart.shu.edu.cn/info/1009/3295.htm",
+      "date": "2023-11-15",
+      "column": "学院新闻"
     },
     {
       "title": "美国新晋内衣品牌Parade被Ariela & Associates International收购",
@@ -273,6 +298,30 @@
       "column": "时尚资讯"
     },
     {
+      "title": "纽约-上海同乡会与我院进行友好交流",
+      "url": "https://modart.shu.edu.cn/info/1009/3185.htm",
+      "date": "2023-10-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "古韵国风荟佳丽 迎客松前赞非遗 —— 我院设计作品在黄山脚下和迎客松前盛大亮相",
+      "url": "https://modart.shu.edu.cn/info/1009/3145.htm",
+      "date": "2023-09-26",
+      "column": "学院新闻"
+    },
+    {
+      "title": "黄山市委书记凌云一行继潜口时装秀后赴我院回访交流",
+      "url": "https://modart.shu.edu.cn/info/1009/3134.htm",
+      "date": "2023-07-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "沪外首秀——“时尚弄潮 夏约黄山”闪亮潜口",
+      "url": "https://modart.shu.edu.cn/info/1009/3124.htm",
+      "date": "2023-07-05",
+      "column": "学院新闻"
+    },
+    {
       "title": "看2023春夏巴黎时装周如何掌握未来半年的时尚趋势",
       "url": "https://modart.shu.edu.cn/info/1010/3001.htm",
       "date": "2022-11-04",
@@ -283,6 +332,66 @@
       "url": "https://modart.shu.edu.cn/info/1010/3023.htm",
       "date": "2022-11-04",
       "column": "时尚资讯"
+    },
+    {
+      "title": "第二届上海设计暨第二届中国现代设计史写作高端论坛",
+      "url": "https://modart.shu.edu.cn/info/1009/2972.htm",
+      "date": "2021-12-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【喜报】毕业生在巴黎总校获得硕士学历认证",
+      "url": "https://modart.shu.edu.cn/info/1009/2966.htm",
+      "date": "2021-12-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第七期《美丑之争 Beautiful V.S Ugly》",
+      "url": "https://mp.weixin.qq.com/s/ZWckuCXXcsiBEeB2kMvmLg",
+      "date": "2021-12-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第四期《Framing Theory - How social media frames our perception》",
+      "url": "https://mp.weixin.qq.com/s/h34mlhXBjMjExhwm78jb0g",
+      "date": "2021-12-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第五期《理想化的美 Ancient Ideal of Beauty》",
+      "url": "https://mp.weixin.qq.com/s/jLmKLKay104DvpFZMQyiBw",
+      "date": "2021-12-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第六期《中世纪之美 Medieval Ideal of Beauty》",
+      "url": "https://mp.weixin.qq.com/s/zECPQd7IH6zl_-1cYG_Jug",
+      "date": "2021-12-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第二期 《Theory of Historical Wave》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzNjEyNTA2NQ==&mid=2247494993&idx=1&sn=fad20730d44f7e21a8b0e85a68e72d37&chksm=faf9a6b7cd8e2fa1da8ee6841d2e0a4db72b78a78e342fe0d4e2fb90bee0ca1588f4da78c165&token=172427390&lang=zh_CN#rd",
+      "date": "2021-07-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第三期《为啥反派总穿高级定制 Why villains in movies always wear Haut...",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzNjEyNTA2NQ==&mid=2247494995&idx=1&sn=35efda7dd750815b32d76ac2710f5a61&chksm=faf9a6b5cd8e2fa34b54cd4be5b4c62d2eeb2a3b62cf19278c2601d920fe0f76ee9de01e0281&token=172427390&lang=zh_CN#rd",
+      "date": "2021-07-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎迷你小课堂 第一期 《Cinderella Story》",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzUzNjEyNTA2NQ==&mid=2247494991&idx=1&sn=c5eb4a5c201c5c7a7b4f4c8dd8ad9d90&chksm=faf9a6a9cd8e2fbfb0d8e233e0cdd81a38d4c9750a149c5855e7d96e29abcaffd33aaa966d81&token=290981410&lang=zh_CN#rd",
+      "date": "2021-06-29",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2021毕业设计作品拍摄花絮",
+      "url": "https://mp.weixin.qq.com/s/OO0oOhGn0_I02yaRsaVPbg",
+      "date": "2021-06-15",
+      "column": "学院新闻"
     },
     {
       "title": "极简主义 | 摩登派 | 模特",
@@ -307,6 +416,18 @@
       "url": "https://modart.shu.edu.cn/info/1010/2931.htm",
       "date": "2021-04-28",
       "column": "时尚资讯"
+    },
+    {
+      "title": "小作品大彩蛋| 2020秋作品精选活动",
+      "url": "https://modart.shu.edu.cn/info/1009/2897.htm",
+      "date": "2021-03-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "小作品大彩蛋 | 2020秋作品精选活动",
+      "url": "https://modart.shu.edu.cn/info/1009/2899.htm",
+      "date": "2021-03-18",
+      "column": "学院新闻"
     },
     {
       "title": "要治愈不要致郁，时尚品牌为你的心理健康操碎了心",
@@ -547,6 +668,66 @@
       "url": "https://modart.shu.edu.cn/info/1010/2502.htm",
       "date": "2019-04-18",
       "column": "时尚资讯"
+    },
+    {
+      "title": "《MUSE》| 2015届时装设计与制版专业毕业秀",
+      "url": "https://modart.shu.edu.cn/info/1009/2218.htm",
+      "date": "2015-07-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我校毕业生亮相国际时装舞台",
+      "url": "https://modart.shu.edu.cn/info/1009/2217.htm",
+      "date": "2015-06-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "纽约顶级艺术盛会拉开序幕，亚洲艺术爱好者势必兴奋不已",
+      "url": "https://modart.shu.edu.cn/info/1009/2216.htm",
+      "date": "2015-03-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学老干部莅临我院参观",
+      "url": "https://modart.shu.edu.cn/info/1009/2215.htm",
+      "date": "2014-12-25",
+      "column": "学院新闻"
+    },
+    {
+      "title": "创新课程吸引学生热情参与",
+      "url": "https://modart.shu.edu.cn/info/1009/2213.htm",
+      "date": "2014-12-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大巴黎圣诞狂欢夜",
+      "url": "https://modart.shu.edu.cn/info/1009/2214.htm",
+      "date": "2014-12-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我校师生参观16ème Nord男装品牌",
+      "url": "https://modart.shu.edu.cn/info/1009/2212.htm",
+      "date": "2014-12-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院代表团赴爱尔兰国立科克大学进行学术访问交流",
+      "url": "https://modart.shu.edu.cn/info/1009/2211.htm",
+      "date": "2014-12-11",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院专业老师荣获《TimeOut 》Best Designer称号",
+      "url": "https://modart.shu.edu.cn/info/1009/2210.htm",
+      "date": "2014-12-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "师生参加爱心联盟企业导师班毕业典礼",
+      "url": "https://modart.shu.edu.cn/info/1009/2209.htm",
+      "date": "2014-11-04",
+      "column": "学院新闻"
     },
     {
       "title": "上海大学巴黎时装学院2011-2012流行趋势预测",
@@ -966,6 +1147,54 @@
       "title": "名模坎贝尔受聘上海大学艺术顾问",
       "url": "https://modart.shu.edu.cn/info/1010/2270.htm",
       "date": "2004-10-28",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "我国服装业——5万企业缺10万“打版师”",
+      "url": "https://modart.shu.edu.cn/info/1010/2247.htm",
+      "date": "2004-04-08",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "三十年时尚变幻超越千年",
+      "url": "https://modart.shu.edu.cn/info/1010/2244.htm",
+      "date": "2004-03-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "三十年时尚变幻超越千年",
+      "url": "https://modart.shu.edu.cn/info/1010/2245.htm",
+      "date": "2004-03-24",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "制版师进高等学府 上海大学首开制版专业",
+      "url": "https://modart.shu.edu.cn/info/1010/2233.htm",
+      "date": "2003-12-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "中断海外学业回国上大学 上海出现“小海归”",
+      "url": "https://modart.shu.edu.cn/info/1010/2235.htm",
+      "date": "2003-12-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "洋教师申城应考记：时装之都教师应聘上海高校",
+      "url": "https://modart.shu.edu.cn/info/1010/2238.htm",
+      "date": "2003-12-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "中法教育界联手 巴黎时装艺术学院落沪",
+      "url": "https://modart.shu.edu.cn/info/1010/2240.htm",
+      "date": "2003-12-03",
+      "column": "时尚资讯"
+    },
+    {
+      "title": "洋老师也要接受考评 对滥竽充数者坚决说“不”",
+      "url": "https://modart.shu.edu.cn/info/1010/2242.htm",
+      "date": "2003-12-03",
       "column": "时尚资讯"
     }
   ]

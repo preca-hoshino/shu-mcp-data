@@ -2,10 +2,11 @@
   "domain": "nano.shu.edu.cn",
   "department": "上海大学纳米科学与技术研究中心",
   "type": "35",
-  "crawl_time": "20260513_175610",
-  "total_articles": 20,
+  "crawl_time": "20260514_004804",
+  "total_articles": 52,
   "columns": {
-    "通知公告": 10,
+    "通知公告": 14,
+    "综合新闻": 28,
     "科技动态": 10
   },
   "articles": [
@@ -22,6 +23,12 @@
       "column": "通知公告"
     },
     {
+      "title": "纳米中心教工党支部集体观看“庆祝中国共产党成立100周年大会”直播",
+      "url": "https://nano.shu.edu.cn/info/1013/1613.htm",
+      "date": "2021-07-02",
+      "column": "综合新闻"
+    },
+    {
       "title": "我中心国家国际科技合作基地在2020年国合基地评估中获得良好",
       "url": "https://nano.shu.edu.cn/info/1011/1602.htm",
       "date": "2021-05-12",
@@ -34,16 +41,52 @@
       "column": "科技动态"
     },
     {
+      "title": "我中心国家国际科技合作基地在2020年国合基地评估中获得良好",
+      "url": "https://nano.shu.edu.cn/info/1013/1601.htm",
+      "date": "2021-05-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“材料复合及先进分散技术教育部工程研究中心”技术委员会会议顺利举行",
+      "url": "https://nano.shu.edu.cn/info/1013/1605.htm",
+      "date": "2021-05-12",
+      "column": "综合新闻"
+    },
+    {
       "title": "祝贺施利毅教授、张登松教授入选2020全球“高被引科学家”",
       "url": "https://nano.shu.edu.cn/info/1012/1563.htm",
       "date": "2021-01-21",
       "column": "科技动态"
     },
     {
+      "title": "祝贺施利毅教授、张登松教授入选2020全球“高被引科学家”",
+      "url": "https://nano.shu.edu.cn/info/1013/1565.htm",
+      "date": "2021-01-21",
+      "column": "综合新闻"
+    },
+    {
       "title": "“上海资源环境新材料及应用工程技术研究中心”--2020年技术委员会...",
       "url": "https://nano.shu.edu.cn/info/1012/1555.htm",
       "date": "2020-12-15",
       "column": "科技动态"
+    },
+    {
+      "title": "“材料复合及先进分散技术教育部工程研究中心”2020年技术委员会会...",
+      "url": "https://nano.shu.edu.cn/info/1013/1551.htm",
+      "date": "2020-12-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "家宝兔与上海大学（浙江·嘉兴）新兴产业研究院、上海华晖新材料科技...",
+      "url": "https://nano.shu.edu.cn/info/1013/1541.htm",
+      "date": "2020-11-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心教工党支部参观抗日抗战纪念馆，推进四史学习",
+      "url": "https://nano.shu.edu.cn/info/1013/1522.htm",
+      "date": "2020-08-14",
+      "column": "综合新闻"
     },
     {
       "title": "纳米中心2020年硕士研究生招生复试方案",
@@ -70,6 +113,36 @@
       "column": "科技动态"
     },
     {
+      "title": "纳米中心空气净化产学研合作成果助力抗击疫情",
+      "url": "https://nano.shu.edu.cn/info/1013/1495.htm",
+      "date": "2020-02-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“上海资源环境新材料及应用工程技术研究中心” 2019年技术委员会会...",
+      "url": "https://nano.shu.edu.cn/info/1013/1471.htm",
+      "date": "2019-12-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心教工党支部开展“不忘初心、牢记使命”主题教育推进会",
+      "url": "https://nano.shu.edu.cn/info/1013/1441.htm",
+      "date": "2019-09-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "高等研究院组织纳米中心教工党支部参观“中共二大会址”和“钱学森...",
+      "url": "https://nano.shu.edu.cn/info/1013/1451.htm",
+      "date": "2019-09-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "融合协同  推进纳米科技多边合作创新",
+      "url": "https://nano.shu.edu.cn/info/1013/1421.htm",
+      "date": "2019-09-05",
+      "column": "综合新闻"
+    },
+    {
       "title": "“2019中韩高端粉体产业论坛”顺利召开",
       "url": "https://nano.shu.edu.cn/info/1011/1463.htm",
       "date": "2019-06-08",
@@ -82,10 +155,46 @@
       "column": "科技动态"
     },
     {
+      "title": "“2019中韩高端粉体产业论坛”顺利召开",
+      "url": "https://nano.shu.edu.cn/info/1013/1411.htm",
+      "date": "2019-06-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心教工党支部-研究生支部参观“红色足迹 伟大转折——遵义会...",
+      "url": "https://nano.shu.edu.cn/info/1013/1401.htm",
+      "date": "2019-05-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心开展消防安全系列活动",
+      "url": "https://nano.shu.edu.cn/info/1013/1381.htm",
+      "date": "2019-04-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心毛琳同学喜获2018年上海大学校长奖学金",
+      "url": "https://nano.shu.edu.cn/info/1013/1341.htm",
+      "date": "2019-01-09",
+      "column": "综合新闻"
+    },
+    {
       "title": "“上海大学—大阪大学2018年纳米科学与技术科研交流合作研讨会”成...",
       "url": "https://nano.shu.edu.cn/info/1012/1332.htm",
       "date": "2018-11-15",
       "column": "科技动态"
+    },
+    {
+      "title": "“上海大学—大阪大学2018年纳米科学与技术科研交流合作研讨会”成...",
+      "url": "https://nano.shu.edu.cn/info/1013/1331.htm",
+      "date": "2018-11-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "拓展多边合作  加速推进纳米科技高水平研究及成果转化—“2018国际...",
+      "url": "https://nano.shu.edu.cn/info/1013/1312.htm",
+      "date": "2018-10-14",
+      "column": "综合新闻"
     },
     {
       "title": "新能源汽车用关键材料与技术专题研讨会在吴江举行",
@@ -98,6 +207,36 @@
       "url": "https://nano.shu.edu.cn/info/1012/1307.htm",
       "date": "2018-09-26",
       "column": "科技动态"
+    },
+    {
+      "title": "拓展一带一路合作  推进绿色纳米技术协同创新——上海大学纳米科技...",
+      "url": "https://nano.shu.edu.cn/info/1013/1303.htm",
+      "date": "2018-09-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新能源汽车用关键材料与技术专题研讨会在吴江举行",
+      "url": "https://nano.shu.edu.cn/info/1013/1305.htm",
+      "date": "2018-09-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心召开2018级研究生新生见面会",
+      "url": "https://nano.shu.edu.cn/info/1013/1291.htm",
+      "date": "2018-09-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“上海市颗粒学会换届选举会员代表大会暨上海市颗粒学会第八届理事...",
+      "url": "https://nano.shu.edu.cn/info/1013/1281.htm",
+      "date": "2018-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "中奥合作项目征集启动",
+      "url": "https://nano.shu.edu.cn/info/1011/1212.htm",
+      "date": "2018-04-16",
+      "column": "通知公告"
     },
     {
       "title": "“上海资源环境新材料及应用工程技术研究中心”--2016年技术委员会...",
@@ -124,10 +263,64 @@
       "column": "科技动态"
     },
     {
+      "title": "“上海资源环境新材料及应用工程技术研究中心”--2016年技术委员会...",
+      "url": "https://nano.shu.edu.cn/info/1013/1215.htm",
+      "date": "2018-04-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心召开2016级师生见面会",
+      "url": "https://nano.shu.edu.cn/info/1013/1217.htm",
+      "date": "2018-04-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "纳米中心2017级新生和导师见面会",
+      "url": "https://nano.shu.edu.cn/info/1013/1180.htm",
+      "date": "2018-04-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "喜报!研究生谢梦兰在《Advanced Materials》新子刊《Solar RRL》发...",
+      "url": "https://nano.shu.edu.cn/info/1013/1172.htm",
+      "date": "2018-04-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“不忘初心，继续前进”----记纳米中心6名硕士研究生喜获研究生国家...",
+      "url": "https://nano.shu.edu.cn/info/1013/1176.htm",
+      "date": "2018-04-09",
+      "column": "综合新闻"
+    },
+    {
       "title": "上海大学-成均馆大学石墨烯联合研发中心成立",
       "url": "https://nano.shu.edu.cn/info/1012/1152.htm",
       "date": "2018-03-24",
       "column": "科技动态"
+    },
+    {
+      "title": "“上海新材料及应用协同创新中心”一届四次理事会顺利召开",
+      "url": "https://nano.shu.edu.cn/info/1013/1151.htm",
+      "date": "2018-03-24",
+      "column": "综合新闻"
+    },
+    {
+      "title": "韩国精密陶瓷协会来我校访问交流",
+      "url": "https://nano.shu.edu.cn/info/1011/1113.htm",
+      "date": "2018-02-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "“上海大学—泰国VISTEC联合实验室协议”签署仪式与合作研讨会在上...",
+      "url": "https://nano.shu.edu.cn/info/1011/1114.htm",
+      "date": "2018-02-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "正在更新",
+      "url": "https://nano.shu.edu.cn/info/1011/1115.htm",
+      "date": "2018-02-25",
+      "column": "通知公告"
     }
   ]
 }

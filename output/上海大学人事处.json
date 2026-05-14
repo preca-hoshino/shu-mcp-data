@@ -2,10 +2,10 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260513_175610",
-  "total_articles": 150,
+  "crawl_time": "20260514_004804",
+  "total_articles": 163,
   "columns": {
-    "新闻公告": 150
+    "新闻公告": 163
   },
   "articles": [
     {
@@ -906,6 +906,84 @@
       "title": "2011年高校学生思想政治教育教师高级职务聘任工作的通知",
       "url": "https://hr.shu.edu.cn/info/1029/2642.htm",
       "date": "2011-10-28",
+      "column": "新闻公告"
+    },
+    {
+      "title": "人事处关于青年教师培养工作研究成果获多项奖励",
+      "url": "https://hr.shu.edu.cn/info/1029/2528.htm",
+      "date": "2008-10-22",
+      "column": "新闻公告"
+    },
+    {
+      "title": "关于上海大学专业技术职务破格聘任实施办法的补充说明",
+      "url": "https://hr.shu.edu.cn/info/1029/2527.htm",
+      "date": "2008-10-17",
+      "column": "新闻公告"
+    },
+    {
+      "title": "关于08年兼职高教研究高级专技职务能力评议工作通知",
+      "url": "https://hr.shu.edu.cn/info/1029/2526.htm",
+      "date": "2008-09-24",
+      "column": "新闻公告"
+    },
+    {
+      "title": "关于开展2008年上海市人才发展资金资助工作的通知",
+      "url": "https://hr.shu.edu.cn/info/1029/2525.htm",
+      "date": "2008-09-18",
+      "column": "新闻公告"
+    },
+    {
+      "title": "我校举行07－08学年新进教师岗前培训",
+      "url": "https://hr.shu.edu.cn/info/1029/2524.htm",
+      "date": "2008-09-08",
+      "column": "新闻公告"
+    },
+    {
+      "title": "上海大学新进人员薪酬福利待遇政策及操作实用指南",
+      "url": "https://hr.shu.edu.cn/info/1029/2522.htm",
+      "date": "2008-09-03",
+      "column": "新闻公告"
+    },
+    {
+      "title": "上海大学十位教师获国家留学基金全额资助",
+      "url": "https://hr.shu.edu.cn/info/1029/2520.htm",
+      "date": "2008-07-09",
+      "column": "新闻公告"
+    },
+    {
+      "title": "张田忠获市科教党委系统第二届青年科技创新人才奖",
+      "url": "https://hr.shu.edu.cn/info/1029/2518.htm",
+      "date": "2008-07-08",
+      "column": "新闻公告"
+    },
+    {
+      "title": "技高一筹，大有可为——我校参加上海市高技能人才工作会议报道",
+      "url": "https://hr.shu.edu.cn/info/1029/2516.htm",
+      "date": "2008-07-07",
+      "column": "新闻公告"
+    },
+    {
+      "title": "上海大学四位教师荣获“东方学者”称号",
+      "url": "https://hr.shu.edu.cn/info/1029/2514.htm",
+      "date": "2008-07-04",
+      "column": "新闻公告"
+    },
+    {
+      "title": "人事处党支部召开“讲党性、重品行、作表率”专题组织生活扩大会议",
+      "url": "https://hr.shu.edu.cn/info/1029/2513.htm",
+      "date": "2008-06-24",
+      "column": "新闻公告"
+    },
+    {
+      "title": "上海大学关于2007～2008学年度考核工作的通知",
+      "url": "https://hr.shu.edu.cn/info/1029/2510.htm",
+      "date": "2008-06-05",
+      "column": "新闻公告"
+    },
+    {
+      "title": "我校获08年上海市重大决策咨询课题研究项目",
+      "url": "https://hr.shu.edu.cn/info/1029/2509.htm",
+      "date": "2008-05-16",
       "column": "新闻公告"
     }
   ]

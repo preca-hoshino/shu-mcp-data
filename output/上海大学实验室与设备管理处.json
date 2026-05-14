@@ -2,17 +2,30 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260513_175610",
-  "total_articles": 164,
+  "crawl_time": "20260514_004804",
+  "total_articles": 186,
   "columns": {
+    "通知公告": 22,
     "工作动态": 164
   },
   "articles": [
+    {
+      "title": "上海大学关于做好2026年五一假期实验室安全工作的提示",
+      "url": "https://sbc.shu.edu.cn/info/1004/11064.htm",
+      "date": "2026-04-28",
+      "column": "通知公告"
+    },
     {
       "title": "我校组织参加教育部2026年高校实验室安全工作培训会",
       "url": "https://sbc.shu.edu.cn/info/1003/11074.htm",
       "date": "2026-04-24",
       "column": "工作动态"
+    },
+    {
+      "title": "上海大学关于2026年第1批报废资产公开处置的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/11084.htm",
+      "date": "2026-04-13",
+      "column": "通知公告"
     },
     {
       "title": "光影铸盾守初心 同心护航国安线——资产与实验室管理部组织电影党课《惊蛰无声》",
@@ -21,10 +34,22 @@
       "column": "工作动态"
     },
     {
+      "title": "上海金沪拍卖有限公司拍卖公告",
+      "url": "https://sbc.shu.edu.cn/info/1004/11004.htm",
+      "date": "2026-04-02",
+      "column": "通知公告"
+    },
+    {
       "title": "淬炼管理内功 筑牢安全防线——上海大学代表团参加全国高校实验室安全管理研讨会",
       "url": "https://sbc.shu.edu.cn/info/1003/10974.htm",
       "date": "2026-03-27",
       "column": "工作动态"
+    },
+    {
+      "title": "上海大学关于做好近期实验室安全工作的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/10964.htm",
+      "date": "2026-03-26",
+      "column": "通知公告"
     },
     {
       "title": "规范危废处置 优化服务体系——学校召开专题会议推动危废处置安全高效",
@@ -33,10 +58,76 @@
       "column": "工作动态"
     },
     {
+      "title": "关于做好2026年春季学期开学季实验室安全工作的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/10934.htm",
+      "date": "2026-02-27",
+      "column": "通知公告"
+    },
+    {
       "title": "江西省高教学会实验室工作分会来校共话实验室与资产管理",
       "url": "https://sbc.shu.edu.cn/info/1003/10924.htm",
       "date": "2026-01-29",
       "column": "工作动态"
+    },
+    {
+      "title": "实验室与设备管理处2025～2026学年寒假值班表",
+      "url": "https://sbc.shu.edu.cn/info/1004/10904.htm",
+      "date": "2026-01-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学关于2026年第1批资产处置审议的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/10884.htm",
+      "date": "2026-01-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学关于做好2026年寒假期间实验室安全工作的通知",
+      "url": "https://sbc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=10874",
+      "date": "2026-01-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2025年第5批报废资产公开处置的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/10854.htm",
+      "date": "2026-01-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好近期实验室安全工作的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/10834.htm",
+      "date": "2025-12-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海金沪拍卖有限公司拍卖公告",
+      "url": "https://sbc.shu.edu.cn/info/1004/10824.htm",
+      "date": "2025-12-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展实验室消防安全隐患清查专项行动的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/10794.htm",
+      "date": "2025-12-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2025年第4批报废资产公开处置的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/10844.htm",
+      "date": "2025-12-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海金沪拍卖有限公司拍卖公告",
+      "url": "https://sbc.shu.edu.cn/info/1004/10754.htm",
+      "date": "2025-11-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2025年第5批资产处置审议的公示                                  2025年9月30日",
+      "url": "https://sbc.shu.edu.cn/info/1004/10744.htm",
+      "date": "2025-11-20",
+      "column": "通知公告"
     },
     {
       "title": "上海大学第八届实验室安全文化月嘉年华活动顺利举行",
@@ -55,6 +146,36 @@
       "url": "https://sbc.shu.edu.cn/info/1003/10694.htm",
       "date": "2025-11-03",
       "column": "工作动态"
+    },
+    {
+      "title": "关于开展2025年度大型仪器管理和使用绩效考核工作的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/10664.htm",
+      "date": "2025-10-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "德国 IKA 官方授权服务与维护日（免费检测与保养登记）",
+      "url": "https://sbc.shu.edu.cn/info/1004/10574.htm",
+      "date": "2025-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学关于组织开展第八届实验室安全文化月活动的通知",
+      "url": "https://sbc.shu.edu.cn/aqwhy.pdf",
+      "date": "2025-10-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年“国庆节”假期实验设备处值班日程表",
+      "url": "https://sbc.shu.edu.cn/info/1004/10394.htm",
+      "date": "2025-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2025年第4批资产处置审议的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/10734.htm",
+      "date": "2025-09-30",
+      "column": "通知公告"
     },
     {
       "title": "聚焦生物安全 共筑发展基石——上海大学2025年生物安全工作会议顺利举行",
@@ -991,6 +1112,18 @@
       "url": "https://sbc.shu.edu.cn/info/1003/1117.htm",
       "date": "2017-05-11",
       "column": "工作动态"
+    },
+    {
+      "title": "关于启动2017年仪器设备报废申报工作的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/1110.htm",
+      "date": "2016-10-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学仪器设备（软件）、实验室改造、材料、服务合同签订等相关事宜的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/1108.htm",
+      "date": "2016-04-15",
+      "column": "通知公告"
     }
   ]
 }

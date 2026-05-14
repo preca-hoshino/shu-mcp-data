@@ -2,16 +2,16 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260513_175610",
-  "total_articles": 658,
+  "crawl_time": "20260514_004804",
+  "total_articles": 683,
   "columns": {
     "学院新闻": 324,
-    "学生工作": 30,
+    "学生工作": 40,
     "教学": 155,
-    "通知公告": 10,
+    "通知公告": 11,
     "党建工作": 45,
-    "学术讲座": 40,
-    "科研": 30,
+    "学术讲座": 53,
+    "科研": 31,
     "展览展示": 24
   },
   "articles": [
@@ -502,6 +502,12 @@
       "column": "学院新闻"
     },
     {
+      "title": "都市多棱镜——印象派的现代性叙事",
+      "url": "https://safa.shu.edu.cn/info/1117/17540.htm",
+      "date": "2025-09-23",
+      "column": "学术讲座"
+    },
+    {
       "title": "凝心聚力抓教学，精准检查促提升 上海美术学院进行2025-2026学年秋季学期开学教学检查",
       "url": "https://safa.shu.edu.cn/info/1119/17510.htm",
       "date": "2025-09-23",
@@ -652,6 +658,12 @@
       "column": "学生工作"
     },
     {
+      "title": "地域艺术史研究——以晚清民初的书画史写作为中心",
+      "url": "https://safa.shu.edu.cn/info/1117/17090.htm",
+      "date": "2025-05-19",
+      "column": "学术讲座"
+    },
+    {
       "title": "展讯|云上一公里2025上海美术学院毕业作品展",
       "url": "https://safa.shu.edu.cn/info/1118/17120.htm",
       "date": "2025-05-19",
@@ -670,6 +682,12 @@
       "column": "通知公告"
     },
     {
+      "title": "建构与解构：“新美术馆学”及当代策展的双重性",
+      "url": "https://safa.shu.edu.cn/info/1117/17070.htm",
+      "date": "2025-05-13",
+      "column": "学术讲座"
+    },
+    {
       "title": "青春有为，未来可期——第八届“有为·上美嘉年华”在上海大学宝山校区美院广场圆满举行！",
       "url": "https://safa.shu.edu.cn/info/1121/17080.htm",
       "date": "2025-05-13",
@@ -682,10 +700,22 @@
       "column": "学院新闻"
     },
     {
+      "title": "新时代的城市更新——从概念到实践",
+      "url": "https://safa.shu.edu.cn/info/1117/17040.htm",
+      "date": "2025-05-07",
+      "column": "学术讲座"
+    },
+    {
       "title": "“笔墨构城——上海美术学院城市山水作品展”在中国美术馆开幕",
       "url": "https://safa.shu.edu.cn/info/1084/17010.htm",
       "date": "2025-05-06",
       "column": "学院新闻"
+    },
+    {
+      "title": "史论系举办拉斐尔前派画作研究的学术讲座",
+      "url": "https://safa.shu.edu.cn/info/1117/16960.htm",
+      "date": "2025-04-30",
+      "column": "学术讲座"
     },
     {
       "title": "上海大学上海美术学院举办纪念五四运动106周年暨2024年“尚美之星”表彰活动",
@@ -704,6 +734,12 @@
       "url": "https://safa.shu.edu.cn/info/1119/16910.htm",
       "date": "2025-04-24",
       "column": "教学"
+    },
+    {
+      "title": "当代陶艺展览",
+      "url": "https://safa.shu.edu.cn/info/1117/16880.htm",
+      "date": "2025-04-22",
+      "column": "学术讲座"
     },
     {
       "title": "喜报！上海美术学院立项10门校级课程思政示范课程",
@@ -754,10 +790,28 @@
       "column": "教学"
     },
     {
+      "title": "时代映像—画里画外的漫谈",
+      "url": "https://safa.shu.edu.cn/info/1117/17740.htm",
+      "date": "2025-04-14",
+      "column": "学术讲座"
+    },
+    {
+      "title": "上海美术学院顺利举办2025年专场招聘会",
+      "url": "https://safa.shu.edu.cn/info/1121/16790.htm",
+      "date": "2025-04-14",
+      "column": "学生工作"
+    },
+    {
       "title": "水墨理念（形式与构成）课程展",
       "url": "https://safa.shu.edu.cn/info/1118/16760.htm",
       "date": "2025-04-11",
       "column": "展览展示"
+    },
+    {
+      "title": "美术史的书里书外",
+      "url": "https://safa.shu.edu.cn/info/1117/16720.htm",
+      "date": "2025-04-07",
+      "column": "学术讲座"
     },
     {
       "title": "展讯|2023级硕士研究生中期考核作品展",
@@ -790,6 +844,18 @@
       "column": "通知公告"
     },
     {
+      "title": "当代视角下佤族艺术的公共文化启示——以沧源翁丁村寨桩意象为线索",
+      "url": "https://safa.shu.edu.cn/info/1117/16500.htm",
+      "date": "2025-03-25",
+      "column": "学术讲座"
+    },
+    {
+      "title": "三载逐梦终不悔 戎装少年启新程 —— 热烈祝贺晏广强同学光荣入伍",
+      "url": "https://safa.shu.edu.cn/info/1121/16450.htm",
+      "date": "2025-03-24",
+      "column": "学生工作"
+    },
+    {
       "title": "上海大学上海美术学院2025年硕士研究生招生考试复试方案",
       "url": "https://safa.shu.edu.cn/info/1122/16490.htm",
       "date": "2025-03-24",
@@ -820,10 +886,22 @@
       "column": "学院新闻"
     },
     {
+      "title": "日常状态与艺术创作 ——“无穷”个展现场讲座",
+      "url": "https://safa.shu.edu.cn/info/1117/16370.htm",
+      "date": "2025-03-14",
+      "column": "学术讲座"
+    },
+    {
       "title": "艺术多棱镜：2025 上海美术学院史论系学术沙龙在嘉定古猗园举行",
       "url": "https://safa.shu.edu.cn/info/1084/16340.htm",
       "date": "2025-03-12",
       "column": "学院新闻"
+    },
+    {
+      "title": "申请德国明斯特美术学院2025年冬季学期交换生公告",
+      "url": "https://safa.shu.edu.cn/info/1122/16330.htm",
+      "date": "2025-03-11",
+      "column": "通知公告"
     },
     {
       "title": "上海大学上海美术学院党委召开2024年度党员领导干部民主生活会暨巡察整改专题民主生活会",
@@ -934,6 +1012,18 @@
       "column": "党建工作"
     },
     {
+      "title": "上海美术学院与通信学院辅导员工作室沙龙研讨会顺利举办",
+      "url": "https://safa.shu.edu.cn/info/1121/16050.htm",
+      "date": "2024-12-30",
+      "column": "学生工作"
+    },
+    {
+      "title": "“拒宅聚彩”，畅享运动激情 —— 上海大学上海美术学院本科生班级体育主题活动活力开启",
+      "url": "https://safa.shu.edu.cn/info/1121/16090.htm",
+      "date": "2024-12-30",
+      "column": "学生工作"
+    },
+    {
       "title": "上海大学上海美术学院与上海电气智慧城市信息科技有限公司签署战略合作协议",
       "url": "https://safa.shu.edu.cn/info/1084/16070.htm",
       "date": "2024-12-28",
@@ -1040,6 +1130,18 @@
       "url": "https://safa.shu.edu.cn/info/1084/15600.htm",
       "date": "2024-11-04",
       "column": "学院新闻"
+    },
+    {
+      "title": "第六届上海美术学院青年学术论坛成功举办",
+      "url": "https://safa.shu.edu.cn/info/1121/15580.htm",
+      "date": "2024-11-04",
+      "column": "学生工作"
+    },
+    {
+      "title": "创艺启航 赢在职场——上海美术学院求职能力实训营顺利举办",
+      "url": "https://safa.shu.edu.cn/info/1121/15590.htm",
+      "date": "2024-11-04",
+      "column": "学生工作"
     },
     {
       "title": "曾成钢：新时代雕塑的蝶变与坚守",
@@ -1240,6 +1342,12 @@
       "column": "党建工作"
     },
     {
+      "title": "学思践悟明党纪  真抓实干勇担当——上海美术学院党纪学习教育安全警示专题党课顺利举行",
+      "url": "https://safa.shu.edu.cn/info/1121/14690.htm",
+      "date": "2024-06-17",
+      "column": "学生工作"
+    },
+    {
       "title": "“山水和合·共富天台”2024长三角高校乡村振兴联合毕业设计展览闭幕式暨学术研讨会6月8日在浙江天台召开",
       "url": "https://safa.shu.edu.cn/info/1084/14670.htm",
       "date": "2024-06-13",
@@ -1342,16 +1450,34 @@
       "column": "党建工作"
     },
     {
+      "title": "竞赛展风采 党纪入人心——上海美术学院本科学生党支部 党纪学习教育知识竞赛顺利举行",
+      "url": "https://safa.shu.edu.cn/info/1121/14430.htm",
+      "date": "2024-05-20",
+      "column": "学生工作"
+    },
+    {
       "title": "上海美术学院科研管理中心召开国家艺术基金2025年项目申报动员暨培训交流会",
       "url": "https://safa.shu.edu.cn/info/1120/14370.htm",
       "date": "2024-05-16",
       "column": "科研"
     },
     {
+      "title": "喜报｜我院“艺展+”荣获两项“天开杯”创聚津门全国大学生智能科技创新创业挑战赛奖项",
+      "url": "https://safa.shu.edu.cn/info/1121/14360.htm",
+      "date": "2024-05-16",
+      "column": "学生工作"
+    },
+    {
       "title": "ART/DESIGN DESIGN/ART 艺术/设计 设计/艺术",
       "url": "https://safa.shu.edu.cn/info/1117/14260.htm",
       "date": "2024-05-14",
       "column": "学术讲座"
+    },
+    {
+      "title": "潮越来袭丨2024上美嘉年华盛大开幕！",
+      "url": "https://safa.shu.edu.cn/info/1121/14460.htm",
+      "date": "2024-05-13",
+      "column": "学生工作"
     },
     {
       "title": "展讯 | 从海派到新海派——上海美术学院美术馆藏品展",
@@ -3460,6 +3586,24 @@
       "column": "教学"
     },
     {
+      "title": "奇正相生的中国画传统",
+      "url": "https://safa.shu.edu.cn/info/1117/7145.htm",
+      "date": "2020-09-21",
+      "column": "学术讲座"
+    },
+    {
+      "title": "谈谈设计",
+      "url": "https://safa.shu.edu.cn/info/1117/7144.htm",
+      "date": "2020-09-14",
+      "column": "学术讲座"
+    },
+    {
+      "title": "国际艺术特展与深度文化博弈",
+      "url": "https://safa.shu.edu.cn/info/1117/7143.htm",
+      "date": "2020-09-07",
+      "column": "学术讲座"
+    },
+    {
       "title": "溯“初心”汲“力量”——上海美术学院党委举行“上海渔阳里与建党伟业”“四史”学习教育宣讲会",
       "url": "https://safa.shu.edu.cn/info/1084/5887.htm",
       "date": "2020-06-19",
@@ -3506,6 +3650,12 @@
       "url": "https://safa.shu.edu.cn/info/1084/7222.htm",
       "date": "2020-04-10",
       "column": "学院新闻"
+    },
+    {
+      "title": "上海大学与平和教育集团签署战略合作协议",
+      "url": "https://safa.shu.edu.cn/info/1120/7224.htm",
+      "date": "2020-04-10",
+      "column": "科研"
     },
     {
       "title": "上海大学党委常委、副校长聂清一行带队对美术学院2019年“三大主体责任”落实情况进行反馈并就近期工作开展调研",

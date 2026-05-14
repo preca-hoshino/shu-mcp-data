@@ -2,12 +2,12 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 1555,
+  "crawl_time": "20260514_004804",
+  "total_articles": 1569,
   "columns": {
     "学术报告": 1375,
-    "新闻快递": 160,
-    "学术会议": 20
+    "新闻快递": 165,
+    "学术会议": 29
   },
   "articles": [
     {
@@ -6659,6 +6659,12 @@
       "column": "学术报告"
     },
     {
+      "title": "上海大学最优控制技术及应用青年研讨会",
+      "url": "https://math.shu.edu.cn/info/1043/3018.htm",
+      "date": "2018-12-29",
+      "column": "学术会议"
+    },
+    {
       "title": "Seminar第1743期 A brief introduction of affine valuation theory",
       "url": "https://math.shu.edu.cn/info/1042/2636.htm",
       "date": "2018-12-28",
@@ -6977,6 +6983,12 @@
       "column": "学术报告"
     },
     {
+      "title": "2018 China-Korea Int’l Conference on Matrix Theory with Applications IRCTMT-AORC Joint Meeting (ICMTA2018)",
+      "url": "https://math.shu.edu.cn/info/1043/3016.htm",
+      "date": "2018-10-10",
+      "column": "学术会议"
+    },
+    {
       "title": "Seminar第1691期 随机矩阵和正交多项式的平衡测度",
       "url": "https://math.shu.edu.cn/info/1042/2583.htm",
       "date": "2018-10-09",
@@ -7167,6 +7179,12 @@
       "url": "https://math.shu.edu.cn/info/1042/2555.htm",
       "date": "2018-06-11",
       "column": "学术报告"
+    },
+    {
+      "title": "2018 Int'l Workshop on Analytic Number Theory & Diophantine Geometry",
+      "url": "https://math.shu.edu.cn/info/1043/3014.htm",
+      "date": "2018-06-10",
+      "column": "学术会议"
     },
     {
       "title": "Seminar第1657期 李超代数的表示理论",
@@ -7643,6 +7661,12 @@
       "column": "学术报告"
     },
     {
+      "title": "The 5th Sino-Korea Conference on Coding Theory & Its Related Topics",
+      "url": "https://math.shu.edu.cn/info/1043/3012.htm",
+      "date": "2018-03-09",
+      "column": "学术会议"
+    },
+    {
       "title": "Seminar第1580期 计算系统医学展望",
       "url": "https://math.shu.edu.cn/info/1042/2472.htm",
       "date": "2018-03-07",
@@ -7659,6 +7683,18 @@
       "url": "https://math.shu.edu.cn/info/1042/2471.htm",
       "date": "2018-03-02",
       "column": "学术报告"
+    },
+    {
+      "title": "2018 Int'l Conference on Matrix Inequalities & Matrix Equations",
+      "url": "https://math.shu.edu.cn/info/1043/3011.htm",
+      "date": "2018-02-20",
+      "column": "学术会议"
+    },
+    {
+      "title": "2018 Int'l Workshop on Matrices and Operators",
+      "url": "https://math.shu.edu.cn/info/1043/3010.htm",
+      "date": "2018-02-02",
+      "column": "学术会议"
     },
     {
       "title": "Seminar第1577期 数学文化与大学数学教学——华东师大大学数学教材和课程建设的一些体会",
@@ -7779,6 +7815,12 @@
       "url": "https://math.shu.edu.cn/info/1042/2456.htm",
       "date": "2017-12-14",
       "column": "学术报告"
+    },
+    {
+      "title": "第一届上海大学科学与工程计算青年论坛会议",
+      "url": "https://math.shu.edu.cn/info/1043/3009.htm",
+      "date": "2017-12-14",
+      "column": "学术会议"
     },
     {
       "title": "数学与应用数学党支部开展“十九大报告及党章知识竞赛”活动",
@@ -8855,6 +8897,12 @@
       "column": "学术报告"
     },
     {
+      "title": "2017 Int'l Conference on Matrix Inequalities and Matrix Equations",
+      "url": "https://math.shu.edu.cn/info/1043/3004.htm",
+      "date": "2017-01-05",
+      "column": "学术会议"
+    },
+    {
       "title": "我校成功举办2016中-韩矩阵论及其应用国际会议",
       "url": "https://math.shu.edu.cn/info/1041/2112.htm",
       "date": "2017-01-04",
@@ -9338,6 +9386,42 @@
       "title": "上海大学加入eduroam联盟--wifi漫游",
       "url": "https://math.shu.edu.cn/info/1041/2101.htm",
       "date": "2016-05-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2016张量与矩阵及其应用国际研讨会在我校召开",
+      "url": "https://math.shu.edu.cn/info/1041/2100.htm",
+      "date": "2016-05-20",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第四届全国数学科普论坛隆重召开",
+      "url": "https://math.shu.edu.cn/info/1041/2099.htm",
+      "date": "2016-05-09",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2016图论与组合优化国际研讨会（2016年5月20-22日）",
+      "url": "https://math.shu.edu.cn/info/1041/2098.htm",
+      "date": "2016-05-06",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2016 Int'l Workshop on Tensor & Matrix with Applications",
+      "url": "http://math.shu.edu.cn/TMA2016",
+      "date": "2016-02-24",
+      "column": "学术会议"
+    },
+    {
+      "title": "“九九重阳，关爱夕阳”——我系举办2015年重阳茶话会”",
+      "url": "https://math.shu.edu.cn/info/1041/2097.htm",
+      "date": "2015-10-27",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我系在美国2016USNEWS世界最佳数学学科排名位列第61位，国内高校第9位",
+      "url": "https://math.shu.edu.cn/info/1041/2096.htm",
+      "date": "2015-10-20",
       "column": "新闻快递"
     }
   ]

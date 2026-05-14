@@ -2,33 +2,22 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260513_175610",
-  "total_articles": 352,
+  "crawl_time": "20260514_004804",
+  "total_articles": 234,
   "columns": {
-    "通知公告": 60,
-    "学术报告": 80,
-    "教学动态": 24,
-    "科研动态": 118,
-    "学生信息": 60,
-    "教师风采": 10
+    "通知公告": 34,
+    "学术报告": 47,
+    "综合新闻": 28,
+    "教学动态": 22,
+    "科研动态": 59,
+    "学生信息": 39,
+    "教师风采": 5
   },
   "articles": [
     {
       "title": "力工学院2026年博士研究生招生复试安排（第二批）",
       "url": "https://smes.shu.edu.cn/info/1015/10355.htm",
       "date": "2026-05-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "力工学院2026年博士研究生招生复试安排（第二批）",
-      "url": "https://smes.shu.edu.cn/info/1015/10355.htm",
-      "date": "2026-05-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学力学与工程科学学院2026年博士研究生招生第二次报名须知",
-      "url": "https://smes.shu.edu.cn/info/1015/10345.htm",
-      "date": "2026-05-09",
       "column": "通知公告"
     },
     {
@@ -44,28 +33,16 @@
       "column": "学术报告"
     },
     {
-      "title": "钱伟长力学SEMINAR 1006：超轻高强复合材料结构力学",
-      "url": "https://smes.shu.edu.cn/info/1014/10335.htm",
-      "date": "2026-05-06",
-      "column": "学术报告"
+      "title": "力工学院传达学习习近平总书记重要讲话精神 全院师生...",
+      "url": "https://smes.shu.edu.cn/info/1013/10325.htm",
+      "date": "2026-05-03",
+      "column": "综合新闻"
     },
     {
       "title": "临界连续裂纹的微观不连续性",
       "url": "https://smes.shu.edu.cn/info/1014/10305.htm",
       "date": "2026-04-29",
       "column": "学术报告"
-    },
-    {
-      "title": "临界连续裂纹的微观不连续性",
-      "url": "https://smes.shu.edu.cn/info/1014/10305.htm",
-      "date": "2026-04-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "关于举办2026年上海大学第七届“力与美”基础创新赛的通知",
-      "url": "https://smes.shu.edu.cn/info/1018/10315.htm",
-      "date": "2026-04-29",
-      "column": "教学动态"
     },
     {
       "title": "关于举办2026年上海大学第七届“力与美”基础创新赛...",
@@ -80,28 +57,16 @@
       "column": "学术报告"
     },
     {
-      "title": "建筑中的数字化制造：欧洲范围内的3D混凝土打印",
-      "url": "https://smes.shu.edu.cn/info/1014/10295.htm",
-      "date": "2026-04-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "关于上海大学力学与工程科学学院第四届青年教师课堂教学竞赛报名的通知",
-      "url": "https://smes.shu.edu.cn/info/1018/10285.htm",
-      "date": "2026-04-24",
-      "column": "教学动态"
-    },
-    {
       "title": "关于上海大学力学与工程科学学院第四届青年教师课堂...",
       "url": "https://smes.shu.edu.cn/info/1018/10285.htm",
       "date": "2026-04-24",
       "column": "教学动态"
     },
     {
-      "title": "钱伟长力学SEMINAR 1005：非均匀材料与结构的力学行为研究",
-      "url": "https://smes.shu.edu.cn/info/1014/10265.htm",
-      "date": "2026-04-21",
-      "column": "学术报告"
+      "title": "力学所共同承办“第二十届现代数学和力学学术会议”",
+      "url": "https://smes.shu.edu.cn/info/1013/10275.htm",
+      "date": "2026-04-22",
+      "column": "综合新闻"
     },
     {
       "title": "钱伟长力学SEMINAR 1005：非均匀材料与结构的力学行...",
@@ -110,33 +75,39 @@
       "column": "学术报告"
     },
     {
-      "title": "关于举办第十四届上海大学大学生结构设计竞赛暨第九届上海市大学生结构设计竞赛校...",
-      "url": "https://smes.shu.edu.cn/info/1018/10255.htm",
-      "date": "2026-04-10",
-      "column": "教学动态"
-    },
-    {
       "title": "关于举办第十四届上海大学大学生结构设计竞赛暨第九...",
       "url": "https://smes.shu.edu.cn/info/1018/10255.htm",
       "date": "2026-04-10",
       "column": "教学动态"
     },
     {
-      "title": "格林兰岛冰盖流动建模初探",
-      "url": "https://smes.shu.edu.cn/info/1014/10055.htm",
-      "date": "2026-03-25",
-      "column": "学术报告"
+      "title": "力工学院举办春季学期安全主题教育活动",
+      "url": "https://smes.shu.edu.cn/info/1013/10225.htm",
+      "date": "2026-04-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "热血从军报国志，青春无悔强军梦——力工学院开展送...",
+      "url": "https://smes.shu.edu.cn/info/1013/10215.htm",
+      "date": "2026-04-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "追思先生风范，传承伟长初心｜力学与工程科学学院开...",
+      "url": "https://smes.shu.edu.cn/info/1013/10205.htm",
+      "date": "2026-03-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "力学与工程科学学院召开“十五五”发展规划专题研讨会",
+      "url": "https://smes.shu.edu.cn/info/1013/10115.htm",
+      "date": "2026-03-27",
+      "column": "综合新闻"
     },
     {
       "title": "格林兰岛冰盖流动建模初探",
       "url": "https://smes.shu.edu.cn/info/1014/10055.htm",
       "date": "2026-03-25",
-      "column": "学术报告"
-    },
-    {
-      "title": "钱伟长力学SEMINAR 1004：多组分相变模拟：一种锐界面VOF方法框架",
-      "url": "https://smes.shu.edu.cn/info/1014/10025.htm",
-      "date": "2026-03-18",
       "column": "学术报告"
     },
     {
@@ -146,10 +117,10 @@
       "column": "学术报告"
     },
     {
-      "title": "力学与工程科学学院2026年博士研究生招生工作办法",
-      "url": "https://smes.shu.edu.cn/info/1015/9925.htm",
-      "date": "2026-03-05",
-      "column": "通知公告"
+      "title": "力工学院党委部署启动树立和践行正确政绩观学习教育",
+      "url": "https://smes.shu.edu.cn/info/1013/9975.htm",
+      "date": "2026-03-12",
+      "column": "综合新闻"
     },
     {
       "title": "力学与工程科学学院2026年博士研究生招生工作办法",
@@ -158,10 +129,22 @@
       "column": "通知公告"
     },
     {
-      "title": "基于迁移学习的小样本腐蚀双金属钢筋疲劳寿命预测方法",
-      "url": "https://smes.shu.edu.cn/info/1014/9805.htm",
-      "date": "2026-01-20",
-      "column": "学术报告"
+      "title": "上海大学党委书记吴坚勇带队走访调研科技园及校友企...",
+      "url": "https://smes.shu.edu.cn/info/1013/9835.htm",
+      "date": "2026-02-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "闪亮！研究生校长奖学金获得者窦博，力学笃行！",
+      "url": "https://smes.shu.edu.cn/info/1013/9995.htm",
+      "date": "2026-01-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2025年度力学与工程科学学院党组织书记抓基层党建工...",
+      "url": "https://smes.shu.edu.cn/info/1013/9825.htm",
+      "date": "2026-01-21",
+      "column": "综合新闻"
     },
     {
       "title": "基于迁移学习的小样本腐蚀双金属钢筋疲劳寿命预测方法",
@@ -176,10 +159,10 @@
       "column": "学术报告"
     },
     {
-      "title": "负刚度消能伸臂动力试验、分级模拟与优化设计",
-      "url": "https://smes.shu.edu.cn/info/1014/9815.htm",
-      "date": "2026-01-20",
-      "column": "学术报告"
+      "title": "陈立群教授荣获2025年度教育部自然科学研究成果奖二...",
+      "url": "https://smes.shu.edu.cn/info/1013/9795.htm",
+      "date": "2026-01-15",
+      "column": "综合新闻"
     },
     {
       "title": "离合惯容器的减振机理分析与参数优化设计",
@@ -188,10 +171,10 @@
       "column": "学术报告"
     },
     {
-      "title": "离合惯容器的减振机理分析与参数优化设计",
-      "url": "https://smes.shu.edu.cn/info/1014/9775.htm",
-      "date": "2026-01-15",
-      "column": "学术报告"
+      "title": "力工学院安徽招宣组举办2026年“我为上大代言”实践...",
+      "url": "https://smes.shu.edu.cn/info/1013/10005.htm",
+      "date": "2026-01-11",
+      "column": "综合新闻"
     },
     {
       "title": "山区高墩桥梁抗震性能、控制方法与评估设计",
@@ -200,16 +183,34 @@
       "column": "学术报告"
     },
     {
-      "title": "山区高墩桥梁抗震性能、控制方法与评估设计",
-      "url": "https://smes.shu.edu.cn/info/1014/9445.htm",
-      "date": "2025-12-31",
-      "column": "学术报告"
+      "title": "党的光辉照我心！力工学院“星光”合唱团唱响伟长楼",
+      "url": "https://smes.shu.edu.cn/info/1013/9755.htm",
+      "date": "2025-12-29",
+      "column": "综合新闻"
     },
     {
-      "title": "基于数据驱动的建筑钢结构抗震韧性初步设计方法",
-      "url": "https://smes.shu.edu.cn/info/1014/9645.htm",
+      "title": "力学与工程科学学院&社会学院2025校企合作交流晚会精...",
+      "url": "https://smes.shu.edu.cn/info/1013/9745.htm",
+      "date": "2025-12-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "今晚8点，CCTV-9！继续跟随《钱伟长》的镜头，奔驰不...",
+      "url": "https://smes.shu.edu.cn/info/1013/9735.htm",
+      "date": "2025-12-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "力工学院&社会学院校企合作交流晚会邀请函，请查收~",
+      "url": "https://smes.shu.edu.cn/info/1013/9725.htm",
       "date": "2025-12-24",
-      "column": "学术报告"
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学理科试验班类“力学之钥”本科学术生涯系列...",
+      "url": "https://smes.shu.edu.cn/info/1013/9765.htm",
+      "date": "2025-12-24",
+      "column": "综合新闻"
     },
     {
       "title": "基于数据驱动的建筑钢结构抗震韧性初步设计方法",
@@ -224,16 +225,22 @@
       "column": "学术报告"
     },
     {
-      "title": "面向复杂结构的数字孪生健康监测与风险评估技术",
-      "url": "https://smes.shu.edu.cn/info/1014/9655.htm",
-      "date": "2025-12-24",
-      "column": "学术报告"
+      "title": "以专业之基筑科创之路，力工学子国赛斩获佳绩",
+      "url": "https://smes.shu.edu.cn/info/1013/9635.htm",
+      "date": "2025-12-23",
+      "column": "综合新闻"
     },
     {
-      "title": "2025 年“数智极端力学”产科教融合研讨会",
-      "url": "https://smes.shu.edu.cn/info/1014/9525.htm",
-      "date": "2025-12-04",
-      "column": "学术报告"
+      "title": "行业大讲堂：与上大青年共话建筑人的时代坐标",
+      "url": "https://smes.shu.edu.cn/info/1013/9625.htm",
+      "date": "2025-12-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "力工学院在2025年本科招生与学生就业工作总结表彰中...",
+      "url": "https://smes.shu.edu.cn/info/1013/9585.htm",
+      "date": "2025-12-15",
+      "column": "综合新闻"
     },
     {
       "title": "2025 年“数智极端力学”产科教融合研讨会",
@@ -248,27 +255,9 @@
       "column": "学术报告"
     },
     {
-      "title": "土的应力应变链",
-      "url": "https://smes.shu.edu.cn/info/1014/9515.htm",
-      "date": "2025-12-02",
-      "column": "学术报告"
-    },
-    {
       "title": "涨落流体力学：从低雷诺数界面流动到跨尺度湍流",
       "url": "https://smes.shu.edu.cn/info/1014/9485.htm",
       "date": "2025-12-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "涨落流体力学：从低雷诺数界面流动到跨尺度湍流",
-      "url": "https://smes.shu.edu.cn/info/1014/9485.htm",
-      "date": "2025-12-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "超大城市的实景三维建设:上海 LOD1.3 城市模型的技术体系与实践研究",
-      "url": "https://smes.shu.edu.cn/info/1014/9465.htm",
-      "date": "2025-11-26",
       "column": "学术报告"
     },
     {
@@ -284,27 +273,9 @@
       "column": "学术报告"
     },
     {
-      "title": "钱伟长力学SEMINAR 1003：海上风电工程与技术",
-      "url": "https://smes.shu.edu.cn/info/1014/9435.htm",
-      "date": "2025-11-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "钱伟长力学SEMINAR 1002：波浪与薄板阵列超结构相互作用的理论分析研究",
-      "url": "https://smes.shu.edu.cn/info/1014/9345.htm",
-      "date": "2025-11-11",
-      "column": "学术报告"
-    },
-    {
       "title": "钱伟长力学SEMINAR 1002：波浪与薄板阵列超结构相互...",
       "url": "https://smes.shu.edu.cn/info/1014/9345.htm",
       "date": "2025-11-11",
-      "column": "学术报告"
-    },
-    {
-      "title": "AI-Enhanced Design Codes: A Machine Learning Approach for Shear Capacity Pred...",
-      "url": "https://smes.shu.edu.cn/info/1014/9265.htm",
-      "date": "2025-10-27",
       "column": "学术报告"
     },
     {
@@ -314,22 +285,10 @@
       "column": "学术报告"
     },
     {
-      "title": "钱伟长力学SEMINAR 1001：智算力学——数智化时代的计算力学",
-      "url": "https://smes.shu.edu.cn/info/1014/9365.htm",
-      "date": "2025-10-23",
-      "column": "学术报告"
-    },
-    {
       "title": "钱伟长力学SEMINAR 1001：智算力学——数智化时代的...",
       "url": "https://smes.shu.edu.cn/info/1014/9365.htm",
       "date": "2025-10-23",
       "column": "学术报告"
-    },
-    {
-      "title": "力学与工程科学学院博士研究生吕宇航在《Energy Storage Materials》上发表锂电池...",
-      "url": "https://smes.shu.edu.cn/info/1017/9245.htm",
-      "date": "2025-10-23",
-      "column": "科研动态"
     },
     {
       "title": "力学与工程科学学院博士研究生吕宇航在《Energy Stor...",
@@ -338,21 +297,9 @@
       "column": "科研动态"
     },
     {
-      "title": "力学与工程科学学院2025—2026学年研究生党团研学生骨干招新名单公示",
-      "url": "https://smes.shu.edu.cn/info/1015/9005.htm",
-      "date": "2025-09-29",
-      "column": "通知公告"
-    },
-    {
       "title": "力学与工程科学学院2025—2026学年研究生党团研学生...",
       "url": "https://smes.shu.edu.cn/info/1015/9005.htm",
       "date": "2025-09-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "力学与工程科学学院2026年推荐优秀应届本科毕业生免试攻读研究生工作实施细则",
-      "url": "https://smes.shu.edu.cn/info/1015/8745.htm",
-      "date": "2025-09-02",
       "column": "通知公告"
     },
     {
@@ -368,18 +315,6 @@
       "column": "教学动态"
     },
     {
-      "title": "关于2025年上海大学第十一届力学竞赛评奖结果的公布",
-      "url": "https://smes.shu.edu.cn/info/1018/8345.htm",
-      "date": "2025-05-19",
-      "column": "教学动态"
-    },
-    {
-      "title": "上海大学第十一届力学竞赛通知",
-      "url": "https://smes.shu.edu.cn/info/1015/8225.htm",
-      "date": "2025-04-28",
-      "column": "通知公告"
-    },
-    {
       "title": "上海大学第十一届力学竞赛通知",
       "url": "https://smes.shu.edu.cn/info/1015/8225.htm",
       "date": "2025-04-28",
@@ -392,39 +327,15 @@
       "column": "教学动态"
     },
     {
-      "title": "关于举办2025年上海大学第十一届力学竞赛的通知",
-      "url": "https://smes.shu.edu.cn/info/1018/8335.htm",
-      "date": "2025-04-28",
-      "column": "教学动态"
-    },
-    {
       "title": "2025年流体力学学科发展战略研讨会在上海召开",
       "url": "https://smes.shu.edu.cn/info/1017/8165.htm",
       "date": "2025-04-14",
       "column": "科研动态"
-    },
-    {
-      "title": "2025年流体力学学科发展战略研讨会在上海召开",
-      "url": "https://smes.shu.edu.cn/info/1017/8165.htm",
-      "date": "2025-04-14",
-      "column": "科研动态"
-    },
-    {
-      "title": "力学与工程科学学院2025年度本科生校长奖学金评选推荐名单公示",
-      "url": "https://smes.shu.edu.cn/info/1016/8115.htm",
-      "date": "2025-04-10",
-      "column": "学生信息"
     },
     {
       "title": "力学与工程科学学院2025年度本科生校长奖学金评选推...",
       "url": "https://smes.shu.edu.cn/info/1016/8115.htm",
       "date": "2025-04-10",
-      "column": "学生信息"
-    },
-    {
-      "title": "力学与工程科学学院2025届本科生优秀毕业生评选推荐名单公示",
-      "url": "https://smes.shu.edu.cn/info/1016/8085.htm",
-      "date": "2025-04-09",
       "column": "学生信息"
     },
     {
@@ -434,22 +345,10 @@
       "column": "学生信息"
     },
     {
-      "title": "力工学院张俊乾教授领衔编著的全英文教材Mechanics of Elastic Solids正式出版",
-      "url": "https://smes.shu.edu.cn/info/1018/8095.htm",
-      "date": "2025-04-09",
-      "column": "教学动态"
-    },
-    {
       "title": "力工学院张俊乾教授领衔编著的全英文教材Mechanics o...",
       "url": "https://smes.shu.edu.cn/info/1018/8095.htm",
       "date": "2025-04-09",
       "column": "教学动态"
-    },
-    {
-      "title": "关于举办2025年上海大学第六届”力与美“基础创新赛的通知",
-      "url": "https://smes.shu.edu.cn/info/1016/8125.htm",
-      "date": "2025-04-07",
-      "column": "学生信息"
     },
     {
       "title": "关于举办2025年上海大学第六届”力与美“基础创新赛...",
@@ -458,22 +357,10 @@
       "column": "学生信息"
     },
     {
-      "title": "关于举办2025年上海大学第六届“力与美”基础创新赛的通知",
-      "url": "https://smes.shu.edu.cn/info/1018/8045.htm",
-      "date": "2025-04-03",
-      "column": "教学动态"
-    },
-    {
       "title": "关于举办2025年上海大学第六届“力与美”基础创新赛...",
       "url": "https://smes.shu.edu.cn/info/1018/8045.htm",
       "date": "2025-04-03",
       "column": "教学动态"
-    },
-    {
-      "title": "力学和土木工程学科7位学者入选2024“中国高被引学者” 榜单",
-      "url": "https://smes.shu.edu.cn/info/1017/7865.htm",
-      "date": "2025-03-27",
-      "column": "科研动态"
     },
     {
       "title": "力学和土木工程学科7位学者入选2024“中国高被引学者...",
@@ -482,22 +369,10 @@
       "column": "科研动态"
     },
     {
-      "title": "关于第十五届全国周培源大学生力学竞赛上海大学报名的通知",
-      "url": "https://smes.shu.edu.cn/info/1018/7465.htm",
-      "date": "2025-01-03",
-      "column": "教学动态"
-    },
-    {
       "title": "关于第十五届全国周培源大学生力学竞赛上海大学报名...",
       "url": "https://smes.shu.edu.cn/info/1018/7465.htm",
       "date": "2025-01-03",
       "column": "教学动态"
-    },
-    {
-      "title": "【11月15日招聘会】力学与工程科学学院专业相关参会企业新鲜出炉！",
-      "url": "https://smes.shu.edu.cn/info/1015/7115.htm",
-      "date": "2024-11-14",
-      "column": "通知公告"
     },
     {
       "title": "【11月15日招聘会】力学与工程科学学院专业相关参会...",
@@ -506,33 +381,15 @@
       "column": "通知公告"
     },
     {
-      "title": "国家自然科学基金委创新研究群体项目“人工智能驱动的多物理耦合力学”启动会召开",
-      "url": "https://smes.shu.edu.cn/info/1017/7045.htm",
-      "date": "2024-11-12",
-      "column": "科研动态"
-    },
-    {
       "title": "国家自然科学基金委创新研究群体项目“人工智能驱动...",
       "url": "https://smes.shu.edu.cn/info/1017/7045.htm",
       "date": "2024-11-12",
       "column": "科研动态"
     },
     {
-      "title": "12位院士齐聚！上海市应用数学和力学研究所成立40周年！",
-      "url": "https://smes.shu.edu.cn/info/1017/6925.htm",
-      "date": "2024-11-03",
-      "column": "科研动态"
-    },
-    {
       "title": "12位院士齐聚！上海市应用数学和力学研究所成立40周...",
       "url": "https://smes.shu.edu.cn/info/1017/6925.htm",
       "date": "2024-11-03",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海市应用数学和力学研究所成立40周年青年学者学术论坛暨上海力学研究生学术节成...",
-      "url": "https://smes.shu.edu.cn/info/1017/6635.htm",
-      "date": "2024-10-21",
       "column": "科研动态"
     },
     {
@@ -548,27 +405,9 @@
       "column": "通知公告"
     },
     {
-      "title": "第十届上海大学力学竞赛通知",
-      "url": "https://smes.shu.edu.cn/info/1015/6535.htm",
-      "date": "2024-10-10",
-      "column": "通知公告"
-    },
-    {
       "title": "力工学院平振研究所召开学科建设研讨会",
       "url": "https://smes.shu.edu.cn/info/1017/6645.htm",
       "date": "2024-09-30",
-      "column": "科研动态"
-    },
-    {
-      "title": "力工学院平振研究所召开学科建设研讨会",
-      "url": "https://smes.shu.edu.cn/info/1017/6645.htm",
-      "date": "2024-09-30",
-      "column": "科研动态"
-    },
-    {
-      "title": "力学与工程科学学院刘飞禹教授荣获2023年度江西省科技进步奖一等奖",
-      "url": "https://smes.shu.edu.cn/info/1017/6655.htm",
-      "date": "2024-09-19",
       "column": "科研动态"
     },
     {
@@ -584,40 +423,16 @@
       "column": "教学动态"
     },
     {
-      "title": "关于第六届上海市大学生力学竞赛上海大学报名的通知",
-      "url": "https://smes.shu.edu.cn/info/1018/6175.htm",
-      "date": "2024-07-29",
-      "column": "教学动态"
-    },
-    {
-      "title": "祝贺！力工学院孙德安教授荣获2023年度国家自然科学奖二等奖",
-      "url": "https://smes.shu.edu.cn/info/1017/6135.htm",
-      "date": "2024-06-29",
-      "column": "科研动态"
-    },
-    {
       "title": "祝贺！力工学院孙德安教授荣获2023年度国家自然科学...",
       "url": "https://smes.shu.edu.cn/info/1017/6135.htm",
       "date": "2024-06-29",
       "column": "科研动态"
     },
     {
-      "title": "祝贺！力工学院孙德安教授荣获2023年度国家自然科学奖二等奖",
-      "url": "https://smes.shu.edu.cn/info/1212/6125.htm",
-      "date": "2024-06-29",
-      "column": "教师风采"
-    },
-    {
       "title": "祝贺！力工学院孙德安教授荣获2023年度国家自然科学...",
       "url": "https://smes.shu.edu.cn/info/1212/6125.htm",
       "date": "2024-06-29",
       "column": "教师风采"
-    },
-    {
-      "title": "力学与工程科学学院博士研究生薛亦璇《Applied Physics Reviews》论文入选Featured...",
-      "url": "https://smes.shu.edu.cn/info/1017/5925.htm",
-      "date": "2024-05-21",
-      "column": "科研动态"
     },
     {
       "title": "力学与工程科学学院博士研究生薛亦璇《Applied Physi...",
@@ -632,27 +447,9 @@
       "column": "通知公告"
     },
     {
-      "title": "上海大学苏州工业园区奖学金公示（力学与工程科学学院）",
-      "url": "https://smes.shu.edu.cn/info/1015/5865.htm",
-      "date": "2024-05-20",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2024年上海大学力学与工程科学学院 “年度青年”评选的公示",
-      "url": "https://smes.shu.edu.cn/info/1015/5775.htm",
-      "date": "2024-05-09",
-      "column": "通知公告"
-    },
-    {
       "title": "关于2024年上海大学力学与工程科学学院 “年度青年”...",
       "url": "https://smes.shu.edu.cn/info/1015/5775.htm",
       "date": "2024-05-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "力学与工程科学学院2024届本科生优秀毕业生评选推荐名单公示",
-      "url": "https://smes.shu.edu.cn/info/1015/5705.htm",
-      "date": "2024-04-23",
       "column": "通知公告"
     },
     {
@@ -662,22 +459,10 @@
       "column": "通知公告"
     },
     {
-      "title": "关于评选2024年上海大学力学与工程科学学院“年度青年”的通知",
-      "url": "https://smes.shu.edu.cn/info/1015/5695.htm",
-      "date": "2024-04-22",
-      "column": "通知公告"
-    },
-    {
       "title": "关于评选2024年上海大学力学与工程科学学院“年度青...",
       "url": "https://smes.shu.edu.cn/info/1015/5695.htm",
       "date": "2024-04-22",
       "column": "通知公告"
-    },
-    {
-      "title": "关于举办上海大学第十二届大学生结构赛暨第七届上海大学生结构设计竞赛校内选拔赛...",
-      "url": "https://smes.shu.edu.cn/info/1018/5585.htm",
-      "date": "2024-04-12",
-      "column": "教学动态"
     },
     {
       "title": "关于举办上海大学第十二届大学生结构赛暨第七届上海...",
@@ -686,21 +471,21 @@
       "column": "教学动态"
     },
     {
-      "title": "关于力学专业研究生招生咨询电话变更的公告",
-      "url": "https://smes.shu.edu.cn/info/1015/5385.htm",
-      "date": "2024-03-14",
-      "column": "通知公告"
+      "title": "关于举办2024年第五届上海大学“力与美”基础创新赛...",
+      "url": "https://smes.shu.edu.cn/info/1018/5515.htm",
+      "date": "2024-03-27",
+      "column": "教学动态"
+    },
+    {
+      "title": "关于举办2024年第五届上海大学“力与美”基础创新赛...",
+      "url": "https://smes.shu.edu.cn/info/1018/5455.htm",
+      "date": "2024-03-25",
+      "column": "教学动态"
     },
     {
       "title": "关于力学专业研究生招生咨询电话变更的公告",
       "url": "https://smes.shu.edu.cn/info/1015/5385.htm",
       "date": "2024-03-14",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于申请2024年度王宽诚教育基金资助高校学者出国、赴港澳参加国际会议与赴港澳讲...",
-      "url": "https://smes.shu.edu.cn/info/1015/5365.htm",
-      "date": "2024-01-25",
       "column": "通知公告"
     },
     {
@@ -710,22 +495,10 @@
       "column": "通知公告"
     },
     {
-      "title": "【短期项目】2024芬兰奥卢大学冬季学分项目 ——芬兰模式与北欧创新创业课程",
-      "url": "https://mp.weixin.qq.com/s/t-sjWPAqPlasFyLW-KF_Rw",
-      "date": "2023-12-15",
-      "column": "学生信息"
-    },
-    {
       "title": "【短期项目】2024芬兰奥卢大学冬季学分项目 ——芬兰...",
       "url": "https://mp.weixin.qq.com/s/t-sjWPAqPlasFyLW-KF_Rw",
       "date": "2023-12-15",
       "column": "学生信息"
-    },
-    {
-      "title": "关于开展2024年上海大学全英文授课专业（课程）建设申报的通知",
-      "url": "https://global.shu.edu.cn/info/1003/11583.htm",
-      "date": "2023-12-13",
-      "column": "通知公告"
     },
     {
       "title": "关于开展2024年上海大学全英文授课专业（课程）建设...",
@@ -741,27 +514,9 @@
     },
     {
       "title": "力学与工程科学学院柳扬清获玛丽·居里学者计划资助",
-      "url": "https://smes.shu.edu.cn/info/1017/5025.htm",
-      "date": "2023-11-13",
-      "column": "科研动态"
-    },
-    {
-      "title": "力学与工程科学学院柳扬清获玛丽·居里学者计划资助",
       "url": "https://smes.shu.edu.cn/info/1212/5035.htm",
       "date": "2023-11-13",
       "column": "教师风采"
-    },
-    {
-      "title": "力学与工程科学学院柳扬清获玛丽·居里学者计划资助",
-      "url": "https://smes.shu.edu.cn/info/1212/5035.htm",
-      "date": "2023-11-13",
-      "column": "教师风采"
-    },
-    {
-      "title": "关于参加第四届国际大学生工程力学竞赛（亚洲赛区）报名暨举行上海大学校内选拔赛...",
-      "url": "https://smes.shu.edu.cn/info/1015/4885.htm",
-      "date": "2023-10-18",
-      "column": "通知公告"
     },
     {
       "title": "关于参加第四届国际大学生工程力学竞赛（亚洲赛区）...",
@@ -770,20 +525,8 @@
       "column": "通知公告"
     },
     {
-      "title": "【海外交流】关于启动2023年度上海大学学生海外学习交流资助工作的通知",
-      "url": "https://mp.weixin.qq.com/s/lhYrOU9xRSqogI5oItPyBg",
-      "date": "2023-09-26",
-      "column": "学生信息"
-    },
-    {
       "title": "【海外交流】关于启动2023年度上海大学学生海外学习...",
       "url": "https://mp.weixin.qq.com/s/lhYrOU9xRSqogI5oItPyBg",
-      "date": "2023-09-26",
-      "column": "学生信息"
-    },
-    {
-      "title": "联合国日内瓦实地交流项目·上海大学研究生专场招募说明会",
-      "url": "https://r.xiumi.us/board/v5/6kr6m/482284384",
       "date": "2023-09-26",
       "column": "学生信息"
     },
@@ -794,21 +537,15 @@
       "column": "学生信息"
     },
     {
-      "title": "关于做好2023年度“晨光计划”项目申报工作的通知",
-      "url": "https://smes.shu.edu.cn/info/1015/4515.htm",
-      "date": "2023-08-22",
-      "column": "通知公告"
+      "title": "上海大学人工智能与计算力学校级教学团队教学研讨会...",
+      "url": "https://smes.shu.edu.cn/info/1018/4635.htm",
+      "date": "2023-09-11",
+      "column": "教学动态"
     },
     {
       "title": "关于做好2023年度“晨光计划”项目申报工作的通知",
       "url": "https://smes.shu.edu.cn/info/1015/4515.htm",
       "date": "2023-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "2023年上海大学力学与工程科学学院本科生转专业工作实施方案",
-      "url": "https://smes.shu.edu.cn/info/1015/4364.htm",
-      "date": "2023-06-30",
       "column": "通知公告"
     },
     {
@@ -824,28 +561,10 @@
       "column": "通知公告"
     },
     {
-      "title": "2023年度“慧眼行动”创新成果征集公告",
-      "url": "https://smes.shu.edu.cn/info/1015/4224.htm",
-      "date": "2023-06-05",
-      "column": "通知公告"
-    },
-    {
       "title": "第五届力学通识教育教学研讨会会议手册",
       "url": "https://smes.shu.edu.cn/diwujielixuetongshijiaoyujiaoxueyantaohuishoucezhongban.pdf",
       "date": "2023-05-15",
       "column": "通知公告"
-    },
-    {
-      "title": "第五届力学通识教育教学研讨会会议手册",
-      "url": "https://smes.shu.edu.cn/diwujielixuetongshijiaoyujiaoxueyantaohuishoucezhongban.pdf",
-      "date": "2023-05-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "高层次国际化人才培养创新实践项目2023年春季学期学术前沿大咖说公益性系列讲座专...",
-      "url": "https://mp.weixin.qq.com/s/U4KwWqjJao9XOVQ8rzdihQ",
-      "date": "2023-05-09",
-      "column": "学生信息"
     },
     {
       "title": "高层次国际化人才培养创新实践项目2023年春季学期学...",
@@ -860,18 +579,6 @@
       "column": "学生信息"
     },
     {
-      "title": "【短期项目】2023年德国亚琛工业大学夏令营",
-      "url": "https://mp.weixin.qq.com/s/0c7BRXwbNwaIINYwhvuO6g",
-      "date": "2023-05-08",
-      "column": "学生信息"
-    },
-    {
-      "title": "力学与工程科学学院2023届本科生优秀毕业生评选推荐结果公示",
-      "url": "https://smes.shu.edu.cn/info/1015/3944.htm",
-      "date": "2023-04-24",
-      "column": "通知公告"
-    },
-    {
       "title": "力学与工程科学学院2023届本科生优秀毕业生评选推荐...",
       "url": "https://smes.shu.edu.cn/info/1015/3944.htm",
       "date": "2023-04-24",
@@ -884,26 +591,8 @@
       "column": "学生信息"
     },
     {
-      "title": "上海大学·新青年海外社会调研项目学员招募线上宣讲会",
-      "url": "https://mp.weixin.qq.com/s/vTd4E439p_WQnhCIaVlPgw",
-      "date": "2023-04-18",
-      "column": "学生信息"
-    },
-    {
-      "title": "【项目宣讲】2023年上海大学与亚琛工业大学“4+2”本硕联合培养项目宣讲会",
-      "url": "https://mp.weixin.qq.com/s/72vQrSu7Qv3ThIyQ2hsrDQ",
-      "date": "2023-04-17",
-      "column": "学生信息"
-    },
-    {
       "title": "【项目宣讲】2023年上海大学与亚琛工业大学“4+2”本...",
       "url": "https://mp.weixin.qq.com/s/72vQrSu7Qv3ThIyQ2hsrDQ",
-      "date": "2023-04-17",
-      "column": "学生信息"
-    },
-    {
-      "title": "【国际组织】2023年国家留学基金管理委员会与有关国际组织实习生合作项目 （第一批...",
-      "url": "https://mp.weixin.qq.com/s/S12GnzO68eVj3tlSKCW70w",
       "date": "2023-04-17",
       "column": "学生信息"
     },
@@ -914,33 +603,15 @@
       "column": "学生信息"
     },
     {
-      "title": "力学与工程科学学院2022年度上海大学百名优秀团员、上海大学五四红旗团支部评选推...",
-      "url": "https://smes.shu.edu.cn/info/1015/3804.htm",
-      "date": "2023-04-13",
-      "column": "通知公告"
-    },
-    {
       "title": "力学与工程科学学院2022年度上海大学百名优秀团员、...",
       "url": "https://smes.shu.edu.cn/info/1015/3804.htm",
       "date": "2023-04-13",
       "column": "通知公告"
     },
     {
-      "title": "【交换生项目】2023年秋季学期上海大学与澳门城市大学交换生项目",
-      "url": "https://mp.weixin.qq.com/s/SMc_GItt5nOaImraelInbA",
-      "date": "2023-04-04",
-      "column": "学生信息"
-    },
-    {
       "title": "【交换生项目】2023年秋季学期上海大学与澳门城市大...",
       "url": "https://mp.weixin.qq.com/s/SMc_GItt5nOaImraelInbA",
       "date": "2023-04-04",
-      "column": "学生信息"
-    },
-    {
-      "title": "【国际组织】联合国维也纳办事处（中文翻译和文本处理组、图书馆）招募实习生",
-      "url": "https://mp.weixin.qq.com/s/uc5yp6otvsqqHRVaD0Kxfg",
-      "date": "2023-03-30",
       "column": "学生信息"
     },
     {
@@ -950,10 +621,10 @@
       "column": "学生信息"
     },
     {
-      "title": "转发关于发布上海市2023年度“科技创新行动计划”国际科技合作项目申报指南的通知",
-      "url": "https://smes.shu.edu.cn/info/1015/3394.htm",
-      "date": "2023-03-22",
-      "column": "通知公告"
+      "title": "关于举办“力与美”基础创新赛之手掷滑翔机竞时赛的通知",
+      "url": "https://smes.shu.edu.cn/info/1018/3524.htm",
+      "date": "2023-03-23",
+      "column": "教学动态"
     },
     {
       "title": "转发关于发布上海市2023年度“科技创新行动计划”国...",
@@ -962,10 +633,22 @@
       "column": "通知公告"
     },
     {
-      "title": "【交换生项目】2023年秋季上海大学与澳门大学交换生项目招募通知",
-      "url": "https://smes.shu.edu.cn/info/1016/3234.htm",
-      "date": "2023-03-03",
-      "column": "学生信息"
+      "title": "力学系2023年第一期本科教学研讨会顺利召开",
+      "url": "https://smes.shu.edu.cn/info/1018/3484.htm",
+      "date": "2023-03-21",
+      "column": "教学动态"
+    },
+    {
+      "title": "关于举办第九届上海大学力学竞赛的通知",
+      "url": "https://smes.shu.edu.cn/info/1018/3504.htm",
+      "date": "2023-03-21",
+      "column": "教学动态"
+    },
+    {
+      "title": "我院举办第十四届全国周培源大学生力学竞赛动员会",
+      "url": "https://smes.shu.edu.cn/info/1018/3294.htm",
+      "date": "2023-03-08",
+      "column": "教学动态"
     },
     {
       "title": "【交换生项目】2023年秋季上海大学与澳门大学交换生...",
@@ -980,18 +663,6 @@
       "column": "学生信息"
     },
     {
-      "title": "上海大学2023-2024年秋季学期交换生项目招募通知",
-      "url": "https://smes.shu.edu.cn/info/1016/3224.htm",
-      "date": "2023-03-02",
-      "column": "学生信息"
-    },
-    {
-      "title": "【国际组织】项目通知",
-      "url": "https://smes.shu.edu.cn/info/1016/3204.htm",
-      "date": "2023-03-01",
-      "column": "学生信息"
-    },
-    {
       "title": "【国际组织】项目通知",
       "url": "https://smes.shu.edu.cn/info/1016/3204.htm",
       "date": "2023-03-01",
@@ -1002,29 +673,11 @@
       "url": "https://smes.shu.edu.cn/info/1015/3114.htm",
       "date": "2023-02-16",
       "column": "通知公告"
-    },
-    {
-      "title": "力学与工程科学学院2023届研究生优秀毕业生评选通知",
-      "url": "https://smes.shu.edu.cn/info/1015/3114.htm",
-      "date": "2023-02-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "博士研究生李姜华在《Journal of Fluid Mechanics》和《Physics of Fluids》上发表...",
-      "url": "https://smes.shu.edu.cn/info/1017/2964.htm",
-      "date": "2022-12-18",
-      "column": "科研动态"
     },
     {
       "title": "博士研究生李姜华在《Journal of Fluid Mechanics》...",
       "url": "https://smes.shu.edu.cn/info/1017/2964.htm",
       "date": "2022-12-18",
-      "column": "科研动态"
-    },
-    {
-      "title": "博士研究生杨文武在《Journal of Fluid Mechanics》和《Physics of Fluids》上发表...",
-      "url": "https://smes.shu.edu.cn/info/1017/2944.htm",
-      "date": "2022-12-15",
       "column": "科研动态"
     },
     {
@@ -1040,28 +693,10 @@
       "column": "通知公告"
     },
     {
-      "title": "2022年秋季书记院长接待日",
-      "url": "https://smes.shu.edu.cn/info/1015/2475.htm",
-      "date": "2022-09-26",
-      "column": "通知公告"
-    },
-    {
       "title": "上海大学2022年力学“暑期夏令营”通知",
       "url": "https://smes.shu.edu.cn/info/1015/2774.htm",
       "date": "2022-07-04",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学2022年力学“暑期夏令营”通知",
-      "url": "https://smes.shu.edu.cn/info/1015/2774.htm",
-      "date": "2022-07-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "我校孙德安教授被遴选为2023年黄文熙讲座(第26讲)主讲人",
-      "url": "https://smes.shu.edu.cn/info/1017/2746.htm",
-      "date": "2022-05-09",
-      "column": "科研动态"
     },
     {
       "title": "我校孙德安教授被遴选为2023年黄文熙讲座(第26讲)主...",
@@ -1076,26 +711,8 @@
       "column": "通知公告"
     },
     {
-      "title": "力学与工程科学学院2022年本科生优秀毕业生名单公示",
-      "url": "https://smes.shu.edu.cn/info/1015/2745.htm",
-      "date": "2022-05-06",
-      "column": "通知公告"
-    },
-    {
       "title": "上海大学力学与工程科学学院导师倡议书",
       "url": "https://smes.shu.edu.cn/info/1015/2728.htm",
-      "date": "2022-04-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学力学与工程科学学院导师倡议书",
-      "url": "https://smes.shu.edu.cn/info/1015/2728.htm",
-      "date": "2022-04-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学力学与工程科学学院导师倡议书",
-      "url": "https://smes.shu.edu.cn/info/1015/2729.htm",
       "date": "2022-04-15",
       "column": "通知公告"
     },
@@ -1113,15 +730,21 @@
     },
     {
       "title": "国家级一流本科专业建设点：理论与应用力学",
-      "url": "https://smes.shu.edu.cn/info/1015/2722.htm",
+      "url": "https://smes.shu.edu.cn/info/1018/2692.htm",
       "date": "2022-03-14",
+      "column": "教学动态"
+    },
+    {
+      "title": "关于宋丽芬同志担任力学与工程科学学院办公室主任（...",
+      "url": "https://smes.shu.edu.cn/info/1015/2662.htm",
+      "date": "2022-01-14",
       "column": "通知公告"
     },
     {
-      "title": "“长江学者”、同济大学黄宏伟教授来我校讲学",
-      "url": "https://smes.shu.edu.cn/info/1017/2638.htm",
-      "date": "2021-12-02",
-      "column": "科研动态"
+      "title": "我校学生在2021年第三届国际大学生工程力学竞赛（亚...",
+      "url": "https://smes.shu.edu.cn/info/1018/2661.htm",
+      "date": "2022-01-04",
+      "column": "教学动态"
     },
     {
       "title": "“长江学者”、同济大学黄宏伟教授来我校讲学",
@@ -1130,10 +753,16 @@
       "column": "科研动态"
     },
     {
-      "title": "力学与工程科学学院硕士研究生在国际顶级水处理期刊《Water Research》发表论文",
-      "url": "https://smes.shu.edu.cn/info/1017/2509.htm",
-      "date": "2021-05-27",
-      "column": "科研动态"
+      "title": "力学与工程科学学院办公室主任（挂职）选聘启事",
+      "url": "https://smes.shu.edu.cn/info/1015/2609.htm",
+      "date": "2021-11-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年力学与工程科学学院接收免试攻读硕士研究生（...",
+      "url": "https://smes.shu.edu.cn/info/1015/2568.htm",
+      "date": "2021-09-23",
+      "column": "通知公告"
     },
     {
       "title": "力学与工程科学学院硕士研究生在国际顶级水处理期刊...",
@@ -1142,20 +771,8 @@
       "column": "科研动态"
     },
     {
-      "title": "于细微处探真知，从平实里见真实：这位上大青年教授有点儿酷！",
-      "url": "https://smes.shu.edu.cn/info/1212/2452.htm",
-      "date": "2021-04-06",
-      "column": "教师风采"
-    },
-    {
       "title": "于细微处探真知，从平实里见真实：这位上大青年教授...",
       "url": "https://smes.shu.edu.cn/info/1212/2452.htm",
-      "date": "2021-04-06",
-      "column": "教师风采"
-    },
-    {
-      "title": "湍流前沿基础研究的上大探索者，他说“学生，是老师的第二张名片”",
-      "url": "https://smes.shu.edu.cn/info/1212/2453.htm",
       "date": "2021-04-06",
       "column": "教师风采"
     },
@@ -1166,34 +783,22 @@
       "column": "教师风采"
     },
     {
-      "title": "关于对2020年超过最长学习年限研究生予以退学决定未送达的公告",
-      "url": "https://smes.shu.edu.cn/info/1016/2362.htm",
-      "date": "2021-01-11",
-      "column": "学生信息"
-    },
-    {
       "title": "关于对2020年超过最长学习年限研究生予以退学决定未...",
       "url": "https://smes.shu.edu.cn/info/1016/2362.htm",
       "date": "2021-01-11",
       "column": "学生信息"
     },
     {
-      "title": "“坚守初心担使命 潜心育人书华章”——陈立群教授出席全国劳动模范和先进工作者表...",
-      "url": "https://smes.shu.edu.cn/info/1212/2454.htm",
-      "date": "2020-11-27",
-      "column": "教师风采"
+      "title": "力学与工程科学学院关于加强推荐优秀团员作为入党积...",
+      "url": "https://smes.shu.edu.cn/info/1015/3914.htm",
+      "date": "2020-12-11",
+      "column": "通知公告"
     },
     {
       "title": "“坚守初心担使命 潜心育人书华章”——陈立群教授出...",
       "url": "https://smes.shu.edu.cn/info/1212/2454.htm",
       "date": "2020-11-27",
       "column": "教师风采"
-    },
-    {
-      "title": "微积分课程思政的一种研究与实践途径——基于辩证唯物主义的观点与方法指导整个教与学",
-      "url": "https://smes.shu.edu.cn/info/1014/2291.htm",
-      "date": "2020-11-17",
-      "column": "学术报告"
     },
     {
       "title": "微积分课程思政的一种研究与实践途径——基于辩证唯...",
@@ -1208,18 +813,6 @@
       "column": "学术报告"
     },
     {
-      "title": "何敏娟教授：现代木结构发展及其工程应用",
-      "url": "https://smes.shu.edu.cn/info/1014/2272.htm",
-      "date": "2020-11-11",
-      "column": "学术报告"
-    },
-    {
-      "title": "关于力学与工程科学学院2020年对超过最长学习年限研究生做退学处理的公告",
-      "url": "https://smes.shu.edu.cn/info/1016/2271.htm",
-      "date": "2020-11-11",
-      "column": "学生信息"
-    },
-    {
       "title": "关于力学与工程科学学院2020年对超过最长学习年限研...",
       "url": "https://smes.shu.edu.cn/info/1016/2271.htm",
       "date": "2020-11-11",
@@ -1228,18 +821,6 @@
     {
       "title": "杨石飞教授级高级工程师：地下工程大数据分析应用",
       "url": "https://smes.shu.edu.cn/info/1014/2263.htm",
-      "date": "2020-11-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "杨石飞教授级高级工程师：地下工程大数据分析应用",
-      "url": "https://smes.shu.edu.cn/info/1014/2263.htm",
-      "date": "2020-11-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "吴应明教授级高工：川藏铁路高原高地温隧道施工关键技术与装备研究",
-      "url": "https://smes.shu.edu.cn/info/1014/2264.htm",
       "date": "2020-11-04",
       "column": "学术报告"
     },
@@ -1256,18 +837,6 @@
       "column": "学术报告"
     },
     {
-      "title": "王通副教授：湍流入流对复杂地形风场的影响研究",
-      "url": "https://smes.shu.edu.cn/info/1014/2265.htm",
-      "date": "2020-11-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "霍林生教授：基于压电智能材料的结构健康监测研究进展",
-      "url": "https://smes.shu.edu.cn/info/1014/2262.htm",
-      "date": "2020-11-03",
-      "column": "学术报告"
-    },
-    {
       "title": "霍林生教授：基于压电智能材料的结构健康监测研究进展",
       "url": "https://smes.shu.edu.cn/info/1014/2262.htm",
       "date": "2020-11-03",
@@ -1276,18 +845,6 @@
     {
       "title": "杨爱武教授：岩土工程勘察实践中问题探讨",
       "url": "https://smes.shu.edu.cn/info/1014/2245.htm",
-      "date": "2020-10-27",
-      "column": "学术报告"
-    },
-    {
-      "title": "杨爱武教授：岩土工程勘察实践中问题探讨",
-      "url": "https://smes.shu.edu.cn/info/1014/2245.htm",
-      "date": "2020-10-27",
-      "column": "学术报告"
-    },
-    {
-      "title": "詹良通教授：固体废物填埋场地土壤与地下水污染风险管控策略与技术",
-      "url": "https://smes.shu.edu.cn/info/1014/2246.htm",
       "date": "2020-10-27",
       "column": "学术报告"
     },
@@ -1298,20 +855,8 @@
       "column": "学术报告"
     },
     {
-      "title": "力学与工程科学学院2020年研究生国家奖学金和校长奖学金候选人推荐名单公示",
-      "url": "https://smes.shu.edu.cn/info/1016/2211.htm",
-      "date": "2020-10-20",
-      "column": "学生信息"
-    },
-    {
       "title": "力学与工程科学学院2020年研究生国家奖学金和校长奖...",
       "url": "https://smes.shu.edu.cn/info/1016/2211.htm",
-      "date": "2020-10-20",
-      "column": "学生信息"
-    },
-    {
-      "title": "力学与工程科学学院2020年研究生学业奖学金候选人推荐名单公示",
-      "url": "https://smes.shu.edu.cn/info/1016/2212.htm",
       "date": "2020-10-20",
       "column": "学生信息"
     },
@@ -1322,20 +867,8 @@
       "column": "学生信息"
     },
     {
-      "title": "力学所SEMINAR 898报告一：风沙（雪、尘）两相流运动的数值模拟与实验研究",
-      "url": "https://smes.shu.edu.cn/info/1014/2201.htm",
-      "date": "2020-10-14",
-      "column": "学术报告"
-    },
-    {
       "title": "力学所SEMINAR 898报告一：风沙（雪、尘）两相流运动...",
       "url": "https://smes.shu.edu.cn/info/1014/2201.htm",
-      "date": "2020-10-14",
-      "column": "学术报告"
-    },
-    {
-      "title": "力学所SEMINAR 898报告二：旋转平板Couette湍流中的多态现象",
-      "url": "https://smes.shu.edu.cn/info/1014/2202.htm",
       "date": "2020-10-14",
       "column": "学术报告"
     },
@@ -1346,22 +879,10 @@
       "column": "学术报告"
     },
     {
-      "title": "肖晓春博士：敏感环境下超大断面盾构施工的挑战与技术 ——以北横通道新建工程II标...",
-      "url": "https://smes.shu.edu.cn/info/1014/2197.htm",
-      "date": "2020-10-09",
-      "column": "学术报告"
-    },
-    {
       "title": "肖晓春博士：敏感环境下超大断面盾构施工的挑战与技...",
       "url": "https://smes.shu.edu.cn/info/1014/2197.htm",
       "date": "2020-10-09",
       "column": "学术报告"
-    },
-    {
-      "title": "力学与工程科学学院硕士研究生在国际顶级地学期刊《Landslides》发表论文",
-      "url": "https://smes.shu.edu.cn/info/1017/2195.htm",
-      "date": "2020-10-09",
-      "column": "科研动态"
     },
     {
       "title": "力学与工程科学学院硕士研究生在国际顶级地学期刊《L...",
@@ -1370,21 +891,9 @@
       "column": "科研动态"
     },
     {
-      "title": "力学与工程科学学院2020级学术型硕士研究生硕博连项目推荐名单公示",
-      "url": "https://smes.shu.edu.cn/info/1016/2192.htm",
-      "date": "2020-09-30",
-      "column": "学生信息"
-    },
-    {
       "title": "力学与工程科学学院2020级学术型硕士研究生硕博连项...",
       "url": "https://smes.shu.edu.cn/info/1016/2192.htm",
       "date": "2020-09-30",
-      "column": "学生信息"
-    },
-    {
-      "title": "2021年力学与工程科学学院接收免攻读硕士研究生（直博生）复试方案",
-      "url": "https://smes.shu.edu.cn/info/1016/2191.htm",
-      "date": "2020-09-29",
       "column": "学生信息"
     },
     {
@@ -1400,18 +909,6 @@
       "column": "学术报告"
     },
     {
-      "title": "郑颖人院士：数值极限分析方法及其在土木工程中的应用",
-      "url": "https://smes.shu.edu.cn/info/1014/2142.htm",
-      "date": "2020-09-14",
-      "column": "学术报告"
-    },
-    {
-      "title": "《极地科学钻探机遇与发展》",
-      "url": "https://smes.shu.edu.cn/info/1014/2011.htm",
-      "date": "2020-08-10",
-      "column": "学术报告"
-    },
-    {
       "title": "《极地科学钻探机遇与发展》",
       "url": "https://smes.shu.edu.cn/info/1014/2011.htm",
       "date": "2020-08-10",
@@ -1421,18 +918,6 @@
       "title": "力学所 SEMINAR 897：弹塑性理论的三度危机与革新",
       "url": "https://smes.shu.edu.cn/info/1014/2233.htm",
       "date": "2020-07-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "力学所 SEMINAR 897：弹塑性理论的三度危机与革新",
-      "url": "https://smes.shu.edu.cn/info/1014/2233.htm",
-      "date": "2020-07-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "力学所 SEMINAR 896：材料破坏强度新的认识和非平衡态能量模型",
-      "url": "https://smes.shu.edu.cn/info/1014/2232.htm",
-      "date": "2020-07-07",
       "column": "学术报告"
     },
     {
@@ -1448,27 +933,9 @@
       "column": "学生信息"
     },
     {
-      "title": "2020届力学专业研究生学习成绩综合排名公示",
-      "url": "https://smes.shu.edu.cn/info/1016/1941.htm",
-      "date": "2020-06-28",
-      "column": "学生信息"
-    },
-    {
-      "title": "2020年上海大学力学与工程科学学院硕士研究生复试调剂办法",
-      "url": "https://smes.shu.edu.cn/info/1016/1791.htm",
-      "date": "2020-05-19",
-      "column": "学生信息"
-    },
-    {
       "title": "2020年上海大学力学与工程科学学院硕士研究生复试调...",
       "url": "https://smes.shu.edu.cn/info/1016/1791.htm",
       "date": "2020-05-19",
-      "column": "学生信息"
-    },
-    {
-      "title": "上海大学力学与工程科学学院2020年硕士研究生招生复试工作办法",
-      "url": "https://smes.shu.edu.cn/info/1016/1761.htm",
-      "date": "2020-05-09",
       "column": "学生信息"
     },
     {
@@ -1484,18 +951,6 @@
       "column": "学生信息"
     },
     {
-      "title": "力学与工程科学学院2018级研究生学科专业信息公示",
-      "url": "https://smes.shu.edu.cn/info/1016/1721.htm",
-      "date": "2020-04-28",
-      "column": "学生信息"
-    },
-    {
-      "title": "力学与工程科学学院博士研究生邓莹基于机器学习的风速预测成果在《Energy conversi...",
-      "url": "https://smes.shu.edu.cn/info/1017/1682.htm",
-      "date": "2020-04-12",
-      "column": "科研动态"
-    },
-    {
       "title": "力学与工程科学学院博士研究生邓莹基于机器学习的风...",
       "url": "https://smes.shu.edu.cn/info/1017/1682.htm",
       "date": "2020-04-12",
@@ -1506,18 +961,6 @@
       "url": "https://smes.shu.edu.cn/info/1014/2224.htm",
       "date": "2019-12-26",
       "column": "学术报告"
-    },
-    {
-      "title": "力学所 SEMINAR 895：玩具与魔术中的力学",
-      "url": "https://smes.shu.edu.cn/info/1014/2224.htm",
-      "date": "2019-12-26",
-      "column": "学术报告"
-    },
-    {
-      "title": "关于2019年对超过最长学习年限研究生做退学处理的公告",
-      "url": "https://smes.shu.edu.cn/info/1016/1572.htm",
-      "date": "2019-11-12",
-      "column": "学生信息"
     },
     {
       "title": "关于2019年对超过最长学习年限研究生做退学处理的公...",
@@ -1532,27 +975,9 @@
       "column": "学术报告"
     },
     {
-      "title": "力学所 SEMINAR 894：智能软材料、软体机器人与力学",
-      "url": "https://smes.shu.edu.cn/info/1014/2223.htm",
-      "date": "2019-11-07",
-      "column": "学术报告"
-    },
-    {
-      "title": "力学所 SEMINAR 893：低维碳材料及其复合材料的典型力学性能",
-      "url": "https://smes.shu.edu.cn/info/1014/2222.htm",
-      "date": "2019-10-24",
-      "column": "学术报告"
-    },
-    {
       "title": "力学所 SEMINAR 893：低维碳材料及其复合材料的典型...",
       "url": "https://smes.shu.edu.cn/info/1014/2222.htm",
       "date": "2019-10-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "力学所 SEMINAR 892：《The synthesis of scaling， modeling and measurement in ...",
-      "url": "https://smes.shu.edu.cn/info/1014/1462.htm",
-      "date": "2019-10-17",
       "column": "学术报告"
     },
     {
@@ -1562,22 +987,16 @@
       "column": "学术报告"
     },
     {
-      "title": "力学所 SEMINAR 891：《30年与30分钟———谈基础理论研究的艰难与简单》",
-      "url": "https://smes.shu.edu.cn/info/1014/1483.htm",
-      "date": "2019-10-10",
-      "column": "学术报告"
-    },
-    {
       "title": "力学所 SEMINAR 891：《30年与30分钟———谈基础理...",
       "url": "https://smes.shu.edu.cn/info/1014/1483.htm",
       "date": "2019-10-10",
       "column": "学术报告"
     },
     {
-      "title": "上海力学研究生学术节暨上海大学力学与工程科学学院第六届研究生学术年会（第一轮...",
-      "url": "https://smes.shu.edu.cn/info/1016/1461.htm",
+      "title": "和同学们谈谈如何做学问",
+      "url": "https://smes.shu.edu.cn/info/1014/1451.htm",
       "date": "2019-10-08",
-      "column": "学生信息"
+      "column": "学术报告"
     },
     {
       "title": "上海力学研究生学术节暨上海大学力学与工程科学学院...",
@@ -1592,10 +1011,10 @@
       "column": "学生信息"
     },
     {
-      "title": "学籍清理公告",
-      "url": "https://smes.shu.edu.cn/ax.pdf",
+      "title": "SEMINAR 890：《计算流体力学的直接建模方法》",
+      "url": "https://smes.shu.edu.cn/info/1014/1432.htm",
       "date": "2019-09-27",
-      "column": "学生信息"
+      "column": "学术报告"
     },
     {
       "title": "2020年力学与工程科学学院接收推免生复试方案",
@@ -1604,16 +1023,10 @@
       "column": "学生信息"
     },
     {
-      "title": "2020年力学与工程科学学院接收推免生复试方案",
-      "url": "https://smes.shu.edu.cn/info/1016/1443.htm",
-      "date": "2019-09-27",
-      "column": "学生信息"
-    },
-    {
-      "title": "本周学术报告：《Mesoscale models of stochastic plasticity》",
-      "url": "https://smes.shu.edu.cn/info/1017/1434.htm",
-      "date": "2019-09-24",
-      "column": "科研动态"
+      "title": "力学所 SEMINAR 889：求解非线性边值方程的小波通用...",
+      "url": "https://smes.shu.edu.cn/info/1014/2231.htm",
+      "date": "2019-09-26",
+      "column": "学术报告"
     },
     {
       "title": "本周学术报告：《Mesoscale models of stochastic pl...",
@@ -1628,26 +1041,56 @@
       "column": "科研动态"
     },
     {
-      "title": "本周学术报告：《计算流体力学的直接建模方法》",
-      "url": "https://smes.shu.edu.cn/info/1017/1435.htm",
-      "date": "2019-09-24",
-      "column": "科研动态"
+      "title": "力学与工程科学学院 关于2020年接收推荐免试攻读硕士...",
+      "url": "https://smes.shu.edu.cn/info/1016/1242.htm",
+      "date": "2019-09-13",
+      "column": "学生信息"
     },
     {
-      "title": "科技部关于发布国家重点研发计划“战略性国际科技创新合作”重点专项2019年度联合...",
-      "url": "https://smes.shu.edu.cn/info/1017/1189.htm",
+      "title": "上海大学力学与工程科学学院推荐2020年免试攻读硕士...",
+      "url": "https://smes.shu.edu.cn/info/1016/1232.htm",
+      "date": "2019-09-12",
+      "column": "学生信息"
+    },
+    {
+      "title": "力学与工程科学学院关于做好2020年推荐应届优秀本科...",
+      "url": "https://smes.shu.edu.cn/info/1016/1231.htm",
+      "date": "2019-09-09",
+      "column": "学生信息"
+    },
+    {
+      "title": "上海大学2019年力学暑期学校通知",
+      "url": "https://smes.shu.edu.cn/info/1016/1181.htm",
       "date": "2019-09-02",
-      "column": "科研动态"
+      "column": "学生信息"
+    },
+    {
+      "title": "上海市应用数学和力学研究所 2019年硕士研究生招生复...",
+      "url": "https://smes.shu.edu.cn/info/1016/1182.htm",
+      "date": "2019-09-02",
+      "column": "学生信息"
+    },
+    {
+      "title": "2019年上海市应用数学和力学研究所 硕士研究生复试调...",
+      "url": "https://smes.shu.edu.cn/info/1016/1183.htm",
+      "date": "2019-09-02",
+      "column": "学生信息"
+    },
+    {
+      "title": "上海市应用数学和力学研究所 2019年博士研究生招生复...",
+      "url": "https://smes.shu.edu.cn/info/1016/1184.htm",
+      "date": "2019-09-02",
+      "column": "学生信息"
+    },
+    {
+      "title": "2019年力学所博士研究生招生  进入综合考核名单公示",
+      "url": "https://smes.shu.edu.cn/info/1016/1185.htm",
+      "date": "2019-09-02",
+      "column": "学生信息"
     },
     {
       "title": "科技部关于发布国家重点研发计划“战略性国际科技创...",
       "url": "https://smes.shu.edu.cn/info/1017/1189.htm",
-      "date": "2019-09-02",
-      "column": "科研动态"
-    },
-    {
-      "title": "科技部关于发布国家重点研发计划“固废资源化”等重点专项2019年度定向项目申报指...",
-      "url": "https://smes.shu.edu.cn/info/1017/1191.htm",
       "date": "2019-09-02",
       "column": "科研动态"
     },
@@ -1664,28 +1107,16 @@
       "column": "科研动态"
     },
     {
-      "title": "国家自然科学基金资助项目《计划书》填报温馨提示",
-      "url": "https://smes.shu.edu.cn/info/1017/1192.htm",
-      "date": "2019-09-02",
-      "column": "科研动态"
-    },
-    {
       "title": "安徽无为县征集企业技术需求汇总表",
       "url": "https://smes.shu.edu.cn/viao.pdf",
       "date": "2019-09-02",
       "column": "科研动态"
     },
     {
-      "title": "安徽无为县征集企业技术需求汇总表",
-      "url": "https://smes.shu.edu.cn/viao.pdf",
+      "title": "力学所关于成立研究生招生工作领导小组的通知",
+      "url": "https://smes.shu.edu.cn/xsxx.pdf",
       "date": "2019-09-02",
-      "column": "科研动态"
-    },
-    {
-      "title": "关于发布国家自然科学基金委员会-中国国家铁路集团有限公司高速铁路基础研究联合基...",
-      "url": "https://smes.shu.edu.cn/info/1017/1190.htm",
-      "date": "2019-08-26",
-      "column": "科研动态"
+      "column": "学生信息"
     },
     {
       "title": "关于发布国家自然科学基金委员会-中国国家铁路集团有...",
@@ -1694,9 +1125,9 @@
       "column": "科研动态"
     },
     {
-      "title": "2019年第五届上海大学力学竞赛获奖通知",
-      "url": "https://smes.shu.edu.cn/info/1018/1165.htm",
-      "date": "2019-05-31",
+      "title": "我校学生在第十二届全国周培源大学生力学竞赛中喜获佳绩",
+      "url": "https://smes.shu.edu.cn/info/1018/1164.htm",
+      "date": "2019-06-06",
       "column": "教学动态"
     },
     {
@@ -1706,10 +1137,28 @@
       "column": "教学动态"
     },
     {
-      "title": "第十二届全国周培源大学生力学竞赛上海大学报名通知",
-      "url": "https://smes.shu.edu.cn/info/1018/1188.htm",
-      "date": "2019-01-07",
-      "column": "教学动态"
+      "title": "SEMINAR 888：《纳米药物载体体内输运中的力学问题》",
+      "url": "https://smes.shu.edu.cn/888.pdf",
+      "date": "2019-04-18",
+      "column": "学术报告"
+    },
+    {
+      "title": "SEMINAR 887 ：《Relation between blood pressure a...",
+      "url": "https://smes.shu.edu.cn/887.pdf",
+      "date": "2019-04-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "SEMINAR 886 :《The Cell Mapping Methods:From Glob...",
+      "url": "https://smes.shu.edu.cn/886.pdf",
+      "date": "2019-04-09",
+      "column": "学术报告"
+    },
+    {
+      "title": "SEMINAR 885 :《A higher-order beam model for inde...",
+      "url": "https://smes.shu.edu.cn/885.pdf",
+      "date": "2019-04-04",
+      "column": "学术报告"
     },
     {
       "title": "第十二届全国周培源大学生力学竞赛上海大学报名通知",
@@ -1721,18 +1170,6 @@
       "title": "天津大学曹伟教授来所交流",
       "url": "https://smes.shu.edu.cn/info/1017/2061.htm",
       "date": "2018-06-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "天津大学曹伟教授来所交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2061.htm",
-      "date": "2018-06-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "北京大学李存标教授来所交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2064.htm",
-      "date": "2018-03-20",
       "column": "科研动态"
     },
     {
@@ -1748,27 +1185,9 @@
       "column": "科研动态"
     },
     {
-      "title": "荷兰特温特大学朱晓珏博士应邀来所交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2065.htm",
-      "date": "2018-03-14",
-      "column": "科研动态"
-    },
-    {
       "title": "北京大学黄筑平教授来力学所学术交流",
       "url": "https://smes.shu.edu.cn/info/1017/2030.htm",
       "date": "2017-11-01",
-      "column": "科研动态"
-    },
-    {
-      "title": "北京大学黄筑平教授来力学所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2030.htm",
-      "date": "2017-11-01",
-      "column": "科研动态"
-    },
-    {
-      "title": "湍流理论学术研讨会",
-      "url": "https://smes.shu.edu.cn/info/1017/2031.htm",
-      "date": "2017-10-28",
       "column": "科研动态"
     },
     {
@@ -1784,27 +1203,9 @@
       "column": "科研动态"
     },
     {
-      "title": "西安交通大学数学与统计学院的何银年教授应邀来所交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2066.htm",
-      "date": "2017-10-11",
-      "column": "科研动态"
-    },
-    {
       "title": "余钊圣教授来我所学术交流",
       "url": "https://smes.shu.edu.cn/info/1017/2032.htm",
       "date": "2017-10-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "余钊圣教授来我所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2032.htm",
-      "date": "2017-10-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "美国西北大学黄永刚院士来所访问交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2069.htm",
-      "date": "2017-07-10",
       "column": "科研动态"
     },
     {
@@ -1820,26 +1221,8 @@
       "column": "科研动态"
     },
     {
-      "title": "密苏里科技大学的王成博士来所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2070.htm",
-      "date": "2017-06-22",
-      "column": "科研动态"
-    },
-    {
       "title": "张来平来所交流",
       "url": "https://smes.shu.edu.cn/info/1017/2071.htm",
-      "date": "2017-06-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "张来平来所交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2071.htm",
-      "date": "2017-06-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "中国近代工科大学的兴起与力学教育的开展",
-      "url": "https://smes.shu.edu.cn/info/1017/2072.htm",
       "date": "2017-06-08",
       "column": "科研动态"
     },
@@ -1856,27 +1239,9 @@
       "column": "科研动态"
     },
     {
-      "title": "浅谈海上可再生能源的力学问题",
-      "url": "https://smes.shu.edu.cn/info/1017/2073.htm",
-      "date": "2017-06-05",
-      "column": "科研动态"
-    },
-    {
       "title": "中科院力学所李家春院士应邀来我所做学术交流",
       "url": "https://smes.shu.edu.cn/info/1017/2074.htm",
       "date": "2017-05-28",
-      "column": "科研动态"
-    },
-    {
-      "title": "中科院力学所李家春院士应邀来我所做学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2074.htm",
-      "date": "2017-05-28",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海大学敖平教授应邀来所进行学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2075.htm",
-      "date": "2017-05-19",
       "column": "科研动态"
     },
     {
@@ -1892,27 +1257,9 @@
       "column": "科研动态"
     },
     {
-      "title": "王自强院士来所指导和交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2076.htm",
-      "date": "2017-05-16",
-      "column": "科研动态"
-    },
-    {
       "title": "阿尔伯塔大学茹重庆教授应邀来所学术交流",
       "url": "https://smes.shu.edu.cn/info/1017/2077.htm",
       "date": "2017-05-05",
-      "column": "科研动态"
-    },
-    {
-      "title": "阿尔伯塔大学茹重庆教授应邀来所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2077.htm",
-      "date": "2017-05-05",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海交通大学张文明教授应邀来所进行学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2078.htm",
-      "date": "2017-04-10",
       "column": "科研动态"
     },
     {
@@ -1928,27 +1275,9 @@
       "column": "科研动态"
     },
     {
-      "title": "同济大学徐鉴教授应邀来所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2079.htm",
-      "date": "2017-03-20",
-      "column": "科研动态"
-    },
-    {
       "title": "中国科学院石钟慈院士赴力学所访问交流",
       "url": "https://smes.shu.edu.cn/info/1017/2080.htm",
       "date": "2017-03-13",
-      "column": "科研动态"
-    },
-    {
-      "title": "中国科学院石钟慈院士赴力学所访问交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2080.htm",
-      "date": "2017-03-13",
-      "column": "科研动态"
-    },
-    {
-      "title": "悉尼科技大学副教授Jinchen Ji（季进臣）博士访问力学所",
-      "url": "https://smes.shu.edu.cn/info/1017/2081.htm",
-      "date": "2017-02-27",
       "column": "科研动态"
     },
     {
@@ -1964,16 +1293,22 @@
       "column": "科研动态"
     },
     {
-      "title": "商飞上飞院杨士普高级工程师应邀来我所做学术报告",
-      "url": "https://smes.shu.edu.cn/info/1017/2082.htm",
-      "date": "2017-02-24",
-      "column": "科研动态"
+      "title": "上海市力学在能源工程中的应用重点实验室第三届学术...",
+      "url": "https://smes.shu.edu.cn/info/1013/2042.htm",
+      "date": "2016-12-13",
+      "column": "综合新闻"
     },
     {
-      "title": "中国科技大学殷保群教授、北京市BTIC刘浩主任、北京市TOCC张可主任来所访问交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2034.htm",
-      "date": "2016-07-29",
-      "column": "科研动态"
+      "title": "上海市应用数学和力学研究所卢东强研究员当选国际水...",
+      "url": "https://smes.shu.edu.cn/info/1013/2055.htm",
+      "date": "2016-12-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市应用数学和力学研究所硕士研究生冷建涛在Nano ...",
+      "url": "https://smes.shu.edu.cn/info/1013/2095.htm",
+      "date": "2016-12-13",
+      "column": "综合新闻"
     },
     {
       "title": "中国科技大学殷保群教授、北京市BTIC刘浩主任、北京...",
@@ -1988,27 +1323,9 @@
       "column": "科研动态"
     },
     {
-      "title": "上海交通大学尤云祥教授来所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2083.htm",
-      "date": "2016-06-30",
-      "column": "科研动态"
-    },
-    {
       "title": "同济大学航空航天与力学学院嵇醒教授来所访问交流",
       "url": "https://smes.shu.edu.cn/info/1017/2084.htm",
       "date": "2016-06-23",
-      "column": "科研动态"
-    },
-    {
-      "title": "同济大学航空航天与力学学院嵇醒教授来所访问交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2084.htm",
-      "date": "2016-06-23",
-      "column": "科研动态"
-    },
-    {
-      "title": "浙江大学陈伟球教授来我所做学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2085.htm",
-      "date": "2016-06-17",
       "column": "科研动态"
     },
     {
@@ -2024,18 +1341,6 @@
       "column": "科研动态"
     },
     {
-      "title": "细长弹性结构非线性振动Galerkin方法收敛性",
-      "url": "https://smes.shu.edu.cn/info/1017/2086.htm",
-      "date": "2016-06-03",
-      "column": "科研动态"
-    },
-    {
-      "title": "北京大学工学院杨越教授来我所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2087.htm",
-      "date": "2016-05-12",
-      "column": "科研动态"
-    },
-    {
       "title": "北京大学工学院杨越教授来我所学术交流",
       "url": "https://smes.shu.edu.cn/info/1017/2087.htm",
       "date": "2016-05-12",
@@ -2045,18 +1350,6 @@
       "title": "中国科学院力学所胡文瑞院士应邀来我校做学术报告",
       "url": "https://smes.shu.edu.cn/info/1017/2088.htm",
       "date": "2016-04-22",
-      "column": "科研动态"
-    },
-    {
-      "title": "中国科学院力学所胡文瑞院士应邀来我校做学术报告",
-      "url": "https://smes.shu.edu.cn/info/1017/2088.htm",
-      "date": "2016-04-22",
-      "column": "科研动态"
-    },
-    {
-      "title": "High order lattice Boltzmann model for rarefied gas flows（稀薄气体流动的高阶...",
-      "url": "https://smes.shu.edu.cn/info/1017/2089.htm",
-      "date": "2016-04-14",
       "column": "科研动态"
     },
     {
@@ -2072,27 +1365,9 @@
       "column": "科研动态"
     },
     {
-      "title": "双扩散对流",
-      "url": "https://smes.shu.edu.cn/info/1017/2090.htm",
-      "date": "2016-04-07",
-      "column": "科研动态"
-    },
-    {
       "title": "大连理工大学教授吴锤结来我所讲学",
       "url": "https://smes.shu.edu.cn/info/1017/2091.htm",
       "date": "2016-03-24",
-      "column": "科研动态"
-    },
-    {
-      "title": "大连理工大学教授吴锤结来我所讲学",
-      "url": "https://smes.shu.edu.cn/info/1017/2091.htm",
-      "date": "2016-03-24",
-      "column": "科研动态"
-    },
-    {
-      "title": "直升机旋翼和大型客机增升装置空气动力学数值模拟方法与应用研究",
-      "url": "https://smes.shu.edu.cn/info/1017/2092.htm",
-      "date": "2016-03-03",
       "column": "科研动态"
     },
     {
@@ -2108,22 +1383,40 @@
       "column": "科研动态"
     },
     {
-      "title": "美国布朗大学助理教授李振博士来我所学术交流",
-      "url": "https://smes.shu.edu.cn/info/1017/2093.htm",
-      "date": "2016-02-25",
-      "column": "科研动态"
-    },
-    {
       "title": "Fine-grained Algorithms of Fully-implicit CFD",
       "url": "https://smes.shu.edu.cn/info/1017/2094.htm",
       "date": "2016-01-07",
       "column": "科研动态"
     },
     {
-      "title": "Fine-grained Algorithms of Fully-implicit CFD",
-      "url": "https://smes.shu.edu.cn/info/1017/2094.htm",
-      "date": "2016-01-07",
-      "column": "科研动态"
+      "title": "校党委常委、副校长丛玉豪一行赴力学所调研",
+      "url": "https://smes.shu.edu.cn/info/1013/2056.htm",
+      "date": "2015-10-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市力学在能源工程中的应用重点实验室第三届学术...",
+      "url": "https://smes.shu.edu.cn/info/1013/2043.htm",
+      "date": "2015-10-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学力学学科暑期学校举办",
+      "url": "https://smes.shu.edu.cn/info/1013/2057.htm",
+      "date": "2015-08-31",
+      "column": "综合新闻"
+    },
+    {
+      "title": "由上海大学主办的交通科学与计算专题研讨会在昆明召开",
+      "url": "https://smes.shu.edu.cn/info/1013/2044.htm",
+      "date": "2015-08-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "中国力学大会2015-“复杂交通现象的实验、建模和模拟...",
+      "url": "https://smes.shu.edu.cn/info/1013/2058.htm",
+      "date": "2015-08-26",
+      "column": "综合新闻"
     }
   ]
 }

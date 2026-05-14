@@ -2,10 +2,11 @@
   "domain": "xyy.shu.edu.cn",
   "department": "上海大学校医院",
   "type": "38",
-  "crawl_time": "20260513_175610",
-  "total_articles": 40,
+  "crawl_time": "20260514_004804",
+  "total_articles": 64,
   "columns": {
-    "公告栏": 40
+    "公告栏": 48,
+    "新闻": 16
   },
   "articles": [
     {
@@ -99,6 +100,12 @@
       "column": "公告栏"
     },
     {
+      "title": "科学预防 健康护航 校医院举办传染病防控知识专题培训",
+      "url": "https://xyy.shu.edu.cn/info/1091/3916.htm",
+      "date": "2023-10-20",
+      "column": "新闻"
+    },
+    {
       "title": "2023年传染病防控知识培训通知",
       "url": "https://xyy.shu.edu.cn/info/1090/3906.htm",
       "date": "2023-10-13",
@@ -183,10 +190,46 @@
       "column": "公告栏"
     },
     {
+      "title": "春季养肝进行时 ——“医疗专家进校园”活动之健康讲座开讲啦",
+      "url": "https://xyy.shu.edu.cn/info/1091/3345.htm",
+      "date": "2023-04-14",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学校医院急救培训普及系列—— 上海大学秋白书院开展辅导员应急救护培训  （图文来源于上海大学秋白书院）",
+      "url": "https://xyy.shu.edu.cn/info/1091/3365.htm",
+      "date": "2023-04-14",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学校医院急救培训普及系列—— 校医院为我校青云书院开展急救普及培训",
+      "url": "https://xyy.shu.edu.cn/info/1091/3375.htm",
+      "date": "2023-04-14",
+      "column": "新闻"
+    },
+    {
+      "title": "结核宣传在进行 撑起健康保护伞",
+      "url": "https://xyy.shu.edu.cn/info/1091/3295.htm",
+      "date": "2023-03-24",
+      "column": "新闻"
+    },
+    {
+      "title": "重磅 | 2023年324世界防治结核病日宣传海报",
+      "url": "https://xyy.shu.edu.cn/info/1091/3265.htm",
+      "date": "2023-03-20",
+      "column": "新闻"
+    },
+    {
       "title": "关于2022年毕业生登录校医院报销系统的说明",
       "url": "https://xyy.shu.edu.cn/info/1090/3205.htm",
       "date": "2023-03-14",
       "column": "公告栏"
+    },
+    {
+      "title": "春日里的一抹红——上海大学拉开2023年度无偿献血大幕",
+      "url": "https://xyy.shu.edu.cn/info/1091/3185.htm",
+      "date": "2023-03-10",
+      "column": "新闻"
     },
     {
       "title": "校医院停诊紧急通知",
@@ -205,6 +248,12 @@
       "url": "https://xyy.shu.edu.cn/info/1090/3105.htm",
       "date": "2023-02-27",
       "column": "公告栏"
+    },
+    {
+      "title": "上海大学校医院急救培训普及系列一： 校医院为宏嘉书院辅导员开展应急救护培训",
+      "url": "https://xyy.shu.edu.cn/info/1091/3085.htm",
+      "date": "2023-02-17",
+      "column": "新闻"
     },
     {
       "title": "2023年“医疗专家进校园咨询活动”有关通知（2月-6月）",
@@ -247,6 +296,102 @@
       "url": "https://xyy.shu.edu.cn/info/1090/2985.htm",
       "date": "2022-12-27",
       "column": "公告栏"
+    },
+    {
+      "title": "上海大学世界艾滋病日公益活动圆满举办",
+      "url": "https://xyy.shu.edu.cn/info/1091/2944.htm",
+      "date": "2022-12-06",
+      "column": "新闻"
+    },
+    {
+      "title": "校医院宝山门诊部工作时间调整通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2861.htm",
+      "date": "2022-04-14",
+      "column": "公告栏"
+    },
+    {
+      "title": "2022年校医院新校区门诊部寒假工作安排",
+      "url": "https://xyy.shu.edu.cn/info/1090/2840.htm",
+      "date": "2022-01-10",
+      "column": "公告栏"
+    },
+    {
+      "title": "关于2022年上海大学嘉定校区征地养老人员、教职工家属医药费报销的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2835.htm",
+      "date": "2021-12-17",
+      "column": "公告栏"
+    },
+    {
+      "title": "2022年延长校区征地养老人员、教职工家属医药费报销审核时间安排通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2833.htm",
+      "date": "2021-12-13",
+      "column": "公告栏"
+    },
+    {
+      "title": "上海大学举办世界艾滋病日主题宣传活动",
+      "url": "https://xyy.shu.edu.cn/info/1091/2824.htm",
+      "date": "2021-12-02",
+      "column": "新闻"
+    },
+    {
+      "title": "教育部教育装备研发中心来我校校医院调研工作",
+      "url": "https://xyy.shu.edu.cn/info/1091/2805.htm",
+      "date": "2021-10-15",
+      "column": "新闻"
+    },
+    {
+      "title": "延长卫生所工作时间调整通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2785.htm",
+      "date": "2021-09-23",
+      "column": "公告栏"
+    },
+    {
+      "title": "嘉定门诊部工作时间调整通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2786.htm",
+      "date": "2021-09-23",
+      "column": "公告栏"
+    },
+    {
+      "title": "2021年“医疗专家进校园咨询活动”有关通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2772.htm",
+      "date": "2021-06-07",
+      "column": "公告栏"
+    },
+    {
+      "title": "校医院举办控烟知识培训讲座",
+      "url": "https://xyy.shu.edu.cn/info/1091/2780.htm",
+      "date": "2021-04-23",
+      "column": "新闻"
+    },
+    {
+      "title": "2021年大学生医保缴费通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/2595.htm",
+      "date": "2020-11-27",
+      "column": "公告栏"
+    },
+    {
+      "title": "隐秘的角落，小心艾滋病拍了拍你（内容来源于静安疾控）",
+      "url": "https://xyy.shu.edu.cn/info/1091/2593.htm",
+      "date": "2020-11-26",
+      "column": "新闻"
+    },
+    {
+      "title": "世界艾滋病日：社区动员同防艾，健康中国我行动（内容来源于中新网 陈静）",
+      "url": "https://xyy.shu.edu.cn/info/1091/2136.htm",
+      "date": "2019-12-06",
+      "column": "新闻"
+    },
+    {
+      "title": "让我看看你的眼——大学生用眼健康及防治讲座即将开讲",
+      "url": "https://xyy.shu.edu.cn/info/1091/2131.htm",
+      "date": "2019-11-12",
+      "column": "新闻"
+    },
+    {
+      "title": "校医院开展控烟培训",
+      "url": "https://xyy.shu.edu.cn/info/1091/2754.htm",
+      "date": "2019-05-24",
+      "column": "新闻"
     }
   ]
 }
