@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260514_004804",
-  "total_articles": 316,
+  "crawl_time": "20260515_052305",
+  "total_articles": 318,
   "columns": {
-    "新闻动态": 237,
-    "通知公告": 69,
+    "新闻动态": 239,
     "讲座信息": 8,
-    "资讯动态": 2
+    "资讯动态": 2,
+    "通知公告": 69
   },
   "articles": [
+    {
+      "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
+      "url": "https://sme.shu.edu.cn/info/1029/6792.htm",
+      "date": "2026-05-15",
+      "column": "新闻动态"
+    },
     {
       "title": "走进计量实验室 感知芯片”芯”力量——上海大学微电子学院2026春考新生赴广电计量开展研学实践",
       "url": "https://sme.shu.edu.cn/info/1029/6772.htm",
@@ -1822,6 +1828,12 @@
       "url": "https://sme.shu.edu.cn/info/1031/1165.htm",
       "date": "2020-12-02",
       "column": "讲座信息"
+    },
+    {
+      "title": "微电子学院首次参加校运会喜获佳绩",
+      "url": "https://sme.shu.edu.cn/info/1029/1155.htm",
+      "date": "2020-11-05",
+      "column": "新闻动态"
     },
     {
       "title": "“超越摩尔”系列讲座  第三期",

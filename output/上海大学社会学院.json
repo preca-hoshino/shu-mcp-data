@@ -2,20 +2,26 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260514_004804",
-  "total_articles": 2493,
+  "crawl_time": "20260515_052305",
+  "total_articles": 2495,
   "columns": {
-    "学术动态": 542,
-    "综合新闻": 870,
-    "通知公告": 43,
-    "学术报告": 131,
-    "教学教务": 132,
-    "媒体报道": 47,
-    "校友活动": 30,
     "图片新闻": 119,
-    "学生动态": 579
+    "媒体报道": 47,
+    "学术动态": 542,
+    "学术报告": 131,
+    "学生动态": 579,
+    "教学教务": 132,
+    "校友活动": 30,
+    "综合新闻": 870,
+    "通知公告": 45
   },
   "articles": [
+    {
+      "title": "论坛征稿 | “地域社会政策与长三角城市群高质量发展”",
+      "url": "https://mp.weixin.qq.com/s/AmZl6X1UYbQliJx1sl6Tmw",
+      "date": "2026-05-15",
+      "column": "通知公告"
+    },
     {
       "title": "讲座回顾|时间观：从弗洛伊德到海德格尔再到庄子——道家本体论的启示",
       "url": "https://sociology.shu.edu.cn/info/1104/41528.htm",
@@ -11163,6 +11169,12 @@
       "url": "https://sociology.shu.edu.cn/info/1107/3975.htm",
       "date": "2015-05-19",
       "column": "学生动态"
+    },
+    {
+      "title": "“特大城市社会治理”分论坛征文通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/8645.htm",
+      "date": "2015-05-18",
+      "column": "通知公告"
     },
     {
       "title": "社会学院2013级研究生第一、第三党支部联合参观上海木文化博览园",

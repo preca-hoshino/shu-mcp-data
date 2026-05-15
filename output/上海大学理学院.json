@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260515_013355",
-  "total_articles": 3795,
+  "crawl_time": "20260515_052305",
+  "total_articles": 3796,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2584,
+    "学术报告": 2585,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
@@ -16,6 +16,12 @@
     "通知公告": 154
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3040讲 适当正交分解外推方法的应用",
+      "url": "https://scicol.shu.edu.cn/info/1003/32525.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3036讲 非线性发展方程的并行计算方法",
       "url": "https://scicol.shu.edu.cn/info/1003/32485.htm",

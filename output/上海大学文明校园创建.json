@@ -2,14 +2,32 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260514_004804",
-  "total_articles": 86,
+  "crawl_time": "20260515_052305",
+  "total_articles": 92,
   "columns": {
-    "文明实践": 27,
-    "校园动态": 26,
-    "文明创建": 33
+    "文明创建": 33,
+    "文明实践": 33,
+    "校园动态": 26
   },
   "articles": [
+    {
+      "title": "“国球宝山行，上大风景线” 上海大学代表队获上海乒乓嘉年华...",
+      "url": "https://www.shu.edu.cn/info/1056/394685.htm",
+      "date": "2026-05-15",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学召开2026年第二次党群工作例会",
+      "url": "https://www.shu.edu.cn/info/1056/394755.htm",
+      "date": "2026-05-15",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学党委书记吴坚勇率团访问爱尔兰、瑞士",
+      "url": "https://www.shu.edu.cn/info/1056/394815.htm",
+      "date": "2026-05-15",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学援疆教师饶进军获评“第十一批优秀援疆干部人才”并记功",
       "url": "https://www.shu.edu.cn/info/1056/394645.htm",
@@ -369,6 +387,24 @@
       "url": "https://wmzx.shu.edu.cn/info/1015/1241.htm",
       "date": "2018-10-16",
       "column": "文明创建"
+    },
+    {
+      "title": "我校运动员在首届市大学生田径“联盟杯”赛上取得优异成绩",
+      "url": "https://wmzx.shu.edu.cn/info/1014/1047.htm",
+      "date": "2018-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "我校中外学子在“新时代•中国梦•我的故事”上海市大学生主...",
+      "url": "https://wmzx.shu.edu.cn/info/1014/1048.htm",
+      "date": "2018-06-07",
+      "column": "文明实践"
+    },
+    {
+      "title": "我校在“创青春”上海市大学生创业大赛中首次捧得优胜杯",
+      "url": "http://news.shu.edu.cn/info/1021/47520.htm",
+      "date": "2018-05-14",
+      "column": "文明实践"
     },
     {
       "title": "上海大学机关文明部处（室）考核评估实施条例",
