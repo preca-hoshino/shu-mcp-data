@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260515_013355",
-  "total_articles": 496,
+  "crawl_time": "20260515_090615",
+  "total_articles": 497,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 56,
-    "通知公告": 394
+    "通知公告": 395
   },
   "articles": [
+    {
+      "title": "关于科技工作状况调查站点2026年度信息报送的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11042.htm",
+      "date": "2026-05-15",
+      "column": "通知公告"
+    },
     {
       "title": "新闻联播｜推进国际科技创新中心建设 打造世界级科技创新策源地",
       "url": "https://mp.weixin.qq.com/s/QPn2z5rJB0pTDpQEibXj1A?click_id=21",

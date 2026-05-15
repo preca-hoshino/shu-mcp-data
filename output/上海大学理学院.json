@@ -2,16 +2,16 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260515_052305",
-  "total_articles": 3796,
+  "crawl_time": "20260515_090615",
+  "total_articles": 3800,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2585,
+    "学术报告": 2588,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
     "研究生新闻": 49,
-    "科研动态": 304,
+    "科研动态": 305,
     "综合新闻": 594,
     "通知公告": 154
   },
@@ -21,6 +21,30 @@
       "url": "https://scicol.shu.edu.cn/info/1003/32525.htm",
       "date": "2026-05-15",
       "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3041讲 长程系统的机器学习原子间势",
+      "url": "https://scicol.shu.edu.cn/info/1003/32535.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第98讲暨物理学科Seminar第803讲 量子可积系统讲习班第五讲",
+      "url": "https://scicol.shu.edu.cn/info/1003/32545.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3042讲 数学：分析的艺术",
+      "url": "https://scicol.shu.edu.cn/info/1003/32565.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "理学院甄强教授团队发明成果获2026年第51届日内瓦国际发明展金奖",
+      "url": "https://scicol.shu.edu.cn/info/1008/32555.htm",
+      "date": "2026-05-15",
+      "column": "科研动态"
     },
     {
       "title": "数学学科Seminar第3036讲 非线性发展方程的并行计算方法",

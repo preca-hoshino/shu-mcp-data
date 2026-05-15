@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260515_013355",
-  "total_articles": 18317,
+  "crawl_time": "20260515_090615",
+  "total_articles": 18318,
   "columns": {
-    "科研动态": 1626,
+    "科研动态": 1627,
     "综合新闻": 16235,
     "通知公告": 445,
     "重要新闻": 11
   },
   "articles": [
+    {
+      "title": "理学院甄强教授团队发明成果获2026年第51届日内瓦国际发明展金奖",
+      "url": "https://www.shu.edu.cn/info/1055/394835.htm",
+      "date": "2026-05-15",
+      "column": "科研动态"
+    },
     {
       "title": "上海市计算机学会2026年度学术年会在上海大学举行",
       "url": "https://www.shu.edu.cn/info/1056/394795.htm",

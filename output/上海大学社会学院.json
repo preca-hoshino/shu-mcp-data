@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260515_052305",
-  "total_articles": 2495,
+  "crawl_time": "20260515_090615",
+  "total_articles": 2496,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 47,
@@ -13,13 +13,19 @@
     "教学教务": 132,
     "校友活动": 30,
     "综合新闻": 870,
-    "通知公告": 45
+    "通知公告": 46
   },
   "articles": [
     {
       "title": "论坛征稿 | “地域社会政策与长三角城市群高质量发展”",
       "url": "https://mp.weixin.qq.com/s/AmZl6X1UYbQliJx1sl6Tmw",
       "date": "2026-05-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学社会学院党委“两优一先”  拟推荐对象的公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/41588.htm",
+      "date": "2026-05-14",
       "column": "通知公告"
     },
     {
@@ -1079,15 +1085,15 @@
       "column": "教学教务"
     },
     {
-      "title": "上海大学关于推荐教师参与首届长三角高校“超星杯”智慧教与学大赛的通知",
-      "url": "https://jwb.shu.edu.cn/info/1015/318504.htm",
+      "title": "关于开展2025年上海大学本科教学成果奖申报工作的通知（教务部〔2025〕27号）",
+      "url": "https://jwb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=318484",
       "date": "2025-10-30",
       "column": "通知公告"
     },
     {
-      "title": "关于开展2025年上海大学本科教学成果奖申报工作的通知（教务部〔2025〕27号）",
-      "url": "https://jwb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=318484",
-      "date": "2025-10-29",
+      "title": "上海大学关于推荐教师参与首届长三角高校“超星杯”智慧教与学大赛的通知",
+      "url": "https://jwb.shu.edu.cn/info/1015/318504.htm",
+      "date": "2025-10-30",
       "column": "通知公告"
     },
     {

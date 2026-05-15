@@ -2,14 +2,20 @@
   "domain": "igs.shu.edu.cn",
   "department": "上海大学全球问题研究院",
   "type": "27",
-  "crawl_time": "20260514_004804",
-  "total_articles": 385,
+  "crawl_time": "20260515_090615",
+  "total_articles": 387,
   "columns": {
-    "新闻中心": 56,
     "学术热点": 306,
+    "新闻中心": 58,
     "通知公告": 23
   },
   "articles": [
+    {
+      "title": "【国际交流】拉美中心研究员张琨为腾讯青腾学院组织的拉美企业家考察团作专题报告",
+      "url": "https://igs.shu.edu.cn/info/1012/7070.htm",
+      "date": "2026-05-15",
+      "column": "新闻中心"
+    },
     {
       "title": "【平台建设】全球院获批2项国家留学基金委国别和区域研究人才支持计划项目",
       "url": "https://igs.shu.edu.cn/info/1012/7060.htm",
@@ -2265,6 +2271,12 @@
       "url": "https://igs.shu.edu.cn/info/1011/1157.htm",
       "date": "2018-04-10",
       "column": "通知公告"
+    },
+    {
+      "title": "巴基斯坦旁遮普大学历史系教授穆罕默德伊克巴尔•乔教授应邀来我校做学术报告",
+      "url": "https://igs.shu.edu.cn/info/1012/1042.htm",
+      "date": "2017-12-13",
+      "column": "新闻中心"
     },
     {
       "title": "【会议征稿】全球六十年代：全球意识与跨国互通",

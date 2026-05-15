@@ -2,18 +2,30 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260515_013355",
-  "total_articles": 540,
+  "crawl_time": "20260515_090615",
+  "total_articles": 542,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 31,
-    "通知公告": 79
+    "学院新闻": 32,
+    "通知公告": 80
   },
   "articles": [
     {
+      "title": "关于上海大学外国语学院党委“两优一先”  拟推荐对象的公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/30527.htm",
+      "date": "2026-05-15",
+      "column": "通知公告"
+    },
+    {
       "title": "外国语学院赴上海外国语大学调研交流",
       "url": "https://sfs.shu.edu.cn/info/1142/30517.htm",
+      "date": "2026-05-15",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【思政育人】“赓续五四薪火，激扬青春奋斗”  ——2025级英语班团支部主题团日活动顺利开展",
+      "url": "https://sfs.shu.edu.cn/info/1142/30537.htm",
       "date": "2026-05-15",
       "column": "学院新闻"
     },

@@ -2,12 +2,18 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260514_004804",
-  "total_articles": 25,
+  "crawl_time": "20260515_090615",
+  "total_articles": 27,
   "columns": {
-    "重要新闻": 25
+    "重要新闻": 27
   },
   "articles": [
+    {
+      "title": "中欧工程技术学院召开干部宣布会议",
+      "url": "https://utseus.shu.edu.cn/info/1009/6036.htm",
+      "date": "2026-05-15",
+      "column": "重要新闻"
+    },
     {
       "title": "深化中法教育科技合作，共绘创新人才新篇章",
       "url": "https://utseus.shu.edu.cn/info/1009/6016.htm",
@@ -126,6 +132,12 @@
       "title": "08级校友返校分享  系统思维、跨界实践：中欧人的“底气”",
       "url": "https://utseus.shu.edu.cn/info/1009/4206.htm",
       "date": "2025-05-21",
+      "column": "重要新闻"
+    },
+    {
+      "title": "法国高等教育、研究及创新部部长代表团访问上海大学",
+      "url": "https://utseus.shu.edu.cn/info/1009/1284.htm",
+      "date": "2018-06-26",
       "column": "重要新闻"
     },
     {

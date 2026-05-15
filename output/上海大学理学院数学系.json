@@ -2,14 +2,32 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 1569,
+  "crawl_time": "20260515_090615",
+  "total_articles": 1572,
   "columns": {
-    "学术报告": 1375,
-    "新闻快递": 165,
-    "学术会议": 29
+    "学术会议": 29,
+    "学术报告": 1378,
+    "新闻快递": 165
   },
   "articles": [
+    {
+      "title": "Seminar第3040讲 适当正交分解外推方法的应用",
+      "url": "https://math.shu.edu.cn/info/1042/26641.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3041讲 长程系统的机器学习原子间势",
+      "url": "https://math.shu.edu.cn/info/1042/26651.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3042讲 数学：分析的艺术",
+      "url": "https://math.shu.edu.cn/info/1042/26661.htm",
+      "date": "2026-05-15",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3034讲 Dunkl框架下的对数分数次Besov空间的容量",
       "url": "https://math.shu.edu.cn/info/1042/26621.htm",
