@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260514_004804",
-  "total_articles": 538,
+  "crawl_time": "20260515_013355",
+  "total_articles": 540,
   "columns": {
-    "学院新闻": 29,
-    "通知公告": 79,
     "学术活动预告": 398,
-    "学术研究": 32
+    "学术研究": 32,
+    "学院新闻": 31,
+    "通知公告": 79
   },
   "articles": [
+    {
+      "title": "外国语学院赴上海外国语大学调研交流",
+      "url": "https://sfs.shu.edu.cn/info/1142/30517.htm",
+      "date": "2026-05-15",
+      "column": "学院新闻"
+    },
     {
       "title": "【学术讲座】外国语言文学视域下的区域国别研究——郑州大学葛继勇教授应邀来上海大学作学术讲座",
       "url": "https://sfs.shu.edu.cn/info/1142/30507.htm",
@@ -3160,6 +3166,12 @@
       "url": "https://sfs.shu.edu.cn/info/1148/1014.htm",
       "date": "2006-09-22",
       "column": "学术活动预告"
+    },
+    {
+      "title": "上海市教委本科专业教育高地项目检查组来我院检查",
+      "url": "https://sfs.shu.edu.cn/info/1142/7473.htm",
+      "date": "2006-09-20",
+      "column": "学院新闻"
     },
     {
       "title": "9月19日学术报告：Research Method",

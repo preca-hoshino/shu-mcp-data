@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 400,
+  "crawl_time": "20260515_013355",
+  "total_articles": 401,
   "columns": {
-    "通知公告": 151,
     "学术报告": 131,
     "科研动态": 74,
-    "综合新闻": 44
+    "综合新闻": 44,
+    "通知公告": 152
   },
   "articles": [
+    {
+      "title": "2026年MGI博士研究生招生复试安排（第二批）",
+      "url": "https://mgi.shu.edu.cn/info/1062/7295.htm",
+      "date": "2026-05-14",
+      "column": "通知公告"
+    },
     {
       "title": "2026年MGI毕业研究生  成绩综合排名办法",
       "url": "https://mgi.shu.edu.cn/info/1062/7275.htm",

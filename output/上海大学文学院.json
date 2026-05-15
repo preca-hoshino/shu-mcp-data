@@ -2,17 +2,29 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260514_004804",
-  "total_articles": 1955,
+  "crawl_time": "20260515_013355",
+  "total_articles": 1957,
   "columns": {
-    "综合新闻": 519,
-    "通知公告": 415,
-    "学院周志": 299,
-    "科研动态": 475,
     "学术报告": 100,
-    "学生动态": 147
+    "学生动态": 147,
+    "学院周志": 300,
+    "科研动态": 475,
+    "综合新闻": 520,
+    "通知公告": 415
   },
   "articles": [
+    {
+      "title": "文学院周志总第696期（2026年第12期，4月27日-5月10日）",
+      "url": "https://cla.shu.edu.cn/696zhouzhi.pdf",
+      "date": "2026-05-14",
+      "column": "学院周志"
+    },
+    {
+      "title": "我校本科生院一行赴文学院指导本科教学工作",
+      "url": "https://cla.shu.edu.cn/info/1015/53408.htm",
+      "date": "2026-05-14",
+      "column": "综合新闻"
+    },
     {
       "title": "点亮“文学之光”！上海大学“文学之夜”！",
       "url": "https://cla.shu.edu.cn/info/1015/53388.htm",

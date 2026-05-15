@@ -2,17 +2,47 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260514_004804",
-  "total_articles": 1784,
+  "crawl_time": "20260515_013355",
+  "total_articles": 1789,
   "columns": {
-    "新闻动态": 29,
-    "通知公告": 1698,
-    "政策文件": 57
+    "政策文件": 57,
+    "新闻动态": 31,
+    "通知公告": 1701
   },
   "articles": [
     {
+      "title": "上海大学2026级微专业报名通知（本科生院〔2026〕13号）",
+      "url": "https://bksy.shu.edu.cn/info/1015/320594.htm",
+      "date": "2026-05-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于学校大型活动期间三校区公共教室暂停借用、自习教室调整的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320624.htm",
+      "date": "2026-05-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年度国家普通话水平测试(自费测) 上海大学考点报名的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320644.htm",
+      "date": "2026-05-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（机自学院专场）暨机自学院教职工政治理论学习会",
+      "url": "https://bksy.shu.edu.cn/info/1016/320604.htm",
+      "date": "2026-05-14",
+      "column": "新闻动态"
+    },
+    {
       "title": "喜报！我校在第六届上海市高校教师教学创新大赛中获多项奖项",
       "url": "https://bksy.shu.edu.cn/info/1016/320534.htm",
+      "date": "2026-05-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通识示范课公开课《考古发现与华夏文明》开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/320554.htm",
       "date": "2026-05-13",
       "column": "新闻动态"
     },

@@ -2,15 +2,21 @@
   "domain": "shpower.shu.edu.cn",
   "department": "上海大学上海市电站自动化技术重点实验室",
   "type": "22",
-  "crawl_time": "20260514_004804",
-  "total_articles": 36,
+  "crawl_time": "20260515_013355",
+  "total_articles": 37,
   "columns": {
-    "综合新闻": 20,
-    "科研动态": 3,
     "学术活动": 2,
+    "科研动态": 3,
+    "综合新闻": 21,
     "通知公告": 11
   },
   "articles": [
+    {
+      "title": "上海市电站自动化技术重点实验室学术委员会会议顺利召开",
+      "url": "https://shpower.shu.edu.cn/info/1022/1600.htm",
+      "date": "2026-05-14",
+      "column": "综合新闻"
+    },
     {
       "title": "2025年全国嵌入式仪表及系统技术会议成功举办",
       "url": "https://shpower.shu.edu.cn/info/1022/1590.htm",

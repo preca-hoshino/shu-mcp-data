@@ -2,13 +2,19 @@
   "domain": "sdts.shu.edu.cn",
   "department": "上海大学通识教育",
   "type": "05",
-  "crawl_time": "20260513_175610",
-  "total_articles": 67,
+  "crawl_time": "20260515_013355",
+  "total_articles": 69,
   "columns": {
-    "新闻动态": 57,
+    "新闻动态": 59,
     "通知公告": 10
   },
   "articles": [
+    {
+      "title": "通识示范课公开课《考古发现与华夏文明》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/19133.htm",
+      "date": "2026-05-13",
+      "column": "新闻动态"
+    },
     {
       "title": "通识示范课公开课《音乐与科技》开讲",
       "url": "https://sdts.shu.edu.cn/info/1037/19123.htm",
@@ -367,6 +373,12 @@
       "title": "我校召开2012年度通识教育委员会工作组第四次会议",
       "url": "https://sdts.shu.edu.cn/info/1037/1104.htm",
       "date": "2012-10-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校举办六场新生研讨课试点公开课",
+      "url": "https://sdts.shu.edu.cn/info/1037/1023.htm",
+      "date": "2011-04-13",
       "column": "新闻动态"
     },
     {

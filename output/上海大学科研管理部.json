@@ -2,15 +2,27 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260514_004804",
-  "total_articles": 492,
+  "crawl_time": "20260515_013355",
+  "total_articles": 496,
   "columns": {
-    "通知公告": 393,
-    "科技动态": 54,
+    "办事流程": 8,
     "技术需求": 38,
-    "办事流程": 7
+    "科技动态": 56,
+    "通知公告": 394
   },
   "articles": [
+    {
+      "title": "新闻联播｜推进国际科技创新中心建设 打造世界级科技创新策源地",
+      "url": "https://mp.weixin.qq.com/s/QPn2z5rJB0pTDpQEibXj1A?click_id=21",
+      "date": "2026-05-14",
+      "column": "科技动态"
+    },
+    {
+      "title": "2026年度市住房城乡建设管理委科研项目申报开始啦！来看指南→",
+      "url": "https://mp.weixin.qq.com/s/fP3T-m9PfFBVGV2kDN9BXw",
+      "date": "2026-05-14",
+      "column": "通知公告"
+    },
     {
       "title": "中国科协2026年高校星火馆科学营（常态营）活动组织实施项目申报",
       "url": "https://kyglb.shu.edu.cn/info/1011/10982.htm",
@@ -1018,6 +1030,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1012/5642.htm",
       "date": "2023-09-14",
       "column": "科技动态"
+    },
+    {
+      "title": "上海大学知识产权申请流程及常见问题",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1075&wbnewsid=5582",
+      "date": "2023-09-05",
+      "column": "办事流程"
     },
     {
       "title": "上海大学知识产权申请流程及常见问题",
@@ -2938,6 +2956,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/1744.htm",
       "date": "2018-10-22",
       "column": "通知公告"
+    },
+    {
+      "title": "南京南瑞继保电气有限公司董事长沈国荣院士一行来访",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1604.htm",
+      "date": "2018-01-25",
+      "column": "科技动态"
     },
     {
       "title": "新型显示技术及应用集成教育部重点实验室第二届学术委员会2017年度会议顺利召开",

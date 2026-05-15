@@ -2,20 +2,44 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260514_004804",
-  "total_articles": 3791,
+  "crawl_time": "20260515_013355",
+  "total_articles": 3795,
   "columns": {
-    "学术报告": 2580,
-    "通知公告": 154,
-    "综合新闻": 594,
-    "科研动态": 304,
     "主办会议": 41,
-    "研究生教务": 15,
-    "本科生新闻": 15,
+    "学术报告": 2584,
     "本科生教务": 39,
-    "研究生新闻": 49
+    "本科生新闻": 15,
+    "研究生教务": 15,
+    "研究生新闻": 49,
+    "科研动态": 304,
+    "综合新闻": 594,
+    "通知公告": 154
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3036讲 非线性发展方程的并行计算方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/32485.htm",
+      "date": "2026-05-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3037讲 声散射问题的直角网格方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/32495.htm",
+      "date": "2026-05-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3038讲 分数阶偏微分方程的深度学习解法",
+      "url": "https://scicol.shu.edu.cn/info/1003/32505.htm",
+      "date": "2026-05-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3039讲 具阻尼波方程稳定性",
+      "url": "https://scicol.shu.edu.cn/info/1003/32515.htm",
+      "date": "2026-05-14",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科Seminar第802讲 姆潘巴效应的宏观普适理论与弛豫过程的几何描述",
       "url": "https://scicol.shu.edu.cn/info/1003/32475.htm",

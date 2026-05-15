@@ -2,12 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260514_004804",
-  "total_articles": 1739,
+  "crawl_time": "20260515_013355",
+  "total_articles": 1743,
   "columns": {
+    "新闻": 29,
     "讲座": 459,
-    "通知公告": 1255,
-    "新闻": 25
+    "通知公告": 1255
   },
   "articles": [
     {
@@ -291,6 +291,12 @@
       "url": "https://mp.weixin.qq.com/s/Ri_-K4tzOYi2eyL20ftoHQ",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "红脉融汇强动能，产业共振谱新篇——“共同行动”区域化党建联建活动圆满举行",
+      "url": "https://mp.weixin.qq.com/s/S9D5WMCdbtvXBk28UXo3Jw",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "「JUST」电影计划——PTA电影回顾专题：《血色将至》学术交流",
@@ -579,6 +585,12 @@
       "url": "https://mp.weixin.qq.com/s/uOlGYYU_wX0P3OHs2oEpzg",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "学院教师刘正直复排执导大型话剧《问瓷》亮相中国国家大剧院",
+      "url": "https://mp.weixin.qq.com/s/uTJUkgx-DruBcyZ6g5UcKA",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海电影学院第二届剧本大赛征稿启事",
@@ -3199,6 +3211,18 @@
     {
       "title": "同舟共济 抗震救灾—我院志愿者在火车站为灾区募捐",
       "url": "https://sfa.shu.edu.cn/info/1211/3804.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "我院第21期入党积极分子培训班结业仪式举行",
+      "url": "https://sfa.shu.edu.cn/info/1211/3805.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "我院举行“看电影援助灾区”公益捐款活动",
+      "url": "https://sfa.shu.edu.cn/info/1211/3806.htm",
       "date": "",
       "column": "新闻"
     },

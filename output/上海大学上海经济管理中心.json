@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260514_004804",
-  "total_articles": 47,
+  "crawl_time": "20260515_013355",
+  "total_articles": 49,
   "columns": {
-    "要闻速递": 22,
-    "招生简章": 25
+    "招生简章": 25,
+    "要闻速递": 24
   },
   "articles": [
+    {
+      "title": "2026年怒江州高质量发展与现代化治理综合能力提升专题培训班启动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/14108.htm",
+      "date": "2026-05-14",
+      "column": "要闻速递"
+    },
     {
       "title": "“深学笃行习近平法治思想 全面提升依法治州能力”专题研讨班启动",
       "url": "https://jgzx.shu.edu.cn/info/1017/14038.htm",
@@ -278,6 +284,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "经管中心举办2013年上海市干部教育秋季研修班开学活动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2321.htm",
+      "date": "2013-09-30",
+      "column": "要闻速递"
     },
     {
       "title": "经管中心举办第五期高层管理高级研修班开学典礼",

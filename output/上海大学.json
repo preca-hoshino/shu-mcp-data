@@ -2,15 +2,39 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260514_004804",
-  "total_articles": 18313,
+  "crawl_time": "20260515_013355",
+  "total_articles": 18317,
   "columns": {
-    "综合新闻": 16231,
-    "通知公告": 445,
     "科研动态": 1626,
+    "综合新闻": 16235,
+    "通知公告": 445,
     "重要新闻": 11
   },
   "articles": [
+    {
+      "title": "上海市计算机学会2026年度学术年会在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/394795.htm",
+      "date": "2026-05-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年上海高校计算机学院院长论坛在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/394805.htm",
+      "date": "2026-05-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学党委书记吴坚勇率团访问爱尔兰、瑞士",
+      "url": "https://www.shu.edu.cn/info/1056/394815.htm",
+      "date": "2026-05-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年怒江州高质量发展与现代化治理综合能力提升专题培训班启动",
+      "url": "https://www.shu.edu.cn/info/1056/394825.htm",
+      "date": "2026-05-14",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学援疆教师饶进军获评“第十一批优秀援疆干部人才”并记功",
       "url": "https://www.shu.edu.cn/info/1056/394645.htm",
