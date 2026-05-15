@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260515_013355",
-  "total_articles": 1957,
+  "crawl_time": "20260515_124235",
+  "total_articles": 1958,
   "columns": {
     "学术报告": 100,
     "学生动态": 147,
     "学院周志": 300,
     "科研动态": 475,
-    "综合新闻": 520,
+    "综合新闻": 521,
     "通知公告": 415
   },
   "articles": [
+    {
+      "title": "文学院召开《写作与沟通》课程调研交流会",
+      "url": "https://cla.shu.edu.cn/info/1015/53428.htm",
+      "date": "2026-05-15",
+      "column": "综合新闻"
+    },
     {
       "title": "文学院周志总第696期（2026年第12期，4月27日-5月10日）",
       "url": "https://cla.shu.edu.cn/696zhouzhi.pdf",

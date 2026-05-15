@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260515_090615",
-  "total_articles": 3800,
+  "crawl_time": "20260515_124235",
+  "total_articles": 3801,
   "columns": {
     "主办会议": 41,
     "学术报告": 2588,
@@ -13,9 +13,15 @@
     "研究生新闻": 49,
     "科研动态": 305,
     "综合新闻": 594,
-    "通知公告": 154
+    "通知公告": 155
   },
   "articles": [
+    {
+      "title": "关于2026年理学院第二批次博士研究生招生复试工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF1/20260515-11.pdf",
+      "date": "2026-05-15",
+      "column": "通知公告"
+    },
     {
       "title": "数学学科Seminar第3040讲 适当正交分解外推方法的应用",
       "url": "https://scicol.shu.edu.cn/info/1003/32525.htm",
