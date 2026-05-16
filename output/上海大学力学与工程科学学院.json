@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260515_090615",
-  "total_articles": 236,
+  "crawl_time": "20260516_083729",
+  "total_articles": 238,
   "columns": {
     "学术报告": 47,
     "学生信息": 40,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 28,
+    "综合新闻": 30,
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "傅克诚先生《综述大都市圈空间结构三要素》新书发布...",
+      "url": "https://smes.shu.edu.cn/info/1013/10385.htm",
+      "date": "2026-05-16",
+      "column": "综合新闻"
+    },
     {
       "title": "力工学院2026年博士研究生招生综合考核考生名单（第...",
       "url": "https://smes.shu.edu.cn/info/1015/10375.htm",
@@ -1273,6 +1279,12 @@
       "url": "https://smes.shu.edu.cn/info/1017/2077.htm",
       "date": "2017-05-05",
       "column": "科研动态"
+    },
+    {
+      "title": "乐嘉陵院士来力学所指导和交流",
+      "url": "https://smes.shu.edu.cn/info/1013/2041.htm",
+      "date": "2017-04-28",
+      "column": "综合新闻"
     },
     {
       "title": "上海交通大学张文明教授应邀来所进行学术交流",

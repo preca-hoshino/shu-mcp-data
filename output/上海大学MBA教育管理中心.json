@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260514_004804",
-  "total_articles": 557,
+  "crawl_time": "20260516_083729",
+  "total_articles": 559,
   "columns": {
+    "焦点新闻": 361,
     "论坛活动": 169,
-    "通知公告": 27,
-    "焦点新闻": 361
+    "通知公告": 29
   },
   "articles": [
+    {
+      "title": "关于上海大学MBA教育管理中心2026级拟录取考生后续材料办理通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26451.htm",
+      "date": "2026-05-16",
+      "column": "通知公告"
+    },
     {
       "title": "智能制造方向《创新生态与技术转移》课堂教学与实践",
       "url": "https://mp.weixin.qq.com/s/VmyBKCmQOis4-o99cCYoVg",
@@ -3009,6 +3015,12 @@
       "url": "https://mba.shu.edu.cn/info/1025/7264.htm",
       "date": "2020-03-02",
       "column": "论坛活动"
+    },
+    {
+      "title": "重要通知 | 2020年入学全国管理类联考准考证已开始下载",
+      "url": "https://mba.shu.edu.cn/info/1024/9844.htm",
+      "date": "2019-12-17",
+      "column": "通知公告"
     },
     {
       "title": "学生说 | 从不同领域领悟管理精髓——上大MBA经管前沿专题讲座（第9场）听后感（高燕）",
