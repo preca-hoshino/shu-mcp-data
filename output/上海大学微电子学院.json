@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260515_052305",
-  "total_articles": 318,
+  "crawl_time": "20260517_013251",
+  "total_articles": 319,
   "columns": {
     "新闻动态": 239,
     "讲座信息": 8,
     "资讯动态": 2,
-    "通知公告": 69
+    "通知公告": 70
   },
   "articles": [
+    {
+      "title": "微电子学院2026年博士研究生招生第二次报名进入复试考核考生名单",
+      "url": "https://sme.shu.edu.cn/info/1030/6802.htm",
+      "date": "2026-05-17",
+      "column": "通知公告"
+    },
     {
       "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
       "url": "https://sme.shu.edu.cn/info/1029/6792.htm",
