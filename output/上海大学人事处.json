@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260514_004804",
-  "total_articles": 163,
+  "crawl_time": "20260518_013736",
+  "total_articles": 165,
   "columns": {
-    "新闻公告": 163
+    "新闻公告": 165
   },
   "articles": [
+    {
+      "title": "关于遴选2026年青年骨干教师出国研修项目高等教育教学法出国研修项目（LH）的公示",
+      "url": "https://hr.shu.edu.cn/info/1029/8169.htm",
+      "date": "2026-05-18",
+      "column": "新闻公告"
+    },
     {
       "title": "关于遴选2026年青年骨干教师出国研修项目/高等教育教学法出国研修项目（LH）的通知",
       "url": "https://hr.shu.edu.cn/info/1029/8139.htm",
@@ -906,6 +912,12 @@
       "title": "2011年高校学生思想政治教育教师高级职务聘任工作的通知",
       "url": "https://hr.shu.edu.cn/info/1029/2642.htm",
       "date": "2011-10-28",
+      "column": "新闻公告"
+    },
+    {
+      "title": "关于上海大学新进人员填写新表格的通知",
+      "url": "https://hr.shu.edu.cn/info/1029/2529.htm",
+      "date": "2008-10-28",
       "column": "新闻公告"
     },
     {

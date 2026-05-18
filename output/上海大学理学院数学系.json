@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260515_090615",
-  "total_articles": 1572,
+  "crawl_time": "20260518_013736",
+  "total_articles": 1573,
   "columns": {
     "学术会议": 29,
     "学术报告": 1378,
-    "新闻快递": 165
+    "新闻快递": 166
   },
   "articles": [
+    {
+      "title": "2026年上海大学数学实践工作站开班典礼顺利举行",
+      "url": "https://math.shu.edu.cn/info/1041/26671.htm",
+      "date": "2026-05-18",
+      "column": "新闻快递"
+    },
     {
       "title": "Seminar第3040讲 适当正交分解外推方法的应用",
       "url": "https://math.shu.edu.cn/info/1042/26641.htm",

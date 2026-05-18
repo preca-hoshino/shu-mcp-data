@@ -2,15 +2,33 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260515_124235",
-  "total_articles": 18319,
+  "crawl_time": "20260518_013736",
+  "total_articles": 18322,
   "columns": {
-    "科研动态": 1627,
-    "综合新闻": 16236,
+    "科研动态": 1628,
+    "综合新闻": 16238,
     "通知公告": 445,
     "重要新闻": 11
   },
   "articles": [
+    {
+      "title": "材料学院朱波教授团队在国际化学期刊《Chemical Science》发表研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/394945.htm",
+      "date": "2026-05-18",
+      "column": "科研动态"
+    },
+    {
+      "title": "党委巡察工作领导小组召开2026年第2次会议",
+      "url": "https://www.shu.edu.cn/info/1056/394925.htm",
+      "date": "2026-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
+      "url": "https://www.shu.edu.cn/info/1056/394935.htm",
+      "date": "2026-05-18",
+      "column": "综合新闻"
+    },
     {
       "title": "理学院甄强教授团队发明成果获2026年第51届日内瓦国际发明展金奖",
       "url": "https://www.shu.edu.cn/info/1055/394835.htm",

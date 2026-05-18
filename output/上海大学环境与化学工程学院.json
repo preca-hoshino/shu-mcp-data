@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260516_013218",
-  "total_articles": 941,
+  "crawl_time": "20260518_013736",
+  "total_articles": 943,
   "columns": {
     "学术报告": 79,
     "学院新闻": 377,
     "本科生教学": 69,
-    "研究生教学": 203,
+    "研究生教学": 204,
     "科研动态": 113,
-    "通知公告": 100
+    "通知公告": 101
   },
   "articles": [
+    {
+      "title": "2026年上海大学环境与化学工程学院博士研究生普通招考进入复试名单（第二批）",
+      "url": "https://ece.shu.edu.cn/info/1147/87964.htm",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年上海大学环境与化学工程学院博士研究生普通招考进入复试名单（第二批）",
+      "url": "https://ece.shu.edu.cn/info/1304/87954.htm",
+      "date": "2026-05-18",
+      "column": "研究生教学"
+    },
     {
       "title": "我院召开干部宣布大会",
       "url": "https://ece.shu.edu.cn/info/1149/87944.htm",
