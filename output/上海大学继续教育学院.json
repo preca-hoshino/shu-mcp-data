@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260514_004804",
-  "total_articles": 1749,
+  "crawl_time": "20260518_091438",
+  "total_articles": 1750,
   "columns": {
+    "学院新闻": 526,
     "招生热讯": 71,
-    "学院新闻": 525,
     "通知公告": 1153
   },
   "articles": [
+    {
+      "title": "继续教育学院举办2026年校友值年返校活动",
+      "url": "https://cce.shu.edu.cn/info/1550/20254.htm",
+      "date": "2026-05-18",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学管理能力提升研修班招生简章（第二期）",
       "url": "https://mp.weixin.qq.com/s/vPuaebVlNc24lYB0xfW5LQ",

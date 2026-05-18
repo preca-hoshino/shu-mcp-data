@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260516_122604",
-  "total_articles": 544,
+  "crawl_time": "20260518_091438",
+  "total_articles": 545,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 32,
+    "学院新闻": 33,
     "通知公告": 82
   },
   "articles": [
+    {
+      "title": "外国语学院院长尚新率团参加第十九届全国英语类专业院长/系主任高级论坛并作专题报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/30577.htm",
+      "date": "2026-05-18",
+      "column": "学院新闻"
+    },
     {
       "title": "讣告",
       "url": "https://sfs.shu.edu.cn/info/1141/30557.htm",

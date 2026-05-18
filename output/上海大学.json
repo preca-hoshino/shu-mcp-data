@@ -2,11 +2,11 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260518_013736",
-  "total_articles": 18322,
+  "crawl_time": "20260518_091438",
+  "total_articles": 18327,
   "columns": {
-    "科研动态": 1628,
-    "综合新闻": 16238,
+    "科研动态": 1629,
+    "综合新闻": 16242,
     "通知公告": 445,
     "重要新闻": 11
   },
@@ -14,6 +14,12 @@
     {
       "title": "材料学院朱波教授团队在国际化学期刊《Chemical Science》发表研究成果",
       "url": "https://www.shu.edu.cn/info/1055/394945.htm",
+      "date": "2026-05-18",
+      "column": "科研动态"
+    },
+    {
+      "title": "新闻传播学院牛盼强教授在《新闻与传播研究》发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/395005.htm",
       "date": "2026-05-18",
       "column": "科研动态"
     },
@@ -26,6 +32,30 @@
     {
       "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交流会暨中心组学习（扩大）会",
       "url": "https://www.shu.edu.cn/info/1056/394935.htm",
+      "date": "2026-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "合肥大学邬平川书记一行来访我校交流新结构经济学学科建设与合作",
+      "url": "https://www.shu.edu.cn/info/1056/394965.htm",
+      "date": "2026-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "环化学院召开干部宣布大会",
+      "url": "https://www.shu.edu.cn/info/1056/394975.htm",
+      "date": "2026-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "傅克诚先生《综述大都市圈空间结构三要素》新书发布暨研讨会在上海大学举办",
+      "url": "https://www.shu.edu.cn/info/1056/394995.htm",
+      "date": "2026-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "红脉融汇强动能，产业共振谱新篇——“共同行动”区域化党建联建活动顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/395015.htm",
       "date": "2026-05-18",
       "column": "综合新闻"
     },

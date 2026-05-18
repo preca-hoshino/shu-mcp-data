@@ -2,11 +2,11 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260518_013736",
-  "total_articles": 943,
+  "crawl_time": "20260518_091438",
+  "total_articles": 945,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 377,
+    "学院新闻": 379,
     "本科生教学": 69,
     "研究生教学": 204,
     "科研动态": 113,
@@ -36,6 +36,18 @@
       "url": "https://ece.shu.edu.cn/info/1304/87934.htm",
       "date": "2026-05-14",
       "column": "研究生教学"
+    },
+    {
+      "title": "【环保节|“袋”代相传】“无废校园，‘袋’代相传”主题路演圆满结束！",
+      "url": "https://mp.weixin.qq.com/s/pNKBNgcQ-8oRYcsNn3o5jA",
+      "date": "2026-05-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院校友奖学金暨第十三届 “环化之星” 颁奖典礼圆满举行",
+      "url": "https://mp.weixin.qq.com/s/C7OCWDV_i2Vp_oGWUTOvSA",
+      "date": "2026-05-12",
+      "column": "学院新闻"
     },
     {
       "title": "关于第110次校学位评定委员会会前准备工作的通知",

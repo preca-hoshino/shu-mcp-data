@@ -2,18 +2,96 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260518_052751",
-  "total_articles": 499,
+  "crawl_time": "20260518_091438",
+  "total_articles": 513,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 58,
-    "通知公告": 395
+    "科技动态": 60,
+    "通知公告": 407
   },
   "articles": [
     {
+      "title": "上海大学科技成果转化现金奖励公示2026-01",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10822",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-02",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10832",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-03",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10842",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-04",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10852",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-05",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10862",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-06",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10872",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-08",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10882",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-09",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10892",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-10",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10902",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学科技成果转化现金奖励公示2026-11",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10912",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学专利类无形资产情况的公示 （2026年4月）",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11072",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "转发上海市经济信息化委关于开展2026“上海设计100+”全球竞赛征集的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11082.htm",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
+    {
       "title": "习近平就推动哲学社会科学高质量发展作出重要指示",
       "url": "https://mp.weixin.qq.com/s/3AnI6s7hF6yaIRdsejXQfw",
+      "date": "2026-05-18",
+      "column": "科技动态"
+    },
+    {
+      "title": "理学院甄强教授团队发明成果获2026年第51届日内瓦国际发明展金奖",
+      "url": "https://mp.weixin.qq.com/s/SHXvoWtWsJHtp3b1zHYGPQ",
       "date": "2026-05-18",
       "column": "科技动态"
     },
@@ -2978,6 +3056,12 @@
     {
       "title": "我校2016年度上海市科学技术奖励取得优异成绩",
       "url": "https://kyglb.shu.edu.cn/info/1012/1605.htm",
+      "date": "2018-01-25",
+      "column": "科技动态"
+    },
+    {
+      "title": "第四届“魏寿昆科技教育奖”评审委员会专家组会议",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1607.htm",
       "date": "2018-01-25",
       "column": "科技动态"
     },

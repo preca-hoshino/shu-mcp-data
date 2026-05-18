@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260516_083729",
-  "total_articles": 559,
+  "crawl_time": "20260518_091438",
+  "total_articles": 560,
   "columns": {
-    "焦点新闻": 361,
+    "焦点新闻": 362,
     "论坛活动": 169,
     "通知公告": 29
   },
   "articles": [
+    {
+      "title": "战略领航，共赴新程 | 上海大学MBA中心2027级专业方向重磅发布！",
+      "url": "https://mp.weixin.qq.com/s/PWH20vG_dJZzb0hcNb0NuA",
+      "date": "2026-05-18",
+      "column": "焦点新闻"
+    },
     {
       "title": "关于上海大学MBA教育管理中心2026级拟录取考生后续材料办理通知",
       "url": "https://mba.shu.edu.cn/info/1024/26451.htm",
