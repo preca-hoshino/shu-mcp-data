@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260515_090615",
-  "total_articles": 2496,
+  "crawl_time": "20260518_132046",
+  "total_articles": 2497,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 47,
@@ -13,9 +13,15 @@
     "教学教务": 132,
     "校友活动": 30,
     "综合新闻": 870,
-    "通知公告": 46
+    "通知公告": 47
   },
   "articles": [
+    {
+      "title": "中国社会学会2026年学术年会——特大城市治理现代化论坛征文",
+      "url": "https://sociology.shu.edu.cn/info/1103/41648.htm",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
     {
       "title": "论坛征稿 | “地域社会政策与长三角城市群高质量发展”",
       "url": "https://mp.weixin.qq.com/s/AmZl6X1UYbQliJx1sl6Tmw",

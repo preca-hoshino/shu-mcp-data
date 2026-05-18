@@ -2,14 +2,26 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 682,
+  "crawl_time": "20260518_132046",
+  "total_articles": 684,
   "columns": {
-    "通知公告": 105,
-    "最新动态": 362,
-    "学术报告": 215
+    "学术报告": 215,
+    "最新动态": 364,
+    "通知公告": 105
   },
   "articles": [
+    {
+      "title": "伟长书院“梦想启航”系列讲座第61讲：《破焦虑・筑心安・懂生活——与上海大学钱...",
+      "url": "https://qwc.shu.edu.cn/info/1087/8259.htm",
+      "date": "2026-05-14",
+      "column": "最新动态"
+    },
+    {
+      "title": "上海杉达学院来校调研钱伟长学院（伟长书院）书院制建设工作",
+      "url": "https://qwc.shu.edu.cn/info/1087/8269.htm",
+      "date": "2026-05-08",
+      "column": "最新动态"
+    },
     {
       "title": "钱伟长学院关于2026年上海大学本科生校长奖学金评审推荐公示",
       "url": "https://qwc.shu.edu.cn/info/1086/8249.htm",
