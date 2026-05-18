@@ -2,15 +2,27 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260515_090615",
-  "total_articles": 352,
+  "crawl_time": "20260518_052751",
+  "total_articles": 354,
   "columns": {
-    "学术报告": 278,
+    "学术报告": 280,
     "新闻快递": 16,
     "研究动态": 44,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第801讲：赵清（2026年5月12日下午15:00）",
+      "url": "https://physics.shu.edu.cn/info/1078/9414.htm",
+      "date": "2026-05-18",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第802讲：马宇翰（2026年5月20日14:00）",
+      "url": "https://physics.shu.edu.cn/info/1078/9424.htm",
+      "date": "2026-05-18",
+      "column": "学术报告"
+    },
     {
       "title": "量子科技研究院seminar第98讲暨物理学科Seminar第803讲:刘彦霞(2026年5月16日13:00...",
       "url": "https://physics.shu.edu.cn/info/1078/9404.htm",

@@ -2,14 +2,32 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260515_052305",
-  "total_articles": 92,
+  "crawl_time": "20260518_052751",
+  "total_articles": 95,
   "columns": {
     "文明创建": 33,
-    "文明实践": 33,
+    "文明实践": 36,
     "校园动态": 26
   },
   "articles": [
+    {
+      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
+      "url": "https://www.shu.edu.cn/info/1056/394915.htm",
+      "date": "2026-05-18",
+      "column": "文明实践"
+    },
+    {
+      "title": "党委巡察工作领导小组召开2026年第2次会议",
+      "url": "https://www.shu.edu.cn/info/1056/394925.htm",
+      "date": "2026-05-18",
+      "column": "文明实践"
+    },
+    {
+      "title": "匠心筑梦育英才·立德树人担使命——微电子学院开展劳模精神交...",
+      "url": "https://www.shu.edu.cn/info/1056/394935.htm",
+      "date": "2026-05-18",
+      "column": "文明实践"
+    },
     {
       "title": "“国球宝山行，上大风景线” 上海大学代表队获上海乒乓嘉年华...",
       "url": "https://www.shu.edu.cn/info/1056/394685.htm",

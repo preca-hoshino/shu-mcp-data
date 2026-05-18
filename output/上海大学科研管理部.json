@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260515_090615",
-  "total_articles": 497,
+  "crawl_time": "20260518_052751",
+  "total_articles": 499,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 56,
+    "科技动态": 58,
     "通知公告": 395
   },
   "articles": [
+    {
+      "title": "习近平就推动哲学社会科学高质量发展作出重要指示",
+      "url": "https://mp.weixin.qq.com/s/3AnI6s7hF6yaIRdsejXQfw",
+      "date": "2026-05-18",
+      "column": "科技动态"
+    },
     {
       "title": "关于科技工作状况调查站点2026年度信息报送的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11042.htm",
@@ -2966,6 +2972,12 @@
     {
       "title": "南京南瑞继保电气有限公司董事长沈国荣院士一行来访",
       "url": "https://kyglb.shu.edu.cn/info/1012/1604.htm",
+      "date": "2018-01-25",
+      "column": "科技动态"
+    },
+    {
+      "title": "我校2016年度上海市科学技术奖励取得优异成绩",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1605.htm",
       "date": "2018-01-25",
       "column": "科技动态"
     },
