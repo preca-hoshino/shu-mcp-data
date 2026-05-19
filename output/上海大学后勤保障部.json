@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260514_004804",
-  "total_articles": 424,
+  "crawl_time": "20260519_091202",
+  "total_articles": 425,
   "columns": {
     "后勤新闻": 313,
-    "通知公告": 111
+    "通知公告": 112
   },
   "articles": [
+    {
+      "title": "宝山校区行政楼外墙抢修工程公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10036.htm",
+      "date": "2026-05-19",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学第二十九届优质服务月顺利举办",
       "url": "https://hbb.shu.edu.cn/info/1081/10016.htm",

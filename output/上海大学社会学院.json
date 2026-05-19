@@ -2,20 +2,38 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260518_132046",
-  "total_articles": 2497,
+  "crawl_time": "20260519_091202",
+  "total_articles": 2501,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 47,
-    "学术动态": 542,
+    "学术动态": 543,
     "学术报告": 131,
     "学生动态": 579,
-    "教学教务": 132,
+    "教学教务": 134,
     "校友活动": 30,
-    "综合新闻": 870,
+    "综合新闻": 871,
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "汪丹老师荣获第六届上海市高校教师教学创新大赛一等奖",
+      "url": "https://sociology.shu.edu.cn/info/1102/41688.htm",
+      "date": "2026-05-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "陈伟副教授赴圣路易斯参加2026年美国人口学年会",
+      "url": "https://sociology.shu.edu.cn/info/1104/41668.htm",
+      "date": "2026-05-19",
+      "column": "学术动态"
+    },
+    {
+      "title": "汪丹老师荣获第六届上海市高校教师教学创新大赛一等奖",
+      "url": "https://sociology.shu.edu.cn/info/1106/41658.htm",
+      "date": "2026-05-19",
+      "column": "教学教务"
+    },
     {
       "title": "中国社会学会2026年学术年会——特大城市治理现代化论坛征文",
       "url": "https://sociology.shu.edu.cn/info/1103/41648.htm",
@@ -11535,6 +11553,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/5934.htm",
       "date": "2015-03-30",
       "column": "学术动态"
+    },
+    {
+      "title": "2014-2015春季学期社会学院本科生课表（含坐班答疑安排）",
+      "url": "https://sociology.shu.edu.cn/info/1106/5491.htm",
+      "date": "2015-03-30",
+      "column": "教学教务"
     },
     {
       "title": "社会学院第三届学生学术研讨交流会（挑战杯专场）举行",

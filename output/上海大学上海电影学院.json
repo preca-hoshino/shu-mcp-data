@@ -2,12 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260515_013355",
-  "total_articles": 1743,
+  "crawl_time": "20260519_091202",
+  "total_articles": 1746,
   "columns": {
-    "新闻": 29,
+    "新闻": 31,
     "讲座": 459,
-    "通知公告": 1255
+    "通知公告": 1256
   },
   "articles": [
     {
@@ -109,6 +109,12 @@
     {
       "title": "2026VPC全国大学生虚拟制作大赛华东站研讨会暨华东赛区启动仪式",
       "url": "https://mp.weixin.qq.com/s/4-DmRWbONMQq_-wbx_GgZQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "导演专业本科23级夏季联合作业展映成功举办",
+      "url": "https://mp.weixin.qq.com/s/4i1jeRPNKO4jkifjgowFJg",
       "date": "",
       "column": "新闻"
     },
@@ -3227,6 +3233,12 @@
       "column": "新闻"
     },
     {
+      "title": "影视学院研究生2008届党总支换届选举举行",
+      "url": "https://sfa.shu.edu.cn/info/1211/3807.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "解放日报报业集团社长尹明华先生受聘为我校兼职教授",
       "url": "https://sfa.shu.edu.cn/info/1211/4203.htm",
       "date": "",
@@ -3367,6 +3379,12 @@
     {
       "title": "上海电影学院2026年研究生复试名单",
       "url": "https://sfa.shu.edu.cn/info/1212/43404.htm",
+      "date": "",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025-2026学年春季学期未注册学生限期注册的公告",
+      "url": "https://sfa.shu.edu.cn/info/1212/43764.htm",
       "date": "",
       "column": "通知公告"
     },

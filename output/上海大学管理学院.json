@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 752,
+  "crawl_time": "20260519_091202",
+  "total_articles": 754,
   "columns": {
+    "学术活动": 192,
     "学院新闻": 60,
-    "学术活动": 190,
     "重要通知": 502
   },
   "articles": [
+    {
+      "title": "0522上海管理论坛第573期（邹小伟教授，长安大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92035.htm",
+      "date": "2026-05-19",
+      "column": "学术活动"
+    },
     {
       "title": "管理学院举办专报撰写专题辅导会",
       "url": "https://ms.shu.edu.cn/info/1244/91985.htm",
@@ -4363,6 +4369,12 @@
     {
       "title": "管理学院上海管理论坛学术讲座第七期",
       "url": "https://ms.shu.edu.cn/info/1246/11177.htm",
+      "date": "2008-10-27",
+      "column": "学术活动"
+    },
+    {
+      "title": "秋季学期冲突考试报名的通知",
+      "url": "https://ms.shu.edu.cn/info/1246/11178.htm",
       "date": "2008-10-27",
       "column": "学术活动"
     },

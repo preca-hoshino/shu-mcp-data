@@ -2,11 +2,11 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260518_091438",
-  "total_articles": 240,
+  "crawl_time": "20260519_091202",
+  "total_articles": 241,
   "columns": {
     "学术报告": 49,
-    "学生信息": 40,
+    "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
@@ -14,6 +14,12 @@
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "力学与工程科学学院2026年硕博连读认定名单（第二批...",
+      "url": "https://smes.shu.edu.cn/info/1016/10415.htm",
+      "date": "2026-05-19",
+      "column": "学生信息"
+    },
     {
       "title": "低碳能源过程强化中的微气泡流控及应用研究",
       "url": "https://smes.shu.edu.cn/info/1014/10395.htm",

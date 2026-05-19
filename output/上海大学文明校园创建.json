@@ -2,14 +2,50 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260518_052751",
-  "total_articles": 95,
+  "crawl_time": "20260519_091202",
+  "total_articles": 101,
   "columns": {
     "文明创建": 33,
-    "文明实践": 36,
+    "文明实践": 42,
     "校园动态": 26
   },
   "articles": [
+    {
+      "title": "红脉融汇强动能，产业共振谱新篇——“共同行动”区域化党建...",
+      "url": "https://www.shu.edu.cn/info/1056/395015.htm",
+      "date": "2026-05-19",
+      "column": "文明实践"
+    },
+    {
+      "title": "“江声海韵·民乐华章”上海民族乐团民族管弦乐音乐会上海大学...",
+      "url": "https://www.shu.edu.cn/info/1056/395075.htm",
+      "date": "2026-05-19",
+      "column": "文明实践"
+    },
+    {
+      "title": "我校举办2026年数字技术应用专项师资研修班",
+      "url": "https://www.shu.edu.cn/info/1056/395085.htm",
+      "date": "2026-05-19",
+      "column": "文明实践"
+    },
+    {
+      "title": "我校举办2026年上半年上海市领导干部专题培训班（第二期）“...",
+      "url": "https://www.shu.edu.cn/info/1056/395095.htm",
+      "date": "2026-05-19",
+      "column": "文明实践"
+    },
+    {
+      "title": "正风铸魂砺初心 笃行实干担使命——社会学院学生党支部联合主...",
+      "url": "https://www.shu.edu.cn/info/1056/395235.htm",
+      "date": "2026-05-19",
+      "column": "文明实践"
+    },
+    {
+      "title": "2026年（第十八届）上海市大学生计算机应用能力大赛决赛在上...",
+      "url": "https://www.shu.edu.cn/info/1056/395245.htm",
+      "date": "2026-05-19",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学召开党委理论学习中心组（扩大）学习会",
       "url": "https://www.shu.edu.cn/info/1056/394915.htm",

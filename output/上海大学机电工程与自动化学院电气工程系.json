@@ -2,13 +2,25 @@
   "domain": "ee.shu.edu.cn",
   "department": "上海大学机电工程与自动化学院电气工程系",
   "type": "20",
-  "crawl_time": "20260519_052557",
-  "total_articles": 51,
+  "crawl_time": "20260519_091202",
+  "total_articles": 53,
   "columns": {
     "科研教学": 19,
-    "综合新闻": 32
+    "综合新闻": 34
   },
   "articles": [
+    {
+      "title": "明晰未来方向，规划精彩未来——23.24级里斯本电气升学职业规划主题班会顺利举办",
+      "url": "https://ee.shu.edu.cn/info/1012/5044.htm",
+      "date": "2026-05-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "闻道电气，筑梦电力新时代——电气工程系关工委活动",
+      "url": "https://ee.shu.edu.cn/info/1012/5054.htm",
+      "date": "2026-05-19",
+      "column": "综合新闻"
+    },
     {
       "title": "闻道电气，筑梦电力新时代——电气工程系关工委活动",
       "url": "https://ee.shu.edu.cn/info/1015/5034.htm",

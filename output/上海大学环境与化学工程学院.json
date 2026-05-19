@@ -2,20 +2,26 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260519_013639",
-  "total_articles": 946,
+  "crawl_time": "20260519_091202",
+  "total_articles": 947,
   "columns": {
     "学术报告": 79,
     "学院新闻": 379,
     "本科生教学": 69,
     "研究生教学": 204,
     "科研动态": 113,
-    "通知公告": 102
+    "通知公告": 103
   },
   "articles": [
     {
       "title": "关于做好上海市第十四届“阳光计划”项目申报工作的通知",
       "url": "https://ece.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1147&wbnewsid=88084",
+      "date": "2026-05-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "“多介质环境污染控制和协同降碳创新人才国际合作培养”2026年第二批推荐人选公示",
+      "url": "https://ece.shu.edu.cn/info/1147/88094.htm",
       "date": "2026-05-19",
       "column": "通知公告"
     },
