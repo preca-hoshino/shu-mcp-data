@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260518_091438",
-  "total_articles": 945,
+  "crawl_time": "20260519_013639",
+  "total_articles": 946,
   "columns": {
     "学术报告": 79,
     "学院新闻": 379,
     "本科生教学": 69,
     "研究生教学": 204,
     "科研动态": 113,
-    "通知公告": 101
+    "通知公告": 102
   },
   "articles": [
+    {
+      "title": "关于做好上海市第十四届“阳光计划”项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1147&wbnewsid=88084",
+      "date": "2026-05-19",
+      "column": "通知公告"
+    },
     {
       "title": "2026年上海大学环境与化学工程学院博士研究生普通招考进入复试名单（第二批）",
       "url": "https://ece.shu.edu.cn/info/1147/87964.htm",

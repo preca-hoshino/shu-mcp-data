@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260515_124235",
-  "total_articles": 3801,
+  "crawl_time": "20260519_013639",
+  "total_articles": 3802,
   "columns": {
     "主办会议": 41,
     "学术报告": 2588,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 305,
-    "综合新闻": 594,
+    "综合新闻": 595,
     "通知公告": 155
   },
   "articles": [
+    {
+      "title": "青春如故 归来仍少年——理学院化学系2026年校友返校日活动圆满举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/32585.htm",
+      "date": "2026-05-19",
+      "column": "综合新闻"
+    },
     {
       "title": "关于2026年理学院第二批次博士研究生招生复试工作办法",
       "url": "https://scicol.shu.edu.cn/PDF1/20260515-11.pdf",

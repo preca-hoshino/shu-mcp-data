@@ -2,14 +2,26 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 296,
+  "crawl_time": "20260519_013639",
+  "total_articles": 299,
   "columns": {
-    "通知公告": 185,
+    "文科动态": 65,
     "最新立项": 48,
-    "文科动态": 63
+    "通知公告": 186
   },
   "articles": [
+    {
+      "title": "合肥大学邬平川书记一行来访我校交流 新结构经济学学科建设与合作",
+      "url": "https://rwskc.shu.edu.cn/info/1070/5817.htm",
+      "date": "2026-05-19",
+      "column": "文科动态"
+    },
+    {
+      "title": "收藏！上海大学文科科研申报手册新鲜出炉",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5807.htm",
+      "date": "2026-05-18",
+      "column": "通知公告"
+    },
     {
       "title": "关于做好2026年国家社科基金年度项目申报工作的通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/5767.htm",
@@ -1749,6 +1761,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/2848.htm",
       "date": "2008-05-28",
       "column": "通知公告"
+    },
+    {
+      "title": "悉商学院吕康娟获07年度市体育局项目优秀成果二等奖",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3565.htm",
+      "date": "2008-05-26",
+      "column": "文科动态"
     },
     {
       "title": "上海市社会科学界第六届（2008）学术年会征文工作启动",
