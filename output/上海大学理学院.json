@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260519_013639",
-  "total_articles": 3802,
+  "crawl_time": "20260519_052557",
+  "total_articles": 3803,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2588,
+    "学术报告": 2589,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
@@ -16,6 +16,12 @@
     "通知公告": 155
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar第99讲暨物理学科Seminar第804讲 单层FeSe/STO中可能存在的带间配对和...",
+      "url": "https://scicol.shu.edu.cn/info/1003/32595.htm",
+      "date": "2026-05-19",
+      "column": "学术报告"
+    },
     {
       "title": "青春如故 归来仍少年——理学院化学系2026年校友返校日活动圆满举行",
       "url": "https://scicol.shu.edu.cn/info/1007/32585.htm",

@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260518_091438",
-  "total_articles": 513,
+  "crawl_time": "20260519_052557",
+  "total_articles": 515,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 60,
+    "科技动态": 62,
     "通知公告": 407
   },
   "articles": [
+    {
+      "title": "上海：基础研究，何以攻坚",
+      "url": "https://mp.weixin.qq.com/s/8LmTHMdQdrjyKDJ8YnkaAQ",
+      "date": "2026-05-19",
+      "column": "科技动态"
+    },
     {
       "title": "上海大学科技成果转化现金奖励公示2026-01",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=10822",
@@ -3062,6 +3068,12 @@
     {
       "title": "第四届“魏寿昆科技教育奖”评审委员会专家组会议",
       "url": "https://kyglb.shu.edu.cn/info/1012/1607.htm",
+      "date": "2018-01-25",
+      "column": "科技动态"
+    },
+    {
+      "title": "金校长汪敏副校长一行访问南京南瑞集团并签署科技合作协议",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1608.htm",
       "date": "2018-01-25",
       "column": "科技动态"
     },

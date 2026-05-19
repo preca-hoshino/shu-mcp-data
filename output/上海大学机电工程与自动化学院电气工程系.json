@@ -2,13 +2,19 @@
   "domain": "ee.shu.edu.cn",
   "department": "上海大学机电工程与自动化学院电气工程系",
   "type": "20",
-  "crawl_time": "20260514_004804",
-  "total_articles": 50,
+  "crawl_time": "20260519_052557",
+  "total_articles": 51,
   "columns": {
-    "科研教学": 18,
+    "科研教学": 19,
     "综合新闻": 32
   },
   "articles": [
+    {
+      "title": "闻道电气，筑梦电力新时代——电气工程系关工委活动",
+      "url": "https://ee.shu.edu.cn/info/1015/5034.htm",
+      "date": "2026-05-19",
+      "column": "科研教学"
+    },
     {
       "title": "学硕论文被国际控制科学顶级会议IFAC世界大会接收",
       "url": "https://ee.shu.edu.cn/info/1015/5024.htm",
