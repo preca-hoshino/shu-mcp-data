@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260514_004804",
-  "total_articles": 683,
+  "crawl_time": "20260520_052625",
+  "total_articles": 684,
   "columns": {
-    "学院新闻": 324,
-    "学生工作": 40,
-    "教学": 155,
-    "通知公告": 11,
     "党建工作": 45,
     "学术讲座": 53,
+    "学生工作": 40,
+    "学院新闻": 324,
+    "展览展示": 24,
+    "教学": 156,
     "科研": 31,
-    "展览展示": 24
+    "通知公告": 11
   },
   "articles": [
+    {
+      "title": "上海美术学院举办“新时代专业人才培养方案与课程体系的制定规范” 专题讲座",
+      "url": "https://safa.shu.edu.cn/info/1119/19340.htm",
+      "date": "2026-05-20",
+      "column": "教学"
+    },
     {
       "title": "“云上一公里”｜2026上海美术学院毕业作品展即将启幕",
       "url": "https://mp.weixin.qq.com/s/_Ju4CTymVU1Ke-nZNrFX1Q",

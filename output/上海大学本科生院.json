@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260518_091438",
-  "total_articles": 1790,
+  "crawl_time": "20260520_052625",
+  "total_articles": 1791,
   "columns": {
     "政策文件": 57,
-    "新闻动态": 31,
+    "新闻动态": 32,
     "通知公告": 1702
   },
   "articles": [
+    {
+      "title": "溯源悟思想、实干创实绩——上海大学本科生院第一党支部举行主题党日活动",
+      "url": "https://bksy.shu.edu.cn/info/1016/320694.htm",
+      "date": "2026-05-20",
+      "column": "新闻动态"
+    },
     {
       "title": "关于公布2026级微专业学生录取名单的通知（本科生院〔2026〕14号）",
       "url": "https://bksy.shu.edu.cn/info/1015/320664.htm",

@@ -2,15 +2,33 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260520_013735",
-  "total_articles": 18340,
+  "crawl_time": "20260520_052625",
+  "total_articles": 18343,
   "columns": {
     "科研动态": 1629,
-    "综合新闻": 16253,
+    "综合新闻": 16256,
     "通知公告": 445,
     "重要新闻": 13
   },
   "articles": [
+    {
+      "title": "宝山筑梦·兰香致远——2026上海创业培训“马兰花计划”宝山区第三期创业培训班（上海大学GYB班）顺利落幕",
+      "url": "https://www.shu.edu.cn/info/1056/395265.htm",
+      "date": "2026-05-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第三届中国李大钊研究会青年学术研讨会在上海大学举办",
+      "url": "https://www.shu.edu.cn/info/1056/395275.htm",
+      "date": "2026-05-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年上海大学数学实践工作站开班典礼举行",
+      "url": "https://www.shu.edu.cn/info/1056/395305.htm",
+      "date": "2026-05-20",
+      "column": "综合新闻"
+    },
     {
       "title": "​上海大学贵州招宣组（法学院）赴贵州开展招生宣传活动",
       "url": "https://www.shu.edu.cn/info/1056/395025.htm",

@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260518_091438",
-  "total_articles": 402,
+  "crawl_time": "20260520_052625",
+  "total_articles": 403,
   "columns": {
     "学术报告": 131,
     "科研动态": 74,
     "综合新闻": 44,
-    "通知公告": 153
+    "通知公告": 154
   },
   "articles": [
+    {
+      "title": "材料基因组工程研究院2026年硕士研究生硕博连读资格认定名单（第二批）公示",
+      "url": "https://mgi.shu.edu.cn/info/1062/7335.htm",
+      "date": "2026-05-20",
+      "column": "通知公告"
+    },
     {
       "title": "2026年MGI博士研究生复试名单（第二批）",
       "url": "https://mgi.shu.edu.cn/info/1062/7325.htm",
