@@ -2,12 +2,12 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260519_013639",
-  "total_articles": 299,
+  "crawl_time": "20260520_091018",
+  "total_articles": 309,
   "columns": {
-    "文科动态": 65,
+    "文科动态": 69,
     "最新立项": 48,
-    "通知公告": 186
+    "通知公告": 192
   },
   "articles": [
     {
@@ -53,10 +53,58 @@
       "column": "通知公告"
     },
     {
+      "title": "国家发展改革委发展战略和规划司2026年第一批研究课题征集公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5927.htm",
+      "date": "2026-04-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "高立伟教授在《光明日报》发表理论文章",
+      "url": "https://rwskc.shu.edu.cn/info/1070/5827.htm",
+      "date": "2026-04-16",
+      "column": "文科动态"
+    },
+    {
+      "title": "2026年度国家广播电视总局部级社科研究项目申报通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5937.htm",
+      "date": "2026-04-13",
+      "column": "通知公告"
+    },
+    {
       "title": "我校获立2项上海市人民政府决策咨询研究重大课题",
       "url": "https://rwskc.shu.edu.cn/info/1071/5797.htm",
       "date": "2026-03-20",
       "column": "最新立项"
+    },
+    {
+      "title": "《新华文摘》全文转载马克思主义学院孙伟平教授文章",
+      "url": "https://rwskc.shu.edu.cn/info/1070/5837.htm",
+      "date": "2026-03-18",
+      "column": "文科动态"
+    },
+    {
+      "title": "关于征集2026年国家社科基金中华学术外译项目选题的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5947.htm",
+      "date": "2026-03-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于推荐2026年文化和旅游部部级社科研究项目的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5957.htm",
+      "date": "2026-03-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年国家社科基金艺术学年度项目申报公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5967.htm",
+      "date": "2026-02-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年国家社科基金艺术学重大项目招标公告",
+      "url": "https://rwskc.shu.edu.cn/info/1069/5977.htm",
+      "date": "2026-02-09",
+      "column": "通知公告"
     },
     {
       "title": "国家社科基金文化遗产保护传承研究重大专项《文化遗产学学科体系建设研究》开题专家论证会召开",
@@ -1745,10 +1793,22 @@
       "column": "通知公告"
     },
     {
+      "title": "第三届上海大学文学周即将开幕",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3568.htm",
+      "date": "2008-06-03",
+      "column": "文科动态"
+    },
+    {
       "title": "2008年度教育部哲社重大课题攻关项目招标通知",
       "url": "http://www.sinoss.net/webgate/CmdEduFileDetail?ef_id=497",
       "date": "2008-05-29",
       "column": "通知公告"
+    },
+    {
+      "title": "《中国社会科学》刊发文学院王光东教授论文",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3566.htm",
+      "date": "2008-05-29",
+      "column": "文科动态"
     },
     {
       "title": "关于申报2008“上海发展研究奖学金”的通知",

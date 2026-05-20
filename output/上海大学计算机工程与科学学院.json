@@ -2,18 +2,24 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260519_052557",
-  "total_articles": 371,
+  "crawl_time": "20260520_091018",
+  "total_articles": 373,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 34,
-    "重要通知": 310,
+    "新闻动态": 35,
+    "重要通知": 311,
     "风采展示": 6
   },
   "articles": [
     {
       "title": "上海大学计算机工程与科学学院2026年博士研究生招生第二次报名须知",
       "url": "https://cs.shu.edu.cn/info/1081/50801.htm",
+      "date": "2026-05-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "2026年上海大学计算机学院博士“申请考核”第二批进入考核阶段名单",
+      "url": "https://cs.shu.edu.cn/info/1081/50941.htm",
       "date": "2026-05-01",
       "column": "重要通知"
     },
@@ -26,6 +32,12 @@
     {
       "title": "2026年上海高校计算机学院院长论坛在上海大学举行",
       "url": "https://mp.weixin.qq.com/s/KjEYwzM1O8GJa1tpUPOpDQ",
+      "date": "2026-05-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "全国第27位！计算机学院助力上海大学再获中国研究生创新实践系列大赛“重要贡献单位”！",
+      "url": "https://mp.weixin.qq.com/s/M28-AWkvWdv2Q4yNj92iRA",
       "date": "2026-05-01",
       "column": "新闻动态"
     },

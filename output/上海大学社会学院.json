@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260519_091202",
-  "total_articles": 2501,
+  "crawl_time": "20260520_091018",
+  "total_articles": 2503,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 47,
     "学术动态": 543,
-    "学术报告": 131,
+    "学术报告": 133,
     "学生动态": 579,
     "教学教务": 134,
     "校友活动": 30,
@@ -16,6 +16,18 @@
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "2026公共性论坛06|幸福到老——浅谈中国老年人“幸福寿命”",
+      "url": "https://sociology.shu.edu.cn/info/1105/41728.htm",
+      "date": "2026-05-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "学术工作坊｜游戏渴望社会：从语言到社群",
+      "url": "https://sociology.shu.edu.cn/info/1105/41738.htm",
+      "date": "2026-05-20",
+      "column": "学术报告"
+    },
     {
       "title": "汪丹老师荣获第六届上海市高校教师教学创新大赛一等奖",
       "url": "https://sociology.shu.edu.cn/info/1102/41688.htm",

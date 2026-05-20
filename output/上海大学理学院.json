@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260520_013735",
-  "total_articles": 3804,
+  "crawl_time": "20260520_091018",
+  "total_articles": 3808,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2589,
+    "学术报告": 2593,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
@@ -16,6 +16,30 @@
     "通知公告": 155
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3043讲 曲边域上半线性抛物积分-微分方程serendipity虚拟元方法的误差估",
+      "url": "https://scicol.shu.edu.cn/info/1003/32615.htm",
+      "date": "2026-05-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3044讲 模拟双边空间分数阶对流扩散方程quenching问题的半离散有限差分格式",
+      "url": "https://scicol.shu.edu.cn/info/1003/32625.htm",
+      "date": "2026-05-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3045讲 燃烧模型简介：数值淬火、多重解与性态分析",
+      "url": "https://scicol.shu.edu.cn/info/1003/32635.htm",
+      "date": "2026-05-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3046讲 Caputo-Hadamard分数演化方程的移动网格有限元方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/32645.htm",
+      "date": "2026-05-20",
+      "column": "学术报告"
+    },
     {
       "title": "2026年上海大学数学实践工作站开班典礼举行",
       "url": "https://scicol.shu.edu.cn/info/1007/32605.htm",

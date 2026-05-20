@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260519_052557",
-  "total_articles": 515,
+  "crawl_time": "20260520_091018",
+  "total_articles": 516,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 62,
-    "通知公告": 407
+    "通知公告": 408
   },
   "articles": [
+    {
+      "title": "关于组织申报2026年度“创新生态建设计划”港澳台科技合作项目的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11102.htm",
+      "date": "2026-05-20",
+      "column": "通知公告"
+    },
     {
       "title": "上海：基础研究，何以攻坚",
       "url": "https://mp.weixin.qq.com/s/8LmTHMdQdrjyKDJ8YnkaAQ",

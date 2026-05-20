@@ -2,13 +2,19 @@
   "domain": "dwjsgzb.shu.edu.cn",
   "department": "上海大学党委教师工作部",
   "type": "19",
-  "crawl_time": "20260514_004804",
-  "total_articles": 37,
+  "crawl_time": "20260520_091018",
+  "total_articles": 38,
   "columns": {
     "新闻动态": 22,
-    "通知公告": 15
+    "通知公告": 16
   },
   "articles": [
+    {
+      "title": "上海大学第三届 “四有”好老师评选结果公示",
+      "url": "https://dwjsgzb.shu.edu.cn/info/1013/2764.htm",
+      "date": "2026-05-20",
+      "column": "通知公告"
+    },
     {
       "title": "同步推进思政课程与课程思政建设，筑牢党的创新理论主课堂 ——上海大学举办第三十...",
       "url": "https://dwjsgzb.shu.edu.cn/info/1005/2744.htm",

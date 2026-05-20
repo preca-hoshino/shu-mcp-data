@@ -2,15 +2,27 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260520_052625",
-  "total_articles": 18343,
+  "crawl_time": "20260520_091018",
+  "total_articles": 18346,
   "columns": {
-    "科研动态": 1629,
-    "综合新闻": 16256,
+    "科研动态": 1631,
+    "综合新闻": 16257,
     "通知公告": 445,
     "重要新闻": 13
   },
   "articles": [
+    {
+      "title": "微电子学院研究团队联合瑞士EPFL团队在Nature Electronics发表基于二维材料异质结的低功耗非易失存储器重要成果",
+      "url": "https://www.shu.edu.cn/info/1055/395295.htm",
+      "date": "2026-05-20",
+      "column": "科研动态"
+    },
+    {
+      "title": "环化学院硕士研究生徐舒羽在IWA国际学术会议上作口头报告",
+      "url": "https://www.shu.edu.cn/info/1055/395315.htm",
+      "date": "2026-05-20",
+      "column": "科研动态"
+    },
     {
       "title": "宝山筑梦·兰香致远——2026上海创业培训“马兰花计划”宝山区第三期创业培训班（上海大学GYB班）顺利落幕",
       "url": "https://www.shu.edu.cn/info/1056/395265.htm",
@@ -26,6 +38,12 @@
     {
       "title": "2026年上海大学数学实践工作站开班典礼举行",
       "url": "https://www.shu.edu.cn/info/1056/395305.htm",
+      "date": "2026-05-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "古今集韵 万卷藏珍——《古今图书集成》专题展揭幕",
+      "url": "https://www.shu.edu.cn/info/1056/395325.htm",
       "date": "2026-05-20",
       "column": "综合新闻"
     },

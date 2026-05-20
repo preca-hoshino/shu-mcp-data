@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260519_091202",
-  "total_articles": 564,
+  "crawl_time": "20260520_091018",
+  "total_articles": 565,
   "columns": {
     "焦点新闻": 362,
-    "论坛活动": 171,
+    "论坛活动": 172,
     "通知公告": 31
   },
   "articles": [
+    {
+      "title": "《全球化战略与中国企业实践》课堂教学与企业实践",
+      "url": "https://mp.weixin.qq.com/s/8xnmgXNNcWHTYIEoGBjCzQ",
+      "date": "2026-05-20",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学MBA羽毛球队勇夺立风杯银牌",
       "url": "https://mp.weixin.qq.com/s/2a27gEQrD-Ye66-Neg2sgg",

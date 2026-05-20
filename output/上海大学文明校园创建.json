@@ -2,14 +2,26 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260519_091202",
-  "total_articles": 101,
+  "crawl_time": "20260520_091018",
+  "total_articles": 104,
   "columns": {
     "文明创建": 33,
-    "文明实践": 42,
-    "校园动态": 26
+    "文明实践": 43,
+    "校园动态": 28
   },
   "articles": [
+    {
+      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
+      "url": "https://www.shu.edu.cn/info/1053/395255.htm",
+      "date": "2026-05-20",
+      "column": "校园动态"
+    },
+    {
+      "title": "第三届中国李大钊研究会青年学术研讨会在上海大学举办",
+      "url": "https://www.shu.edu.cn/info/1056/395275.htm",
+      "date": "2026-05-20",
+      "column": "文明实践"
+    },
     {
       "title": "红脉融汇强动能，产业共振谱新篇——“共同行动”区域化党建...",
       "url": "https://www.shu.edu.cn/info/1056/395015.htm",
@@ -483,6 +495,12 @@
       "url": "https://wmzx.shu.edu.cn/info/1015/1058.htm",
       "date": "2018-01-16",
       "column": "文明创建"
+    },
+    {
+      "title": "我校发布2017年度毕业生就业质量报告",
+      "url": "http://news.shu.edu.cn/info/1021/46439.htm",
+      "date": "2018-01-09",
+      "column": "校园动态"
     },
     {
       "title": "上海大学召开第十五届“挑战杯”中国银行全国大学生课外学术...",
