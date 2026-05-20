@@ -2,13 +2,13 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260519_091202",
-  "total_articles": 18338,
+  "crawl_time": "20260520_013735",
+  "total_articles": 18340,
   "columns": {
     "科研动态": 1629,
     "综合新闻": 16253,
     "通知公告": 445,
-    "重要新闻": 11
+    "重要新闻": 13
   },
   "articles": [
     {
@@ -124,6 +124,12 @@
       "url": "https://www.shu.edu.cn/info/1056/395015.htm",
       "date": "2026-05-18",
       "column": "综合新闻"
+    },
+    {
+      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
+      "url": "https://www.shu.edu.cn/info/1053/395255.htm",
+      "date": "2026-05-15",
+      "column": "重要新闻"
     },
     {
       "title": "理学院甄强教授团队发明成果获2026年第51届日内瓦国际发明展金奖",
@@ -109492,6 +109498,12 @@
       "url": "https://www.shu.edu.cn/info/1051/8650.htm",
       "date": "2013-01-11",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学——漕河泾新兴技术开发区、上汽乘用车签约仪式暨联合招聘会举行",
+      "url": "https://www.shu.edu.cn/info/1053/10156.htm",
+      "date": "2013-01-11",
+      "column": "重要新闻"
     },
     {
       "title": "期刊社举办2012年度“精神文明窗口”评选活动",

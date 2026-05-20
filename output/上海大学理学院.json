@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260519_052557",
-  "total_articles": 3803,
+  "crawl_time": "20260520_013735",
+  "total_articles": 3804,
   "columns": {
     "主办会议": 41,
     "学术报告": 2589,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 305,
-    "综合新闻": 595,
+    "综合新闻": 596,
     "通知公告": 155
   },
   "articles": [
+    {
+      "title": "2026年上海大学数学实践工作站开班典礼举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/32605.htm",
+      "date": "2026-05-20",
+      "column": "综合新闻"
+    },
     {
       "title": "量子科技研究院seminar第99讲暨物理学科Seminar第804讲 单层FeSe/STO中可能存在的带间配对和...",
       "url": "https://scicol.shu.edu.cn/info/1003/32595.htm",

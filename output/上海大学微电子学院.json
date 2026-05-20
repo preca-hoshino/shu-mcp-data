@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260518_091438",
-  "total_articles": 321,
+  "crawl_time": "20260520_013735",
+  "total_articles": 323,
   "columns": {
-    "新闻动态": 241,
+    "新闻动态": 243,
     "讲座信息": 8,
     "资讯动态": 2,
     "通知公告": 70
   },
   "articles": [
+    {
+      "title": "微电子学院“聚芯荟”教师沙龙暨春季新进教师岗前培训，聚焦青年教师发展与能力提升",
+      "url": "https://sme.shu.edu.cn/info/1029/6822.htm",
+      "date": "2026-05-19",
+      "column": "新闻动态"
+    },
     {
       "title": "第三届中瑞工程院创新论坛在瑞士日内瓦举办，中瑞高层次工程科技对话 聚焦数字诊疗与健康老龄化",
       "url": "https://sme.shu.edu.cn/info/1029/6812.htm",
@@ -1840,6 +1846,12 @@
       "url": "https://sme.shu.edu.cn/info/1031/1165.htm",
       "date": "2020-12-02",
       "column": "讲座信息"
+    },
+    {
+      "title": "微电子学院举行联聘教师聘任仪式",
+      "url": "https://sme.shu.edu.cn/info/1029/1158.htm",
+      "date": "2020-11-23",
+      "column": "新闻动态"
     },
     {
       "title": "古元冬院长为2020MEMS世界峰会致欢迎辞",
