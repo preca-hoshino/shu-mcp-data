@@ -2,12 +2,18 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260515_090615",
-  "total_articles": 27,
+  "crawl_time": "20260521_052945",
+  "total_articles": 29,
   "columns": {
-    "重要新闻": 27
+    "重要新闻": 29
   },
   "articles": [
+    {
+      "title": "考察苏州高新产业，寻求协同创新机遇",
+      "url": "https://utseus.shu.edu.cn/info/1009/6066.htm",
+      "date": "2026-05-21",
+      "column": "重要新闻"
+    },
     {
       "title": "中欧工程技术学院召开干部宣布会议",
       "url": "https://utseus.shu.edu.cn/info/1009/6036.htm",
@@ -132,6 +138,12 @@
       "title": "08级校友返校分享  系统思维、跨界实践：中欧人的“底气”",
       "url": "https://utseus.shu.edu.cn/info/1009/4206.htm",
       "date": "2025-05-21",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧工程技术学院2018届毕业典礼顺利举行",
+      "url": "https://utseus.shu.edu.cn/info/1009/1212.htm",
+      "date": "2018-07-08",
       "column": "重要新闻"
     },
     {
