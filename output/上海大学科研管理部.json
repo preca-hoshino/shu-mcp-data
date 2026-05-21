@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260521_013649",
-  "total_articles": 518,
+  "crawl_time": "20260521_091042",
+  "total_articles": 519,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 64,
-    "通知公告": 408
+    "通知公告": 409
   },
   "articles": [
+    {
+      "title": "2026年上海科技节：上海大学十余家科技创新基地及科学画廊科技节期间对外开放！",
+      "url": "https://mp.weixin.qq.com/s/bIb0tP7SGgQBLqNiZaMG7A",
+      "date": "2026-05-21",
+      "column": "通知公告"
+    },
     {
       "title": "关于组织申报2026年度“创新生态建设计划”港澳台科技合作项目的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11102.htm",

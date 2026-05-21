@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260520_052625",
-  "total_articles": 684,
+  "crawl_time": "20260521_091042",
+  "total_articles": 686,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
@@ -11,10 +11,16 @@
     "学院新闻": 324,
     "展览展示": 24,
     "教学": 156,
-    "科研": 31,
+    "科研": 33,
     "通知公告": 11
   },
   "articles": [
+    {
+      "title": "上海美术学院科研管理中心召开国家艺术基金2027年度资助项目申报交流会",
+      "url": "https://safa.shu.edu.cn/info/1120/19350.htm",
+      "date": "2026-05-21",
+      "column": "科研"
+    },
     {
       "title": "上海美术学院举办“新时代专业人才培养方案与课程体系的制定规范” 专题讲座",
       "url": "https://safa.shu.edu.cn/info/1119/19340.htm",
@@ -3470,6 +3476,12 @@
       "url": "https://safa.shu.edu.cn/info/1118/7228.htm",
       "date": "2020-12-31",
       "column": "展览展示"
+    },
+    {
+      "title": "“上海设计10×10”全球大奖展线上启幕",
+      "url": "https://safa.shu.edu.cn/info/1120/7229.htm",
+      "date": "2020-12-31",
+      "column": "科研"
     },
     {
       "title": "“我的情绪，谁做主?—情绪的奥秘”——上海大学2019年心理健康成长季系列活动",

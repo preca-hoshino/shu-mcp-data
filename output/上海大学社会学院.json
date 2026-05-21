@@ -2,7 +2,7 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260520_091018",
+  "crawl_time": "20260521_091042",
   "total_articles": 2503,
   "columns": {
     "图片新闻": 119,
@@ -16,6 +16,12 @@
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "关于上海大学社会学院党委“两优一先”  拟推荐对象的公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/41588.htm",
+      "date": "2026-05-20",
+      "column": "通知公告"
+    },
     {
       "title": "2026公共性论坛06|幸福到老——浅谈中国老年人“幸福寿命”",
       "url": "https://sociology.shu.edu.cn/info/1105/41728.htm",
@@ -56,12 +62,6 @@
       "title": "论坛征稿 | “地域社会政策与长三角城市群高质量发展”",
       "url": "https://mp.weixin.qq.com/s/AmZl6X1UYbQliJx1sl6Tmw",
       "date": "2026-05-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于上海大学社会学院党委“两优一先”  拟推荐对象的公示",
-      "url": "https://sociology.shu.edu.cn/info/1103/41588.htm",
-      "date": "2026-05-14",
       "column": "通知公告"
     },
     {

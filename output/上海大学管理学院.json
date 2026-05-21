@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260519_091202",
-  "total_articles": 754,
+  "crawl_time": "20260521_091042",
+  "total_articles": 756,
   "columns": {
-    "学术活动": 192,
+    "学术活动": 194,
     "学院新闻": 60,
     "重要通知": 502
   },
   "articles": [
+    {
+      "title": "0525上海管理论坛第574期（Marina Dabić教授，杜布罗夫尼克大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92045.htm",
+      "date": "2026-05-21",
+      "column": "学术活动"
+    },
     {
       "title": "0522上海管理论坛第573期（邹小伟教授，长安大学）",
       "url": "https://ms.shu.edu.cn/info/1246/92035.htm",
@@ -4353,6 +4359,12 @@
       "url": "https://ms.shu.edu.cn/info/1244/8094.htm",
       "date": "2008-11-04",
       "column": "学院新闻"
+    },
+    {
+      "title": "管理学院上海管理论坛青年学者讲座第一期",
+      "url": "https://ms.shu.edu.cn/info/1246/11179.htm",
+      "date": "2008-11-04",
+      "column": "学术活动"
     },
     {
       "title": "上海劳登营销咨询有限公司总经理俞效锋受聘我管理学院兼职教授并作学术讲座",

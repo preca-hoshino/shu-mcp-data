@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260519_091202",
-  "total_articles": 425,
+  "crawl_time": "20260521_091042",
+  "total_articles": 427,
   "columns": {
     "后勤新闻": 313,
-    "通知公告": 112
+    "通知公告": 114
   },
   "articles": [
+    {
+      "title": "上海大学宝山校区水平衡测试服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10056.htm",
+      "date": "2026-05-21",
+      "column": "通知公告"
+    },
     {
       "title": "宝山校区行政楼外墙抢修工程公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10036.htm",
@@ -2552,6 +2558,12 @@
       "url": "https://hbb.shu.edu.cn/info/1081/1101.htm",
       "date": "2020-10-26",
       "column": "后勤新闻"
+    },
+    {
+      "title": "有关乘坐校车、校医院就诊等需佩戴口罩的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1061.htm",
+      "date": "2020-10-22",
+      "column": "通知公告"
     },
     {
       "title": "宝山校区停电通知",
