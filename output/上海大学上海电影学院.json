@@ -2,12 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260519_091202",
-  "total_articles": 1746,
+  "crawl_time": "20260521_013649",
+  "total_articles": 1747,
   "columns": {
     "新闻": 31,
     "讲座": 459,
-    "通知公告": 1256
+    "通知公告": 1257
   },
   "articles": [
     {
@@ -381,6 +381,12 @@
       "url": "https://mp.weixin.qq.com/s/ZktbJQJVRUricE5pgl-Niw",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "上海大学2026年“大咖会客厅”直播上海电影学院专场",
+      "url": "https://mp.weixin.qq.com/s/_QhkAjzMJWxmWjb4AQkwTg?scene=1&click_id=1",
+      "date": "",
+      "column": "通知公告"
     },
     {
       "title": "2025届毕业作品展演季邀请函",

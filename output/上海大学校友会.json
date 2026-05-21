@@ -2,15 +2,21 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 511,
+  "crawl_time": "20260521_013649",
+  "total_articles": 513,
   "columns": {
+    "主题活动": 50,
     "校友会新闻": 165,
     "母校新闻": 192,
-    "通知公告": 106,
-    "主题活动": 48
+    "通知公告": 106
   },
   "articles": [
+    {
+      "title": "上海大学2026年校友值年返校活动一览",
+      "url": "https://alumni.shu.edu.cn/info/1020/9256.htm",
+      "date": "2026-05-21",
+      "column": "主题活动"
+    },
     {
       "title": "张大钟校友再次捐赠！助力母校育人传承",
       "url": "https://mp.weixin.qq.com/s/2t5P3FeIQQTSBPUwhNZOEA",
@@ -2570,6 +2576,12 @@
     {
       "title": "文院情  同窗谊 ——上海大学文学院85届、95届、05届校友返校日活动圆满举行",
       "url": "https://alumni.shu.edu.cn/info/1020/2187.htm",
+      "date": "2015-11-05",
+      "column": "主题活动"
+    },
+    {
+      "title": "青春不老，友情不散——生命学院2001级毕业生毕业十周年返校",
+      "url": "https://alumni.shu.edu.cn/info/1020/2188.htm",
       "date": "2015-11-05",
       "column": "主题活动"
     },

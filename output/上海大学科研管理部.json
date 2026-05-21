@@ -2,12 +2,12 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260520_091018",
-  "total_articles": 516,
+  "crawl_time": "20260521_013649",
+  "total_articles": 518,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 62,
+    "科技动态": 64,
     "通知公告": 408
   },
   "articles": [
@@ -16,6 +16,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/11102.htm",
       "date": "2026-05-20",
       "column": "通知公告"
+    },
+    {
+      "title": "基础研究是整个科学体系的源头",
+      "url": "https://mp.weixin.qq.com/s/YQl1HqbWMK85Au_p7EZLmQ",
+      "date": "2026-05-20",
+      "column": "科技动态"
     },
     {
       "title": "上海：基础研究，何以攻坚",
@@ -3058,6 +3064,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/1744.htm",
       "date": "2018-10-22",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学举行二十国集团智库会议（T20）",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1740.htm",
+      "date": "2018-10-22",
+      "column": "科技动态"
     },
     {
       "title": "南京南瑞继保电气有限公司董事长沈国荣院士一行来访",
