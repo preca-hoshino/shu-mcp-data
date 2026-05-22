@@ -2,20 +2,32 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260522_052614",
-  "total_articles": 3809,
+  "crawl_time": "20260522_090853",
+  "total_articles": 3811,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2593,
+    "学术报告": 2594,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 305,
     "综合新闻": 597,
-    "通知公告": 155
+    "通知公告": 156
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar第100讲暨物理学科Seminar第805讲 磁性系统中的自旋轨道效应",
+      "url": "https://scicol.shu.edu.cn/info/1003/32665.htm",
+      "date": "2026-05-22",
+      "column": "学术报告"
+    },
+    {
+      "title": "关于2025-2026学年春季学期未完成注册学生限期注册的公告",
+      "url": "https://scicol.shu.edu.cn/info/1006/32675.htm",
+      "date": "2026-05-22",
+      "column": "通知公告"
+    },
     {
       "title": "七宝中学访问上海大学数学科学实践工作站",
       "url": "https://scicol.shu.edu.cn/info/1007/32655.htm",

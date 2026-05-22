@@ -2,20 +2,32 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260521_013649",
-  "total_articles": 513,
+  "crawl_time": "20260522_090853",
+  "total_articles": 515,
   "columns": {
     "主题活动": 50,
     "校友会新闻": 165,
     "母校新闻": 192,
-    "通知公告": 106
+    "通知公告": 108
   },
   "articles": [
+    {
+      "title": "上海大学校友会第三届理事会理事、第二届监事会监事候选人名单公示",
+      "url": "https://alumni.shu.edu.cn/info/1021/9276.htm",
+      "date": "2026-05-22",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026年校友值年返校活动一览",
       "url": "https://alumni.shu.edu.cn/info/1020/9256.htm",
       "date": "2026-05-21",
       "column": "主题活动"
+    },
+    {
+      "title": "关于2024—2025年上海大学校友工作优秀组织、优秀个人评选结果公示",
+      "url": "https://alumni.shu.edu.cn/info/1021/9266.htm",
+      "date": "2026-05-21",
+      "column": "通知公告"
     },
     {
       "title": "张大钟校友再次捐赠！助力母校育人传承",

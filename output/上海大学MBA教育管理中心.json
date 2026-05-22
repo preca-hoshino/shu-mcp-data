@@ -2,14 +2,26 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260521_013649",
-  "total_articles": 567,
+  "crawl_time": "20260522_090853",
+  "total_articles": 569,
   "columns": {
     "焦点新闻": 362,
-    "论坛活动": 172,
-    "通知公告": 33
+    "论坛活动": 173,
+    "通知公告": 34
   },
   "articles": [
+    {
+      "title": "关于2025-2026学年春季学期未注册学生限期注册的公告",
+      "url": "https://mba.shu.edu.cn/info/1024/26521.htm",
+      "date": "2026-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "从课堂走进企业:上海大学MBA在创新创业研究与教学研讨会上发出\"产教融合\"强音",
+      "url": "https://mp.weixin.qq.com/s/Od5icgybvJAB7df6HHO4Sg",
+      "date": "2026-05-22",
+      "column": "论坛活动"
+    },
     {
       "title": "报名 | 上海大学MBA2026 企业导师感恩会暨学生见面会",
       "url": "https://mp.weixin.qq.com/s/rjvdrzsnn5jJeYe4umP5cA",

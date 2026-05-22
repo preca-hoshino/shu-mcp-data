@@ -2,15 +2,21 @@
   "domain": "shuedf.shu.edu.cn",
   "department": "上海大学教育发展基金会",
   "type": "20",
-  "crawl_time": "20260514_004804",
-  "total_articles": 163,
+  "crawl_time": "20260522_090853",
+  "total_articles": 164,
   "columns": {
-    "新闻中心": 84,
-    "通知公告": 58,
     "党建动态": 11,
-    "图片新闻": 10
+    "图片新闻": 10,
+    "新闻中心": 84,
+    "通知公告": 59
   },
   "articles": [
+    {
+      "title": "2026年“中国茅台·国之栋梁”本硕博优才计划（本科生）名单公示2026/05/21",
+      "url": "https://shuedf.shu.edu.cn/info/1005/2895.htm",
+      "date": "2026-05-21",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学教育发展基金会第三届理事会第九次会议、第三届监事会第四次会议召开2026/03/31",
       "url": "https://shuedf.shu.edu.cn/info/1004/2855.htm",

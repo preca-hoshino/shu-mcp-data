@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260518_091438",
-  "total_articles": 1750,
+  "crawl_time": "20260522_090853",
+  "total_articles": 1751,
   "columns": {
-    "学院新闻": 526,
+    "学院新闻": 527,
     "招生热讯": 71,
     "通知公告": 1153
   },
   "articles": [
+    {
+      "title": "榜样聚力引航向 导学赋能促成长  ——学业导师开展“学习的故事”主题育人活动",
+      "url": "https://cce.shu.edu.cn/info/1434/20264.htm",
+      "date": "2026-05-22",
+      "column": "学院新闻"
+    },
     {
       "title": "继续教育学院举办2026年校友值年返校活动",
       "url": "https://cce.shu.edu.cn/info/1550/20254.htm",
