@@ -2,13 +2,31 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20260514_004804",
-  "total_articles": 44,
+  "crawl_time": "20260522_125541",
+  "total_articles": 50,
   "columns": {
-    "新闻快递": 35,
+    "新闻快递": 41,
     "通知公告": 9
   },
   "articles": [
+    {
+      "title": "喜报！“玉见文明：良渚文化特展”荣获2025年度上海市博物馆陈列展览精品推介",
+      "url": "https://museum.shu.edu.cn/info/1030/5336.htm",
+      "date": "2026-05-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2026年故宫学学术研讨会在上海大学举行",
+      "url": "https://museum.shu.edu.cn/info/1030/5306.htm",
+      "date": "2026-05-13",
+      "column": "新闻快递"
+    },
+    {
+      "title": "特展上新！在上大，探秘海上丝路的千年风华",
+      "url": "https://museum.shu.edu.cn/info/1030/5326.htm",
+      "date": "2026-05-11",
+      "column": "新闻快递"
+    },
     {
       "title": "展览推介 | 旗袍、方言与海派风华",
       "url": "https://museum.shu.edu.cn/info/1030/5296.htm",
@@ -244,6 +262,18 @@
       "column": "通知公告"
     },
     {
+      "title": "青木丰教授：博物馆展示的基本概念",
+      "url": "https://museum.shu.edu.cn/info/1030/1463.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我馆举行丰定轩收藏陶瓷器捐赠仪式",
+      "url": "https://museum.shu.edu.cn/info/1030/1464.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
       "title": "陶飞亚馆长率队赴苏州大学博物馆调研",
       "url": "https://museum.shu.edu.cn/info/1030/1478.htm",
       "date": "2014-07-22",
@@ -270,6 +300,12 @@
     {
       "title": "我馆感谢上大辩协捐赠",
       "url": "https://museum.shu.edu.cn/info/1030/1482.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我馆获赠丰定轩藏陶瓷器",
+      "url": "https://museum.shu.edu.cn/info/1030/1483.htm",
       "date": "2014-07-22",
       "column": "新闻快递"
     }
