@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260520_091018",
-  "total_articles": 3808,
+  "crawl_time": "20260522_052614",
+  "total_articles": 3809,
   "columns": {
     "主办会议": 41,
     "学术报告": 2593,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 305,
-    "综合新闻": 596,
+    "综合新闻": 597,
     "通知公告": 155
   },
   "articles": [
+    {
+      "title": "七宝中学访问上海大学数学科学实践工作站",
+      "url": "https://scicol.shu.edu.cn/info/1007/32655.htm",
+      "date": "2026-05-22",
+      "column": "综合新闻"
+    },
     {
       "title": "数学学科Seminar第3043讲 曲边域上半线性抛物积分-微分方程serendipity虚拟元方法的误差估",
       "url": "https://scicol.shu.edu.cn/info/1003/32615.htm",

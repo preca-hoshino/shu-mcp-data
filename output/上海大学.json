@@ -2,15 +2,33 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260520_091018",
-  "total_articles": 18346,
+  "crawl_time": "20260522_052614",
+  "total_articles": 18349,
   "columns": {
     "科研动态": 1631,
-    "综合新闻": 16257,
+    "综合新闻": 16260,
     "通知公告": 445,
     "重要新闻": 13
   },
   "articles": [
+    {
+      "title": "太原市文物局党组书记、局长李宏文一行访问上海大学文化遗产与信息管理学院",
+      "url": "https://www.shu.edu.cn/info/1056/395415.htm",
+      "date": "2026-05-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学北京招宣组顺利开展2026年春季招生宣传工作",
+      "url": "https://www.shu.edu.cn/info/1056/395425.htm",
+      "date": "2026-05-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学机自学院学生获第十一届国际大学生智能农业装备创新大赛特等奖",
+      "url": "https://www.shu.edu.cn/info/1056/395435.htm",
+      "date": "2026-05-22",
+      "column": "综合新闻"
+    },
     {
       "title": "微电子学院研究团队联合瑞士EPFL团队在Nature Electronics发表基于二维材料异质结的低功耗非易失存储器重要成果",
       "url": "https://www.shu.edu.cn/info/1055/395295.htm",
