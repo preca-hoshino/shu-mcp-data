@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260521_091042",
-  "total_articles": 686,
+  "crawl_time": "20260522_013705",
+  "total_articles": 687,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
     "学生工作": 40,
     "学院新闻": 324,
     "展览展示": 24,
-    "教学": 156,
+    "教学": 157,
     "科研": 33,
     "通知公告": 11
   },
   "articles": [
+    {
+      "title": "设计融合商业：23级产品设计《品牌战略与商业模式》课程结课竞演落幕",
+      "url": "https://safa.shu.edu.cn/info/1119/19380.htm",
+      "date": "2026-05-21",
+      "column": "教学"
+    },
     {
       "title": "上海美术学院科研管理中心召开国家艺术基金2027年度资助项目申报交流会",
       "url": "https://safa.shu.edu.cn/info/1120/19350.htm",

@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260519_091202",
-  "total_articles": 241,
+  "crawl_time": "20260522_013705",
+  "total_articles": 242,
   "columns": {
-    "学术报告": 49,
+    "学术报告": 50,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
@@ -14,6 +14,12 @@
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "生物胶结作为土壤改良技术",
+      "url": "https://smes.shu.edu.cn/info/1014/10425.htm",
+      "date": "2026-05-22",
+      "column": "学术报告"
+    },
     {
       "title": "力学与工程科学学院2026年硕博连读认定名单（第二批...",
       "url": "https://smes.shu.edu.cn/info/1016/10415.htm",

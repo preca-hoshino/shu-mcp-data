@@ -2,10 +2,10 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260521_091042",
-  "total_articles": 427,
+  "crawl_time": "20260522_013705",
+  "total_articles": 428,
   "columns": {
-    "后勤新闻": 313,
+    "后勤新闻": 314,
     "通知公告": 114
   },
   "articles": [
@@ -14,6 +14,12 @@
       "url": "https://hbb.shu.edu.cn/info/1005/10056.htm",
       "date": "2026-05-21",
       "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部开展上海大学工会政策专题培训",
+      "url": "https://hbb.shu.edu.cn/info/1081/10066.htm",
+      "date": "2026-05-20",
+      "column": "后勤新闻"
     },
     {
       "title": "宝山校区行政楼外墙抢修工程公告",

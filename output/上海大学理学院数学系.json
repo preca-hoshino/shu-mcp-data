@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260520_091018",
-  "total_articles": 1577,
+  "crawl_time": "20260522_013705",
+  "total_articles": 1578,
   "columns": {
     "学术会议": 29,
     "学术报告": 1382,
-    "新闻快递": 166
+    "新闻快递": 167
   },
   "articles": [
+    {
+      "title": "七宝中学访问上海大学数学科学实践工作站",
+      "url": "https://math.shu.edu.cn/info/1041/26721.htm",
+      "date": "2026-05-22",
+      "column": "新闻快递"
+    },
     {
       "title": "Seminar第3043讲 曲边域上半线性抛物积分-微分方程serendipity虚拟元方法的误差估计",
       "url": "https://math.shu.edu.cn/info/1042/26681.htm",
