@@ -2,10 +2,10 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260520_091018",
-  "total_articles": 309,
+  "crawl_time": "20260523_084405",
+  "total_articles": 311,
   "columns": {
-    "文科动态": 69,
+    "文科动态": 71,
     "最新立项": 48,
     "通知公告": 192
   },
@@ -21,6 +21,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/5807.htm",
       "date": "2026-05-18",
       "column": "通知公告"
+    },
+    {
+      "title": "数字经济管理成果：张平、苟燕楠《论零基预算》正式出版",
+      "url": "https://rwskc.shu.edu.cn/info/1070/5997.htm",
+      "date": "2026-05-17",
+      "column": "文科动态"
     },
     {
       "title": "关于做好2026年国家社科基金年度项目申报工作的通知",
@@ -1795,6 +1801,12 @@
     {
       "title": "第三届上海大学文学周即将开幕",
       "url": "https://rwskc.shu.edu.cn/info/1070/3568.htm",
+      "date": "2008-06-03",
+      "column": "文科动态"
+    },
+    {
+      "title": "“海外中国现代文学教学方法”国际研讨会将召开",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3570.htm",
       "date": "2008-06-03",
       "column": "文科动态"
     },

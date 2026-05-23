@@ -2,14 +2,32 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260514_004804",
-  "total_articles": 361,
+  "crawl_time": "20260523_084405",
+  "total_articles": 364,
   "columns": {
-    "新闻快递": 309,
-    "研究成果": 22,
-    "学术动态": 30
+    "学术动态": 32,
+    "新闻快递": 310,
+    "研究成果": 22
   },
   "articles": [
+    {
+      "title": "中国铸造协会轧辊分会专家到访先进凝固技术中心",
+      "url": "https://cast.shu.edu.cn/info/1042/4071.htm",
+      "date": "2026-05-23",
+      "column": "新闻快递"
+    },
+    {
+      "title": "杨哲人和何长庆两位专家应邀为《2026CAST国际学术大讲堂》做精彩报告",
+      "url": "https://cast.shu.edu.cn/info/1044/4081.htm",
+      "date": "2026-05-23",
+      "column": "学术动态"
+    },
+    {
+      "title": "先进凝固技术中心参加第三届凝固科学与技术高层论坛",
+      "url": "https://cast.shu.edu.cn/info/1044/4091.htm",
+      "date": "2026-05-23",
+      "column": "学术动态"
+    },
     {
       "title": "2026第三届钒在铸造中应用论坛圆满召开",
       "url": "https://cast.shu.edu.cn/info/1042/4051.htm",
