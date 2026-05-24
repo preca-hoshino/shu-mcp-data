@@ -2,11 +2,11 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260514_004804",
-  "total_articles": 186,
+  "crawl_time": "20260524_122845",
+  "total_articles": 187,
   "columns": {
-    "通知公告": 22,
-    "工作动态": 164
+    "工作动态": 164,
+    "通知公告": 23
   },
   "articles": [
     {
@@ -175,6 +175,12 @@
       "title": "关于上海大学2025年第4批资产处置审议的公示",
       "url": "https://sbc.shu.edu.cn/info/1004/10734.htm",
       "date": "2025-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学关于做好国庆期间实验室安全工作通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/10414.htm",
+      "date": "2025-09-26",
       "column": "通知公告"
     },
     {
