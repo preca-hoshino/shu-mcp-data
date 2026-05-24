@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260523_084405",
-  "total_articles": 364,
+  "crawl_time": "20260524_052418",
+  "total_articles": 365,
   "columns": {
     "学术动态": 32,
-    "新闻快递": 310,
+    "新闻快递": 311,
     "研究成果": 22
   },
   "articles": [
+    {
+      "title": "翟启杰教授访问首钢贵钢",
+      "url": "https://cast.shu.edu.cn/info/1042/4101.htm",
+      "date": "2026-05-24",
+      "column": "新闻快递"
+    },
     {
       "title": "中国铸造协会轧辊分会专家到访先进凝固技术中心",
       "url": "https://cast.shu.edu.cn/info/1042/4071.htm",
