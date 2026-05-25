@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260522_013705",
-  "total_articles": 687,
+  "crawl_time": "20260525_092321",
+  "total_articles": 689,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
@@ -11,10 +11,16 @@
     "学院新闻": 324,
     "展览展示": 24,
     "教学": 157,
-    "科研": 33,
+    "科研": 35,
     "通知公告": 11
   },
   "articles": [
+    {
+      "title": "上海美术学院举办智库专报专题指导交流会",
+      "url": "https://safa.shu.edu.cn/info/1120/19390.htm",
+      "date": "2026-05-22",
+      "column": "科研"
+    },
     {
       "title": "设计融合商业：23级产品设计《品牌战略与商业模式》课程结课竞演落幕",
       "url": "https://safa.shu.edu.cn/info/1119/19380.htm",
@@ -3350,6 +3356,12 @@
       "url": "https://safa.shu.edu.cn/info/1118/6907.htm",
       "date": "2021-04-07",
       "column": "展览展示"
+    },
+    {
+      "title": "上海大学艺术研究院组织主题创作深化稿观摩指导会",
+      "url": "https://safa.shu.edu.cn/info/1120/6914.htm",
+      "date": "2021-04-07",
+      "column": "科研"
     },
     {
       "title": "上海美术学院本科生全程导师制工作交流会",

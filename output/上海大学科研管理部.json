@@ -2,15 +2,33 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260521_091042",
-  "total_articles": 519,
+  "crawl_time": "20260525_092321",
+  "total_articles": 522,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 64,
-    "通知公告": 409
+    "科技动态": 66,
+    "通知公告": 410
   },
   "articles": [
+    {
+      "title": "2025年度教育部工程研究中心年度报告公示公告",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11132.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "一个以科技为名的节日，在一座深植科创基因的城市 | 上海科技节",
+      "url": "https://mp.weixin.qq.com/s/SjzJP6pwWqplXY0qJx8_5w",
+      "date": "2026-05-25",
+      "column": "科技动态"
+    },
+    {
+      "title": "2026年上海科技节开幕！龚正与科技工作者和青少年代表共同启动",
+      "url": "https://mp.weixin.qq.com/s/wTXiuf6tjT4j6MTGxS77YA",
+      "date": "2026-05-25",
+      "column": "科技动态"
+    },
     {
       "title": "2026年上海科技节：上海大学十余家科技创新基地及科学画廊科技节期间对外开放！",
       "url": "https://mp.weixin.qq.com/s/bIb0tP7SGgQBLqNiZaMG7A",

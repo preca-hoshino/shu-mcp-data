@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260521_091042",
-  "total_articles": 756,
+  "crawl_time": "20260525_092321",
+  "total_articles": 757,
   "columns": {
     "学术活动": 194,
-    "学院新闻": 60,
+    "学院新闻": 61,
     "重要通知": 502
   },
   "articles": [
+    {
+      "title": "深圳大学管理学院陈星宇教授做客上海管理论坛分享《数字社交媒体红人影...",
+      "url": "https://ms.shu.edu.cn/info/1244/92055.htm",
+      "date": "2026-05-25",
+      "column": "学院新闻"
+    },
     {
       "title": "0525上海管理论坛第574期（Marina Dabić教授，杜布罗夫尼克大学）",
       "url": "https://ms.shu.edu.cn/info/1246/92045.htm",

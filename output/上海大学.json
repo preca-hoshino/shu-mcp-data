@@ -2,11 +2,11 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260525_013837",
-  "total_articles": 18352,
+  "crawl_time": "20260525_092321",
+  "total_articles": 18355,
   "columns": {
     "科研动态": 1632,
-    "综合新闻": 16261,
+    "综合新闻": 16264,
     "通知公告": 446,
     "重要新闻": 13
   },
@@ -26,6 +26,24 @@
     {
       "title": "法学院决策咨询专报撰写及国家社科基金申报专题交流会顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/395455.htm",
+      "date": "2026-05-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "民进上海大学委员会顺利完成换届",
+      "url": "https://www.shu.edu.cn/info/1056/395475.htm",
+      "date": "2026-05-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "校领导出席第十三届世界城市论坛并开展系列交流活动",
+      "url": "https://www.shu.edu.cn/info/1056/395485.htm",
+      "date": "2026-05-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学荣获第十三届ASC世界大学生超算竞赛一等奖",
+      "url": "https://www.shu.edu.cn/info/1056/395495.htm",
       "date": "2026-05-25",
       "column": "综合新闻"
     },

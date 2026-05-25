@@ -2,15 +2,27 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260525_013837",
-  "total_articles": 546,
+  "crawl_time": "20260525_092321",
+  "total_articles": 548,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 33,
-    "通知公告": 83
+    "学院新闻": 34,
+    "通知公告": 84
   },
   "articles": [
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛通知（第二号）",
+      "url": "https://sfs.shu.edu.cn/info/1141/30597.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "英语系召开大一学生座谈会 师生共话培养方案优化",
+      "url": "https://sfs.shu.edu.cn/info/1142/30587.htm",
+      "date": "2026-05-24",
+      "column": "学院新闻"
+    },
     {
       "title": "外国语学院院长尚新率团参加第十九届全国英语类专业院长/系主任高级论坛并作专题报告",
       "url": "https://sfs.shu.edu.cn/info/1142/30577.htm",

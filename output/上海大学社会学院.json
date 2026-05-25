@@ -2,20 +2,50 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260521_091042",
-  "total_articles": 2503,
+  "crawl_time": "20260525_092321",
+  "total_articles": 2510,
   "columns": {
     "图片新闻": 119,
-    "媒体报道": 47,
-    "学术动态": 543,
+    "媒体报道": 49,
+    "学术动态": 545,
     "学术报告": 133,
-    "学生动态": 579,
-    "教学教务": 134,
+    "学生动态": 580,
+    "教学教务": 136,
     "校友活动": 30,
     "综合新闻": 871,
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "520的特殊“告白”：时隔107天，她再次为生命点亮希望",
+      "url": "https://mp.weixin.qq.com/s/ODpHzCyPItW6YZJ5rOr71Q",
+      "date": "2026-05-25",
+      "column": "学生动态"
+    },
+    {
+      "title": "《解放日报》 | 李友梅：加快构建中国社会学自主知识体系",
+      "url": "https://sociology.shu.edu.cn/info/1104/41798.htm",
+      "date": "2026-05-25",
+      "column": "学术动态"
+    },
+    {
+      "title": "社会学院顺利举行2026届本科毕业论文答辩",
+      "url": "https://sociology.shu.edu.cn/info/1106/41788.htm",
+      "date": "2026-05-25",
+      "column": "教学教务"
+    },
+    {
+      "title": "《解放日报》 | 李友梅：加快构建中国社会学自主知识体系",
+      "url": "https://sociology.shu.edu.cn/info/1109/41808.htm",
+      "date": "2026-05-25",
+      "column": "媒体报道"
+    },
+    {
+      "title": "新书 | 李友梅 著《新公共性：中国社会学范式探索》",
+      "url": "https://sociology.shu.edu.cn/info/1104/41768.htm",
+      "date": "2026-05-22",
+      "column": "学术动态"
+    },
     {
       "title": "关于上海大学社会学院党委“两优一先”  拟推荐对象的公示",
       "url": "https://sociology.shu.edu.cn/info/1103/41588.htm",
@@ -11297,6 +11327,12 @@
       "column": "学生动态"
     },
     {
+      "title": "研究生学术刊物《泮溪学步》征稿通知",
+      "url": "https://sociology.shu.edu.cn/info/1106/5680.htm",
+      "date": "2015-04-29",
+      "column": "教学教务"
+    },
+    {
       "title": "社会学院研究生党总支慰问答疑专业教师",
       "url": "https://sociology.shu.edu.cn/info/1107/3981.htm",
       "date": "2015-04-29",
@@ -12525,6 +12561,12 @@
       "url": "https://sociology.shu.edu.cn/info/1107/8257.htm",
       "date": "2014-01-08",
       "column": "学生动态"
+    },
+    {
+      "title": "光明日报|邓伟志：带着新理念走进改革“深水区”",
+      "url": "https://sociology.shu.edu.cn/info/1109/8115.htm",
+      "date": "2014-01-08",
+      "column": "媒体报道"
     },
     {
       "title": "生命历程社会学研讨课",
