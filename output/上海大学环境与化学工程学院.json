@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260520_013735",
-  "total_articles": 948,
+  "crawl_time": "20260525_013837",
+  "total_articles": 949,
   "columns": {
     "学术报告": 79,
     "学院新闻": 379,
     "本科生教学": 69,
     "研究生教学": 204,
     "科研动态": 114,
-    "通知公告": 103
+    "通知公告": 104
   },
   "articles": [
+    {
+      "title": "环化学院党群接待日公告20260528",
+      "url": "https://ece.shu.edu.cn/info/1147/88144.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
     {
       "title": "我院硕士研究生徐舒羽在IWA国际学术会议上作口头报告",
       "url": "https://ece.shu.edu.cn/info/1148/88104.htm",

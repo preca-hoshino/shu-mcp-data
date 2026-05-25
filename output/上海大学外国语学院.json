@@ -2,13 +2,13 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260518_091438",
-  "total_articles": 545,
+  "crawl_time": "20260525_013837",
+  "total_articles": 546,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
     "学院新闻": 33,
-    "通知公告": 82
+    "通知公告": 83
   },
   "articles": [
     {
@@ -321,6 +321,12 @@
       "title": "2026年法语专四专八报考通知",
       "url": "https://sfs.shu.edu.cn/info/1141/28807.htm",
       "date": "2025-11-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "人工智能赋能外语教学与科研  ——2025年上海大学外国语言文学青年学者论坛  （三号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/28657.htm",
+      "date": "2025-11-13",
       "column": "通知公告"
     },
     {

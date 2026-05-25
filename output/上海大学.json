@@ -2,15 +2,33 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260522_052614",
-  "total_articles": 18349,
+  "crawl_time": "20260525_013837",
+  "total_articles": 18352,
   "columns": {
-    "科研动态": 1631,
-    "综合新闻": 16260,
-    "通知公告": 445,
+    "科研动态": 1632,
+    "综合新闻": 16261,
+    "通知公告": 446,
     "重要新闻": 13
   },
   "articles": [
+    {
+      "title": "关于开展2026年上海大学教职工体检的通知",
+      "url": "https://www.shu.edu.cn/info/1051/395465.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "硬核突破！上海大学自研具身智能双臂拟人番茄采摘机器人",
+      "url": "https://www.shu.edu.cn/info/1055/395445.htm",
+      "date": "2026-05-25",
+      "column": "科研动态"
+    },
+    {
+      "title": "法学院决策咨询专报撰写及国家社科基金申报专题交流会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/395455.htm",
+      "date": "2026-05-25",
+      "column": "综合新闻"
+    },
     {
       "title": "太原市文物局党组书记、局长李宏文一行访问上海大学文化遗产与信息管理学院",
       "url": "https://www.shu.edu.cn/info/1056/395415.htm",

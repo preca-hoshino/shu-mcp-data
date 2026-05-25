@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260522_090853",
-  "total_articles": 1793,
+  "crawl_time": "20260525_013837",
+  "total_articles": 1794,
   "columns": {
     "政策文件": 57,
-    "新闻动态": 32,
+    "新闻动态": 33,
     "通知公告": 1704
   },
   "articles": [
+    {
+      "title": "2026年上海大学化学实验竞赛顺利举办",
+      "url": "https://bksy.shu.edu.cn/info/1016/320764.htm",
+      "date": "2026-05-25",
+      "column": "新闻动态"
+    },
     {
       "title": "关于做好2026年6月本科毕业生申请学士学位工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/320734.htm",
