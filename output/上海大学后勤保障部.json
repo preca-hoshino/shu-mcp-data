@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260522_013705",
-  "total_articles": 428,
+  "crawl_time": "20260525_053719",
+  "total_articles": 430,
   "columns": {
     "后勤新闻": 314,
-    "通知公告": 114
+    "通知公告": 116
   },
   "articles": [
+    {
+      "title": "2026年后勤保障部100万以下维修工程文件编制服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10096.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学宝山校区水平衡测试服务公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10056.htm",
@@ -2552,6 +2558,12 @@
       "url": "https://hbb.shu.edu.cn/info/1081/1092.htm",
       "date": "2020-10-27",
       "column": "后勤新闻"
+    },
+    {
+      "title": "关于全面恢复校车运行的通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1086.htm",
+      "date": "2020-10-26",
+      "column": "通知公告"
     },
     {
       "title": "后勤保障部饮服中心开展“端牢中国饭碗，共筑全球粮安”主题活动",

@@ -2,20 +2,32 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260525_013837",
-  "total_articles": 1960,
+  "crawl_time": "20260525_053719",
+  "total_articles": 1962,
   "columns": {
     "学术报告": 100,
     "学生动态": 147,
     "学院周志": 301,
-    "科研动态": 476,
+    "科研动态": 477,
     "综合新闻": 521,
-    "通知公告": 415
+    "通知公告": 416
   },
   "articles": [
     {
+      "title": "文学院2026年上半年团推优结果公示",
+      "url": "https://cla.shu.edu.cn/info/1017/53468.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
       "title": "国际著名考古学、人类学家、美国科学学院院士Robert, L. Kelly 教授来我院做学术讲座",
       "url": "https://cla.shu.edu.cn/info/1019/53458.htm",
+      "date": "2026-05-25",
+      "column": "科研动态"
+    },
+    {
+      "title": "文学院举办资政专报撰写与国家社科基金申报辅导会",
+      "url": "https://cla.shu.edu.cn/info/1019/53478.htm",
       "date": "2026-05-25",
       "column": "科研动态"
     },

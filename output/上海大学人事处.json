@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260519_131257",
-  "total_articles": 167,
+  "crawl_time": "20260525_053719",
+  "total_articles": 168,
   "columns": {
-    "新闻公告": 167
+    "新闻公告": 168
   },
   "articles": [
+    {
+      "title": "上海大学2026年科研助理（派遣制）招聘公告",
+      "url": "https://hr.shu.edu.cn/info/1029/8189.htm",
+      "date": "2026-05-25",
+      "column": "新闻公告"
+    },
     {
       "title": "2026年高级专业技术职务聘任材料外送人员公示",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8179",

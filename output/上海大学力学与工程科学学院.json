@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260522_013705",
-  "total_articles": 242,
+  "crawl_time": "20260525_053719",
+  "total_articles": 243,
   "columns": {
-    "学术报告": 50,
+    "学术报告": 51,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
@@ -14,6 +14,12 @@
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "背景波浪场下的畸形波演化",
+      "url": "https://smes.shu.edu.cn/info/1014/10435.htm",
+      "date": "2026-05-25",
+      "column": "学术报告"
+    },
     {
       "title": "生物胶结作为土壤改良技术",
       "url": "https://smes.shu.edu.cn/info/1014/10425.htm",
