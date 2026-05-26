@@ -2,14 +2,44 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260520_091018",
-  "total_articles": 104,
+  "crawl_time": "20260526_013441",
+  "total_articles": 109,
   "columns": {
     "文明创建": 33,
-    "文明实践": 43,
+    "文明实践": 48,
     "校园动态": 28
   },
   "articles": [
+    {
+      "title": "古今集韵 万卷藏珍——《古今图书集成》专题展揭幕",
+      "url": "https://www.shu.edu.cn/info/1056/395325.htm",
+      "date": "2026-05-25",
+      "column": "文明实践"
+    },
+    {
+      "title": "太原市文物局党组书记、局长李宏文一行访问上海大学文化遗产...",
+      "url": "https://www.shu.edu.cn/info/1056/395415.htm",
+      "date": "2026-05-25",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学机自学院学生获第十一届国际大学生智能农业装备创新...",
+      "url": "https://www.shu.edu.cn/info/1056/395435.htm",
+      "date": "2026-05-25",
+      "column": "文明实践"
+    },
+    {
+      "title": "民进上海大学委员会顺利完成换届",
+      "url": "https://www.shu.edu.cn/info/1056/395475.htm",
+      "date": "2026-05-25",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学荣获第十三届ASC世界大学生超算竞赛一等奖",
+      "url": "https://www.shu.edu.cn/info/1056/395495.htm",
+      "date": "2026-05-25",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学召开党委理论学习中心组（扩大）学习会",
       "url": "https://www.shu.edu.cn/info/1053/395255.htm",

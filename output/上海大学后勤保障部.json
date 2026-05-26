@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260525_053719",
-  "total_articles": 430,
+  "crawl_time": "20260526_013441",
+  "total_articles": 431,
   "columns": {
-    "后勤新闻": 314,
+    "后勤新闻": 315,
     "通知公告": 116
   },
   "articles": [
+    {
+      "title": "上海大学后勤保障部第一届第二次教职工代表大会暨工会会员代表大会召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/10136.htm",
+      "date": "2026-05-26",
+      "column": "后勤新闻"
+    },
     {
       "title": "2026年后勤保障部100万以下维修工程文件编制服务公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10096.htm",

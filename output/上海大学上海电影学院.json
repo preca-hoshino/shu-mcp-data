@@ -2,11 +2,11 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260521_013649",
-  "total_articles": 1747,
+  "crawl_time": "20260526_013441",
+  "total_articles": 1748,
   "columns": {
     "新闻": 31,
-    "讲座": 459,
+    "讲座": 460,
     "通知公告": 1257
   },
   "articles": [
@@ -117,6 +117,12 @@
       "url": "https://mp.weixin.qq.com/s/4i1jeRPNKO4jkifjgowFJg",
       "date": "",
       "column": "新闻"
+    },
+    {
+      "title": "国家一流课程“光影中国”系列高端学术讲座——胡智锋教授主讲《中国网络视听发展新亮点、问题与前瞻思考》",
+      "url": "https://mp.weixin.qq.com/s/5QhJd5m2gmq6GoLaEGzy_Q",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "“AI赋能科普短视频创作一日实战工坊暨上海电影学院AI赋能影像创研系列讲座”成功举办",
