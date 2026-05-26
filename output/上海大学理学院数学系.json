@@ -2,14 +2,50 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260522_013705",
-  "total_articles": 1578,
+  "crawl_time": "20260526_130618",
+  "total_articles": 1584,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1382,
+    "学术报告": 1388,
     "新闻快递": 167
   },
   "articles": [
+    {
+      "title": "Seminar第3047讲 虚拟元法在最大模意义下的最佳收敛性",
+      "url": "https://math.shu.edu.cn/info/1042/26731.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3048讲 保度计算几何与脑肿瘤影像处理",
+      "url": "https://math.shu.edu.cn/info/1042/26741.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3049讲 光子准晶能带结构的保结构算法",
+      "url": "https://math.shu.edu.cn/info/1042/26751.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3050讲 Brown-Goodearl 猜想",
+      "url": "https://math.shu.edu.cn/info/1042/26761.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3051讲 具有任意核维数的线性码扩展与嵌入",
+      "url": "https://math.shu.edu.cn/info/1042/26771.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3052讲 二维双重退化营养趋化模型的有界性",
+      "url": "https://math.shu.edu.cn/info/1042/26781.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
     {
       "title": "七宝中学访问上海大学数学科学实践工作站",
       "url": "https://math.shu.edu.cn/info/1041/26721.htm",

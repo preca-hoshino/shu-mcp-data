@@ -2,12 +2,18 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260514_004804",
-  "total_articles": 30,
+  "crawl_time": "20260526_130618",
+  "total_articles": 31,
   "columns": {
-    "最新公告": 30
+    "最新公告": 31
   },
   "articles": [
+    {
+      "title": "关于上海大学2026年第二学士学位初审及面试工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38700.htm",
+      "date": "2026-05-26",
+      "column": "最新公告"
+    },
     {
       "title": "上海大学2026年艺术类本科专业校考成绩开通查询",
       "url": "https://bkzsw.shu.edu.cn/info/1798/38560.htm",

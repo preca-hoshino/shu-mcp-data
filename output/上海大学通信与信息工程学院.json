@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260521_052945",
-  "total_articles": 2005,
+  "crawl_time": "20260526_130618",
+  "total_articles": 2006,
   "columns": {
     "学术报告": 517,
     "教学信息": 21,
     "新闻动态": 1254,
-    "通知公告": 213
+    "通知公告": 214
   },
   "articles": [
+    {
+      "title": "关于2025-2026学年春季学期未注册学生限期注册的公告",
+      "url": "https://scie.shu.edu.cn/info/1065/46575.htm",
+      "date": "2026-05-26",
+      "column": "通知公告"
+    },
     {
       "title": "行健讲坛 №544 －通过数据表示的视角重新思考三维几何压缩",
       "url": "https://scie.shu.edu.cn/info/1067/46515.htm",
