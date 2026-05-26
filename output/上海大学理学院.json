@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260526_052542",
-  "total_articles": 3814,
+  "crawl_time": "20260526_091248",
+  "total_articles": 3818,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2596,
+    "学术报告": 2600,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
@@ -25,6 +25,30 @@
     {
       "title": "数学学科Seminar第3047讲 虚拟元法在最大模意义下的最佳收敛性",
       "url": "https://scicol.shu.edu.cn/info/1003/32705.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3048讲 保度计算几何与脑肿瘤影像处理",
+      "url": "https://scicol.shu.edu.cn/info/1003/32715.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3049讲 光子准晶能带结构的保结构算法",
+      "url": "https://scicol.shu.edu.cn/info/1003/32725.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3050讲 Brown-Goodearl 猜想",
+      "url": "https://scicol.shu.edu.cn/info/1003/32735.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3051讲 具有任意核维数的线性码扩展与嵌入",
+      "url": "https://scicol.shu.edu.cn/info/1003/32745.htm",
       "date": "2026-05-26",
       "column": "学术报告"
     },

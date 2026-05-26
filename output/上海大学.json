@@ -2,13 +2,13 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260526_052542",
-  "total_articles": 18356,
+  "crawl_time": "20260526_091248",
+  "total_articles": 18357,
   "columns": {
     "科研动态": 1632,
     "综合新闻": 16265,
     "通知公告": 446,
-    "重要新闻": 13
+    "重要新闻": 14
   },
   "articles": [
     {
@@ -22,6 +22,12 @@
       "url": "https://www.shu.edu.cn/info/1051/395465.htm",
       "date": "2026-05-25",
       "column": "通知公告"
+    },
+    {
+      "title": "校领导出席第十三届世界城市论坛并开展系列交流活动",
+      "url": "https://www.shu.edu.cn/info/1053/395525.htm",
+      "date": "2026-05-25",
+      "column": "重要新闻"
     },
     {
       "title": "硬核突破！上海大学自研具身智能双臂拟人番茄采摘机器人",

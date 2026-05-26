@@ -2,14 +2,26 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260524_052418",
-  "total_articles": 365,
+  "crawl_time": "20260526_091248",
+  "total_articles": 367,
   "columns": {
-    "学术动态": 32,
-    "新闻快递": 311,
+    "学术动态": 33,
+    "新闻快递": 312,
     "研究成果": 22
   },
   "articles": [
+    {
+      "title": "CAST团队亮相2026中国铸造年会暨国际铸造博览会",
+      "url": "https://cast.shu.edu.cn/info/1042/4111.htm",
+      "date": "2026-05-26",
+      "column": "新闻快递"
+    },
+    {
+      "title": "CAST团队应邀在2026年第四届钼（钨钒）与钢国际研讨会“钒在钢中的应用”分会场做特邀报告",
+      "url": "https://cast.shu.edu.cn/info/1044/4121.htm",
+      "date": "2026-05-26",
+      "column": "学术动态"
+    },
     {
       "title": "翟启杰教授访问首钢贵钢",
       "url": "https://cast.shu.edu.cn/info/1042/4101.htm",
