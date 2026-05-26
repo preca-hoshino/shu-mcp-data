@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260525_092321",
-  "total_articles": 3812,
+  "crawl_time": "20260526_052542",
+  "total_articles": 3814,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2594,
+    "学术报告": 2596,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
@@ -16,6 +16,18 @@
     "通知公告": 157
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第806讲 流体/引力对偶的非共形发展",
+      "url": "https://scicol.shu.edu.cn/info/1003/32695.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3047讲 虚拟元法在最大模意义下的最佳收敛性",
+      "url": "https://scicol.shu.edu.cn/info/1003/32705.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
+    },
     {
       "title": "2026年上海大学化学实验竞赛评奖结果公布",
       "url": "https://scicol.shu.edu.cn/info/1006/32685.htm",

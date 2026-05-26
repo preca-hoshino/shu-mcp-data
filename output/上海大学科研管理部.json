@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260525_092321",
-  "total_articles": 522,
+  "crawl_time": "20260526_052542",
+  "total_articles": 523,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 66,
+    "科技动态": 67,
     "通知公告": 410
   },
   "articles": [
+    {
+      "title": "上大团队自主研发！双臂机器人摘起番茄“十拿九稳”",
+      "url": "https://mp.weixin.qq.com/s/5ugrMm2YVkQrUsbJMmWuvQ",
+      "date": "2026-05-26",
+      "column": "科技动态"
+    },
     {
       "title": "2025年度教育部工程研究中心年度报告公示公告",
       "url": "https://kyglb.shu.edu.cn/info/1011/11132.htm",

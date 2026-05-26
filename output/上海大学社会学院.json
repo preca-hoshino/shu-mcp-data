@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260525_092321",
-  "total_articles": 2510,
+  "crawl_time": "20260526_052542",
+  "total_articles": 2511,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
-    "学术动态": 545,
+    "学术动态": 546,
     "学术报告": 133,
     "学生动态": 580,
     "教学教务": 136,
@@ -129,6 +129,12 @@
       "url": "https://bksy.shu.edu.cn/info/1015/320344.htm",
       "date": "2026-04-30",
       "column": "通知公告"
+    },
+    {
+      "title": "肖瑛教授当选为历史社会学专业委员会新一届理事长",
+      "url": "https://sociology.shu.edu.cn/info/1104/41868.htm",
+      "date": "2026-04-29",
+      "column": "学术动态"
     },
     {
       "title": "新书 | 武洹宇等《徐宗汉生平考述》",

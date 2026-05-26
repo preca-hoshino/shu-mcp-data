@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260525_092321",
-  "total_articles": 18355,
+  "crawl_time": "20260526_052542",
+  "total_articles": 18356,
   "columns": {
     "科研动态": 1632,
-    "综合新闻": 16264,
+    "综合新闻": 16265,
     "通知公告": 446,
     "重要新闻": 13
   },
   "articles": [
+    {
+      "title": "上海大学科产系统工会开展春游团建活动",
+      "url": "https://www.shu.edu.cn/info/1056/395515.htm",
+      "date": "2026-05-26",
+      "column": "综合新闻"
+    },
     {
       "title": "关于开展2026年上海大学教职工体检的通知",
       "url": "https://www.shu.edu.cn/info/1051/395465.htm",
