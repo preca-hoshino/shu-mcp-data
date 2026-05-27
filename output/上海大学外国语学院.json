@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260525_092321",
-  "total_articles": 548,
+  "crawl_time": "20260527_013826",
+  "total_articles": 549,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 34,
+    "学院新闻": 35,
     "通知公告": 84
   },
   "articles": [
+    {
+      "title": "喜讯｜我院学生荣获全国日语演讲辩论大赛一等奖",
+      "url": "https://sfs.shu.edu.cn/info/1142/30607.htm",
+      "date": "2026-05-27",
+      "column": "学院新闻"
+    },
     {
       "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛通知（第二号）",
       "url": "https://sfs.shu.edu.cn/info/1141/30597.htm",
