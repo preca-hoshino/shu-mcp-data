@@ -2,13 +2,13 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260525_131452",
-  "total_articles": 376,
+  "crawl_time": "20260527_131709",
+  "total_articles": 379,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 36,
+    "新闻动态": 38,
     "重要通知": 311,
-    "风采展示": 8
+    "风采展示": 9
   },
   "articles": [
     {
@@ -72,10 +72,28 @@
       "column": "风采展示"
     },
     {
+      "title": "计算机学院党委召开“智聚先锋・链动未来”2026年第三次党支部书记例会",
+      "url": "https://mp.weixin.qq.com/s/fN5gprKgSoqnGjBfoWcdYg",
+      "date": "2026-05-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "党建引领聚合力 产学研用促发展——上大计算机学院与上海计算所、中电科公共设施公司开展联组学习和党支部共建",
       "url": "https://mp.weixin.qq.com/s/gJOZmJHd2yGa1IpzKCEWkg",
       "date": "2026-05-01",
       "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院开展“深学细悟回信精神，勇担时代青年使命”专题学习活动",
+      "url": "https://mp.weixin.qq.com/s/gzUsoHeQGytNTrpvDsyuVA",
+      "date": "2026-05-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生高焕景",
+      "url": "https://mp.weixin.qq.com/s/i8qITn_alYSxSer-LbwbBg",
+      "date": "2026-05-01",
+      "column": "风采展示"
     },
     {
       "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生何语馨",
