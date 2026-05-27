@@ -2,12 +2,18 @@
   "domain": "fzghc.shu.edu.cn",
   "department": "上海大学发展规划处",
   "type": "04",
-  "crawl_time": "20260513_175610",
-  "total_articles": 136,
+  "crawl_time": "20260527_053350",
+  "total_articles": 137,
   "columns": {
-    "新闻通告": 136
+    "新闻通告": 137
   },
   "articles": [
+    {
+      "title": "积微成著，筑基未来！上海大学亮相2026第二十三届上海教育博览会",
+      "url": "https://fzghc.shu.edu.cn/info/1029/3465.htm",
+      "date": "2026-05-27",
+      "column": "新闻通告"
+    },
     {
       "title": "“青少年科创教育体系建构与探索性实践及其长效机制建设研究” 子课题一中期专家指导会顺利举行",
       "url": "https://fzghc.shu.edu.cn/info/1029/3455.htm",

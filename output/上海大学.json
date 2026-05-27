@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260526_091248",
-  "total_articles": 18357,
+  "crawl_time": "20260527_053350",
+  "total_articles": 18358,
   "columns": {
     "科研动态": 1632,
-    "综合新闻": 16265,
+    "综合新闻": 16266,
     "通知公告": 446,
     "重要新闻": 14
   },
   "articles": [
+    {
+      "title": "材料学院顺利举办2026年校友值年返校日活动",
+      "url": "https://www.shu.edu.cn/info/1056/395535.htm",
+      "date": "2026-05-27",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学科产系统工会开展春游团建活动",
       "url": "https://www.shu.edu.cn/info/1056/395515.htm",

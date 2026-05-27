@@ -2,13 +2,31 @@
   "domain": "automation.shu.edu.cn",
   "department": "上海大学自动化系",
   "type": "06",
-  "crawl_time": "20260514_004804",
-  "total_articles": 72,
+  "crawl_time": "20260527_053350",
+  "total_articles": 75,
   "columns": {
-    "新闻": 64,
+    "新闻": 67,
     "讲座/会议": 8
   },
   "articles": [
+    {
+      "title": "2024-2025学年“上电所奖学金”获奖学生名单公示",
+      "url": "https://automation.shu.edu.cn/info/1128/4173.htm",
+      "date": "2026-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "2024-2025学年“自仪奖学金”获奖学生名单公示",
+      "url": "https://automation.shu.edu.cn/info/1128/4183.htm",
+      "date": "2026-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "2024-2025学年“精控能源奖学金”获奖学生名单公示",
+      "url": "https://automation.shu.edu.cn/info/1128/4193.htm",
+      "date": "2026-05-27",
+      "column": "新闻"
+    },
     {
       "title": "“上电所奖学金”评奖章程",
       "url": "https://automation.shu.edu.cn/info/1128/4133.htm",

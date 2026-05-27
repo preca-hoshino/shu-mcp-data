@@ -2,10 +2,10 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260526_130618",
-  "total_articles": 2006,
+  "crawl_time": "20260527_053350",
+  "total_articles": 2007,
   "columns": {
-    "学术报告": 517,
+    "学术报告": 518,
     "教学信息": 21,
     "新闻动态": 1254,
     "通知公告": 214
@@ -16,6 +16,12 @@
       "url": "https://scie.shu.edu.cn/info/1065/46575.htm",
       "date": "2026-05-26",
       "column": "通知公告"
+    },
+    {
+      "title": "行健讲坛 №545 －信号恰可察觉差(Just-Noticeable Differenc)的计算模型",
+      "url": "https://scie.shu.edu.cn/info/1067/46585.htm",
+      "date": "2026-05-26",
+      "column": "学术报告"
     },
     {
       "title": "行健讲坛 №544 －通过数据表示的视角重新思考三维几何压缩",

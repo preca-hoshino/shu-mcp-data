@@ -2,14 +2,26 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260525_092321",
-  "total_articles": 576,
+  "crawl_time": "20260527_053350",
+  "total_articles": 578,
   "columns": {
     "焦点新闻": 362,
     "论坛活动": 173,
-    "通知公告": 41
+    "通知公告": 43
   },
   "articles": [
+    {
+      "title": "关于2026届毕业研究生进沪就业落户成绩等级评定申报名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26611.htm",
+      "date": "2026-05-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织开展2026年上海大学毕业生就业“攀登奖”评选与表彰工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26641.htm",
+      "date": "2026-05-27",
+      "column": "通知公告"
+    },
     {
       "title": "关于2023级联考一等奖学金（三期）名单公示的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26531.htm",

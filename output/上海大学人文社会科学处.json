@@ -2,10 +2,10 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260523_084405",
-  "total_articles": 311,
+  "crawl_time": "20260527_053350",
+  "total_articles": 315,
   "columns": {
-    "文科动态": 71,
+    "文科动态": 75,
     "最新立项": 48,
     "通知公告": 192
   },
@@ -113,6 +113,12 @@
       "column": "通知公告"
     },
     {
+      "title": "深研细悟明方向 同心协力谋新篇——上海大学科研管理部党支部与上海市科学学研究所党支部联组学习党的二十届四中全会精神",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6027.htm",
+      "date": "2025-11-10",
+      "column": "文科动态"
+    },
+    {
       "title": "国家社科基金文化遗产保护传承研究重大专项《文化遗产学学科体系建设研究》开题专家论证会召开",
       "url": "https://rwskc.shu.edu.cn/info/1070/5637.htm",
       "date": "2025-06-13",
@@ -129,6 +135,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/5587.htm",
       "date": "2025-02-19",
       "column": "通知公告"
+    },
+    {
+      "title": "步入AI生成艺术时代！2024浦江创新论坛交叉科学发展专题论坛在上海大学举行",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6017.htm",
+      "date": "2024-11-04",
+      "column": "文科动态"
     },
     {
       "title": "关于组织申报2025年度上海市教育科学研究项目的通知",
@@ -1793,6 +1805,12 @@
       "column": "通知公告"
     },
     {
+      "title": "2008年度上海市教育发展基金会“晨光计划”课题评审结果揭晓",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3574.htm",
+      "date": "2008-06-10",
+      "column": "文科动态"
+    },
+    {
       "title": "2008年度广电总局部级社科研究项目申报工作的通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/2850.htm",
       "date": "2008-06-04",
@@ -1807,6 +1825,12 @@
     {
       "title": "“海外中国现代文学教学方法”国际研讨会将召开",
       "url": "https://rwskc.shu.edu.cn/info/1070/3570.htm",
+      "date": "2008-06-03",
+      "column": "文科动态"
+    },
+    {
+      "title": "“历史研究的回顾、探索、展望”国际学术会议将召开",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3572.htm",
       "date": "2008-06-03",
       "column": "文科动态"
     },

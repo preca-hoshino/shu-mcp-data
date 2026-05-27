@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260526_091248",
-  "total_articles": 3818,
+  "crawl_time": "20260527_053350",
+  "total_articles": 3820,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2600,
+    "学术报告": 2602,
     "本科生教务": 39,
     "本科生新闻": 15,
     "研究生教务": 15,
@@ -16,6 +16,18 @@
     "通知公告": 157
   },
   "articles": [
+    {
+      "title": "量子科技研究院Seminar第101讲暨物理学科Seminar第807讲 量子点中纵向自旋声子界面的量子绝热...",
+      "url": "https://scicol.shu.edu.cn/info/1003/32755.htm",
+      "date": "2026-05-27",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3052讲 二维双重退化营养趋化模型的有界性",
+      "url": "https://scicol.shu.edu.cn/info/1003/32765.htm",
+      "date": "2026-05-27",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科Seminar第806讲 流体/引力对偶的非共形发展",
       "url": "https://scicol.shu.edu.cn/info/1003/32695.htm",
