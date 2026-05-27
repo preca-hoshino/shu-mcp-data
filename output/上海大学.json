@@ -2,15 +2,27 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260527_053350",
-  "total_articles": 18358,
+  "crawl_time": "20260527_091111",
+  "total_articles": 18361,
   "columns": {
-    "科研动态": 1632,
+    "科研动态": 1633,
     "综合新闻": 16266,
     "通知公告": 446,
-    "重要新闻": 14
+    "重要新闻": 16
   },
   "articles": [
+    {
+      "title": "上海大学亮相2026第二十三届上海教育博览会",
+      "url": "https://mp.weixin.qq.com/s/6iuZKOrkORn0kVuGwYaWdQ",
+      "date": "2026-05-27",
+      "column": "重要新闻"
+    },
+    {
+      "title": "理学院物理系邢凯健副教授在光子学期刊《Nature Photonics》发表研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/395545.htm",
+      "date": "2026-05-27",
+      "column": "科研动态"
+    },
     {
       "title": "材料学院顺利举办2026年校友值年返校日活动",
       "url": "https://www.shu.edu.cn/info/1056/395535.htm",
@@ -109564,6 +109576,12 @@
       "url": "https://www.shu.edu.cn/info/1051/8631.htm",
       "date": "2013-01-12",
       "column": "通知公告"
+    },
+    {
+      "title": "校长罗宏杰、党委副书记鲁雄刚出席2013年老同志迎新团拜会活动",
+      "url": "https://www.shu.edu.cn/info/1053/10134.htm",
+      "date": "2013-01-12",
+      "column": "重要新闻"
     },
     {
       "title": "上海大学举办跨学科“青年文化热点沙龙”",

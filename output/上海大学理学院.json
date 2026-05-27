@@ -2,17 +2,17 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260527_053350",
-  "total_articles": 3820,
+  "crawl_time": "20260527_091111",
+  "total_articles": 3853,
   "columns": {
     "主办会议": 41,
     "学术报告": 2602,
     "本科生教务": 39,
-    "本科生新闻": 15,
+    "本科生新闻": 45,
     "研究生教务": 15,
     "研究生新闻": 49,
-    "科研动态": 305,
-    "综合新闻": 597,
+    "科研动态": 307,
+    "综合新闻": 598,
     "通知公告": 157
   },
   "articles": [
@@ -27,6 +27,30 @@
       "url": "https://scicol.shu.edu.cn/info/1003/32765.htm",
       "date": "2026-05-27",
       "column": "学术报告"
+    },
+    {
+      "title": "2026年上海大学化学实验竞赛顺利举办",
+      "url": "https://scicol.shu.edu.cn/info/1007/32795.htm",
+      "date": "2026-05-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "物理系邢凯健副教授在光子学期刊《Nature Photonics》发表重要研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/32775.htm",
+      "date": "2026-05-27",
+      "column": "科研动态"
+    },
+    {
+      "title": "化学系雷川虎课题组在《Journal of the American Chemical Society》上发表最新研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/32805.htm",
+      "date": "2026-05-27",
+      "column": "科研动态"
+    },
+    {
+      "title": "2026年上海大学化学实验竞赛顺利举办",
+      "url": "https://scicol.shu.edu.cn/info/1161/32785.htm",
+      "date": "2026-05-27",
+      "column": "本科生新闻"
     },
     {
       "title": "物理学科Seminar第806讲 流体/引力对偶的非共形发展",
@@ -6335,6 +6359,12 @@
       "column": "科研动态"
     },
     {
+      "title": "理学院22级物理系“包饺子、庆元旦、迎新年”主题活动开展",
+      "url": "https://scicol.shu.edu.cn/info/1161/19285.htm",
+      "date": "2023-12-29",
+      "column": "本科生新闻"
+    },
+    {
       "title": "理学院2023年研究生导师培训会顺利举行",
       "url": "https://scicol.shu.edu.cn/info/1007/19205.htm",
       "date": "2023-12-28",
@@ -6357,6 +6387,12 @@
       "url": "https://scicol.shu.edu.cn/info/1008/19175.htm",
       "date": "2023-12-27",
       "column": "科研动态"
+    },
+    {
+      "title": "寻访红色足迹，传唱复兴颂歌",
+      "url": "https://scicol.shu.edu.cn/info/1161/19185.htm",
+      "date": "2023-12-27",
+      "column": "本科生新闻"
     },
     {
       "title": "数学学科Seminar第2618讲 多部竞赛图的类点/弧泛圈性",
@@ -6399,6 +6435,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/19035.htm",
       "date": "2023-12-22",
       "column": "综合新闻"
+    },
+    {
+      "title": "“一站到底”化学知识竞赛如约而至",
+      "url": "https://scicol.shu.edu.cn/info/1161/19025.htm",
+      "date": "2023-12-22",
+      "column": "本科生新闻"
     },
     {
       "title": "薪火相传，凝心聚力——化学系举办教师荣休仪式暨集体生日会",
@@ -7863,6 +7905,12 @@
       "url": "https://scicol.shu.edu.cn/info/1008/15755.htm",
       "date": "2023-10-12",
       "column": "科研动态"
+    },
+    {
+      "title": "理学院物理系大学物理教学团队与教职工党支部开展集体学习与教学研讨活动",
+      "url": "https://scicol.shu.edu.cn/info/1161/15775.htm",
+      "date": "2023-10-12",
+      "column": "本科生新闻"
     },
     {
       "title": "物理学科Seminar第622讲 极早期宇宙的非微扰现象",
@@ -9521,6 +9569,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "踔厉奋发 逐梦未来——理学院化学系本科生奖学金颁奖典礼隆重举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/11804.htm",
+      "date": "2023-03-24",
+      "column": "本科生新闻"
+    },
+    {
       "title": "上海大学核心数学研究所——几何与分析综合报告第27讲 Riemannian metrics with prescribed v...",
       "url": "https://scicol.shu.edu.cn/info/1003/11764.htm",
       "date": "2023-03-23",
@@ -9545,6 +9599,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "尚理书院｜理学院“理心向党”第三期理论讲座顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/11724.htm",
+      "date": "2023-03-22",
+      "column": "本科生新闻"
+    },
+    {
       "title": "数学学科Seminar第2349讲 Fermion-Virasoro代数的表示",
       "url": "https://scicol.shu.edu.cn/info/1003/11644.htm",
       "date": "2023-03-21",
@@ -9555,6 +9615,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/11654.htm",
       "date": "2023-03-21",
       "column": "综合新闻"
+    },
+    {
+      "title": "数学系召开课程建设研讨会",
+      "url": "https://scicol.shu.edu.cn/info/1161/11664.htm",
+      "date": "2023-03-21",
+      "column": "本科生新闻"
     },
     {
       "title": "数学学科Seminar第2347讲 图与多重图的边连通度、边不交生成树最大数目和特征值",
@@ -10289,6 +10355,12 @@
       "column": "本科生教务"
     },
     {
+      "title": "携笔从戎赴军营 绽放青春塑“理”想——理学院征兵动员及政策解读宣讲会顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/10401.htm",
+      "date": "2022-11-04",
+      "column": "本科生新闻"
+    },
+    {
       "title": "理学院举办标杆共建讲座--“足印：赤色黎明”",
       "url": "https://scicol.shu.edu.cn/info/1162/10448.htm",
       "date": "2022-11-03",
@@ -10427,6 +10499,12 @@
       "column": "学术报告"
     },
     {
+      "title": "理学院化学系创新项目立项解读会顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/10456.htm",
+      "date": "2022-10-24",
+      "column": "本科生新闻"
+    },
+    {
       "title": "数学学科Seminar第2313讲 On the pentagram map",
       "url": "https://scicol.shu.edu.cn/info/1003/10331.htm",
       "date": "2022-10-21",
@@ -10473,6 +10551,12 @@
       "url": "https://scicol.shu.edu.cn/info/1008/10325.htm",
       "date": "2022-10-18",
       "column": "科研动态"
+    },
+    {
+      "title": "永远跟党走，奋进新征程 | 理学院全体师生热切关注党的二十大开幕",
+      "url": "https://scicol.shu.edu.cn/info/1161/10458.htm",
+      "date": "2022-10-18",
+      "column": "本科生新闻"
     },
     {
       "title": "数学学科Seminar第2310讲 一维非线性薛定谔方程的求解方法进展",
@@ -10637,6 +10721,12 @@
       "column": "学术报告"
     },
     {
+      "title": "上海大学理学院第二十三次学生代表大会顺利召开!",
+      "url": "https://scicol.shu.edu.cn/info/1161/10459.htm",
+      "date": "2022-09-26",
+      "column": "本科生新闻"
+    },
+    {
       "title": "数学学科Seminar第2294讲 非零背景下的散焦NLS方程：在无孤子领域下的长时间渐近",
       "url": "https://scicol.shu.edu.cn/info/1003/10286.htm",
       "date": "2022-09-23",
@@ -10755,6 +10845,12 @@
       "url": "https://scicol.shu.edu.cn/info/1008/10253.htm",
       "date": "2022-09-09",
       "column": "科研动态"
+    },
+    {
+      "title": "理学院物理系举办2022级电信春招班迎新见面会",
+      "url": "https://scicol.shu.edu.cn/info/1161/10257.htm",
+      "date": "2022-09-09",
+      "column": "本科生新闻"
     },
     {
       "title": "相逢与理 “新”之所向 | 欢迎理学院2022级研究生的到来",
@@ -11051,6 +11147,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "2022年理学院物理系全国优秀大学生夏令营成功举办",
+      "url": "https://scicol.shu.edu.cn/info/1161/10172.htm",
+      "date": "2022-07-10",
+      "column": "本科生新闻"
+    },
+    {
       "title": "2022年度上海大学“鸿之微”奖教金评选通知",
       "url": "https://scicol.shu.edu.cn/PDF/jiao.rar",
       "date": "2022-07-08",
@@ -11123,6 +11225,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "2021级数学系分流新生见面会顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/10156.htm",
+      "date": "2022-06-28",
+      "column": "本科生新闻"
+    },
+    {
       "title": "物理学科Seminar第577讲 纳米受限溶液中溶质分子的分散/聚集相变",
       "url": "https://scicol.shu.edu.cn/info/1003/10145.htm",
       "date": "2022-06-22",
@@ -11139,6 +11247,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/10376.htm",
       "date": "2022-06-22",
       "column": "学术报告"
+    },
+    {
+      "title": "理学院招宣组开展广西、云南2022年高招咨询动员会",
+      "url": "https://scicol.shu.edu.cn/info/1161/10155.htm",
+      "date": "2022-06-22",
+      "column": "本科生新闻"
     },
     {
       "title": "数学学科Seminar第2258讲 随机微分方程的比较定理",
@@ -11163,6 +11277,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/10375.htm",
       "date": "2022-06-17",
       "column": "学术报告"
+    },
+    {
+      "title": "理学院访企拓岗促就业专项交流会——上海灿瑞科技股份有限公司专场顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/10152.htm",
+      "date": "2022-06-16",
+      "column": "本科生新闻"
     },
     {
       "title": "可持续能源研究院赵玉峰教授团队最新研究成果发表在《Nature Communications》上",
@@ -11259,6 +11379,18 @@
       "url": "https://scicol.shu.edu.cn/info/1003/10373.htm",
       "date": "2022-06-01",
       "column": "学术报告"
+    },
+    {
+      "title": "理院学子积极观看“青春心向党，百年再起航”——学习习近平总书记在庆祝共产主义青年团成立1...",
+      "url": "https://scicol.shu.edu.cn/info/1161/10157.htm",
+      "date": "2022-05-31",
+      "column": "本科生新闻"
+    },
+    {
+      "title": "量子科技之花绽放，理学院团队喜获量子计算黑客松大赛二等奖",
+      "url": "https://scicol.shu.edu.cn/info/1161/10460.htm",
+      "date": "2022-05-31",
+      "column": "本科生新闻"
     },
     {
       "title": "数学学科Seminar第2247讲 GIM李代数的有限维表示",
@@ -11687,6 +11819,12 @@
       "column": "科研动态"
     },
     {
+      "title": "“朋辈故事汇”系列之——“研途有理，逐梦同行”理院学长经验交流会顺利举办",
+      "url": "https://scicol.shu.edu.cn/info/1161/9995.htm",
+      "date": "2021-12-24",
+      "column": "本科生新闻"
+    },
+    {
       "title": "数学学科Seminar第2233讲 通过Tollmien-Schlichting波研究Hartmann层的线性谱不稳定性",
       "url": "https://scicol.shu.edu.cn/info/1003/9992.htm",
       "date": "2021-12-23",
@@ -11703,6 +11841,24 @@
       "url": "https://scicol.shu.edu.cn/info/1007/9989.htm",
       "date": "2021-12-22",
       "column": "综合新闻"
+    },
+    {
+      "title": "理学院毕业设计专题交流座谈会顺利召开",
+      "url": "https://scicol.shu.edu.cn/info/1161/9987.htm",
+      "date": "2021-12-22",
+      "column": "本科生新闻"
+    },
+    {
+      "title": "理学院化学系举办趣味化学知识竞赛",
+      "url": "https://scicol.shu.edu.cn/info/1161/9986.htm",
+      "date": "2021-12-20",
+      "column": "本科生新闻"
+    },
+    {
+      "title": "理学院召开2021年冬季学期家长会",
+      "url": "https://scicol.shu.edu.cn/info/1161/9981.htm",
+      "date": "2021-12-16",
+      "column": "本科生新闻"
     },
     {
       "title": "数学学科Seminar第2230讲 二维可压缩粘弹性方程组的消失粘性极限",
@@ -11751,6 +11907,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/9970.htm",
       "date": "2021-12-10",
       "column": "学术报告"
+    },
+    {
+      "title": "理学院举行“阳光基金”师生交流会",
+      "url": "https://scicol.shu.edu.cn/info/1161/9971.htm",
+      "date": "2021-12-10",
+      "column": "本科生新闻"
     },
     {
       "title": "理学院顺利举办2021年实验室气体泄漏应急演练",
@@ -11823,6 +11985,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/9951.htm",
       "date": "2021-11-30",
       "column": "学术报告"
+    },
+    {
+      "title": "化学系趣味运动会顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/9952.htm",
+      "date": "2021-11-30",
+      "column": "本科生新闻"
     },
     {
       "title": "物理学科Seminar第574讲 α/β钛合金晶体缺陷附近α相析出机制的相场法研究",
@@ -12449,6 +12617,18 @@
       "column": "综合新闻"
     },
     {
+      "title": "上海大学均天环保科技（上海）有限公司捐赠仪式 ——暨理学院化学系校友奖学金颁奖典礼圆满结束",
+      "url": "https://scicol.shu.edu.cn/info/1161/9808.htm",
+      "date": "2021-10-25",
+      "column": "本科生新闻"
+    },
+    {
+      "title": "理学院物理系2021年全程导师见面会顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1161/9818.htm",
+      "date": "2021-10-25",
+      "column": "本科生新闻"
+    },
+    {
       "title": "数学学科Seminar第2160讲 A class of non-weight modules over the N=2 superconformal algeb...",
       "url": "https://scicol.shu.edu.cn/info/1003/9802.htm",
       "date": "2021-10-21",
@@ -12551,6 +12731,12 @@
       "column": "学术报告"
     },
     {
+      "title": "理学院物理系党总支开展“踏着先辈足迹勇敢前行”主题观影活动",
+      "url": "https://scicol.shu.edu.cn/info/1161/9807.htm",
+      "date": "2021-10-18",
+      "column": "本科生新闻"
+    },
+    {
       "title": "传承革命精神，勇担初心使命——化学学科党总支组织观看爱国电影《长津湖》",
       "url": "https://scicol.shu.edu.cn/info/1007/9792.htm",
       "date": "2021-10-16",
@@ -12567,6 +12753,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/9791.htm",
       "date": "2021-10-15",
       "column": "综合新闻"
+    },
+    {
+      "title": "上海大学安森美奖学金终评会顺利开展",
+      "url": "https://scicol.shu.edu.cn/info/1161/9813.htm",
+      "date": "2021-10-15",
+      "column": "本科生新闻"
     },
     {
       "title": "物理学科Seminar第563讲 在驱动-耗散的玻色-哈伯德系统中的图案结构产生和新奇序",
@@ -12633,6 +12825,12 @@
       "url": "https://scicol.shu.edu.cn/info/1008/9778.htm",
       "date": "2021-10-09",
       "column": "科研动态"
+    },
+    {
+      "title": "华东理工大学王利民教授为本科生带来《化学与艺术》主题讲座",
+      "url": "https://scicol.shu.edu.cn/info/1161/9784.htm",
+      "date": "2021-10-09",
+      "column": "本科生新闻"
     },
     {
       "title": "理学院召开现场安全工作会议并开展国庆前安全大检查工作",

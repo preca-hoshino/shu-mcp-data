@@ -2,14 +2,32 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260526_013441",
-  "total_articles": 109,
+  "crawl_time": "20260527_091111",
+  "total_articles": 114,
   "columns": {
     "文明创建": 33,
-    "文明实践": 48,
-    "校园动态": 28
+    "文明实践": 49,
+    "校园动态": 32
   },
   "articles": [
+    {
+      "title": "积微成著，筑基未来！上海大学亮相2026第二十三届上海教育博...",
+      "url": "https://mp.weixin.qq.com/s/6iuZKOrkORn0kVuGwYaWdQ",
+      "date": "2026-05-27",
+      "column": "校园动态"
+    },
+    {
+      "title": "校领导出席第十三届世界城市论坛并开展系列交流活动",
+      "url": "https://www.shu.edu.cn/info/1053/395525.htm",
+      "date": "2026-05-27",
+      "column": "校园动态"
+    },
+    {
+      "title": "材料学院顺利举办2026年校友值年返校日活动",
+      "url": "https://www.shu.edu.cn/info/1056/395535.htm",
+      "date": "2026-05-27",
+      "column": "文明实践"
+    },
     {
       "title": "古今集韵 万卷藏珍——《古今图书集成》专题展揭幕",
       "url": "https://www.shu.edu.cn/info/1056/395325.htm",
@@ -527,8 +545,20 @@
       "column": "文明创建"
     },
     {
+      "title": "上海电影学院推出“光影中国”德艺双馨讲坛：首期邀请著名表...",
+      "url": "http://news.shu.edu.cn/info/1021/46506.htm",
+      "date": "2018-01-15",
+      "column": "校园动态"
+    },
+    {
       "title": "我校发布2017年度毕业生就业质量报告",
       "url": "http://news.shu.edu.cn/info/1021/46439.htm",
+      "date": "2018-01-09",
+      "column": "校园动态"
+    },
+    {
+      "title": "不忘初心，牢记使命，校领导班子集体瞻仰中共一大会址",
+      "url": "http://news.shu.edu.cn/info/1021/46452.htm",
       "date": "2018-01-09",
       "column": "校园动态"
     },

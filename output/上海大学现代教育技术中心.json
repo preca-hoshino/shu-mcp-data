@@ -2,14 +2,20 @@
   "domain": "metc.shu.edu.cn",
   "department": "上海大学现代教育技术中心",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 90,
+  "crawl_time": "20260527_091111",
+  "total_articles": 91,
   "columns": {
-    "通知公告": 28,
     "中心新闻": 37,
-    "部门新闻": 25
+    "通知公告": 30,
+    "部门新闻": 24
   },
   "articles": [
+    {
+      "title": "本科生院教育技术中心公共服务平台服务指南-2026",
+      "url": "https://metc.shu.edu.cn/fuwuzhinan-2026.pdf",
+      "date": "2026-05-27",
+      "column": "通知公告"
+    },
     {
       "title": "虚仿赋能育新才 校际携手促发展 ——虚拟仿真实验中心迎来多批高校及相关单位交流活动",
       "url": "https://metc.shu.edu.cn/info/1066/3571.htm",
@@ -476,7 +482,7 @@
       "title": "齐心协力抗疫情 强化责任显担当",
       "url": "https://metc.shu.edu.cn/info/1066/1783.htm",
       "date": "2020-03-21",
-      "column": "部门新闻"
+      "column": "通知公告"
     },
     {
       "title": "上海大学第八届计算机应用能力大赛参赛通知",

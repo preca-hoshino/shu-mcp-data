@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260526_052542",
-  "total_articles": 2511,
+  "crawl_time": "20260527_091111",
+  "total_articles": 2512,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
-    "学术动态": 546,
+    "学术动态": 547,
     "学术报告": 133,
     "学生动态": 580,
     "教学教务": 136,
@@ -25,6 +25,12 @@
     {
       "title": "《解放日报》 | 李友梅：加快构建中国社会学自主知识体系",
       "url": "https://sociology.shu.edu.cn/info/1104/41798.htm",
+      "date": "2026-05-25",
+      "column": "学术动态"
+    },
+    {
+      "title": "第25届上海市社会科学普及活动周讲座“幸福到老——浅谈中国老年人‘幸福寿命’”顺利召开",
+      "url": "https://sociology.shu.edu.cn/info/1104/41878.htm",
       "date": "2026-05-25",
       "column": "学术动态"
     },

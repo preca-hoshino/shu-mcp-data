@@ -2,18 +2,24 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260527_013826",
-  "total_articles": 549,
+  "crawl_time": "20260527_091111",
+  "total_articles": 550,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 35,
+    "学院新闻": 36,
     "通知公告": 84
   },
   "articles": [
     {
       "title": "喜讯｜我院学生荣获全国日语演讲辩论大赛一等奖",
       "url": "https://sfs.shu.edu.cn/info/1142/30607.htm",
+      "date": "2026-05-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学外国语学院赴科大讯飞开展专题调研",
+      "url": "https://sfs.shu.edu.cn/info/1142/30627.htm",
       "date": "2026-05-27",
       "column": "学院新闻"
     },
