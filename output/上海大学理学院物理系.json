@@ -2,15 +2,21 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260527_053350",
-  "total_articles": 357,
+  "crawl_time": "20260528_013200",
+  "total_articles": 358,
   "columns": {
-    "学术报告": 283,
+    "学术报告": 284,
     "新闻快递": 16,
     "研究动态": 44,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "量子科技研究院Seminar第101讲暨物理学科Seminar第807讲 ：陈玺（2026年5月29日14 ...",
+      "url": "https://physics.shu.edu.cn/info/1078/9464.htm",
+      "date": "2026-05-28",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科Seminar第806讲：吴超（2026年5月29日15：00）",
       "url": "https://physics.shu.edu.cn/info/1078/9454.htm",
