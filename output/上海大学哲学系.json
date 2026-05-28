@@ -2,7 +2,7 @@
   "domain": "zxx.shu.edu.cn",
   "department": "上海大学哲学系",
   "type": "20",
-  "crawl_time": "20260527_131709",
+  "crawl_time": "20260528_053003",
   "total_articles": 113,
   "columns": {
     "图片新闻": 4,
@@ -16,6 +16,12 @@
       "url": "https://zxx.shu.edu.cn/info/1070/27864.htm",
       "date": "2025-05-07",
       "column": "通知公告"
+    },
+    {
+      "title": "香港浸会大学-上海大学联合哲学研讨会（第5期）顺利举办2024-01-27",
+      "url": "https://zxx.shu.edu.cn/system/defaultcontent.jsp",
+      "date": "2024-01-27",
+      "column": "新闻速递"
     },
     {
       "title": "霍尔格·吕赫教授讲座成功举行2023-11-13",
@@ -681,12 +687,6 @@
       "title": "学科建设实事2009-10-13",
       "url": "https://zxx.shu.edu.cn/info/1051/1699.htm",
       "date": "2009-10-13",
-      "column": "新闻速递"
-    },
-    {
-      "title": "陈新汉教授做客香港中文大学做访问学者2005-03-06",
-      "url": "https://zxx.shu.edu.cn/system/defaultcontent.jsp",
-      "date": "2005-03-06",
       "column": "新闻速递"
     }
   ]

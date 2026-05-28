@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260526_130618",
-  "total_articles": 1584,
+  "crawl_time": "20260528_053003",
+  "total_articles": 1585,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1388,
+    "学术报告": 1389,
     "新闻快递": 167
   },
   "articles": [
+    {
+      "title": "Seminar第3053讲 正多面体与曲线上的向量丛",
+      "url": "https://math.shu.edu.cn/info/1042/26811.htm",
+      "date": "2026-05-28",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3047讲 虚拟元法在最大模意义下的最佳收敛性",
       "url": "https://math.shu.edu.cn/info/1042/26731.htm",

@@ -2,13 +2,25 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260526_013441",
-  "total_articles": 431,
+  "crawl_time": "20260528_053003",
+  "total_articles": 434,
   "columns": {
-    "后勤新闻": 315,
-    "通知公告": 116
+    "后勤新闻": 316,
+    "通知公告": 118
   },
   "articles": [
+    {
+      "title": "2026年宝山校区徽派建筑灭白蚁及木质结构修复服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10156.htm",
+      "date": "2026-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学第二十九届优质服务月技术技能竞赛开赛",
+      "url": "https://hbb.shu.edu.cn/info/1081/10166.htm",
+      "date": "2026-05-28",
+      "column": "后勤新闻"
+    },
     {
       "title": "上海大学后勤保障部第一届第二次教职工代表大会暨工会会员代表大会召开",
       "url": "https://hbb.shu.edu.cn/info/1081/10136.htm",
@@ -2552,6 +2564,12 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488113&idx=1&sn=eba6b5425440bf89bfb8fe64daff4044&chksm=ea2e7ad5dd59f3c3ad7ebf400232153f50afdfdb13c94cb736c4a3f8a453052e9fb2a29c4934&token=300539822&lang=zh_CN#rd",
       "date": "2020-11-23",
       "column": "后勤新闻"
+    },
+    {
+      "title": "宝山校区停电通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/1141.htm",
+      "date": "2020-11-05",
+      "column": "通知公告"
     },
     {
       "title": "后勤保障部举办2020年纪检干部培训班",

@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260527_091111",
-  "total_articles": 2512,
+  "crawl_time": "20260528_053003",
+  "total_articles": 2513,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
-    "学术动态": 547,
+    "学术动态": 548,
     "学术报告": 133,
     "学生动态": 580,
     "教学教务": 136,
@@ -16,6 +16,12 @@
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "“智库进学院”国家社科基金与智库专报经验交流会顺利召开",
+      "url": "https://sociology.shu.edu.cn/info/1104/41888.htm",
+      "date": "2026-05-28",
+      "column": "学术动态"
+    },
     {
       "title": "520的特殊“告白”：时隔107天，她再次为生命点亮希望",
       "url": "https://mp.weixin.qq.com/s/ODpHzCyPItW6YZJ5rOr71Q",
