@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260527_053350",
-  "total_articles": 315,
+  "crawl_time": "20260528_091756",
+  "total_articles": 317,
   "columns": {
-    "文科动态": 75,
+    "文科动态": 77,
     "最新立项": 48,
     "通知公告": 192
   },
   "articles": [
+    {
+      "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6097.htm",
+      "date": "2026-05-28",
+      "column": "文科动态"
+    },
     {
       "title": "合肥大学邬平川书记一行来访我校交流 新结构经济学学科建设与合作",
       "url": "https://rwskc.shu.edu.cn/info/1070/5817.htm",
@@ -1803,6 +1809,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/2851.htm",
       "date": "2008-06-16",
       "column": "通知公告"
+    },
+    {
+      "title": "2008年度国家社科基金项目评审结果揭晓",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3576.htm",
+      "date": "2008-06-12",
+      "column": "文科动态"
     },
     {
       "title": "2008年度上海市教育发展基金会“晨光计划”课题评审结果揭晓",

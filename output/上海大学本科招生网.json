@@ -2,12 +2,18 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260526_130618",
-  "total_articles": 31,
+  "crawl_time": "20260528_091756",
+  "total_articles": 32,
   "columns": {
-    "最新公告": 31
+    "最新公告": 32
   },
   "articles": [
+    {
+      "title": "上海大学2026年插班生招生考试成绩查询公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38720.htm",
+      "date": "2026-05-28",
+      "column": "最新公告"
+    },
     {
       "title": "关于上海大学2026年第二学士学位初审及面试工作安排的公告",
       "url": "https://bkzsw.shu.edu.cn/info/1798/38700.htm",

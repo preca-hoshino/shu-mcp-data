@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260527_013826",
-  "total_articles": 524,
+  "crawl_time": "20260528_091756",
+  "total_articles": 525,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 67,
-    "通知公告": 411
+    "通知公告": 412
   },
   "articles": [
+    {
+      "title": "关于召开上海市科技计划项目科学数据汇交系统操作远程培训会议的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11182.htm",
+      "date": "2026-05-28",
+      "column": "通知公告"
+    },
     {
       "title": "【开放课题】上海市集成电路与新型显示材料工程研究中心主任开放课题申报通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11172.htm",

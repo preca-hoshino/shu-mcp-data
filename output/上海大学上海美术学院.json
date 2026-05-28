@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260525_092321",
-  "total_articles": 689,
+  "crawl_time": "20260528_091756",
+  "total_articles": 690,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
@@ -12,9 +12,15 @@
     "展览展示": 24,
     "教学": 157,
     "科研": 35,
-    "通知公告": 11
+    "通知公告": 12
   },
   "articles": [
+    {
+      "title": "《普通高中教科书·美术》教材修订编写人员公示",
+      "url": "https://safa.shu.edu.cn/info/1122/19400.htm",
+      "date": "2026-05-28",
+      "column": "通知公告"
+    },
     {
       "title": "上海美术学院举办智库专报专题指导交流会",
       "url": "https://safa.shu.edu.cn/info/1120/19390.htm",
