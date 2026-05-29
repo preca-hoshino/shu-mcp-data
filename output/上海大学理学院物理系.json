@@ -2,10 +2,10 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260529_053205",
-  "total_articles": 361,
+  "crawl_time": "20260529_091248",
+  "total_articles": 362,
   "columns": {
-    "学术报告": 287,
+    "学术报告": 288,
     "新闻快递": 16,
     "研究动态": 44,
     "通知公告": 14
@@ -26,6 +26,12 @@
     {
       "title": "物理学科Seminar第810讲：余洪伟（2026年6月8日13:50）",
       "url": "https://physics.shu.edu.cn/info/1078/9494.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第103讲暨物理学科Seminar第811讲:杨哲森(2026年6月1日9:00)",
+      "url": "https://physics.shu.edu.cn/info/1078/9504.htm",
       "date": "2026-05-29",
       "column": "学术报告"
     },

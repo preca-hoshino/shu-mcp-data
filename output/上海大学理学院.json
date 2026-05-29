@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260529_053205",
-  "total_articles": 3857,
+  "crawl_time": "20260529_091248",
+  "total_articles": 3860,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2606,
+    "学术报告": 2609,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -31,6 +31,24 @@
     {
       "title": "物理学科Seminar第809讲 漫谈粒子宇宙物理之美——弘扬科学精神",
       "url": "https://scicol.shu.edu.cn/info/1003/32855.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3054讲 基于人工智能的电池状态评估与故障诊断",
+      "url": "https://scicol.shu.edu.cn/info/1003/32865.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3055讲 面向热流固耦合的整体式浸入边界框架及基于代理模型的不确定性量化",
+      "url": "https://scicol.shu.edu.cn/info/1003/32875.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第103讲暨物理学科Seminar第811讲 非厄米物理简介第一讲",
+      "url": "https://scicol.shu.edu.cn/info/1003/32885.htm",
       "date": "2026-05-29",
       "column": "学术报告"
     },

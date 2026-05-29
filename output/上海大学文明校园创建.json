@@ -2,11 +2,11 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260529_013601",
-  "total_articles": 120,
+  "crawl_time": "20260529_091248",
+  "total_articles": 122,
   "columns": {
     "文明创建": 33,
-    "文明实践": 53,
+    "文明实践": 55,
     "校园动态": 34
   },
   "articles": [
@@ -43,6 +43,18 @@
     {
       "title": "第二届新时代知识产权强国建设主题征文学术交流活动在上海大...",
       "url": "https://www.shu.edu.cn/info/1056/395625.htm",
+      "date": "2026-05-29",
+      "column": "文明实践"
+    },
+    {
+      "title": "原创导向学术评价引领中国哲学社会科学自主知识体系建构学术...",
+      "url": "https://www.shu.edu.cn/info/1056/395685.htm",
+      "date": "2026-05-29",
+      "column": "文明实践"
+    },
+    {
+      "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”...",
+      "url": "https://www.shu.edu.cn/info/1056/395795.htm",
       "date": "2026-05-29",
       "column": "文明实践"
     },

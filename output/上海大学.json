@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260529_053205",
-  "total_articles": 18372,
+  "crawl_time": "20260529_091248",
+  "total_articles": 18376,
   "columns": {
     "科研动态": 1634,
-    "综合新闻": 16272,
-    "通知公告": 446,
+    "综合新闻": 16275,
+    "通知公告": 447,
     "重要新闻": 20
   },
   "articles": [
+    {
+      "title": "关于宝山校区校内通行温馨提醒",
+      "url": "https://www.shu.edu.cn/info/1051/395885.htm",
+      "date": "2026-05-29",
+      "column": "通知公告"
+    },
     {
       "title": "吴坚勇书记一行开展基础研究专题调研",
       "url": "https://www.shu.edu.cn/info/1053/395765.htm",
@@ -26,6 +32,24 @@
     {
       "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
       "url": "https://www.shu.edu.cn/info/1056/395795.htm",
+      "date": "2026-05-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "筑强科创育人新空间 共绘校城融合新图景——上海科技节·上海大学科普日暨科学画廊正式落成启用",
+      "url": "https://www.shu.edu.cn/info/1056/395895.htm",
+      "date": "2026-05-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/395905.htm",
+      "date": "2026-05-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新闻传播学院与文科处共同举办科研专题交流会",
+      "url": "https://www.shu.edu.cn/info/1056/395915.htm",
       "date": "2026-05-29",
       "column": "综合新闻"
     },

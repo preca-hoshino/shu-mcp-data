@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260528_013200",
-  "total_articles": 551,
+  "crawl_time": "20260529_091248",
+  "total_articles": 552,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 36,
+    "学院新闻": 37,
     "通知公告": 85
   },
   "articles": [
+    {
+      "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/30647.htm",
+      "date": "2026-05-29",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学教职工体检通知",
       "url": "https://www.shu.edu.cn/info/1051/395465.htm",
