@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260520_013735",
-  "total_articles": 107,
+  "crawl_time": "20260529_053205",
+  "total_articles": 108,
   "columns": {
     "公告信息": 34,
-    "图书馆新闻": 40,
+    "图书馆新闻": 41,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "馆际互鉴 共促发展 ——深圳大学图书馆同仁赴我馆开展专题调研交流",
+      "url": "https://lib.shu.edu.cn/info/1024/6974.htm",
+      "date": "2026-05-29",
+      "column": "图书馆新闻"
+    },
     {
       "title": "古今集韵 万卷藏珍 ——《古今图书集成》专题展隆重揭幕",
       "url": "https://lib.shu.edu.cn/info/1024/6964.htm",

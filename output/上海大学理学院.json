@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260529_013601",
+  "crawl_time": "20260529_053205",
   "total_articles": 3857,
   "columns": {
     "主办会议": 41,
@@ -23,13 +23,13 @@
       "column": "学术报告"
     },
     {
-      "title": "物理学科Seminar第809讲 黑洞—宇宙之光",
+      "title": "物理学科Seminar第810讲 黑洞—宇宙之光",
       "url": "https://scicol.shu.edu.cn/info/1003/32845.htm",
       "date": "2026-05-29",
       "column": "学术报告"
     },
     {
-      "title": "物理学科Seminar第810讲 漫谈粒子宇宙物理之美——弘扬科学精神",
+      "title": "物理学科Seminar第809讲 漫谈粒子宇宙物理之美——弘扬科学精神",
       "url": "https://scicol.shu.edu.cn/info/1003/32855.htm",
       "date": "2026-05-29",
       "column": "学术报告"

@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260528_091756",
-  "total_articles": 1963,
+  "crawl_time": "20260529_053205",
+  "total_articles": 1964,
   "columns": {
     "学术报告": 100,
     "学生动态": 147,
-    "学院周志": 301,
+    "学院周志": 302,
     "科研动态": 477,
     "综合新闻": 521,
     "通知公告": 417
   },
   "articles": [
+    {
+      "title": "文学院周志总第698期（2026年第14期，5月18日-5月24日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi698.pdf",
+      "date": "2026-05-29",
+      "column": "学院周志"
+    },
     {
       "title": "文学院2025年本科生科研训练计划项目结项公示",
       "url": "https://cla.shu.edu.cn/info/1017/53498.htm",

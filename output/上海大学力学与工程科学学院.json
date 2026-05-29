@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260525_053719",
-  "total_articles": 243,
+  "crawl_time": "20260529_053205",
+  "total_articles": 245,
   "columns": {
     "学术报告": 51,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 30,
+    "综合新闻": 32,
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "吴坚勇书记一行开展基础研究专题调研",
+      "url": "https://smes.shu.edu.cn/info/1013/10445.htm",
+      "date": "2026-05-29",
+      "column": "综合新闻"
+    },
     {
       "title": "背景波浪场下的畸形波演化",
       "url": "https://smes.shu.edu.cn/info/1014/10435.htm",
@@ -1313,6 +1319,12 @@
     {
       "title": "乐嘉陵院士来力学所指导和交流",
       "url": "https://smes.shu.edu.cn/info/1013/2041.htm",
+      "date": "2017-04-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "理学院力学所党支部组织开展无偿献血活动",
+      "url": "https://smes.shu.edu.cn/info/1013/2054.htm",
       "date": "2017-04-28",
       "column": "综合新闻"
     },
