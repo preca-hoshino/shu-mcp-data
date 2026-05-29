@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260528_053003",
-  "total_articles": 18368,
+  "crawl_time": "20260529_013601",
+  "total_articles": 18370,
   "columns": {
     "科研动态": 1634,
     "综合新闻": 16270,
     "通知公告": 446,
-    "重要新闻": 18
+    "重要新闻": 20
   },
   "articles": [
+    {
+      "title": "吴坚勇书记一行开展基础研究专题调研",
+      "url": "https://www.shu.edu.cn/info/1053/395765.htm",
+      "date": "2026-05-29",
+      "column": "重要新闻"
+    },
     {
       "title": "上海大学党委理论学习中心组召开树立和践行正确政绩观专题学习研讨会",
       "url": "https://www.shu.edu.cn/info/1053/395585.htm",
@@ -109622,6 +109628,12 @@
     {
       "title": "第八届校长奖学金颁奖典礼隆重举行",
       "url": "https://www.shu.edu.cn/info/1053/10135.htm",
+      "date": "2013-01-12",
+      "column": "重要新闻"
+    },
+    {
+      "title": "我校召开党委全委（扩大）会议",
+      "url": "https://www.shu.edu.cn/info/1053/10136.htm",
       "date": "2013-01-12",
       "column": "重要新闻"
     },

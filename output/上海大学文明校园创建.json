@@ -2,14 +2,50 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260527_091111",
-  "total_articles": 114,
+  "crawl_time": "20260529_013601",
+  "total_articles": 120,
   "columns": {
     "文明创建": 33,
-    "文明实践": 49,
-    "校园动态": 32
+    "文明实践": 53,
+    "校园动态": 34
   },
   "articles": [
+    {
+      "title": "上海大学党委理论学习中心组召开树立和践行正确政绩观专题学...",
+      "url": "https://www.shu.edu.cn/info/1053/395585.htm",
+      "date": "2026-05-29",
+      "column": "校园动态"
+    },
+    {
+      "title": "吴坚勇书记一行开展基础研究专题调研",
+      "url": "https://www.shu.edu.cn/info/1053/395765.htm",
+      "date": "2026-05-29",
+      "column": "校园动态"
+    },
+    {
+      "title": "微电子学院邀请全国最美高校辅导员开展先锋领航辅导员成长沙龙",
+      "url": "https://www.shu.edu.cn/info/1056/395595.htm",
+      "date": "2026-05-29",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学外国语学院赴科大讯飞开展专题调研",
+      "url": "https://www.shu.edu.cn/info/1056/395605.htm",
+      "date": "2026-05-29",
+      "column": "文明实践"
+    },
+    {
+      "title": "“上海法官进高校系列巡讲”：“聚焦法典时代的生态环境司法...",
+      "url": "https://www.shu.edu.cn/info/1056/395615.htm",
+      "date": "2026-05-29",
+      "column": "文明实践"
+    },
+    {
+      "title": "第二届新时代知识产权强国建设主题征文学术交流活动在上海大...",
+      "url": "https://www.shu.edu.cn/info/1056/395625.htm",
+      "date": "2026-05-29",
+      "column": "文明实践"
+    },
     {
       "title": "积微成著，筑基未来！上海大学亮相2026第二十三届上海教育博...",
       "url": "https://mp.weixin.qq.com/s/6iuZKOrkORn0kVuGwYaWdQ",

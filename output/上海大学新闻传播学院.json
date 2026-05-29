@@ -2,8 +2,8 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260517_013251",
-  "total_articles": 206,
+  "crawl_time": "20260529_013601",
+  "total_articles": 208,
   "columns": {
     "党务公开": 10,
     "媒体聚焦": 14,
@@ -11,9 +11,15 @@
     "学院公告": 58,
     "本科生教育": 24,
     "研究生教育": 27,
-    "综合新闻": 28
+    "综合新闻": 30
   },
   "articles": [
+    {
+      "title": "社科申报・决咨赋能 | 新闻传播学院与文科处共同举办科研专题交流会",
+      "url": "https://sjc.shu.edu.cn/info/1009/6439.htm",
+      "date": "2026-05-28",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学新闻传播学院2026年面向港澳台研究生招生复试工作方案",
       "url": "https://sjc.shu.edu.cn/info/1005/6419.htm",
@@ -1043,6 +1049,12 @@
     {
       "title": "专业博览会丨我们在新闻传播学院等你！",
       "url": "https://sjc.shu.edu.cn/info/1009/1155.htm",
+      "date": "2019-03-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "首日教育丨新闻传播学院顺利开展春季学期首日教育活动",
+      "url": "https://sjc.shu.edu.cn/info/1009/1157.htm",
       "date": "2019-03-27",
       "column": "综合新闻"
     },

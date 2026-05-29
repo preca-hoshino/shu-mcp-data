@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260528_053003",
-  "total_articles": 3854,
+  "crawl_time": "20260529_013601",
+  "total_articles": 3857,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2603,
+    "学术报告": 2606,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -16,6 +16,24 @@
     "通知公告": 157
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar第102讲暨物理学科Seminar第808讲 缺陷型碳基电催化材料",
+      "url": "https://scicol.shu.edu.cn/info/1003/32835.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第809讲 黑洞—宇宙之光",
+      "url": "https://scicol.shu.edu.cn/info/1003/32845.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第810讲 漫谈粒子宇宙物理之美——弘扬科学精神",
+      "url": "https://scicol.shu.edu.cn/info/1003/32855.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3053讲 正多面体与曲线上的向量丛",
       "url": "https://scicol.shu.edu.cn/info/1003/32825.htm",
