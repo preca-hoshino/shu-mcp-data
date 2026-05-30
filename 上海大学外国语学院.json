@@ -1,0 +1,3609 @@
+{
+  "domain": "sfs.shu.edu.cn",
+  "department": "上海大学外国语学院",
+  "type": "06",
+  "crawl_time": "20260530_224443",
+  "total_articles": 599,
+  "columns": {
+    "学术活动预告": 408,
+    "学术研究": 42,
+    "学院新闻": 53,
+    "通知公告": 96
+  },
+  "articles": [
+    {
+      "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/30647.htm",
+      "date": "2026-05-29",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2026年上海大学教职工体检通知",
+      "url": "https://www.shu.edu.cn/info/1051/395465.htm",
+      "date": "2026-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜讯｜我院学生荣获全国日语演讲辩论大赛一等奖",
+      "url": "https://sfs.shu.edu.cn/info/1142/30607.htm",
+      "date": "2026-05-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学外国语学院赴科大讯飞开展专题调研",
+      "url": "https://sfs.shu.edu.cn/info/1142/30627.htm",
+      "date": "2026-05-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛通知（第二号）",
+      "url": "https://sfs.shu.edu.cn/info/1141/30597.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "英语系召开大一学生座谈会 师生共话培养方案优化",
+      "url": "https://sfs.shu.edu.cn/info/1142/30587.htm",
+      "date": "2026-05-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院院长尚新率团参加第十九届全国英语类专业院长/系主任高级论坛并作专题报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/30577.htm",
+      "date": "2026-05-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "讣告",
+      "url": "https://sfs.shu.edu.cn/info/1141/30557.htm",
+      "date": "2026-05-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院2026年博士研究生招生（第二批）工作办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/30567.htm",
+      "date": "2026-05-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学外国语学院党委“两优一先”  拟推荐对象的公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/30527.htm",
+      "date": "2026-05-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院赴上海外国语大学调研交流",
+      "url": "https://sfs.shu.edu.cn/info/1142/30517.htm",
+      "date": "2026-05-15",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【思政育人】“赓续五四薪火，激扬青春奋斗”  ——2025级英语班团支部主题团日活动顺利开展",
+      "url": "https://sfs.shu.edu.cn/info/1142/30537.htm",
+      "date": "2026-05-15",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【学术讲座】外国语言文学视域下的区域国别研究——郑州大学葛继勇教授应邀来上海大学作学术讲座",
+      "url": "https://sfs.shu.edu.cn/info/1142/30507.htm",
+      "date": "2026-05-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "走进“家门口的美术馆”  ——中外青年共探上海城市基层治理新路径",
+      "url": "https://sfs.shu.edu.cn/info/1142/30497.htm",
+      "date": "2026-05-11",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2026年博士研究生招生第二次报名须知",
+      "url": "https://sfs.shu.edu.cn/info/1141/30487.htm",
+      "date": "2026-05-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "以青春之名，赴光影之约——第28届上海国际电影节、第31届上海电视节上海大学志愿者宣讲活动暨志愿项目启动仪式顺利举办",
+      "url": "https://sfs.shu.edu.cn/info/1142/30407.htm",
+      "date": "2026-04-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "《上海翻译》创刊40周年暨中国应用翻译研究发展座谈会成功举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/30427.htm",
+      "date": "2026-04-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "中外青年共筑上海乡村叙事 以青春之力推进文明互鉴",
+      "url": "https://sfs.shu.edu.cn/info/1142/30437.htm",
+      "date": "2026-04-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "法语系“中国与法语世界”系列讲座圆满举办",
+      "url": "https://sfs.shu.edu.cn/info/1142/30397.htm",
+      "date": "2026-04-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我校国际化卓越创新人才培养基地班学子在市级学术英语演讲比赛崭露头角",
+      "url": "https://sfs.shu.edu.cn/info/1142/30387.htm",
+      "date": "2026-04-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "青春护航，急救同行——上海大学外国语学院2026年春季应急救护培训顺利举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/30357.htm",
+      "date": "2026-04-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院英语系召开2025-2026学年春季学期工作例会",
+      "url": "https://sfs.shu.edu.cn/info/1142/30367.htm",
+      "date": "2026-04-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "北京语言大学崔希亮教授为我院师生开展线下讲座",
+      "url": "https://sfs.shu.edu.cn/info/1142/30377.htm",
+      "date": "2026-04-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第六届少年儿童认知发展与二语习得论坛在上海大学成功举办",
+      "url": "https://sfs.shu.edu.cn/info/1142/30347.htm",
+      "date": "2026-04-20",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第二届中国-葡语国家文明互鉴研讨会暨《巴西人：巴西的形成及意义》图书推介会顺利举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/30287.htm",
+      "date": "2026-04-17",
+      "column": "学院新闻"
+    },
+    {
+      "title": "阿根廷国家科学技术研究委员会首席研究员吉奥达诺教授为我院师生开设讲座",
+      "url": "https://sfs.shu.edu.cn/info/1142/30337.htm",
+      "date": "2026-04-17",
+      "column": "学院新闻"
+    },
+    {
+      "title": "中国与法语世界系列讲座（14）： 镜中之我：中法跨文化视野下的自我认知",
+      "url": "https://sfs.shu.edu.cn/info/1148/30297.htm",
+      "date": "2026-04-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "中国与法语世界系列讲座（15）： 法语专业毕业生的职业发展路径——语言学与国际中文教育",
+      "url": "https://sfs.shu.edu.cn/info/1148/30317.htm",
+      "date": "2026-04-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语润寰宇・文明互鉴——上海大学《威尼斯商人》斩获第四届全国大学生英语戏剧节特等奖",
+      "url": "https://sfs.shu.edu.cn/info/1142/30237.htm",
+      "date": "2026-04-14",
+      "column": "学院新闻"
+    },
+    {
+      "title": "\"语言文化与世界文明\"讲座系列(一百四十九): 传统中医的全球实践:中医在拉丁美洲的传播与在地化路径",
+      "url": "https://sfs.shu.edu.cn/info/1148/30217.htm",
+      "date": "2026-04-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2026年全国大学生英语竞赛初赛顺利举办",
+      "url": "https://sfs.shu.edu.cn/info/1142/30207.htm",
+      "date": "2026-04-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第六届少年儿童认知发展与二语习得论坛通知（4号）",
+      "url": "https://sfs.shu.edu.cn/info/1141/30197.htm",
+      "date": "2026-04-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院“十五五”规划行业专家咨询会顺利召开",
+      "url": "https://sfs.shu.edu.cn/info/1142/30187.htm",
+      "date": "2026-04-12",
+      "column": "学院新闻"
+    },
+    {
+      "title": "深耕中外文明互鉴 聚力打磨精品丛书  ——《百年上海中外文明交流互鉴》丛书主创团队工作会议顺利召开",
+      "url": "https://sfs.shu.edu.cn/info/1142/30177.htm",
+      "date": "2026-04-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第二届中国—葡语国家文明互鉴研讨会暨《巴西人：巴西的形成及意义》图书推介会【一号通知】",
+      "url": "https://sfs.shu.edu.cn/info/1141/30147.htm",
+      "date": "2026-04-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026“外教社杯”全国高校学生跨文化能力大赛上海大学初赛报名通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/30157.htm",
+      "date": "2026-04-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "交流互鉴促发展 携手共进谱新篇——北京林业大学外语学院赴上海大学外国语学院调研交流",
+      "url": "https://sfs.shu.edu.cn/info/1142/30167.htm",
+      "date": "2026-04-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院与泰国宋卡王子大学普吉校区举行合作洽谈",
+      "url": "https://sfs.shu.edu.cn/info/1142/30137.htm",
+      "date": "2026-04-07",
+      "column": "学院新闻"
+    },
+    {
+      "title": "学两会精神 绘“十五五”蓝图 —— 上海大学外国语学院召开全院教职工大会",
+      "url": "https://sfs.shu.edu.cn/info/1142/30127.htm",
+      "date": "2026-04-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学外国语学院2026年非全日制翻译硕士专业研究生招生调剂工作办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/30017.htm",
+      "date": "2026-03-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年清明节、劳动节、端午节放假安排",
+      "url": "https://www.shu.edu.cn/info/1051/392005.htm",
+      "date": "2026-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年“樱花国际日语杯”（早安杯）日语本科生研究生学术论坛征稿通知（二号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/29927.htm",
+      "date": "2026-03-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学考点2025年12月上海大学考点JLPT成绩单邮寄以及领取通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/29917.htm",
+      "date": "2026-03-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛通知（第一号）",
+      "url": "https://sfs.shu.edu.cn/info/1141/29907.htm",
+      "date": "2026-03-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年日语专四NSS4报考通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/29857.htm",
+      "date": "2026-03-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学日本语能力考点考试入场要求",
+      "url": "https://sfs.shu.edu.cn/info/1141/29847.htm",
+      "date": "2026-03-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年“樱花国际日语杯”（早安杯）日语本科生研究生学术论坛 征稿通知（一号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/29797.htm",
+      "date": "2026-02-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "JLPT2025年12月上海大学考点证书邮寄信息登记通道已开通",
+      "url": "https://sfs.shu.edu.cn/info/1141/29777.htm",
+      "date": "2026-01-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜报！外国语学院“英语语言学概论”获评第三批国家级一流本科课程",
+      "url": "https://sfs.shu.edu.cn/info/1036/29547.htm",
+      "date": "2025-12-27",
+      "column": "学术研究"
+    },
+    {
+      "title": "“SSCI论文发表”学术讲座 Professional Publication: Some Successful Strategies and Tactics",
+      "url": "https://sfs.shu.edu.cn/info/1148/29157.htm",
+      "date": "2025-12-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“SSCI论文发表”系列工作坊 Hands-on Workshop: One-on-One Consultation",
+      "url": "https://sfs.shu.edu.cn/info/1148/29177.htm",
+      "date": "2025-12-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "关于评审2024-2025学年上海大学NITORI国际奖学金的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/29097.htm",
+      "date": "2025-12-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家级一流英语本科专业建设系列活动之专业建设专题讲座  Academic Life in an American Linguistics Department",
+      "url": "https://sfs.shu.edu.cn/info/1148/29037.htm",
+      "date": "2025-12-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座(一百四十六 ) ：“诗情画意”影响翻译中的词汇遴选问题",
+      "url": "https://sfs.shu.edu.cn/info/1148/29057.htm",
+      "date": "2025-12-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座(一百四十七)：从比喻的视角看术语词的形成过程——以涉海术语词为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/29077.htm",
+      "date": "2025-12-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "【讲座预告】外国专家大讲堂（冬）——加拿大麦吉尔大学Philip Buckley教授专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/28967.htm",
+      "date": "2025-12-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2026年英语专四专八报考通知（修订）",
+      "url": "https://sfs.shu.edu.cn/info/1141/28567.htm",
+      "date": "2025-12-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年法语专四专八报考通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/28807.htm",
+      "date": "2025-11-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "人工智能赋能外语教学与科研  ——2025年上海大学外国语言文学青年学者论坛  （三号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/28657.htm",
+      "date": "2025-11-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院第十七届学术节开幕式",
+      "url": "https://sfs.shu.edu.cn/info/1148/28637.htm",
+      "date": "2025-11-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座(一百四十五)：充分认识葡语国家在全球中的地位和作用——持续研究与交流",
+      "url": "https://sfs.shu.edu.cn/info/1148/28607.htm",
+      "date": "2025-11-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "中国与法语世界系列讲座(7)：功能语言学对普通语言学的贡献:基于汉语音系、句法与词汇结构的实证研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/28307.htm",
+      "date": "2025-11-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "中国与法语世界系列讲座(8)：语言变异的翻译：挑战与解决方案",
+      "url": "https://sfs.shu.edu.cn/info/1148/28327.htm",
+      "date": "2025-11-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "中国与法语世界系列讲座(9) ：从孤立语的描述与教学看外语教学法",
+      "url": "https://sfs.shu.edu.cn/info/1148/28347.htm",
+      "date": "2025-11-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国语学院院长尚新教授当选上海市外文学会副会长",
+      "url": "https://sfs.shu.edu.cn/info/1036/28117.htm",
+      "date": "2025-10-20",
+      "column": "学术研究"
+    },
+    {
+      "title": "中国与法语世界系列讲座(6)：⾬果在中国的经典化之旅：跨⽂化迁变与跨媒介重⽣",
+      "url": "https://sfs.shu.edu.cn/info/1148/27977.htm",
+      "date": "2025-10-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国专家大讲堂（秋）——美国俄亥俄州立大学Robert Levine教授专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/27897.htm",
+      "date": "2025-10-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "法语外教招聘启事",
+      "url": "https://sfs.shu.edu.cn/info/1141/20677.htm",
+      "date": "2025-09-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座预告：我们是否仍应“重视”评估？——人工智能时代的学生评价和大学排名问题",
+      "url": "https://sfs.shu.edu.cn/info/1148/27167.htm",
+      "date": "2025-07-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院青年教师倪珮玥荣获第16届\"外教社杯\"全国高校外语教学大赛（上海赛区）一等奖",
+      "url": "https://sfs.shu.edu.cn/info/1036/27037.htm",
+      "date": "2025-06-24",
+      "column": "学术研究"
+    },
+    {
+      "title": "2025上海大学外国专家项目：国际化与跨学科之间的联系：对拓宽青年研究人员职业发展路径的思考",
+      "url": "https://sfs.shu.edu.cn/info/1148/27017.htm",
+      "date": "2025-06-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国专家大讲堂（夏）——加拿大麦吉尔大学Philip Buckley教授专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/26777.htm",
+      "date": "2025-06-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（一百四十三）：互文性与商务广告翻译",
+      "url": "https://sfs.shu.edu.cn/info/1148/26417.htm",
+      "date": "2025-05-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学博士学位论文答辩公告：汉英新闻语篇言据性比较研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/26367.htm",
+      "date": "2025-05-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（一百四十二）：拉丁美洲未来的发展模式：基于中国“一带一路”倡议的时间性、经济和文化的思考",
+      "url": "https://sfs.shu.edu.cn/info/1148/26217.htm",
+      "date": "2025-05-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“AI赋能教育教学”大讲堂（第2讲）毕业/学术论文中AI工具的使用：可用与禁止用及其策略",
+      "url": "https://sfs.shu.edu.cn/info/1148/25787.htm",
+      "date": "2025-04-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“AI赋能教育教学”大讲堂（第1讲）转型期人工智能驱动下的外语教育创新改革与挑战",
+      "url": "https://sfs.shu.edu.cn/info/1148/25597.htm",
+      "date": "2025-03-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国专家大讲堂：美国俄亥俄州立大学Robert Levine教授“Syntax as Deduction: How Logical Proof Links Form and Meaning”专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/25617.htm",
+      "date": "2025-03-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国专家大讲堂：加拿大麦吉尔大学Philip Buckley教授“World, Language, Translation”专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/25447.htm",
+      "date": "2025-03-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国语学院荣获上海市科技翻译学会“特别贡献奖”",
+      "url": "https://sfs.shu.edu.cn/info/1036/25407.htm",
+      "date": "2025-03-13",
+      "column": "学术研究"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（一百三十九期）：翻译与中国近现代知识体系建构",
+      "url": "https://sfs.shu.edu.cn/info/1148/25307.htm",
+      "date": "2025-03-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "学院办公电话查询（修订版）",
+      "url": "https://sfs.shu.edu.cn/info/1141/14654.htm",
+      "date": "2025-03-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "我院孙若圣、张永娇老师译著在商务印书馆出版",
+      "url": "https://sfs.shu.edu.cn/info/1036/24817.htm",
+      "date": "2024-12-27",
+      "column": "学术研究"
+    },
+    {
+      "title": "上海大学外国语学院院长尚新教授荣获“上海市外文学会2024年度贡献奖”",
+      "url": "https://sfs.shu.edu.cn/info/1036/24607.htm",
+      "date": "2024-12-17",
+      "column": "学术研究"
+    },
+    {
+      "title": "关于进一步做好各类论坛、讲坛、讲座、报告会、研讨会等学术活动审批工作的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/24507.htm",
+      "date": "2024-12-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（一百三十三期） 在跨文化研究中发掘中国文学的现代价值",
+      "url": "https://sfs.shu.edu.cn/info/1148/23847.htm",
+      "date": "2024-10-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（二十三）积极心理学视角下的二语习得研究：以情绪研究为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/23627.htm",
+      "date": "2024-09-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国语学院2025年硕士研究生推免复试工作实施方案",
+      "url": "https://sfs.shu.edu.cn/info/1141/23497.htm",
+      "date": "2024-09-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（二十二） 我国外语教学中的母语迁移研究：现状与调控",
+      "url": "https://sfs.shu.edu.cn/info/1148/23397.htm",
+      "date": "2024-09-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "王文新总主编的系列教材开始在全国中学法语课堂使用",
+      "url": "https://sfs.shu.edu.cn/info/1036/23267.htm",
+      "date": "2024-09-10",
+      "column": "学术研究"
+    },
+    {
+      "title": "上海大学外国语学院2025年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/23277.htm",
+      "date": "2024-09-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "徐锦芬教授外语教学研究系列培训",
+      "url": "https://sfs.shu.edu.cn/info/1148/23287.htm",
+      "date": "2024-09-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "第三届全国大学生英语戏剧节2号通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/23207.htm",
+      "date": "2024-09-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "第三届全国大学生英语戏剧节 1号通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/22997.htm",
+      "date": "2024-08-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办2024年“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛上海大学校选赛暨第九届上海大学“海星杯”系列赛事比赛的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/22917.htm",
+      "date": "2024-08-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院肖福寿教授担任执行主编的《中华汉英大词典（中）》出版",
+      "url": "https://sfs.shu.edu.cn/info/1036/22787.htm",
+      "date": "2024-08-06",
+      "column": "学术研究"
+    },
+    {
+      "title": "带你探寻雅思上大考点",
+      "url": "https://sfs.shu.edu.cn/info/1141/22767.htm",
+      "date": "2024-08-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（二十）元宇宙、人工智能工具与教育的未来",
+      "url": "https://sfs.shu.edu.cn/info/1148/22457.htm",
+      "date": "2024-06-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（二十一） ChatGPT时代国家翻译教育新向度",
+      "url": "https://sfs.shu.edu.cn/info/1148/22377.htm",
+      "date": "2024-06-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2023-2024学年外国语学院本科生全程导师考核通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/22267.htm",
+      "date": "2024-05-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年外国语学院博士研究生招生复试名单及安排",
+      "url": "https://sfs.shu.edu.cn/info/1141/22167.htm",
+      "date": "2024-05-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院2024年博士研究生招生复试方案",
+      "url": "https://sfs.shu.edu.cn/info/1141/22037.htm",
+      "date": "2024-05-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十九） 人工智能应用于外语教学的现状与启示",
+      "url": "https://sfs.shu.edu.cn/info/1148/22017.htm",
+      "date": "2024-05-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "【二号通知】中法建交60周年系列活动： 文明的交流与对话——杜拉斯诞辰110周年学术研讨会",
+      "url": "https://mp.weixin.qq.com/s/Jo27wTwwu4YBANwYK-Cn0Q",
+      "date": "2024-04-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（三十九）生成式AI（大模型、AIGC）在国际传媒中的应用和展望",
+      "url": "https://sfs.shu.edu.cn/info/1148/21897.htm",
+      "date": "2024-04-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十八）基于知识图谱共建智慧教学新生态",
+      "url": "https://sfs.shu.edu.cn/info/1148/21817.htm",
+      "date": "2024-04-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国语学院关于2024年度优秀毕业生评选工作的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/21797.htm",
+      "date": "2024-04-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院2024年第三批非全日制调剂复试名单",
+      "url": "https://sfs.shu.edu.cn/info/1141/21767.htm",
+      "date": "2024-04-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "MTI系列讲座（三十八）“一带一路”倡议与中国企业“走出去”",
+      "url": "https://sfs.shu.edu.cn/info/1148/21777.htm",
+      "date": "2024-04-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国语学院2024年第二批非全日制调剂复试名单",
+      "url": "https://sfs.shu.edu.cn/info/1141/21727.htm",
+      "date": "2024-04-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024年外国语学院非全日制日语笔译调剂工作办法（补充通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/21737.htm",
+      "date": "2024-04-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院2024年硕士研究生招生调剂工作办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/21647.htm",
+      "date": "2024-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院2024年硕士研究生招生复试方案",
+      "url": "https://sfs.shu.edu.cn/info/1141/21577.htm",
+      "date": "2024-03-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学外国语学院六届一次双代会决议",
+      "url": "https://sfs.shu.edu.cn/info/1141/21547.htm",
+      "date": "2024-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "“语言文化与世界文明”（一百二十二）新文科视角下国家社科基金项目申请与撰写",
+      "url": "https://sfs.shu.edu.cn/info/1148/21477.htm",
+      "date": "2024-03-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院尚新教授新著《对比语言学新发展研究》在清华大学出版社出版",
+      "url": "https://sfs.shu.edu.cn/info/1036/21237.htm",
+      "date": "2024-03-06",
+      "column": "学术研究"
+    },
+    {
+      "title": "【一号通知】中法建交60周年系列活动：文明的交流与对话——杜拉斯诞辰110周年学术研讨会",
+      "url": "https://sfs.shu.edu.cn/info/1141/21257.htm",
+      "date": "2024-03-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "【一号通知】中法建交60周年系列活动：文明的交流与对话——杜拉斯诞辰110周年学术研讨会",
+      "url": "https://sfs.shu.edu.cn/info/1148/21977.htm",
+      "date": "2024-03-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "采购流程、实务与风险防控",
+      "url": "https://sfs.shu.edu.cn/info/1148/21047.htm",
+      "date": "2024-01-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2023年上海大学外国专家项目：学术写作、学术报告与论文发表",
+      "url": "https://sfs.shu.edu.cn/info/1148/20997.htm",
+      "date": "2024-01-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2023年上海大学外国专家项目：会议口译员背后的那些事",
+      "url": "https://sfs.shu.edu.cn/info/1148/20937.htm",
+      "date": "2024-01-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2023年上海大学外国专家项目：公共服务口译及其研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/20887.htm",
+      "date": "2024-01-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2023年上海大学外国专家项目：会议口译员的笔记及其研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/20907.htm",
+      "date": "2024-01-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "关于成立2023年度上海大学外国语学院绩效考核工作领导小组的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/20767.htm",
+      "date": "2024-01-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "研究生学术英语写作策略：语步实现与语法表征",
+      "url": "https://sfs.shu.edu.cn/info/1148/20507.htm",
+      "date": "2023-12-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "加拿大麦吉尔大学（McGill University）Brendan S. Gillon教授语言学专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1141/20297.htm",
+      "date": "2023-11-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "加拿大麦吉尔大学（McGill University）Brendan S. Gillon教授语言学专题系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/20277.htm",
+      "date": "2023-11-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院关于首届全国大学生职业规划大赛校赛暨模拟求职和职业生涯规划大赛的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/20187.htm",
+      "date": "2023-11-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十七）语言技术赋能课程思政的探索与实践",
+      "url": "https://sfs.shu.edu.cn/info/1148/20167.htm",
+      "date": "2023-11-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "国际关系中“文化领导权”的转移",
+      "url": "https://sfs.shu.edu.cn/info/1148/20107.htm",
+      "date": "2023-11-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十六）俗手、本手、妙手：外语课程思政的酋长困境与创意赋能",
+      "url": "https://sfs.shu.edu.cn/info/1148/20017.htm",
+      "date": "2023-11-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院尚新教授当选国家一级学会中国英汉语比较研究会副会长",
+      "url": "https://sfs.shu.edu.cn/info/1036/19737.htm",
+      "date": "2023-10-24",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十五） 外语教师学术论文写作与项目申报暨《二外学报》宣传",
+      "url": "https://sfs.shu.edu.cn/info/1148/19627.htm",
+      "date": "2023-10-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”（一百零八）思想史研究方法论——以日本学者丸山真男与子安宣邦为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/19187.htm",
+      "date": "2023-09-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "喜报：我院再获2项国家社科基金一般项目、1项国家社科基金青年项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/19057.htm",
+      "date": "2023-09-12",
+      "column": "学术研究"
+    },
+    {
+      "title": "“语言文化与世界文明”（一百零五）中华文化在葡语国家的传播与交流",
+      "url": "https://sfs.shu.edu.cn/info/1148/18957.htm",
+      "date": "2023-09-05",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十四）全球视野下外语教师发展路径及国际传播",
+      "url": "https://sfs.shu.edu.cn/info/1148/18977.htm",
+      "date": "2023-09-05",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心圆桌会（一）教学那些事儿",
+      "url": "https://sfs.shu.edu.cn/info/1148/18206.htm",
+      "date": "2023-06-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "我院吴雁翔老师发表最新研究成果",
+      "url": "https://sfs.shu.edu.cn/info/1036/18166.htm",
+      "date": "2023-05-29",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（十二）《大亨正传》转喻人化之解",
+      "url": "https://sfs.shu.edu.cn/info/1148/18076.htm",
+      "date": "2023-05-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（一百）中国传统文化的域外再阐释——以夏含夷的易学研究为中心",
+      "url": "https://sfs.shu.edu.cn/info/1148/18006.htm",
+      "date": "2023-05-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（一百零一）汉学家是怎么讲中国故事的",
+      "url": "https://sfs.shu.edu.cn/info/1148/18026.htm",
+      "date": "2023-05-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（九十八）严复《美术通诠》底本和原著的发现",
+      "url": "https://sfs.shu.edu.cn/info/1148/17916.htm",
+      "date": "2023-05-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（九十九）我的读写人生",
+      "url": "https://sfs.shu.edu.cn/info/1148/18036.htm",
+      "date": "2023-05-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "方梦之先生和程倩文博士在《外国语》期刊 发表最新研究成果",
+      "url": "https://sfs.shu.edu.cn/info/1036/17166.htm",
+      "date": "2023-04-03",
+      "column": "学术研究"
+    },
+    {
+      "title": "我院四位老师发表最新研究成果",
+      "url": "https://sfs.shu.edu.cn/info/1036/16576.htm",
+      "date": "2023-03-22",
+      "column": "学术研究"
+    },
+    {
+      "title": "英语系龚萍老师喜获2022年度上海大学联合大作业项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/16376.htm",
+      "date": "2023-03-17",
+      "column": "学术研究"
+    },
+    {
+      "title": "朱巧莲副教授《高级口译》课程喜获2022年度上海高等学校一流本科课程认定",
+      "url": "https://sfs.shu.edu.cn/info/1036/15416.htm",
+      "date": "2023-02-02",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院赵彦春教授喜获2022年度国家社科基金重大项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/14905.htm",
+      "date": "2022-12-02",
+      "column": "学术研究"
+    },
+    {
+      "title": "2022年上海大学外国语学院第十四届学术节MTI专场议程",
+      "url": "https://sfs.shu.edu.cn/info/1141/14865.htm",
+      "date": "2022-11-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022 年上海大学外国语学院第十四届学术节外国文学研究专场议程",
+      "url": "https://sfs.shu.edu.cn/info/1141/14815.htm",
+      "date": "2022-11-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家社科基金中华学术外译项目申报经验分享",
+      "url": "https://sfs.shu.edu.cn/info/1148/14665.htm",
+      "date": "2022-11-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院尚新教授在国际顶级期刊Target发表最新研究成果",
+      "url": "https://sfs.shu.edu.cn/info/1036/14656.htm",
+      "date": "2022-11-11",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院2021-2022学年优生、优干、先进集体评选拟推荐名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/14657.htm",
+      "date": "2022-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "第四届全国大学生区域国别演讲大赛活动议程",
+      "url": "https://sfs.shu.edu.cn/info/1141/14632.htm",
+      "date": "2022-10-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "高校区域国别学人才培养与学科建设联盟第四届年会（2022）",
+      "url": "https://sfs.shu.edu.cn/info/1141/14636.htm",
+      "date": "2022-10-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2022年“蔡冠深优秀青年教师”评选工作的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/14631.htm",
+      "date": "2022-10-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院“十四五”发展规划研究“自强计划”课题申报指南",
+      "url": "https://sfs.shu.edu.cn/info/1141/14605.htm",
+      "date": "2022-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "纪念普鲁斯特国际研讨会暨法国文学高级研修班Colloque international et séminaire de formation sur Marcel Proust et littérature française（二号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/14597.htm",
+      "date": "2022-10-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "第四届全国大学生区域国别演讲大赛复赛通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/14595.htm",
+      "date": "2022-09-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "我院喜获两项国家社科基金项目、一项教育部人文社科项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/14592.htm",
+      "date": "2022-09-27",
+      "column": "学术研究"
+    },
+    {
+      "title": "纪念普鲁斯特国际研讨会暨法国文学高级研修班Séminaire de formation sur Marcel Proust et littérature française（一号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1141/14581.htm",
+      "date": "2022-09-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（九十一）一流课程建设理念与思路——以天外《语言学概论》课程建设为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/14385.htm",
+      "date": "2022-07-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（九十）毛泽东诗词的关键性翻译与传播",
+      "url": "https://sfs.shu.edu.cn/info/1148/16686.htm",
+      "date": "2022-07-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院张新玲教授团队翻译的《国际中文教育中文水平标准》英文版面向全球发布",
+      "url": "https://sfs.shu.edu.cn/info/1036/14482.htm",
+      "date": "2022-06-23",
+      "column": "学术研究"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（八十九）“双一流”与“新文科”背景下的外语学科建设：以法语语言文学教学研为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/16706.htm",
+      "date": "2022-06-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（二十三）翻译技术的应用",
+      "url": "https://sfs.shu.edu.cn/info/1148/14347.htm",
+      "date": "2022-06-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（二十二）全球语言服务业发展与复合型语言服务人才培养",
+      "url": "https://sfs.shu.edu.cn/info/1148/14326.htm",
+      "date": "2022-06-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语教育研究系列讲座（二十六）语用学视域下的语言能力思想：变化、特征与启示",
+      "url": "https://sfs.shu.edu.cn/info/1148/14296.htm",
+      "date": "2022-05-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语教育研究系列讲座（二十五）期刊论文发表与高校教师职业发展：投稿、回复及与主编交流方略谈",
+      "url": "https://sfs.shu.edu.cn/info/1148/14261.htm",
+      "date": "2022-05-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（八十八）新形势下中国国际传播能力建设",
+      "url": "https://sfs.shu.edu.cn/info/1148/14256.htm",
+      "date": "2022-05-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（八十七）疫情时期，人文学科的价值何在",
+      "url": "https://sfs.shu.edu.cn/info/1148/14233.htm",
+      "date": "2022-04-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（八十六）“鹿厅”与城堡：关于“社会性”的起源",
+      "url": "https://sfs.shu.edu.cn/info/1148/14208.htm",
+      "date": "2022-04-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "【会议通知】第三届话语研究前沿国际会议暨2022年中国话语研究机构联盟大会（一号通知）",
+      "url": "https://sfs.shu.edu.cn/info/1148/14154.htm",
+      "date": "2022-01-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2021年上海大学外国语学院第十三届学术艺术节闭幕式 语料库语言学的词汇搭配研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/14127.htm",
+      "date": "2021-12-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2021年上海大学外国语学院第十三届学术节闭幕式 驱动智慧教育变革的语言智能研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/14129.htm",
+      "date": "2021-12-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2021年外国语学院第十三届学术节闭幕式",
+      "url": "https://sfs.shu.edu.cn/info/1148/14131.htm",
+      "date": "2021-12-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2021年外国语学院第十三届学术节 暨中华文化走出去背景下的外语学科内涵建设系列活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/14069.htm",
+      "date": "2021-11-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（五）汉英被动式演变的异与同",
+      "url": "https://sfs.shu.edu.cn/info/1148/14071.htm",
+      "date": "2021-11-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语教育研究系列讲座（二十三）《科学主义语言学的方法论困境》",
+      "url": "https://sfs.shu.edu.cn/info/1148/14073.htm",
+      "date": "2021-11-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语教育研究系列讲座（二十二）《新文科建设与卓越外语人才培养》",
+      "url": "https://sfs.shu.edu.cn/info/1148/14056.htm",
+      "date": "2021-11-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（二十一）翻译实践、对外交流与传播",
+      "url": "https://sfs.shu.edu.cn/info/1148/14033.htm",
+      "date": "2021-11-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI 系列讲座（二十）华为口译",
+      "url": "https://sfs.shu.edu.cn/info/1148/14035.htm",
+      "date": "2021-11-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院教师教学发展中心讲座（四）谈谈新文科背景下的外语专业教学--以阅读教学和练习为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/14037.htm",
+      "date": "2021-11-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语与外语教学系列讲座（三）大学英语课程思政教学的思考与实践",
+      "url": "https://sfs.shu.edu.cn/info/1148/14039.htm",
+      "date": "2021-11-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语与外语教学系列讲座（二）国际化视域下的大学 英语课堂教学的本质",
+      "url": "https://sfs.shu.edu.cn/info/1148/14041.htm",
+      "date": "2021-11-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列讲座（八十四）基于外国语言文学学科的国别与区域研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/14019.htm",
+      "date": "2021-11-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（十九）翻译学研究与论文撰写",
+      "url": "https://sfs.shu.edu.cn/info/1148/14021.htm",
+      "date": "2021-11-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语与外语教学系列讲座（一） 历史上的细节很迷人-中国早期外语教材编者的认知探究",
+      "url": "https://sfs.shu.edu.cn/info/1148/14016.htm",
+      "date": "2021-11-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（十八）汉日语境下的计算机辅助翻译那些事",
+      "url": "https://sfs.shu.edu.cn/info/1148/14011.htm",
+      "date": "2021-11-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（十七) 汉英对比与翻译研究回顾与展望：兼谈翻硕实践报告的写作",
+      "url": "https://sfs.shu.edu.cn/info/1148/14009.htm",
+      "date": "2021-11-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<11月19日-21日>第九届全国应用翻译研讨改为线上举办",
+      "url": "https://sfs.shu.edu.cn/info/1148/13617.htm",
+      "date": "2021-11-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（八十三）法语专业学习方法与职业规划",
+      "url": "https://sfs.shu.edu.cn/info/1148/13993.htm",
+      "date": "2021-11-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "学院青年教师科研项目申报与论文发表",
+      "url": "https://sfs.shu.edu.cn/info/1148/13988.htm",
+      "date": "2021-11-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（七十九）波德莱尔诗歌的文学现代性",
+      "url": "https://sfs.shu.edu.cn/info/1148/13989.htm",
+      "date": "2021-11-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（八十一）玛格丽特·杜拉斯及其《情人》",
+      "url": "https://sfs.shu.edu.cn/info/1148/13990.htm",
+      "date": "2021-11-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（八十）少子老龄化社会：中日共同应对的路径",
+      "url": "https://sfs.shu.edu.cn/info/1148/13991.htm",
+      "date": "2021-11-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（八十二）上海城市集聚与海派文化特质",
+      "url": "https://sfs.shu.edu.cn/info/1148/13992.htm",
+      "date": "2021-11-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列（七十五）正本与清源--建党伟业中的翻译活动研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/13966.htm",
+      "date": "2021-10-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列（七十六）中国文化对外译介中的语言自信研究 从林语堂到十九大报告",
+      "url": "https://sfs.shu.edu.cn/info/1148/13967.htm",
+      "date": "2021-10-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "大学外语课程与大学外语教育评价改革",
+      "url": "https://sfs.shu.edu.cn/info/1148/13933.htm",
+      "date": "2021-10-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "第六届语言测试与评价国际研讨会 The Sixth International Conference on Language Testing and Assessment  (CALTA 2021)",
+      "url": "https://sfs.shu.edu.cn/info/1148/13935.htm",
+      "date": "2021-10-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "语言文化与世界文明系列（七十四）",
+      "url": "https://sfs.shu.edu.cn/info/1148/13938.htm",
+      "date": "2021-09-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（五）  口译过程及译员大脑活动“探秘”",
+      "url": "https://sfs.shu.edu.cn/info/1148/13939.htm",
+      "date": "2021-09-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "MTI系列讲座（四）  翻译中的“信、达、切”",
+      "url": "https://sfs.shu.edu.cn/info/1148/13940.htm",
+      "date": "2021-09-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”系列讲座（七十三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/13911.htm",
+      "date": "2021-09-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<9月28日>“语言文化与世界文明”系列讲座（七十三期）类脑语言智能的语言学视角",
+      "url": "https://sfs.shu.edu.cn/info/1148/13908.htm",
+      "date": "2021-09-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月25日-26日>首届“海洋文化与中华文明传承发展”学术研讨会",
+      "url": "https://sfs.shu.edu.cn/info/1148/13817.htm",
+      "date": "2021-06-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月25日>“语言文化与世界文明”系列讲座（七十） “个性化英语学习”课程文化建设中的思政融入",
+      "url": "https://sfs.shu.edu.cn/info/1148/13803.htm",
+      "date": "2021-06-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月24日>“语言文化与世界文明”系列讲座（六十九）外语教学与中国语言文化",
+      "url": "https://sfs.shu.edu.cn/info/1148/13811.htm",
+      "date": "2021-06-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月16日>军事文化和国防意识",
+      "url": "https://sfs.shu.edu.cn/info/1148/13792.htm",
+      "date": "2021-06-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月3日>MTI系列讲座（三）翻译工作规划&CATTI二笔备考",
+      "url": "https://sfs.shu.edu.cn/info/1148/13773.htm",
+      "date": "2021-06-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "献给孩子们的“六一”节日礼物——尚新教授的两部译作出版",
+      "url": "https://sfs.shu.edu.cn/info/1036/13732.htm",
+      "date": "2021-05-17",
+      "column": "学术研究"
+    },
+    {
+      "title": "<5月19日>文学前沿与世界文明专题讲坛系列（七）论中西方文学和艺术的关系：以法籍华裔作家程抱一为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/13728.htm",
+      "date": "2021-05-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<5月10日>“语言文化与世界文明”系列讲座（六十四）中国文学外译的事件性批评",
+      "url": "https://sfs.shu.edu.cn/info/1148/13703.htm",
+      "date": "2021-05-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<5月7日>“语言文化与世界文明”系列讲座（六十五）《在延安文艺座谈会上的讲话》书面口语体特征英译的语料库考察",
+      "url": "https://sfs.shu.edu.cn/info/1148/13713.htm",
+      "date": "2021-05-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月28日>Europe’s Becoming Archipelago",
+      "url": "https://sfs.shu.edu.cn/info/1148/13691.htm",
+      "date": "2021-04-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "张新玲教授受邀参加《国际中文教育中文水平等级标准》新书发布会暨国际学术研讨会并做论坛发言",
+      "url": "https://sfs.shu.edu.cn/info/1036/13687.htm",
+      "date": "2021-04-21",
+      "column": "学术研究"
+    },
+    {
+      "title": "<4月28日>寻找塞林格小说中隐蔽的“中国”",
+      "url": "https://sfs.shu.edu.cn/info/1148/13678.htm",
+      "date": "2021-04-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月23日>翻译经典中的党史",
+      "url": "https://sfs.shu.edu.cn/info/1148/13679.htm",
+      "date": "2021-04-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月23日>西南联大的人文关怀与教育理念",
+      "url": "https://sfs.shu.edu.cn/info/1148/13680.htm",
+      "date": "2021-04-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "赵彦春教授出席第二届传统文化翻译与国际传播学术研讨会并做主旨发言",
+      "url": "https://sfs.shu.edu.cn/info/1036/13673.htm",
+      "date": "2021-04-19",
+      "column": "学术研究"
+    },
+    {
+      "title": "尚新教授导读和注释的世界学术经典《思想录》（英文版）出版",
+      "url": "https://sfs.shu.edu.cn/info/1036/13671.htm",
+      "date": "2021-04-18",
+      "column": "学术研究"
+    },
+    {
+      "title": "<4月12日>Catharsis and its avatars: Artaud’s Plague Theatre",
+      "url": "https://sfs.shu.edu.cn/info/1148/13623.htm",
+      "date": "2021-04-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月9日>MTI系列讲座（一）翻译专业学位（MTI）学生毕业论文解构",
+      "url": "https://sfs.shu.edu.cn/info/1148/13634.htm",
+      "date": "2021-04-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "尚新教授翻译的《解析勒内•笛卡尔<第一哲学沉思录>》出版",
+      "url": "https://sfs.shu.edu.cn/info/1036/13621.htm",
+      "date": "2021-03-24",
+      "column": "学术研究"
+    },
+    {
+      "title": "<4月2日>人工智能（AI）在语言教学中的应用",
+      "url": "https://sfs.shu.edu.cn/info/1148/13615.htm",
+      "date": "2021-03-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<3月19日>“语言文化与世界文明”系列（六十一）战争抑或摩擦?——《纽约时报》和《中国日报》中美贸易争端新闻报道研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/13597.htm",
+      "date": "2021-03-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<3月24日>“语言文化与世界文明”系列（六十二）批评话语分析的跨学科创新发展",
+      "url": "https://sfs.shu.edu.cn/info/1148/13598.htm",
+      "date": "2021-03-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月2日>“语言文化与世界文明”系列（六十三）外国文学与国别区域的交叉研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/13599.htm",
+      "date": "2021-03-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2017-2020年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/13471.htm",
+      "date": "2021-01-19",
+      "column": "学术研究"
+    },
+    {
+      "title": "<1月14日>系统功能语言学与话语分析经典文献研读（第三期）作为交换的小句（Clause as Exchange）",
+      "url": "https://sfs.shu.edu.cn/info/1148/13435.htm",
+      "date": "2021-01-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<10月15日-17日>第六届语言测试与评价国际研讨会征文通知（一号）The Sixth International Conference on Language Testing and Assessment  Call for Papers",
+      "url": "https://sfs.shu.edu.cn/info/1148/13614.htm",
+      "date": "2021-01-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<12月31日>系统功能语言学与话语分析经典文献研读（第二期）作格分析法（The Ergative Model）",
+      "url": "https://sfs.shu.edu.cn/info/1148/13324.htm",
+      "date": "2020-12-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<12月24日>“语言文化与世界文明”系列（六十）立德树人  润物细无声：课程 思政 育人",
+      "url": "https://sfs.shu.edu.cn/info/1148/13305.htm",
+      "date": "2020-12-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<12月18日>冬日读诗：余秀华 Reading Yu’s Poems in a Winter Day",
+      "url": "https://sfs.shu.edu.cn/info/1148/13214.htm",
+      "date": "2020-12-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<12月17日>系统功能语言学与话语分析经典文献研读（第一期）概念元功能之及物性系统",
+      "url": "https://sfs.shu.edu.cn/info/1148/13272.htm",
+      "date": "2020-12-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院唐青叶教授获2020年度国家社科基金重大项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/13461.htm",
+      "date": "2020-12-07",
+      "column": "学术研究"
+    },
+    {
+      "title": "2021年春赴日本大阪市立大学交换留学选拔通过名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/13208.htm",
+      "date": "2020-12-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "申请2021年春赴日本大正大学交换留学选拔通过名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/13209.htm",
+      "date": "2020-11-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2019-2020学年上海大学外国语学院优秀学生、优秀学生干部和学生先进集体评选活动的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/13206.htm",
+      "date": "2020-11-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "<12月16日>基于慕课或SPOC的混合式一流课程建设实践分享——以《英语演讲艺术》为例",
+      "url": "https://sfs.shu.edu.cn/info/1148/13213.htm",
+      "date": "2020-11-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<12月10日>“语言文化与世界文明”系列（五十九）国家社科基金项目设计与申报",
+      "url": "https://sfs.shu.edu.cn/info/1148/13212.htm",
+      "date": "2020-11-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "日语系2021届本科生毕业论文工作安排",
+      "url": "https://sfs.shu.edu.cn/info/1141/13205.htm",
+      "date": "2020-11-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "英语系2021届本科生毕业论文工作安排",
+      "url": "https://sfs.shu.edu.cn/info/1141/13203.htm",
+      "date": "2020-11-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "<11月25日>“语言文化与世界文明”系列（五十五） 动态语音：外语教学的基础与核心",
+      "url": "https://sfs.shu.edu.cn/info/1148/13211.htm",
+      "date": "2020-11-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<11月19日>“语言文化与世界文明”系列（五十四）话语、元话语、评价",
+      "url": "https://sfs.shu.edu.cn/info/1148/13210.htm",
+      "date": "2020-11-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "香港大学2021年学术领导力线上学习项目通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/13160.htm",
+      "date": "2020-11-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "<11月12日> “语言文化与世界文明”系列（五十三）功能话语研究的理论与实践",
+      "url": "https://sfs.shu.edu.cn/info/1148/13123.htm",
+      "date": "2020-10-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<11月9日>红色经典萃译现象探究：国家翻译实践视角",
+      "url": "https://sfs.shu.edu.cn/info/1148/13161.htm",
+      "date": "2020-10-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6～8日中国修辞学会成立40周年学术研讨会暨2020年学术年会",
+      "url": "https://sfs.shu.edu.cn/info/1148/12742.htm",
+      "date": "2020-10-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<11月6日>“语言文化与世界文明”系列（五十一）反思现代性：吴宓新人文主义文化观的价值与局限说",
+      "url": "https://sfs.shu.edu.cn/info/1148/13106.htm",
+      "date": "2020-10-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<11月6日>“语言文化与世界文明”系列（五十二）批评话语分析的三个主要研究方法及其案例阐释",
+      "url": "https://sfs.shu.edu.cn/info/1148/13122.htm",
+      "date": "2020-10-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“语言文化与世界文明”专业博士学位论文答辩公告",
+      "url": "https://sfs.shu.edu.cn/info/1141/13073.htm",
+      "date": "2020-10-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "<10月29日>“学术英语写作”系列讲座（之一）新知识的创造是外语学术语言发展的必经之路",
+      "url": "https://sfs.shu.edu.cn/info/1148/13105.htm",
+      "date": "2020-10-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上大外院2021级推免生二次复试通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/13041.htm",
+      "date": "2020-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜报：我院戴朝晖和常志斌老师获得国家社科基金项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/13463.htm",
+      "date": "2020-10-09",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院2020-2021年人才招聘计划",
+      "url": "https://sfs.shu.edu.cn/info/1141/13011.htm",
+      "date": "2020-09-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "<9月28日>“湖畔诗社”（七）重读济慈 一起遇见心中的美好",
+      "url": "https://sfs.shu.edu.cn/info/1148/13003.htm",
+      "date": "2020-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院2021年硕士研究生推免复试方案",
+      "url": "https://sfs.shu.edu.cn/info/1141/12992.htm",
+      "date": "2020-09-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院2021年应届本科优秀毕业生推免研究生实施办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/12976.htm",
+      "date": "2020-09-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于取消2020年英语专四专八测试等通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/12611.htm",
+      "date": "2020-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院2020年博士研究生招生工作办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/12551.htm",
+      "date": "2020-06-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年市重点课程申报预通知",
+      "url": "http://www.jwc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=32043",
+      "date": "2020-06-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "2015-2019年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/12491.htm",
+      "date": "2020-05-28",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院2019-2020上海大学百优团员、五四红旗团支部拟推荐名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/12402.htm",
+      "date": "2020-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院2020年本科生优秀毕业生拟推荐名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/12361.htm",
+      "date": "2020-04-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "我院张新玲教授喜获新项目立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/13464.htm",
+      "date": "2020-04-23",
+      "column": "学术研究"
+    },
+    {
+      "title": "双喜临门：我院马利中教授和张珊珊老师分别获得2020年度“文化繁荣与社会发展” 决策咨询研究课题立项",
+      "url": "https://sfs.shu.edu.cn/info/1036/13465.htm",
+      "date": "2020-04-20",
+      "column": "学术研究"
+    },
+    {
+      "title": "2020年秋季赴大正大学等交换留学资料选拔通过名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/12298.htm",
+      "date": "2020-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018-2019学年外国语学院本科生校长奖学金推荐名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/12272.htm",
+      "date": "2020-04-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于推荐“泮池之师”师德典型人物的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/12271.htm",
+      "date": "2020-03-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "2020年英语专四专八考试延期考试通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/12102.htm",
+      "date": "2020-02-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "<10月11日>数据挖掘技术在语言文学研究中的应用",
+      "url": "https://sfs.shu.edu.cn/info/1148/11571.htm",
+      "date": "2019-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<10月22日>“语言文化与世界文明”系列（四十四）汉字之光",
+      "url": "https://sfs.shu.edu.cn/info/1148/11612.htm",
+      "date": "2019-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<10月10日>“语言文化与世界文明”系列（四十二）Plant Studies and Caribbean Literature: the Case Study of the Mangrove",
+      "url": "https://sfs.shu.edu.cn/info/1148/11562.htm",
+      "date": "2019-10-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<10月10日>结构分明，好文章的坚实基础（Outline, Solid Foundation of a Good Exposition）",
+      "url": "https://sfs.shu.edu.cn/info/1148/11563.htm",
+      "date": "2019-10-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<9月26日>好文章的方圆规矩（Rubric, specific criteria of a good academic writing）",
+      "url": "https://sfs.shu.edu.cn/info/1148/11511.htm",
+      "date": "2019-09-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<9月25日>“话语•文化•社会”湖畔沙龙第4期",
+      "url": "https://sfs.shu.edu.cn/info/1148/11476.htm",
+      "date": "2019-09-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2019修辞学国际工作坊（The 2019 International Rhetoric Workshop）",
+      "url": "https://sfs.shu.edu.cn/info/1148/11242.htm",
+      "date": "2019-07-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月27日>“语言文化与世界文明”系列（四十一）学术研究的路径与论文写作",
+      "url": "https://sfs.shu.edu.cn/info/1148/11198.htm",
+      "date": "2019-06-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月21日>“话语•文化•社会”湖畔沙龙第3期",
+      "url": "https://sfs.shu.edu.cn/info/1148/11173.htm",
+      "date": "2019-06-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<6月6日>“语言文化与世界文明”系列（三十六）大学英语改革的系统设计与实践",
+      "url": "https://sfs.shu.edu.cn/info/1148/10891.htm",
+      "date": "2019-06-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月19日>“语言文化与世界文明”系列（三十二、三十三）多模态话语分析理论与外语教学、多模态话语分析研究方法与学术论文写作",
+      "url": "https://sfs.shu.edu.cn/info/1148/10861.htm",
+      "date": "2019-04-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月19日>“话语•文化•社会”湖畔沙龙第1期",
+      "url": "https://sfs.shu.edu.cn/info/1148/10841.htm",
+      "date": "2019-04-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月19日>语言文化与世界文明系列讲座（三十二、三十三）：多模态话语分析理论与外语教学、多模态话语分析研究方法与学术论文写作",
+      "url": "https://sfs.shu.edu.cn/info/1148/10801.htm",
+      "date": "2019-03-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<3月24日>“海星讲坛”（四十讲）叩响职场之门",
+      "url": "https://sfs.shu.edu.cn/info/1148/10786.htm",
+      "date": "2019-03-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<4月17日>“语言文化与世界文明”系列（三十一）当代隐喻学在中国（2014-2018）—一项基于CSSCI外国语言学来源期刊的文献计量研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/10787.htm",
+      "date": "2019-03-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<3月24日>“海星讲坛”（四十一）学习全国两会精神，同心同向砥砺奋进",
+      "url": "https://sfs.shu.edu.cn/info/1148/10788.htm",
+      "date": "2019-03-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "<3月15日>“重建巴别塔”系列（三十五）儿童文学：一个特别的文学世界",
+      "url": "https://sfs.shu.edu.cn/info/1148/10720.htm",
+      "date": "2019-03-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月10日讲座：关于日语翻译实践和教学的思考",
+      "url": "https://sfs.shu.edu.cn/info/1148/10401.htm",
+      "date": "2019-01-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月25日外语教育研究系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/10315.htm",
+      "date": "2018-12-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月21日学院第十届学术节闭幕式",
+      "url": "https://sfs.shu.edu.cn/info/1148/10314.htm",
+      "date": "2018-12-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月21日“外语教育研究”系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/10313.htm",
+      "date": "2018-12-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月20日语言文化与世界文明系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/10312.htm",
+      "date": "2018-12-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月7日外国语学院“语言文化与世界文明”系列讲座第（二十九）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/10311.htm",
+      "date": "2018-12-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月25日外国语学院“海星讲坛”系列讲座第（三十七）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1860.htm",
+      "date": "2018-11-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月20日外国语学院“语言文化与世界文明”系列讲座第（二十八）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1857.htm",
+      "date": "2018-10-31",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月8日外国语学院“海星讲坛”系列讲座第（三十六）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1854.htm",
+      "date": "2018-10-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月8日外国语学院“语言文化与世界文明”系列讲座第（二十七）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1851.htm",
+      "date": "2018-10-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月17日外国语学院“语言文化与世界文明”系列讲座第（二十六）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1848.htm",
+      "date": "2018-10-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月11日外国语学院“重建巴别塔”系列第（三十四）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1844.htm",
+      "date": "2018-09-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月21日外国语学院“重建巴别塔”系列第（三十三）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1841.htm",
+      "date": "2018-09-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月10日海星讲坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1803.htm",
+      "date": "2017-12-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月8日英语文学文化研究中心沙龙",
+      "url": "https://sfs.shu.edu.cn/info/1148/1797.htm",
+      "date": "2017-12-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月8日“语言文化与世界文明”系列讲座第（十八）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1800.htm",
+      "date": "2017-12-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月24日“语言文化与世界文明”系列讲座第（十七）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1793.htm",
+      "date": "2017-11-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月14日外国语学院“重建巴别塔”系列第（三十一）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1790.htm",
+      "date": "2017-11-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月10日外国语学院博士论文开题报告答辩会",
+      "url": "https://sfs.shu.edu.cn/info/1148/1788.htm",
+      "date": "2017-10-31",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日外国语学院“语言文化与世界文明”系列第（十六）讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1785.htm",
+      "date": "2017-10-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月20日外语教育研究系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1781.htm",
+      "date": "2017-10-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月20日“语言文化与世界文明”系列讲座（十五）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1778.htm",
+      "date": "2017-10-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月13日专家咨询会预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1775.htm",
+      "date": "2017-09-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月13日日语学术讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1769.htm",
+      "date": "2017-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月13日语言文化与世界文明系列讲座（十四）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1773.htm",
+      "date": "2017-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月11日学术讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1765.htm",
+      "date": "2017-09-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月29日外国语学院“重建巴别塔”系列讲坛（二十九）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1762.htm",
+      "date": "2017-09-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月22日外国语学院“重建巴别塔”系列讲坛（三十）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1759.htm",
+      "date": "2017-09-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2016年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4842.htm",
+      "date": "2017-06-29",
+      "column": "学术研究"
+    },
+    {
+      "title": "6月29日专家咨询会预告（一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1753.htm",
+      "date": "2017-06-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月29日专家咨询会预告（二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1756.htm",
+      "date": "2017-06-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月19日国际化小学期系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1747.htm",
+      "date": "2017-05-31",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月21日国际化小学期系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1750.htm",
+      "date": "2017-05-31",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月7日外国语学院“重建巴别塔”系列讲坛（二十八）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1744.htm",
+      "date": "2017-05-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月26日英语文学文化研究中心讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1741.htm",
+      "date": "2017-05-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月24日外国语学院海星讲坛（十一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1738.htm",
+      "date": "2017-05-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月23日外国语学院海星讲坛（十三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1735.htm",
+      "date": "2017-05-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月17日外国语学院海星讲坛（十二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1729.htm",
+      "date": "2017-05-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月19日语言文化与世界文明系列讲座（八）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1732.htm",
+      "date": "2017-05-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月5日外国语学院“重建巴别塔”教授系列讲坛（二十七）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1726.htm",
+      "date": "2017-04-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月28日语言文化与世界文明系列讲座（七）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1723.htm",
+      "date": "2017-04-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月23日首届全国“一带一路”跨文化沟通高峰论坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1720.htm",
+      "date": "2017-04-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月21日语言文化与世界文明系列讲座（六）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1717.htm",
+      "date": "2017-04-05",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2017年院级课程建设及教改项目立项名单",
+      "url": "https://sfs.shu.edu.cn/info/1036/4841.htm",
+      "date": "2017-03-30",
+      "column": "学术研究"
+    },
+    {
+      "title": "4月14日青年博士系列讲坛（三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1711.htm",
+      "date": "2017-03-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月31日第九届学术节开幕讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1708.htm",
+      "date": "2017-03-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月26日海星讲坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1705.htm",
+      "date": "2017-03-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月24日日语专业讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1702.htm",
+      "date": "2017-02-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月17日“语言文化与世界文明”系列讲座（五）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1699.htm",
+      "date": "2017-02-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月9日通俗文学研究中心学术讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1695.htm",
+      "date": "2017-02-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月3日外语教育系列讲座之十三",
+      "url": "https://sfs.shu.edu.cn/info/1148/1693.htm",
+      "date": "2017-02-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2月24日“语言文化与世界文明”系列讲座（四）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1688.htm",
+      "date": "2017-02-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2月23日\"外国语学院重建巴别塔“青年博士系列讲坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1676.htm",
+      "date": "2017-02-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2月20日英语辩论技巧讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1673.htm",
+      "date": "2017-02-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月22日外语教育研究中心讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1667.htm",
+      "date": "2016-12-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月23日外语教育研究系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1670.htm",
+      "date": "2016-12-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月2日第八届学术节青年教师学术论坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1664.htm",
+      "date": "2016-11-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月11日外语教育研究中心讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1658.htm",
+      "date": "2016-11-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月8日“外国语学院重建巴别塔”教授系列讲坛（二十六）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1656.htm",
+      "date": "2016-10-31",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月4日\"外国语学院重建巴别塔“教授系列讲坛（二十五）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1651.htm",
+      "date": "2016-10-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月2日中国语言文化系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1650.htm",
+      "date": "2016-10-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月26日、11月2日中国语言文化系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1647.htm",
+      "date": "2016-10-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月21日外语教育研究中心学术讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1644.htm",
+      "date": "2016-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月14～28日“海星计划：职场导航”活动预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1641.htm",
+      "date": "2016-10-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月14日外语教育研究中心讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1637.htm",
+      "date": "2016-10-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月12、19日中国语言文化系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1635.htm",
+      "date": "2016-10-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月8、12日中国语言文化系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1632.htm",
+      "date": "2016-09-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月18～23日自强教授Timothy Duff 系列讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1628.htm",
+      "date": "2016-09-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月20日“外国语学院重建巴别塔”系列讲座（二十二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1620.htm",
+      "date": "2016-05-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月22日“外国语学院重建巴别塔”系列讲座（二十三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1622.htm",
+      "date": "2016-05-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月24日“外国语学院重建巴别塔”系列讲座（二十四）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1625.htm",
+      "date": "2016-05-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月15日“语言文化与世界文明”系列讲座（三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1618.htm",
+      "date": "2016-05-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月3日“外国语学院重建巴别塔”系列讲座（二十一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1617.htm",
+      "date": "2016-05-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2014年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4839.htm",
+      "date": "2016-05-18",
+      "column": "学术研究"
+    },
+    {
+      "title": "2015年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4840.htm",
+      "date": "2016-05-18",
+      "column": "学术研究"
+    },
+    {
+      "title": "5月27日“外语教育”系列讲座之六、七",
+      "url": "https://sfs.shu.edu.cn/info/1148/1616.htm",
+      "date": "2016-05-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月20日“语言文化与世界文明”系列讲座（二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1611.htm",
+      "date": "2016-05-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月23日“外国语学院重建巴别塔”系列讲座（二十）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1614.htm",
+      "date": "2016-05-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月13日“外语教育”系列讲座之五",
+      "url": "https://sfs.shu.edu.cn/info/1148/1607.htm",
+      "date": "2016-04-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月14～22日“海星计划：职场导航”活动预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1605.htm",
+      "date": "2016-04-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月15日“语言文化与世界文明”系列讲座（一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1602.htm",
+      "date": "2016-04-05",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月8日外语教育系列讲座之四",
+      "url": "https://sfs.shu.edu.cn/info/1148/1599.htm",
+      "date": "2016-03-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月7日讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1596.htm",
+      "date": "2016-03-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月1日外语教育系列讲座之三",
+      "url": "https://sfs.shu.edu.cn/info/1148/1592.htm",
+      "date": "2016-03-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月20日海星讲坛（一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1586.htm",
+      "date": "2016-03-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月25日教授系列讲座（十八）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1590.htm",
+      "date": "2016-03-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月16日教授系列讲座（十九）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1583.htm",
+      "date": "2016-03-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月13日张爱平教授讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1580.htm",
+      "date": "2016-01-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月9日研讨会预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1577.htm",
+      "date": "2015-12-31",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新1月8日教授系列讲座（十七）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1574.htm",
+      "date": "2015-12-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月29日教授系列讲座（十六）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1571.htm",
+      "date": "2015-12-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月18日研讨会预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1568.htm",
+      "date": "2015-12-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月16日教授系列讲座（十五）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1566.htm",
+      "date": "2015-12-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月11日教授系列讲座（十四）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1562.htm",
+      "date": "2015-12-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月4日教授系列讲座（十三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1558.htm",
+      "date": "2015-12-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月27日教授系列讲座（十二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1555.htm",
+      "date": "2015-11-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月27日学术节外语教育研究中心工作坊",
+      "url": "https://sfs.shu.edu.cn/info/1148/1552.htm",
+      "date": "2015-11-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月22日学工办讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1550.htm",
+      "date": "2015-11-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月13日学术节青年教师学术论坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1547.htm",
+      "date": "2015-10-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日学术节吴攸讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1534.htm",
+      "date": "2015-10-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日学术节朱音尔讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1537.htm",
+      "date": "2015-10-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日学术节张颖讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1541.htm",
+      "date": "2015-10-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日学术节俞理明教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1527.htm",
+      "date": "2015-10-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日学术节胡范铸教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1530.htm",
+      "date": "2015-10-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月6日学术节查明建教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1531.htm",
+      "date": "2015-10-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月30日教授系列讲座（十一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1523.htm",
+      "date": "2015-10-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月23日教授系列讲座（九）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1516.htm",
+      "date": "2015-10-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月30日教授系列讲座（十）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1518.htm",
+      "date": "2015-10-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月6日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1511.htm",
+      "date": "2015-09-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月24～26日莎士比亚文学系列讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1508.htm",
+      "date": "2015-06-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月15日修辞批评研究中心沙龙活动预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1505.htm",
+      "date": "2015-06-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月12日语言学学术沙龙活动预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1502.htm",
+      "date": "2015-06-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月22日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1499.htm",
+      "date": "2015-05-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月18日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1487.htm",
+      "date": "2015-04-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月17日自强教授系列讲座（二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1489.htm",
+      "date": "2015-04-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月10～24日就业指导系列讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1492.htm",
+      "date": "2015-04-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新4月10日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1484.htm",
+      "date": "2015-03-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月16日青年教师学术论坛（二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1481.htm",
+      "date": "2014-12-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "修改1月9日青年教师学术论坛（一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1475.htm",
+      "date": "2014-12-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月11日通俗文学研究中心学术沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1478.htm",
+      "date": "2014-12-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月29日德育沙龙第十一讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1472.htm",
+      "date": "2014-12-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月26日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1469.htm",
+      "date": "2014-12-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月23日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1466.htm",
+      "date": "2014-12-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月19日学术节叶兴国教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1454.htm",
+      "date": "2014-12-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月19日学术节陈雷教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1457.htm",
+      "date": "2014-12-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月19日学术节金立鑫教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1460.htm",
+      "date": "2014-12-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月15日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1450.htm",
+      "date": "2014-12-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月12日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1446.htm",
+      "date": "2014-12-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月18日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1443.htm",
+      "date": "2014-11-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月10日德育沙龙第十讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1441.htm",
+      "date": "2014-11-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月3日德育沙龙第九讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1437.htm",
+      "date": "2014-10-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月28日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1434.htm",
+      "date": "2014-10-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月24日学工办讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1433.htm",
+      "date": "2014-10-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月22日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1428.htm",
+      "date": "2014-10-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2014年度立项项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4837.htm",
+      "date": "2014-10-10",
+      "column": "学术研究"
+    },
+    {
+      "title": "张建琴副教授",
+      "url": "https://sfs.shu.edu.cn/info/1161/6036.htm",
+      "date": "2014-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月17日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1426.htm",
+      "date": "2014-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月9日通俗文学研究中心讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1423.htm",
+      "date": "2014-09-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月15日德育沙龙第八讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1420.htm",
+      "date": "2014-09-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月23日修辞批评研究中心学术沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1405.htm",
+      "date": "2014-06-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月20日上海大学第二届国际教育论坛•分论坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1398.htm",
+      "date": "2014-06-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月13日德育沙龙第七讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1395.htm",
+      "date": "2014-06-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月9日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1392.htm",
+      "date": "2014-05-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月29日德育沙龙第六讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1389.htm",
+      "date": "2014-05-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月16日青年教师学术论坛（二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1386.htm",
+      "date": "2014-04-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月9日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1383.htm",
+      "date": "2014-04-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月9日青年教师学术论坛（一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1372.htm",
+      "date": "2014-04-23",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月8日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1369.htm",
+      "date": "2014-04-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月18～20日全国应用翻译高层论坛",
+      "url": "https://sfs.shu.edu.cn/info/1148/1364.htm",
+      "date": "2014-04-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2013年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4835.htm",
+      "date": "2014-03-15",
+      "column": "学术研究"
+    },
+    {
+      "title": "2012年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4834.htm",
+      "date": "2014-03-14",
+      "column": "学术研究"
+    },
+    {
+      "title": "2011年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4831.htm",
+      "date": "2014-03-13",
+      "column": "学术研究"
+    },
+    {
+      "title": "2010年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4830.htm",
+      "date": "2014-03-12",
+      "column": "学术研究"
+    },
+    {
+      "title": "2008年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4825.htm",
+      "date": "2014-03-11",
+      "column": "学术研究"
+    },
+    {
+      "title": "2009年度科研项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/4827.htm",
+      "date": "2014-03-11",
+      "column": "学术研究"
+    },
+    {
+      "title": "3月28日教授系列讲座（八）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1362.htm",
+      "date": "2014-03-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "3月17日理学院讲座共享",
+      "url": "https://sfs.shu.edu.cn/info/1148/1358.htm",
+      "date": "2014-02-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2月20日通俗文学研究中心讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1355.htm",
+      "date": "2014-01-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月6日德育沙龙第五讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1352.htm",
+      "date": "2014-01-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月3日修辞批评研究中心研讨会通知",
+      "url": "https://sfs.shu.edu.cn/info/1148/1350.htm",
+      "date": "2013-12-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月27日学术节王振华教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1342.htm",
+      "date": "2013-12-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月27日学术节顾力行教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1344.htm",
+      "date": "2013-12-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月27日学术节林少华教授讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1347.htm",
+      "date": "2013-12-26",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月20日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1335.htm",
+      "date": "2013-12-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月13日上午外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1332.htm",
+      "date": "2013-12-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月13日下午外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1328.htm",
+      "date": "2013-10-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月6日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1325.htm",
+      "date": "2013-10-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月29日教授系列讲座（七）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1321.htm",
+      "date": "2013-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月4日德育沙龙第四讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1323.htm",
+      "date": "2013-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月26日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1320.htm",
+      "date": "2013-10-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月8日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1318.htm",
+      "date": "2013-10-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月22日教授系列讲座（六）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1319.htm",
+      "date": "2013-10-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月29日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1316.htm",
+      "date": "2013-10-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月7日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1317.htm",
+      "date": "2013-10-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月25日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1315.htm",
+      "date": "2013-09-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月23日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1313.htm",
+      "date": "2013-09-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月24日德育沙龙第三讲",
+      "url": "https://sfs.shu.edu.cn/info/1148/1314.htm",
+      "date": "2013-09-29",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月18日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1311.htm",
+      "date": "2013-09-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月17日教授系列讲座（五）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1310.htm",
+      "date": "2013-09-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月11日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1309.htm",
+      "date": "2013-09-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月30日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1308.htm",
+      "date": "2013-06-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月26日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1307.htm",
+      "date": "2013-06-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月25日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1306.htm",
+      "date": "2013-06-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "6月夏季学期外教讲座信息",
+      "url": "https://sfs.shu.edu.cn/info/1148/1305.htm",
+      "date": "2013-06-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月24日教授系列讲座（四）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1303.htm",
+      "date": "2013-05-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月24日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1304.htm",
+      "date": "2013-05-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新5月23日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1302.htm",
+      "date": "2013-05-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院校友分会（筹）通告",
+      "url": "https://sfs.shu.edu.cn/info/1141/10671.htm",
+      "date": "2013-05-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "5月17日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1300.htm",
+      "date": "2013-05-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "5月10日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1299.htm",
+      "date": "2013-04-27",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新4月26日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1297.htm",
+      "date": "2013-04-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月23日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1298.htm",
+      "date": "2013-04-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月19日教授系列讲座（三）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1296.htm",
+      "date": "2013-04-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月13、14日全国大学英语教学研讨会预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1293.htm",
+      "date": "2013-04-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月15日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1294.htm",
+      "date": "2013-04-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月18日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1295.htm",
+      "date": "2013-04-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月12日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1291.htm",
+      "date": "2013-04-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "4月7日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1292.htm",
+      "date": "2013-04-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院公章使用规定",
+      "url": "https://sfs.shu.edu.cn/info/1141/10675.htm",
+      "date": "2013-03-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "3月29日教授系列讲座（二）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1290.htm",
+      "date": "2013-03-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "重建巴别塔第二季招募通知—上海大学外国语学院新生体验计划",
+      "url": "https://sfs.shu.edu.cn/info/1141/10676.htm",
+      "date": "2013-03-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "2月26日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1287.htm",
+      "date": "2013-02-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2月27日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1288.htm",
+      "date": "2013-02-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2月28日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1289.htm",
+      "date": "2013-02-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月15日教授系列讲座（一）",
+      "url": "https://sfs.shu.edu.cn/info/1148/1285.htm",
+      "date": "2013-01-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "1月15日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1286.htm",
+      "date": "2013-01-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院2012年度优秀教学奖名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10677.htm",
+      "date": "2013-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "1月11日跨文化研究的跨学科协作与发展研讨会",
+      "url": "https://sfs.shu.edu.cn/info/1148/1284.htm",
+      "date": "2013-01-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "“重建巴别塔”——教授讲座计划",
+      "url": "https://sfs.shu.edu.cn/info/1148/1283.htm",
+      "date": "2012-12-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "精品课程和重点课程立项公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10678.htm",
+      "date": "2012-12-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "1月10日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1281.htm",
+      "date": "2012-12-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新1月4日为11日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1282.htm",
+      "date": "2012-12-14",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新12月28日第四届学术节分论坛沙龙预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1279.htm",
+      "date": "2012-12-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新12月14日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1278.htm",
+      "date": "2012-12-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "12月14日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1277.htm",
+      "date": "2012-11-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "更新12月12日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1276.htm",
+      "date": "2012-11-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月9日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1275.htm",
+      "date": "2012-10-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2013年免试攻读硕士研究生复试结果公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10681.htm",
+      "date": "2012-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "10月19日外国语学院讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1274.htm",
+      "date": "2012-10-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月16日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1273.htm",
+      "date": "2012-10-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学优青项目推荐结果公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10690.htm",
+      "date": "2012-08-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "2012年处级后备干部推荐名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10691.htm",
+      "date": "2012-07-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院产学研践习计划推荐名单公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10692.htm",
+      "date": "2012-07-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于考试期间的工作职责和违纪处理程序的规定",
+      "url": "https://sfs.shu.edu.cn/info/1141/10694.htm",
+      "date": "2012-06-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "重点通识课公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10695.htm",
+      "date": "2012-04-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "12年硕士研究生复试结果公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10696.htm",
+      "date": "2012-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "“当代中国新话语”国际学术研讨会通知",
+      "url": "https://sfs.shu.edu.cn/info/1148/1189.htm",
+      "date": "2011-11-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海大学外国语学院招聘信息",
+      "url": "https://sfs.shu.edu.cn/info/1141/10700.htm",
+      "date": "2011-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "11月4日文学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1187.htm",
+      "date": "2011-10-24",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月28日应用语言学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1185.htm",
+      "date": "2011-10-17",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月21日“日本食品安全与企业责任”讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1183.htm",
+      "date": "2011-10-16",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月14日外国语言学及应用语言学沙龙",
+      "url": "https://sfs.shu.edu.cn/info/1148/1179.htm",
+      "date": "2011-10-12",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "我院推荐参评2011年度上海大学精品课程的公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10702.htm",
+      "date": "2011-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "10月14日跨文化沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1177.htm",
+      "date": "2011-10-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "英语短剧大赛报名通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/10704.htm",
+      "date": "2011-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "9月30日理论语言学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1169.htm",
+      "date": "2011-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月28日“社会表演与莎士比亚等剧作家的经典作品”讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1171.htm",
+      "date": "2011-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月14日翻译沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1173.htm",
+      "date": "2011-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "10月14日外国语学院第三届学术节系列学术讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/1175.htm",
+      "date": "2011-09-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2011年5月6日泮池读书俱乐部活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1130.htm",
+      "date": "2011-05-02",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "The Anxious Interior——外国语学院讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1127.htm",
+      "date": "2011-04-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "我与企业零距离（一）——外国语学院讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1126.htm",
+      "date": "2011-04-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2011年4月15日理论语言学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1123.htm",
+      "date": "2011-04-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "国际饮食文化交流的内容及意义——外国语学院讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1120.htm",
+      "date": "2011-04-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "翻译职场与MTI教育——外国语学院讲座",
+      "url": "https://sfs.shu.edu.cn/info/1148/1122.htm",
+      "date": "2011-04-11",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2011年4月8日文学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1118.htm",
+      "date": "2011-04-06",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "第四届全国应用翻译研讨会—外国语学院",
+      "url": "https://sfs.shu.edu.cn/info/1148/1116.htm",
+      "date": "2011-03-28",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2010年12月24日跨文化交际沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1114.htm",
+      "date": "2010-12-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2010年12月10日理论语言学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1112.htm",
+      "date": "2010-12-01",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2011年外国语学院免试攻读研究生复试结果公示",
+      "url": "https://sfs.shu.edu.cn/info/1141/10705.htm",
+      "date": "2010-10-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "外语自主学习中心开放通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/10706.htm",
+      "date": "2009-10-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "2009年5月15日应用语言学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1071.htm",
+      "date": "2009-05-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2009年5月7日理论语言学沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1069.htm",
+      "date": "2009-05-04",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "2009年5月8日翻译沙龙活动",
+      "url": "https://sfs.shu.edu.cn/info/1148/1067.htm",
+      "date": "2009-04-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院青年教师教学竞赛获奖名单",
+      "url": "https://sfs.shu.edu.cn/info/1141/10707.htm",
+      "date": "2009-04-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院讲座（47）——用人单位眼中的合适员工",
+      "url": "https://sfs.shu.edu.cn/info/1148/1065.htm",
+      "date": "2009-04-20",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（46）——庞德与中国",
+      "url": "https://sfs.shu.edu.cn/info/1148/1063.htm",
+      "date": "2009-03-30",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外语学院讲座(45)—我国高校商务英语专业的发展与…",
+      "url": "https://sfs.shu.edu.cn/info/1148/1061.htm",
+      "date": "2009-03-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "坚持科学发展 培养高质量外语人才(2)",
+      "url": "https://sfs.shu.edu.cn/info/1141/10708.htm",
+      "date": "2009-02-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "坚持科学发展 培养高质量外语人才(1)",
+      "url": "https://sfs.shu.edu.cn/info/1141/10709.htm",
+      "date": "2009-01-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院讲座（44）——Language and Ideology",
+      "url": "https://sfs.shu.edu.cn/info/1148/1059.htm",
+      "date": "2008-12-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座(43)——外语教学研究方法及论文撰写",
+      "url": "https://sfs.shu.edu.cn/info/1148/1057.htm",
+      "date": "2008-11-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（42）——语用学中的语境",
+      "url": "https://sfs.shu.edu.cn/info/1148/1056.htm",
+      "date": "2008-10-21",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（41）——理论?文学批评?常识",
+      "url": "https://sfs.shu.edu.cn/info/1148/1054.htm",
+      "date": "2008-10-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（40）——语言学方法论",
+      "url": "https://sfs.shu.edu.cn/info/1148/1052.htm",
+      "date": "2008-10-08",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（39）——德意志文化与跨文化交流",
+      "url": "https://sfs.shu.edu.cn/info/1148/1050.htm",
+      "date": "2008-05-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（38）——译者的风格和译者的修养",
+      "url": "https://sfs.shu.edu.cn/info/1148/1048.htm",
+      "date": "2008-05-13",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院东方讲坛系列讲座报道",
+      "url": "https://sfs.shu.edu.cn/info/1148/1046.htm",
+      "date": "2008-05-09",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（37）——中日关系展望",
+      "url": "https://sfs.shu.edu.cn/info/1148/1042.htm",
+      "date": "2008-04-10",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "关于重申考试监考纪律的规定",
+      "url": "https://sfs.shu.edu.cn/info/1141/10711.htm",
+      "date": "2008-03-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院讲座（36）——马克·吐温生平和作品",
+      "url": "https://sfs.shu.edu.cn/info/1148/1039.htm",
+      "date": "2008-03-19",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座(34)——现代汉语语言运用范式的研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/1033.htm",
+      "date": "2008-03-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（35）——语用定律",
+      "url": "https://sfs.shu.edu.cn/info/1148/1037.htm",
+      "date": "2008-03-18",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（33）——英美文学学术研究的理路",
+      "url": "https://sfs.shu.edu.cn/info/1148/1030.htm",
+      "date": "2008-01-07",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "复旦大学张冲教授应邀为外国语学院作学术报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/7503.htm",
+      "date": "2007-12-12",
+      "column": "学院新闻"
+    },
+    {
+      "title": "北大陆俭明、马真教授为外国语学院作学术报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/7505.htm",
+      "date": "2007-12-12",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院讲座（30）——精彩语言学系列",
+      "url": "https://sfs.shu.edu.cn/info/1148/1023.htm",
+      "date": "2007-12-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院讲座（31）——反思科学“进步”",
+      "url": "https://sfs.shu.edu.cn/info/1148/1027.htm",
+      "date": "2007-12-03",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "华东师大何刚教授应邀来到外国语学院作学术讲座",
+      "url": "https://sfs.shu.edu.cn/info/1142/7501.htm",
+      "date": "2007-11-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院讲座（29）——尼采式转折：悲剧之力",
+      "url": "https://sfs.shu.edu.cn/info/1148/1020.htm",
+      "date": "2007-11-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "11月2日学术讲座：英语的源与流",
+      "url": "https://sfs.shu.edu.cn/info/1148/1018.htm",
+      "date": "2007-10-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "朱瑾同学获CCTV杯英语演讲赛（上海賽区）一等奖",
+      "url": "https://sfs.shu.edu.cn/info/1142/7499.htm",
+      "date": "2007-10-16",
+      "column": "学院新闻"
+    },
+    {
+      "title": "日本作家村上龙与读者交流会近日在沪举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/7497.htm",
+      "date": "2007-04-29",
+      "column": "学院新闻"
+    },
+    {
+      "title": "叶志明副校长与外国语学院干部教师共商教学改革",
+      "url": "https://sfs.shu.edu.cn/info/1142/7496.htm",
+      "date": "2007-04-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "英语专业在教育部本科教学评估中喜获优秀",
+      "url": "https://sfs.shu.edu.cn/info/1142/7493.htm",
+      "date": "2007-04-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "英语系举行了专家咨询座谈会",
+      "url": "https://sfs.shu.edu.cn/info/1142/7491.htm",
+      "date": "2007-02-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "厦门大学杨信彰教授做客外国语学院举行专题学术报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/7489.htm",
+      "date": "2006-12-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院精心组织学科建设大讨论",
+      "url": "https://sfs.shu.edu.cn/info/1142/7487.htm",
+      "date": "2006-11-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "徐琳君同学荣获上海市大学生日语演讲比赛大奖",
+      "url": "https://sfs.shu.edu.cn/info/1142/7485.htm",
+      "date": "2006-11-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "杨尚烨在“21世纪·联想杯”英语演讲比赛中荣膺季军",
+      "url": "https://sfs.shu.edu.cn/info/1142/7483.htm",
+      "date": "2006-11-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "日语系胡靖同学荣获日语演讲比赛大奖",
+      "url": "https://sfs.shu.edu.cn/info/1142/7481.htm",
+      "date": "2006-10-19",
+      "column": "学院新闻"
+    },
+    {
+      "title": "聂珍钊教授来外国语学院作学术报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/7479.htm",
+      "date": "2006-09-26",
+      "column": "学院新闻"
+    },
+    {
+      "title": "9月22日学术报告：开题报告写作/转喻研究",
+      "url": "https://sfs.shu.edu.cn/info/1148/1014.htm",
+      "date": "2006-09-22",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "上海市教委本科专业教育高地项目检查组来我院检查",
+      "url": "https://sfs.shu.edu.cn/info/1142/7473.htm",
+      "date": "2006-09-20",
+      "column": "学院新闻"
+    },
+    {
+      "title": "陈国明教授做客外国语学院举行专题学术报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/7475.htm",
+      "date": "2006-09-20",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学第五届英语演讲比赛圆满落幕",
+      "url": "https://sfs.shu.edu.cn/info/1142/7477.htm",
+      "date": "2006-09-20",
+      "column": "学院新闻"
+    },
+    {
+      "title": "9月19日学术报告：Research Method",
+      "url": "https://sfs.shu.edu.cn/info/1148/1009.htm",
+      "date": "2006-09-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月22日学术报告：英国诗歌的韵律及举例分析",
+      "url": "https://sfs.shu.edu.cn/info/1148/1011.htm",
+      "date": "2006-09-15",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "外国语学院喜获1项国家社科项目",
+      "url": "https://sfs.shu.edu.cn/info/1142/7471.htm",
+      "date": "2006-06-15",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海外国语大学博士生导师梅德明教授来我校讲学",
+      "url": "https://sfs.shu.edu.cn/info/1142/7469.htm",
+      "date": "2006-06-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "跨文化交际国际学术研讨会在上海大学举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/7456.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外语学院客座教授授聘仪式",
+      "url": "https://sfs.shu.edu.cn/info/1142/7457.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "著名语言学家周流溪教授来外国语学院讲学",
+      "url": "https://sfs.shu.edu.cn/info/1142/7459.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "《上海翻译》编辑部召开创刊 20 周年读者座谈会",
+      "url": "https://sfs.shu.edu.cn/info/1142/7461.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "北京大学程朝翔教授来我校作报告",
+      "url": "https://sfs.shu.edu.cn/info/1142/7463.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "“构建和谐社会的良好人口城市环境”研讨会举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/7465.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院跨文化交际研究新闻报道",
+      "url": "https://sfs.shu.edu.cn/info/1142/7467.htm",
+      "date": "2006-05-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "学术报告：Becoming an American Businessman",
+      "url": "https://sfs.shu.edu.cn/info/1148/1007.htm",
+      "date": "2005-09-25",
+      "column": "学术活动预告"
+    },
+    {
+      "title": "9月22日学术报告：American Folk Tales",
+      "url": "https://sfs.shu.edu.cn/info/1148/1006.htm",
+      "date": "2005-09-12",
+      "column": "学术活动预告"
+    }
+  ]
+}

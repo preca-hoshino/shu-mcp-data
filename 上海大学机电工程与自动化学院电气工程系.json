@@ -1,0 +1,349 @@
+{
+  "domain": "ee.shu.edu.cn",
+  "department": "上海大学机电工程与自动化学院电气工程系",
+  "type": "20",
+  "crawl_time": "20260527_053350",
+  "total_articles": 56,
+  "columns": {
+    "科研教学": 20,
+    "综合新闻": 36
+  },
+  "articles": [
+    {
+      "title": "交流有道，求学有方——外教课程学习专题分享会",
+      "url": "https://ee.shu.edu.cn/info/1012/5064.htm",
+      "date": "2026-05-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "英声演绎，智竞电气——25级电气特色英语系列活动",
+      "url": "https://ee.shu.edu.cn/info/1012/5084.htm",
+      "date": "2026-05-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "交流有道，求学有方——外教课程学习专题分享会",
+      "url": "https://ee.shu.edu.cn/info/1015/5074.htm",
+      "date": "2026-05-27",
+      "column": "科研教学"
+    },
+    {
+      "title": "明晰未来方向，规划精彩未来——23.24级里斯本电气升学职业规划主题班会顺利举办",
+      "url": "https://ee.shu.edu.cn/info/1012/5044.htm",
+      "date": "2026-05-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "闻道电气，筑梦电力新时代——电气工程系关工委活动",
+      "url": "https://ee.shu.edu.cn/info/1012/5054.htm",
+      "date": "2026-05-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "闻道电气，筑梦电力新时代——电气工程系关工委活动",
+      "url": "https://ee.shu.edu.cn/info/1015/5034.htm",
+      "date": "2026-05-19",
+      "column": "科研教学"
+    },
+    {
+      "title": "学硕论文被国际控制科学顶级会议IFAC世界大会接收",
+      "url": "https://ee.shu.edu.cn/info/1015/5024.htm",
+      "date": "2026-04-17",
+      "column": "科研教学"
+    },
+    {
+      "title": "无损检测领域知名专家葡萄牙里斯本大学教授来我院合作交流",
+      "url": "https://ee.shu.edu.cn/info/1015/5014.htm",
+      "date": "2026-03-27",
+      "column": "科研教学"
+    },
+    {
+      "title": "上海电气集团上海电机厂来访我系",
+      "url": "https://ee.shu.edu.cn/info/1015/5004.htm",
+      "date": "2025-12-23",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系杨泽军副教授为学生作专题讲座",
+      "url": "https://ee.shu.edu.cn/info/1012/4994.htm",
+      "date": "2025-12-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系师生参加PCIM Asia国际研讨会并获奖",
+      "url": "https://ee.shu.edu.cn/info/1015/4944.htm",
+      "date": "2025-10-10",
+      "column": "科研教学"
+    },
+    {
+      "title": "机自学院汪飞教授团队在《Communications Engineering》上发表最新研究成果",
+      "url": "https://ee.shu.edu.cn/info/1012/4924.htm",
+      "date": "2025-07-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院汪飞教授团队在《Communications Engineering》上发表最新研究成果",
+      "url": "https://ee.shu.edu.cn/info/1015/4914.htm",
+      "date": "2025-07-18",
+      "column": "科研教学"
+    },
+    {
+      "title": "机自学院组织师生参加台达电力电子新技术研讨会暨电力电子化新型电力系统论坛",
+      "url": "https://ee.shu.edu.cn/info/1012/4904.htm",
+      "date": "2025-06-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院组织师生参加台达电力电子新技术研讨会暨电力电子化新型电力系统论坛",
+      "url": "https://ee.shu.edu.cn/info/1015/4894.htm",
+      "date": "2025-06-20",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系本科生在2024年全国大学生嵌入式芯片与系统设计竞赛——FPGA创新设计赛道决赛中斩获佳绩",
+      "url": "https://ee.shu.edu.cn/info/1015/4874.htm",
+      "date": "2024-12-09",
+      "column": "科研教学"
+    },
+    {
+      "title": "2024电力电子与变频电源新技术学术论坛成功召开",
+      "url": "https://ee.shu.edu.cn/info/1015/4864.htm",
+      "date": "2024-12-02",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系朴冠宇教授在第三届全国高校电气类专业青年教师实践教学设计创新大赛中荣获全国一等奖",
+      "url": "https://ee.shu.edu.cn/info/1012/4854.htm",
+      "date": "2024-11-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系教师指导研究生在第十九届中国研究生电子设计竞赛全国总决赛中荣获佳绩",
+      "url": "https://ee.shu.edu.cn/info/1012/4844.htm",
+      "date": "2024-08-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院朴冠宇教授入选第二届中国科技青年论坛",
+      "url": "https://ee.shu.edu.cn/info/1012/4834.htm",
+      "date": "2024-08-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系组织师生参加台达集团主办的“2024高校电力电子新技术研讨会”",
+      "url": "https://ee.shu.edu.cn/info/1012/4824.htm",
+      "date": "2024-06-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院微电子研究与开发中心团队获上海产学研合作优秀项目奖一等奖",
+      "url": "https://ee.shu.edu.cn/info/1012/4794.htm",
+      "date": "2024-01-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院微电子研究与开发中心团队获上海产学研合作优秀项目奖一等奖",
+      "url": "https://ee.shu.edu.cn/info/1015/4784.htm",
+      "date": "2024-01-09",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系青年教师在第二届全国高校青年教师电气类专业实践教学设计创新大赛荣获一等奖",
+      "url": "https://ee.shu.edu.cn/info/1012/4764.htm",
+      "date": "2023-12-04",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系任林涛博士获批选2023年上海市“超级博士后”激励计划资助",
+      "url": "https://ee.shu.edu.cn/info/1012/4774.htm",
+      "date": "2023-12-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2023电力电子与变频电源新技术学术论坛成功召开",
+      "url": "https://ee.shu.edu.cn/info/1015/4754.htm",
+      "date": "2023-11-27",
+      "column": "科研教学"
+    },
+    {
+      "title": "2023年电气工程系退休教师回娘家活动顺利举行",
+      "url": "https://ee.shu.edu.cn/info/1012/4734.htm",
+      "date": "2023-10-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "IEEE 电力电子学会全球青年学者与学生论坛（SYPS 2023）在上海举行",
+      "url": "https://ee.shu.edu.cn/info/1012/4694.htm",
+      "date": "2023-09-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系举行2023年退休教师荣休会",
+      "url": "https://ee.shu.edu.cn/info/1012/4624.htm",
+      "date": "2023-09-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系师生积极参与学科竞赛，获多项国家级奖项",
+      "url": "https://ee.shu.edu.cn/info/1012/4614.htm",
+      "date": "2023-09-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系师生参加2023年台达电力电子新技术研讨会",
+      "url": "https://ee.shu.edu.cn/info/1012/4593.htm",
+      "date": "2023-07-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "南昌工程学院校领导一行来访电气工程系调研交流",
+      "url": "https://ee.shu.edu.cn/info/1012/4543.htm",
+      "date": "2023-07-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学机自学院与台达集团共建联合培养基地",
+      "url": "https://ee.shu.edu.cn/info/1012/4493.htm",
+      "date": "2023-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系汪飞教授入选上海市优秀学术带头人计划",
+      "url": "https://ee.shu.edu.cn/info/1012/4463.htm",
+      "date": "2023-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系《运动控制系统》成功入选国家级一流本科课程",
+      "url": "https://ee.shu.edu.cn/info/1012/4373.htm",
+      "date": "2023-04-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系《运动控制系统》成功入选国家级一流本科课程",
+      "url": "https://ee.shu.edu.cn/info/1015/4383.htm",
+      "date": "2023-04-27",
+      "column": "科研教学"
+    },
+    {
+      "title": "费斯托（中国）有限公司领导来访电气工程系",
+      "url": "https://ee.shu.edu.cn/info/1012/4393.htm",
+      "date": "2023-04-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系陈伯时教授当选首批中国电源学会会士",
+      "url": "https://ee.shu.edu.cn/info/1012/4323.htm",
+      "date": "2023-03-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系联合主办2022电力电子与变频电源新技术学术论坛暨换届选举大会",
+      "url": "https://ee.shu.edu.cn/info/1012/4293.htm",
+      "date": "2023-01-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系联合主办2022电力电子与变频电源新技术学术论坛暨换届选举大会",
+      "url": "https://ee.shu.edu.cn/info/1015/4303.htm",
+      "date": "2023-01-13",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系举行2022年度年终总结大会",
+      "url": "https://ee.shu.edu.cn/info/1012/4283.htm",
+      "date": "2023-01-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系为中外合作办学学生组织英语讲座",
+      "url": "https://ee.shu.edu.cn/info/1015/4282.htm",
+      "date": "2022-12-05",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系组织新进青年教师培训座谈会",
+      "url": "https://ee.shu.edu.cn/info/1012/1833.htm",
+      "date": "2022-11-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系召开本科教学指导委员会工作会议",
+      "url": "https://ee.shu.edu.cn/info/1012/1834.htm",
+      "date": "2022-11-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系召开本科教学指导委员会工作会议",
+      "url": "https://ee.shu.edu.cn/info/1015/1835.htm",
+      "date": "2022-11-19",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系邀请大连理工大学张晓华教授来校做报告",
+      "url": "https://ee.shu.edu.cn/info/1012/1831.htm",
+      "date": "2022-11-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系邀请大连理工大学张晓华教授来校做报告",
+      "url": "https://ee.shu.edu.cn/info/1015/1832.htm",
+      "date": "2022-11-16",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系助推扶持企业上市",
+      "url": "https://ee.shu.edu.cn/info/1012/1819.htm",
+      "date": "2022-10-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系助推扶持企业上市",
+      "url": "https://ee.shu.edu.cn/info/1015/1820.htm",
+      "date": "2022-10-25",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系举办上海大学机自学院国际青年学者电气分论坛",
+      "url": "https://ee.shu.edu.cn/info/1012/1782.htm",
+      "date": "2022-09-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系举办上海大学机自学院国际青年学者电气分论坛",
+      "url": "https://ee.shu.edu.cn/info/1015/1783.htm",
+      "date": "2022-09-03",
+      "column": "科研教学"
+    },
+    {
+      "title": "电气工程系师生参加2022年台达电力电子新技术研讨会",
+      "url": "https://ee.shu.edu.cn/info/1012/1772.htm",
+      "date": "2022-08-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程系徐晨副教授第一作者论文获IEEE JESTPE 2021年度最佳论文一等奖",
+      "url": "https://ee.shu.edu.cn/info/1015/1771.htm",
+      "date": "2022-08-11",
+      "column": "科研教学"
+    },
+    {
+      "title": "机自学院陈伯时教授荣获第七届中国电源学会科学技术奖杰出贡献奖",
+      "url": "https://ee.shu.edu.cn/info/1012/1661.htm",
+      "date": "2021-11-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程及其自动化专业工程教育认证专家入校考查工作顺利完成",
+      "url": "https://ee.shu.edu.cn/info/1012/1573.htm",
+      "date": "2021-06-24",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电气工程及其自动化专业入选国家级一流本科专业建设点",
+      "url": "https://ee.shu.edu.cn/info/1012/1481.htm",
+      "date": "2021-03-04",
+      "column": "综合新闻"
+    }
+  ]
+}

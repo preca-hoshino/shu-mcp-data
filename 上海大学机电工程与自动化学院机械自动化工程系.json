@@ -1,0 +1,975 @@
+{
+  "domain": "mae.shu.edu.cn",
+  "department": "上海大学机电工程与自动化学院机械自动化工程系",
+  "type": "06",
+  "crawl_time": "20260530_224443",
+  "total_articles": 160,
+  "columns": {
+    "师生园地": 47,
+    "教研动态": 26,
+    "综合新闻": 49,
+    "通知公告": 38
+  },
+  "articles": [
+    {
+      "title": "机自系顺利举办机制山东班毕业30周年返校活动",
+      "url": "https://mae.shu.edu.cn/info/1012/2304.htm",
+      "date": "2024-11-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "刘丽兰教授团队荣获2023年度上海市科技进步奖一等奖！",
+      "url": "https://mae.shu.edu.cn/info/1012/2294.htm",
+      "date": "2024-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机械工程学科成功举办2024年全国优秀大学生暑期夏令营活动",
+      "url": "https://mae.shu.edu.cn/info/1012/2274.htm",
+      "date": "2024-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2024年上海大学机自学院机械工程学科全国优秀大学生夏令营活动通知",
+      "url": "https://mae.shu.edu.cn/info/1012/2264.htm",
+      "date": "2024-06-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2024上海科技节——上海市智能制造及机器人重点实验室开放日活动",
+      "url": "https://mae.shu.edu.cn/info/1012/2254.htm",
+      "date": "2024-05-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自系党总支组织开展生涯“企”航成长赋能活动",
+      "url": "https://mae.shu.edu.cn/info/1012/2244.htm",
+      "date": "2024-04-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "Norbert Willenbacher教授学术讲座",
+      "url": "https://mae.shu.edu.cn/info/1014/2234.htm",
+      "date": "2024-04-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "我系张泉教授团队在Science子刊《Science Robotics》上发表共同国际合作研究成果",
+      "url": "https://mae.shu.edu.cn/info/1012/2224.htm",
+      "date": "2024-02-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市智能制造及机器人重点实验室2023年学术委员会会议顺利召开",
+      "url": "https://mae.shu.edu.cn/info/1012/2214.htm",
+      "date": "2024-01-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自系冯杰才副教授获2023年度国家重点研发计划“工业软件”重点专项课题资助",
+      "url": "https://mae.shu.edu.cn/info/1012/2204.htm",
+      "date": "2024-01-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自系青年教师金滔获中国微米纳米技术学会优秀博士学位论文奖提名奖",
+      "url": "https://mae.shu.edu.cn/info/1012/2164.htm",
+      "date": "2024-01-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自系2023级新生开展“活出心花怒放的人生”主题活动课",
+      "url": "https://mae.shu.edu.cn/info/1012/2144.htm",
+      "date": "2023-12-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海青翼工业软件有限公司来我院签署合作框架协议",
+      "url": "https://mae.shu.edu.cn/info/1012/2124.htm",
+      "date": "2023-12-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自系开展毕业班就业季主题活动",
+      "url": "https://mae.shu.edu.cn/info/1012/2134.htm",
+      "date": "2023-11-24",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机械自动化工程系开展2023年敬老节活动",
+      "url": "https://mae.shu.edu.cn/info/1015/2114.htm",
+      "date": "2023-10-30",
+      "column": "师生园地"
+    },
+    {
+      "title": "我校成功举办2023中国大学生机械工程创新创意大赛——第六届智能制造大赛上海大学赛区初赛",
+      "url": "https://mae.shu.edu.cn/info/1012/2104.htm",
+      "date": "2023-09-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "走进ABB——感受机器人魅力，让未来更美好",
+      "url": "https://mae.shu.edu.cn/info/1015/2093.htm",
+      "date": "2023-06-22",
+      "column": "师生园地"
+    },
+    {
+      "title": "主题教育|校企合作研讨“科技自立自强”人才培养新模式主题党日活动",
+      "url": "https://mae.shu.edu.cn/info/1012/2073.htm",
+      "date": "2023-06-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "金滔博士论文获IEEE T-RO最佳论文荣誉奖",
+      "url": "https://mae.shu.edu.cn/info/1012/2063.htm",
+      "date": "2023-06-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "祝贺！上海大学机械自动化工程系2项成果获2022年度 上海市科学技术奖！",
+      "url": "https://mae.shu.edu.cn/info/1012/2053.htm",
+      "date": "2023-05-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机电工程与自动化学院“东洋电装奖学金”管理章程（研究生）",
+      "url": "https://mae.shu.edu.cn/info/1014/1983.htm",
+      "date": "2023-02-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "机电工程与自动化学院“中科新松奖学金”管理章程",
+      "url": "https://mae.shu.edu.cn/info/1014/1993.htm",
+      "date": "2023-02-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "机电工程与自动化学院“肯纳奖学金”管理章程",
+      "url": "https://mae.shu.edu.cn/info/1014/2003.htm",
+      "date": "2023-02-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "金滔博士获批2023年度上海市启明星计划扬帆专项",
+      "url": "https://mae.shu.edu.cn/info/1012/1963.htm",
+      "date": "2023-02-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自系青年教师金滔获上海大学优秀博士学位论文",
+      "url": "https://mae.shu.edu.cn/info/1012/1873.htm",
+      "date": "2023-01-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "[学术报告] 流体驱动软体机器人的若干探索与尝试",
+      "url": "https://mae.shu.edu.cn/info/1013/1872.htm",
+      "date": "2022-12-01",
+      "column": "教研动态"
+    },
+    {
+      "title": "第八届全国智能制造学术会议（NCIM’2022）顺利召开",
+      "url": "https://mae.shu.edu.cn/info/1012/1862.htm",
+      "date": "2022-11-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "赵旻荣获市教育工会《抗疫志愿者的故事》征文比赛一等奖",
+      "url": "https://mae.shu.edu.cn/info/1015/1821.htm",
+      "date": "2022-06-30",
+      "column": "师生园地"
+    },
+    {
+      "title": "用青春最亮丽的底色赋能专业报国——机自系本科生“知识为民、专业报国”青年节系列活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1792.htm",
+      "date": "2022-05-06",
+      "column": "师生园地"
+    },
+    {
+      "title": "【机自系战疫进行时】齐心协力渡难关，勇敢无畏显担当",
+      "url": "https://mae.shu.edu.cn/info/1015/1781.htm",
+      "date": "2022-03-13",
+      "column": "师生园地"
+    },
+    {
+      "title": "2021年中科新松奖学金获奖公示名单",
+      "url": "https://mae.shu.edu.cn/info/1014/1763.htm",
+      "date": "2021-12-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "我系举办图学素质提升相关主题讲座",
+      "url": "https://mae.shu.edu.cn/info/1015/1751.htm",
+      "date": "2021-12-01",
+      "column": "师生园地"
+    },
+    {
+      "title": "向教育生涯致敬—2021-2022荣休座谈活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1741.htm",
+      "date": "2021-11-17",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系田应仲、张泉和李龙课题组在《Nano Energy》发表智能感知最新研究成果",
+      "url": "https://mae.shu.edu.cn/info/1013/1738.htm",
+      "date": "2021-10-15",
+      "column": "教研动态"
+    },
+    {
+      "title": "我系学子在首届全国未来座舱创新设计大赛获得三等奖",
+      "url": "https://mae.shu.edu.cn/info/1015/1736.htm",
+      "date": "2021-10-15",
+      "column": "师生园地"
+    },
+    {
+      "title": "校心理辅导中心为2021级智能制造工程专业新生开展团体辅导活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1737.htm",
+      "date": "2021-10-13",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系全程导师受邀参加社区学院首日教育活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1682.htm",
+      "date": "2021-03-30",
+      "column": "师生园地"
+    },
+    {
+      "title": "全程导师朱俊俊为我系低年级学生做“生物力学的出圈”学术讲座 ——机自系19级、20级机自系首日教育",
+      "url": "https://mae.shu.edu.cn/info/1015/1683.htm",
+      "date": "2021-03-30",
+      "column": "师生园地"
+    },
+    {
+      "title": "2020年度“肯纳奖学金”评审办法",
+      "url": "https://mae.shu.edu.cn/info/1014/1668.htm",
+      "date": "2021-03-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "我系李静、沈南燕团队在中科院一区（工程：机械）杂志MMT上发表机器人领域研究成果",
+      "url": "https://mae.shu.edu.cn/info/1013/1563.htm",
+      "date": "2020-12-08",
+      "column": "教研动态"
+    },
+    {
+      "title": "[学术报告]Multiscale modelling of wheel/rail interface and damage",
+      "url": "https://mae.shu.edu.cn/info/1013/1531.htm",
+      "date": "2020-11-17",
+      "column": "教研动态"
+    },
+    {
+      "title": "关于2020年超过最长学习年限研究生清退的决定",
+      "url": "https://mae.shu.edu.cn/info/1014/1523.htm",
+      "date": "2020-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校机自学院参赛队伍荣获2020中国大学生机械工程创新创意大赛——第三届智能制造大赛全国一等奖、三等奖",
+      "url": "https://mae.shu.edu.cn/info/1015/1522.htm",
+      "date": "2020-11-09",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系召开别开生面的退休教师欢送会",
+      "url": "https://mae.shu.edu.cn/info/1015/1506.htm",
+      "date": "2020-10-28",
+      "column": "师生园地"
+    },
+    {
+      "title": "关于对超过最长学习年限研究生做退学处理的决定",
+      "url": "https://mae.shu.edu.cn/info/1014/1062.htm",
+      "date": "2020-10-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系王小静教授获上海高校市级重点课程立项",
+      "url": "https://mae.shu.edu.cn/info/1013/1132.htm",
+      "date": "2020-10-03",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系副主任蔡红霞老师领衔项目获得“上海高校本科重点教改项目”立项资助",
+      "url": "https://mae.shu.edu.cn/info/1013/1134.htm",
+      "date": "2020-09-30",
+      "column": "教研动态"
+    },
+    {
+      "title": "田应仲老师荣获“上海市抗击新冠肺炎疫情先进个人”和“上海市优秀共产党员”称号",
+      "url": "https://mae.shu.edu.cn/info/1015/1505.htm",
+      "date": "2020-09-30",
+      "column": "师生园地"
+    },
+    {
+      "title": "关于开展2020年“蔡冠深优秀青年教师”评选工作的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1142.htm",
+      "date": "2020-09-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "“以史为鉴、畅谈机器人的未来“—机自系袁建军教授受邀参加东方卫视《未来邀请函》访谈节目",
+      "url": "https://mae.shu.edu.cn/info/1013/1428.htm",
+      "date": "2020-09-18",
+      "column": "教研动态"
+    },
+    {
+      "title": "“以史为鉴、畅谈机器人的未来“—机自系袁建军教授受邀参加东方卫视《未来邀请函》访谈节目",
+      "url": "https://mae.shu.edu.cn/info/1015/1116.htm",
+      "date": "2020-09-18",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系2020级智能制造直招班迎新工作顺利举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1121.htm",
+      "date": "2020-09-18",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系2020级智能制造直招班迎新工作顺利举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1504.htm",
+      "date": "2020-09-18",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系党总支开展“四史”教育主题党日活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1122.htm",
+      "date": "2020-07-13",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系李静老师和沈南燕老师科研团队受邀参加2020世界人工智能大会",
+      "url": "https://mae.shu.edu.cn/info/1013/1139.htm",
+      "date": "2020-06-25",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系工业设计学生风采展示2",
+      "url": "https://mae.shu.edu.cn/info/1015/1123.htm",
+      "date": "2020-03-20",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系工业设计同学展现抗疫时尚精神",
+      "url": "https://mae.shu.edu.cn/info/1015/1124.htm",
+      "date": "2020-03-16",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系教师荣获“2019年度上海大学比翼双飞模范佳侣”",
+      "url": "https://mae.shu.edu.cn/info/1015/1125.htm",
+      "date": "2020-03-09",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系教师的跨界支援行动——用画笔传递抗疫决心",
+      "url": "https://mae.shu.edu.cn/info/1015/1500.htm",
+      "date": "2020-03-09",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系召开工业设计专业创新教改研讨会",
+      "url": "https://mae.shu.edu.cn/info/1013/1138.htm",
+      "date": "2020-01-09",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系2020年度国家自然科学基金项目申请经验交流会顺利召开",
+      "url": "https://mae.shu.edu.cn/info/1013/1135.htm",
+      "date": "2020-01-06",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系田应仲老师荣获2019年度“宝钢优秀教师奖”",
+      "url": "https://mae.shu.edu.cn/info/1015/1126.htm",
+      "date": "2020-01-06",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系袁光杰博士荣获2019年度“蔡冠深优秀青年教师奖”",
+      "url": "https://mae.shu.edu.cn/info/1015/1497.htm",
+      "date": "2020-01-02",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系李静副教授领衔的项目荣获2019年度“上海产学研合作优秀项目奖”",
+      "url": "https://mae.shu.edu.cn/info/1013/1424.htm",
+      "date": "2019-12-27",
+      "column": "教研动态"
+    },
+    {
+      "title": "关于超期清退研究生申辩的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1466.htm",
+      "date": "2019-12-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于报送2020年教职工进修培训计划的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1136.htm",
+      "date": "2019-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于协作机器人及其应用学术报告的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1137.htm",
+      "date": "2019-11-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学博士后“泮池计划”实施办法的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1140.htm",
+      "date": "2019-10-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学“伟长学者”计划实施办法的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1461.htm",
+      "date": "2019-10-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学“管理服务创新奖”评选办法的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1462.htm",
+      "date": "2019-10-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学高等教育研究人员专业技术职务聘任实施办法（试行）",
+      "url": "https://mae.shu.edu.cn/info/1014/1460.htm",
+      "date": "2019-10-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系教工支部于近日开展“不忘初心、牢记使命”主题教育会",
+      "url": "https://mae.shu.edu.cn/info/1014/1459.htm",
+      "date": "2019-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系教工支部于近日开展“不忘初心、牢记使命”主题教育会",
+      "url": "https://mae.shu.edu.cn/info/1015/1496.htm",
+      "date": "2019-10-15",
+      "column": "师生园地"
+    },
+    {
+      "title": "关于开展2019年“蔡冠深优秀青年教师”评选工作的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1458.htm",
+      "date": "2019-10-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "16级本科生党支部前往中国工业设计博物馆开展“不忘初心，牢记使命”主题教育",
+      "url": "https://mae.shu.edu.cn/info/1015/1495.htm",
+      "date": "2019-09-26",
+      "column": "师生园地"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://mae.shu.edu.cn/info/1014/1457.htm",
+      "date": "2019-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜报！机自系左净霭在全球重大挑战论坛学生竞赛活动中取得好成绩",
+      "url": "https://mae.shu.edu.cn/info/1015/1494.htm",
+      "date": "2019-09-25",
+      "column": "师生园地"
+    },
+    {
+      "title": "关于做好2019年下半年全国大学英语四、六级考试报名工作的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1456.htm",
+      "date": "2019-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系2005级校友返校活动顺利举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1492.htm",
+      "date": "2019-09-10",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系举行“不忘初心、牢记使命”主题首日教育活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1493.htm",
+      "date": "2019-09-10",
+      "column": "师生园地"
+    },
+    {
+      "title": "2019年暑期机自系赴美国普渡大学（西北校区）交流访学项目",
+      "url": "https://mae.shu.edu.cn/info/1015/1491.htm",
+      "date": "2019-08-22",
+      "column": "师生园地"
+    },
+    {
+      "title": "上海中医药大学徐建光校长就2018国家科技部重点研发计划“智能虚拟现实康复系统项目”进展调研",
+      "url": "https://mae.shu.edu.cn/info/1013/1423.htm",
+      "date": "2019-07-22",
+      "column": "教研动态"
+    },
+    {
+      "title": "相逢有时，相见可期——2019年上海大学“机械 工程”双一流学科优秀大学生夏令营成功举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1490.htm",
+      "date": "2019-07-22",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系18位同学赴普渡大学进行暑期交流学习",
+      "url": "https://mae.shu.edu.cn/info/1015/1489.htm",
+      "date": "2019-07-19",
+      "column": "师生园地"
+    },
+    {
+      "title": "上海东洋电装有限公司到机自系科研对接与交流",
+      "url": "https://mae.shu.edu.cn/info/1013/1422.htm",
+      "date": "2019-07-08",
+      "column": "教研动态"
+    },
+    {
+      "title": "2018年暑期机自系赴美国普渡大学（西北校区）交流访学项目",
+      "url": "https://mae.shu.edu.cn/info/1015/1488.htm",
+      "date": "2019-07-08",
+      "column": "师生园地"
+    },
+    {
+      "title": "“Cognitive Maintenance in Industry 4.0”学术报告成功举行",
+      "url": "https://mae.shu.edu.cn/info/1013/1421.htm",
+      "date": "2019-06-05",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系学生在第八届上海市大学生机械工程创新大赛中创佳绩",
+      "url": "https://mae.shu.edu.cn/info/1015/1487.htm",
+      "date": "2019-05-30",
+      "column": "师生园地"
+    },
+    {
+      "title": "AMETEK企业奖学金颁奖典礼成功举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1486.htm",
+      "date": "2019-05-27",
+      "column": "师生园地"
+    },
+    {
+      "title": "刘丽兰教授团队荣获上海市科技进步二等奖",
+      "url": "https://mae.shu.edu.cn/info/1013/1420.htm",
+      "date": "2019-05-24",
+      "column": "教研动态"
+    },
+    {
+      "title": "青年教师解杨敏博士获机自学院首届青年英才奖",
+      "url": "https://mae.shu.edu.cn/info/1015/1484.htm",
+      "date": "2019-05-07",
+      "column": "师生园地"
+    },
+    {
+      "title": "参观中科院上海光机所神光II装置开展科研合作交流",
+      "url": "https://mae.shu.edu.cn/info/1013/1419.htm",
+      "date": "2019-04-28",
+      "column": "教研动态"
+    },
+    {
+      "title": "无偿献血，用爱心为生命加油",
+      "url": "https://mae.shu.edu.cn/info/1015/1483.htm",
+      "date": "2019-04-24",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系辅导员刘畅获得上海大学第七届“十佳辅导员”荣誉称号",
+      "url": "https://mae.shu.edu.cn/info/1015/1482.htm",
+      "date": "2019-04-22",
+      "column": "师生园地"
+    },
+    {
+      "title": "机自系本科生党支部的同学积极参与造血干细胞捐赠志愿活动",
+      "url": "https://mae.shu.edu.cn/info/1015/1481.htm",
+      "date": "2019-04-15",
+      "column": "师生园地"
+    },
+    {
+      "title": "机械设计制造及其自动化专业教学指导委员会召开",
+      "url": "https://mae.shu.edu.cn/info/1013/1418.htm",
+      "date": "2019-04-09",
+      "column": "教研动态"
+    },
+    {
+      "title": "我系教师育儿交流座谈会举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1480.htm",
+      "date": "2019-04-08",
+      "column": "师生园地"
+    },
+    {
+      "title": "2019年上半年常规普通话水平测试报名通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1445.htm",
+      "date": "2019-03-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系专业博览会取得圆满成功",
+      "url": "https://mae.shu.edu.cn/info/1015/1479.htm",
+      "date": "2019-03-26",
+      "column": "师生园地"
+    },
+    {
+      "title": "2019年上海市科学技术奖申报摸底",
+      "url": "https://mae.shu.edu.cn/info/1014/1441.htm",
+      "date": "2019-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2019年度上海大学课程思政专业课程建设项目",
+      "url": "https://mae.shu.edu.cn/info/1014/1442.htm",
+      "date": "2019-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办第九届上海大学大学生工程训练综合能力竞赛暨第九届上海市大学生工程训练综合能力竞赛预赛通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1443.htm",
+      "date": "2019-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2019年高级专业技术职务晋升聘任工作的预通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1438.htm",
+      "date": "2019-03-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展“机自学院青年英才奖”的评选通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1439.htm",
+      "date": "2019-03-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自学院第75次学位分会将于4月15日召开",
+      "url": "https://mae.shu.edu.cn/info/1014/1440.htm",
+      "date": "2019-03-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "我系新增的教育部首批“智能制造工程”专业教学指导委员会顺利召开",
+      "url": "https://mae.shu.edu.cn/info/1013/1417.htm",
+      "date": "2019-03-19",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系女教授及妇女委员会受到三八节表彰",
+      "url": "https://mae.shu.edu.cn/info/1015/1478.htm",
+      "date": "2019-03-19",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系青年教师解杨敏、段超群获得2019 年度上海市人才计划资助",
+      "url": "https://mae.shu.edu.cn/info/1015/1477.htm",
+      "date": "2019-03-11",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系青年教师解杨敏、段超群获得2019 年度上海市人才计划资助",
+      "url": "https://mae.shu.edu.cn/info/1014/1436.htm",
+      "date": "2019-03-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系召开本科人才培养研讨会",
+      "url": "https://mae.shu.edu.cn/info/1013/1416.htm",
+      "date": "2019-03-01",
+      "column": "教研动态"
+    },
+    {
+      "title": "机自系2019年度国家自然科学基金项目申请经验交流会顺利召开",
+      "url": "https://mae.shu.edu.cn/info/1013/1415.htm",
+      "date": "2019-01-23",
+      "column": "教研动态"
+    },
+    {
+      "title": "2018年度许昌远东助学金颁奖仪式成功举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1476.htm",
+      "date": "2019-01-23",
+      "column": "师生园地"
+    },
+    {
+      "title": "关于督促2019年即将超过最长学习年限研究生毕业的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1435.htm",
+      "date": "2019-01-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "机自系教学成果荣获上海市教学成果一等奖",
+      "url": "https://mae.shu.edu.cn/info/1013/1414.htm",
+      "date": "2019-01-17",
+      "column": "教研动态"
+    },
+    {
+      "title": "产学研特等奖",
+      "url": "https://mae.shu.edu.cn/info/1014/1434.htm",
+      "date": "2019-01-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "产学研特等奖",
+      "url": "https://mae.shu.edu.cn/info/1014/1470.htm",
+      "date": "2019-01-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "产学研特等奖",
+      "url": "https://mae.shu.edu.cn/info/1014/1471.htm",
+      "date": "2019-01-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "产学研特等奖",
+      "url": "https://mae.shu.edu.cn/info/1014/1472.htm",
+      "date": "2019-01-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市吴清副市长一行莅临上海机器人产业技术研究院调研",
+      "url": "https://mae.shu.edu.cn/info/1013/1413.htm",
+      "date": "2019-01-14",
+      "column": "教研动态"
+    },
+    {
+      "title": "2018年度新松奖学金颁奖仪式顺利举行",
+      "url": "https://mae.shu.edu.cn/info/1015/1475.htm",
+      "date": "2019-01-14",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系党总支与上飞院四所飞行管理部党支部共建交流",
+      "url": "https://mae.shu.edu.cn/info/1015/1474.htm",
+      "date": "2019-01-10",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系项目荣获2018年度“上海产学研合作优秀项目奖”唯一特等奖",
+      "url": "https://mae.shu.edu.cn/info/1013/1412.htm",
+      "date": "2019-01-08",
+      "column": "教研动态"
+    },
+    {
+      "title": "关于督促2019年即将超过最长学习年限研究生毕业的通知",
+      "url": "https://mae.shu.edu.cn/info/1014/1433.htm",
+      "date": "2019-01-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2018年对超过最长学习年限研究生做退学处理的公告",
+      "url": "https://mae.shu.edu.cn/info/1015/1473.htm",
+      "date": "2018-11-13",
+      "column": "师生园地"
+    },
+    {
+      "title": "我系牵头的“十三五”国家重点研发计划项目“深海生物数字化原位观测记录系统”工程样机详细设计顺利通过评审",
+      "url": "https://mae.shu.edu.cn/info/1013/1411.htm",
+      "date": "2018-05-03",
+      "column": "教研动态"
+    },
+    {
+      "title": "上海大学智能助行机器人获上交会“最具技术交易潜力奖”",
+      "url": "https://mae.shu.edu.cn/info/1013/1410.htm",
+      "date": "2018-04-23",
+      "column": "教研动态"
+    },
+    {
+      "title": "我系研究生获得第十五届“挑战杯” “一带一路”国际专项赛特等奖",
+      "url": "https://mae.shu.edu.cn/info/1014/1432.htm",
+      "date": "2017-11-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "2017年三八节活动",
+      "url": "https://mae.shu.edu.cn/info/1014/1469.htm",
+      "date": "2017-03-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "美国佐治亚理工学院 Yan Wang 教授来上海大学机自学院进行学术交流和国际合作研讨",
+      "url": "https://mae.shu.edu.cn/info/1012/1354.htm",
+      "date": "2016-11-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学—浙江海盐县科技合作交流会",
+      "url": "https://mae.shu.edu.cn/info/1012/1351.htm",
+      "date": "2016-11-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“工业4.0”国际学术交流会",
+      "url": "https://mae.shu.edu.cn/info/1012/1349.htm",
+      "date": "2016-10-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市智能制造及机器人重点实验室学术委员会会议",
+      "url": "https://mae.shu.edu.cn/info/1012/1363.htm",
+      "date": "2016-06-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“一流商科”研讨及国际学术交流会",
+      "url": "https://mae.shu.edu.cn/info/1012/1347.htm",
+      "date": "2016-06-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市智能制造及机器人重点实验室在2016上海科技活动周中获电视专访报道",
+      "url": "https://mae.shu.edu.cn/info/1012/1345.htm",
+      "date": "2016-05-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院学生在第五届上海市大学生机械工程创新大赛中获佳绩",
+      "url": "https://mae.shu.edu.cn/info/1012/1343.htm",
+      "date": "2016-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "关于公布上海大学2016年度机械工程创新大赛结果的通知",
+      "url": "https://mae.shu.edu.cn/info/1012/1362.htm",
+      "date": "2016-05-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "爱的奉献---机自系献血报道",
+      "url": "https://mae.shu.edu.cn/info/1012/1361.htm",
+      "date": "2016-04-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学与徐汇区中心医院智慧医疗技术与转化医学联合研究基地签约揭牌仪式举行",
+      "url": "https://mae.shu.edu.cn/info/1012/1359.htm",
+      "date": "2016-03-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://mae.shu.edu.cn/info/1012/1360.htm",
+      "date": "2016-03-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "澳大利亚西悉尼大学副校长代表团访问上海大学",
+      "url": "https://mae.shu.edu.cn/info/1012/1341.htm",
+      "date": "2016-03-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院四个部门的三八节活动集锦",
+      "url": "https://mae.shu.edu.cn/info/1012/1357.htm",
+      "date": "2016-03-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "沐浴春雨 享受芬芳—机自系三八节活动报道",
+      "url": "https://mae.shu.edu.cn/info/1012/1355.htm",
+      "date": "2016-03-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "工业设计专业载誉第十四届“上海电气杯”工业设计大奖赛",
+      "url": "https://mae.shu.edu.cn/info/1012/1353.htm",
+      "date": "2015-12-31",
+      "column": "综合新闻"
+    },
+    {
+      "title": "海盐-上大机自学院智能制造技术浙江研究院”工作推进研讨会",
+      "url": "https://mae.shu.edu.cn/info/1012/1352.htm",
+      "date": "2015-11-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "国际知名测量学专家Weckenmann 教授再次来访",
+      "url": "https://mae.shu.edu.cn/info/1012/1339.htm",
+      "date": "2015-11-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新松企业奖学金协议签约仪式顺利举行",
+      "url": "https://mae.shu.edu.cn/info/1012/1338.htm",
+      "date": "2015-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "海盐-上大机自学院智能制造技术浙江研究院”签约与揭牌仪式",
+      "url": "https://mae.shu.edu.cn/info/1012/1348.htm",
+      "date": "2015-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2015国际先进制造工艺与刀具技术研讨会隆重召开",
+      "url": "https://mae.shu.edu.cn/info/1012/1334.htm",
+      "date": "2015-10-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2015年重阳节",
+      "url": "https://mae.shu.edu.cn/info/1014/1468.htm",
+      "date": "2015-10-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "唱起欢乐的歌---记机自系重阳节活动",
+      "url": "https://mae.shu.edu.cn/info/1012/1346.htm",
+      "date": "2015-10-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院第六届趣味运动会报道",
+      "url": "https://mae.shu.edu.cn/info/1012/1344.htm",
+      "date": "2015-10-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "汗水洒酷暑，欢声荡金秋 ——我校工业设计学生在“浦东新区蝴蝶杯”大赛全部获奖散记",
+      "url": "https://mae.shu.edu.cn/info/1012/1342.htm",
+      "date": "2015-09-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "汗水洒酷暑，欢声荡金秋 ——我校工业设计学生在“浦东新区蝴蝶杯”大赛全部获奖散记",
+      "url": "https://mae.shu.edu.cn/info/1014/1431.htm",
+      "date": "2015-09-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "工业设计学生作品获誉“2015上海轻工杯”大赛",
+      "url": "https://mae.shu.edu.cn/info/1012/1340.htm",
+      "date": "2015-09-11",
+      "column": "综合新闻"
+    },
+    {
+      "title": "工业设计学生作品获誉“2015上海轻工杯”大赛",
+      "url": "https://mae.shu.edu.cn/info/1013/1409.htm",
+      "date": "2015-09-11",
+      "column": "教研动态"
+    },
+    {
+      "title": "美国伊利诺伊大学香槟分校教授Andrew Alleyne 参观交流",
+      "url": "https://mae.shu.edu.cn/info/1012/1333.htm",
+      "date": "2015-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“上海机器人产业需求专题调研会议”在我校举行",
+      "url": "https://mae.shu.edu.cn/info/1012/1332.htm",
+      "date": "2015-05-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学-贝加莱工业自动化的产学研合作协议与国际交流",
+      "url": "https://mae.shu.edu.cn/info/1012/1337.htm",
+      "date": "2015-04-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "英国南安普敦大学Ling Wang教授来访",
+      "url": "https://mae.shu.edu.cn/info/1012/1331.htm",
+      "date": "2015-04-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "公派出国人员回国访学报告",
+      "url": "https://mae.shu.edu.cn/info/1012/1336.htm",
+      "date": "2015-01-23",
+      "column": "综合新闻"
+    }
+  ]
+}

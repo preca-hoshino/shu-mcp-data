@@ -1,0 +1,439 @@
+{
+  "domain": "cwc.shu.edu.cn",
+  "department": "上海大学财务处",
+  "type": "17",
+  "crawl_time": "20260530_224443",
+  "total_articles": 71,
+  "columns": {
+    "信息动态": 24,
+    "通知公告": 47
+  },
+  "articles": [
+    {
+      "title": "2025年上海大学财务与资产业务百问百答",
+      "url": "https://cwc.shu.edu.cn/info/1014/7064.htm",
+      "date": "2025-11-05",
+      "column": "信息动态"
+    },
+    {
+      "title": "上海大学2025-2026学年学费和住宿费缴费通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6804.htm",
+      "date": "2025-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学图文设计制作供应商名单（第二批55家）",
+      "url": "https://cwc.shu.edu.cn/info/1041/6794.htm",
+      "date": "2025-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2025级研究生新生缴费办法",
+      "url": "https://cwc.shu.edu.cn/info/1041/6774.htm",
+      "date": "2025-07-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年本科毕业生学费结算通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6744.htm",
+      "date": "2025-06-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2024年度个人所得税年度汇算清缴的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6724.htm",
+      "date": "2025-06-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025年“贴心小财”宣讲录制视频",
+      "url": "https://cwc.shu.edu.cn/info/1014/6664.htm",
+      "date": "2025-04-21",
+      "column": "信息动态"
+    },
+    {
+      "title": "上海大学图文供应商名单(第一批12家)2026年3月9日更新",
+      "url": "https://cwc.shu.edu.cn/info/1041/6554.htm",
+      "date": "2025-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于我校学费收取和结算的说明（2024年8月）",
+      "url": "https://cwc.shu.edu.cn/info/1016/6334.htm",
+      "date": "2024-08-27",
+      "column": "信息动态"
+    },
+    {
+      "title": "2024届毕业生学费、住宿费结算通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6294.htm",
+      "date": "2024-06-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2023年度个人所得税年度汇算清缴的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6284.htm",
+      "date": "2024-06-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于依据纳税申报要求各类人员手机号更正补充的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6274.htm",
+      "date": "2024-05-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于进一步严肃财经纪律、规范财务报销行为的通知",
+      "url": "https://cwc.shu.edu.cn/info/1014/6174.htm",
+      "date": "2023-11-10",
+      "column": "信息动态"
+    },
+    {
+      "title": "关于进一步严肃财经纪律、规范财务报销行为的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6164.htm",
+      "date": "2023-11-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "我校学费收取和结算的说明",
+      "url": "https://cwc.shu.edu.cn/info/1015/6104.htm",
+      "date": "2023-09-17",
+      "column": "信息动态"
+    },
+    {
+      "title": "我校学费收取和结算的说明",
+      "url": "https://cwc.shu.edu.cn/info/1042/6094.htm",
+      "date": "2023-09-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "2023年本科毕业生学费结算通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5993.htm",
+      "date": "2023-06-28",
+      "column": "信息动态"
+    },
+    {
+      "title": "2023年本科毕业生学费结算通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/6003.htm",
+      "date": "2023-06-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于个人所得税年度汇算清缴的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5943.htm",
+      "date": "2023-05-24",
+      "column": "信息动态"
+    },
+    {
+      "title": "关于个人所得税年度汇算清缴的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/5953.htm",
+      "date": "2023-05-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于调整副食品补贴的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5813.htm",
+      "date": "2023-02-09",
+      "column": "信息动态"
+    },
+    {
+      "title": "上海大学关于二级学院实行经济工作院长“一支笔”的实施细则",
+      "url": "https://cwc.shu.edu.cn/info/1042/5793.htm",
+      "date": "2023-01-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于大学生持卡就医结算工作的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5751.htm",
+      "date": "2022-10-28",
+      "column": "信息动态"
+    },
+    {
+      "title": "2022-2023学年学生第三次收费的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5741.htm",
+      "date": "2022-10-09",
+      "column": "信息动态"
+    },
+    {
+      "title": "2022-2023学年学生第二次收费的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5723.htm",
+      "date": "2022-09-19",
+      "column": "信息动态"
+    },
+    {
+      "title": "2022-2023学年学生第二次收费的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/5722.htm",
+      "date": "2022-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022-2023学年学生第一次收费的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5712.htm",
+      "date": "2022-09-05",
+      "column": "信息动态"
+    },
+    {
+      "title": "“网上缴费平台”操作指南",
+      "url": "https://cwc.shu.edu.cn/info/1015/5692.htm",
+      "date": "2022-08-01",
+      "column": "信息动态"
+    },
+    {
+      "title": "关于个税汇缴清算的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5681.htm",
+      "date": "2022-06-26",
+      "column": "信息动态"
+    },
+    {
+      "title": "关于疫情封控期间开票服务的友情提示",
+      "url": "https://cwc.shu.edu.cn/info/1015/5678.htm",
+      "date": "2022-04-26",
+      "column": "信息动态"
+    },
+    {
+      "title": "新时代高校党建示范创新和质量创优工作培育成果展示平台",
+      "url": "https://yurenhao.sizhengwang.cn/djcgzs/yrh/index.shtml?SiteID=143&studioID=57748",
+      "date": "2022-04-22",
+      "column": "信息动态"
+    },
+    {
+      "title": "资产验收入库单打印及网上报销操作讲解",
+      "url": "https://cwc.shu.edu.cn/info/1014/5654.htm",
+      "date": "2022-01-05",
+      "column": "信息动态"
+    },
+    {
+      "title": "资产验收入库单打印及网上报销操作讲解",
+      "url": "https://cwc.shu.edu.cn/info/1015/5652.htm",
+      "date": "2022-01-05",
+      "column": "信息动态"
+    },
+    {
+      "title": "2021-2022学年学生第二次收费的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/5590.htm",
+      "date": "2021-09-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "财务入账及开票流程介绍（横向科研经费）",
+      "url": "https://cwc.shu.edu.cn/info/1014/5556.htm",
+      "date": "2021-05-11",
+      "column": "信息动态"
+    },
+    {
+      "title": "关于上海大学2021年第一批政府采购审批（核）情况的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/5531.htm",
+      "date": "2021-04-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于我校学费收取和结算的说明",
+      "url": "https://cwc.shu.edu.cn/info/1041/5516.htm",
+      "date": "2021-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "2021年财务提示",
+      "url": "https://cwc.shu.edu.cn/info/1041/5501.htm",
+      "date": "2021-03-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "科研助理财务业务培训会顺利开展",
+      "url": "https://cwc.shu.edu.cn/info/1016/5320.htm",
+      "date": "2020-09-17",
+      "column": "信息动态"
+    },
+    {
+      "title": "财务处关于2019～2020学年暑假安排的通知",
+      "url": "https://cwc.shu.edu.cn/info/1015/5263.htm",
+      "date": "2020-08-07",
+      "column": "信息动态"
+    },
+    {
+      "title": "提醒 | 2019年，发票监制章改版啦",
+      "url": "https://cwc.shu.edu.cn/info/1016/4682.htm",
+      "date": "2019-02-25",
+      "column": "信息动态"
+    },
+    {
+      "title": "关于2018年度国家自然科学基金经费下拨的通知",
+      "url": "https://cwc.shu.edu.cn/info/1016/4582.htm",
+      "date": "2018-11-21",
+      "column": "信息动态"
+    },
+    {
+      "title": "上海大学银行账号信息及增值税开票信息",
+      "url": "https://cwc.shu.edu.cn/info/1014/4911.htm",
+      "date": "2018-04-11",
+      "column": "信息动态"
+    },
+    {
+      "title": "上海大学银行账号信息及增值税开票信息",
+      "url": "https://cwc.shu.edu.cn/info/1042/4299.htm",
+      "date": "2018-04-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于调整嘉定校区财务对外服务时间的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3935.htm",
+      "date": "2012-03-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于横向科研项目经费管理的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3940.htm",
+      "date": "2011-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学《公益事业捐赠统一票据》使用细则（试行）",
+      "url": "https://cwc.shu.edu.cn/info/1041/3942.htm",
+      "date": "2011-10-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "科研项目结题（含中期检查）财务审核流程",
+      "url": "https://cwc.shu.edu.cn/info/1041/3943.htm",
+      "date": "2011-09-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学公务用车情况登记表",
+      "url": "https://cwc.shu.edu.cn/info/1042/3296.htm",
+      "date": "2011-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于启用“无现金报销”系统的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3953.htm",
+      "date": "2011-03-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于启用“教职工银行卡号查询和修改”系统的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3954.htm",
+      "date": "2011-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "教职工银行卡号修改操作流程V2.0",
+      "url": "https://cwc.shu.edu.cn/info/1041/3955.htm",
+      "date": "2011-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于个人对公益事业的捐赠在个人所得税税前扣除的公告",
+      "url": "https://cwc.shu.edu.cn/info/1042/3302.htm",
+      "date": "2011-03-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于启用“网上修改银行卡号”系统的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3959.htm",
+      "date": "2010-11-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于向付款单位出具发票（收据）及相关工作须知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3982.htm",
+      "date": "2009-12-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "请再次核对您的《个人所得税完税证明》邮寄地址",
+      "url": "https://cwc.shu.edu.cn/info/1041/3983.htm",
+      "date": "2009-11-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于本专科学生工商银行卡使用提示",
+      "url": "https://cwc.shu.edu.cn/info/1041/3984.htm",
+      "date": "2009-09-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于学生津贴、奖学金、助学金等发放的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3990.htm",
+      "date": "2009-06-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于办理国家助学贷款展期申请的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3993.htm",
+      "date": "2009-06-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "财务处部门信箱开通啦！",
+      "url": "https://cwc.shu.edu.cn/info/1042/3314.htm",
+      "date": "2009-02-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于执行财政部《政府采购进口产品管理办法》的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3999.htm",
+      "date": "2008-11-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "为使《个人所得税完税证明》准确邮寄给您，请核实您的地址",
+      "url": "https://cwc.shu.edu.cn/info/1041/4000.htm",
+      "date": "2008-11-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于启用新版财政票据的友情提示",
+      "url": "https://cwc.shu.edu.cn/info/1041/4010.htm",
+      "date": "2008-07-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公积金帐号查询的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/4016.htm",
+      "date": "2007-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公积金提取的有关办法",
+      "url": "https://cwc.shu.edu.cn/info/1042/3321.htm",
+      "date": "2007-10-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家税务总局 中国人民银行 教育部关于印发《教育储蓄存款利息所得免征个人所得税实施办法》的通知",
+      "url": "https://cwc.shu.edu.cn/info/1042/3324.htm",
+      "date": "2006-11-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "老版工资查询",
+      "url": "https://cwc.shu.edu.cn/info/1041/4045.htm",
+      "date": "2006-03-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "有关教育储蓄存款利息免征所得税实施办法的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/4047.htm",
+      "date": "2006-03-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于不再受理旧版普通发票报销业务的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/4068.htm",
+      "date": "2005-03-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开通经费查询的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/4082.htm",
+      "date": "2004-07-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "旧版本工资查询...",
+      "url": "https://cwc.shu.edu.cn/info/1041/4101.htm",
+      "date": "2003-07-07",
+      "column": "通知公告"
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "domain": "adrichn.shu.edu.cn",
+  "department": "上海大学亚洲人口研究中心",
+  "type": "04",
+  "crawl_time": "20260513_195202",
+  "total_articles": 122,
+  "columns": {
+    "新闻动态": 99,
+    "热点新闻": 12,
+    "图片新闻": 11
+  },
+  "articles": [
+    {
+      "title": "亚洲人口研究中心与中国人口与发展研究中心签订战略合作协议",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1994.htm",
+      "date": "2026-04-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "复旦大学任远教授受邀在亚洲人口研究中心开展“迁移与消费”专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1974.htm",
+      "date": "2025-12-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "联合国人口司司长John Wilmoth在上海大学发表“世界人口展望：趋势差异、叙事博弈 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1954.htm",
+      "date": "2025-11-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心参加第30届国际人口学大会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1914.htm",
+      "date": "2025-10-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "奥地利国际应用系统分析研究所（IIASA）研究学者张少辉副教授受邀在亚洲人口研究中...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1904.htm",
+      "date": "2025-09-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第四届亚洲人口论坛： 全球与地方发展研究中的人口方法与模型  暨相关培训研讨会：...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1874.htm",
+      "date": "2025-09-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "纽约州立大学奥尔巴尼分校梁在教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1854.htm",
+      "date": "2025-06-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国科学院地理科学与资源研究所戚伟副研究员受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1784.htm",
+      "date": "2025-04-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "社会学院人口学研究所副所长陈蓉接受央广专访 ——“育儿补贴”政策需顶层设计与基...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1774.htm",
+      "date": "2025-03-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "加拿大莱斯布里奇大学徐伟教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1764.htm",
+      "date": "2025-02-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "社会学院人口研究所学生在第十七届世界人口健康会议上展现学术风采",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1754.htm",
+      "date": "2024-12-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Kaoru Kakinuma教授访问上海大学人口研究所暨亚洲人口研究中心",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1714.htm",
+      "date": "2024-11-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "首都经济贸易大学茅倬彦教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1724.htm",
+      "date": "2024-11-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心Wolfgang Lutz院士在PNAS发表文章",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1734.htm",
+      "date": "2024-11-20",
+      "column": "热点新闻"
+    },
+    {
+      "title": "南京大学风笑天教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1694.htm",
+      "date": "2024-10-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "孟加拉国Sajida基金会的高级研究顾问Sajeda Amin教授受邀在亚洲人口研究中心开展专...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1684.htm",
+      "date": "2024-10-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "日本国立社会保障与人口问题研究所Kaoru Kakinuma教授受邀在亚洲人口研究中心开展 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1674.htm",
+      "date": "2024-10-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "邓婕和邓聪聪同学在第十六届全国人口与发展研究生论坛中荣获一等奖",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1654.htm",
+      "date": "2024-07-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心邀请社会学院特聘教授Wolfgang Lutz院士开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1604.htm",
+      "date": "2024-05-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国人口与发展研究中心高级研究员张翠玲博士受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1594.htm",
+      "date": "2024-05-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "复旦大学张震教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1574.htm",
+      "date": "2023-12-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "北京大学李建新教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1544.htm",
+      "date": "2023-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "韩国汉阳大学Doo-Sub Kim教授受邀在亚洲人口研究中心开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1554.htm",
+      "date": "2023-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心邀请阿德莱德大学Yan Tan教授开展专题讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1564.htm",
+      "date": "2023-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "陈蓉副教授在《中国青年研究》发表最新研究成果“我国大城市年轻人口的婚姻推迟趋 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1523.htm",
+      "date": "2023-04-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心邀请顾宝昌教授开展“亚洲第二次人口转变:‘独特性’ 还是 ‘过渡...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1493.htm",
+      "date": "2023-04-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Paolo Vicerra博士在JOURNAL OF APPLIED GERONTOLOGY上发表最新研究论文",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1503.htm",
+      "date": "2023-03-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "朱宇教授连任中国地理学会人口地理专业委员会主任",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1423.htm",
+      "date": "2023-02-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "朱宇教授连任中国地理学会人口地理专业委员会主任",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1433.htm",
+      "date": "2023-02-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "朱宇教授在地理学报发表“中国流动人口概念和数据的有效性与国际可比性”文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1353.htm",
+      "date": "2023-01-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "维也纳大学Erich Striessnig教授受邀在亚洲人口研究中心开展讲座“气候变化时代中 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1341.htm",
+      "date": "2022-11-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "维也纳大学Erich Striessnig教授受邀在亚洲人口研究中心开展讲座“气候变化时代中 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1342.htm",
+      "date": "2022-11-17",
+      "column": "热点新闻"
+    },
+    {
+      "title": "“人口与健康——21世纪的中国老年与健康研究”的专项研讨交流会成功举行",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1331.htm",
+      "date": "2022-10-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“人口与健康——21世纪的中国老年与健康研究”的专项研讨交流会成功举行",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1332.htm",
+      "date": "2022-10-31",
+      "column": "热点新闻"
+    },
+    {
+      "title": "Guy Abel教授为世界银行KNOMAD项目撰写研究报告“Gender and Migration Data”",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1321.htm",
+      "date": "2022-10-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心成功承办亚洲人口学会国家人口系列讲座“尼泊尔人口的异质性研究”",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1313.htm",
+      "date": "2022-10-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心成功承办亚洲人口学会国家人口系列讲座“尼泊尔人口的异质性研究”",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1316.htm",
+      "date": "2022-10-17",
+      "column": "热点新闻"
+    },
+    {
+      "title": "Guillaume Marois副教授获国家自然科学基金资助",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1308.htm",
+      "date": "2022-09-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Guillaume Marois副教授获国家自然科学基金资助",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1307.htm",
+      "date": "2022-09-09",
+      "column": "热点新闻"
+    },
+    {
+      "title": "中国人口学会2022年年会“国际人口迁移”分论坛综述",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1295.htm",
+      "date": "2022-07-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国人口学会2022年年会“国际人口迁移”分论坛综述",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1282.htm",
+      "date": "2022-07-31",
+      "column": "热点新闻"
+    },
+    {
+      "title": "中国人口学会2022年年会“国际人口迁移”分论坛综述",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1292.htm",
+      "date": "2022-07-31",
+      "column": "图片新闻"
+    },
+    {
+      "title": "Guy Abel教授在Regional Studies, Regional Science上发表最新论文",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1318.htm",
+      "date": "2022-07-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Guillaume Marois在Social Indicators Research发表最新文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1315.htm",
+      "date": "2022-07-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "世界著名人口学专家Wolfgang Lutz院士受邀开展讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1312.htm",
+      "date": "2022-06-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "世界著名人口学专家Wolfgang Lutz院士受邀开展讲座",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1301.htm",
+      "date": "2022-06-24",
+      "column": "图片新闻"
+    },
+    {
+      "title": "Guy Abel教授在SCIENTIFIC DATA上发表论文",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1275.htm",
+      "date": "2022-05-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "蒋耒文教授在国际期刊Population Space and Place发表最新论文",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1271.htm",
+      "date": "2022-05-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心Guillaume Marois当选期刊Demographic Research副主编",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1302.htm",
+      "date": "2022-04-30",
+      "column": "热点新闻"
+    },
+    {
+      "title": "Guy Abel教授入选社会学领域的高被引学者榜单",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1298.htm",
+      "date": "2022-04-15",
+      "column": "热点新闻"
+    },
+    {
+      "title": "博士生孙亮亮和蒋耒文教授在《人口与经济》上发表最新研究成果",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1264.htm",
+      "date": "2022-02-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "许娜瑛博士在International Journal of Environmental Research and Public Health...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1261.htm",
+      "date": "2022-01-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "博士生吴颖机与导师Samir KC教授在Asian Population Studies发表最新研究成果",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1266.htm",
+      "date": "2022-01-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Samir KC教授当选亚洲人口学会（APA）第六届委员会秘书长",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1259.htm",
+      "date": "2021-12-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "陈晨博士当选第九届上海市人口学学会副会长",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1257.htm",
+      "date": "2021-12-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "陈晨博士当选第九届上海市人口学学会副会长",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1258.htm",
+      "date": "2021-12-30",
+      "column": "热点新闻"
+    },
+    {
+      "title": "陈晨博士当选第九届上海市人口学学会副会长",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1293.htm",
+      "date": "2021-12-30",
+      "column": "图片新闻"
+    },
+    {
+      "title": "国际科学咨询委员会（ISAB）会议成功举行",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1222.htm",
+      "date": "2021-11-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Guy Abel教授在Global Environmental Change上发表最新评论文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1218.htm",
+      "date": "2021-11-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心举办本学年师生见面会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1215.htm",
+      "date": "2021-11-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "蒋耒文教授、陈晨博士参加第五届人口迁移与可持续发展学术研讨会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1216.htm",
+      "date": "2021-11-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国低生育率未必会制约中国未来经济发展：Guillaume Marois副教授在美国国家科学 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1193.htm",
+      "date": "2021-10-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国低生育率未必会制约中国未来经济发展：Guillaume Marois副教授在美国国家科学 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1296.htm",
+      "date": "2021-10-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "中国低生育率未必会制约中国未来经济发展：Guillaume Marois副教授在美国国家科学 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1192.htm",
+      "date": "2021-10-26",
+      "column": "热点新闻"
+    },
+    {
+      "title": "中国低生育率未必会制约中国未来经济发展：Guillaume Marois副教授在美国国家科学 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1294.htm",
+      "date": "2021-10-26",
+      "column": "图片新闻"
+    },
+    {
+      "title": "亚洲人口研究中心师生参加中国人口学会2021年会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1210.htm",
+      "date": "2021-07-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2021届毕业生线上毕业典礼成功举行",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1209.htm",
+      "date": "2021-07-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心四名研究生参加第三届亚洲发展中国家人口与发展国际研讨会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1207.htm",
+      "date": "2021-06-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Fatima Tehreem文章《主要排放国家的可再生及不可再生能源消费、贸易和碳排放与收 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1205.htm",
+      "date": "2021-06-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Fatima Tehreem文章《主要排放国家的可再生及不可再生能源消费、贸易和碳排放与收 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1056/1206.htm",
+      "date": "2021-06-14",
+      "column": "热点新闻"
+    },
+    {
+      "title": "亚洲人口研究中心师生参加美国人口学会2021年会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1208.htm",
+      "date": "2021-06-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "线上研讨会 “What Demographers Tell Us about the COVID-19 Pandemic（人口学在C...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1199.htm",
+      "date": "2021-01-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "朱宇教授和吴金晶博士出席中国人口学会2020年年会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1197.htm",
+      "date": "2020-12-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Guy Abel的“迁移分析和预测”课程成为联合国人口基金会在哥伦比亚的培训课程",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1198.htm",
+      "date": "2020-11-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心Kaoru Kakinuma等在Environmental Research Letters发表文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1091.htm",
+      "date": "2020-11-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Samir KC教授荣获2020年上海市“白玉兰纪念奖”",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1092.htm",
+      "date": "2020-09-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心Guillaume Marois在维也纳人口研究年鉴2020(VYPR)上发表文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1093.htm",
+      "date": "2020-08-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "测试内容",
+      "url": "https://adrichn.shu.edu.cn/shuoming.doc",
+      "date": "2020-08-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心Tehreem Fatima在国际期刊JEPM上发表文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1094.htm",
+      "date": "2020-08-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心Guillaume Marois教授在PNAS发表文章",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1095.htm",
+      "date": "2020-04-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心举办“亚国家人口和人力资本预测模型方法和应用”工作坊",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1096.htm",
+      "date": "2019-11-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心举办“气候变化和人口迁移”工作坊",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1097.htm",
+      "date": "2019-10-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口论坛颁发最佳论文奖",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1098.htm",
+      "date": "2019-10-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心举办“亚洲国家国内人口和人力资本预测模型方法与应用” ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1099.htm",
+      "date": "2019-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "朝鲜代表首次来上海大学接受人口学工作坊培训",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1100.htm",
+      "date": "2019-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第二届亚洲人口论坛在上海大学举行",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1101.htm",
+      "date": "2019-10-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Tanning Workshop 3:  Methods in developing sub-national population and human ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1102.htm",
+      "date": "2019-06-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Tanning Workshop 2:  R for Demography and IUSSP Workshop on Estimating Migra...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1103.htm",
+      "date": "2019-06-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Training Workshop 1:  Methods and Models for Spatial Analysis on Population ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1104.htm",
+      "date": "2019-06-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "The Second Asian Population Forum Calls for Submissions",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1105.htm",
+      "date": "2019-06-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "挪威奥斯陆大学Nico Keilman教授应邀 访问亚洲人口研究中心",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1106.htm",
+      "date": "2019-05-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心团队赴浙江义乌市调研实践",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1107.htm",
+      "date": "2019-05-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心成功举办“亚洲国内人口迁移的国家比较”工作坊",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1108.htm",
+      "date": "2018-07-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心成功举办“亚洲国内人口迁移的国家比较”工作坊",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1146.htm",
+      "date": "2018-07-26",
+      "column": "图片新闻"
+    },
+    {
+      "title": "第二次“亚洲国家人口模型与预测工作坊”圆满举办",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1109.htm",
+      "date": "2018-01-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第二次“亚洲国家人口模型与预测工作坊”圆满举办",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1147.htm",
+      "date": "2018-01-31",
+      "column": "图片新闻"
+    },
+    {
+      "title": "亚洲人口研究中心开展教师学生学术研讨会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1110.htm",
+      "date": "2017-12-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心开展教师学生学术研讨会",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1148.htm",
+      "date": "2017-12-14",
+      "column": "图片新闻"
+    },
+    {
+      "title": "亚洲人口研究中心蒋耒文一行参加第二十八届世界人口大会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1111.htm",
+      "date": "2017-11-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心举行关于2018年第四届亚洲人口学会年会进度推进工作报告 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1112.htm",
+      "date": "2017-11-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学社会学院亚洲人口研究中心就顾宝昌教授获“中国软科学奖”相关事宜举行研讨会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1113.htm",
+      "date": "2017-10-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心学术研讨会活动——基于贝叶斯方法进行人口预测",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1114.htm",
+      "date": "2017-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口研究中心学术研讨会活动——基于贝叶斯方法进行人口预测",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1149.htm",
+      "date": "2017-10-21",
+      "column": "图片新闻"
+    },
+    {
+      "title": "亚洲人口中心在中国社会学会2017年学术年会上举办分论坛",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1115.htm",
+      "date": "2017-07-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "国际应用系统分析研究院院长Pavel Kabat访问上海大学并做演讲",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1116.htm",
+      "date": "2017-07-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "美国国家大气研究中心资深科学家Brian O’Neill来访上海大学",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1117.htm",
+      "date": "2017-06-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "社会学院人口研究所暨亚洲人口研究中心蒋耒文教授一行参加美国人口学年会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1118.htm",
+      "date": "2017-05-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "社会学院人口研究所暨亚洲人口研究中心蒋耒文教授一行参加美国人口学年会",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1150.htm",
+      "date": "2017-05-17",
+      "column": "图片新闻"
+    },
+    {
+      "title": "“亚洲国家人口模型与预测工作坊”圆满举办",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1119.htm",
+      "date": "2017-05-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口学会代表团访问亚洲人口研究中心，商讨承办第四届亚洲人口学大会相关事宜",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1120.htm",
+      "date": "2017-03-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "国家社科基金重大项目《“一带一路”战略下的国际人口迁移研究》课题启动会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1121.htm",
+      "date": "2017-02-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心成功获得亚洲人口学会2018年第四次大会承办权",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1122.htm",
+      "date": "2016-12-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心主持亚洲人口学会“一带一路专门委员会”",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1123.htm",
+      "date": "2016-12-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "朱宇教授参加中国人口学会2016年会并作大会主旨发言",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1151.htm",
+      "date": "2016-09-26",
+      "column": "图片新闻"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1124.htm",
+      "date": "2016-04-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "李友梅副校长会见国际应用系统分析研究所（IIASA）所长Pavel Kabat博士并参加与国 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1125.htm",
+      "date": "2016-04-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1126.htm",
+      "date": "2016-04-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://adrichn.shu.edu.cn/info/1058/1152.htm",
+      "date": "2016-04-18",
+      "column": "图片新闻"
+    },
+    {
+      "title": "上海大学社会学院人口研究所暨亚洲人口研究中心特聘教授朱宇出席移民和城市政策研 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1127.htm",
+      "date": "2016-03-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学亚洲人口研究中心国际科学咨询委员会委员Doo-Sub Kim教授当选亚洲人口学会...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1128.htm",
+      "date": "2016-02-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "亚洲人口学院蒋耒文所长、刘玉照教授访问新加坡国立大学及泰国朱拉隆功大学讨论相 ...",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1129.htm",
+      "date": "2016-01-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Alex博士来访上海大学社会学院并作报告",
+      "url": "https://adrichn.shu.edu.cn/info/1055/1130.htm",
+      "date": "2015-12-19",
+      "column": "新闻动态"
+    }
+  ]
+}

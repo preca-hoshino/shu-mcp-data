@@ -1,0 +1,1551 @@
+{
+  "domain": "chemlab.shu.edu.cn",
+  "department": "上海大学化学教学实验中心",
+  "type": "12",
+  "crawl_time": "20260525_053719",
+  "total_articles": 256,
+  "columns": {
+    "仪器资源": 34,
+    "实验安排": 41,
+    "实验教学信息": 99,
+    "新闻动态": 82
+  },
+  "articles": [
+    {
+      "title": "2026年上海大学化学实验竞赛评奖结果公布",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4162.htm",
+      "date": "2026-05-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2026年上海大学化学实验竞赛顺利举办",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4172.htm",
+      "date": "2026-05-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办“第二十届上海大学生化学实验竞赛暨实验创新设计竞赛（全国大学生化学实验竞赛上海赛区竞赛）”的通知（第二轮）",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4152.htm",
+      "date": "2026-05-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2025-2026春季仪器分析实验课程实验安排（9-16周）",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4122.htm",
+      "date": "2026-04-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春学期《仪器分析实验》讲义（部分）",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4142.htm",
+      "date": "2026-04-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春季仪器分析实验课程实验安排（9-16周）",
+      "url": "https://chemlab.shu.edu.cn/info/1006/4132.htm",
+      "date": "2026-04-21",
+      "column": "实验安排"
+    },
+    {
+      "title": "关于举办2026年上海大学化学实验竞赛  暨“第20届上海大学生化学实验竞赛”选拔赛的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4112.htm",
+      "date": "2026-04-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院化学实验教学中心核磁共振波谱仪培训课报名通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4102.htm",
+      "date": "2026-04-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2025-2026春学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4002.htm",
+      "date": "2026-02-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4022.htm",
+      "date": "2026-02-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春季学期综合化学提高实验（强）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4042.htm",
+      "date": "2026-02-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春学期综化化学B（1）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4052.htm",
+      "date": "2026-02-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春学期综化化学B（2）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/4082.htm",
+      "date": "2026-02-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026春学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/4012.htm",
+      "date": "2026-02-27",
+      "column": "实验安排"
+    },
+    {
+      "title": "2025-2026春学期综化化学B（1）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/4062.htm",
+      "date": "2026-02-27",
+      "column": "实验安排"
+    },
+    {
+      "title": "2025-2026春季学期综合化学提高实验（强）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/4072.htm",
+      "date": "2026-02-27",
+      "column": "实验安排"
+    },
+    {
+      "title": "2025-2026春学期综化化学B（2）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/4092.htm",
+      "date": "2026-02-27",
+      "column": "实验安排"
+    },
+    {
+      "title": "我校学生在“第十九届上海大学生化学实验竞赛暨实验创新设计竞赛”中喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3982.htm",
+      "date": "2025-11-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学化学学科赴中国科学技术大学与阳光电源股份有限公司开展学术交流与产业调研​​ ——聚焦AI精准化学与“绿电”“绿氢”发展",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3972.htm",
+      "date": "2025-11-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以练筑防，临“危”不乱  ——理学院举行消防应急演练，师生共上安全“必修课”",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3962.htm",
+      "date": "2025-10-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2025年上海大学化学实验竞赛评奖结果公布",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3952.htm",
+      "date": "2025-10-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办2025年上海大学化学实验竞赛 暨“第19届上海大学生化学实验竞赛”选拔赛的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3942.htm",
+      "date": "2025-09-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2025-2026秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3862.htm",
+      "date": "2025-09-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026秋学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3882.htm",
+      "date": "2025-09-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026秋学期现代仪器分析实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3902.htm",
+      "date": "2025-09-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026秋学期大学化学实验讲义（新增）",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3922.htm",
+      "date": "2025-09-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3872.htm",
+      "date": "2025-09-19",
+      "column": "实验安排"
+    },
+    {
+      "title": "2025-2026秋学期现代仪器分析实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3912.htm",
+      "date": "2025-09-19",
+      "column": "实验安排"
+    },
+    {
+      "title": "2025-2026秋学期综化实验B（2）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3842.htm",
+      "date": "2025-09-17",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2025-2026秋学期综化实验B（2）实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3852.htm",
+      "date": "2025-09-17",
+      "column": "实验安排"
+    },
+    {
+      "title": "我校学生获得第五届全国大学生化学实验创新设计大赛总决赛一等奖",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3832.htm",
+      "date": "2025-08-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院化学实验教学中心核磁共振波谱仪培训课报名通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3822.htm",
+      "date": "2025-04-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2024-2025春季仪器分析实验课程进度表及学生分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3792.htm",
+      "date": "2025-03-14",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025春学期《仪器分析实验》讲义-部分",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3812.htm",
+      "date": "2025-03-14",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025春季仪器分析实验课程进度表及学生分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3802.htm",
+      "date": "2025-03-14",
+      "column": "实验安排"
+    },
+    {
+      "title": "2024-2025春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3702.htm",
+      "date": "2025-03-12",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3722.htm",
+      "date": "2025-03-12",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025春季学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3752.htm",
+      "date": "2025-03-12",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3762.htm",
+      "date": "2025-03-12",
+      "column": "实验安排"
+    },
+    {
+      "title": "2024-2025春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3772.htm",
+      "date": "2025-03-12",
+      "column": "实验安排"
+    },
+    {
+      "title": "2024-2025春季学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3782.htm",
+      "date": "2025-03-12",
+      "column": "实验安排"
+    },
+    {
+      "title": "关于举办“第五届全国大学生化学实验创新设计大赛华东赛区竞赛”的第一轮通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3692.htm",
+      "date": "2025-03-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "北京大学化学与分子工程学院师生来我中心参观交流",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3682.htm",
+      "date": "2024-11-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2024-2025冬学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3632.htm",
+      "date": "2024-11-14",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025冬学期现代仪器分析实验A实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3652.htm",
+      "date": "2024-11-14",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "找差距 明目标 再发力  ——化学实验教学示范中心建设研讨会顺利召开",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3622.htm",
+      "date": "2024-11-08",
+      "column": "新闻动态"
+    },
+    {
+      "title": "筹备第五届全国大学生化学实验创新设计大赛专家指导交流会顺利举行",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3602.htm",
+      "date": "2024-09-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "化学系组织开展实验室安全专题讲座",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3552.htm",
+      "date": "2024-09-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "化学系组织博士新生实验室安全实训中心学习体验活动",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3572.htm",
+      "date": "2024-09-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院化学实验教学中心核磁共振波谱仪培训课报名通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3532.htm",
+      "date": "2024-09-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2024-2025学年秋学期化学学科教师安全工作会议召开",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3522.htm",
+      "date": "2024-09-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "化学系2024-2025学年秋学期博士生和硕士生新生安全教育工作圆满完成",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3512.htm",
+      "date": "2024-08-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2024-2025秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3442.htm",
+      "date": "2024-08-23",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025秋学期综合化学实验B（2）课程安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/3472.htm",
+      "date": "2024-08-23",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2024-2025秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3452.htm",
+      "date": "2024-08-23",
+      "column": "实验安排"
+    },
+    {
+      "title": "2024-2025秋学期综合化学实验B（2）课程安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/3482.htm",
+      "date": "2024-08-23",
+      "column": "实验安排"
+    },
+    {
+      "title": "应用化学专业学生在“第十八届上海大学生化学实验竞赛暨实验创新设计竞赛”喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3352.htm",
+      "date": "2024-07-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学化学实验中心接待高考学子及家长参观咨询",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2792.htm",
+      "date": "2024-06-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "仪器列表",
+      "url": "https://chemlab.shu.edu.cn/info/1012/1319.htm",
+      "date": "2024-06-17",
+      "column": "仪器资源"
+    },
+    {
+      "title": "高分辨电池材料性能分析仪",
+      "url": "https://chemlab.shu.edu.cn/info/1080/2692.htm",
+      "date": "2024-06-14",
+      "column": "仪器资源"
+    },
+    {
+      "title": "离子色谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1081/2702.htm",
+      "date": "2024-06-14",
+      "column": "仪器资源"
+    },
+    {
+      "title": "Spinsolve 80M台式微型核磁共振波谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1086/2712.htm",
+      "date": "2024-06-14",
+      "column": "仪器资源"
+    },
+    {
+      "title": "Bruker 600MHz核磁共振波谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1086/2722.htm",
+      "date": "2024-06-14",
+      "column": "仪器资源"
+    },
+    {
+      "title": "JEOL 400MHz 核磁共振波谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1086/2732.htm",
+      "date": "2024-06-14",
+      "column": "仪器资源"
+    },
+    {
+      "title": "理学院化学实验教学中心公益仪器培训课程开课通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2682.htm",
+      "date": "2024-06-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2024年上海大学化学实验竞赛评奖结果公布",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2662.htm",
+      "date": "2024-06-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第十八届上海大学化学实验竞赛顺利举办",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2672.htm",
+      "date": "2024-06-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办“第18届上海大学化学实验竞赛”的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2652.htm",
+      "date": "2024-04-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2023-2024春《仪器分析实验》课程进度表及学生分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2552.htm",
+      "date": "2024-03-11",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024春《仪器分析实验》课程进度表及学生分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2562.htm",
+      "date": "2024-03-11",
+      "column": "实验安排"
+    },
+    {
+      "title": "2023-2024春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2492.htm",
+      "date": "2024-03-08",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2522.htm",
+      "date": "2024-03-08",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024春学期物理化学实验安排（含物理化学实验A1和物理化学实验B）",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2532.htm",
+      "date": "2024-03-08",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2432.htm",
+      "date": "2024-03-08",
+      "column": "实验安排"
+    },
+    {
+      "title": "2023-2024春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2462.htm",
+      "date": "2024-03-08",
+      "column": "实验安排"
+    },
+    {
+      "title": "2023-2024春学期物理化学实验安排（含物理化学实验A1和物理化学实验B）",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2472.htm",
+      "date": "2024-03-08",
+      "column": "实验安排"
+    },
+    {
+      "title": "海上科普讲坛—超分子模拟酶",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2782.htm",
+      "date": "2024-01-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“一站到底”化学知识竞赛如约而至",
+      "url": "https://scicol.shu.edu.cn/info/1161/19025.htm",
+      "date": "2023-12-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2023-2024冬学期《现代仪器分析实验》分组名单和进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2402.htm",
+      "date": "2023-11-20",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024冬学期《现代仪器分析实验》分组名单和进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2412.htm",
+      "date": "2023-11-20",
+      "column": "实验安排"
+    },
+    {
+      "title": "2023-2024冬学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2372.htm",
+      "date": "2023-11-17",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024冬学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2382.htm",
+      "date": "2023-11-17",
+      "column": "实验安排"
+    },
+    {
+      "title": "上海市新中高级中学老师莅临化学实验教学中心参观交流",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2362.htm",
+      "date": "2023-11-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "点亮生活，绚丽世界--从诺奖到发光材料",
+      "url": "https://mp.weixin.qq.com/s/S-lEUh__vlOMUevRzhFYhQ",
+      "date": "2023-10-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学化学实验教学市级示范中心第一届教学指导委员会成立会议顺利召开",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2342.htm",
+      "date": "2023-10-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "争先创优强内涵 凝心聚力促发展——化学实验教学中心上半年度个人工作述职交流会顺利举行",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2332.htm",
+      "date": "2023-10-13",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校学生在“第十七届上海大学生化学实验竞赛暨实验创新设计竞赛”喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2222.htm",
+      "date": "2023-09-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2023-2024秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2182.htm",
+      "date": "2023-08-25",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2023-2024秋学期综合化学实验B(2)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2202.htm",
+      "date": "2023-08-25",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "理学院化学系本科生在“微瑞杯”第四届全国大学生化学实验创新设计大赛总决赛喜获特等奖",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2172.htm",
+      "date": "2023-08-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2023年上海大学化学实验竞赛评奖结果公布",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2171.htm",
+      "date": "2023-07-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院化学系本科生在“第四届全国大学生化学实验创新设计大赛‘微瑞杯’华东赛区竞赛”中喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2161.htm",
+      "date": "2023-07-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "江苏省汾湖高新技术产业开发区(思源创业园)相关领导​莅临化学实验教学中心参观交流",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2151.htm",
+      "date": "2023-06-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海第二工业大学老师莅临化学实验教学中心参观交流",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2141.htm",
+      "date": "2023-04-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "创新立德树人工作 提高三全育人成效  ——化学实验中心顺利通过学校本科实验教学平台建设验收",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2121.htm",
+      "date": "2023-04-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2023春学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1981.htm",
+      "date": "2023-03-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022-2023春学期物化实验周次安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1991.htm",
+      "date": "2023-03-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022-2023春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2001.htm",
+      "date": "2023-03-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022-2023春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2031.htm",
+      "date": "2023-03-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021-2022春学期《仪器分析实验》讲义-部分",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2041.htm",
+      "date": "2023-03-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022-2023春季仪器分析实验课程进度表及学生分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/2051.htm",
+      "date": "2023-03-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022-2023春季仪器分析实验课程进度表及学生分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2061.htm",
+      "date": "2023-03-15",
+      "column": "实验安排"
+    },
+    {
+      "title": "2022-2023春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2071.htm",
+      "date": "2023-03-15",
+      "column": "实验安排"
+    },
+    {
+      "title": "2022-2023春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2081.htm",
+      "date": "2023-03-15",
+      "column": "实验安排"
+    },
+    {
+      "title": "2022-2023春学期物化实验周次安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/2091.htm",
+      "date": "2023-03-15",
+      "column": "实验安排"
+    },
+    {
+      "title": "四川大学实验室及设备管理处莅临化学实验教学中心参观交流",
+      "url": "https://chemlab.shu.edu.cn/info/1004/2131.htm",
+      "date": "2023-03-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "傅里叶红外光谱仪iS 20",
+      "url": "https://chemlab.shu.edu.cn/info/1080/2802.htm",
+      "date": "2022-12-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "我校学生在“第十六届上海大学生化学实验竞赛暨实验创新设计竞赛”荣获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1980.htm",
+      "date": "2022-12-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2022冬季学期无机实验室第一周教室安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1950.htm",
+      "date": "2022-11-29",
+      "column": "实验安排"
+    },
+    {
+      "title": "2022冬季学期物理化学实验第一周教室安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1960.htm",
+      "date": "2022-11-29",
+      "column": "实验安排"
+    },
+    {
+      "title": "2022冬季学期分析实验室第一周教室安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1970.htm",
+      "date": "2022-11-29",
+      "column": "实验安排"
+    },
+    {
+      "title": "2022冬学期现代仪器分析实验分组名单及进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1899.htm",
+      "date": "2022-11-24",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022冬学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1919.htm",
+      "date": "2022-11-24",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022冬学期物理化学实验分组名单及进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1929.htm",
+      "date": "2022-11-24",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "安捷伦5977B多检测器气质联用仪简介",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1927.htm",
+      "date": "2022-11-11",
+      "column": "仪器资源"
+    },
+    {
+      "title": "UNICUBE元素分析仪简介",
+      "url": "https://chemlab.shu.edu.cn/info/1084/1925.htm",
+      "date": "2022-11-11",
+      "column": "仪器资源"
+    },
+    {
+      "title": "比表面及孔径分析仪简介",
+      "url": "https://chemlab.shu.edu.cn/info/1086/1926.htm",
+      "date": "2022-11-11",
+      "column": "仪器资源"
+    },
+    {
+      "title": "化学实验教学中心新购置贵重仪器设备试运行通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1924.htm",
+      "date": "2022-11-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办2022年上海大学化学实验竞赛暨 “第16届上海大学生化学实验竞赛”选拔赛的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1913.htm",
+      "date": "2022-09-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2022秋学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1907.htm",
+      "date": "2022-09-05",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1908.htm",
+      "date": "2022-09-05",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "纪念上海大学建校100周年-化学一流专业暨实验教学中心建设研讨会成功举办",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1906.htm",
+      "date": "2022-09-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2022秋学期无机实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1905.htm",
+      "date": "2022-09-04",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2022秋学期综合化学实验B（2）排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1904.htm",
+      "date": "2022-08-30",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021-2022春学期《仪器分析实验》分组名单和进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1897.htm",
+      "date": "2022-03-08",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021-2022春学期《仪器分析实验》讲义-部分",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1898.htm",
+      "date": "2022-03-08",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021-2022春季学期综合化学实验B(1)讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1893.htm",
+      "date": "2022-03-03",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021-2022春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1895.htm",
+      "date": "2022-03-03",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021-2022春季综化B(1)排课分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1896.htm",
+      "date": "2022-03-03",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "理学院化学系举办趣味化学知识竞赛",
+      "url": "https://scicol.shu.edu.cn/info/1161/9986.htm",
+      "date": "2021-12-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2021冬学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1883.htm",
+      "date": "2021-11-29",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021冬学期物理化学实验周次安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1884.htm",
+      "date": "2021-11-29",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021冬学期现代仪器分析实验分组名单和进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1886.htm",
+      "date": "2021-11-29",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "科普进校园——神奇的碳",
+      "url": "https://mp.weixin.qq.com/s/MoKFWtXZiGG2ZhrMquMDJQ",
+      "date": "2021-11-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校师生在“第十五届上海大学生化学实验竞赛”上荣获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1877.htm",
+      "date": "2021-10-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "无机化学实验3实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1863.htm",
+      "date": "2021-09-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "我校学生在第二届全国大学生化学实验创新设计竞赛中喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1847.htm",
+      "date": "2021-09-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2021秋学期仪器分析实验安排及实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1848.htm",
+      "date": "2021-09-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021秋学期无机化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1849.htm",
+      "date": "2021-09-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021秋学期大学化学实验内容和教师安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1850.htm",
+      "date": "2021-09-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021秋学期分析实验C安排及教学进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1852.htm",
+      "date": "2021-09-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021秋学期分析实验B安排及教学进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1854.htm",
+      "date": "2021-09-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1857.htm",
+      "date": "2021-09-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2021秋学期大学化学实验内容和教师安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1851.htm",
+      "date": "2021-09-06",
+      "column": "实验安排"
+    },
+    {
+      "title": "2021秋学期分析实验C安排及教学进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1853.htm",
+      "date": "2021-09-06",
+      "column": "实验安排"
+    },
+    {
+      "title": "2021秋学期分析实验B安排及教学进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1855.htm",
+      "date": "2021-09-06",
+      "column": "实验安排"
+    },
+    {
+      "title": "2021秋学期无机化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1856.htm",
+      "date": "2021-09-06",
+      "column": "实验安排"
+    },
+    {
+      "title": "2021秋学期物理化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1858.htm",
+      "date": "2021-09-06",
+      "column": "实验安排"
+    },
+    {
+      "title": "2021秋学期物理化学实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1844.htm",
+      "date": "2021-09-02",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "上海大学在第二届全国大学生化学实验创新设计竞赛华东赛区初赛中喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1843.htm",
+      "date": "2021-06-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2020-2021春学期-物化实验-内容和进程安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1833.htm",
+      "date": "2021-03-29",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "大学化学实验讲义——缓冲溶液的配置及性质测定",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1827.htm",
+      "date": "2021-03-23",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021春季学期综合化学实验B(1)讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1823.htm",
+      "date": "2021-03-22",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021春季综化B(1)课程进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1824.htm",
+      "date": "2021-03-22",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021春季学期综合化学提高实验(强)讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1825.htm",
+      "date": "2021-03-22",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021春季学期综合化学提高实验（强）排课表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1826.htm",
+      "date": "2021-03-22",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "化学学科本科教学例会",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3432.htm",
+      "date": "2021-03-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学化学实验竞赛颁奖仪式顺利举行",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1813.htm",
+      "date": "2021-01-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“一站到底”趣味知识竞赛成功举办",
+      "url": "https://scicol.shu.edu.cn/info/1161/9160.htm",
+      "date": "2021-01-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校学生在“第十四届上海大学生化学实验竞赛”上再创辉煌",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1803.htm",
+      "date": "2020-12-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2020-2021冬学期物化实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1793.htm",
+      "date": "2020-11-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021冬学期无机及分析化学实验2安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1794.htm",
+      "date": "2020-11-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021冬学期现代仪器分析实验实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1795.htm",
+      "date": "2020-11-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021冬学期大学化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1796.htm",
+      "date": "2020-11-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021冬学期无机化学实验（1）、无机化学实验C(2)、无机化学实验(2)(强)、工程化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1797.htm",
+      "date": "2020-11-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-21冬学期现代仪器分析实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1798.htm",
+      "date": "2020-11-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "化学实验教学中心获2019年“上海市级实验教学示范中心”立项",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1784.htm",
+      "date": "2020-11-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "《大学化学实验》教学研讨会",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3372.htm",
+      "date": "2020-10-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2020年上海大学化学实验竞赛评奖结果公布",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1763.htm",
+      "date": "2020-10-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2020年上海大学化学实验竞赛复赛通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1753.htm",
+      "date": "2020-10-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办2020年上海大学化学实验竞赛；暨第十四届“上海大学生化学实验竞赛”选拔赛的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1743.htm",
+      "date": "2020-10-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2020-2021秋学期无机化学实验讲义——实验12",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1733.htm",
+      "date": "2020-09-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021秋学期大学化学实验内容和教师安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1734.htm",
+      "date": "2020-09-15",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "上海大学化学教学工作及思政研讨会",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3412.htm",
+      "date": "2020-09-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "有机化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1723.htm",
+      "date": "2020-09-08",
+      "column": "实验安排"
+    },
+    {
+      "title": "2020-2021秋学期无机化学实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1703.htm",
+      "date": "2020-09-03",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021秋学期物化实验安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1704.htm",
+      "date": "2020-09-03",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "大学化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1706.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "无机及分析化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1708.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "物理化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1709.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "现代仪器分析实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1710.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "综合化学实验B（2）",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1711.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "无机化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1712.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "分析化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1713.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "工程化学实验",
+      "url": "https://chemlab.shu.edu.cn/info/1006/1714.htm",
+      "date": "2020-09-03",
+      "column": "实验安排"
+    },
+    {
+      "title": "2020-2021秋学期综合化学实验B(2)课程进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1693.htm",
+      "date": "2020-09-01",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021秋综合化学实验B(2)讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1694.htm",
+      "date": "2020-09-01",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021秋学期分析实验C教学进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1695.htm",
+      "date": "2020-09-01",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021秋学期仪器分析实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1696.htm",
+      "date": "2020-09-01",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020-2021秋学期仪器分析实验分组名单和进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1697.htm",
+      "date": "2020-09-01",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "疫情期间大学化学教研组为网课进行实验视频拍摄",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1623.htm",
+      "date": "2020-06-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "智能整体纯水系统",
+      "url": "https://chemlab.shu.edu.cn/info/1086/1570.htm",
+      "date": "2020-04-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "化学系召开化学实验中心工作会议",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1556.htm",
+      "date": "2020-04-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学生实验安全教育",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1553.htm",
+      "date": "2020-04-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020春季学期大学化学实验绪论课PPT",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1554.htm",
+      "date": "2020-04-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2020春学期各组实验课安排--分组表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1555.htm",
+      "date": "2020-04-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "安捷伦8890气相色谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1545.htm",
+      "date": "2019-12-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "WATERS Acquity UPLC H-Class超高效液相色谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1546.htm",
+      "date": "2019-12-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "WATERS Alliance HPLC高效液相色谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1547.htm",
+      "date": "2019-12-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "岛津LC-20AP高效液相色谱仪制备系统",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1548.htm",
+      "date": "2019-12-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "Precision LC II铁电材料测试仪",
+      "url": "https://chemlab.shu.edu.cn/info/1082/1544.htm",
+      "date": "2019-12-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "STA 449 F5综合热分析仪",
+      "url": "https://chemlab.shu.edu.cn/info/1083/1543.htm",
+      "date": "2019-12-30",
+      "column": "仪器资源"
+    },
+    {
+      "title": "上海大学校长刘昌胜、副校长汪小帆一行到化学楼（HA楼）考察",
+      "url": "http://www.chem.shu.edu.cn/Default.aspx?tabid=10791&ctl=Detail&mid=18455&Id=242006&SkinSrc=[L]Skins/huaxue/huaxue",
+      "date": "2019-12-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于2019-2020学年寒假安排的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1535.htm",
+      "date": "2019-12-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院化学系硕士研究生发表第一作者PNAS论文",
+      "url": "http://news.shu.edu.cn/info/1013/54621.htm",
+      "date": "2019-11-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "理学院“一站到底”化学知识竞赛成功举办",
+      "url": "https://scicol.shu.edu.cn/info/1007/7406.htm",
+      "date": "2019-11-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "化学系秋季学期大学化学课程教学研讨会",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3422.htm",
+      "date": "2019-11-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "化学系任清华副教授作学术报告",
+      "url": "http://www.chem.shu.edu.cn/Default.aspx?tabid=10791&ctl=Detail&mid=18455&Id=241187&SkinSrc=[L]Skins/huaxue/huaxue",
+      "date": "2019-11-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "今日化学系列报告 第240讲:Transition Metal Catalysed Borylation of C-H and C-X Bonds: Synthesis of Aryl and Alkyl Boronates",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1516.htm",
+      "date": "2019-11-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "今日化学系列报告 第241讲:思维形式规律与规则",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1517.htm",
+      "date": "2019-11-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "今日化学系列报告 第242讲:金属有机骨架材料用于低碳烃的高效分离",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1518.htm",
+      "date": "2019-11-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校学生在“第十三届上海大学生化学实验竞赛”上再创佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1519.htm",
+      "date": "2019-11-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2019秋学期仪器分析实验分组名单和进度表",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1493.htm",
+      "date": "2019-09-29",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "仪器分析实验讲义（部分）",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1494.htm",
+      "date": "2019-09-29",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "综合化学实验B(2)讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1483.htm",
+      "date": "2019-09-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2019秋学期综合化学实验B(2)进度安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1485.htm",
+      "date": "2019-09-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "化学系春季学期大学化学及大学化学实验集中阅卷",
+      "url": "https://chemlab.shu.edu.cn/info/1004/3402.htm",
+      "date": "2019-06-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2019春学期综合化学实验B（1）讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1463.htm",
+      "date": "2019-03-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2019春学期综合化学实验分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1464.htm",
+      "date": "2019-03-21",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2019春学期《现代分析与测试技术讲义》",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1453.htm",
+      "date": "2019-03-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2019春学期《现代分析与测试技术》分组名单与进度安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1454.htm",
+      "date": "2019-03-19",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2018-2019冬学期《现代仪器分析实验》讲义与分组安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1445.htm",
+      "date": "2018-11-26",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "18-19秋学期《化学实验与社会生活》实验安排与分组名单",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1433.htm",
+      "date": "2018-09-20",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "我校学生在“第十二届上海大学生化学实验竞赛”取得佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1425.htm",
+      "date": "2018-08-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2018-2019（秋）《仪器分析实验》进度表",
+      "url": "https://chemlab.shu.edu.cn/yf.xlsx",
+      "date": "2018-08-31",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2018-2019秋学期综合化学实验分组及进度表",
+      "url": "https://chemlab.shu.edu.cn/zh.xls",
+      "date": "2018-08-31",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "仪器分析实验讲义",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1427.htm",
+      "date": "2018-08-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "关于2018-2019学年暑假工作安排的通知",
+      "url": "http://www.shu.edu.cn/info/1051/62575.htm",
+      "date": "2018-07-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "气相色谱",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1394.htm",
+      "date": "2018-07-02",
+      "column": "仪器资源"
+    },
+    {
+      "title": "高效液相色谱质谱联用仪",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1395.htm",
+      "date": "2018-07-02",
+      "column": "仪器资源"
+    },
+    {
+      "title": "2018年上海大学化学系暑期夏令营拟录取名单",
+      "url": "http://www.chem.shu.edu.cn/Default.aspx?tabid=10791&ctl=Detail&mid=19393&Id=231019&SkinSrc=[L]Skins/huaxue/huaxue",
+      "date": "2018-06-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "原位红外光谱测试仪",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1369.htm",
+      "date": "2018-06-29",
+      "column": "仪器资源"
+    },
+    {
+      "title": "傅里叶红外光谱仪AVATAR 370",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1352.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "紫外-可见分光光度计",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1353.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "高准确度自动旋光仪",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1355.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "原子吸收光谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1362.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "岛津高效液相色谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1081/1365.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "STA 409 PC综合热分析仪",
+      "url": "https://chemlab.shu.edu.cn/info/1083/1354.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "Vario ELⅢ元素分析仪",
+      "url": "https://chemlab.shu.edu.cn/info/1084/1363.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "全自动氮吸附比表面测试仪",
+      "url": "https://chemlab.shu.edu.cn/info/1086/1364.htm",
+      "date": "2018-06-28",
+      "column": "仪器资源"
+    },
+    {
+      "title": "2018-2019秋学期《仪器分析实验》内容安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1316.htm",
+      "date": "2018-06-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2018-2019秋学期《综合化学实验B（2）》课程内容",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1317.htm",
+      "date": "2018-06-27",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "电感耦合等离子体发射光谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1206.htm",
+      "date": "2018-06-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "荧光光谱仪",
+      "url": "https://chemlab.shu.edu.cn/info/1080/1207.htm",
+      "date": "2018-06-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "CHI660C电化学工作站",
+      "url": "https://chemlab.shu.edu.cn/info/1082/1209.htm",
+      "date": "2018-06-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "电分析化学综合测试仪",
+      "url": "https://chemlab.shu.edu.cn/info/1082/1210.htm",
+      "date": "2018-06-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "高分辨质谱",
+      "url": "https://chemlab.shu.edu.cn/info/1085/1216.htm",
+      "date": "2018-06-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "自动电位滴定仪",
+      "url": "https://chemlab.shu.edu.cn/info/1086/1251.htm",
+      "date": "2018-06-26",
+      "column": "仪器资源"
+    },
+    {
+      "title": "学术报告：草酸二酰胺：铜催化芳基化反应的第二代配体",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1287.htm",
+      "date": "2018-06-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2018年“今井嘉夫奖学金”颁奖仪式隆重举行",
+      "url": "http://www.chem.shu.edu.cn/Default.aspx?tabid=10791&ctl=Detail&mid=18455&Id=230292&SkinSrc=[L]Skins/huaxue/huaxue",
+      "date": "2018-05-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "美国休斯顿大学Olafs Daugulis教授访问化学系",
+      "url": "http://www.chem.shu.edu.cn/Default.aspx?tabid=10791&ctl=Detail&mid=18455&Id=230297&SkinSrc=[L]Skins/huaxue/huaxue",
+      "date": "2018-05-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学术报告：New Methods for C-H Bond Functionalization",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1285.htm",
+      "date": "2018-05-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2018年上海大学化学实验竞赛评奖结果公布",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1334.htm",
+      "date": "2018-05-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于举办2018年上海大学化学实验竞赛暨第十二届“上海大学生化学实验竞赛”选拔赛的通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/1333.htm",
+      "date": "2018-04-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学生选课注意事项",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1318.htm",
+      "date": "2018-04-06",
+      "column": "实验教学信息"
+    },
+    {
+      "title": "2018春学期综合化学实验B（1）进度安排",
+      "url": "https://chemlab.shu.edu.cn/info/1005/1275.htm",
+      "date": "2018-03-19",
+      "column": "实验教学信息"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "domain": "silclab.shu.edu.cn",
+  "department": "上海大学悉尼工商学院数智经管实验中心",
+  "type": "20",
+  "crawl_time": "20260514_004804",
+  "total_articles": 13,
+  "columns": {
+    "中心新闻": 4,
+    "通知公告": 5,
+    "成果展示": 4
+  },
+  "articles": [
+    {
+      "title": "悉商学子在“正大杯”第十三届全国大学生市场调查与分析大赛本科组赛上荣获佳绩2024-06-07",
+      "url": "https://silclab.shu.edu.cn/info/1311/1061.htm",
+      "date": "2024-06-07",
+      "column": "中心新闻"
+    },
+    {
+      "title": "财大实验中心调研2024-05-23",
+      "url": "https://silclab.shu.edu.cn/info/1311/1091.htm",
+      "date": "2024-05-23",
+      "column": "中心新闻"
+    },
+    {
+      "title": "道路施工期间进出实验室路线通知2024-05-22",
+      "url": "https://silclab.shu.edu.cn/info/1321/1121.htm",
+      "date": "2024-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "停电通知2024-05-21",
+      "url": "https://silclab.shu.edu.cn/info/1321/1151.htm",
+      "date": "2024-05-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "无人巡检车助力隧道健康检测2024-05-21",
+      "url": "https://silclab.shu.edu.cn/info/1331/1181.htm",
+      "date": "2024-05-21",
+      "column": "成果展示"
+    },
+    {
+      "title": "中澳两校共庆悉尼工商学院建院30周年2024-05-18",
+      "url": "https://silclab.shu.edu.cn/info/1311/1081.htm",
+      "date": "2024-05-18",
+      "column": "中心新闻"
+    },
+    {
+      "title": "考试周机房安排通知2024-05-10",
+      "url": "https://silclab.shu.edu.cn/info/1321/1111.htm",
+      "date": "2024-05-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好劳动节假期间实验室安全工作的通知2024-04-30",
+      "url": "https://silclab.shu.edu.cn/info/1321/1141.htm",
+      "date": "2024-04-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织参加 2024年高校实验室安全工作培训会的通知2024-04-23",
+      "url": "https://silclab.shu.edu.cn/info/1321/1131.htm",
+      "date": "2024-04-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "眼动仪使用及行为仿真实验设计培训2024-03-21",
+      "url": "https://silclab.shu.edu.cn/info/1311/1071.htm",
+      "date": "2024-03-21",
+      "column": "中心新闻"
+    },
+    {
+      "title": "无人机在桥梁病害检测中取得新突破2024-03-12",
+      "url": "https://silclab.shu.edu.cn/info/1331/1171.htm",
+      "date": "2024-03-12",
+      "column": "成果展示"
+    },
+    {
+      "title": "虚拟现实技术培训成功举办2023-12-22",
+      "url": "https://silclab.shu.edu.cn/info/1331/1161.htm",
+      "date": "2023-12-22",
+      "column": "成果展示"
+    },
+    {
+      "title": "“城市基础设施重大突发事件应急管理虚拟仿真实验”获批上海市一流虚拟仿真课程2022-05-23",
+      "url": "https://silclab.shu.edu.cn/info/1331/1191.htm",
+      "date": "2022-05-23",
+      "column": "成果展示"
+    }
+  ]
+}
