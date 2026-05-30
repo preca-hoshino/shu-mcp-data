@@ -30,6 +30,9 @@ dmypy.json
 *.swp
 *.swo
 
+# Output data (stored in orphan 'data' branch)
+output/
+
 # OS
 .DS_Store
 Thumbs.db
