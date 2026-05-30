@@ -1,0 +1,662 @@
+{
+  "domain": "lib.shu.edu.cn",
+  "department": "上海大学图书馆",
+  "type": "06",
+  "crawl_time": "20260529_053205",
+  "total_articles": 108,
+  "columns": {
+    "公告信息": 34,
+    "图书馆新闻": 41,
+    "资源动态": 33
+  },
+  "articles": [
+    {
+      "title": "馆际互鉴 共促发展 ——深圳大学图书馆同仁赴我馆开展专题调研交流",
+      "url": "https://lib.shu.edu.cn/info/1024/6974.htm",
+      "date": "2026-05-29",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "古今集韵 万卷藏珍 ——《古今图书集成》专题展隆重揭幕",
+      "url": "https://lib.shu.edu.cn/info/1024/6964.htm",
+      "date": "2026-05-20",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "关于2026年图书馆劳动节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6954.htm",
+      "date": "2026-04-28",
+      "column": "公告信息"
+    },
+    {
+      "title": "HeinOnline 数据库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6924.htm",
+      "date": "2026-04-20",
+      "column": "资源动态"
+    },
+    {
+      "title": "从图纸到专利，由创新至保护——上海大学知识产权日专题讲座",
+      "url": "https://lib.shu.edu.cn/info/1024/6934.htm",
+      "date": "2026-04-20",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "深化部门协同融合 赋能知识产权管理服务新模式  ——上海大学知识产权管理与馆部协作交流会",
+      "url": "https://lib.shu.edu.cn/info/1024/6914.htm",
+      "date": "2026-04-10",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "百度文库资源库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6894.htm",
+      "date": "2026-03-31",
+      "column": "资源动态"
+    },
+    {
+      "title": "【新闻】合肥大学图书馆同仁赴我馆开展专题调研交流",
+      "url": "https://lib.shu.edu.cn/info/1024/6884.htm",
+      "date": "2026-03-31",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆召开第六届双代会第四次代表大会",
+      "url": "https://lib.shu.edu.cn/info/1024/6904.htm",
+      "date": "2026-03-31",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "开通试用Coherent历史研究系列数据库的两个专题",
+      "url": "https://lib.shu.edu.cn/info/1023/5664.htm",
+      "date": "2026-03-30",
+      "column": "资源动态"
+    },
+    {
+      "title": "《BHO英国历史在线》数据库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6854.htm",
+      "date": "2026-03-26",
+      "column": "资源动态"
+    },
+    {
+      "title": "Sage-AM英国外交部档案系列数据库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6864.htm",
+      "date": "2026-03-26",
+      "column": "资源动态"
+    },
+    {
+      "title": "关于2026年图书馆清明节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6844.htm",
+      "date": "2026-03-25",
+      "column": "公告信息"
+    },
+    {
+      "title": "“《<复兴文库>数据库》”试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6834.htm",
+      "date": "2026-03-21",
+      "column": "资源动态"
+    },
+    {
+      "title": "跨越山海的考古之约：重庆市文物考古研究院百册图书入藏图书馆",
+      "url": "https://lib.shu.edu.cn/info/1024/6824.htm",
+      "date": "2026-03-19",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "八十万卷楼9万种古籍全文检索平台试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6814.htm",
+      "date": "2026-03-18",
+      "column": "资源动态"
+    },
+    {
+      "title": "简易寻外文学术资源数据库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6794.htm",
+      "date": "2026-03-13",
+      "column": "资源动态"
+    },
+    {
+      "title": "5月6日截稿！中国出版集团第三届大学生阅读分享活动火热征文",
+      "url": "https://lib.shu.edu.cn/info/1024/6804.htm",
+      "date": "2026-03-13",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "畅想之星电子书试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6774.htm",
+      "date": "2026-03-11",
+      "column": "资源动态"
+    },
+    {
+      "title": "鸿篇巨制入藏上大 尘封历史再焕新生 ——《中国近代纺织史资料选编：上海市档案馆卷·申新纺织系统》捐赠图书馆",
+      "url": "https://lib.shu.edu.cn/info/1024/6784.htm",
+      "date": "2026-03-11",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学图书馆万方数据新产品试用说明",
+      "url": "https://lib.shu.edu.cn/info/1023/6744.htm",
+      "date": "2026-03-07",
+      "column": "资源动态"
+    },
+    {
+      "title": "企研社科大数据平台试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6754.htm",
+      "date": "2026-03-07",
+      "column": "资源动态"
+    },
+    {
+      "title": "关于校本部图书馆讲堂暂停服务的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6734.htm",
+      "date": "2026-03-03",
+      "column": "公告信息"
+    },
+    {
+      "title": "墨润书香承文脉，报传城韵育新苗 ——上海大学图书馆设立《新民晚报》阅读区",
+      "url": "https://lib.shu.edu.cn/info/1024/6724.htm",
+      "date": "2026-01-23",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海电视新闻影像库、海派纪录片库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6704.htm",
+      "date": "2026-01-16",
+      "column": "资源动态"
+    },
+    {
+      "title": "蓝博图学术快报试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6714.htm",
+      "date": "2026-01-16",
+      "column": "资源动态"
+    },
+    {
+      "title": "关于2026年图书馆寒假开放的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6694.htm",
+      "date": "2026-01-15",
+      "column": "公告信息"
+    },
+    {
+      "title": "图书馆管理系统数据迁移期间暂停流通服务的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6684.htm",
+      "date": "2026-01-12",
+      "column": "公告信息"
+    },
+    {
+      "title": "“文脉汇聚 书香致远”上海大学图书馆获赠《江苏文库》",
+      "url": "https://lib.shu.edu.cn/info/1024/6664.htm",
+      "date": "2026-01-10",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "喜报！图书馆在上海大学2025年度教育统计工作先进表彰会中斩获多项荣誉",
+      "url": "https://lib.shu.edu.cn/info/1024/6674.htm",
+      "date": "2026-01-10",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "关于EndNote旧版本终止服务及文献库备份的紧急通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6654.htm",
+      "date": "2026-01-08",
+      "column": "资源动态"
+    },
+    {
+      "title": "图书馆获赠《中华传统文化百部经典》70种典籍",
+      "url": "https://lib.shu.edu.cn/info/1024/6644.htm",
+      "date": "2026-01-04",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "书卷含情，翰墨铭恩——致敬所有关爱上海大学图书馆的捐赠者",
+      "url": "https://lib.shu.edu.cn/info/1022/6624.htm",
+      "date": "2026-01-01",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于2026年图书馆元旦放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6614.htm",
+      "date": "2025-12-29",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于图书馆管理系统切换期间部分服务调整的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6604.htm",
+      "date": "2025-12-23",
+      "column": "公告信息"
+    },
+    {
+      "title": "尚古汇典·古籍数字服务平台延长试用",
+      "url": "https://lib.shu.edu.cn/info/1023/6584.htm",
+      "date": "2025-12-18",
+      "column": "资源动态"
+    },
+    {
+      "title": "HeinOnline-Intellectual Property Law Collection（知识产权法学文献库）数据库开通通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6594.htm",
+      "date": "2025-12-18",
+      "column": "资源动态"
+    },
+    {
+      "title": "一起见证两千多年前的中华文明  ---胡平生先生珍贵文献特藏捐赠上海大学图书馆",
+      "url": "https://lib.shu.edu.cn/info/1024/6574.htm",
+      "date": "2025-12-18",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "深化馆际协作 共促文化育人  ——西安交通大学图书馆一行赴我馆开展专题调研",
+      "url": "https://lib.shu.edu.cn/info/1024/6564.htm",
+      "date": "2025-12-16",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "从文化角度阅读《预算执中》  ——荐苟燕楠教授同名书",
+      "url": "https://lib.shu.edu.cn/info/1024/6554.htm",
+      "date": "2025-12-10",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "聚力图书馆事业发展——上海大学图书馆精彩亮相上海市图书馆学会 2025 年学术年会",
+      "url": "https://lib.shu.edu.cn/info/1024/6544.htm",
+      "date": "2025-12-08",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "三明学院副校长一行赴上海大学图书馆开展专题调研",
+      "url": "https://lib.shu.edu.cn/info/1024/6534.htm",
+      "date": "2025-12-03",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "2025年教职工乒乓球团体赛圆满落幕，图博档荣获第八名！",
+      "url": "https://lib.shu.edu.cn/info/1024/6514.htm",
+      "date": "2025-12-01",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "聚焦十大重点领域 共启分馆建设新篇—图书馆分馆建设研讨会暨新建分馆签约启动仪式顺利举办",
+      "url": "https://lib.shu.edu.cn/info/1024/6524.htm",
+      "date": "2025-12-01",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "耶鲁大学“人类关系区域档案”开通试用",
+      "url": "https://lib.shu.edu.cn/info/1023/6504.htm",
+      "date": "2025-11-28",
+      "column": "资源动态"
+    },
+    {
+      "title": "E-Academic（易学术）数据库试用的通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6484.htm",
+      "date": "2025-11-27",
+      "column": "资源动态"
+    },
+    {
+      "title": "潘守永馆长出席全国科技名词委年会，发布非遗热词",
+      "url": "https://lib.shu.edu.cn/info/1024/6494.htm",
+      "date": "2025-11-27",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "DMSAS数据分析系统试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/6474.htm",
+      "date": "2025-11-24",
+      "column": "资源动态"
+    },
+    {
+      "title": "西南民族大学图书馆同仁赴上海大学图书馆开展专题调研交流",
+      "url": "https://lib.shu.edu.cn/info/1024/6464.htm",
+      "date": "2025-11-21",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "SpecialSci数据库开通试用",
+      "url": "https://lib.shu.edu.cn/info/1023/6444.htm",
+      "date": "2025-11-12",
+      "column": "资源动态"
+    },
+    {
+      "title": "关于2025年图书馆暑假开放的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6184.htm",
+      "date": "2025-06-30",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于2025年图书馆端午节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6034.htm",
+      "date": "2025-05-28",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于2025年图书馆劳动节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5924.htm",
+      "date": "2025-04-24",
+      "column": "公告信息"
+    },
+    {
+      "title": "结束巡察进驻公告",
+      "url": "https://lib.shu.edu.cn/info/1022/5914.htm",
+      "date": "2025-04-23",
+      "column": "公告信息"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://lib.shu.edu.cn/info/1022/5864.htm",
+      "date": "2025-04-09",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于2025年图书馆清明节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5844.htm",
+      "date": "2025-04-02",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于2025年图书馆寒假开放的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5714.htm",
+      "date": "2025-01-08",
+      "column": "公告信息"
+    },
+    {
+      "title": "凡心所愿，步履不停 ——2025年元旦寄语",
+      "url": "https://lib.shu.edu.cn/info/1022/5694.htm",
+      "date": "2025-01-01",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于停水期间宝山校区校本部馆有限开放的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5564.htm",
+      "date": "2024-10-31",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于校本部图书馆东西两侧通道封闭通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5414.htm",
+      "date": "2024-09-25",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于开展2024年上海大学图书资产盘点工作的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5394.htm",
+      "date": "2024-09-18",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于2024年图书馆 中秋节、国庆节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/5344.htm",
+      "date": "2024-09-11",
+      "column": "公告信息"
+    },
+    {
+      "title": "上海大学第五届读书月活动圆满落幕",
+      "url": "https://lib.shu.edu.cn/info/1024/2659.htm",
+      "date": "2017-05-23",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学图书馆考察团前往上海科技大学图书馆学习调研",
+      "url": "https://lib.shu.edu.cn/info/1024/2658.htm",
+      "date": "2017-05-22",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "“带你学术，带你飞”走进校园系列活动在上海大学成功举行",
+      "url": "https://lib.shu.edu.cn/info/1024/2657.htm",
+      "date": "2017-05-17",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "我校举办“古韵新声—上海大学第一届古典诗词吟诵大会”",
+      "url": "https://lib.shu.edu.cn/info/1024/2656.htm",
+      "date": "2017-05-15",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆联合WILEY出版公司为师生举办投稿讲座",
+      "url": "https://lib.shu.edu.cn/info/1024/2654.htm",
+      "date": "2017-05-12",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆联合SAGE JOURNALS成功举办IMECH数据库专题讲座",
+      "url": "https://lib.shu.edu.cn/info/1024/2655.htm",
+      "date": "2017-05-12",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆举办“古籍数字人文与资源获取”专题讲座",
+      "url": "https://lib.shu.edu.cn/info/1024/2652.htm",
+      "date": "2017-05-08",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学第五届读书月活动顺利开幕",
+      "url": "https://lib.shu.edu.cn/info/1024/2651.htm",
+      "date": "2017-04-21",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "第三届中日大学生艺术交流展开幕式在我馆二楼展厅成功举行",
+      "url": "https://lib.shu.edu.cn/info/1024/2650.htm",
+      "date": "2017-03-30",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆举行2017年度干部业务培训交流会",
+      "url": "https://lib.shu.edu.cn/info/1024/2644.htm",
+      "date": "2017-02-13",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学第4届读书月活动开幕",
+      "url": "https://lib.shu.edu.cn/info/1024/2643.htm",
+      "date": "2016-04-19",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学图书馆2015年新获两项国家社科基金项目立项",
+      "url": "https://lib.shu.edu.cn/info/1024/2641.htm",
+      "date": "2015-07-09",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆三篇论文荣获教育部高校图工委优秀论文奖",
+      "url": "https://lib.shu.edu.cn/info/1024/2642.htm",
+      "date": "2015-07-09",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "今天如何“读”经典—上海大学第三届读书月活动正式开幕",
+      "url": "https://lib.shu.edu.cn/info/1024/2640.htm",
+      "date": "2015-04-20",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学图书馆召开全馆职工工作大会",
+      "url": "https://lib.shu.edu.cn/info/1024/2718.htm",
+      "date": "2015-03-23",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "上海大学图书馆在“首届全国高校图书馆服务创新案例大赛”上获奖",
+      "url": "https://lib.shu.edu.cn/info/1024/2716.htm",
+      "date": "2014-06-04",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆荣获CALIS三期建设学位论文项目数据库建设一等奖",
+      "url": "https://lib.shu.edu.cn/info/1024/2714.htm",
+      "date": "2013-01-11",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图书馆荣获“WOK在线大讲堂（2012年春季）最佳组织奖”一等奖",
+      "url": "https://lib.shu.edu.cn/info/1024/2712.htm",
+      "date": "2012-08-17",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "《自然科学信息技术检索教程》喜获第二届中国大学出版社图书奖一等奖",
+      "url": "https://lib.shu.edu.cn/info/1024/2710.htm",
+      "date": "2012-06-18",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "RLOS数据库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2839.htm",
+      "date": "2011-12-28",
+      "column": "资源动态"
+    },
+    {
+      "title": "新东方多媒体学习库试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2838.htm",
+      "date": "2011-11-23",
+      "column": "资源动态"
+    },
+    {
+      "title": "万律（Westlaw China）中国法律法规双语数据库开通试用",
+      "url": "https://lib.shu.edu.cn/info/1023/2837.htm",
+      "date": "2011-11-10",
+      "column": "资源动态"
+    },
+    {
+      "title": "书同文典籍数据库开通试用",
+      "url": "https://lib.shu.edu.cn/info/1023/2836.htm",
+      "date": "2011-11-09",
+      "column": "资源动态"
+    },
+    {
+      "title": "KUKE数字音乐图书馆延期试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2835.htm",
+      "date": "2011-11-02",
+      "column": "资源动态"
+    },
+    {
+      "title": "剑桥期刊回溯库—CJDA 2011 开通试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2834.htm",
+      "date": "2011-10-21",
+      "column": "资源动态"
+    },
+    {
+      "title": "ProQuest学位论文全文库开始选论文",
+      "url": "https://lib.shu.edu.cn/info/1023/2833.htm",
+      "date": "2011-10-20",
+      "column": "资源动态"
+    },
+    {
+      "title": "SAGE现刊全库开通试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2831.htm",
+      "date": "2011-10-14",
+      "column": "资源动态"
+    },
+    {
+      "title": "英国机械工程师学会(IMechE)期刊试用开通通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2832.htm",
+      "date": "2011-10-14",
+      "column": "资源动态"
+    },
+    {
+      "title": "NoteExpress延长试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2864.htm",
+      "date": "2011-10-08",
+      "column": "资源动态"
+    },
+    {
+      "title": "牛津学术专著在线电子图书试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2862.htm",
+      "date": "2011-09-22",
+      "column": "资源动态"
+    },
+    {
+      "title": "Turnitin反剽窃检测系统试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2863.htm",
+      "date": "2011-09-22",
+      "column": "资源动态"
+    },
+    {
+      "title": "EBSCO化学品数据库CCW-CHIL-PL试用开通通知",
+      "url": "https://lib.shu.edu.cn/info/1023/2861.htm",
+      "date": "2011-09-15",
+      "column": "资源动态"
+    },
+    {
+      "title": "2011图书馆前沿技术论坛：移动未来”会议通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2428.htm",
+      "date": "2011-06-17",
+      "column": "公告信息"
+    },
+    {
+      "title": "“剑桥图书在线”平台功能更新说明",
+      "url": "https://lib.shu.edu.cn/info/1022/2427.htm",
+      "date": "2011-06-13",
+      "column": "公告信息"
+    },
+    {
+      "title": "任树怀主持社科基金项目入选首批《国家哲学社会科学成果文库》",
+      "url": "https://lib.shu.edu.cn/info/1022/2426.htm",
+      "date": "2011-06-10",
+      "column": "公告信息"
+    },
+    {
+      "title": "IEL数据库网络系列培训",
+      "url": "https://lib.shu.edu.cn/info/1022/2425.htm",
+      "date": "2011-06-08",
+      "column": "公告信息"
+    },
+    {
+      "title": "海外收藏的中国近代史珍稀史料文献库开通通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2424.htm",
+      "date": "2011-06-07",
+      "column": "公告信息"
+    },
+    {
+      "title": "2011年上海大学评优通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2422.htm",
+      "date": "2011-06-02",
+      "column": "公告信息"
+    },
+    {
+      "title": "Emerald图情学最新征稿通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2419.htm",
+      "date": "2011-05-25",
+      "column": "公告信息"
+    },
+    {
+      "title": "2011年Emerald图书馆学与情报学研究基金征集",
+      "url": "https://lib.shu.edu.cn/info/1022/2420.htm",
+      "date": "2011-05-25",
+      "column": "公告信息"
+    },
+    {
+      "title": "Begell Digital Library (BDL)讲座通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2417.htm",
+      "date": "2011-05-23",
+      "column": "公告信息"
+    },
+    {
+      "title": "Westlaw法律在线数据库讲座结束",
+      "url": "https://lib.shu.edu.cn/info/1022/2416.htm",
+      "date": "2011-05-20",
+      "column": "公告信息"
+    },
+    {
+      "title": "201105走近IEEE系列-帮助您提升IEL数据库服务",
+      "url": "https://lib.shu.edu.cn/info/1022/2415.htm",
+      "date": "2011-05-18",
+      "column": "公告信息"
+    },
+    {
+      "title": "Westlaw 法律在线数据库讲座通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2413.htm",
+      "date": "2011-05-16",
+      "column": "公告信息"
+    },
+    {
+      "title": "关于申报和选派2011年上海高校教师国外访学进修通知",
+      "url": "https://lib.shu.edu.cn/info/1022/2482.htm",
+      "date": "2011-05-13",
+      "column": "公告信息"
+    },
+    {
+      "title": "上海大学2011年思想理论研究课题申请指南",
+      "url": "https://lib.shu.edu.cn/info/1022/2481.htm",
+      "date": "2011-04-27",
+      "column": "公告信息"
+    }
+  ]
+}

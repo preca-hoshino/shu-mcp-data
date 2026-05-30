@@ -1,0 +1,129 @@
+{
+  "domain": "skl4nm.shu.edu.cn",
+  "department": "上海大学核电关键材料全国重点实验室",
+  "type": "06",
+  "crawl_time": "20260514_004804",
+  "total_articles": 19,
+  "columns": {
+    "新闻资讯": 7,
+    "通知公告": 7,
+    "研究成果": 4,
+    "招生招聘": 1
+  },
+  "articles": [
+    {
+      "title": "新闻|宝武特冶核电蒸发器用关键镍（铁）基材料获评国家级制造业单项冠军",
+      "url": "https://mp.weixin.qq.com/s/LSWMVfoxPDVlXCdfAasiyg",
+      "date": "2026-04-10",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "新闻| 核电关键材料全国重点实验室与国核锆业国家能源核级锆材研发中心完成合作签约",
+      "url": "https://mp.weixin.qq.com/s/t1U4vHKUK4HvTo0NOFVkag",
+      "date": "2026-04-02",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "2026年清明、五一、端午假期值班表",
+      "url": "https://skl4nm.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1031&wbnewsid=1751",
+      "date": "2026-04-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "核电关键材料全国重点实验室卞西磊在电催化析氧反应机理研究方面取得重要进展",
+      "url": "https://mp.weixin.qq.com/s/UNQrFhOkRBUGbYPWqMS24Q",
+      "date": "2026-03-18",
+      "column": "研究成果"
+    },
+    {
+      "title": "新闻| 核电关键材料全国重点实验室与江西天红科技完成合作签约",
+      "url": "https://mp.weixin.qq.com/s/UUpiHV6x9sz6LcSPHMw0aw",
+      "date": "2026-03-18",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "核电关键材料全国重点实验室钟云波团队连发3篇封面论文",
+      "url": "https://www.shu.edu.cn/info/1055/388755.htm",
+      "date": "2026-01-15",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "核电关键材料全国重点实验室2025年开放课题拟立项项目的公示",
+      "url": "https://mp.weixin.qq.com/s/DL8K4MhNqDjiCj78agAU2g",
+      "date": "2025-12-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年元旦值班表",
+      "url": "https://skl4nm.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1031&wbnewsid=1491",
+      "date": "2025-12-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年寒假值班表",
+      "url": "https://skl4nm.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1031&wbnewsid=1531",
+      "date": "2025-12-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "核电关键材料全国重点实验室施思齐教授团队在《Advanced Energy Materials》上发表封面论文",
+      "url": "https://mp.weixin.qq.com/s/oarLGuHqgAEaf9UYwJ5WLg",
+      "date": "2025-12-22",
+      "column": "研究成果"
+    },
+    {
+      "title": "2025年（第三届）炼钢青年学者论坛暨核电关键材料全国重点实验室青年学术会议在上海大学成功举办",
+      "url": "https://mp.weixin.qq.com/s/-Q3XCAakRPeqQAukO6vmzw",
+      "date": "2025-12-19",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "核电关键材料全国重点实验室卞西磊副研究员在《Nature Communications》上发表最新成果",
+      "url": "https://skl4nm.shu.edu.cn/info/1051/1411.htm",
+      "date": "2025-11-28",
+      "column": "研究成果"
+    },
+    {
+      "title": "2025年上海高校青年学者论坛上海大学材料前沿专场顺利举行",
+      "url": "https://mat.shu.edu.cn/info/1012/24818.htm",
+      "date": "2025-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "材料学院关于开展消防安全、实验室安全教育及消防疏散演练的通知",
+      "url": "https://mat.shu.edu.cn/info/1020/24458.htm",
+      "date": "2025-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "核电关键材料全国重点实验室2025年开放课题申请指南",
+      "url": "https://skl4nm.shu.edu.cn/info/1071/1161.htm",
+      "date": "2025-11-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2025年青年论坛开幕！共绘全球青年学术交流新蓝图",
+      "url": "https://mp.weixin.qq.com/s/S5f5nAKok0SN0DIcvGFrKA",
+      "date": "2025-11-25",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "2025年上海高校青年学者论坛上海大学材料前沿专场会议通知",
+      "url": "https://mat.shu.edu.cn/info/1012/23858.htm",
+      "date": "2025-11-10",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "核电关键材料全国重点实验室 全球高层次人才招聘",
+      "url": "https://skl4nm.shu.edu.cn/info/1061/1111.htm",
+      "date": "2025-11-10",
+      "column": "招生招聘"
+    },
+    {
+      "title": "材料学院团队在法国国际磁科学会议上展示前沿研究成果，彰显中国科研力量",
+      "url": "https://mat.shu.edu.cn/info/1016/24428.htm",
+      "date": "2025-11-07",
+      "column": "研究成果"
+    }
+  ]
+}

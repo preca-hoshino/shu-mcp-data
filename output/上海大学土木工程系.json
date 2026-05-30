@@ -1,0 +1,1161 @@
+{
+  "domain": "ce.shu.edu.cn",
+  "department": "上海大学土木工程系",
+  "type": "11",
+  "crawl_time": "20260513_195202",
+  "total_articles": 191,
+  "columns": {
+    "院系新闻": 85,
+    "学术报告": 48,
+    "通知公示": 44,
+    "科研动态": 14
+  },
+  "articles": [
+    {
+      "title": "祝贺！我系孙德安教授荣获2023年度国家自然科学奖二等奖",
+      "url": "https://ce.shu.edu.cn/info/1012/2951.htm",
+      "date": "2024-06-27",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学土木大讲堂——Jialai Wang教授，美国Alabam大学",
+      "url": "https://ce.shu.edu.cn/info/1013/2931.htm",
+      "date": "2024-06-02",
+      "column": "学术报告"
+    },
+    {
+      "title": "上海大学土木大讲堂——周平《岩土力学》",
+      "url": "https://ce.shu.edu.cn/info/1013/2941.htm",
+      "date": "2024-06-02",
+      "column": "学术报告"
+    },
+    {
+      "title": "我系孙德安教授入选2023年全球学者终身学术影响力榜",
+      "url": "https://ce.shu.edu.cn/info/1012/2881.htm",
+      "date": "2024-02-09",
+      "column": "院系新闻"
+    },
+    {
+      "title": "Transportation Geo-structures in a Changing Climate: Challenges and Opportunities",
+      "url": "https://ce.shu.edu.cn/info/1013/2851.htm",
+      "date": "2023-11-30",
+      "column": "学术报告"
+    },
+    {
+      "title": "上海大学土木大讲堂—哈尔滨工程大学 张建华 教授",
+      "url": "https://ce.shu.edu.cn/info/1013/2841.htm",
+      "date": "2023-10-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "党建引领聚合力，校企携手促发展",
+      "url": "https://ce.shu.edu.cn/info/1012/2791.htm",
+      "date": "2023-10-10",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木大讲堂--南京大学唐朝生教授: 土体龟裂研究：从现象到本质",
+      "url": "https://ce.shu.edu.cn/info/1012/2771.htm",
+      "date": "2023-09-21",
+      "column": "院系新闻"
+    },
+    {
+      "title": "“心灵手巧的理工女”活动",
+      "url": "https://ce.shu.edu.cn/info/1012/2740.htm",
+      "date": "2023-06-11",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系与中建八局工程研究院举办交流会",
+      "url": "https://ce.shu.edu.cn/info/1012/2750.htm",
+      "date": "2023-06-11",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学-塔里木大学《土木工程概论》同步课堂开讲",
+      "url": "https://ce.shu.edu.cn/info/1012/2760.htm",
+      "date": "2023-06-11",
+      "column": "院系新闻"
+    },
+    {
+      "title": "[预告0606] Experimental and Numerical Modeling of Modern Building Glass Facades Under Fire",
+      "url": "https://ce.shu.edu.cn/info/1013/2650.htm",
+      "date": "2023-06-06",
+      "column": "学术报告"
+    },
+    {
+      "title": "我系孙德安教授作为主讲的2023年黄文熙讲座（第26讲）近日举办",
+      "url": "https://ce.shu.edu.cn/info/1012/2640.htm",
+      "date": "2023-04-26",
+      "column": "院系新闻"
+    },
+    {
+      "title": "祝贺！我系孙德安教授连续3年入选爱思唯尔“中国高被引学者”榜单",
+      "url": "https://ce.shu.edu.cn/info/1012/2590.htm",
+      "date": "2023-03-31",
+      "column": "院系新闻"
+    },
+    {
+      "title": "喜报：祝贺我系叶志明、彭妙娟两位教授在市课程思政示范项目取得佳绩！",
+      "url": "https://ce.shu.edu.cn/info/1012/2579.htm",
+      "date": "2022-12-01",
+      "column": "院系新闻"
+    },
+    {
+      "title": "祝贺我系学子在第五届全国大学生加筋土挡墙设计大赛取得优异成绩",
+      "url": "https://ce.shu.edu.cn/info/1012/2589.htm",
+      "date": "2022-12-01",
+      "column": "院系新闻"
+    },
+    {
+      "title": "我系叶志明教授应邀给西南医科大学做《从慕课到虚拟教研室建设、推进优质教学资源共享落地》的专题报告",
+      "url": "https://ce.shu.edu.cn/info/1012/2578.htm",
+      "date": "2022-11-18",
+      "column": "院系新闻"
+    },
+    {
+      "title": "喜报！我系叶志明教授牵头申报的教学成果荣获2022年上海市优秀教学成果一等奖",
+      "url": "https://ce.shu.edu.cn/info/1012/2575.htm",
+      "date": "2022-11-03",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学力学与工程科学学院土木工程系 第三届研究生学术论坛顺利举办",
+      "url": "https://ce.shu.edu.cn/info/1012/2577.htm",
+      "date": "2022-11-03",
+      "column": "院系新闻"
+    },
+    {
+      "title": "2020届留沪硕士研究生学习成绩综合评定结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2525.htm",
+      "date": "2020-07-02",
+      "column": "通知公示"
+    },
+    {
+      "title": "2020届留沪博士研究生学习成绩综合评定结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2526.htm",
+      "date": "2020-07-02",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2020届博士研究生毕业学习成绩综合排名方案",
+      "url": "https://ce.shu.edu.cn/info/1015/2515.htm",
+      "date": "2020-06-23",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2020届学术型硕士研究生毕业学习成绩综合排名方案",
+      "url": "https://ce.shu.edu.cn/info/1015/2516.htm",
+      "date": "2020-06-23",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2020届专业型硕士研究生毕业学习成绩综合排名方案",
+      "url": "https://ce.shu.edu.cn/info/1015/2517.htm",
+      "date": "2020-06-23",
+      "column": "通知公示"
+    },
+    {
+      "title": "我院本科生党支部完成支部书记改选工作",
+      "url": "https://ce.shu.edu.cn/info/1012/2505.htm",
+      "date": "2020-06-16",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2020年博士生招生复试方案",
+      "url": "https://ce.shu.edu.cn/info/1015/2495.htm",
+      "date": "2020-06-12",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2019—2020年度上海大学百名优秀团员、上海大学五四红旗团支部推荐公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2385.htm",
+      "date": "2020-04-30",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系关于开展2019—2020年度上海大学百名优秀团员、 上海大学五四红旗团支部评选的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/2365.htm",
+      "date": "2020-04-23",
+      "column": "通知公示"
+    },
+    {
+      "title": "关于公布2019-2020学年冬季学期在线教学课程考试安排的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/2315.htm",
+      "date": "2020-03-19",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2020届本科生毕业设计（论文）工作安排",
+      "url": "https://ce.shu.edu.cn/info/1015/2275.htm",
+      "date": "2020-02-15",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系师生学习贯彻李强同志来校调研讲话精神",
+      "url": "https://ce.shu.edu.cn/info/1012/2225.htm",
+      "date": "2020-01-04",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系举行“不忘初心•砼心前行”第七届土木之夜主题晚会",
+      "url": "https://ce.shu.edu.cn/info/1012/2217.htm",
+      "date": "2019-12-31",
+      "column": "院系新闻"
+    },
+    {
+      "title": "日本工程院外籍院士薛松涛教授来我校讲学",
+      "url": "https://ce.shu.edu.cn/info/1012/2219.htm",
+      "date": "2019-12-30",
+      "column": "院系新闻"
+    },
+    {
+      "title": "日本工程院外籍院士薛松涛教授来我校讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/2215.htm",
+      "date": "2019-12-30",
+      "column": "科研动态"
+    },
+    {
+      "title": "土木工程系2020届研究生优秀毕业生评选结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2205.htm",
+      "date": "2019-12-26",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预报1225】New Advances in Constitutive Theory of Soil—Critical State Theory（土的本构理论新进展）",
+      "url": "https://ce.shu.edu.cn/info/1013/2196.htm",
+      "date": "2019-12-24",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系开展教工“健康生活，快乐工作”低碳健步走活动",
+      "url": "https://ce.shu.edu.cn/info/1012/2197.htm",
+      "date": "2019-12-23",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1225】实际制振结构的健康监测系统以及所带来的课题",
+      "url": "https://ce.shu.edu.cn/info/1013/2185.htm",
+      "date": "2019-12-23",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系2020届研究生优秀毕业生评选和推荐工作实施细则",
+      "url": "https://ce.shu.edu.cn/info/1015/2166.htm",
+      "date": "2019-12-17",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预告1217】城市精细化管理背景下的城市道路的精细化设计",
+      "url": "https://ce.shu.edu.cn/info/1013/2155.htm",
+      "date": "2019-12-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1218】核电厂土建结构设计准则",
+      "url": "https://ce.shu.edu.cn/info/1013/2156.htm",
+      "date": "2019-12-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1217】城市桥梁上部结构创新与实践",
+      "url": "https://ce.shu.edu.cn/info/1013/2157.htm",
+      "date": "2019-12-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系2018-2019学年上海大学优秀学生、优秀学生干部评选结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2147.htm",
+      "date": "2019-12-13",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系研究生2018—2019学年优秀学生、优秀学生干部和先进集体评选结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2148.htm",
+      "date": "2019-12-13",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预告1210】复合盾构施工的经验教训",
+      "url": "https://ce.shu.edu.cn/info/1013/2135.htm",
+      "date": "2019-12-09",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1211】上海中心设计介绍",
+      "url": "https://ce.shu.edu.cn/info/1013/2136.htm",
+      "date": "2019-12-09",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1209】软土地区地下空间建设新技术研究与实践",
+      "url": "https://ce.shu.edu.cn/info/1013/2125.htm",
+      "date": "2019-12-06",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1209】How to write a SCI paper（如何写SCI论文）",
+      "url": "https://ce.shu.edu.cn/info/1013/2126.htm",
+      "date": "2019-12-06",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1205】生命线系统抗震可靠度的评估理论和方法",
+      "url": "https://ce.shu.edu.cn/info/1013/2119.htm",
+      "date": "2019-12-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "2018-2019学年上海大学土木工程系研究生优秀学生、优秀学生干部和先进集体评选细则",
+      "url": "https://ce.shu.edu.cn/info/1015/2118.htm",
+      "date": "2019-12-03",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系关于开展2018-2019学年上海大学优秀学生、优秀学生干部和学生先进集体（本科生）评选活动的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/2123.htm",
+      "date": "2019-12-03",
+      "column": "通知公示"
+    },
+    {
+      "title": "光明日报报道：上海大学与新疆喀什大学探索“互联网+课程”新模式",
+      "url": "https://ce.shu.edu.cn/info/1012/2116.htm",
+      "date": "2019-12-02",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1203】混凝土和纤维混凝土原位微观XCT实验和断裂损伤细观数值模拟",
+      "url": "https://ce.shu.edu.cn/info/1013/2115.htm",
+      "date": "2019-12-02",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1125】关于探地雷达:一种用于基础设施和环境的通用传感工具的研究",
+      "url": "https://ce.shu.edu.cn/info/1013/2105.htm",
+      "date": "2019-11-25",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1128】装配整体式混凝土结构存在的质量问题与检测技术",
+      "url": "https://ce.shu.edu.cn/info/1013/2106.htm",
+      "date": "2019-11-25",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1126】石基基础材料的化学、微观结构与力学性能的关联研究",
+      "url": "https://ce.shu.edu.cn/info/1013/2107.htm",
+      "date": "2019-11-25",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1127】市政交通行业BIM技术发展现状",
+      "url": "https://ce.shu.edu.cn/info/1013/2108.htm",
+      "date": "2019-11-25",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1115】上海浦东国际机场卫星厅工程管理与实践",
+      "url": "https://ce.shu.edu.cn/info/1013/2085.htm",
+      "date": "2019-11-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1114】抗震节能一体化住宅技术开发与应用研究",
+      "url": "https://ce.shu.edu.cn/info/1013/2075.htm",
+      "date": "2019-11-11",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1108】浙江舟山跨海大桥的运营和维护",
+      "url": "https://ce.shu.edu.cn/info/1013/2071.htm",
+      "date": "2019-11-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系教工支部参与指导宝山区第十六届“罗店中心校杯”未来工程师大赛",
+      "url": "https://ce.shu.edu.cn/info/1012/2070.htm",
+      "date": "2019-11-07",
+      "column": "院系新闻"
+    },
+    {
+      "title": "日本工程院院士葛汉彬教授来校讲学",
+      "url": "https://ce.shu.edu.cn/info/1012/2065.htm",
+      "date": "2019-11-06",
+      "column": "院系新闻"
+    },
+    {
+      "title": "日本工程院院士葛汉彬教授来校讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/2066.htm",
+      "date": "2019-11-06",
+      "column": "科研动态"
+    },
+    {
+      "title": "北京工业大学建筑工程学院来我系调研",
+      "url": "https://ce.shu.edu.cn/info/1012/2055.htm",
+      "date": "2019-11-02",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1101】日本桥梁钢结构的抗震加固与性能评估",
+      "url": "https://ce.shu.edu.cn/info/1013/2046.htm",
+      "date": "2019-10-29",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系2018-2019学年教育奖学金推荐名单公示",
+      "url": "https://ce.shu.edu.cn/info/1015/2045.htm",
+      "date": "2019-10-29",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系与上海宝冶集团举行共建实验室合作交流会",
+      "url": "https://ce.shu.edu.cn/info/1012/2036.htm",
+      "date": "2019-10-25",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学获第十三届全国大学生结构设计竞赛三等奖和优秀组织奖",
+      "url": "https://ce.shu.edu.cn/info/1012/2026.htm",
+      "date": "2019-10-23",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1022】An Insight to Geomechanical design of Underground Excavations（地下开挖的地质力学设计的见解）",
+      "url": "https://ce.shu.edu.cn/info/1013/2015.htm",
+      "date": "2019-10-21",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1022】漫谈土力学研究若干问题",
+      "url": "https://ce.shu.edu.cn/info/1013/2016.htm",
+      "date": "2019-10-21",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1011】三十年与三十分钟----谈基础研究的艰难与简单",
+      "url": "https://ce.shu.edu.cn/info/1013/1995.htm",
+      "date": "2019-10-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系2019年研究生国家奖学金、校长奖学金推荐名单公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1987.htm",
+      "date": "2019-10-08",
+      "column": "通知公示"
+    },
+    {
+      "title": "上海大学土木工程系2020年免试攻读硕士研究生（直博生）复试方案",
+      "url": "https://ce.shu.edu.cn/info/1015/1955.htm",
+      "date": "2019-09-25",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系举行学生入伍欢送会",
+      "url": "https://ce.shu.edu.cn/info/1012/1949.htm",
+      "date": "2019-09-19",
+      "column": "院系新闻"
+    },
+    {
+      "title": "香港理工大学滕锦光校长应邀访问我校",
+      "url": "https://ce.shu.edu.cn/info/1012/1946.htm",
+      "date": "2019-09-18",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系召开“不忘初心、牢记使命”主题教育部署会",
+      "url": "https://ce.shu.edu.cn/info/1012/1927.htm",
+      "date": "2019-09-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0917】Ocean Engineering Innovations with Fiber-Reinforced Polymer Composites(复合材料应用与海洋工程创新)",
+      "url": "https://ce.shu.edu.cn/info/1013/1917.htm",
+      "date": "2019-09-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系2020年免试直升硕士研究生建议推荐名单公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1916.htm",
+      "date": "2019-09-16",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预告0911】Characterizing the hazard and impact of thunder storm wind gusts on structures（雷暴突风对结构的危害和冲击）",
+      "url": "https://ce.shu.edu.cn/info/1013/1896.htm",
+      "date": "2019-09-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "关于召开上海大学土木工程系第十一次学生代表大会的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1895.htm",
+      "date": "2019-09-10",
+      "column": "通知公示"
+    },
+    {
+      "title": "上海大学土木工程系推荐2020年应届优秀本科毕业生免试攻读硕士学位研究生遴选实施方案",
+      "url": "https://ce.shu.edu.cn/info/1015/1905.htm",
+      "date": "2019-09-10",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系慰问2019年学生军训参训师生",
+      "url": "https://ce.shu.edu.cn/info/1012/1865.htm",
+      "date": "2019-07-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "2019年“上大建筑设计”杯第三届上海市大学生结构设计竞赛在上海大学成功举办",
+      "url": "https://ce.shu.edu.cn/info/1012/1835.htm",
+      "date": "2019-07-09",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系成功举办首次优秀大学生暑期学术夏令营",
+      "url": "https://ce.shu.edu.cn/info/1012/1845.htm",
+      "date": "2019-07-08",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2019届毕业典礼隆重举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1826.htm",
+      "date": "2019-07-05",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系与南通建筑企业举行产学研合作对接交流会",
+      "url": "https://ce.shu.edu.cn/info/1012/1815.htm",
+      "date": "2019-06-28",
+      "column": "院系新闻"
+    },
+    {
+      "title": "计算机学院联合办学点第三十一期入党积极分子培训班结业仪式",
+      "url": "https://ce.shu.edu.cn/info/1012/1810.htm",
+      "date": "2019-06-21",
+      "column": "院系新闻"
+    },
+    {
+      "title": "开启柔性援疆新模式，上海大学叶志明教授一行受聘喀什大学柔性援疆客座教授",
+      "url": "https://ce.shu.edu.cn/info/1012/1808.htm",
+      "date": "2019-06-20",
+      "column": "院系新闻"
+    },
+    {
+      "title": "开启柔性援疆新模式，上海大学叶志明教授一行受聘喀什大学柔性援疆客座教授",
+      "url": "https://ce.shu.edu.cn/info/1012/1809.htm",
+      "date": "2019-06-20",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2018-2019年度研究生“菁英干部”评选结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1805.htm",
+      "date": "2019-06-16",
+      "column": "通知公示"
+    },
+    {
+      "title": "关于开展2018—2019学年上海大学土木工程系研究生“菁英干部”评选的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1797.htm",
+      "date": "2019-06-10",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系教工党支部参观“红色足迹，伟大转折”遵义会议纪念馆​主题展",
+      "url": "https://ce.shu.edu.cn/info/1012/1795.htm",
+      "date": "2019-06-03",
+      "column": "院系新闻"
+    },
+    {
+      "title": "英国皇家工程院院士Kenichi Soga教授来校讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/1785.htm",
+      "date": "2019-05-30",
+      "column": "科研动态"
+    },
+    {
+      "title": "我校成功举办重要电厂隔震结构技术及废料处置缓冲土体工程特性研讨会",
+      "url": "https://ce.shu.edu.cn/info/1014/1775.htm",
+      "date": "2019-05-29",
+      "column": "科研动态"
+    },
+    {
+      "title": "英国皇家工程院院士Kenichi Soga教授担任我校兼职教授并讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/1770.htm",
+      "date": "2019-05-28",
+      "column": "科研动态"
+    },
+    {
+      "title": "【预告0527】Geotechnical engineering of the Leaning Tower of Pisa(比萨斜塔岩土工程)",
+      "url": "https://ce.shu.edu.cn/info/1013/1766.htm",
+      "date": "2019-05-27",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告0527】全预制装配式桥梁的技术研究与进展",
+      "url": "https://ce.shu.edu.cn/info/1013/1765.htm",
+      "date": "2019-05-24",
+      "column": "学术报告"
+    },
+    {
+      "title": "宁波大学建筑工程与环境学院团学师生代表来访",
+      "url": "https://ce.shu.edu.cn/info/1012/1749.htm",
+      "date": "2019-05-21",
+      "column": "院系新闻"
+    },
+    {
+      "title": "计算机学院联合办学点第31期入党积极分子培训班顺利举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1750.htm",
+      "date": "2019-05-21",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0522】智能基础设施和建设",
+      "url": "https://ce.shu.edu.cn/info/1013/1747.htm",
+      "date": "2019-05-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系开展学生求职简历专题培训",
+      "url": "https://ce.shu.edu.cn/info/1012/1717.htm",
+      "date": "2019-05-10",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2018—2019年度上海大学百名优秀团员、十佳团支书推荐公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1695.htm",
+      "date": "2019-05-08",
+      "column": "通知公示"
+    },
+    {
+      "title": "彭妙娟老师获评上海大学第六届研究生“我心目中的好导师”",
+      "url": "https://ce.shu.edu.cn/info/1012/1685.htm",
+      "date": "2019-05-06",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系青年师生认真观看纪念五四运动100周年大会直播",
+      "url": "https://ce.shu.edu.cn/info/1012/1687.htm",
+      "date": "2019-05-06",
+      "column": "院系新闻"
+    },
+    {
+      "title": "奉献青春热血 传递浓浓真情——土木工程系师生积极参加无偿献血活动",
+      "url": "https://ce.shu.edu.cn/info/1012/1706.htm",
+      "date": "2019-04-28",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系关于开展2018—2019年度上海大学百名优秀团员、 十佳团支部书记评选的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1645.htm",
+      "date": "2019-04-28",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预告0424】盾构法隧道实践与创新",
+      "url": "https://ce.shu.edu.cn/info/1013/1587.htm",
+      "date": "2019-04-23",
+      "column": "学术报告"
+    },
+    {
+      "title": "关于开展消防演练的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1605.htm",
+      "date": "2019-04-23",
+      "column": "通知公示"
+    },
+    {
+      "title": "上海大学代表团访问英国爱丁堡大学",
+      "url": "https://ce.shu.edu.cn/info/1012/1655.htm",
+      "date": "2019-04-22",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2019届本科优秀毕业生评选结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1575.htm",
+      "date": "2019-04-19",
+      "column": "通知公示"
+    },
+    {
+      "title": "第二届上海大学“力与美”土木工程基础创新大赛成功举办",
+      "url": "https://ce.shu.edu.cn/info/1012/1606.htm",
+      "date": "2019-04-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系开展2018级大类学生专业宣讲",
+      "url": "https://ce.shu.edu.cn/info/1012/1609.htm",
+      "date": "2019-04-15",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0416】Pile penetration and loadings modelled by the Discrete Element Method",
+      "url": "https://ce.shu.edu.cn/info/1013/1565.htm",
+      "date": "2019-04-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "跨越五千公里，课程思政融入——沪喀两校对口直播共享一门上大通识新课",
+      "url": "https://ce.shu.edu.cn/info/1012/1557.htm",
+      "date": "2019-04-04",
+      "column": "院系新闻"
+    },
+    {
+      "title": "2019年上海大学第十一届结构设计大赛暨第三届上海市大学生结构设计竞赛预选赛报名第一次通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1559.htm",
+      "date": "2019-04-04",
+      "column": "通知公示"
+    },
+    {
+      "title": "中国科学院袁道先院士应邀来我系作学术报告",
+      "url": "https://ce.shu.edu.cn/info/1014/1555.htm",
+      "date": "2019-04-03",
+      "column": "科研动态"
+    },
+    {
+      "title": "土木工程系党支部书记培训班暨发展党员流程培训顺利召开",
+      "url": "https://ce.shu.edu.cn/info/1012/1505.htm",
+      "date": "2019-03-27",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系参与上海大学首届专业博览会展示",
+      "url": "https://ce.shu.edu.cn/info/1012/1526.htm",
+      "date": "2019-03-27",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系分层开展学生职业通用能力培训",
+      "url": "https://ce.shu.edu.cn/info/1012/1558.htm",
+      "date": "2019-03-26",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系专业开放日圆满举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1516.htm",
+      "date": "2019-03-25",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系成立上海上大建筑设计院海川设计分院",
+      "url": "https://ce.shu.edu.cn/info/1012/1535.htm",
+      "date": "2019-03-20",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0319】绿色加筋挡土结构之特色及成功与失败案例分析",
+      "url": "https://ce.shu.edu.cn/info/1013/1476.htm",
+      "date": "2019-03-19",
+      "column": "学术报告"
+    },
+    {
+      "title": "第二届上海大学“力与美”土木工程基础创新大赛活动通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1465.htm",
+      "date": "2019-03-05",
+      "column": "通知公示"
+    },
+    {
+      "title": "Alistair Borthwick院士应邀来我系作学术报告",
+      "url": "https://ce.shu.edu.cn/info/1014/1459.htm",
+      "date": "2019-01-24",
+      "column": "科研动态"
+    },
+    {
+      "title": "校领导带队来土木工程系调研",
+      "url": "https://ce.shu.edu.cn/info/1012/1449.htm",
+      "date": "2019-01-23",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0123】A UK perspective on Civil & Environmental Engineering（英国的土木与环境工程）",
+      "url": "https://ce.shu.edu.cn/info/1013/1448.htm",
+      "date": "2019-01-22",
+      "column": "学术报告"
+    },
+    {
+      "title": "中建三局华东公司来系商谈校企合作",
+      "url": "https://ce.shu.edu.cn/info/1012/1425.htm",
+      "date": "2019-01-18",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系本科学生党支部在地标项目现场开展新时代工匠精神的学习与传承主题党日活动",
+      "url": "https://ce.shu.edu.cn/info/1012/1436.htm",
+      "date": "2019-01-18",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学第四届建筑信息模型（BIM）竞赛成功举办",
+      "url": "https://ce.shu.edu.cn/info/1012/1426.htm",
+      "date": "2019-01-16",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学第十二届“自强杯”大学生课外学术科技作品竞赛土木工程系立项名单公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1409.htm",
+      "date": "2019-01-16",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系荣获上海大学2017-2018年度就业工作最佳招聘组织奖",
+      "url": "https://ce.shu.edu.cn/info/1012/1407.htm",
+      "date": "2019-01-14",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0116】 桥梁工业化与快速施工桥梁",
+      "url": "https://ce.shu.edu.cn/info/1013/1405.htm",
+      "date": "2019-01-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "S. Kitipornchai院士与F.Albermani教授应邀来我系作学术报告",
+      "url": "https://ce.shu.edu.cn/info/1014/1406.htm",
+      "date": "2019-01-14",
+      "column": "科研动态"
+    },
+    {
+      "title": "土木工程系王思崎等同学荣获上海大学2018年度本科生学术论坛二等奖",
+      "url": "https://ce.shu.edu.cn/info/1012/1410.htm",
+      "date": "2019-01-10",
+      "column": "院系新闻"
+    },
+    {
+      "title": "“机”往开来·“砼”心圆梦——2019土木之夜主题晚会精彩上演",
+      "url": "https://ce.shu.edu.cn/info/1012/1395.htm",
+      "date": "2019-01-09",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0109】Nonlinear simulation of full-scale testing of transmission towers（输电塔全尺寸试验的非线性仿真模拟）",
+      "url": "https://ce.shu.edu.cn/info/1013/1385.htm",
+      "date": "2019-01-07",
+      "column": "学术报告"
+    },
+    {
+      "title": "梦想接力，为上大代言--2019寒假回高中母校宣讲专题培训会顺利举行（安徽招生宣传组）",
+      "url": "https://ce.shu.edu.cn/info/1012/1411.htm",
+      "date": "2019-01-04",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2019届本科生毕业设计（论文）工作安排",
+      "url": "https://ce.shu.edu.cn/info/1015/1375.htm",
+      "date": "2019-01-02",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系召开第四届教职工大会暨工会会员大会",
+      "url": "https://ce.shu.edu.cn/info/1012/1366.htm",
+      "date": "2018-12-29",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2019届研究生优秀毕业生评选结果公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1365.htm",
+      "date": "2018-12-29",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2016级、2017级本科联合学生党支部党员转正公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1327.htm",
+      "date": "2018-12-25",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2017—2018学年校长奖学金推荐人选公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1319.htm",
+      "date": "2018-12-24",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2015级本科学生党支部党员转正公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1352.htm",
+      "date": "2018-12-20",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系2019届研究生优秀毕业生评选和推荐工作实施细则的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1306.htm",
+      "date": "2018-12-19",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预告1220】Numerical modelling and control of seawater intrusion  （海水入侵地下水的数值模拟与控制）",
+      "url": "https://ce.shu.edu.cn/info/1013/1295.htm",
+      "date": "2018-12-18",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系举行国际学生座谈会",
+      "url": "https://ce.shu.edu.cn/info/1012/1325.htm",
+      "date": "2018-12-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1222】Generalized effective stress in soil（土中广义有效应力）",
+      "url": "https://ce.shu.edu.cn/info/1013/1277.htm",
+      "date": "2018-12-11",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系2015级本科学生党支部党员转正公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1266.htm",
+      "date": "2018-12-03",
+      "column": "通知公示"
+    },
+    {
+      "title": "细节决定成败,礼仪无处不在——土木工程系“职场礼仪”培训顺利举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1247.htm",
+      "date": "2018-11-27",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1125】构筑优雅高效的超高层建筑",
+      "url": "https://ce.shu.edu.cn/info/1013/1216.htm",
+      "date": "2018-11-22",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系研究生第二届“自强杯”辩论赛圆满结束",
+      "url": "https://ce.shu.edu.cn/info/1012/1215.htm",
+      "date": "2018-11-20",
+      "column": "院系新闻"
+    },
+    {
+      "title": "英国土木工程师学会（ICE）五校学生分会联谊活动成功举办",
+      "url": "https://ce.shu.edu.cn/info/1012/1245.htm",
+      "date": "2018-11-20",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系举行工程教育认证专题研讨会",
+      "url": "https://ce.shu.edu.cn/info/1012/1207.htm",
+      "date": "2018-11-15",
+      "column": "院系新闻"
+    },
+    {
+      "title": "2017-2018学年上海大学土木工程系研究生优秀学生、优秀学生干部和先进集体评选细则",
+      "url": "https://ce.shu.edu.cn/info/1015/1202.htm",
+      "date": "2018-11-13",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系关于开展2017-2018学年上海大学优秀学生、优秀学生干部和学生先进集体（本科生）评选活动的通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1205.htm",
+      "date": "2018-11-13",
+      "column": "通知公示"
+    },
+    {
+      "title": "【预告1119】非平稳强风及结构风效应分析",
+      "url": "https://ce.shu.edu.cn/info/1013/1197.htm",
+      "date": "2018-11-12",
+      "column": "学术报告"
+    },
+    {
+      "title": "我校张统一院士来我系做学术报告",
+      "url": "https://ce.shu.edu.cn/info/1014/1195.htm",
+      "date": "2018-11-09",
+      "column": "科研动态"
+    },
+    {
+      "title": "土木工程系2015级本科学生党支部党员发展公示",
+      "url": "https://ce.shu.edu.cn/info/1015/1175.htm",
+      "date": "2018-11-07",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系教师参加上海大学从教三十年教职工颁证仪式",
+      "url": "https://ce.shu.edu.cn/info/1012/1145.htm",
+      "date": "2018-11-03",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系与上海市城建设计研究总院（集团）有限公司举行合作共建实验室签约仪式",
+      "url": "https://ce.shu.edu.cn/info/1012/1186.htm",
+      "date": "2018-11-02",
+      "column": "院系新闻"
+    },
+    {
+      "title": "我校成功举办“一带一路”岩土与地下空间国际研讨会",
+      "url": "https://ce.shu.edu.cn/info/1012/1125.htm",
+      "date": "2018-11-01",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1101】工业化装配式桥梁预制拼装技术实践与探讨",
+      "url": "https://ce.shu.edu.cn/info/1013/1115.htm",
+      "date": "2018-10-31",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1107】力学信息学简介",
+      "url": "https://ce.shu.edu.cn/info/1013/1116.htm",
+      "date": "2018-10-31",
+      "column": "学术报告"
+    },
+    {
+      "title": "追忆历史，不忘初心——土木工程系、材料基因院教工党支部共建​参观南湖革命纪念馆",
+      "url": "https://ce.shu.edu.cn/info/1012/1107.htm",
+      "date": "2018-10-30",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1029】一带一路”岩土与地下空间研讨会系列报告",
+      "url": "https://ce.shu.edu.cn/info/1013/1095.htm",
+      "date": "2018-10-28",
+      "column": "学术报告"
+    },
+    {
+      "title": "【预告1025】螺栓松动监测技术研究",
+      "url": "https://ce.shu.edu.cn/info/1013/1077.htm",
+      "date": "2018-10-22",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系举办退休教师重阳节茶话会",
+      "url": "https://ce.shu.edu.cn/info/1012/1048.htm",
+      "date": "2018-10-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "安徽招生组（土木工程系）荣获“上海大学2018年 本科招生宣传工作先进集体一等奖”",
+      "url": "https://ce.shu.edu.cn/info/1012/1108.htm",
+      "date": "2018-10-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "比利时皇家科学院院士Luc Taerwe教授来我系讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/1044.htm",
+      "date": "2018-10-16",
+      "column": "科研动态"
+    },
+    {
+      "title": "校领导一行赴上海核工程研究设计院学习交流",
+      "url": "https://ce.shu.edu.cn/info/1014/1046.htm",
+      "date": "2018-10-16",
+      "column": "科研动态"
+    },
+    {
+      "title": "专业体验活动“数字化土木之旅”第三期成功举办",
+      "url": "https://ce.shu.edu.cn/info/1012/1155.htm",
+      "date": "2018-10-14",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告1015】预制混凝土结构的发展趋势",
+      "url": "https://ce.shu.edu.cn/info/1013/1015.htm",
+      "date": "2018-10-12",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系-海门产业化项目第一次对接会顺利召开",
+      "url": "https://ce.shu.edu.cn/info/1012/1006.htm",
+      "date": "2018-09-29",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2018年研究生奖学金评选实施细则",
+      "url": "https://ce.shu.edu.cn/info/1015/1027.htm",
+      "date": "2018-09-26",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学土木工程系2019年免试攻读硕士研究生复试方案",
+      "url": "https://ce.shu.edu.cn/info/1015/1089.htm",
+      "date": "2018-09-25",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系教师喜获多项表彰",
+      "url": "https://ce.shu.edu.cn/info/1012/1009.htm",
+      "date": "2018-09-19",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系举行学生入伍欢送会暨退伍欢迎会",
+      "url": "https://ce.shu.edu.cn/info/1012/1022.htm",
+      "date": "2018-09-18",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2018级硕士研究生导师见面会顺利举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1028.htm",
+      "date": "2018-09-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2018级研究生临时党支部成立大会顺利举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1041.htm",
+      "date": "2018-09-17",
+      "column": "院系新闻"
+    },
+    {
+      "title": "上海大学土木工程系推荐2019年应届优秀本科毕业生免试攻读硕士学位研究生遴选实施方案",
+      "url": "https://ce.shu.edu.cn/info/1015/1032.htm",
+      "date": "2018-09-10",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系与社区学院交流本科人才培养",
+      "url": "https://ce.shu.edu.cn/info/1012/1025.htm",
+      "date": "2018-09-07",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系举行2018级研究生新生见面会暨秋季学期首日教育",
+      "url": "https://ce.shu.edu.cn/info/1012/1033.htm",
+      "date": "2018-09-04",
+      "column": "院系新闻"
+    },
+    {
+      "title": "【预告0723】数值方法ABC",
+      "url": "https://ce.shu.edu.cn/info/1013/1016.htm",
+      "date": "2018-07-19",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程系举行2017级迎新大会",
+      "url": "https://ce.shu.edu.cn/info/1012/1036.htm",
+      "date": "2018-07-14",
+      "column": "院系新闻"
+    },
+    {
+      "title": "对标争先，土木工程系“两优一先”风采展示",
+      "url": "https://ce.shu.edu.cn/info/1012/1042.htm",
+      "date": "2018-07-13",
+      "column": "院系新闻"
+    },
+    {
+      "title": "土木工程系2018届毕业典礼隆重举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1034.htm",
+      "date": "2018-07-06",
+      "column": "院系新闻"
+    },
+    {
+      "title": "英国皇家工程院院士Kenichi Soga应邀到访我系讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/1051.htm",
+      "date": "2018-07-06",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学第十届结构设计大赛顺利举行",
+      "url": "https://ce.shu.edu.cn/info/1012/1038.htm",
+      "date": "2018-06-28",
+      "column": "院系新闻"
+    },
+    {
+      "title": "香港理工大学首席讲座教授殷建华来校讲学",
+      "url": "https://ce.shu.edu.cn/info/1014/1086.htm",
+      "date": "2018-05-30",
+      "column": "科研动态"
+    },
+    {
+      "title": "2018年上海大学第十届结构设计大赛暨第二届上海市大学生结构设计竞赛预选赛报名通知",
+      "url": "https://ce.shu.edu.cn/info/1015/1087.htm",
+      "date": "2018-05-09",
+      "column": "通知公示"
+    },
+    {
+      "title": "土木工程系科研团队联合承担的国家重大科技专项课题正式立项",
+      "url": "https://ce.shu.edu.cn/info/1014/1050.htm",
+      "date": "2018-03-13",
+      "column": "科研动态"
+    }
+  ]
+}

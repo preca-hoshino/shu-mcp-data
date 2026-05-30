@@ -1,0 +1,404 @@
+{
+  "domain": "siamm.shu.edu.cn",
+  "department": "上海市应用数学和力学研究所",
+  "type": "04",
+  "crawl_time": "20260514_004804",
+  "total_articles": 65,
+  "columns": {
+    "新闻": 31,
+    "公告": 4,
+    "学术活动": 30
+  },
+  "articles": [
+    {
+      "title": "上海大学力学与工程科学学院和中国空气动力研究与发展中心低速所气动噪声控制重点实验室党组...",
+      "url": "https://siamm.shu.edu.cn/info/1011/1856.htm",
+      "date": "2019-09-20",
+      "column": "新闻"
+    },
+    {
+      "title": "2019年力学与工程科学学院研究生宝钢奖学金候选人推荐名单公示",
+      "url": "https://siamm.shu.edu.cn/info/1012/1851.htm",
+      "date": "2019-09-20",
+      "column": "公告"
+    },
+    {
+      "title": "学术报告预告",
+      "url": "https://siamm.shu.edu.cn/info/1025/1852.htm",
+      "date": "2019-09-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学力学与工程科学学院推荐2020年免试攻读硕士学位研究生名单公示",
+      "url": "https://siamm.shu.edu.cn/info/1012/1841.htm",
+      "date": "2019-09-12",
+      "column": "公告"
+    },
+    {
+      "title": "上海市应用数学和力学研究所2019年毕业研究生成绩综合排名公示",
+      "url": "https://siamm.shu.edu.cn/info/1012/1823.htm",
+      "date": "2019-05-20",
+      "column": "公告"
+    },
+    {
+      "title": "祝贺力学学科陈立群教授入选第四批国家教学名师",
+      "url": "https://siamm.shu.edu.cn/info/1011/1772.htm",
+      "date": "2019-03-01",
+      "column": "新闻"
+    },
+    {
+      "title": "上海力学研究生学术节报名通知",
+      "url": "https://siamm.shu.edu.cn/info/1012/1443.htm",
+      "date": "2018-09-28",
+      "column": "公告"
+    },
+    {
+      "title": "天津大学曹伟教授来所交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1753.htm",
+      "date": "2018-06-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "校企合作，走进上大",
+      "url": "https://siamm.shu.edu.cn/info/1011/1581.htm",
+      "date": "2018-05-25",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学力学所硕士研究生崔建国的工作在Physics Today 新闻主页进行了亮点报道",
+      "url": "https://siamm.shu.edu.cn/info/1011/1218.htm",
+      "date": "2018-05-10",
+      "column": "新闻"
+    },
+    {
+      "title": "北京大学李存标教授来所交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1750.htm",
+      "date": "2018-03-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "力学所举行刘高联院士追思会",
+      "url": "https://siamm.shu.edu.cn/info/1011/1579.htm",
+      "date": "2018-03-14",
+      "column": "新闻"
+    },
+    {
+      "title": "创新创业讲座--戴世强教授",
+      "url": "https://siamm.shu.edu.cn/info/1011/1578.htm",
+      "date": "2017-11-14",
+      "column": "新闻"
+    },
+    {
+      "title": "不可压非稳态流动的预测与控制专题",
+      "url": "https://siamm.shu.edu.cn/info/1011/1577.htm",
+      "date": "2017-11-08",
+      "column": "新闻"
+    },
+    {
+      "title": "北京大学黄筑平教授来力学所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1011/1576.htm",
+      "date": "2017-11-01",
+      "column": "新闻"
+    },
+    {
+      "title": "力学在核电设计中的典型应用",
+      "url": "https://siamm.shu.edu.cn/info/1011/1575.htm",
+      "date": "2017-10-30",
+      "column": "新闻"
+    },
+    {
+      "title": "湍流理论学术研讨会",
+      "url": "https://siamm.shu.edu.cn/info/1011/1574.htm",
+      "date": "2017-10-28",
+      "column": "新闻"
+    },
+    {
+      "title": "冯奇教授学术报告",
+      "url": "https://siamm.shu.edu.cn/info/1025/1747.htm",
+      "date": "2017-10-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "西安交通大学数学与统计学院的何银年教授应邀来所交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1748.htm",
+      "date": "2017-10-11",
+      "column": "学术活动"
+    },
+    {
+      "title": "创新创业的实践和启示",
+      "url": "https://siamm.shu.edu.cn/info/1011/1571.htm",
+      "date": "2017-10-08",
+      "column": "新闻"
+    },
+    {
+      "title": "余钊圣教授来我所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1011/1572.htm",
+      "date": "2017-10-08",
+      "column": "新闻"
+    },
+    {
+      "title": "BIM+城市基础设施的全生命周期信息化探索",
+      "url": "https://siamm.shu.edu.cn/info/1011/1573.htm",
+      "date": "2017-10-08",
+      "column": "新闻"
+    },
+    {
+      "title": "流体力学在汽车工业中的应用",
+      "url": "https://siamm.shu.edu.cn/info/1025/1745.htm",
+      "date": "2017-09-25",
+      "column": "学术活动"
+    },
+    {
+      "title": "力学学科2017级新生入学教育",
+      "url": "https://siamm.shu.edu.cn/info/1011/1570.htm",
+      "date": "2017-09-18",
+      "column": "新闻"
+    },
+    {
+      "title": "创新创业之力学也可以",
+      "url": "https://siamm.shu.edu.cn/info/1011/1569.htm",
+      "date": "2017-09-16",
+      "column": "新闻"
+    },
+    {
+      "title": "力学所2017级研究生顺利报到",
+      "url": "https://siamm.shu.edu.cn/info/1011/1568.htm",
+      "date": "2017-09-10",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学、上海市应用数学和力学研究所 交通研究课题组-欢迎加盟",
+      "url": "https://siamm.shu.edu.cn/info/1011/1567.htm",
+      "date": "2017-09-09",
+      "column": "新闻"
+    },
+    {
+      "title": "美国西北大学黄永刚院士来所访问交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1743.htm",
+      "date": "2017-07-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "感受工程应用中的力学",
+      "url": "https://siamm.shu.edu.cn/info/1011/1566.htm",
+      "date": "2017-06-28",
+      "column": "新闻"
+    },
+    {
+      "title": "密苏里科技大学的王成博士来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1741.htm",
+      "date": "2017-06-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "中国近代工科大学的兴起与力学教育的开展",
+      "url": "https://siamm.shu.edu.cn/info/1025/1738.htm",
+      "date": "2017-06-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "张来平来所交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1739.htm",
+      "date": "2017-06-08",
+      "column": "学术活动"
+    },
+    {
+      "title": "浅谈海上可再生能源的力学问题",
+      "url": "https://siamm.shu.edu.cn/info/1025/1737.htm",
+      "date": "2017-06-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "中科院力学所李家春院士应邀来我所做学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1736.htm",
+      "date": "2017-05-28",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海大学敖平教授应邀来所进行学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1735.htm",
+      "date": "2017-05-19",
+      "column": "学术活动"
+    },
+    {
+      "title": "王自强院士来所指导和交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1734.htm",
+      "date": "2017-05-16",
+      "column": "学术活动"
+    },
+    {
+      "title": "阿尔伯塔大学茹重庆教授应邀来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1733.htm",
+      "date": "2017-05-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "乐嘉陵院士来力学所指导和交流",
+      "url": "https://siamm.shu.edu.cn/info/1011/1564.htm",
+      "date": "2017-04-28",
+      "column": "新闻"
+    },
+    {
+      "title": "理学院力学所党支部组织开展无偿献血活动",
+      "url": "https://siamm.shu.edu.cn/info/1011/1565.htm",
+      "date": "2017-04-28",
+      "column": "新闻"
+    },
+    {
+      "title": "上海交通大学张文明教授应邀来所进行学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1731.htm",
+      "date": "2017-04-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "同济大学徐鉴教授应邀来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1730.htm",
+      "date": "2017-03-20",
+      "column": "学术活动"
+    },
+    {
+      "title": "中国科学院石钟慈院士赴力学所访问交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1729.htm",
+      "date": "2017-03-13",
+      "column": "学术活动"
+    },
+    {
+      "title": "商飞上飞院杨士普高级工程师应邀来我所做学术报告",
+      "url": "https://siamm.shu.edu.cn/info/1025/1727.htm",
+      "date": "2017-02-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "纪念上海市应用数学和力学研究所成立三十周年",
+      "url": "https://siamm.shu.edu.cn/info/1011/1552.htm",
+      "date": "2017-01-05",
+      "column": "新闻"
+    },
+    {
+      "title": "2016大型飞机新概念气动布局设计和先进发动机技术学术研讨会",
+      "url": "https://siamm.shu.edu.cn/info/1011/1554.htm",
+      "date": "2017-01-05",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市力学在能源工程中的应用重点实验室第三届学术委员会第二次会议召开",
+      "url": "https://siamm.shu.edu.cn/info/1011/1561.htm",
+      "date": "2016-12-13",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市应用数学和力学研究所硕士研究生冷建涛在Nano Letters上发表论文",
+      "url": "https://siamm.shu.edu.cn/info/1011/1562.htm",
+      "date": "2016-12-13",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市应用数学和力学研究所卢东强研究员当选国际水动力学会议执行委员",
+      "url": "https://siamm.shu.edu.cn/info/1011/1563.htm",
+      "date": "2016-12-13",
+      "column": "新闻"
+    },
+    {
+      "title": "中国科技大学殷保群教授、北京市BTIC刘浩主任、北京市TOCC张可主任来所访问交流",
+      "url": "https://siamm.shu.edu.cn/info/1011/1560.htm",
+      "date": "2016-07-29",
+      "column": "新闻"
+    },
+    {
+      "title": "上海交通大学尤云祥教授来所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1726.htm",
+      "date": "2016-06-30",
+      "column": "学术活动"
+    },
+    {
+      "title": "同济大学航空航天与力学学院嵇醒教授来所访问交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1725.htm",
+      "date": "2016-06-23",
+      "column": "学术活动"
+    },
+    {
+      "title": "浙江大学陈伟球教授来我所做学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1724.htm",
+      "date": "2016-06-17",
+      "column": "学术活动"
+    },
+    {
+      "title": "细长弹性结构非线性振动Galerkin方法收敛性",
+      "url": "https://siamm.shu.edu.cn/info/1025/1723.htm",
+      "date": "2016-06-03",
+      "column": "学术活动"
+    },
+    {
+      "title": "北京大学工学院杨越教授来我所学术交流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1722.htm",
+      "date": "2016-05-12",
+      "column": "学术活动"
+    },
+    {
+      "title": "中国科学院力学所胡文瑞院士应邀来我校做学术报告",
+      "url": "https://siamm.shu.edu.cn/info/1025/1720.htm",
+      "date": "2016-04-22",
+      "column": "学术活动"
+    },
+    {
+      "title": "High order lattice Boltzmann model for rarefied gas flows（稀薄气体流动的高阶格子玻尔兹...",
+      "url": "https://siamm.shu.edu.cn/info/1025/1719.htm",
+      "date": "2016-04-14",
+      "column": "学术活动"
+    },
+    {
+      "title": "双扩散对流",
+      "url": "https://siamm.shu.edu.cn/info/1025/1718.htm",
+      "date": "2016-04-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "大连理工大学教授吴锤结来我所讲学",
+      "url": "https://siamm.shu.edu.cn/info/1025/1717.htm",
+      "date": "2016-03-24",
+      "column": "学术活动"
+    },
+    {
+      "title": "直升机旋翼和大型客机增升装置空气动力学数值模拟方法与应用研究",
+      "url": "https://siamm.shu.edu.cn/info/1025/1715.htm",
+      "date": "2016-03-03",
+      "column": "学术活动"
+    },
+    {
+      "title": "Fine-grained Algorithms of Fully-implicit CFD",
+      "url": "https://siamm.shu.edu.cn/info/1025/1713.htm",
+      "date": "2016-01-07",
+      "column": "学术活动"
+    },
+    {
+      "title": "校党委常委、副校长丛玉豪一行赴力学所调研",
+      "url": "https://siamm.shu.edu.cn/info/1011/1559.htm",
+      "date": "2015-10-20",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市力学在能源工程中的应用重点实验室第三届学术委员会第一次会议",
+      "url": "https://siamm.shu.edu.cn/info/1011/1558.htm",
+      "date": "2015-10-10",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学力学学科暑期学校举办",
+      "url": "https://siamm.shu.edu.cn/info/1011/1557.htm",
+      "date": "2015-08-31",
+      "column": "新闻"
+    },
+    {
+      "title": "中国力学大会2015-“复杂交通现象的实验、建模和模拟”专题研讨会在上海交通大学召开",
+      "url": "https://siamm.shu.edu.cn/info/1011/1553.htm",
+      "date": "2015-08-26",
+      "column": "新闻"
+    },
+    {
+      "title": "由上海大学主办的交通科学与计算专题研讨会在昆明召开",
+      "url": "https://siamm.shu.edu.cn/info/1011/1555.htm",
+      "date": "2015-08-26",
+      "column": "新闻"
+    }
+  ]
+}

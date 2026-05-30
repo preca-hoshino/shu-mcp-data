@@ -1,0 +1,325 @@
+{
+  "domain": "suns.shu.edu.cn",
+  "department": "上海大学数据科学与都市研究中心",
+  "type": "06",
+  "crawl_time": "20260514_004804",
+  "total_articles": 52,
+  "columns": {
+    "新闻": 17,
+    "公告": 35
+  },
+  "articles": [
+    {
+      "title": "第15届·应用社会科学研究方法研修班·基础班招生简章",
+      "url": "https://suns.shu.edu.cn/info/1019/1544.htm",
+      "date": "2026-04-24",
+      "column": "新闻"
+    },
+    {
+      "title": "第15届·应用社会科学研究方法研修班·基础班招生简章",
+      "url": "https://suns.shu.edu.cn/info/1020/1564.htm",
+      "date": "2026-04-24",
+      "column": "公告"
+    },
+    {
+      "title": "2025年上海新就业群体调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1504.htm",
+      "date": "2025-10-03",
+      "column": "公告"
+    },
+    {
+      "title": "第14届应用社会科学研究方法研修班基础班顺利结业",
+      "url": "https://suns.shu.edu.cn/info/1019/1484.htm",
+      "date": "2025-08-04",
+      "column": "新闻"
+    },
+    {
+      "title": "第14届·应用社会科学研究方法研修班·基础班招生简章",
+      "url": "https://suns.shu.edu.cn/info/1020/1454.htm",
+      "date": "2025-04-02",
+      "column": "公告"
+    },
+    {
+      "title": "2024年上海都市社区调查（SUNS）正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1414.htm",
+      "date": "2024-10-01",
+      "column": "公告"
+    },
+    {
+      "title": "2023年上海都市社区调查实习证明名单",
+      "url": "https://suns.shu.edu.cn/info/1020/1404.htm",
+      "date": "2023-11-05",
+      "column": "公告"
+    },
+    {
+      "title": "2023年上海都市社区电话调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1374.htm",
+      "date": "2023-10-07",
+      "column": "公告"
+    },
+    {
+      "title": "第十二届应用社会科学研究方法研修班基础班顺利结业",
+      "url": "https://suns.shu.edu.cn/info/1019/1354.htm",
+      "date": "2023-07-18",
+      "column": "新闻"
+    },
+    {
+      "title": "第12届·应用社会科学研究方法研修班基础班正式开班授课",
+      "url": "https://suns.shu.edu.cn/info/1019/1343.htm",
+      "date": "2023-07-03",
+      "column": "新闻"
+    },
+    {
+      "title": "《第12届·应用社会科学研究方法研修班·基础班》招生简章",
+      "url": "https://suns.shu.edu.cn/info/1020/1303.htm",
+      "date": "2023-04-28",
+      "column": "公告"
+    },
+    {
+      "title": "2022年上海社区治理评价电话调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1281.htm",
+      "date": "2022-11-14",
+      "column": "公告"
+    },
+    {
+      "title": "2022年北上广深都市社区电话调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1261.htm",
+      "date": "2022-08-11",
+      "column": "公告"
+    },
+    {
+      "title": "第11届·应用社会科学研究方法研修班（基础班）正式开班",
+      "url": "https://suns.shu.edu.cn/info/1019/1255.htm",
+      "date": "2022-07-07",
+      "column": "新闻"
+    },
+    {
+      "title": "上大、上纽大、港科大（广州）宣布成立“城市调查与干预联合实验室”",
+      "url": "https://suns.shu.edu.cn/info/1019/1253.htm",
+      "date": "2022-07-06",
+      "column": "新闻"
+    },
+    {
+      "title": "第11届·应用社会科学研究方法研修班《数据分析专题》系列讲座",
+      "url": "https://suns.shu.edu.cn/info/1020/1252.htm",
+      "date": "2022-07-01",
+      "column": "公告"
+    },
+    {
+      "title": "第11届应用社会科学研究方法研修班 基础班学员录取名单",
+      "url": "https://suns.shu.edu.cn/info/1020/1241.htm",
+      "date": "2022-06-09",
+      "column": "公告"
+    },
+    {
+      "title": "征文启事 | 第十一届社会理论工作坊·研究生学术论坛",
+      "url": "https://suns.shu.edu.cn/info/1020/1231.htm",
+      "date": "2022-05-06",
+      "column": "公告"
+    },
+    {
+      "title": "第11届·应用社会科学研究方法研修班简章",
+      "url": "https://suns.shu.edu.cn/info/1020/1221.htm",
+      "date": "2022-04-26",
+      "column": "公告"
+    },
+    {
+      "title": "“上海城市基础设施更新民意调查”正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1211.htm",
+      "date": "2022-03-18",
+      "column": "公告"
+    },
+    {
+      "title": "“2021都市社区电话调查”电话调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1201.htm",
+      "date": "2021-10-25",
+      "column": "公告"
+    },
+    {
+      "title": "王妍：Building deservingness and fairness: how Chinese state crafts the social legitimacy of its new welfare schemes",
+      "url": "https://suns.shu.edu.cn/info/1020/1203.htm",
+      "date": "2021-10-21",
+      "column": "公告"
+    },
+    {
+      "title": "上海大学社会学院2021年上海社会治理评价电话调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1195.htm",
+      "date": "2021-09-22",
+      "column": "公告"
+    },
+    {
+      "title": "第十届社会理论工作坊研究生论坛",
+      "url": "https://suns.shu.edu.cn/info/1020/1193.htm",
+      "date": "2021-08-12",
+      "column": "公告"
+    },
+    {
+      "title": "上海都市社区调查（SUNS）2021电话调查正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1191.htm",
+      "date": "2021-08-01",
+      "column": "公告"
+    },
+    {
+      "title": "泮溪下午茶系列讲座|李煜: 代际流动的分析框架与议题",
+      "url": "https://suns.shu.edu.cn/info/1019/1185.htm",
+      "date": "2021-05-17",
+      "column": "新闻"
+    },
+    {
+      "title": "姚泽麟：《经济社会学中的文化取向及其对中国研究的启示》",
+      "url": "https://suns.shu.edu.cn/info/1020/1183.htm",
+      "date": "2021-05-17",
+      "column": "公告"
+    },
+    {
+      "title": "泮溪下午茶系列讲座|缪佳：Contextualizing Drug Abuse in China",
+      "url": "https://suns.shu.edu.cn/info/1019/1181.htm",
+      "date": "2021-05-08",
+      "column": "新闻"
+    },
+    {
+      "title": "李煜：《代际流动的分析框架与议题》",
+      "url": "https://suns.shu.edu.cn/info/1020/1171.htm",
+      "date": "2021-04-30",
+      "column": "公告"
+    },
+    {
+      "title": "缪佳：药物滥用的成因与健康后果",
+      "url": "https://suns.shu.edu.cn/info/1020/1161.htm",
+      "date": "2021-04-27",
+      "column": "公告"
+    },
+    {
+      "title": "泮溪下午茶系列讲座|胡安宁：社会学的文化转向如何避免“装饰社会学”陷阱",
+      "url": "https://suns.shu.edu.cn/info/1019/1157.htm",
+      "date": "2021-04-16",
+      "column": "新闻"
+    },
+    {
+      "title": "第10届·应用社会科学研究方法研修班 简章",
+      "url": "https://suns.shu.edu.cn/info/1020/1155.htm",
+      "date": "2021-04-13",
+      "column": "公告"
+    },
+    {
+      "title": "胡安宁：《社会学的文化转向如何避免“装饰社会学”陷阱？》",
+      "url": "https://suns.shu.edu.cn/info/1020/1153.htm",
+      "date": "2021-04-12",
+      "column": "公告"
+    },
+    {
+      "title": "“泮溪下午茶”系列讲座 |吴晓刚《当代中国的不平等和社会分层：回顾与展望》",
+      "url": "https://suns.shu.edu.cn/info/1019/1151.htm",
+      "date": "2021-04-08",
+      "column": "新闻"
+    },
+    {
+      "title": "吴晓刚: 当代中国的不平等和社会分层：回顾与展望",
+      "url": "https://suns.shu.edu.cn/info/1020/1141.htm",
+      "date": "2021-04-01",
+      "column": "公告"
+    },
+    {
+      "title": "2021年 第十届社会理论工作坊·研究生学术论坛 征文启事",
+      "url": "https://suns.shu.edu.cn/info/1020/1135.htm",
+      "date": "2021-03-08",
+      "column": "公告"
+    },
+    {
+      "title": "新书 | 孙秀林等《嬗变中的上海：民生发展与社会治理》",
+      "url": "https://suns.shu.edu.cn/info/1019/1132.htm",
+      "date": "2021-02-03",
+      "column": "新闻"
+    },
+    {
+      "title": "李骏：回望新世纪：中国社会变迁研究三例",
+      "url": "https://suns.shu.edu.cn/info/1020/1123.htm",
+      "date": "2021-01-19",
+      "column": "公告"
+    },
+    {
+      "title": "“泮溪下午茶”系列讲座第三场《家的空间重构与祖先观念》",
+      "url": "https://suns.shu.edu.cn/info/1019/1121.htm",
+      "date": "2021-01-14",
+      "column": "新闻"
+    },
+    {
+      "title": "陈玮：发展型政府的多样性——政企关系、产业体系与政治社会遗产",
+      "url": "https://suns.shu.edu.cn/info/1020/1115.htm",
+      "date": "2020-12-16",
+      "column": "公告"
+    },
+    {
+      "title": "SUNS再启程｜上海都市电话调查项目正式启动",
+      "url": "https://suns.shu.edu.cn/info/1020/1113.htm",
+      "date": "2020-12-12",
+      "column": "公告"
+    },
+    {
+      "title": "“泮溪下午茶”系列讲座第一讲开讲 《创新创造价值》",
+      "url": "https://suns.shu.edu.cn/info/1019/1111.htm",
+      "date": "2020-12-06",
+      "column": "新闻"
+    },
+    {
+      "title": "招募|上海都市社区调查电话调查员（远程）招募启事",
+      "url": "https://suns.shu.edu.cn/info/1020/1101.htm",
+      "date": "2020-12-01",
+      "column": "公告"
+    },
+    {
+      "title": "第九届应用社会科学方法研修班",
+      "url": "https://suns.shu.edu.cn/info/1019/1077.htm",
+      "date": "2020-08-31",
+      "column": "新闻"
+    },
+    {
+      "title": "张涵：社会科学中的图片数据应用",
+      "url": "https://suns.shu.edu.cn/info/1020/1069.htm",
+      "date": "2020-08-14",
+      "column": "公告"
+    },
+    {
+      "title": "周翔：去偏差机器学习与因果推断",
+      "url": "https://suns.shu.edu.cn/info/1020/1067.htm",
+      "date": "2020-08-13",
+      "column": "公告"
+    },
+    {
+      "title": "臧晓露：公共政策与家庭中的溢出效应",
+      "url": "https://suns.shu.edu.cn/info/1020/1065.htm",
+      "date": "2020-08-12",
+      "column": "公告"
+    },
+    {
+      "title": "钱岳：Social Impacts of the COVID-19 Pandemic: Preliminary Findings",
+      "url": "https://suns.shu.edu.cn/info/1020/1063.htm",
+      "date": "2020-08-11",
+      "column": "公告"
+    },
+    {
+      "title": "董浩：历史人口大数据的社会科学应用前沿",
+      "url": "https://suns.shu.edu.cn/info/1020/1061.htm",
+      "date": "2020-08-05",
+      "column": "公告"
+    },
+    {
+      "title": "孙秀林一行前往浦东金山等区调研",
+      "url": "https://suns.shu.edu.cn/info/1019/1092.htm",
+      "date": "2020-07-30",
+      "column": "新闻"
+    },
+    {
+      "title": "张卓妮博士来中心做主题系列讲座",
+      "url": "https://suns.shu.edu.cn/info/1019/1075.htm",
+      "date": "2018-04-24",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市发改委来中心进行调研",
+      "url": "https://suns.shu.edu.cn/info/1019/1074.htm",
+      "date": "2017-04-14",
+      "column": "新闻"
+    }
+  ]
+}

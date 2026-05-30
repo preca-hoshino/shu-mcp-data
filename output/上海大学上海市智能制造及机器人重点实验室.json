@@ -1,0 +1,54 @@
+{
+  "domain": "imrobot.shu.edu.cn",
+  "department": "上海大学上海市智能制造及机器人重点实验室",
+  "type": "28",
+  "crawl_time": "20260513_195202",
+  "total_articles": 7,
+  "columns": {
+    "综合新闻": 7
+  },
+  "articles": [
+    {
+      "title": "2026年科技周预约通道",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1111.htm",
+      "date": "2026-05-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“方周自强奖”奖励全国智能制造大赛获奖学生",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1101.htm",
+      "date": "2020-11-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "我校机自学院参赛队伍荣获2020中国大学生机械工程创新创意大赛——第三届智能制造大赛全国一等奖、三等奖",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1091.htm",
+      "date": "2020-11-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "我校成功举办2020中国大学生机械工程创新创意大赛——第三届智能制造大赛上海大学赛区初赛",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1081.htm",
+      "date": "2020-10-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "热烈欢迎上海张江（集团）有限公司副总经理鲍纯谦先生来实验室参观指导",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1053.htm",
+      "date": "2019-11-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市智能制造及机器人重点实验室学术委员会会议顺利召开",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1012.htm",
+      "date": "2019-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市经信委领导来实验室参观指导",
+      "url": "https://imrobot.shu.edu.cn/info/1002/1052.htm",
+      "date": "2019-07-24",
+      "column": "综合新闻"
+    }
+  ]
+}

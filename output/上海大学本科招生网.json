@@ -1,0 +1,204 @@
+{
+  "domain": "bkzsw.shu.edu.cn",
+  "department": "上海大学本科招生网",
+  "type": "10",
+  "crawl_time": "20260528_091756",
+  "total_articles": 32,
+  "columns": {
+    "最新公告": 32
+  },
+  "articles": [
+    {
+      "title": "上海大学2026年插班生招生考试成绩查询公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38720.htm",
+      "date": "2026-05-28",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学2026年第二学士学位初审及面试工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38700.htm",
+      "date": "2026-05-26",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年艺术类本科专业校考成绩开通查询",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38560.htm",
+      "date": "2026-04-03",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海电影学院2026年戏剧影视导演专业校考三试（现场考试）工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38490.htm",
+      "date": "2026-03-18",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年“我为上大代言”实践活动完成学生名单公示",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38510.htm",
+      "date": "2026-03-18",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海电影学院2026年表演专业校考三试（现场考试）工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38470.htm",
+      "date": "2026-03-17",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海美术学院2026年艺术类本科专业校考初选二次递补合格名单及缴费确认的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38450.htm",
+      "date": "2026-03-16",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学音乐学院2026年音乐表演专业校考复试（现场考试）工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38420.htm",
+      "date": "2026-03-12",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海美术学院2026年艺术类本科专业校考初选递补合格名单及缴费确认的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38430.htm",
+      "date": "2026-03-12",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海电影学院2026年戏剧影视导演专业校考复试（线上考试）工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38400.htm",
+      "date": "2026-03-10",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海电影学院2026年表演专业校考复试（线上考试）工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38340.htm",
+      "date": "2026-03-08",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于上海大学上海美术学院2026年艺术类本科专业校考初选及考试公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38320.htm",
+      "date": "2026-03-07",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年春季考试招生录取结果已公布",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38360.htm",
+      "date": "2026-03-07",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年春季考试招生计划缺额公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38300.htm",
+      "date": "2026-03-06",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年春季考试招生自主测试成绩与结果已公布",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38280.htm",
+      "date": "2026-03-04",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学上海电影学院2026年表演专业校考初试（线上考试）考生须知",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38220.htm",
+      "date": "2026-02-10",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学上海电影学院2026年戏剧影视导演专业校考初试（线上考试）考生须知",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38240.htm",
+      "date": "2026-02-10",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学音乐学院2026年音乐表演专业校考初试（线上考试）考生须知",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38260.htm",
+      "date": "2026-02-10",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于公布上海大学2026年春季考试招生自主测试资格线的通知",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38200.htm",
+      "date": "2026-02-05",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学本科生院招生处关于寒假期间持续提供本科招生咨询服务的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38190.htm",
+      "date": "2026-01-23",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年春季考试招生自主测试实施方案",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38170.htm",
+      "date": "2026-01-15",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年艺术类本科（统考）专业与各省统考子科类对照表",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38070.htm",
+      "date": "2025-11-03",
+      "column": "最新公告"
+    },
+    {
+      "title": "关于2025年上海大学本科招生宣传工作先进集体和先进个人候选对象的公示",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38060.htm",
+      "date": "2025-10-22",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2026年艺术类本科（校考）专业与各省统考子科类对照表",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38040.htm",
+      "date": "2025-09-30",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年艺术类本科专业录取分数线(统考)",
+      "url": "https://mp.weixin.qq.com/s/wANz1RUArTorfrhbva5wfA",
+      "date": "2025-07-29",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年各省市最低录取分数线",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38010.htm",
+      "date": "2025-07-15",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年艺术类本科专业录取分数线(校考)",
+      "url": "https://mp.weixin.qq.com/s/5RwCedySxrmQAgBAJFpoEg",
+      "date": "2025-07-13",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年上海市综合评价录取改革试点招生预录取名单公示",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/37960.htm",
+      "date": "2025-07-09",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年综合评价录取改革试点入围校测名单及考生须知",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/37940.htm",
+      "date": "2025-07-03",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年第二学士学位招生候补资格考生预录取名单公示【公示已结束】",
+      "url": "https://bkzsw.shu.edu.cn/newcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1798&wbnewsid=37920",
+      "date": "2025-06-30",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年第二学士学位预录取及候补录取名单公示【公示已结束】",
+      "url": "https://bkzsw.shu.edu.cn/newcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1798&wbnewsid=37900",
+      "date": "2025-06-21",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年综合评价录取报名初审结果公布",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/37820.htm",
+      "date": "2025-06-03",
+      "column": "最新公告"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "hmlct.shu.edu.cn",
+  "department": "上海大学氢冶金与低碳技术团队",
+  "type": "06",
+  "crawl_time": "20260513_195202",
+  "total_articles": 27,
+  "columns": {
+    "新闻中心": 17,
+    "重要进展": 10
+  },
+  "articles": [
+    {
+      "title": "团队在《Small》上发表最新研究成果",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1784.htm",
+      "date": "2023-09-19",
+      "column": "新闻中心"
+    },
+    {
+      "title": "Recent advances in electrochemical-based silicon production technologies with reduced carbon emission",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1744.htm",
+      "date": "2023-09-19",
+      "column": "重要进展"
+    },
+    {
+      "title": "Advances in molten-salt-assisted synthesis of 2D MXenes and their applications in electrochemical energy storage and conversion",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1754.htm",
+      "date": "2023-09-19",
+      "column": "重要进展"
+    },
+    {
+      "title": "Building Negative-thermal-expansion Protective Layers on the Grain Boundary of Ni-rich Cathodes Enables Safe and Durable High Voltage Lithium Ion Batteries",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1764.htm",
+      "date": "2023-09-19",
+      "column": "重要进展"
+    },
+    {
+      "title": "Design Strategies toward High-Performance Zn Metal Anode",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1774.htm",
+      "date": "2023-09-19",
+      "column": "重要进展"
+    },
+    {
+      "title": "团队在国际能源材料顶级期刊《Advanced Energy Materials》上发表研究成果",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1543.htm",
+      "date": "2023-02-19",
+      "column": "新闻中心"
+    },
+    {
+      "title": "Uncovering the fundamental role of interlayer water in charge storage for bilayered V2O5‧nH2O xerogel cathode materials",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1553.htm",
+      "date": "2023-02-19",
+      "column": "重要进展"
+    },
+    {
+      "title": "团队项目成果科普性介绍 —高炉风口小套防护覆层的界面调控机制与服役强化实践",
+      "url": "https://hmlct.shu.edu.cn/info/1027/1523.htm",
+      "date": "2023-02-19",
+      "column": "新闻中心"
+    },
+    {
+      "title": "氢冶金与低碳技术团队在首届世界氢冶金技术交流大会做专题报告",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1512.htm",
+      "date": "2022-09-13",
+      "column": "新闻中心"
+    },
+    {
+      "title": "打开高炉黑箱！首例富氢试验高炉解剖顺利完成",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1456.htm",
+      "date": "2022-07-16",
+      "column": "新闻中心"
+    },
+    {
+      "title": "Molten salt electrosynthesis of silicon carbide nanoparticles and its  photoluminescence property",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1462.htm",
+      "date": "2022-07-16",
+      "column": "重要进展"
+    },
+    {
+      "title": "Experimental and computational approaches to study the chlorination mechanism of pentlandite with ammonium chloride",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1463.htm",
+      "date": "2022-07-16",
+      "column": "重要进展"
+    },
+    {
+      "title": "中国钢铁业“以氢代碳”新进展：首次实验高炉纯氢冶炼技术",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1411.htm",
+      "date": "2022-03-31",
+      "column": "新闻中心"
+    },
+    {
+      "title": "氢冶金突破！我国首次完成高炉喷吹纯氢冶炼技术开发试验",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1412.htm",
+      "date": "2022-03-31",
+      "column": "新闻中心"
+    },
+    {
+      "title": "高炉富氢冶炼技术开发试验在河北昌黎完成",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1413.htm",
+      "date": "2022-03-31",
+      "column": "新闻中心"
+    },
+    {
+      "title": "“以氢代碳”高炉富氢冶炼技术开发试验在河北昌黎完成",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1405.htm",
+      "date": "2022-03-24",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上海大学-兴国铸业“以氢代碳”富氢冶炼试验项目正式启动！并向试验炉成功注入纯氢气",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1406.htm",
+      "date": "2022-03-24",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上海大学与兴国铸业联手开展富氢冶炼试验",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1407.htm",
+      "date": "2022-03-24",
+      "column": "新闻中心"
+    },
+    {
+      "title": "Progress in Ti3O5: Synthesis, properties and applications",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1373.htm",
+      "date": "2021-12-23",
+      "column": "重要进展"
+    },
+    {
+      "title": "Reversible (De)Intercalation of Hydrated Zn2+ in Mg2+-Stabilized V2O5 Nanobelts with High Areal Capacity",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1352.htm",
+      "date": "2021-12-15",
+      "column": "重要进展"
+    },
+    {
+      "title": "Unraveling the dissolution mechanism of platinum and silver electrodes during composite electrodeposition in a deep eutectic solvent",
+      "url": "https://hmlct.shu.edu.cn/info/1013/1353.htm",
+      "date": "2021-12-15",
+      "column": "重要进展"
+    },
+    {
+      "title": "上海大学·省部共建高品质特殊钢冶金与制备国家重点实验室临汾中试基地签约仪式在太原举行",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1227.htm",
+      "date": "2021-10-22",
+      "column": "新闻中心"
+    },
+    {
+      "title": "团队在国际著名期刊《Advanced Energy Materials》上发表研究论文",
+      "url": "https://hmlct.shu.edu.cn/info/1012/1229.htm",
+      "date": "2021-10-22",
+      "column": "新闻中心"
+    },
+    {
+      "title": "连铸板坯火焰清理机的关键技术研发及其产业化项目科技成果评价会成功召开",
+      "url": "http://www.sklass.shu.edu.cn/info/1042/2544.htm",
+      "date": "2021-05-04",
+      "column": "新闻中心"
+    },
+    {
+      "title": "全国首台富氢低碳大科学装置落户中升钢铁，进展来了！",
+      "url": "http://www.sklass.shu.edu.cn/info/1042/2504.htm",
+      "date": "2021-04-11",
+      "column": "新闻中心"
+    },
+    {
+      "title": "山西临汾中试基地签约仪式在太原举行！",
+      "url": "http://www.sklass.shu.edu.cn/info/1042/2413.htm",
+      "date": "2020-11-25",
+      "column": "新闻中心"
+    },
+    {
+      "title": "氢冶金技术研究与成果转化中心成立！",
+      "url": "http://www.sklass.shu.edu.cn/info/1042/2355.htm",
+      "date": "2020-10-26",
+      "column": "新闻中心"
+    }
+  ]
+}

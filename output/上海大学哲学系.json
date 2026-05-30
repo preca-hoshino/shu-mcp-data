@@ -1,0 +1,693 @@
+{
+  "domain": "zxx.shu.edu.cn",
+  "department": "上海大学哲学系",
+  "type": "20",
+  "crawl_time": "20260530_085033",
+  "total_articles": 113,
+  "columns": {
+    "图片新闻": 4,
+    "学术动态": 3,
+    "新闻速递": 99,
+    "通知公告": 7
+  },
+  "articles": [
+    {
+      "title": "《价值论研究》杂志邀稿函2025-05-07",
+      "url": "https://zxx.shu.edu.cn/info/1070/27864.htm",
+      "date": "2025-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "香港浸会大学-上海大学联合哲学研讨会（第5期）顺利举办2024-01-27",
+      "url": "https://zxx.shu.edu.cn/system/defaultcontent.jsp",
+      "date": "2024-01-27",
+      "column": "新闻速递"
+    },
+    {
+      "title": "霍尔格·吕赫教授讲座成功举行2023-11-13",
+      "url": "https://zxx.shu.edu.cn/info/1069/27484.htm",
+      "date": "2023-11-13",
+      "column": "图片新闻"
+    },
+    {
+      "title": "“中国古典哲学的思想精神及其当代发展”学术会议 在上海大学顺利召开2023-11-08",
+      "url": "https://zxx.shu.edu.cn/info/1069/27494.htm",
+      "date": "2023-11-08",
+      "column": "图片新闻"
+    },
+    {
+      "title": "RPSS“语言与诠释”联合工作坊在上海大学顺利召开2023-11-06",
+      "url": "https://zxx.shu.edu.cn/info/1069/27504.htm",
+      "date": "2023-11-06",
+      "column": "图片新闻"
+    },
+    {
+      "title": "弗赖恩哈根教授讲座成功举行2023-09-14",
+      "url": "https://zxx.shu.edu.cn/info/1069/27524.htm",
+      "date": "2023-09-14",
+      "column": "图片新闻"
+    },
+    {
+      "title": "喜讯：关山彤博士入职上海大学哲学系2022-08-19",
+      "url": "https://zxx.shu.edu.cn/info/1070/6501.htm",
+      "date": "2022-08-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学哲学系2022年大学生夏令营优秀营员名单公示2022-07-27",
+      "url": "https://zxx.shu.edu.cn/info/1070/6491.htm",
+      "date": "2022-07-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学哲学系2022年夏令营成功举办2022-07-27",
+      "url": "https://zxx.shu.edu.cn/info/1070/6492.htm",
+      "date": "2022-07-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "“第二十二届中国价值哲学大会”  邀请函2022-07-19",
+      "url": "https://zxx.shu.edu.cn/info/1070/6481.htm",
+      "date": "2022-07-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学哲学系2022年夏令营学员录取名单公示2022-07-14",
+      "url": "https://zxx.shu.edu.cn/info/1070/6471.htm",
+      "date": "2022-07-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "“人工智能哲学与当代科技发展”会议通知 （第一轮）2022-07-10",
+      "url": "https://zxx.shu.edu.cn/info/1070/6311.htm",
+      "date": "2022-07-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "中国社会科学网：上海大学举办“量子信息与智能哲学”工作坊2019-05-29",
+      "url": "http://ex.cssn.cn/dzyx/dzyx_mtgz/201905/t20190529_4909214.shtml",
+      "date": "2019-05-29",
+      "column": "学术动态"
+    },
+    {
+      "title": "重磅 | 中国价值哲学研究会换届2019-05-27",
+      "url": "https://mp.weixin.qq.com/s/aL8GAt2WwNoZSZujOvejLA",
+      "date": "2019-05-27",
+      "column": "学术动态"
+    },
+    {
+      "title": "东方教育时报：上海大学首开上海党史课《开天辟地》：“真理的味道别样甜！”2018-10-30",
+      "url": "http://www.sohu.com/a/271237392_372499",
+      "date": "2018-10-30",
+      "column": "学术动态"
+    },
+    {
+      "title": "校组织人事部领导到社会科学学部（筹）宣布学部及马院领导班子任免决定2018-07-04",
+      "url": "https://zxx.shu.edu.cn/info/1051/6015.htm",
+      "date": "2018-07-04",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于2017-2018学年社会科学学部（筹）困难认定公示的通知2017-10-09",
+      "url": "https://zxx.shu.edu.cn/info/1051/6268.htm",
+      "date": "2017-10-09",
+      "column": "新闻速递"
+    },
+    {
+      "title": "2018年社会科学学部（筹）研究生奖学金评审细则2017-09-30",
+      "url": "https://zxx.shu.edu.cn/info/1051/6269.htm",
+      "date": "2017-09-30",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部2018年接收应届优秀本科毕业生免试直升硕士研究生复试方案2017-09-21",
+      "url": "https://zxx.shu.edu.cn/info/1051/6270.htm",
+      "date": "2017-09-21",
+      "column": "新闻速递"
+    },
+    {
+      "title": "张耀灿教授莅临社科学部指导学科建设工作2017-06-21",
+      "url": "https://zxx.shu.edu.cn/info/1051/6242.htm",
+      "date": "2017-06-21",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部举行全体教师大会2017-06-19",
+      "url": "https://zxx.shu.edu.cn/info/1051/6243.htm",
+      "date": "2017-06-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部举行本科毕业生文明离校教育活动2017-06-15",
+      "url": "https://zxx.shu.edu.cn/info/1051/5909.htm",
+      "date": "2017-06-15",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学哲学系（专业）成立15周年暨当代哲学发展论坛成功召开2017-06-15",
+      "url": "https://zxx.shu.edu.cn/info/1051/6233.htm",
+      "date": "2017-06-15",
+      "column": "新闻速递"
+    },
+    {
+      "title": "深圳信息职业技术学院来我校调研思想政治教育工作2017-06-13",
+      "url": "https://zxx.shu.edu.cn/info/1051/6234.htm",
+      "date": "2017-06-13",
+      "column": "新闻速递"
+    },
+    {
+      "title": "校党委统战部到社会科学学部开展工作调研2017-06-13",
+      "url": "https://zxx.shu.edu.cn/info/1051/6235.htm",
+      "date": "2017-06-13",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学哲学系2017届本科毕业生毕业答辩顺利举行2017-06-08",
+      "url": "https://zxx.shu.edu.cn/info/1051/6224.htm",
+      "date": "2017-06-08",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学党委统战部来学部开展工作调研2017-06-01",
+      "url": "https://zxx.shu.edu.cn/info/1051/6225.htm",
+      "date": "2017-06-01",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我部陶倩教授入选 “高校思想政治理论课教师2016年度影响力人物”2017-06-01",
+      "url": "https://zxx.shu.edu.cn/info/1051/6226.htm",
+      "date": "2017-06-01",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学马克思主义学院2017年夏令营招生启事2017-05-26",
+      "url": "http://www.mkszyxy.shu.edu.cn/Default.aspx?tabid=10592&ctl=Detail&mid=20095&Id=81779&SkinSr",
+      "date": "2017-05-26",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部党政中心组学习会顺利举行2017-05-10",
+      "url": "https://zxx.shu.edu.cn/info/1051/6227.htm",
+      "date": "2017-05-10",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于申报2017年度上海市教育委员会科研创新计划的通知2017-05-02",
+      "url": "https://zxx.shu.edu.cn/info/1051/6217.htm",
+      "date": "2017-05-02",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海教卫党建网报道我校樱花节临时党支部活动2017-04-18",
+      "url": "http://www.shedunews.com/jiaoweidangjianwang/dangjiantuijianxinwen/2017/04/14/2079308.html",
+      "date": "2017-04-18",
+      "column": "新闻速递"
+    },
+    {
+      "title": "【科研评奖】中国马克思主义研究基金会“第五届马克思主义研究优秀成果奖”评选启事2017-04-17",
+      "url": "http://www.sinoss.net/show.php?contentid=75844",
+      "date": "2017-04-17",
+      "column": "新闻速递"
+    },
+    {
+      "title": "加强区校合作，搭建实践平台——政经专业与嘉定区联勤网格化管理中心合作课题研讨会顺利举行2017-04-14",
+      "url": "https://zxx.shu.edu.cn/info/1051/6209.htm",
+      "date": "2017-04-14",
+      "column": "新闻速递"
+    },
+    {
+      "title": "思政课教师和辅导员两支队伍协同育人再添新举措2017-04-14",
+      "url": "https://zxx.shu.edu.cn/info/1051/6210.htm",
+      "date": "2017-04-14",
+      "column": "新闻速递"
+    },
+    {
+      "title": "党委宣传部、社会科学学部一行赴武汉大学马克思主义学院访问交流2017-03-31",
+      "url": "https://zxx.shu.edu.cn/info/1051/6211.htm",
+      "date": "2017-03-31",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2017年硕士研究生毕业答辩流程2017-03-28",
+      "url": "https://zxx.shu.edu.cn/info/1051/6204.htm",
+      "date": "2017-03-28",
+      "column": "新闻速递"
+    },
+    {
+      "title": "全国高校思想政治理论课信息化建设联盟成立仪式暨在线开放课程建设研讨会成功在武汉大学举办2017-03-28",
+      "url": "https://zxx.shu.edu.cn/info/1051/6208.htm",
+      "date": "2017-03-28",
+      "column": "新闻速递"
+    },
+    {
+      "title": "学部在学校党建会议上作意识形态责任制交流发言并签约2017-03-25",
+      "url": "https://zxx.shu.edu.cn/info/1051/6205.htm",
+      "date": "2017-03-25",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学社会科学学部（筹）2017年研究生复试方案2017-03-20",
+      "url": "https://zxx.shu.edu.cn/info/1051/6206.htm",
+      "date": "2017-03-20",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学2017年硕士研究生招生复试资格审查通知2017-03-18",
+      "url": "https://zxx.shu.edu.cn/info/1051/6198.htm",
+      "date": "2017-03-18",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部党委召开2017年度第一次党支部书记培训2017-03-18",
+      "url": "https://zxx.shu.edu.cn/info/1051/6199.htm",
+      "date": "2017-03-18",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部召开党委扩大会议2017-03-18",
+      "url": "https://zxx.shu.edu.cn/info/1051/6200.htm",
+      "date": "2017-03-18",
+      "column": "新闻速递"
+    },
+    {
+      "title": "“上海大学哲学系15周年系（专业）庆暨当代哲学发展论坛“公告2017-03-10",
+      "url": "https://zxx.shu.edu.cn/info/1051/6201.htm",
+      "date": "2017-03-10",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于开展2017年高级专业技术职务晋升聘任工作的通知2017-03-07",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=10296&ctl=Detail&mid=19221&Id=82870&SkinSrc=[L]",
+      "date": "2017-03-07",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部工会关于开展体育运动的通知2017-03-06",
+      "url": "https://zxx.shu.edu.cn/info/1051/6195.htm",
+      "date": "2017-03-06",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部召开全体党员大会2017-03-02",
+      "url": "https://zxx.shu.edu.cn/info/1051/6196.htm",
+      "date": "2017-03-02",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系本科生梁振、耿昕睿同学启程赴美国Rutgers大学开展国际交流2017-01-21",
+      "url": "https://zxx.shu.edu.cn/info/1054/2159.htm",
+      "date": "2017-01-21",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于启动我校2018年度国家社科基金和教育部项目申报工作的通知2017-01-17",
+      "url": "https://zxx.shu.edu.cn/info/1051/6197.htm",
+      "date": "2017-01-17",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部召开2016年度精神文明工作总结大会2017-01-11",
+      "url": "https://zxx.shu.edu.cn/info/1051/6188.htm",
+      "date": "2017-01-11",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学社会科学学部2017届研究生优秀毕业生候选人公示2016-12-28",
+      "url": "https://zxx.shu.edu.cn/info/1051/6189.htm",
+      "date": "2016-12-28",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）硕士研究生14级预答辩、15级开题报告安排2016-12-26",
+      "url": "https://zxx.shu.edu.cn/info/1051/6190.htm",
+      "date": "2016-12-26",
+      "column": "新闻速递"
+    },
+    {
+      "title": "天津市教委思政课程建设调研座谈会在我校举行2016-12-26",
+      "url": "https://zxx.shu.edu.cn/info/1051/6192.htm",
+      "date": "2016-12-26",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部赴上海科技大学商洽教学合作2016-12-26",
+      "url": "https://zxx.shu.edu.cn/info/1051/6193.htm",
+      "date": "2016-12-26",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学社会科学学部2017届研究生优秀毕业生评选通知2016-12-16",
+      "url": "https://zxx.shu.edu.cn/info/1051/6191.htm",
+      "date": "2016-12-16",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）研究生光华奖学金评审细则2016-12-07",
+      "url": "https://zxx.shu.edu.cn/info/1051/6183.htm",
+      "date": "2016-12-07",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于调整岗位工资和薪级工资标准的通知2016-12-05",
+      "url": "http://www.hr.shu.edu.cn/Default.aspx?tabid=10296&ctl=Detail&mid=19221&Id=82517&SkinSrc=[L]",
+      "date": "2016-12-05",
+      "column": "新闻速递"
+    },
+    {
+      "title": "【马克思主义学院】凝聚方向、服务社会——政治经济学专业召开专题会议2016-12-02",
+      "url": "https://zxx.shu.edu.cn/info/1051/6194.htm",
+      "date": "2016-12-02",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）硕士研究生2015级论文开题报告、2014级预答辩通知2016-12-01",
+      "url": "https://zxx.shu.edu.cn/info/1051/6185.htm",
+      "date": "2016-12-01",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系本科生叶有韫、张空灵完成赴美国Rutgers大学国际交流项目2016-12-01",
+      "url": "https://zxx.shu.edu.cn/info/1054/2155.htm",
+      "date": "2016-12-01",
+      "column": "新闻速递"
+    },
+    {
+      "title": "【哲学系】校党委副书记兼社会科学学部（筹）主任夏小和等参加哲学系教师大会2016-11-16",
+      "url": "https://zxx.shu.edu.cn/info/1051/6178.htm",
+      "date": "2016-11-16",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015-2016学年本科生光华奖学金评定情况公示2016-11-14",
+      "url": "https://zxx.shu.edu.cn/info/1051/6179.htm",
+      "date": "2016-11-14",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）研究生校长奖学金评审细则2016-11-11",
+      "url": "https://zxx.shu.edu.cn/info/1051/6180.htm",
+      "date": "2016-11-11",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）研究生重大创新奖推荐及优秀研究生奖评审细则2016-11-11",
+      "url": "https://zxx.shu.edu.cn/info/1051/6181.htm",
+      "date": "2016-11-11",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015——2016学年上海大学优秀学生、优秀学生干部和先进集体（候选）评选名单公示2016-11-08",
+      "url": "https://zxx.shu.edu.cn/info/1051/6182.htm",
+      "date": "2016-11-08",
+      "column": "新闻速递"
+    },
+    {
+      "title": "校党委副书记兼社会科学学部（筹）主任夏小和等参加哲学系教师大会2016-11-07",
+      "url": "https://zxx.shu.edu.cn/info/1051/6172.htm",
+      "date": "2016-11-07",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）关于开展2015—2016学年上海大学优秀学生、优秀学生干部和先进集体评选工作的实施方案2016-11-03",
+      "url": "https://zxx.shu.edu.cn/info/1051/6173.htm",
+      "date": "2016-11-03",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学马克思主义理论一级学科建设专题咨询会在上海理工大学举行2016-11-03",
+      "url": "https://zxx.shu.edu.cn/info/1051/6174.htm",
+      "date": "2016-11-03",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）研究生学业奖学金评审细则2016-11-02",
+      "url": "https://zxx.shu.edu.cn/info/1051/6175.htm",
+      "date": "2016-11-02",
+      "column": "新闻速递"
+    },
+    {
+      "title": "【科研申报】关于启动我校2017年度国家社科基金和教育部项目申报工作的通知2016-11-01",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=203979&SkinSrc",
+      "date": "2016-11-01",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于征集2017年度全国艺术科学规划项目建议选题的通知2016-10-27",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=203554&SkinSrc",
+      "date": "2016-10-27",
+      "column": "新闻速递"
+    },
+    {
+      "title": "2016年度上海市人民政府决策咨询研究浦东专题(第三批)招标的通知2016-10-27",
+      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=203584&SkinSrc",
+      "date": "2016-10-27",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015-2016学年本科生教育奖学金评定情况公示2016-10-21",
+      "url": "https://zxx.shu.edu.cn/info/1051/6166.htm",
+      "date": "2016-10-21",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015-2016学年本科生教育奖学金评定情况公示2016-10-21",
+      "url": "https://zxx.shu.edu.cn/info/1051/6167.htm",
+      "date": "2016-10-21",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）党政联席扩大会议讨论学科发展规划2016-10-18",
+      "url": "https://zxx.shu.edu.cn/info/1051/6168.htm",
+      "date": "2016-10-18",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学哲学系研究生国家奖学金评审细则2016-10-11",
+      "url": "https://zxx.shu.edu.cn/info/1051/6169.htm",
+      "date": "2016-10-11",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于哲学系系主任拟任人选公示的通知2016-10-11",
+      "url": "https://zxx.shu.edu.cn/info/1051/6170.htm",
+      "date": "2016-10-11",
+      "column": "新闻速递"
+    },
+    {
+      "title": "关于2016-2017学年社会科学学部（筹）困难认定公示的通知2016-10-09",
+      "url": "https://zxx.shu.edu.cn/info/1051/6158.htm",
+      "date": "2016-10-09",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015-2016学年本科生国家励志奖学金评定情况公示2016-09-28",
+      "url": "https://zxx.shu.edu.cn/info/1051/6159.htm",
+      "date": "2016-09-28",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）召开大会宣布干部任免决定2016-09-27",
+      "url": "https://zxx.shu.edu.cn/info/1051/6160.htm",
+      "date": "2016-09-27",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015-2016学年本科生宝钢奖学金推荐情况公示2016-09-19",
+      "url": "https://zxx.shu.edu.cn/info/1051/6161.htm",
+      "date": "2016-09-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2015-2016学年本科生国家奖学金评定情况公示2016-09-19",
+      "url": "https://zxx.shu.edu.cn/info/1051/6162.htm",
+      "date": "2016-09-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "校党委组织部到社会科学学部（筹）宣布主要领导任免决定2016-09-19",
+      "url": "https://zxx.shu.edu.cn/info/1051/6163.htm",
+      "date": "2016-09-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社会科学学部（筹）2017年拟推荐应届优秀本科毕业生免试攻读硕士学位研究生名单公示2016-09-14",
+      "url": "https://zxx.shu.edu.cn/info/1051/6164.htm",
+      "date": "2016-09-14",
+      "column": "新闻速递"
+    },
+    {
+      "title": "王天恩教授在《中国社会科学》发表文章2016-06-08",
+      "url": "https://zxx.shu.edu.cn/info/1051/1704.htm",
+      "date": "2016-06-08",
+      "column": "新闻速递"
+    },
+    {
+      "title": "顾村镇团委一行来我院开展合作交流2016-05-20",
+      "url": "https://zxx.shu.edu.cn/info/1054/2153.htm",
+      "date": "2016-05-20",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我院召开上海大学院系本科审核评估工作推进会暨教研部/室主任会议2016-05-04",
+      "url": "https://zxx.shu.edu.cn/info/1051/1703.htm",
+      "date": "2016-05-04",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学教研室女教师团队荣获“上海市教育系统巾帼文明岗”称号2016-03-22",
+      "url": "https://zxx.shu.edu.cn/info/1051/1702.htm",
+      "date": "2016-03-22",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我院本科生余涛同学顺利完成赴美国Rutgers大学国际交流项目2016-03-11",
+      "url": "https://zxx.shu.edu.cn/info/1054/2158.htm",
+      "date": "2016-03-11",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我院“推进本科教学教师激励计划 进一步提升本科教学质量”活动月系列报道之七“哲学专业教学质量研讨会”2015-12-21",
+      "url": "https://zxx.shu.edu.cn/info/1051/6157.htm",
+      "date": "2015-12-21",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社科学院举行2015年本科生奖学金答辩评审会2015-10-22",
+      "url": "https://zxx.shu.edu.cn/info/1051/5904.htm",
+      "date": "2015-10-22",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社科学院举行14级本科生导师聘任仪式2015-10-16",
+      "url": "https://zxx.shu.edu.cn/info/1051/5905.htm",
+      "date": "2015-10-16",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社科学院本科生中秋座谈会顺利举行2015-09-25",
+      "url": "https://zxx.shu.edu.cn/info/1051/5906.htm",
+      "date": "2015-09-25",
+      "column": "新闻速递"
+    },
+    {
+      "title": "提升专业素养 承载青年担当——社科学院本科生2015-2016学年秋季学期首日教育顺利举行2015-08-30",
+      "url": "https://zxx.shu.edu.cn/info/1051/5907.htm",
+      "date": "2015-08-30",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社科学院顺利举办哲学兴趣小组成立大会2015-04-29",
+      "url": "https://zxx.shu.edu.cn/info/1051/6151.htm",
+      "date": "2015-04-29",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学邀你最美时——2015年社科学院哲学专业宣讲会顺利举行2015-04-18",
+      "url": "https://zxx.shu.edu.cn/info/1051/6152.htm",
+      "date": "2015-04-18",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我院顺利召开2015年度精神文明工作总结表彰大会2015-01-08",
+      "url": "https://zxx.shu.edu.cn/info/1051/1701.htm",
+      "date": "2015-01-08",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系2项成果获得上海市第十届邓小平理论研究和宣传优秀成果、上海市第十二届哲学社会科学优秀2014-11-05",
+      "url": "https://zxx.shu.edu.cn/info/1051/6146.htm",
+      "date": "2014-11-05",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我系教学团队荣获2013年上海市级教学成果2014-07-08",
+      "url": "https://zxx.shu.edu.cn/info/1051/6147.htm",
+      "date": "2014-07-08",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学哲学系喜获3项2014年度国家社科基金项目2014-06-26",
+      "url": "https://zxx.shu.edu.cn/info/1051/6148.htm",
+      "date": "2014-06-26",
+      "column": "新闻速递"
+    },
+    {
+      "title": "[公告]社科学院哲学系2014届本科毕业论文答辩安排2014-05-27",
+      "url": "https://zxx.shu.edu.cn/info/1051/6149.htm",
+      "date": "2014-05-27",
+      "column": "新闻速递"
+    },
+    {
+      "title": "复旦大学哲学学院师生应邀来我校社科学院进行交流访问2013-11-15",
+      "url": "https://zxx.shu.edu.cn/info/1054/2157.htm",
+      "date": "2013-11-15",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系2011级本科生结束美国罗格斯大学访学项目顺利归国2013-10-03",
+      "url": "https://zxx.shu.edu.cn/info/1054/2156.htm",
+      "date": "2013-10-03",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社科学院师生接待美国美国罗格斯大学哲学学院师生2013-07-10",
+      "url": "https://zxx.shu.edu.cn/info/1054/2154.htm",
+      "date": "2013-07-10",
+      "column": "新闻速递"
+    },
+    {
+      "title": "[公告]社会科学学院本科招生简章2013-06-25",
+      "url": "https://zxx.shu.edu.cn/info/1051/6141.htm",
+      "date": "2013-06-25",
+      "column": "新闻速递"
+    },
+    {
+      "title": "[公告]2013年社会科学学院开放日流程表2013-04-20",
+      "url": "https://zxx.shu.edu.cn/info/1051/6142.htm",
+      "date": "2013-04-20",
+      "column": "新闻速递"
+    },
+    {
+      "title": "上海大学社会科学学院哲学专业特色、培养目标及毕业生流向简介2012-03-25",
+      "url": "https://zxx.shu.edu.cn/info/1051/6138.htm",
+      "date": "2012-03-25",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系部分师生结束美国罗格斯大学的短期学习项目回国2012-03-19",
+      "url": "https://zxx.shu.edu.cn/info/1054/2151.htm",
+      "date": "2012-03-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系师生接待美国布拉德利大学哲学学院师生2012-03-19",
+      "url": "https://zxx.shu.edu.cn/info/1054/2152.htm",
+      "date": "2012-03-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "我系哲学一级学科硕士点通过审批2011-04-25",
+      "url": "https://zxx.shu.edu.cn/info/1051/6139.htm",
+      "date": "2011-04-25",
+      "column": "新闻速递"
+    },
+    {
+      "title": "社科学院召开哲学学科建设座谈会2010-03-19",
+      "url": "https://zxx.shu.edu.cn/info/1051/1700.htm",
+      "date": "2010-03-19",
+      "column": "新闻速递"
+    },
+    {
+      "title": "哲学系召开学科建设讨论会2009-10-13",
+      "url": "https://zxx.shu.edu.cn/info/1051/1698.htm",
+      "date": "2009-10-13",
+      "column": "新闻速递"
+    },
+    {
+      "title": "学科建设实事2009-10-13",
+      "url": "https://zxx.shu.edu.cn/info/1051/1699.htm",
+      "date": "2009-10-13",
+      "column": "新闻速递"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "domain": "shenjichu.shu.edu.cn",
+  "department": "上海大学审计处",
+  "type": "06",
+  "crawl_time": "20260514_004804",
+  "total_articles": 65,
+  "columns": {
+    "审计动态": 46,
+    "通知公告": 6,
+    "支部生活": 13
+  },
+  "articles": [
+    {
+      "title": "上海大学召开2026年经济责任审计启动会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2939.htm",
+      "date": "2026-04-20",
+      "column": "审计动态"
+    },
+    {
+      "title": "2026年财务类审计服务供应商内部比选结果公告",
+      "url": "https://shenjichu.shu.edu.cn/info/1030/2929.htm",
+      "date": "2026-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "审计处召开2025年经济责任审计沟通交流会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2919.htm",
+      "date": "2025-06-26",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处与后勤保障部召开两次修缮工程相关问题沟通会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2909.htm",
+      "date": "2025-06-24",
+      "column": "审计动态"
+    },
+    {
+      "title": "工程审计团队对游泳馆修缮工程进行现场勘踏及沟通",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2899.htm",
+      "date": "2025-06-12",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学审计处召开2025年度财务类审计服务内部比选会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2859.htm",
+      "date": "2025-04-01",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海高校审计工作沙龙在上海交通大学举办：我校受邀展示内审工作特色亮点",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2849.htm",
+      "date": "2025-01-14",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学建设工程管理审计例行会议圆满召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2839.htm",
+      "date": "2024-12-10",
+      "column": "审计动态"
+    },
+    {
+      "title": "“数字转型：高校审计与内控的新长征”研讨会在上海大学举办",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2819.htm",
+      "date": "2024-11-15",
+      "column": "审计动态"
+    },
+    {
+      "title": "微电子学院学生党支部与机关党委审计处党支部结对共建签约",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2779.htm",
+      "date": "2024-04-22",
+      "column": "支部生活"
+    },
+    {
+      "title": "上海大学召开2024年度审计会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2769.htm",
+      "date": "2024-04-02",
+      "column": "审计动态"
+    },
+    {
+      "title": "中国式现代化背景下的研究型审计与内控建设研讨会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2729.htm",
+      "date": "2023-11-17",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学2023年会计师事务所经济责任审计审前培训会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2718.htm",
+      "date": "2023-05-10",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2023年度审计服务内部比选会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2598.htm",
+      "date": "2023-03-29",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2023年度经济责任审计启动会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2548.htm",
+      "date": "2023-03-22",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2023年度第一次经济责任审计联席会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2538.htm",
+      "date": "2023-03-09",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学审计处与事务所首次工程审计沟通会圆满召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2408.htm",
+      "date": "2023-02-21",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2022年度审计例会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2388.htm",
+      "date": "2022-12-29",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2022年度第二次经济责任审计联席会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2368.htm",
+      "date": "2022-12-23",
+      "column": "审计动态"
+    },
+    {
+      "title": "学习二十大精神，携手奋进新征程 ——上海大学与复旦大学两校审计处党支部举行联组学习",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2367.htm",
+      "date": "2022-11-30",
+      "column": "支部生活"
+    },
+    {
+      "title": "学校内部审计系列培训会之“经济责任审计要点与注意事项”顺利召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2285.htm",
+      "date": "2022-11-16",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2022年内控建设工作推进会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2286.htm",
+      "date": "2022-11-16",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学2022年经济责任审计启动会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2274.htm",
+      "date": "2022-10-13",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处集中收看庆祝中国共产党成立100周年大会",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2216.htm",
+      "date": "2021-07-01",
+      "column": "支部生活"
+    },
+    {
+      "title": "审计处党支部组织观看红色电影《悬崖之上》",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2204.htm",
+      "date": "2021-05-19",
+      "column": "支部生活"
+    },
+    {
+      "title": "学习习近平总书记在党史学习教育动员大会的重要讲话",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2184.htm",
+      "date": "2021-03-02",
+      "column": "支部生活"
+    },
+    {
+      "title": "上海大学召开内部审计工作“十四五”规划暨审计信息化建设研讨会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2124.htm",
+      "date": "2020-12-10",
+      "column": "审计动态"
+    },
+    {
+      "title": "学习党的十九届五中全会精神",
+      "url": "https://shenjichu.shu.edu.cn/dwzhuan_l/zbsh.htm",
+      "date": "2020-11-02",
+      "column": "支部生活"
+    },
+    {
+      "title": "学习党的十九届五中全会精神",
+      "url": "https://shenjichu.shu.edu.cn/dwzhuan_l/zbsh.htm#",
+      "date": "2020-11-02",
+      "column": "支部生活"
+    },
+    {
+      "title": "审计处召开2020年审计进展交流会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2086.htm",
+      "date": "2020-10-16",
+      "column": "审计动态"
+    },
+    {
+      "title": "赓续红色基因 立身立业立信——上海市教委审计处党支部与上海大学审计处党支部开展党史学习教育",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2074.htm",
+      "date": "2020-09-28",
+      "column": "支部生活"
+    },
+    {
+      "title": "上海市市属高校内部审计（基础性状况）评价结果反馈座谈会在我校召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2066.htm",
+      "date": "2020-09-25",
+      "column": "审计动态"
+    },
+    {
+      "title": "美术学院召开汪大伟院长经济责任审计进点会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2065.htm",
+      "date": "2020-09-24",
+      "column": "审计动态"
+    },
+    {
+      "title": "通信与信息工程学院召开王廷云院长经济责任审计进点会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2064.htm",
+      "date": "2020-09-21",
+      "column": "审计动态"
+    },
+    {
+      "title": "2020年经济责任审计工作沟通会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2054.htm",
+      "date": "2020-09-17",
+      "column": "审计动态"
+    },
+    {
+      "title": "学“四史”，论“持久”——审计处开展《论持久战》学习及当代涵义讨论",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2037.htm",
+      "date": "2020-09-07",
+      "column": "支部生活"
+    },
+    {
+      "title": "经国济民与红色金融：审计处党支部党史学习教育",
+      "url": "https://shenjichu.shu.edu.cn/dwzhuan_l/zbsh/1.htm",
+      "date": "2020-06-22",
+      "column": "支部生活"
+    },
+    {
+      "title": "经国济民与红色金融：审计处党支部党史学习教育",
+      "url": "https://shenjichu.shu.edu.cn/dwzhuan_l/zbsh/1.htm#",
+      "date": "2020-06-22",
+      "column": "支部生活"
+    },
+    {
+      "title": "审计处开展“疫情防控线上主题党日活动”并召开视频工作会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2034.htm",
+      "date": "2020-02-19",
+      "column": "支部生活"
+    },
+    {
+      "title": "2019年第二次经济责任审计联席会会议召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1973.htm",
+      "date": "2020-01-03",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处开展“不忘初心、牢记使命：学习贯彻李强同志调研讲话精神”主题教育",
+      "url": "https://shenjichu.shu.edu.cn/info/1088/2036.htm",
+      "date": "2020-01-01",
+      "column": "支部生活"
+    },
+    {
+      "title": "浙江大学审计同仁来校交流工作",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1911.htm",
+      "date": "2019-06-24",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学工程造价咨询服务供应商入围公告",
+      "url": "https://shenjichu.shu.edu.cn/info/1030/1872.htm",
+      "date": "2019-04-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学召开2019年经济责任审计第一次联席会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1860.htm",
+      "date": "2019-04-18",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2018年经济责任审计联席会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1752.htm",
+      "date": "2019-01-16",
+      "column": "审计动态"
+    },
+    {
+      "title": "关于修缮、改扩建工程竣工结算审计的相关通知（最新）",
+      "url": "https://shenjichu.shu.edu.cn/info/1030/1420.htm",
+      "date": "2018-10-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "审计处召开2018年度审计例会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1753.htm",
+      "date": "2018-04-17",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处召开2018年经济责任审计审前沟通会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1620.htm",
+      "date": "2018-03-30",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处召开2017年度专兼职审计人员交流研讨会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1754.htm",
+      "date": "2017-12-08",
+      "column": "审计动态"
+    },
+    {
+      "title": "关于延长校区西部食堂及配套用房工程项目复审工作的询价结果",
+      "url": "https://shenjichu.shu.edu.cn/info/1030/1421.htm",
+      "date": "2017-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2017年度审计工作例会召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1755.htm",
+      "date": "2017-04-13",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学2016年度第一次审计例会召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1756.htm",
+      "date": "2016-05-03",
+      "column": "审计动态"
+    },
+    {
+      "title": "关于上海大学2016-2018年度工程审计和会计审计服务商入围公开招标项目的中标公告",
+      "url": "https://shenjichu.shu.edu.cn/info/1030/1422.htm",
+      "date": "2016-03-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "审计处开展2016年经济责任审计准备工作",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1757.htm",
+      "date": "2016-03-04",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处召开年度专兼职审计人员工作总结会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1758.htm",
+      "date": "2016-02-22",
+      "column": "审计动态"
+    },
+    {
+      "title": "2015年修缮、改扩建工程竣工结算时间通知",
+      "url": "https://shenjichu.shu.edu.cn/info/1030/1423.htm",
+      "date": "2015-10-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "审计处召开2015年工程审计事务所工作交流会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1759.htm",
+      "date": "2015-04-13",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处召开2015年度审计例会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1761.htm",
+      "date": "2015-04-08",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处召开2015年与事务所的沟通会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1762.htm",
+      "date": "2015-04-08",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学获“上海市内部审计先进单位”荣誉称号",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1791.htm",
+      "date": "2008-05-22",
+      "column": "审计动态"
+    },
+    {
+      "title": "我校纪监审部门到复旦大学交流学习",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1792.htm",
+      "date": "2008-05-04",
+      "column": "审计动态"
+    },
+    {
+      "title": "审计处被评为“上海市五一巾帼奖（集体）”",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1793.htm",
+      "date": "2008-03-10",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海大学召开2007年审计工作会议",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1794.htm",
+      "date": "2007-12-17",
+      "column": "审计动态"
+    },
+    {
+      "title": "我校举行强化领导干部经济责任，预防职务犯罪报告会",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1795.htm",
+      "date": "2007-10-15",
+      "column": "审计动态"
+    },
+    {
+      "title": "校审计处获市教育系统内审先进集体",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1796.htm",
+      "date": "2005-05-06",
+      "column": "审计动态"
+    }
+  ]
+}

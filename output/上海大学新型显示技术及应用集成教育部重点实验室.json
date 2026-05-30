@@ -1,0 +1,571 @@
+{
+  "domain": "fpd.shu.edu.cn",
+  "department": "上海大学新型显示技术及应用集成教育部重点实验室",
+  "type": "21",
+  "crawl_time": "20260514_004804",
+  "total_articles": 93,
+  "columns": {
+    "通知公告": 46,
+    "新闻中心": 47
+  },
+  "articles": [
+    {
+      "title": "2026年度开放课题申请通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/4694.htm",
+      "date": "2026-02-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室召开2025年度学术委员会会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/4684.htm",
+      "date": "2026-01-16",
+      "column": "新闻中心"
+    },
+    {
+      "title": "2025年度开放课题申请通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/4664.htm",
+      "date": "2025-03-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室召开2024年度学术委员会会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/4654.htm",
+      "date": "2024-12-03",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：光功能金属有机材料用于太阳能转换",
+      "url": "https://fpd.shu.edu.cn/info/1111/4644.htm",
+      "date": "2024-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学成功召开“2024有机光电前沿技术及产业化国际研讨会”",
+      "url": "https://fpd.shu.edu.cn/info/1113/4634.htm",
+      "date": "2024-09-29",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：低压高性能本征可拉伸光电晶体管",
+      "url": "https://fpd.shu.edu.cn/info/1111/4624.htm",
+      "date": "2024-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "2024 International Symposium on Science and Technology of Organic Electronics",
+      "url": "https://fpd.shu.edu.cn/info/1111/4614.htm",
+      "date": "2024-09-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：大体系、复杂强相关体系的理论计算模拟",
+      "url": "https://fpd.shu.edu.cn/info/1111/4564.htm",
+      "date": "2024-06-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：压电/摩擦电调控场效应晶体管和仿生智能传感",
+      "url": "https://fpd.shu.edu.cn/info/1111/4554.htm",
+      "date": "2024-06-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室召开2023年度学术委员会会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/4514.htm",
+      "date": "2023-12-05",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上海大学成功举办2023有机光电材料与器件中日学术论坛",
+      "url": "https://fpd.shu.edu.cn/info/1113/4494.htm",
+      "date": "2023-11-15",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：新型光电器件技术及应用研讨会",
+      "url": "https://fpd.shu.edu.cn/info/1111/4383.htm",
+      "date": "2023-06-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室成功举办2023上海科技节开放日活动",
+      "url": "https://fpd.shu.edu.cn/info/1113/4373.htm",
+      "date": "2023-05-30",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室参加2023上海科技节",
+      "url": "https://fpd.shu.edu.cn/info/1113/4363.htm",
+      "date": "2023-05-24",
+      "column": "新闻中心"
+    },
+    {
+      "title": "机自学院张震博士后在美国化学会旗舰材料期刊《ACS Materials Letters》上发表研究论文",
+      "url": "https://fpd.shu.edu.cn/info/1113/4303.htm",
+      "date": "2023-02-26",
+      "column": "新闻中心"
+    },
+    {
+      "title": "机自学院新型显示教育部重点实验室王子兴入选华为“难题揭榜火花奖”",
+      "url": "https://fpd.shu.edu.cn/info/1113/4313.htm",
+      "date": "2023-02-26",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室召开2021年度学术委员会会议",
+      "url": "https://news.shu.edu.cn/info/1012/63456.htm",
+      "date": "2021-12-31",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：白光OLED与胶体量子阱LED中的器件工程学",
+      "url": "https://fpd.shu.edu.cn/info/1111/4251.htm",
+      "date": "2021-10-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "2022年上海市新型显示发展规划启动会议召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/4242.htm",
+      "date": "2021-08-12",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：一价的钙、镁离子及其铁磁性、生物磁性等特异性质",
+      "url": "https://fpd.shu.edu.cn/info/1111/4241.htm",
+      "date": "2021-06-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：钙钛矿纳米晶：从合成到应用",
+      "url": "https://fpd.shu.edu.cn/info/1111/4231.htm",
+      "date": "2021-05-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：半导体量子点微型激光研究进展和展望",
+      "url": "https://fpd.shu.edu.cn/info/1111/4221.htm",
+      "date": "2021-04-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海平板显示工程技术研究中心2020年技术专家委员会会议召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/4201.htm",
+      "date": "2021-01-04",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：显示器和芯片制造用光刻工艺材料（Lithographic Materials for Display and LSI Manufacturing）",
+      "url": "https://fpd.shu.edu.cn/info/1111/4191.htm",
+      "date": "2020-12-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "第二届长三角地区新型显示高质量一体化发展战略论坛成功召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/4183.htm",
+      "date": "2020-12-17",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室 第二届学术委员会2020年度会议召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/4182.htm",
+      "date": "2020-12-14",
+      "column": "新闻中心"
+    },
+    {
+      "title": "2020年“晶合”奖学金公示(新显研究生)",
+      "url": "https://fpd.shu.edu.cn/info/1111/4181.htm",
+      "date": "2020-12-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "校领导参观第22届工博会并莅临“国家重点研发”专项展区指导",
+      "url": "https://fpd.shu.edu.cn/info/1113/4171.htm",
+      "date": "2020-09-16",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：光刻和纳米压印技术",
+      "url": "https://fpd.shu.edu.cn/info/1111/4161.htm",
+      "date": "2020-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：磁控溅射工艺及电子薄膜材料制备",
+      "url": "https://fpd.shu.edu.cn/info/1111/4162.htm",
+      "date": "2020-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：特色资质检测认证平台的重要性",
+      "url": "https://fpd.shu.edu.cn/info/1111/4151.htm",
+      "date": "2020-05-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：中科院苏州纳米所 张东煜高工 学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/4141.htm",
+      "date": "2020-01-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：Self-assembly of carbohydrate-based block copolymers: Nanoparticles & thin films",
+      "url": "https://fpd.shu.edu.cn/info/1111/4121.htm",
+      "date": "2019-12-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "“高效长寿命蓝光OLED”研讨会",
+      "url": "https://fpd.shu.edu.cn/info/1111/4122.htm",
+      "date": "2019-12-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室顺利召开2019年度学术委员会会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/4111.htm",
+      "date": "2019-11-26",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：美国加州大学戴维斯分校 Adam Moule教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/4101.htm",
+      "date": "2019-09-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：“纳米材料的光物理过程及应用”研讨会",
+      "url": "https://fpd.shu.edu.cn/info/1111/4091.htm",
+      "date": "2019-09-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：柔性可拉伸氧化物薄膜晶体管的研发",
+      "url": "https://fpd.shu.edu.cn/info/1111/4081.htm",
+      "date": "2019-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：A Study on Oxide Thin Film Transistors for Flexible/Stretchable Displays",
+      "url": "https://fpd.shu.edu.cn/info/1111/4071.htm",
+      "date": "2019-09-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：Novel Synthetic Pathway for Multicyclic Polymers",
+      "url": "https://fpd.shu.edu.cn/info/1111/4041.htm",
+      "date": "2019-08-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：Post-polymerization modification of PS-b-PMMA for application in Sub-10 nm patterning",
+      "url": "https://fpd.shu.edu.cn/info/1111/4042.htm",
+      "date": "2019-08-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "为破解最后一公里难题贡献启明星智慧——2019第二次启明星论坛侧记",
+      "url": "https://fpd.shu.edu.cn/info/1113/4031.htm",
+      "date": "2019-08-05",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：半导体产业现状",
+      "url": "https://fpd.shu.edu.cn/info/1111/4051.htm",
+      "date": "2019-07-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：从有机电子到有机生物电子： 基于导电聚合物的柔性,可拉伸以及自愈合有机电化学晶体管的研发",
+      "url": "https://fpd.shu.edu.cn/info/1111/4061.htm",
+      "date": "2019-07-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学新型显示教育部重点实验室成功举办2019国际能源材料光子学（EMP19）会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/4011.htm",
+      "date": "2019-07-19",
+      "column": "新闻中心"
+    },
+    {
+      "title": "香港浸会大学朱福荣教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/4001.htm",
+      "date": "2019-07-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "日本山形大学Hisahiro Sasabe教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3992.htm",
+      "date": "2019-07-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "教育部“春晖计划”留德华人化学化工学会交流团访问新型显示技术及应用集成教育部重点实验室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3901.htm",
+      "date": "2018-10-09",
+      "column": "新闻中心"
+    },
+    {
+      "title": "2018暑假”韩国湖西大学CK-1专业交流项目“与「新型显示应用技术研讨会」圆满完成",
+      "url": "https://fpd.shu.edu.cn/info/1113/3852.htm",
+      "date": "2018-08-12",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上海大学新型显示技术及应用集成教育部重点实验室承办”2018长三角区域新型显示高质量一体化发展研讨会”",
+      "url": "https://fpd.shu.edu.cn/info/1113/3851.htm",
+      "date": "2018-08-09",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示教育部重点实验室与上海晶合光电签约共建 “OLED汽车照明行业应用联合实验室”",
+      "url": "https://fpd.shu.edu.cn/info/1113/3831.htm",
+      "date": "2018-07-15",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术研讨会：Perovskite/polymer heterojunction photodetectors",
+      "url": "https://fpd.shu.edu.cn/info/1111/3811.htm",
+      "date": "2018-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "世界著名OLED科学家、日本山形大学Junji Kido教授访问 上海大学新型显示教育部重点实验室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3801.htm",
+      "date": "2018-06-15",
+      "column": "新闻中心"
+    },
+    {
+      "title": "美国托莱多大学鄢炎发教授报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3791.htm",
+      "date": "2018-06-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "日本山形大学Junji Kido教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3781.htm",
+      "date": "2018-06-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018年上海大学“智能运载科学与工程”青年英才国际论坛成功举办",
+      "url": "https://fpd.shu.edu.cn/info/1113/3771.htm",
+      "date": "2018-06-04",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术研讨会：Stability of Organic Solar Cells: From Light Harvesting and Charge Collection Perspectives",
+      "url": "https://fpd.shu.edu.cn/info/1111/3751.htm",
+      "date": "2018-05-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "美国三星电子沃松涛博士学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3741.htm",
+      "date": "2018-05-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告:基于可溶液加工空穴注入层的高效率有机发光器件",
+      "url": "https://fpd.shu.edu.cn/info/1111/3711.htm",
+      "date": "2018-04-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "郭坤平博士国际交流经验报告会通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3712.htm",
+      "date": "2018-04-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2018 ”韩国湖西大学假期培训班“与「新型显示技术研讨会」圆满举行",
+      "url": "https://fpd.shu.edu.cn/info/1113/3691.htm",
+      "date": "2018-03-04",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告:Is 2D going to make organic electronics",
+      "url": "https://fpd.shu.edu.cn/info/1111/3683.htm",
+      "date": "2018-02-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家重点研发计划“柔性基板材料关键技术开发及应用示范”项目启动会顺利召开",
+      "url": "http://www.shu.edu.cn/info/1055/58978.htm",
+      "date": "2018-01-08",
+      "column": "新闻中心"
+    },
+    {
+      "title": "讲座：氮化镓单晶材料生长及产业化应用进展",
+      "url": "https://fpd.shu.edu.cn/info/1111/3665.htm",
+      "date": "2018-01-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "讲座：金属有机化合物汽相沉淀（MOCVD）设备，氮化镓材料外延生长及其应用",
+      "url": "https://fpd.shu.edu.cn/info/1111/3661.htm",
+      "date": "2018-01-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海平板显示工程技术研究中心2017度技术委员会会议顺利召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/3663.htm",
+      "date": "2018-01-04",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室第二届学术委员会2017年度会议顺利召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/3664.htm",
+      "date": "2018-01-04",
+      "column": "新闻中心"
+    },
+    {
+      "title": "华东师范大学保秦烨教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3651.htm",
+      "date": "2017-12-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "新型显示产学研协同创新和发展规划研讨会顺利召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/3641.htm",
+      "date": "2017-11-28",
+      "column": "新闻中心"
+    },
+    {
+      "title": "华南理工大学苏仕健教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3631.htm",
+      "date": "2017-11-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学&韩国湖西大学联合举办新型显示及 国际交流生项目研讨会",
+      "url": "https://fpd.shu.edu.cn/info/1113/3611.htm",
+      "date": "2017-11-14",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术研讨会：有机光电子器件",
+      "url": "https://fpd.shu.edu.cn/info/1111/3601.htm",
+      "date": "2017-11-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "北京大学肖立新教授学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3592.htm",
+      "date": "2017-10-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "正在更新",
+      "url": "https://fpd.shu.edu.cn/info/1111/3285.htm",
+      "date": "2017-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：美国卡耐基梅隆大学杨帆博士学术报告通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/3281.htm",
+      "date": "2017-08-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "法国特鲁瓦技术大学Jérôme PLAIN教授访问上海大学新型显示教育部重点实验室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3497.htm",
+      "date": "2017-04-26",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：Development of Highly Efficient Visible-Light-Driven TiO2 based photocatalyst",
+      "url": "https://fpd.shu.edu.cn/info/1113/3380.htm",
+      "date": "2017-03-08",
+      "column": "新闻中心"
+    },
+    {
+      "title": "中国科学院院士刘云圻参观重点实验室并进行学术交流",
+      "url": "https://fpd.shu.edu.cn/info/1113/3462.htm",
+      "date": "2016-12-02",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上海大学新型显示实验室成功主办第二十届先进显示材料和器件（ADMD 2016）国际会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/3463.htm",
+      "date": "2016-11-02",
+      "column": "新闻中心"
+    },
+    {
+      "title": "俞钢博士和安达千波矢教授学术报告",
+      "url": "https://fpd.shu.edu.cn/info/1113/3381.htm",
+      "date": "2016-10-15",
+      "column": "新闻中心"
+    },
+    {
+      "title": "院士学术报告:分子材料与器件",
+      "url": "https://fpd.shu.edu.cn/info/1113/3318.htm",
+      "date": "2016-10-09",
+      "column": "新闻中心"
+    },
+    {
+      "title": "正在更新",
+      "url": "https://fpd.shu.edu.cn/info/1113/3319.htm",
+      "date": "2016-09-25",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室成功举办首届优秀大学生夏令营活动",
+      "url": "https://fpd.shu.edu.cn/info/1113/3500.htm",
+      "date": "2016-09-14",
+      "column": "新闻中心"
+    },
+    {
+      "title": "第14届全国发光学学术会议",
+      "url": "https://fpd.shu.edu.cn/info/1113/3322.htm",
+      "date": "2016-09-07",
+      "column": "新闻中心"
+    },
+    {
+      "title": "2016 the 20th International Symposium on Advanced Display Materials and Devices (ADMD 2016)",
+      "url": "https://fpd.shu.edu.cn/info/1113/3382.htm",
+      "date": "2016-09-07",
+      "column": "新闻中心"
+    },
+    {
+      "title": "2016 “韩国湖西大学暑期培训班“与「新型显示技术研讨会」顺利召开",
+      "url": "https://fpd.shu.edu.cn/info/1113/3501.htm",
+      "date": "2016-07-26",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术研讨会：Recent Development of Organic Optoelectronics",
+      "url": "https://fpd.shu.edu.cn/info/1113/3325.htm",
+      "date": "2016-05-23",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上海大学上海平板显示工程技术研究中心获得CNAS实验室认可",
+      "url": "https://fpd.shu.edu.cn/info/1113/3327.htm",
+      "date": "2016-05-17",
+      "column": "新闻中心"
+    },
+    {
+      "title": "学术报告：Organic Electronics Mobility and Grain Boundary Research",
+      "url": "https://fpd.shu.edu.cn/info/1113/3328.htm",
+      "date": "2016-05-05",
+      "column": "新闻中心"
+    },
+    {
+      "title": "正在更新",
+      "url": "https://fpd.shu.edu.cn/info/1113/3397.htm",
+      "date": "2016-03-16",
+      "column": "新闻中心"
+    },
+    {
+      "title": "客座教授受聘仪式暨学术报告会",
+      "url": "https://fpd.shu.edu.cn/info/1113/3452.htm",
+      "date": "2005-06-14",
+      "column": "新闻中心"
+    },
+    {
+      "title": "英国Bristol 大学电子工程系主任率团访问我室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3456.htm",
+      "date": "2004-11-14",
+      "column": "新闻中心"
+    }
+  ]
+}

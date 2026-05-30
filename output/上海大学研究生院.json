@@ -1,0 +1,640 @@
+{
+  "domain": "gs.shu.edu.cn",
+  "department": "上海大学研究生院",
+  "type": "24",
+  "crawl_time": "20260514_004804",
+  "total_articles": 104,
+  "columns": {
+    "学位工作": 20,
+    "综合新闻": 7,
+    "国际交流": 44,
+    "培养管理": 19,
+    "招生信息": 14
+  },
+  "articles": [
+    {
+      "title": "关于第110次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/173062.htm",
+      "date": "2026-05-11",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学第109次学位评定委员会授予博士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/173042.htm",
+      "date": "2026-04-21",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学第109次学位评定委员会授予硕士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/173052.htm",
+      "date": "2026-04-21",
+      "column": "学位工作"
+    },
+    {
+      "title": "关于上海大学2027年毕业研究生图像信息采集(毕业照片拍摄)工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1027/173032.htm",
+      "date": "2026-04-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "关于召开上海大学第109次学位评定委员会会议的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/173022.htm",
+      "date": "2026-04-14",
+      "column": "学位工作"
+    },
+    {
+      "title": "2026年上海大学国家建设高水平大学公派研究生项目补充公示的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/173012.htm",
+      "date": "2026-03-24",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于第109次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/173002.htm",
+      "date": "2026-03-18",
+      "column": "学位工作"
+    },
+    {
+      "title": "2026年上海大学国家建设高水平大学公派研究生项目推荐名单及网上填报通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172992.htm",
+      "date": "2026-03-10",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于更新与报送全国研究生教育评估监测专家库的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172982.htm",
+      "date": "2026-03-09",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学2025-2026学年春季学期研究生开学注册通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172972.htm",
+      "date": "2026-02-27",
+      "column": "培养管理"
+    },
+    {
+      "title": "研究生院2025-2026学年寒假值班安排",
+      "url": "https://gs.shu.edu.cn/info/1027/172962.htm",
+      "date": "2026-01-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "转发：2026年西班牙巴塞罗那自治大学CSC合作项目攻读博士学位招生通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172932.htm",
+      "date": "2026-01-07",
+      "column": "国际交流"
+    },
+    {
+      "title": "2026年上海大学国家建设高水平大学公派研究生项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/172912.htm",
+      "date": "2026-01-06",
+      "column": "国际交流"
+    },
+    {
+      "title": "2026年上海大学博士生导师短期出国交流项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/172922.htm",
+      "date": "2026-01-06",
+      "column": "国际交流"
+    },
+    {
+      "title": "2026年上海大学创新型人才国际合作培养项目选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172882.htm",
+      "date": "2026-01-05",
+      "column": "国际交流"
+    },
+    {
+      "title": "2026年上海大学艺术类人才培养特别项目选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172892.htm",
+      "date": "2026-01-05",
+      "column": "国际交流"
+    },
+    {
+      "title": "2026年上海大学国别和区域研究人才支持计划项目选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172902.htm",
+      "date": "2026-01-05",
+      "column": "国际交流"
+    },
+    {
+      "title": "上海大学第108次学位评定委员会授予博士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/172852.htm",
+      "date": "2025-12-26",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学第108次学位评定委员会授予硕士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/172862.htm",
+      "date": "2025-12-26",
+      "column": "学位工作"
+    },
+    {
+      "title": "2026年上海大学与悉尼科技大学联合培养博士项目申请的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172832.htm",
+      "date": "2025-12-22",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于召开上海大学第108次学位评定委员会会议的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172842.htm",
+      "date": "2025-12-22",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学2026年硕士研究生硕博连读名单公示通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172812.htm",
+      "date": "2025-12-03",
+      "column": "培养管理"
+    },
+    {
+      "title": "2025年上海大学研究生校长奖学金获奖研究生公示",
+      "url": "https://gs.shu.edu.cn/info/1029/172822.htm",
+      "date": "2025-12-03",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于第108次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172802.htm",
+      "date": "2025-11-18",
+      "column": "学位工作"
+    },
+    {
+      "title": "关于开展2026年硕士研究生硕博连读申请推荐与资格认定工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172792.htm",
+      "date": "2025-11-03",
+      "column": "培养管理"
+    },
+    {
+      "title": "卓越工程师学院承办上海市工程硕博士培养改革2026年招生工作校企对接会",
+      "url": "https://www.kankanews.com/detail/dZ2e81vaawR",
+      "date": "2025-10-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2025年上海大学研究生学业奖学金获奖研究生公示",
+      "url": "https://gs.shu.edu.cn/info/1029/172772.htm",
+      "date": "2025-10-24",
+      "column": "培养管理"
+    },
+    {
+      "title": "2026 UTS&SHU博士生联合培养项目宣讲会的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172752.htm",
+      "date": "2025-10-23",
+      "column": "国际交流"
+    },
+    {
+      "title": "2025年上海大学研究生国家奖学金候选人公示",
+      "url": "https://gs.shu.edu.cn/info/1029/172742.htm",
+      "date": "2025-10-17",
+      "column": "培养管理"
+    },
+    {
+      "title": "2025年上海大学研究生宝钢奖学金候选人公示",
+      "url": "https://gs.shu.edu.cn/info/1029/172732.htm",
+      "date": "2025-10-09",
+      "column": "培养管理"
+    },
+    {
+      "title": "2025年台湾学生奖学金建议获奖学生名单公示",
+      "url": "https://gs.shu.edu.cn/info/1029/172722.htm",
+      "date": "2025-09-30",
+      "column": "培养管理"
+    },
+    {
+      "title": "上海大学2025级硕博连读研究生、直博生 申请课程免修及成绩认定通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172712.htm",
+      "date": "2025-09-23",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于2025-2026学期秋季学期研究生课程选课的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172692.htm",
+      "date": "2025-09-20",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于2025级研究生公共外语、公共体育免修的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172702.htm",
+      "date": "2025-09-20",
+      "column": "培养管理"
+    },
+    {
+      "title": "上海大学2025-2026学年秋季学期研究生开学注册通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172682.htm",
+      "date": "2025-09-19",
+      "column": "培养管理"
+    },
+    {
+      "title": "转发：2025博士生国际招生面试交流会的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172672.htm",
+      "date": "2025-09-19",
+      "column": "国际交流"
+    },
+    {
+      "title": "上海大学2025级研究生新生学籍信息录入与培养计划登录通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172662.htm",
+      "date": "2025-09-15",
+      "column": "培养管理"
+    },
+    {
+      "title": "上海大学第107次学位评定委员会授予博士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/172642.htm",
+      "date": "2025-08-26",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学第107次学位评定委员会授予硕士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/172652.htm",
+      "date": "2025-08-26",
+      "column": "学位工作"
+    },
+    {
+      "title": "关于第107次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172572.htm",
+      "date": "2025-07-14",
+      "column": "学位工作"
+    },
+    {
+      "title": "关于召开上海大学第107次学位评定委员会会议的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172582.htm",
+      "date": "2025-07-14",
+      "column": "学位工作"
+    },
+    {
+      "title": "第二届全国教材建设奖推荐申报公示",
+      "url": "https://gs.shu.edu.cn/info/1029/172562.htm",
+      "date": "2025-07-07",
+      "column": "培养管理"
+    },
+    {
+      "title": "研究生院2024-2025学年暑假值班安排",
+      "url": "https://gs.shu.edu.cn/info/1027/172552.htm",
+      "date": "2025-07-04",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学第106次学位评定委员会授予博士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/172522.htm",
+      "date": "2025-06-26",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学第106次学位评定委员会授予硕士学位人员公告",
+      "url": "https://gs.shu.edu.cn/info/1031/172532.htm",
+      "date": "2025-06-26",
+      "column": "学位工作"
+    },
+    {
+      "title": "关于召开上海大学第106次学位评定委员会会议的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172512.htm",
+      "date": "2025-06-13",
+      "column": "学位工作"
+    },
+    {
+      "title": "关于上海大学2026年毕业研究生图像信息采集(毕业照片拍摄)工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1027/172502.htm",
+      "date": "2025-05-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "关于举办上海大学2025年中国国际大学生创新大赛校内选拔赛的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/172492.htm",
+      "date": "2025-05-09",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于第106次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/172482.htm",
+      "date": "2025-05-08",
+      "column": "学位工作"
+    },
+    {
+      "title": "2025年上海大学国家建设高水平大学公派研究生项目补充公示的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172422.htm",
+      "date": "2025-03-26",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于申请学位证明书人员信息的公告",
+      "url": "https://gs.shu.edu.cn/info/1031/21792.htm",
+      "date": "2025-03-06",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学2025年研究生新生党员组织关系转入办理须知",
+      "url": "https://yjszs.shu.edu.cn/info/1004/8044.htm",
+      "date": "2025-03-01",
+      "column": "招生信息"
+    },
+    {
+      "title": "招生工作动态",
+      "url": "https://yjszs.shu.edu.cn/",
+      "date": "2025-02-25",
+      "column": "招生信息"
+    },
+    {
+      "title": "关于上海大学研究生招生考试的严正声明",
+      "url": "https://yjszs.shu.edu.cn/info/1003/4511.htm",
+      "date": "2025-02-25",
+      "column": "招生信息"
+    },
+    {
+      "title": "研究生院2024-2025学年寒假值班安排",
+      "url": "https://gs.shu.edu.cn/info/1027/172182.htm",
+      "date": "2025-01-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "转发：2025年欧亚非地区中外合作奖学金对外联系信息",
+      "url": "https://gs.shu.edu.cn/info/1030/172112.htm",
+      "date": "2024-12-23",
+      "column": "国际交流"
+    },
+    {
+      "title": "上海大学 2025 年博士研究生招生简章",
+      "url": "https://yjszs.shu.edu.cn/info/1004/7664.htm",
+      "date": "2024-12-06",
+      "column": "招生信息"
+    },
+    {
+      "title": "2025年上海大学与日本早稻田大学双硕士项目招生通知",
+      "url": "https://gs.shu.edu.cn/info/1030/172052.htm",
+      "date": "2024-11-11",
+      "column": "国际交流"
+    },
+    {
+      "title": "上海大学2025年硕士研究生招生简章",
+      "url": "https://yjszs.shu.edu.cn/info/1111/7594.htm",
+      "date": "2024-10-08",
+      "column": "招生信息"
+    },
+    {
+      "title": "转发：2024博士生国际招生面试交流会的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171912.htm",
+      "date": "2024-09-20",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于2024年上海大学创新型人才国际合作培养项目（第二批）选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171712.htm",
+      "date": "2024-06-18",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学研究生赴英国AI赋能与国际创新专题访学项目通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171692.htm",
+      "date": "2024-06-13",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学国家建设高水平大学公派研究生项目第二批补充公示的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171682.htm",
+      "date": "2024-05-27",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学国家建设高水平大学公派研究生项目第二批推荐名单及网上填报通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171662.htm",
+      "date": "2024-05-10",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学国家建设高水平大学公派研究生项目第一批补充公示的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171592.htm",
+      "date": "2024-03-22",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学博士生导师短期出国交流项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/171582.htm",
+      "date": "2024-03-19",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学国家建设高水平大学公派研究生项目第一批推荐名单及网上填报通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171562.htm",
+      "date": "2024-03-11",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学国家建设高水平大学公派研究生项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/171512.htm",
+      "date": "2024-01-30",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学秘鲁互换奖学金遴选的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171462.htm",
+      "date": "2024-01-19",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于2024年上海大学艺术类人才培养特别项目（第一批）选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171422.htm",
+      "date": "2024-01-05",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于2024年上海大学创新型人才国际合作培养项目（第一批）选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171432.htm",
+      "date": "2024-01-05",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年国家公派赴欧亚非地区中外合作奖学金项目在线宣讲的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171412.htm",
+      "date": "2024-01-04",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年悉尼科技大学双博士学位项目申请的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171362.htm",
+      "date": "2023-12-25",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年瑞典延雪平大学国际商学院双硕士项目招生通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171352.htm",
+      "date": "2023-12-19",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学与澳门大学联合培养博士生项目招生通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171332.htm",
+      "date": "2023-12-14",
+      "column": "国际交流"
+    },
+    {
+      "title": "2023年上海大学研究生校长奖学金获奖研究生公示",
+      "url": "https://gs.shu.edu.cn/info/1029/171302.htm",
+      "date": "2023-11-29",
+      "column": "培养管理"
+    },
+    {
+      "title": "2024 UTS&SHU合作项目宣讲会通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171252.htm",
+      "date": "2023-11-20",
+      "column": "国际交流"
+    },
+    {
+      "title": "2024年上海大学与日本早稻田大学双硕士项目招生通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171242.htm",
+      "date": "2023-11-14",
+      "column": "国际交流"
+    },
+    {
+      "title": "2023博士生国际招生面试线上交流会的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171222.htm",
+      "date": "2023-11-03",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于2023级研究生新生图像采集工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1027/171112.htm",
+      "date": "2023-09-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "关于2024年上海大学国家公派出国留学项目启动的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171092.htm",
+      "date": "2023-09-14",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于启动2024年度艺术类人才培养特别项目立项申报工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/171012.htm",
+      "date": "2023-09-04",
+      "column": "国际交流"
+    },
+    {
+      "title": "关于2023年上海大学创新型人才国际合作培养项目（第二批）选拔工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/170931.htm",
+      "date": "2023-08-02",
+      "column": "国际交流"
+    },
+    {
+      "title": "悉尼科技大学UTS-CSC国际科研奖学金宣讲会",
+      "url": "https://gs.shu.edu.cn/info/1030/170841.htm",
+      "date": "2023-06-27",
+      "column": "国际交流"
+    },
+    {
+      "title": "2023年上海大学国家公派研究生项目第二批补充公示的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/170781.htm",
+      "date": "2023-05-24",
+      "column": "国际交流"
+    },
+    {
+      "title": "2023年上海大学国家公派研究生项目第二批推荐名单及网上填报通知",
+      "url": "https://gs.shu.edu.cn/info/1030/170761.htm",
+      "date": "2023-05-10",
+      "column": "国际交流"
+    },
+    {
+      "title": "2023年上海大学博士生导师短期出国交流项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/170701.htm",
+      "date": "2023-03-23",
+      "column": "国际交流"
+    },
+    {
+      "title": "研究生调课信息",
+      "url": "https://gs1.shu.edu.cn:8080/py/KCBInfo_TiaoKe.asp",
+      "date": "2023-03-06",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于上海大学研究生学位证书在线查询的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/21814.htm",
+      "date": "2022-04-30",
+      "column": "学位工作"
+    },
+    {
+      "title": "上海大学研究生课程信息查询",
+      "url": "https://gs1.shu.edu.cn:8080/py/KCBInfo.asp",
+      "date": "2022-03-06",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于做好 2021-2022学年冬季学期研究生期末考试工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/21793.htm",
+      "date": "2022-03-01",
+      "column": "培养管理"
+    },
+    {
+      "title": "2021年上海大学国家公派研究生项目攻读博士学位研究生推荐名单及网上填报通知",
+      "url": "https://gs.shu.edu.cn/info/1030/21515.htm",
+      "date": "2021-03-10",
+      "column": "国际交流"
+    },
+    {
+      "title": "2021年上海大学艺术类人才培养特别项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/21480.htm",
+      "date": "2021-01-19",
+      "column": "国际交流"
+    },
+    {
+      "title": "2021年上海大学博士生导师短期出国交流项目实施细则",
+      "url": "https://gs.shu.edu.cn/info/1030/21481.htm",
+      "date": "2021-01-19",
+      "column": "国际交流"
+    },
+    {
+      "title": "上海大学与日本早稻田大学联合培养硕士研究生招生通知（2021年）",
+      "url": "https://gs.shu.edu.cn/info/1030/21482.htm",
+      "date": "2021-01-14",
+      "column": "国际交流"
+    },
+    {
+      "title": "上海大学关于2020年研究生招生工作近期安排的通知",
+      "url": "https://gs.shu.edu.cn/info/1028/12497.htm",
+      "date": "2020-02-15",
+      "column": "招生信息"
+    },
+    {
+      "title": "关于延期邮寄上海大学2020年博士报考材料的公告",
+      "url": "https://gs.shu.edu.cn/info/1028/12496.htm",
+      "date": "2020-01-27",
+      "column": "招生信息"
+    },
+    {
+      "title": "2018年硕士研究生招生考试上海大学考点考场查询",
+      "url": "https://gs.shu.edu.cn/info/1028/12485.htm",
+      "date": "2017-12-19",
+      "column": "招生信息"
+    },
+    {
+      "title": "全国研究生招生考试考场规则",
+      "url": "https://gs.shu.edu.cn/info/1028/12486.htm",
+      "date": "2017-12-19",
+      "column": "招生信息"
+    },
+    {
+      "title": "2018年全国硕士研究生招生考试注意事项（3112上海大学考点）",
+      "url": "https://gs.shu.edu.cn/info/1028/12487.htm",
+      "date": "2017-12-19",
+      "column": "招生信息"
+    },
+    {
+      "title": "2018年硕士研究生招生考试上海大学考点（3112）考场查询",
+      "url": "https://gs.shu.edu.cn/newsmanage/Display.asp?ID=8990",
+      "date": "2017-12-19",
+      "column": "招生信息"
+    },
+    {
+      "title": "上海大学2018年博士研究生报考须知",
+      "url": "http://yjszs.shu.edu.cn/Default.aspx?tabid=497&ctl=Details&mid=1216&ItemID=40822&SkinSrc=[L]Skins/yjszs160927/yjss926_2",
+      "date": "2017-12-03",
+      "column": "招生信息"
+    },
+    {
+      "title": "上海大学2018年接收推荐免试攻读硕士学位研究生预报名通知",
+      "url": "https://gs.shu.edu.cn/info/1028/12479.htm",
+      "date": "2017-09-10",
+      "column": "招生信息"
+    },
+    {
+      "title": "上海大学2018年招收硕士学位研究生报考条件及报名手续",
+      "url": "https://gs.shu.edu.cn/info/1028/12478.htm",
+      "date": "2017-08-11",
+      "column": "招生信息"
+    }
+  ]
+}

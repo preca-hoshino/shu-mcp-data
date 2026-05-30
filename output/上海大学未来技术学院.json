@@ -1,0 +1,452 @@
+{
+  "domain": "ai.shu.edu.cn",
+  "department": "上海大学未来技术学院",
+  "type": "03",
+  "crawl_time": "20260513_175610",
+  "total_articles": 73,
+  "columns": {
+    "新闻动态": 58,
+    "媒体聚焦": 3,
+    "通知公告": 12
+  },
+  "articles": [
+    {
+      "title": "上海大学未来技术学院2026年统招招生复试考生名单",
+      "url": "https://ai.shu.edu.cn/info/1045/3758.htm",
+      "date": "2026-03-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学未来技术学院2026年硕士研究生招生复试细则",
+      "url": "https://ai.shu.edu.cn/info/1045/3768.htm",
+      "date": "2026-03-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院举办菊花摄影比赛",
+      "url": "https://ai.shu.edu.cn/info/1045/3608.htm",
+      "date": "2025-12-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "群英荟萃 聚智未来|未来技术学院邀您参与2024青年学者论坛",
+      "url": "https://ai.shu.edu.cn/info/1045/3368.htm",
+      "date": "2024-10-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学招就处携未来技术学院河南招宣组一行赴河南进行交流调研",
+      "url": "https://ai.shu.edu.cn/info/1045/3388.htm",
+      "date": "2024-10-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "运动强体魄 一起向未来 | 上海大学第27届运动会未院学子展风采",
+      "url": "https://ai.shu.edu.cn/info/1045/3398.htm",
+      "date": "2024-10-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院携手上海博物馆东馆解锁“展教”结合新空间",
+      "url": "https://ai.shu.edu.cn/info/1046/3328.htm",
+      "date": "2024-07-30",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "林郑月娥女士到访上海大学做主旨演讲并参观学院展厅",
+      "url": "https://ai.shu.edu.cn/info/1045/3308.htm",
+      "date": "2024-06-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "金山区委常委、组织部部长吉维一行到访未来技术学院",
+      "url": "https://ai.shu.edu.cn/info/1045/3268.htm",
+      "date": "2024-05-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "陈耀然老师获吴文俊人工智能科学技术奖优秀博士学位论文",
+      "url": "https://ai.shu.edu.cn/info/1045/3218.htm",
+      "date": "2024-04-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院召开2024年重点工作讨论会及2024年第一次全体教职工大会",
+      "url": "https://ai.shu.edu.cn/info/1045/3178.htm",
+      "date": "2024-03-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "龙行龘龘 前程朤朤——未来技术学院师生一同庆小年",
+      "url": "https://ai.shu.edu.cn/info/1045/3158.htm",
+      "date": "2024-02-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院学生工作团队获多项表彰",
+      "url": "https://ai.shu.edu.cn/info/1045/3168.htm",
+      "date": "2024-02-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院第一届教职工大会暨工会会员大会顺利召开",
+      "url": "https://ai.shu.edu.cn/info/1045/3138.htm",
+      "date": "2024-01-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以学生为中心，倾听真实声音——未来技术学院师生交流会圆满举行",
+      "url": "https://ai.shu.edu.cn/info/1045/3128.htm",
+      "date": "2024-01-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“精海”无人艇团队两名教师即将出征中国第40次南极科考",
+      "url": "https://ai.shu.edu.cn/info/1045/3068.htm",
+      "date": "2023-12-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2023年未来技术学院（人工智能研究院）国际青年学者论坛顺利举办",
+      "url": "https://ai.shu.edu.cn/info/1045/3018.htm",
+      "date": "2023-12-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "学院师生在2023年长三角科学道德和学风建设论坛上展风采",
+      "url": "https://ai.shu.edu.cn/info/1045/3008.htm",
+      "date": "2023-12-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "河南招宣组2023年招宣总结会暨2024年第一次招宣工作研讨会成功召开",
+      "url": "https://ai.shu.edu.cn/info/1045/3028.htm",
+      "date": "2023-12-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "科创未央，闪耀新章——未来技术学院冬季学期首日教育召开2023年度“科创之星”表彰暨科创竞赛分享会",
+      "url": "https://ai.shu.edu.cn/info/1045/2968.htm",
+      "date": "2023-11-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "【AI求真大讲堂预告】董彬-大语言模型助力临床诊疗的前景分析",
+      "url": "https://ai.shu.edu.cn/info/1150/2958.htm",
+      "date": "2023-11-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "未来技术学院邀请老教授协会共话拔尖创新人才培养",
+      "url": "https://ai.shu.edu.cn/info/1045/2948.htm",
+      "date": "2023-11-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "伟长书院举行“知史爱党 知史爱校——纪念钱伟长诞辰110周年”讲座",
+      "url": "https://ai.shu.edu.cn/info/1045/2918.htm",
+      "date": "2023-10-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院共庆祖国74周年华诞！",
+      "url": "https://ai.shu.edu.cn/info/1045/2888.htm",
+      "date": "2023-10-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "共贺双节——假期留校学生系列活动",
+      "url": "https://ai.shu.edu.cn/info/1045/2878.htm",
+      "date": "2023-10-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院、音乐学院、微电子学院三院联合迎新晚会顺利举行",
+      "url": "https://ai.shu.edu.cn/info/1045/2928.htm",
+      "date": "2023-09-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学未来技术学院（人工智能研究院） 2024年接收推荐免试攻读研究生（含直博生）复试方案",
+      "url": "https://ai.shu.edu.cn/info/1150/2868.htm",
+      "date": "2023-09-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜报！拟授第十八届“挑战杯”特等奖",
+      "url": "https://ai.shu.edu.cn/info/1045/2858.htm",
+      "date": "2023-09-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院科研成果亮相第二十届上海教育博览会",
+      "url": "https://ai.shu.edu.cn/info/1045/2768.htm",
+      "date": "2023-09-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "本研学生参观历史博物馆“江海撷珍”特展",
+      "url": "https://ai.shu.edu.cn/info/1045/2798.htm",
+      "date": "2023-09-15",
+      "column": "新闻动态"
+    },
+    {
+      "title": "坚守初心正师风 立德树人铸师魂 | 未来技术学院召开教师节座谈会",
+      "url": "https://ai.shu.edu.cn/info/1045/2788.htm",
+      "date": "2023-09-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我院多位教师在学校第39个教师节表彰大会上接受表彰",
+      "url": "https://ai.shu.edu.cn/info/1045/2818.htm",
+      "date": "2023-09-09",
+      "column": "新闻动态"
+    },
+    {
+      "title": "关于海洋智能无人集群技术与系统教育部重点实验室2023年度开放课题入选项目的公示",
+      "url": "https://ai.shu.edu.cn/info/1150/2748.htm",
+      "date": "2023-09-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "未来已来，共赴新程——未来技术学院2023迎新季",
+      "url": "https://ai.shu.edu.cn/info/1045/2838.htm",
+      "date": "2023-08-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院2023年教职工年度考核优秀档次人员名单公示",
+      "url": "https://ai.shu.edu.cn/info/1150/2708.htm",
+      "date": "2023-08-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "主题教育 | 未来技术学院党委与文学院党委举行主题教育联组学习交流会",
+      "url": "https://ai.shu.edu.cn/info/1045/2287.htm",
+      "date": "2023-06-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "主题教育 | 校领导到未来技术学院开展“增强党组织政治功能和组织功能”专题调研",
+      "url": "https://ai.shu.edu.cn/info/1045/2277.htm",
+      "date": "2023-05-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院开启本科招生宣传",
+      "url": "https://ai.shu.edu.cn/info/1045/2257.htm",
+      "date": "2023-05-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院召开教授委员会成立大会",
+      "url": "https://ai.shu.edu.cn/info/1045/2267.htm",
+      "date": "2023-05-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "彭艳院长亮相2023年上海科技节“科学红毯”",
+      "url": "https://ai.shu.edu.cn/info/1045/2247.htm",
+      "date": "2023-05-24",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院与索尼公司联合推出“Spatial Remote”APP",
+      "url": "https://ai.shu.edu.cn/info/1046/2197.htm",
+      "date": "2023-05-23",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "未来技术学院班子赴北京相关高校调研",
+      "url": "https://ai.shu.edu.cn/info/1045/2217.htm",
+      "date": "2023-05-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院创新创业课堂走进中国商飞，深入了解大飞机事业",
+      "url": "https://ai.shu.edu.cn/info/1045/2057.htm",
+      "date": "2023-04-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "聚焦·融合·筑基——2023年上海大学 “人工智能”战略推进会暨人工智能研究院学术委员会第二次会议圆满举行",
+      "url": "https://ai.shu.edu.cn/info/1045/2137.htm",
+      "date": "2023-04-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院邀请校老教授协会指导人才培养工作",
+      "url": "https://ai.shu.edu.cn/info/1045/2117.htm",
+      "date": "2023-04-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学人工智能研究院2023年硕士研究生招生调剂方案",
+      "url": "https://ai.shu.edu.cn/info/1150/1737.htm",
+      "date": "2023-04-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学人工智能研究院2023年硕士研究生招生复试方案",
+      "url": "https://ai.shu.edu.cn/info/1150/1747.htm",
+      "date": "2023-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "凝聚精气神 一起向未来 ——未来技术学院党委举办“学习贯彻党的二十大精神，培养未来科技创新领军人才”专题研修班",
+      "url": "https://ai.shu.edu.cn/info/1045/2107.htm",
+      "date": "2023-03-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "踏上新征程、奋楫再出发——汪小帆副校长至未来技术学院传达两会精神",
+      "url": "https://ai.shu.edu.cn/info/1045/2097.htm",
+      "date": "2023-03-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院顺利召开人才培养方案专家论证会",
+      "url": "https://ai.shu.edu.cn/info/1045/1677.htm",
+      "date": "2023-03-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学人工智能研究院2023年接收推荐免试攻读研究生（含直博生）复试方案",
+      "url": "https://ai.shu.edu.cn/info/1150/1757.htm",
+      "date": "2022-09-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "【暑期夏令营】上海大学人工智能研究院2022年优秀大学生暑期夏令营活动通知",
+      "url": "https://ai.shu.edu.cn/info/1150/1767.htm",
+      "date": "2022-07-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学人工智能研究院2022年硕士研究生招生调剂方案",
+      "url": "https://ai.shu.edu.cn/info/1150/1777.htm",
+      "date": "2022-03-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学人工智能研究院2022年硕士研究生招生复试方案",
+      "url": "https://ai.shu.edu.cn/info/1150/1787.htm",
+      "date": "2022-03-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学与中国科学院上海微系统与信息技术研究所举行合作交流座谈会",
+      "url": "https://ai.shu.edu.cn/info/1045/1284.htm",
+      "date": "2022-02-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学人工智能研究院、上海人工智能实验室 | 全球联合招募",
+      "url": "https://ai.shu.edu.cn/info/1046/1215.htm",
+      "date": "2022-01-05",
+      "column": "媒体聚焦"
+    },
+    {
+      "title": "首届创新工作大会人工智能校内研讨会顺利举行",
+      "url": "https://ai.shu.edu.cn/info/1045/1228.htm",
+      "date": "2021-11-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学与中国船舶集团第七一六研究所签署战略合作协议",
+      "url": "https://ai.shu.edu.cn/info/1045/1140.htm",
+      "date": "2021-11-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学与上海人工智能实验室签署“海洋智能”领域战略合作框架协议",
+      "url": "https://ai.shu.edu.cn/info/1045/1138.htm",
+      "date": "2021-09-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学人工智能研究院2022年全日制专业学位硕士研究生招生简章",
+      "url": "https://ai.shu.edu.cn/info/1150/1797.htm",
+      "date": "2021-09-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学人工智能研究院2022年学术学位硕士研究生招生简章",
+      "url": "https://ai.shu.edu.cn/info/1150/1807.htm",
+      "date": "2021-09-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "图灵奖获得者John Hopcroft名誉教授聘任仪式暨学术报告顺利举行",
+      "url": "https://ai.shu.edu.cn/info/1045/1128.htm",
+      "date": "2021-06-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学刘昌胜校长一行访问上海人工智能实验室",
+      "url": "https://ai.shu.edu.cn/info/1045/1129.htm",
+      "date": "2021-06-21",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海市市长一行来我校调研",
+      "url": "https://ai.shu.edu.cn/info/1045/1136.htm",
+      "date": "2020-11-27",
+      "column": "新闻动态"
+    },
+    {
+      "title": "交通银行长三角总部一行到访",
+      "url": "https://ai.shu.edu.cn/info/1045/1137.htm",
+      "date": "2020-11-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校举行人工智能研究院院长陆军院士受聘仪式",
+      "url": "https://ai.shu.edu.cn/info/1045/1142.htm",
+      "date": "2020-10-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "智赋海洋，能创无限，上海大学人工智能研究院成立",
+      "url": "https://ai.shu.edu.cn/info/1045/1143.htm",
+      "date": "2020-10-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "宝山区和上海大学举行环上大科技创新圈建设推进工作会",
+      "url": "https://ai.shu.edu.cn/info/1045/1144.htm",
+      "date": "2020-10-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校召开“双一流”建设周期总结报告专家评审会",
+      "url": "https://ai.shu.edu.cn/info/1045/1145.htm",
+      "date": "2020-10-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "我校“复杂网络化系统智能测控及应用学科创新引智基地”入选国家外国专家局“111计划”",
+      "url": "https://ai.shu.edu.cn/info/1045/1146.htm",
+      "date": "2020-10-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学智能制造及机器人重点实验室研发的装饰施工智能机器人问世",
+      "url": "https://ai.shu.edu.cn/info/1045/1147.htm",
+      "date": "2020-10-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "谢少荣团队获批国家自然科学基金委人工智能代码（F06）首个重大项目",
+      "url": "https://ai.shu.edu.cn/info/1045/1148.htm",
+      "date": "2020-10-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第44届ICPC国际大学生程序设计竞赛亚洲区域赛（上海）在上海大学圆满落幕",
+      "url": "https://ai.shu.edu.cn/info/1045/1149.htm",
+      "date": "2020-10-12",
+      "column": "新闻动态"
+    }
+  ]
+}

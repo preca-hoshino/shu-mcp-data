@@ -1,0 +1,211 @@
+{
+  "domain": "icn.shu.edu.cn",
+  "department": "上海大学碳中和创新研究中心",
+  "type": "20",
+  "crawl_time": "20260522_090853",
+  "total_articles": 33,
+  "columns": {
+    "新闻动态": 15,
+    "科研动态": 18
+  },
+  "articles": [
+    {
+      "title": "Angewandte Chemie：在选择性催化还原氮氧化物中利用智能还原剂抑制氨逃逸2026-05-22",
+      "url": "https://icn.shu.edu.cn/info/1531/2561.htm",
+      "date": "2026-05-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "Angewandte Chemie：单原子-纳米簇协同高效环境催化2026-04-22",
+      "url": "https://icn.shu.edu.cn/info/1531/2551.htm",
+      "date": "2026-04-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "Advanced Science：计算引导双位点催化实现亚硝酸盐到氨的高效转化2026-04-16",
+      "url": "https://icn.shu.edu.cn/info/1531/2521.htm",
+      "date": "2026-04-16",
+      "column": "科研动态"
+    },
+    {
+      "title": "JACS：双金属原子对实现高效光热甲烷干重整2026-01-21",
+      "url": "https://icn.shu.edu.cn/info/1531/2491.htm",
+      "date": "2026-01-21",
+      "column": "科研动态"
+    },
+    {
+      "title": "Environmental Science and Geoscience（ESG）期刊第一届编委会会议成功召开2026-01-12",
+      "url": "https://icn.shu.edu.cn/info/1541/2481.htm",
+      "date": "2026-01-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "携手共创绿色未来：《Greenverse Science》期刊首届编委会会议成功召开2026-01-10",
+      "url": "https://icn.shu.edu.cn/info/1541/2471.htm",
+      "date": "2026-01-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学碳中和创新研究中心师生参加第二十二届全国催化学术会议并作主旨报告2025-12-18",
+      "url": "https://icn.shu.edu.cn/info/1541/2461.htm",
+      "date": "2025-12-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Chemical Reviews：气态污染物净化催化剂失活机制、防控与再生技术2025-12-10",
+      "url": "https://icn.shu.edu.cn/info/1531/2451.htm",
+      "date": "2025-12-10",
+      "column": "科研动态"
+    },
+    {
+      "title": "Advanced Functional Materials：富铝分子筛界面调控活性位点助力高效环境催化2025-11-21",
+      "url": "https://icn.shu.edu.cn/info/1531/2441.htm",
+      "date": "2025-11-21",
+      "column": "科研动态"
+    },
+    {
+      "title": "第六届上海环境化学中青年学者学术研讨会在我校成功举办2025-11-14",
+      "url": "https://icn.shu.edu.cn/info/1541/2361.htm",
+      "date": "2025-11-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "JACS：催化界面分子工程赋能高效电还原一氧化氮合成氨2025-11-04",
+      "url": "https://icn.shu.edu.cn/info/1531/2351.htm",
+      "date": "2025-11-04",
+      "column": "科研动态"
+    },
+    {
+      "title": "Angewandte Chemie：铜铈双原子位点增强沸石分子筛催化抗干扰能力2025-10-12",
+      "url": "https://icn.shu.edu.cn/info/1531/2341.htm",
+      "date": "2025-10-12",
+      "column": "科研动态"
+    },
+    {
+      "title": "中泰能源环境催化国际研讨会在我校成功举办2025-09-05",
+      "url": "https://icn.shu.edu.cn/info/1541/2331.htm",
+      "date": "2025-09-05",
+      "column": "新闻动态"
+    },
+    {
+      "title": "碳中和创新研究中心张凯、胡晓楠两位博士后顺利出站2025-09-02",
+      "url": "https://icn.shu.edu.cn/info/1541/2321.htm",
+      "date": "2025-09-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "碳中和创新研究中心国家自然科学基金资助再创佳绩2025-08-30",
+      "url": "https://icn.shu.edu.cn/info/1541/2311.htm",
+      "date": "2025-08-30",
+      "column": "新闻动态"
+    },
+    {
+      "title": "意大利都灵大学 Silvia Bordiga 教授访问理学院并作学术报告2025-08-29",
+      "url": "https://icn.shu.edu.cn/info/1541/2301.htm",
+      "date": "2025-08-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "张登松教授荣获2024年度上海市青年科技杰出贡献奖2025-08-28",
+      "url": "https://icn.shu.edu.cn/info/1541/2291.htm",
+      "date": "2025-08-28",
+      "column": "新闻动态"
+    },
+    {
+      "title": "欧洲催化理事会主席Weckhuysen教授受聘我校荣誉教授并作学术报告2025-07-12",
+      "url": "https://icn.shu.edu.cn/info/1541/2271.htm",
+      "date": "2025-07-12",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Angewandte Chemie：双金属活性位点高效串联催化还原氮氧化物2025-07-07",
+      "url": "https://icn.shu.edu.cn/info/1531/2231.htm",
+      "date": "2025-07-07",
+      "column": "科研动态"
+    },
+    {
+      "title": "Angewandte Chemie：硫界面质子定向迁移助力电催化一氧化氮还原2025-07-07",
+      "url": "https://icn.shu.edu.cn/info/1531/2241.htm",
+      "date": "2025-07-07",
+      "column": "科研动态"
+    },
+    {
+      "title": "Nature Communications：高效电催化一氧化氮还原制氨2025-07-07",
+      "url": "https://icn.shu.edu.cn/info/1531/2251.htm",
+      "date": "2025-07-07",
+      "column": "科研动态"
+    },
+    {
+      "title": "英国卡迪夫大学催化研究所国际合作处主任Marc Pera-Titus教授 应邀访问理学院并做学术报告2025-07-07",
+      "url": "https://icn.shu.edu.cn/info/1541/2261.htm",
+      "date": "2025-07-07",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Angewandte Chemie：梯度氧化双位点催化剂助力工业烟气低温净化2025-04-15",
+      "url": "https://icn.shu.edu.cn/info/1531/2051.htm",
+      "date": "2025-04-15",
+      "column": "科研动态"
+    },
+    {
+      "title": "Nature Nanotechnology：甘油向羟基丙酮酸的绿色催化转化2025-04-09",
+      "url": "https://icn.shu.edu.cn/info/1531/2061.htm",
+      "date": "2025-04-09",
+      "column": "科研动态"
+    },
+    {
+      "title": "Angewandte Chemie：N-Cu-N界面质子耦合电子高效转移动力学机制2024-12-26",
+      "url": "https://icn.shu.edu.cn/info/1531/2071.htm",
+      "date": "2024-12-26",
+      "column": "科研动态"
+    },
+    {
+      "title": "“上海资源环境新材料及应用工程技术研究中心”2024年度技术委员会会议在上海大学成功召开2024-12-26",
+      "url": "https://scicol.shu.edu.cn/info/1008/25145.htm",
+      "date": "2024-12-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "国家重点研发计划青年科学家项目启动会成功召开2024-12-26",
+      "url": "https://scicol.shu.edu.cn/info/1008/25205.htm",
+      "date": "2024-12-26",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学碳中和创新研究中心第三届化学前沿论坛成功举办2024-12-19",
+      "url": "https://scicol.shu.edu.cn/info/1007/25125.htm",
+      "date": "2024-12-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "Angewandte Chemie：多酸介导单原子选择性催化净化机制2024-10-25",
+      "url": "https://icn.shu.edu.cn/info/1531/2111.htm",
+      "date": "2024-10-25",
+      "column": "科研动态"
+    },
+    {
+      "title": "Environmental Science & Technology：非晶态载体提升催化剂抗中毒能力2024-09-19",
+      "url": "https://icn.shu.edu.cn/info/1531/2121.htm",
+      "date": "2024-09-19",
+      "column": "科研动态"
+    },
+    {
+      "title": "Environmental Science & Technology：B-Ti-O界面高效光催化降解甲苯2024-09-19",
+      "url": "https://icn.shu.edu.cn/info/1531/2131.htm",
+      "date": "2024-09-19",
+      "column": "科研动态"
+    },
+    {
+      "title": "Environmental Science & Technology：氮氧化物与氯苯高效协同催化净化2024-09-19",
+      "url": "https://icn.shu.edu.cn/info/1531/2141.htm",
+      "date": "2024-09-19",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学碳中和创新研究中心第一届学术委员会会议暨环境化学前沿论坛成功举办2024-09-12",
+      "url": "https://icn.shu.edu.cn/info/1541/2191.htm",
+      "date": "2024-09-12",
+      "column": "新闻动态"
+    }
+  ]
+}

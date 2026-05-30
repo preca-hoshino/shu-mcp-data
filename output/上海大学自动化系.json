@@ -1,0 +1,463 @@
+{
+  "domain": "automation.shu.edu.cn",
+  "department": "上海大学自动化系",
+  "type": "06",
+  "crawl_time": "20260527_053350",
+  "total_articles": 75,
+  "columns": {
+    "新闻": 67,
+    "讲座/会议": 8
+  },
+  "articles": [
+    {
+      "title": "2024-2025学年“上电所奖学金”获奖学生名单公示",
+      "url": "https://automation.shu.edu.cn/info/1128/4173.htm",
+      "date": "2026-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "2024-2025学年“自仪奖学金”获奖学生名单公示",
+      "url": "https://automation.shu.edu.cn/info/1128/4183.htm",
+      "date": "2026-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "2024-2025学年“精控能源奖学金”获奖学生名单公示",
+      "url": "https://automation.shu.edu.cn/info/1128/4193.htm",
+      "date": "2026-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "“上电所奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/4133.htm",
+      "date": "2026-04-16",
+      "column": "新闻"
+    },
+    {
+      "title": "“自仪奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/4143.htm",
+      "date": "2026-04-16",
+      "column": "新闻"
+    },
+    {
+      "title": "“精控能源奖学金”管理章程",
+      "url": "https://automation.shu.edu.cn/info/1128/4153.htm",
+      "date": "2026-04-16",
+      "column": "新闻"
+    },
+    {
+      "title": "关于机自学院企业奖学金申请的通知",
+      "url": "https://automation.shu.edu.cn/info/1128/4163.htm",
+      "date": "2026-04-16",
+      "column": "新闻"
+    },
+    {
+      "title": "2025年全国嵌入式仪表及系统技术会议成功举办",
+      "url": "https://automation.shu.edu.cn/info/1128/4043.htm",
+      "date": "2025-10-28",
+      "column": "新闻"
+    },
+    {
+      "title": "张宪霞教授团队的研究成果被新华社报道！",
+      "url": "https://automation.shu.edu.cn/info/1128/4033.htm",
+      "date": "2025-10-13",
+      "column": "新闻"
+    },
+    {
+      "title": "2025世界机器人大赛—BCI脑控机器人大赛，我院师生荣获特等奖！",
+      "url": "https://automation.shu.edu.cn/info/1128/4013.htm",
+      "date": "2025-08-13",
+      "column": "新闻"
+    },
+    {
+      "title": "国家重点研发计划项目\"家政服务智能化关键技术研发及应用示范\" 启动会暨实施方案咨询会顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/4023.htm",
+      "date": "2025-08-09",
+      "column": "新闻"
+    },
+    {
+      "title": "2025年上海大学机电工程与自动化学院控制科学与工程学科全国优秀大学生暑期活动通知",
+      "url": "https://automation.shu.edu.cn/info/1128/4003.htm",
+      "date": "2025-06-24",
+      "column": "新闻"
+    },
+    {
+      "title": "华东六省一市自动化学会学术年会先进控制与智能系统论坛在上海顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3993.htm",
+      "date": "2025-06-14",
+      "column": "新闻"
+    },
+    {
+      "title": "上海市电站自动化技术重点实验室学术委员会会议顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3973.htm",
+      "date": "2025-05-27",
+      "column": "新闻"
+    },
+    {
+      "title": "“上电所奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/3933.htm",
+      "date": "2025-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "“精控能源奖学金”管理章程",
+      "url": "https://automation.shu.edu.cn/info/1128/3953.htm",
+      "date": "2025-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "“自仪奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/3963.htm",
+      "date": "2025-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "清华大学国家教学名师师丽教授在上海大学作学术报告",
+      "url": "https://automation.shu.edu.cn/info/1128/3913.htm",
+      "date": "2025-04-17",
+      "column": "新闻"
+    },
+    {
+      "title": "国家自然科学基金联合基金重点项目“工业互联网异构融合系统的攻击可视化学习感知和安全协同调控及应用”启动会顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3923.htm",
+      "date": "2025-04-17",
+      "column": "新闻"
+    },
+    {
+      "title": "国家重点研发计划项目“生成式人工智能驱动的机器人集群三维环境协同探索” 启动会暨实施方案论证会召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3903.htm",
+      "date": "2025-03-25",
+      "column": "新闻"
+    },
+    {
+      "title": "史航副教授团队在《IEEE Transactions on Robotics》期刊发表最新研究成果",
+      "url": "https://automation.shu.edu.cn/info/1128/3893.htm",
+      "date": "2025-02-24",
+      "column": "新闻"
+    },
+    {
+      "title": "杜大军教授团队论文获《Journal of Modern Power Systems and Clean Energy》期刊优秀论文奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3843.htm",
+      "date": "2025-01-08",
+      "column": "新闻"
+    },
+    {
+      "title": "机械工程一流学科产教协同发展研讨会——航空前沿技术论坛顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3813.htm",
+      "date": "2024-11-29",
+      "column": "新闻"
+    },
+    {
+      "title": "LSMS2024&ICSEE2024会议征文通知",
+      "url": "https://automation.shu.edu.cn/info/1160/3393.htm",
+      "date": "2024-02-20",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "自动化系送温暖，助跑学子考研路——2023年自动化系考研动员大会顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3333.htm",
+      "date": "2023-12-04",
+      "column": "新闻"
+    },
+    {
+      "title": "顾申申教授荣获2023年“宝钢优秀教师奖”",
+      "url": "https://automation.shu.edu.cn/info/1128/3203.htm",
+      "date": "2023-11-30",
+      "column": "新闻"
+    },
+    {
+      "title": "“自动化系送温暖，助跑学子考研路”的考研动员大会顺利召开",
+      "url": "https://automation.shu.edu.cn/info/1128/3193.htm",
+      "date": "2023-11-24",
+      "column": "新闻"
+    },
+    {
+      "title": "《现代控制理论基础》课程获批2023年度上海高校市级重点课程立项",
+      "url": "https://automation.shu.edu.cn/info/1128/3173.htm",
+      "date": "2023-11-08",
+      "column": "新闻"
+    },
+    {
+      "title": "喜报！我院项目荣获第七届中国（国际）传感器创新创业大赛一等奖！",
+      "url": "https://automation.shu.edu.cn/info/1128/3183.htm",
+      "date": "2023-11-08",
+      "column": "新闻"
+    },
+    {
+      "title": "杨帮华教授等指导的项目获第十八届“挑战杯”国赛二等奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3163.htm",
+      "date": "2023-11-02",
+      "column": "新闻"
+    },
+    {
+      "title": "九九重阳节，浓浓敬老情——自动化系举行敬老节“回娘家”活动",
+      "url": "https://automation.shu.edu.cn/info/1128/3153.htm",
+      "date": "2023-11-01",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学自强队获2023中国机器人大赛暨RoboCup机器人世界杯中国赛大赛佳绩",
+      "url": "https://automation.shu.edu.cn/info/1128/3143.htm",
+      "date": "2023-10-30",
+      "column": "新闻"
+    },
+    {
+      "title": "我校科研成果荣获中国仪器仪表学会科技进步一等奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3133.htm",
+      "date": "2023-10-26",
+      "column": "新闻"
+    },
+    {
+      "title": "新型电力系统联合创新实验室成立仪式隆重举行",
+      "url": "https://automation.shu.edu.cn/info/1128/3123.htm",
+      "date": "2023-10-03",
+      "column": "新闻"
+    },
+    {
+      "title": "张进教授获2023年ICPRE 最佳青年科学家奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3113.htm",
+      "date": "2023-09-25",
+      "column": "新闻"
+    },
+    {
+      "title": "机自学院自动化系与精控能源合作设立“上海大学精控能源奖学金&奖教金”",
+      "url": "https://automation.shu.edu.cn/info/1128/3103.htm",
+      "date": "2023-09-13",
+      "column": "新闻"
+    },
+    {
+      "title": "蓝箭老师荣获全国侨联系统先进个人",
+      "url": "https://automation.shu.edu.cn/info/1128/3093.htm",
+      "date": "2023-09-02",
+      "column": "新闻"
+    },
+    {
+      "title": "喜报｜2023研电赛全国总决赛，杜大军教授、陈挚副教授指导团队获2个二等奖、1个最佳论文奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3033.htm",
+      "date": "2023-08-14",
+      "column": "新闻"
+    },
+    {
+      "title": "数据驱动的进化算法研究",
+      "url": "https://automation.shu.edu.cn/info/1160/3012.htm",
+      "date": "2023-07-10",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "机自学院党委与上飞航研所党总支举行共建签约仪式",
+      "url": "https://automation.shu.edu.cn/info/1128/2972.htm",
+      "date": "2023-06-27",
+      "column": "新闻"
+    },
+    {
+      "title": "22级自动化专业迎新大会",
+      "url": "https://automation.shu.edu.cn/info/1128/2962.htm",
+      "date": "2023-06-26",
+      "column": "新闻"
+    },
+    {
+      "title": "汪小帆副校长率团访问英国",
+      "url": "https://automation.shu.edu.cn/info/1128/2952.htm",
+      "date": "2023-06-22",
+      "column": "新闻"
+    },
+    {
+      "title": "主题教育 | 自动化系师生党支部开展“我为群众办实事—机自大楼公用家具维修”活动",
+      "url": "https://automation.shu.edu.cn/info/1128/2932.htm",
+      "date": "2023-06-08",
+      "column": "新闻"
+    },
+    {
+      "title": "远程状态估计中基于强盗算法的信道选择",
+      "url": "https://automation.shu.edu.cn/info/1160/2902.htm",
+      "date": "2023-06-03",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "喜报！杜大军教授牵头获得2022年度上海市自然科学二等奖！",
+      "url": "https://automation.shu.edu.cn/info/1128/2872.htm",
+      "date": "2023-06-01",
+      "column": "新闻"
+    },
+    {
+      "title": "喜报！特等奖2项、三等奖1项，第十八届“挑战杯”上海市赛再创历史佳绩！",
+      "url": "https://automation.shu.edu.cn/info/1128/2892.htm",
+      "date": "2023-06-01",
+      "column": "新闻"
+    },
+    {
+      "title": "主题教育 | 自动化系组织前往上海机床厂开展主题教育活动",
+      "url": "https://automation.shu.edu.cn/info/1128/2832.htm",
+      "date": "2023-05-08",
+      "column": "新闻"
+    },
+    {
+      "title": "自强队临时党支部开展五四青年节纪念活动——高举五四火炬，争当青年先锋",
+      "url": "https://automation.shu.edu.cn/info/1128/2822.htm",
+      "date": "2023-05-06",
+      "column": "新闻"
+    },
+    {
+      "title": "机自学院企业行系列——商飞企业参观活动圆满结束",
+      "url": "https://automation.shu.edu.cn/info/1128/2812.htm",
+      "date": "2023-04-25",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系优秀校友开展行业前沿培训--自动化系成功举办“自动化面对面”系列活动",
+      "url": "https://automation.shu.edu.cn/info/1128/2792.htm",
+      "date": "2023-04-22",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系陈挚老师培训本科生如何开展科研项目--自动化系成功举办“自动化面对面”系列活动",
+      "url": "https://automation.shu.edu.cn/info/1128/2802.htm",
+      "date": "2023-04-22",
+      "column": "新闻"
+    },
+    {
+      "title": "“上电所奖学金”颁奖仪式隆重举行",
+      "url": "https://automation.shu.edu.cn/info/1128/2782.htm",
+      "date": "2023-04-20",
+      "column": "新闻"
+    },
+    {
+      "title": "机自学院自强队临时党支部开展缅怀革命先烈活动 --暨清明龙华烈士陵园祭扫",
+      "url": "https://automation.shu.edu.cn/info/1128/2772.htm",
+      "date": "2023-04-07",
+      "column": "新闻"
+    },
+    {
+      "title": "“自仪奖学金”颁奖仪式隆重举行",
+      "url": "https://automation.shu.edu.cn/info/1128/2762.htm",
+      "date": "2023-03-25",
+      "column": "新闻"
+    },
+    {
+      "title": "Smooth Interpolation Constraints for Bumpless Transfer Design in Periodic Piecewise Linear Systems",
+      "url": "https://automation.shu.edu.cn/info/1160/2682.htm",
+      "date": "2023-02-24",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "“欣巴科技奖学金”评奖章程",
+      "url": "https://automation.shu.edu.cn/info/1128/2652.htm",
+      "date": "2023-02-13",
+      "column": "新闻"
+    },
+    {
+      "title": "关于申报2022年度欣巴科技奖学金的通知",
+      "url": "https://automation.shu.edu.cn/info/1128/2662.htm",
+      "date": "2023-02-13",
+      "column": "新闻"
+    },
+    {
+      "title": "自强队学习二十大精神暨参加2022RoboCup中国机器人大赛动员会",
+      "url": "https://automation.shu.edu.cn/info/1128/2499.htm",
+      "date": "2022-11-23",
+      "column": "新闻"
+    },
+    {
+      "title": "我校成功举办2022全国嵌入式仪表及系统技术会议",
+      "url": "https://automation.shu.edu.cn/info/1128/2520.htm",
+      "date": "2022-11-09",
+      "column": "新闻"
+    },
+    {
+      "title": "上海大学获2022世界机器人大赛-BCI脑控机器人大赛“特殊贡献奖”",
+      "url": "https://automation.shu.edu.cn/info/1128/2518.htm",
+      "date": "2022-11-08",
+      "column": "新闻"
+    },
+    {
+      "title": "A Bridge Between Unsupervised and Supervised Learning-based Fault Diagnosis Approaches",
+      "url": "https://automation.shu.edu.cn/info/1160/2517.htm",
+      "date": "2022-11-04",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "上海大学自动化专业工程教育认证线上考查顺利完成",
+      "url": "https://automation.shu.edu.cn/info/1128/2516.htm",
+      "date": "2022-11-03",
+      "column": "新闻"
+    },
+    {
+      "title": "Fundamentals of motion planning - concepts, calculation and design",
+      "url": "https://automation.shu.edu.cn/info/1160/2508.htm",
+      "date": "2022-10-20",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "Multiobjective covariance control: 1992-2022",
+      "url": "https://automation.shu.edu.cn/info/1160/2507.htm",
+      "date": "2022-10-11",
+      "column": "讲座/会议"
+    },
+    {
+      "title": "复杂网络化系统智能测控与应用国际科研联盟启动揭牌仪式成功举办",
+      "url": "https://automation.shu.edu.cn/info/1128/2506.htm",
+      "date": "2022-10-08",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系组织开展中国共产党上海市第十二次党代会精神学习会",
+      "url": "https://automation.shu.edu.cn/info/1128/2497.htm",
+      "date": "2022-06-30",
+      "column": "新闻"
+    },
+    {
+      "title": "自强队弘扬五四精神，争做新时代好青年",
+      "url": "https://automation.shu.edu.cn/info/1128/2476.htm",
+      "date": "2022-05-05",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系组织疫情防控专题集体学习",
+      "url": "https://automation.shu.edu.cn/info/1128/2467.htm",
+      "date": "2022-04-19",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系组织开展政治理论集体学习",
+      "url": "https://automation.shu.edu.cn/info/1128/2457.htm",
+      "date": "2022-03-16",
+      "column": "新闻"
+    },
+    {
+      "title": "用脚步丈量校园——自动化系教工春季健身活动",
+      "url": "https://automation.shu.edu.cn/info/1128/2456.htm",
+      "date": "2022-03-14",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系组织开展政治理论集体学习",
+      "url": "https://automation.shu.edu.cn/info/1128/2447.htm",
+      "date": "2022-03-01",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系开展机自学院一流学科建设现场汇报实地参观",
+      "url": "https://automation.shu.edu.cn/info/1128/2436.htm",
+      "date": "2022-02-20",
+      "column": "新闻"
+    },
+    {
+      "title": "自动化系总支中共十九届六中全会精神专题集体学习会",
+      "url": "https://automation.shu.edu.cn/info/1128/2427.htm",
+      "date": "2022-01-17",
+      "column": "新闻"
+    },
+    {
+      "title": "【喜报】祝贺费敏锐教授当选亚洲仿真联盟会士",
+      "url": "https://automation.shu.edu.cn/info/1128/2421.htm",
+      "date": "2022-01-13",
+      "column": "新闻"
+    },
+    {
+      "title": "Remote Sensing and AI.",
+      "url": "http://auto.shu.edu.cn/info/1125/9375.htm",
+      "date": "2020-11-19",
+      "column": "讲座/会议"
+    }
+  ]
+}

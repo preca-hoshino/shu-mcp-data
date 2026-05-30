@@ -1,0 +1,3488 @@
+{
+  "domain": "mba.shu.edu.cn",
+  "department": "上海大学MBA教育管理中心",
+  "type": "29",
+  "crawl_time": "20260527_091111",
+  "total_articles": 579,
+  "columns": {
+    "焦点新闻": 362,
+    "论坛活动": 174,
+    "通知公告": 43
+  },
+  "articles": [
+    {
+      "title": "关于2026届毕业研究生进沪就业落户成绩等级评定申报名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26611.htm",
+      "date": "2026-05-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织开展2026年上海大学毕业生就业“攀登奖”评选与表彰工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26641.htm",
+      "date": "2026-05-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学战队HYROX挑战赛纪实",
+      "url": "https://mp.weixin.qq.com/s/wVVM-k9vlB_ECK_BlV0vwg",
+      "date": "2026-05-27",
+      "column": "论坛活动"
+    },
+    {
+      "title": "关于2023级联考一等奖学金（三期）名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26531.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2024级入学奖学金名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26541.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025级入学奖学金名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26551.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025-2026学年2022-2024级游学奖学金名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26561.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年研究生ESG可持续发展商业人才奖学金拟获奖名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26571.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026届春季上海大学MBA中心首选毕业生（Outstanding Graduates）名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26581.htm",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "6月28日线上专场｜上大MBA360°职业洞察营报名进行时",
+      "url": "https://mp.weixin.qq.com/s/tuKYFTdINsIAv3U5CM69xA",
+      "date": "2026-05-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025-2026学年春季学期未注册学生限期注册的公告",
+      "url": "https://mba.shu.edu.cn/info/1024/26521.htm",
+      "date": "2026-05-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "从课堂走进企业:上海大学MBA在创新创业研究与教学研讨会上发出\"产教融合\"强音",
+      "url": "https://mp.weixin.qq.com/s/Od5icgybvJAB7df6HHO4Sg",
+      "date": "2026-05-22",
+      "column": "论坛活动"
+    },
+    {
+      "title": "报名 | 上海大学MBA2026 企业导师感恩会暨学生见面会",
+      "url": "https://mp.weixin.qq.com/s/rjvdrzsnn5jJeYe4umP5cA",
+      "date": "2026-05-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "《全球化战略与中国企业实践》课堂教学与企业实践",
+      "url": "https://mp.weixin.qq.com/s/8xnmgXNNcWHTYIEoGBjCzQ",
+      "date": "2026-05-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA羽毛球队勇夺立风杯银牌",
+      "url": "https://mp.weixin.qq.com/s/2a27gEQrD-Ye66-Neg2sgg",
+      "date": "2026-05-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "《国家战略与国有企业治理创新》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/THA1zBJ_Isk4Oc37Nq_Asw",
+      "date": "2026-05-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "战略领航，共赴新程 | 上海大学MBA中心2027级专业方向重磅发布！",
+      "url": "https://mp.weixin.qq.com/s/PWH20vG_dJZzb0hcNb0NuA",
+      "date": "2026-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "关于上海大学MBA教育管理中心2026级拟录取考生后续材料办理通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26451.htm",
+      "date": "2026-05-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "智能制造方向《创新生态与技术转移》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/VmyBKCmQOis4-o99cCYoVg",
+      "date": "2026-05-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心研究生团支部“五四”青年主题团日活动圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/jNsFadH3wYdOYUdAaSxC_Q",
+      "date": "2026-05-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学术实践系列推文（6）| 写好MBA论文，你选对研究方法了吗？",
+      "url": "https://mp.weixin.qq.com/s/ngON_TFF_S89sxGzV_8gWg",
+      "date": "2026-05-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "关于2026届毕业研究生进沪就业申请本市户籍材料递交及成绩综合排名评定工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26411.htm",
+      "date": "2026-05-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "数智金融方向《AI时代的公司估值》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/AP0a8dJ6GRcOn-8qYrb-rg",
+      "date": "2026-05-11",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA360°职业洞察营首批报名即将截止",
+      "url": "https://mp.weixin.qq.com/s/El8273cPyOm3QNtVZ_d_hA",
+      "date": "2026-05-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA中心举办专业方向及课程优化调整方案征询意见会",
+      "url": "https://mp.weixin.qq.com/s/CNvVOM9xDV3yqiDD_3jM0Q",
+      "date": "2026-05-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "关于2027届毕业生生源信息网上校对的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26341.htm",
+      "date": "2026-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "从课堂到书架|方向学术主任遴选书单助力深度学习（第三期GLMBA）",
+      "url": "https://mp.weixin.qq.com/s/Vmx-XxjjnkAHTibBJYHjXg",
+      "date": "2026-05-07",
+      "column": "论坛活动"
+    },
+    {
+      "title": "招生活动|上海大学MBA2027级“招生零距离”系列活动正式启动",
+      "url": "https://mp.weixin.qq.com/s/wEycHmsUv-rINoLUGXfkQg",
+      "date": "2026-05-07",
+      "column": "通知公告"
+    },
+    {
+      "title": "赤子之心·热血无畏丨沙15上海大学MBA战队荣耀出征！",
+      "url": "https://mp.weixin.qq.com/s/KJ0uO612htoKOKCuA1Ql1w",
+      "date": "2026-05-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "重磅发布|上海大学MBA中心2027级奖学金政策正式发布",
+      "url": "https://mp.weixin.qq.com/s/Od-PtmGmH2fuXOrIKFlcMQ",
+      "date": "2026-05-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "案例精粹｜来也科技：AI浪潮中的\"重生\"",
+      "url": "https://mp.weixin.qq.com/s/RLiaWUN9rTr1YsIjKSwunA",
+      "date": "2026-05-06",
+      "column": "论坛活动"
+    },
+    {
+      "title": "招募令|2026-2027上大MBA学联主席换届选举启动",
+      "url": "https://mp.weixin.qq.com/s/mKeenPQbXeqmuDNUaO4BdQ",
+      "date": "2026-05-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "从课堂到书架|方向学术主任遴选书单助力深度学习",
+      "url": "https://mp.weixin.qq.com/s/s3s0-p8j9ZiBk3jxAIVZFA",
+      "date": "2026-04-29",
+      "column": "论坛活动"
+    },
+    {
+      "title": "关于23PT毕业生办理云离校手续的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26271.htm",
+      "date": "2026-04-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "深化中欧研学合作 | 欧洲商学院上海研学之旅圆满举行",
+      "url": "https://mp.weixin.qq.com/s/611FQZUIMCo5fo9bxsFmhg",
+      "date": "2026-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "以洞察破局职场 | 上海大学MBA360°职业洞察营正式启动",
+      "url": "https://mp.weixin.qq.com/s/fCcAZu-S8bS69ZdSBCZSiw",
+      "date": "2026-04-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "一流企业方向《全球化竞争与合规风控体系》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/Lx3leccuvuSCVurtaRiUkw",
+      "date": "2026-04-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "课程回顾系列三|春芽破土，在时代浪潮中积蓄力量",
+      "url": "https://mp.weixin.qq.com/s/s-5ZzSLSifnxLpvhV99F1w",
+      "date": "2026-04-23",
+      "column": "论坛活动"
+    },
+    {
+      "title": "智能商业专业方向《商业分析与决策》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/h8gaHQydk2W7MgjKy0_WEg",
+      "date": "2026-04-22",
+      "column": "论坛活动"
+    },
+    {
+      "title": "2026中国研究生创新实践系列大赛上海大学校园宣讲会",
+      "url": "https://mp.weixin.qq.com/s/x9wIy_PJprUCaNiz_K-sXQ",
+      "date": "2026-04-22",
+      "column": "论坛活动"
+    },
+    {
+      "title": "赋能教师专业成长：上大MBA邀您参加两大高水平案例赛事",
+      "url": "https://mp.weixin.qq.com/s/zQElteEv-gIUldkOZmRa5g",
+      "date": "2026-04-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026届春季上海大学MBA中心首选毕业生（Outstanding Graduates）评选方案公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26191.htm",
+      "date": "2026-04-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "上大MBA学子闪耀首届“青梧杯”！斩获佳绩，展现国际风采",
+      "url": "https://mp.weixin.qq.com/s/vhI5B2gpL1Pyxu53s9TU1A",
+      "date": "2026-04-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA中心关于开展2026年ESG可持续发展商业人才奖学金申报工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26161.htm",
+      "date": "2026-04-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "智能制造专业方向《系统战略设计》课程教学与实践",
+      "url": "https://mp.weixin.qq.com/s/kd31QlSG7kcvI6kJ8UZCIA?token=1412030538&lang=zh_CN",
+      "date": "2026-04-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA中心参与QS国际学生招生工作坊",
+      "url": "https://mp.weixin.qq.com/s/VDnfTItyIpwnm53pmND_zw",
+      "date": "2026-04-16",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学术实践系列推文|避开开题误区，夯实MBA论文根基",
+      "url": "https://mp.weixin.qq.com/s/kuO1xpoKwUe9qFTLsyIu2w",
+      "date": "2026-04-16",
+      "column": "论坛活动"
+    },
+    {
+      "title": "课程回顾系列系列二|春芽破土，在时代浪潮中积蓄力量",
+      "url": "https://mp.weixin.qq.com/s/HWMMfFJTbxwo38bSraT5bg",
+      "date": "2026-04-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "关于上海大学2027年毕业研究生图像信息采集 (毕业照片拍摄)工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26121.htm",
+      "date": "2026-04-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "开创新局 逐梦赛场 | 研创赛校园宣讲",
+      "url": "https://mp.weixin.qq.com/s/lnxc81niYe2mRkt1YOJM3Q",
+      "date": "2026-04-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "数智文创专业方向《艺术与文化创新》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/h43-aGOvyI4mZcTBt6S-mA",
+      "date": "2026-04-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "Global商业学习之旅|2026英国BST圆满收官",
+      "url": "https://mp.weixin.qq.com/s/xnDweaNdhBlDX76DXapOow",
+      "date": "2026-04-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "科创企业专业方向《团队治理与激励》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/boQ8Gx3de75qrJzLrH-UKw",
+      "date": "2026-04-10",
+      "column": "论坛活动"
+    },
+    {
+      "title": "从课堂到书架 | 方向学术主任遴选书单助力深度学习",
+      "url": "https://mp.weixin.qq.com/s/Go-pW4cM0F5hp3RfPqCqUQ",
+      "date": "2026-04-09",
+      "column": "论坛活动"
+    },
+    {
+      "title": "2026暑假联合国实地交流项目·人工智能（日内瓦-维也纳）招募通知",
+      "url": "https://mba.shu.edu.cn/cslm/tzgg/2026暑假联合国实地交流项目·人工智能（日内瓦-维也纳）招募通知",
+      "date": "2026-04-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "专精特新专业方向《数字化转型与创新驱动发展》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/DZzkISTRvX5sggYADOlN8A",
+      "date": "2026-04-07",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心、柬埔寨金边皇家大学和柬埔寨证券公司签署合作备忘录",
+      "url": "https://mp.weixin.qq.com/s/LlLWL6TFBqJ6kD_MFroVJg",
+      "date": "2026-04-01",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2026年上海大学MBA中心工商管理硕士(MBA)调剂工作办法",
+      "url": "https://mba.shu.edu.cn/info/1024/25991.htm",
+      "date": "2026-03-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（3月31日-4月2日）",
+      "url": "https://mp.weixin.qq.com/s/lEs-0tGRW02wtV7aNy2WuA",
+      "date": "2026-03-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学MBA中心2026届研究生优秀毕业生推荐名单的公示",
+      "url": "https://mba.shu.edu.cn/info/1024/25961.htm",
+      "date": "2026-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生活动 | 上海大学MBA招生政策深度解析—调剂专场",
+      "url": "https://mp.weixin.qq.com/s/IabAIK524chdfe-VDTBdBw",
+      "date": "2026-03-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "重要通知 | 2026年上海大学MBA调剂意向通道已开启",
+      "url": "https://mp.weixin.qq.com/s/Pb8wVSfrsBZed2UVJHnyyA",
+      "date": "2026-03-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "【国际组织】2026年国家留学基金委与有关国际组织实习生合作项目遴选工作启动",
+      "url": "https://mp.weixin.qq.com/s/lSvzfczb7wVolN8pyi6LDg",
+      "date": "2026-03-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "课程回顾系列一 | 春芽破土，在时代浪潮中积蓄力量",
+      "url": "https://mp.weixin.qq.com/s/wfLK0BUhUlRYhiJCiBt67w",
+      "date": "2026-03-27",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心卓越教学贡献奖颁奖暨实践教授聘任活动圆满举行",
+      "url": "https://mp.weixin.qq.com/s/l6lwlGERR0n4u-htFYg9GA",
+      "date": "2026-03-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "蝉联殊荣！上海大学MBA中心连续两年获评国际化工作先进",
+      "url": "https://mp.weixin.qq.com/s/mvU3_qjdN23-qwUYa_zrbQ",
+      "date": "2026-03-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "Shanghai University MBA Frontier Lecture: Globalization Strategies of Chinese Enterprises in a Regionalizing World",
+      "url": "https://mp.weixin.qq.com/s/hyNGOsN6Ta-8b82DB2H2Bg",
+      "date": "2026-03-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "企业导师计划|优秀案例分享-河南浩丰投资有限公司董事长邵祥民",
+      "url": "https://mp.weixin.qq.com/s/KKu7DJftll9PIbsjIslIYQ",
+      "date": "2026-03-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "海外学习|2026年度海外交换宣讲会顺利进行",
+      "url": "https://mp.weixin.qq.com/s/_YHnKG6q_E1z6jAKDrXVCQ",
+      "date": "2026-03-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "MBA中心研究生团支部召开2025年度组织生活会暨团员教育评议大会",
+      "url": "https://mp.weixin.qq.com/s/qD7YqBZthiovTXGar14S3Q",
+      "date": "2026-03-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "MBA中心研究生党支部召开2025年度组织生活会暨民主评议党员大会",
+      "url": "https://mp.weixin.qq.com/s/OC_RKb_Vck29zUBmpRTtRw",
+      "date": "2026-03-16",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际合作|比利时安特卫普管理学院到访上海大学MBA",
+      "url": "https://mp.weixin.qq.com/s/1j6y0ps6VAwTCM2fVKJTxg",
+      "date": "2026-03-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际合作|法国勃艮第高等商学院来访上大MBA",
+      "url": "https://mp.weixin.qq.com/s/DYaTjEACu_FOLlKh10hixg",
+      "date": "2026-03-11",
+      "column": "论坛活动"
+    },
+    {
+      "title": "马岁荣华|上海大学MBA福泽新程",
+      "url": "https://mp.weixin.qq.com/s/gjR_63ia5A_WJkAmLNGPUw",
+      "date": "2026-02-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师者嘉言励前行|上大MBA教师给予学生的殷切寄语（第三期）",
+      "url": "https://mp.weixin.qq.com/s/hk9nbyK8b9FiRjMtuKno8w",
+      "date": "2026-02-02",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA丙午2026新年晚会，满堂璀璨华美落幕",
+      "url": "https://mp.weixin.qq.com/s/T46dzsHXGWrzDpynuiAx4A",
+      "date": "2026-01-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学管理学院MBA中心携手义乌双童设立奖学金",
+      "url": "https://mp.weixin.qq.com/s/MT3qMMHOZEsz0V7KVIZsLw",
+      "date": "2026-01-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "战略领航，共赴新程｜上海大学MBA中心2025年度回顾",
+      "url": "https://mp.weixin.qq.com/s/W52l74pe6sdjf3aTG2OlAQ",
+      "date": "2026-01-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "凝心聚力，共启新篇|上海大学MBA中心召开2026年首次工作交流会",
+      "url": "https://mp.weixin.qq.com/s/2--gq_utq7yfOOyDsNszVw",
+      "date": "2026-01-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜报|上海大学MBA中心荣获2025年度校就业工作三项殊荣",
+      "url": "https://mp.weixin.qq.com/s/Q1zuYtguJGF-X_iJKMddOA",
+      "date": "2025-12-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "赴实上大·亮剑阳光丨第22届阳光杯上海大学MBA团队胜利归来",
+      "url": "https://mp.weixin.qq.com/s/6nSXBDrulzkC5goWRcdXRA",
+      "date": "2025-12-03",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心校友理事会领导班子竞选收官答辩将于12月6日隆重举行",
+      "url": "https://mp.weixin.qq.com/s/8MIn0rD-eE2DmHnxXByK6A",
+      "date": "2025-12-02",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA项目双喜临门，荣膺2025年度中国商学院两大殊荣",
+      "url": "https://mp.weixin.qq.com/s/uesZaiBsHJXfzJ2cA0rdZQ",
+      "date": "2025-12-01",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA深化“一带一路”教育合作 共绘中哈协同发展新蓝图",
+      "url": "https://mp.weixin.qq.com/s/ku8zB1B1gs2b2it5LmwKvQ",
+      "date": "2025-11-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA “AI领导力提升训练营”第二期课程圆满收官",
+      "url": "https://mp.weixin.qq.com/s/D1u8x_wmFcze4zNaxXdZoQ",
+      "date": "2025-11-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学术实践 | 从财务核算到医药行业高派现动因的深度洞察者",
+      "url": "https://mp.weixin.qq.com/s/aMhcP4_hhGsJcSlfm-DAlw",
+      "date": "2025-11-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA首次参加QS国际招生展，深化东南亚教育合作",
+      "url": "https://mp.weixin.qq.com/s/wD25emXFlbqr_yJlE_PP8g",
+      "date": "2025-11-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA在第三届上海市高校MBA研学写作大赛中斩获特等奖！",
+      "url": "https://mp.weixin.qq.com/s/wU81ceSJwXKP5m2TMwLsNA",
+      "date": "2025-11-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "第五届战略与创业微观基础学术会议成功举办",
+      "url": "https://mp.weixin.qq.com/s/OBtjpgckPEz3hkUgKhQQ4g",
+      "date": "2025-11-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA荣膺“2025年度AI深度融合专硕培养最佳特色项目",
+      "url": "https://mp.weixin.qq.com/s/Q1JHMJ8UbA5TJKrCe_Al8Q",
+      "date": "2025-11-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "校友理事会第一轮线上投票圆满落幕，第二轮竞选即将启动",
+      "url": "https://mp.weixin.qq.com/s/L9i4jTGaAf4DxzYdDTrL9A",
+      "date": "2025-11-05",
+      "column": "论坛活动"
+    },
+    {
+      "title": "文汇报|于晓宇教授：打造企业基础研究的“上海路径”",
+      "url": "https://mp.weixin.qq.com/s/hbA_gQo8I0m9l0EeTkw7ng?poc_token=HLhHCGmjbW84I6TPoQXzHZ00UKf1djrdG0wHJ0pq",
+      "date": "2025-11-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "学术实践 | 汽车零部件质量成本的 “平衡者”，在精益管控中解锁企业盈利新空间",
+      "url": "https://mp.weixin.qq.com/s/iuTp67CLhA319gmm9R1PuA",
+      "date": "2025-11-03",
+      "column": "论坛活动"
+    },
+    {
+      "title": "MBA中心研究生党支部圆满完成选举工作",
+      "url": "https://mp.weixin.qq.com/s/GpS7BYX4UXZ8rltRbjRPpQ",
+      "date": "2025-10-31",
+      "column": "论坛活动"
+    },
+    {
+      "title": "法国勃艮第高等商学院第二学位说明会成功举办",
+      "url": "https://mp.weixin.qq.com/s/D5goJEtrDySEipAxmwxe4A",
+      "date": "2025-10-30",
+      "column": "论坛活动"
+    },
+    {
+      "title": "案例精粹|小杭坑可持续商业模式创新的实践之路",
+      "url": "https://mp.weixin.qq.com/s/Z9UwR2ktUfpAXAoBhB5HKw",
+      "date": "2025-10-30",
+      "column": "论坛活动"
+    },
+    {
+      "title": "深学细悟聚共识，笃行实干担使命——MBA中心教工党支部专题学习二十届四中全会精神",
+      "url": "https://mp.weixin.qq.com/s/LuqmQ0nE4FpZu35JJ5bIkw",
+      "date": "2025-10-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "科技赋能全球贸易 实践点亮商学之路——上海大学MBA学子参访阿里巴巴国际部",
+      "url": "https://mp.weixin.qq.com/s/eLShDPGxnOs9nRq1loE4cA",
+      "date": "2025-10-29",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学术实践|从法律人到折扣电商商业模式探路者的跨界之旅",
+      "url": "https://mp.weixin.qq.com/s/uSmYwLI2C762neIVlWY0EQ",
+      "date": "2025-10-27",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA跨国企业专业方向开放日活动回顾",
+      "url": "https://mp.weixin.qq.com/s/Tz9qZcTxFvt4aAUJ79yYsw",
+      "date": "2025-10-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "创业正当时！| “宝山杯”创新创业大赛宣讲会走进上海大学MBA",
+      "url": "https://mp.weixin.qq.com/s/iq_w_fOgZIAc8ac__0Tffg",
+      "date": "2025-10-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "专家解读上海经济三季报 | 于晓宇：5.5%背后：科技创新引擎下的“有准备之仗”",
+      "url": "https://mp.weixin.qq.com/s/t5VrYx1aQKa3D5LaNOifBA",
+      "date": "2025-10-23",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA “AI领导力提升训练营”垂直应用模块顺利举行",
+      "url": "https://mp.weixin.qq.com/s/iW6-sNSXKU4P9-gjHgLbQA",
+      "date": "2025-10-22",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心校友理事会领导班子选举启动-第一轮线上投票即将开始",
+      "url": "https://mp.weixin.qq.com/s/QcFABpgXhsay0BiONfau9w",
+      "date": "2025-10-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "携手推动产教融合与科创协同发展——上海国投访问上海大学MBA中心",
+      "url": "https://mp.weixin.qq.com/s/ME-vkHH1WXnHA0rz6reZFw",
+      "date": "2025-10-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "【产教融合】携手共探“数智绿色卓越创新人才”培养新路径-上海大学MBA中心赴上海质量管理科学研究院调研交流",
+      "url": "https://mp.weixin.qq.com/s/DPoICGWxrZvtGcrLaTh45g",
+      "date": "2025-10-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2025软科中国最好学科排名发布，上海大学工商管理学科进步显著，稳居全国前20%",
+      "url": "https://mp.weixin.qq.com/s/oKOb9Zdjqp42tPnfkySGjA",
+      "date": "2025-10-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心荣登Bloomberg亚太第5位，QS全球排名持续领先",
+      "url": "https://mp.weixin.qq.com/s/F0lFb4Xdhm6lzjZ9y6R4Xg",
+      "date": "2025-10-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "立足长三角，链接全球|上海大学MBA2026级招生简章正式发布！",
+      "url": "https://mp.weixin.qq.com/s/xlr2YtEIU6lZaF17D9EOAw",
+      "date": "2025-10-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "从‘小杯子’到行业标杆：上海大学MBA对话“隐形冠军”",
+      "url": "https://mp.weixin.qq.com/s/_h_y3gkizvFDqYd_cIp4jg",
+      "date": "2025-09-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA中心举办2025级Global Local项目 Orientation活动，热烈欢迎国际新生加入",
+      "url": "https://mp.weixin.qq.com/s/kgP4N6OoIqL3hLcesfLCFQ",
+      "date": "2025-09-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA第二期“AI领导力提升训练营”顺利开展",
+      "url": "https://mp.weixin.qq.com/s/5K6LoOQ2OWkJSVW_jAvh_Q",
+      "date": "2025-09-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "“罗客杯”第十一届全国案例精英赛华东一区晋级赛在上海大学圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/iAlsvdVqJ2n-xKj0h61VpA",
+      "date": "2025-09-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2026年QS全球全日制MBA排名发布，上大MBA全日制项目连续七年上榜",
+      "url": "https://mp.weixin.qq.com/s/spYCN1sXVVX28UEbV3l3SQ",
+      "date": "2025-09-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新生季 | 上海大学MBA教育管理中心2025级新生报到工作有序开展",
+      "url": "https://mp.weixin.qq.com/s/4j4xVu_vY-rNyx4R61y39w",
+      "date": "2025-09-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "MBA中心主任于晓宇教授出席宝山区2025年“质量月”活动启动仪式",
+      "url": "https://mp.weixin.qq.com/s/oDKynEU95k2TnH_lPiLdQQ",
+      "date": "2025-09-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学3篇原创案例入选第十六届“全国百篇优秀管理案例”",
+      "url": "https://mp.weixin.qq.com/s/0zrdrzKZ5sfhDhWcP6e3AQ",
+      "date": "2025-09-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "铭记抗战胜利80周年|上海大学MBA中心师生观看阅兵并热议",
+      "url": "https://mp.weixin.qq.com/s/AaWVADPng2p7HkKRZ5rZ_A",
+      "date": "2025-09-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA参访汇付天下，深度对话数智金融活动火热报名中",
+      "url": "https://mp.weixin.qq.com/s/CKQ9Le050r0hCJ8X38lxGg",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA数智文创方向参访记--瞬息星舰全感沉浸XR",
+      "url": "https://mp.weixin.qq.com/s/CxeHvghO5N5qheZYAjKMZg",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心2025届就业优秀典型系列报道第三期",
+      "url": "https://mp.weixin.qq.com/s/Gc18_IpCZuAZvnvh7Mv9Nw",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "师者嘉言励前行|上大MBA教师给予学生的殷切寄语（二）",
+      "url": "https://mp.weixin.qq.com/s/QRS-hk--9dc31PC__U90zg",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "智启未来·共塑新程|2025级上大MBA新生导向拉开序幕",
+      "url": "https://mp.weixin.qq.com/s/UfTFoNDks7EtadITpVIYfQ",
+      "date": "2025-08-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA师资深度参与WAIC 2025，共论AI领导力与产业落地新图景之二",
+      "url": "https://mp.weixin.qq.com/s/c8WED29PuACM9fpgAEstOw",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "参访汇付天下，深度对话数智金融—AI时代的金融科技与科技金融服务创新",
+      "url": "https://mp.weixin.qq.com/s/cZBT2g_8C8l0mE7hY_s90A",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "师者嘉言励前行|上大MBA教师给予学生的殷切寄语（一）",
+      "url": "https://mp.weixin.qq.com/s/x1MUuFVsM6q5s5k-KKDMVQ",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA走进光明律所：揭秘企业出海与董监高责任新规",
+      "url": "https://mp.weixin.qq.com/s/zgrI5I4fEUPa3A0F_ROdGg",
+      "date": "2025-08-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA师资深度参与WAIC 2025，共论AI领导力与产业落地新图景之一",
+      "url": "https://mp.weixin.qq.com/s/GYgL186Im4uniEWX5I2Jdw",
+      "date": "2025-08-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA探访大国重器，启迪财务管理思维",
+      "url": "https://mp.weixin.qq.com/s/cXdfvwdKkKdvsXOfBPFRjQ",
+      "date": "2025-08-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "从证券博物馆到东方证券|上大 MBA 数智金融方向学习之旅",
+      "url": "https://mp.weixin.qq.com/s/0--RF8wiTnZLOW7WMCbEtw",
+      "date": "2025-08-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "AI 赋能办公新潮流，开启智能办公新纪元",
+      "url": "https://mp.weixin.qq.com/s/6IsRQwKJja5eDOrP9UPrMA",
+      "date": "2025-08-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心与南加州大学马歇尔商学院联合举办首期“人工智能与商业创新”项目毕业典礼顺利举行 图片 图片",
+      "url": "https://mp.weixin.qq.com/s/NTwJQzw_zVu2QVUubZO8dw",
+      "date": "2025-08-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心2025年创业优秀典型系列报道（第二期）",
+      "url": "https://mp.weixin.qq.com/s/bvLgZEzPShltpjtApDXKbA",
+      "date": "2025-08-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "走进宽创国际：解码文化科技巨头的全球战略与实践",
+      "url": "https://mp.weixin.qq.com/s/xsRIbj9pS6tcKKCnIxAHig",
+      "date": "2025-08-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心与南加大马歇尔商学院合办首期“人工智能与商业创新”项目隆重开幕",
+      "url": "https://mp.weixin.qq.com/s/Nbgygs6meuX269cYZhStdg",
+      "date": "2025-08-11",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHUMBA征战第一届长三角商学院乒乓球赛回忆录",
+      "url": "https://mp.weixin.qq.com/s/DZxG5BGDAd9HcEBQNOjXdQ",
+      "date": "2025-08-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "探秘标杆企业经营智慧：上海大学MBA组织胖东来&蜜雪冰城企业参访",
+      "url": "https://mp.weixin.qq.com/s/epB40vGkngNsofgh5UqroA",
+      "date": "2025-08-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心2025年创业优秀典型系列报道（第一期）",
+      "url": "https://mp.weixin.qq.com/s/gIMzPdcVDC-1fIlgha3XRg",
+      "date": "2025-08-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "研途有光，追光前行｜缅怀钱伟长老校长，共同点亮科研之路",
+      "url": "https://mp.weixin.qq.com/s/hU22kMnj4Ff0OualYZhjsw",
+      "date": "2025-08-05",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心2025届就业优秀典型系列报道（第一期）",
+      "url": "https://mp.weixin.qq.com/s/nhYYlQEQ0KJdEg7KdLH7Bg",
+      "date": "2025-08-05",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA2025届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://mp.weixin.qq.com/s/0tWTsprUmRwOzNGlV68GWg",
+      "date": "2025-07-02",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "最新QS排名揭晓|上海大学排名全球465名，内地28名！",
+      "url": "https://mp.weixin.qq.com/s/aRkywutK7fc0Q5gix_eCxA",
+      "date": "2025-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学最新U.S.News排名跃升至全球前300",
+      "url": "https://mp.weixin.qq.com/s/fUW6mlVdGFLx9IgjbyfDng",
+      "date": "2025-06-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "手慢无！上大MBA “AI领导力提升训练营”锁位！",
+      "url": "https://mp.weixin.qq.com/s/2detQ4qWwaHDG6YqY9L08w",
+      "date": "2025-06-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心成功举办 2025 企业导师感恩会暨学生见面会",
+      "url": "https://mp.weixin.qq.com/s/O1q4FlxcX1C6R-5oQDsZlw",
+      "date": "2025-06-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "国际化工作先进个人|专访上海大学MBA中心主任于晓宇",
+      "url": "https://mp.weixin.qq.com/s/I8giAn6PiKfBqYrQ9b1OQQ",
+      "date": "2025-05-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心参加2025年AMBA&BGA全球年会并参加授证仪式",
+      "url": "https://mp.weixin.qq.com/s/uOBEi63FtODgvPNsUMDb5g",
+      "date": "2025-05-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "MBA中心主任于晓宇教授获颁“2024年度上海大学国际化工作先进个人”称号",
+      "url": "https://mp.weixin.qq.com/s/s3CcGI_Z8hXanqgXwOqjVw",
+      "date": "2025-05-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "“全国百篇优秀管理案例”最佳组织奖+1，上海大学案例工作再上新台阶",
+      "url": "https://mp.weixin.qq.com/s/3yxlPlrdCrWlc7_wZrrOhQ",
+      "date": "2025-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心2025年一流研究生教育建设项目立项成果丰硕，推进培养体系创新",
+      "url": "https://mp.weixin.qq.com/s/NY_FApKwXXtt-P01zaPZZQ",
+      "date": "2025-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2025 读书日（2）| 以书为阶，探索方向课程新未来",
+      "url": "https://mp.weixin.qq.com/s/CUzOL67s4G040_b6dqWwCQ",
+      "date": "2025-04-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "企业参访|特斯拉GIGA博物馆：解锁科创新视野",
+      "url": "https://mp.weixin.qq.com/s/6Y0gxImbFoZjc66gUfqY-Q",
+      "date": "2025-04-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA2025读书日 | 以阅读为桥，通向数智商业未来",
+      "url": "https://mp.weixin.qq.com/s/WpU0_0tVu36TJrx1D1JIqQ",
+      "date": "2025-04-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际视野赋能上大MBA，与国际商科专家携手推进师资发展",
+      "url": "https://mp.weixin.qq.com/s/AX4hr3G8UYSPLb4JJlIhRg",
+      "date": "2025-04-22",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际智慧碰撞，共绘 MBA 教育新蓝图",
+      "url": "https://mp.weixin.qq.com/s/BDb-IHcBuszEiH7mpnseaA",
+      "date": "2025-04-21",
+      "column": "论坛活动"
+    },
+    {
+      "title": "科创引领产教新生态——上大MBA科创主题开放日完美收官",
+      "url": "https://mp.weixin.qq.com/s/eRYDsmT--ZiPSzGfXQTgew",
+      "date": "2025-04-21",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心2025企业导师计划匹配完成",
+      "url": "https://mp.weixin.qq.com/s/smI71veCz4TxJhfkY22SyA",
+      "date": "2025-04-18",
+      "column": "论坛活动"
+    },
+    {
+      "title": "讲座沙龙 | 文博赋能未来",
+      "url": "https://mp.weixin.qq.com/s/zl52oPzzoZUhnPBajVk2MQ",
+      "date": "2025-04-18",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心受邀参与2025QS中国峰会深化国际合作",
+      "url": "https://mp.weixin.qq.com/s/ZWzp7pGoWxQVJRa-T53zZg",
+      "date": "2025-04-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "校友活动|上大MBA河南校友会第一期活动圆满举办",
+      "url": "https://mp.weixin.qq.com/s/dv3olHHiFBrUEIJGrcaaFA",
+      "date": "2025-04-14",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际合作 |瑞士西部应用科学与艺术大学（纽沙泰尔管理学院HEG Arc）来访上海大学",
+      "url": "https://mp.weixin.qq.com/s/_u-bKXoCn1zKvlTOUskLuA",
+      "date": "2025-03-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "讲座回顾 | AI引领技术革新，谈谈聊天机器人、ChatGPT和DeepSeek",
+      "url": "https://mp.weixin.qq.com/s/j5gqXuf3shQyyqPGlsfcyA",
+      "date": "2025-03-18",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学荣获中国产学研合作领域重磅奖项",
+      "url": "https://mp.weixin.qq.com/s/mNyJVjXcuuW0gX-CHMNcFw",
+      "date": "2025-03-18",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际合作|加拿大布鲁克大学Goodman商学院来访上海大学MBA中心",
+      "url": "https://mp.weixin.qq.com/s/sdbsAuZAiijabbuXziAtIA",
+      "date": "2025-03-18",
+      "column": "论坛活动"
+    },
+    {
+      "title": "MBA中心年度建设报告-2024",
+      "url": "https://mba.shu.edu.cn/info/1025/15954.htm",
+      "date": "2025-03-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心与上海月盛经济开发区签署产教融合合作备忘录",
+      "url": "https://mp.weixin.qq.com/s/lxinhDeccdPbVKQmGWQlwQ",
+      "date": "2025-03-14",
+      "column": "论坛活动"
+    },
+    {
+      "title": "预告|春日序曲，智启未来—SHUMBA六大方向课程盛启",
+      "url": "https://mp.weixin.qq.com/s/a5Pe3UZWxbuTh7VAv23-Bw",
+      "date": "2025-03-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "海外学习|2025年度海外交换与实习项目说明会顺利进行",
+      "url": "https://mp.weixin.qq.com/s/MYmIEGo5NU_Abkl7SyzXHw",
+      "date": "2025-03-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心与南加州大学马歇尔商学院签署战略合作协议",
+      "url": "https://mp.weixin.qq.com/s/Q8SMUOPf1pk-6lY_sJxBqA",
+      "date": "2025-03-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "讲座回顾 | 解锁创新生态与正念领导力，开启智慧新篇",
+      "url": "https://mp.weixin.qq.com/s/_eqDyBEoOCSBkBO0SSnx5Q",
+      "date": "2025-03-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "智启未来——上大MBA2025年首场招生开放日顺利举行",
+      "url": "https://mp.weixin.qq.com/s/zgwSC-B0aCOok2T-ZiKCRg",
+      "date": "2025-03-10",
+      "column": "论坛活动"
+    },
+    {
+      "title": "走进世界|希腊Alba商学院交换感悟",
+      "url": "https://mp.weixin.qq.com/s/9SiNZwQK1gUX5-KiIbdY7g",
+      "date": "2025-03-07",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学杨绪勇/张建华教授团队在Nature发表最新成果！",
+      "url": "https://mp.weixin.qq.com/s/U2yKvADINI3eqJeynT2_cQ",
+      "date": "2025-03-06",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学医学院医大医院揭牌，两大研究所同步成立",
+      "url": "https://mp.weixin.qq.com/s/wfF54keMUnKHGYgZlLntDg",
+      "date": "2025-03-03",
+      "column": "论坛活动"
+    },
+    {
+      "title": "喜报|MBA中心主任于晓宇教授获“2024年度国际化工作先进个人”",
+      "url": "https://mp.weixin.qq.com/s/NhPLf30ptAiCSFliCKflCw",
+      "date": "2025-02-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生零距离系列活动 | 上大MBA邀您共探AI×制造新纪元",
+      "url": "https://mp.weixin.qq.com/s/ZB6aCQyCz8-2zhgtdK4vxw",
+      "date": "2025-02-27",
+      "column": "论坛活动"
+    },
+    {
+      "title": "海外学习|2025年度夏季学期短期海外项目开放申请",
+      "url": "https://mp.weixin.qq.com/s/H-KUyLinBgOM1Qk8FA3_ag",
+      "date": "2025-02-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "探秘央视春晚穿花棉袄机器人的“前世今生”——上大MBA企业资源宇树科技参访回顾",
+      "url": "https://mp.weixin.qq.com/s/GTC2y0h0Gso-ycg61nPBng",
+      "date": "2025-02-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学管理学院会计系李远勤教授当选中国总会计师协会首批智能财务专业委员会委员",
+      "url": "https://mp.weixin.qq.com/s/J9hysBQbUdRqEprslQSLog",
+      "date": "2025-02-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心—2025“梦想引路人”宣传大使招募启事",
+      "url": "https://mp.weixin.qq.com/s/NbVM0JqkwKI_rCGXtWHMUQ",
+      "date": "2025-02-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "姚晨微博发文官宣喜讯：上海大学青年教师获大奖，系中国内地首个！",
+      "url": "https://mp.weixin.qq.com/s/3e6nu5z4HbHiUC2l0K4Dmw",
+      "date": "2025-02-24",
+      "column": "论坛活动"
+    },
+    {
+      "title": "国际交流|搭起中非交流桥梁，推动文化商业双融合",
+      "url": "https://mp.weixin.qq.com/s/4GhQfEJsE3sQ7s5FYZFQXQ",
+      "date": "2025-02-21",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海企业创新与高质量发展研究中心（上海市软科学研究基地）顺利完成第一轮建设周期专家现场评估",
+      "url": "https://mp.weixin.qq.com/s/1f4SOdPakYbPZohvfoIyEg?token=2053819767&lang=zh_CN",
+      "date": "2025-02-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜报|灵蛇献瑞-上海大学MBA中心再获AMBA五年最高期认证",
+      "url": "https://mp.weixin.qq.com/s/4y9OWbYc9-ZER5WkDpvgrg?token=2053819767&lang=zh_CN",
+      "date": "2025-02-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA香港商业学习之旅：专业重塑与国际视野开拓",
+      "url": "https://mp.weixin.qq.com/s/btqKEMiSXhTEHD0HPVUs3w?token=2053819767&lang=zh_CN",
+      "date": "2025-02-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA2025新春寄语——MBA中心主任于晓宇",
+      "url": "https://mp.weixin.qq.com/s/wffrZnHS3wrwVx4hO2zxuQ?token=2053819767&lang=zh_CN",
+      "date": "2025-02-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA新春祝福暖心来袭——上海大学党委副书记段勇",
+      "url": "https://mp.weixin.qq.com/s/x9gueWG-2LUrLY7CPO6HLQ?token=2053819767&lang=zh_CN",
+      "date": "2025-02-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾|人工智能，企业变革的新驱动力量",
+      "url": "https://mp.weixin.qq.com/s/RFITqSDKImlHsD56yiYLcQ?token=109734038&lang=zh_CN",
+      "date": "2025-01-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "企业导师计划|优秀案例分享-控创信息董事长邓朝义",
+      "url": "https://mp.weixin.qq.com/s/Q0Be-IFXcfE05uOVXFSk8A?token=1454625453&lang=zh_CN",
+      "date": "2025-01-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "讲座回顾|B2B市场营销创新与数字化转型",
+      "url": "https://mp.weixin.qq.com/s/NJ2J8kqCqQmvxwfBU6dTpA?token=1454625453&lang=zh_CN",
+      "date": "2025-01-16",
+      "column": "论坛活动"
+    },
+    {
+      "title": "讲座回顾|数字领航：探索数字化转型新路径",
+      "url": "https://mp.weixin.qq.com/s/QbH_8Pa17CJe4sOLsm9bqQ?token=1454625453&lang=zh_CN",
+      "date": "2025-01-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "感谢有你，共赴卓越之旅 —— 上海大学MBA新年晚会视频回顾",
+      "url": "https://mp.weixin.qq.com/s/d_kU-LUG6VqCsKlXtD812g?token=1454625453&lang=zh_CN",
+      "date": "2025-01-15",
+      "column": "论坛活动"
+    },
+    {
+      "title": "Glocal商业学习之旅|香港站即将启航",
+      "url": "https://mp.weixin.qq.com/s/mC5NqMj5lLbg1Yfly_FmcQ?token=1454625453&lang=zh_CN",
+      "date": "2025-01-14",
+      "column": "论坛活动"
+    },
+    {
+      "title": "职业发展讲座|数智化时代下，如何做好职业规划《智未来，巧规划》",
+      "url": "https://mp.weixin.qq.com/s/B17sXOdTKuyTqMq8NTIDQA?token=1310562601&lang=zh_CN",
+      "date": "2025-01-13",
+      "column": "论坛活动"
+    },
+    {
+      "title": "移动课堂|上海壹徕科技股份有限公司参访记",
+      "url": "https://mp.weixin.qq.com/s/24X0Mf6ezzGujiVj6Mk-0w?token=1310562601&lang=zh_CN",
+      "date": "2025-01-10",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA乙巳2025新年晚会，星光熠熠荟萃一堂",
+      "url": "https://mp.weixin.qq.com/s/Xa_hvTSZVC5keXvMM7pIwA?token=1310562601&lang=zh_CN",
+      "date": "2025-01-10",
+      "column": "论坛活动"
+    },
+    {
+      "title": "2024上海大学MBA中心年终回顾—向新而行，创见未来",
+      "url": "https://mp.weixin.qq.com/s/3Xjya2B3ZDE4cXrt_RgZsQ?token=1610864125&lang=zh_CN",
+      "date": "2024-12-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学2025年新年贺词",
+      "url": "https://mp.weixin.qq.com/s/BUkE8A79LrZoIKIPGqVOpA?token=1610864125&lang=zh_CN",
+      "date": "2024-12-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心召开部门年度考核会议",
+      "url": "https://mp.weixin.qq.com/s/pqbyZYzyT5jRnSqSrc7YjQ?token=391345819&lang=zh_CN",
+      "date": "2024-12-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "第四届战略与创业微观基础学术会议成功举办",
+      "url": "https://mp.weixin.qq.com/s/6UrfShhVsfAo9Ao5cMXzwQ?token=78915812&lang=zh_CN",
+      "date": "2024-12-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学工商管理硕士（MBA）学位授权点周期性合格评估专家评估会议圆满举行",
+      "url": "https://mp.weixin.qq.com/s/ZUSGE5uEuK1wbrCprYuSBA?token=1194323692&lang=zh_CN",
+      "date": "2024-12-02",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "数智时代：教育与企业的机遇与挑战——第四届“中国与芬兰：企业与教育合作”论坛举办",
+      "url": "https://mp.weixin.qq.com/s/ugTcBYZVtvYwJMF7G56ZhA?token=1194323692&lang=zh_CN",
+      "date": "2024-12-02",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心完成国际工商管理硕士协会（AMBA）再认证现场访视",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660731034&idx=1&sn=dbede0bcb0571a5f181d88772515874d&chksm=bded07f38a9a8ee53b64fd4bd84e38256a0ffeb994f07e8a5bb97460356ddb390408ffa62635&token=176829097&lang=zh_CN#rd",
+      "date": "2024-11-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "国际合作 | 美国圣路易斯大学校长团访问上海大学并与MBA中心签署合作备忘录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660730664&idx=1&sn=076b5a65725a113e0cf50d7a7c6c7562&chksm=bded08418a9a8157d2ed684a2bfb2e44e2a00bdb652153730f92dc17d1c5cfa9c62b7396cc2a&token=659808047&lang=zh_CN#rd",
+      "date": "2024-11-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "国内排名5-10丨上海大学工商管理学科“软科世界一流学科排名”取得新突破",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660730867&idx=1&sn=a3165032846d6ca10433600fcd4478d6&chksm=bded089a8a9a818cc8e2a8bbbff83934242e21c0ef1959f2c06aab6273ef2aaa940596cfe2d6&token=659808047&lang=zh_CN#rd",
+      "date": "2024-11-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "国际合作|上海大学MBA中心与泰国正大管理学院签署谅解备忘录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660730498&idx=1&sn=add85df8d9efd5842b9dde3a012f5ef0&chksm=bded09eb8a9a80fd62be8fe8d94d6e3f248ce594d8d8fbcee8e9502219d2e273f4086724ace6&token=53157357&lang=zh_CN#rd",
+      "date": "2024-11-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "中国研究生企创大赛|SHUMBA群策队荣获校内选拔一等奖，晋级国赛",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660730333&idx=1&sn=d589ff9817d81e8c9456b7ce1712a04e&chksm=bded0ab48a9a83a2df843877a37fae6fec146effdd98d865d103cdc0e3486809fa5bb8d69658&token=1133715203&lang=zh_CN#rd",
+      "date": "2024-11-01",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "薛奕曦副教授、于晓宇教授等开发案例入选毅伟案例库",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660729723&idx=1&sn=37e506764da0a815027aaef90f970e38&chksm=bded0c128a9a8504aa06fab3cd4dad42490de22c2026a63bf7178b1978c824c53bbf02c41995&token=1968578221&lang=zh_CN#rd",
+      "date": "2024-10-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "豫见上大，拥抱变化| “数智化赋能：探索商业创新的前沿”论坛暨上海大学MBA河南校友会成立大会圆满成功",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660729569&idx=1&sn=694a55915ba8aa463a375da4501ad508&chksm=bded0d888a9a849e413e07e492dd7ffda55348227943248fd8233f4fa2b76be7853ae2a1112f&token=1854476317&lang=zh_CN#rd",
+      "date": "2024-10-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "引领变革|上海大学MBA中心主任于晓宇教授与Bloomberg对话",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660729312&idx=1&sn=8879e069799156350d27ad7f44c43d2e&chksm=bded0e898a9a879f7cbf95ebca1493fd8187d52dafbaf8b8d9fc0874971b28d99d1b508c7fb8&token=1066287365&lang=zh_CN#rd",
+      "date": "2024-10-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "最新排名|上海大学MBA登榜《彭博商业周刊》全球最佳商学院排名",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660729152&idx=1&sn=ac4e026e494dc069d5e7c8ef6eedb411&chksm=bded0e298a9a873fd48f67a62b6aee9723d02004248132a13f6112ff39db63b48e8bc15b3202&token=1513977441&lang=zh_CN#rd",
+      "date": "2024-09-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2025年QS 全日制MBA排名出炉，上大MBA项目中国内地前10",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660729174&idx=1&sn=b72ee417c38dc881e95a0156973620ac&chksm=bded0e3f8a9a8729ff97f7eb4664ab9ef57109450958e3c1171d448d83d511eed3dcaf2fb699&token=1513977441&lang=zh_CN#rd",
+      "date": "2024-09-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "英国UCL，美国罗格斯大学莅临上海大学MBA中心洽谈合作",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660728976&idx=1&sn=a12b6a76301b424d0557d8837c2e6780&chksm=bded0ff98a9a86ef0aaeb9ab91d906900c4fe346d4bcf71e5535b6e1eb2933062cfffc917200&token=1162948169&lang=zh_CN#rd",
+      "date": "2024-09-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学与深圳大学开启MBA教育战略合作新篇章",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660729002&idx=2&sn=c7afd48f846dcf33b6639385a0251b91&chksm=bded0fc38a9a86d5ee15b6b4757202a3bcf2a008e07355952f5a2f089636f6896e6b9ac84814&token=1162948169&lang=zh_CN#rd",
+      "date": "2024-09-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA与江南大学MBA/MEM达成战略合作，共绘MBA教育新篇章",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660728365&idx=1&sn=ac470cfc20a12f1ee1cb21999330576d&chksm=bdedf1448a9a7852e8f4900eb890c1ad53cab7cb255fb9e4df616d887dc29dc10e1fe9fa5685&token=963757659&lang=zh_CN#rd",
+      "date": "2024-09-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新生季|上海大学MBA2024级新生报到工作顺利进行",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660727448&idx=1&sn=b0f1508d1db17abb9c421267410be63b&chksm=bdedf5f18a9a7ce7d3cf6f825b75187f71cd8f0570320bae94613f801103cf099d33bcdbb535&token=911431480&lang=zh_CN#rd",
+      "date": "2024-08-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【启航新程】24级SHUMBA新生导向季启动暨“全人教育”学习导引工作坊",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726971&idx=1&sn=56eebfe714a3d70e4bb91869e4f2a751&chksm=bdedf7d28a9a7ec475bc1107d32f5ceaa172e1040d5e5e04824a0ed13cfc26bd11f7d5ce43db&token=599181052&lang=zh_CN#rd",
+      "date": "2024-08-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA中心与日本SBI集团大中华区总部—思佰益（中国）投资有限公司签署产教融合合作备忘录并揭牌产教融合创新实践基地",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726747&idx=1&sn=6daf079bb1902f6cef8fe549e68738dc&chksm=bdedf8b28a9a71a4f5860a42cd8122c9039635aa367162296ec6d633c4d0e9123301b09b1b86&token=1138163113&lang=zh_CN#rd",
+      "date": "2024-08-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "QS 全日制MBA排名出炉，上大MBA项目连续三年亚洲排名30+，中国内地前9位",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726655&idx=1&sn=bc0719d7644cb1e32f82e4c6be39f830&chksm=bdedf8168a9a71008de4ab18cfcbc8b4fbfa8cce3b555b576589aeeb8110cfb45fe01e4574ea&token=1138163113&lang=zh_CN#rd",
+      "date": "2024-08-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2024年QS排名出炉，上大MBA在职项目再获佳绩",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726588&idx=1&sn=100c1a81ae0fac0cc714ee4381f62792&chksm=bdedf8558a9a7143003706c1f1e66e556aa1149531063a60c38866af66bf6843f274179f8b5c&token=749637550&lang=zh_CN#rd",
+      "date": "2024-08-01",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA中心国际与战略咨询委员会首次会议圆满举办",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726537&idx=1&sn=51e351be470c61f33a7f3d4b78435325&chksm=bdedf8608a9a7176a95981123aaef58b8e73afa56a7b95bd28e7504cfd0e0e212900b100481d&token=404517153&lang=zh_CN#rd",
+      "date": "2024-07-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师之灼见|于晓宇、徐树公《中欧商业评论》-解读制造业AI资产化",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726366&idx=1&sn=3f2bc180ca346a0cfc699dc91a5454a9&chksm=bdedf9378a9a702136853a591dbef2aa90816f400ac95105f547c9b795bb1c4fb63af2a1a492&token=1651297501&lang=zh_CN#rd",
+      "date": "2024-07-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA文创产业方向携手好视立商业咨询与诊断项目完满收官",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726420&idx=1&sn=85cdea09c08728ae1cb2a52b7935bf68&chksm=bdedf9fd8a9a70ebbf09985a04a958b310e51d4beeea3d8639565239f9eed71e882cda14df78&token=1651297501&lang=zh_CN#rd",
+      "date": "2024-07-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "SHUMBA海外商业学习之旅（香港Day 1）|参访香港恒生大学与AIA香港",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726224&idx=1&sn=9f19c1cfe7a6e0414013b81cf5f78865&chksm=bdedfab98a9a73afb240af7cad223ee0d68cc1506708b0a151ac8c55e5227d32667f61a468c5&token=1533205641&lang=zh_CN#rd",
+      "date": "2024-07-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "SHUMBA海外商业学习之旅（香港Day 3）|物联网前沿洞见与港交所深度探访、揭开ICAC的神秘面纱",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726312&idx=1&sn=99a19f03f7e8cb2fe680e7d899165b96&chksm=bdedf9418a9a7057f9a01454bff34ba9fd4f9cae59c0732f87c3bd67829c8497e24073951cff&token=1533205641&lang=zh_CN#rd",
+      "date": "2024-07-17",
+      "column": "论坛活动"
+    },
+    {
+      "title": "心声共鸣，共绘未来 —— MBA中心主任清谈会召开",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726364&idx=1&sn=376cc77d889d0aee0b7684c8a75b8f1d&chksm=bdedf9358a9a70230aa825429c72729aaa8f40ad77067c1c339bef6e3d2b2b7b4252dfd0a3a8&token=1533205641&lang=zh_CN#rd",
+      "date": "2024-07-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2024年Glocal 海外商业学习之旅——中国香港站，即将启航",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726173&idx=1&sn=b1e1dcdf97f9c748336d1687cd0d04a8&chksm=bdedfaf48a9a73e2df705343ea56e3dde1245f63b9885030e273b3b64c9ad3117114de0cd7e3&token=793650818&lang=zh_CN#rd",
+      "date": "2024-07-09",
+      "column": "论坛活动"
+    },
+    {
+      "title": "《全球战略管理》揭秘：李平教授在上大MBA的授课回顾",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726110&idx=1&sn=c85c624b6890a682a207b84d82939fea&chksm=bdedfa378a9a7321c0799c75ec259c645fa66ae4192fe143a56d456bf4fea2e7d09e6ba9ede6&token=793650818&lang=zh_CN#rd",
+      "date": "2024-07-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "滴，2024级SHUMBA新生卡激活成功",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726148&idx=1&sn=53d89795dd92b47d1de2f248be8f51d9&chksm=bdedfaed8a9a73fb6c40b79c44d895c40ca9b26b2d94363a7e36810a99b5771570fb0eaa7f3d&token=793650818&lang=zh_CN#rd",
+      "date": "2024-07-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "2024级新生画像 | 越来越年轻，越来越理性的“我们”",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726091&idx=1&sn=1bb642fe1c275b4fd75080185b8a1364&chksm=bdedfa228a9a7334ecdf82425b30580916170481515e6041d94b03c80bd81b1b14c89aff3c7f&token=1537350520&lang=zh_CN#rd",
+      "date": "2024-07-03",
+      "column": "论坛活动"
+    },
+    {
+      "title": "郑州站|经管前沿专题系列讲座探索变革中的管理智慧",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726091&idx=2&sn=b4fafeed304a4146094ee2bc466ec90e&chksm=bdedfa228a9a7334d3580280ee219b632f5f8bd91cbc50875797ea9fadcf191d54c94b67770a&token=1537350520&lang=zh_CN#rd",
+      "date": "2024-07-03",
+      "column": "论坛活动"
+    },
+    {
+      "title": "经济与管理前沿专题|组织行为学的底层进化逻辑",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726068&idx=2&sn=60bf65f1878a8d833aff4d13a85bcf84&chksm=bdedfa5d8a9a734b166b0edc657505a228b4e12750125c03a854813a4080b30671c340272545&token=1537350520&lang=zh_CN#rd",
+      "date": "2024-07-02",
+      "column": "论坛活动"
+    },
+    {
+      "title": "林郑月娥女士到访上海大学并与师生交流互动",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660726014&idx=1&sn=44691b8140206f225e23501a28a63517&chksm=bdedfb978a9a728140fcb278f9a93d93995a2a3c95c7f15822dc70a6d5005caed66502618e3d&token=1537350520&lang=zh_CN#rd",
+      "date": "2024-07-01",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "拥抱变化、悦纳自己、道济天下|于晓宇主任2024届毕业致辞",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725977&idx=1&sn=60e314c2c79b799634d3866cb061dab6&chksm=bdedfbb08a9a72a6e29b8a7aa974354e6fb95b851b83fb30eb081d8f8d583140d8124f608519&token=812806975&lang=zh_CN#rd",
+      "date": "2024-06-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "保持热爱，奔赴下一场山海|上大MBA2024届毕业典礼隆重举行",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725861&idx=1&sn=566a819aef088cd07d67eca39fb3893e&chksm=bdedfb0c8a9a721ae216f51ced5d8b6db8454edcf4d97dbe91c078bdc2074ead53f240c7d763&token=1317959322&lang=zh_CN#rd",
+      "date": "2024-06-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2024年上海地区商学院（管理学院）院长联谊会暨上海地区MBA中心主任信息交流会成功举办",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725726&idx=1&sn=0fcd102a8a9644af7e9813be7f0f57c7&chksm=bdedfcb78a9a75a1ff0ca3114ecf110b53460711511183fa3466f5cab5178969e3bfa7eaa4ac&token=1971469811&lang=zh_CN#rd",
+      "date": "2024-06-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "西班牙EAE商学院副院长等访问上海大学MBA中心",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725679&idx=1&sn=dd105e7b2e7ef5121b65e3d4c5ed0acf&chksm=bdedfcc68a9a75d02e7fb410e26e49abe861a7d3f951868148488acf8577f3dd09b8de0f5ba8&token=1971469811&lang=zh_CN#rd",
+      "date": "2024-06-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA中心主任于晓宇教授获聘\"上海市智库青年领军人才\"",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725617&idx=1&sn=3d6b850551ef543c0670c2be1e6ff83b&chksm=bdedfc188a9a750efb8912f80d72f4151a025b25d37e045a7cb4ac15b65756c637809a4a0dc6&token=137399863&lang=zh_CN#rd",
+      "date": "2024-06-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师之灼见|于晓宇、薛奕曦《上观新闻》-激发人工智能引擎作用",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725569&idx=1&sn=abf5f2576dc9d0b81a8f21bd33135f33&chksm=bdedfc288a9a753e2a5455f8d858abe27f07feea429eee449f14cdd4bdda909fa513e0cb6634&token=137399863&lang=zh_CN#rd",
+      "date": "2024-06-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "香港岭南大学商学院院长冷明明教授加盟上大MBA国际与战略咨询委员会",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725518&idx=1&sn=1d9abaf3c4fa72dd89413754d9f6da33&chksm=bdedfc678a9a7571d43e86f68255cac8eccaafdfdb97241a02a9a1c58bab89dc6c91885f06d9&token=1091123416&lang=zh_CN#rd",
+      "date": "2024-06-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学副校长、MBA管委会主任聂清率团访问新西兰、澳大利亚",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=13364",
+      "date": "2024-06-07",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "纪念上海大学建校102周年，庆祝上海大学新合并组建30周年",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660725124&idx=1&sn=f1c7fd30b5da6e7c6378fe36eced63ac&chksm=bdedfeed8a9a77fb5cd790bc6049a677becb54f77b8a95532539a54fa8c149d9de05993f12e7&token=292988360&lang=zh_CN#rd",
+      "date": "2024-05-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA与新疆石油管理局有限公司新疆培训中心签署战略合作协议",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660724785&idx=1&sn=766b11a7dddbdc5b524b24c2dbb564ce&chksm=bdedff588a9a764ecccf9d9d618573af00a2ba0925e1c8b80b08429afd699b07e78dae4e3bdc&token=1147031495&lang=zh_CN#rd",
+      "date": "2024-05-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "签约！上海大学 × 百度！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660724535&idx=1&sn=f4c5b7dda8b0e5abedee033f190f2c40&chksm=bdede05e8a9a6948740f9cec27b3cae30639e3af30e59269c7594ae2a3d2b4468578a9d04178&token=1312711510&lang=zh_CN#rd",
+      "date": "2024-04-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学科技园区获中国研究生创新实践成果孵化分基地授牌！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660724500&idx=2&sn=c9bbb991e96fb31f7db888c70a61d5f0&chksm=bdede07d8a9a696bc862595bcbc84626240be9779a7bb9a190a974fde88d946ba827c41e8bb9&token=1312711510&lang=zh_CN#rd",
+      "date": "2024-04-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学2篇案例获“2023中国工商管理国际最佳案例奖”",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660724442&idx=1&sn=e84f87fde17d7448eecd336d7bd9bda4&chksm=bdede1b38a9a68a59f1f2fdb0fd48024b0d688d96c554422b2de1959fd02ede0519ea7a92686&token=1312711510&lang=zh_CN#rd",
+      "date": "2024-04-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜报：上海大学入选财政部管理会计案例",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660724443&idx=1&sn=1d7c747276d2459c0003351d2249a0b3&chksm=bdede1b28a9a68a42ceedc114127ecb8a3733b81b1840d8ee99474394a368a605abb35377232&token=1312711510&lang=zh_CN#rd",
+      "date": "2024-04-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新质生产力专栏|文汇报专访中国科学院院士、上大校长刘昌胜",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660724351&idx=1&sn=d9e40a66009252c8e7b04013aa281f6f&chksm=bdede1168a9a680085c3a0f9a826b5915c2d58acb6943c2b5056feea99d136c2323e36bde838&token=1105920199&lang=zh_CN#rd",
+      "date": "2024-04-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯 |上大MBA荣获2023央广网MBA教育年度大会多项荣誉",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11774",
+      "date": "2023-12-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "“上大飞鹰”队荣获2023中国研究生企业管理创新大赛一等奖",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11914",
+      "date": "2023-11-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA二十周年活动 领航者分享智慧 共创未来",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11904",
+      "date": "2023-11-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯|上大MBA荣获腾讯商学院2023年度杰出特色MBA项目",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11894",
+      "date": "2023-11-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2023可持续发展前沿与工商未来领袖论坛暨上海大学MBA二十周年纪念活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11884",
+      "date": "2023-11-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2023可持续发展前沿与工商未来领袖论坛暨上海大学MBA二十周年纪念活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11554",
+      "date": "2023-11-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "参访南京路上好八连|传承红色基因 铸就青春梦想",
+      "url": "https://mba.shu.edu.cn/info/1025/11584.htm",
+      "date": "2023-11-01",
+      "column": "论坛活动"
+    },
+    {
+      "title": "【今日必看】上大MBA金融产业五月课程精彩看点",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5174",
+      "date": "2023-10-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "激情飞扬 共谱辉煌|2021级MBA新生拓展培训",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4774",
+      "date": "2023-10-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "中欧&上大案例工作坊 ——案例进课堂，伦理与可持续发展思维讲座",
+      "url": "https://mba.shu.edu.cn/info/1025/4134.htm",
+      "date": "2023-10-23",
+      "column": "论坛活动"
+    },
+    {
+      "title": "职业发展|SAP 2024校园招聘火热进行中！",
+      "url": "https://mba.shu.edu.cn/info/1025/4144.htm",
+      "date": "2023-10-23",
+      "column": "论坛活动"
+    },
+    {
+      "title": "青春正当燃|沪上高校第20届MBA阳光体育赛事今日开战！",
+      "url": "https://mba.shu.edu.cn/info/1025/4164.htm",
+      "date": "2023-10-23",
+      "column": "论坛活动"
+    },
+    {
+      "title": "【新浪教育】文创产业面面观 MBA文创方向课程分享（二）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2884",
+      "date": "2023-10-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "企业绩效的“魔咒”——利润底线和责任边界|云课堂第三期",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2954",
+      "date": "2023-10-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座预告|富邦华一银行总行原副行长薛承雄与SHUMBA面对面",
+      "url": "https://mba.shu.edu.cn/info/1025/5444.htm",
+      "date": "2023-10-09",
+      "column": "论坛活动"
+    },
+    {
+      "title": "走进剑桥：感受历史人文与创新创业|英国&爱尔兰商业学习之旅连载3",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660721122&idx=1&sn=4e9f89d731ad201088d84f2898264b66&chksm=bdedee8b8a9a679d19e2be716e0ab6d9c126664d1b85a6856bcb2f87a58e798c04e087c121d3&token=50063718&lang=zh_CN#rd",
+      "date": "2023-10-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师之灼见 |金晨：\"商业永恒-VC镜鉴下的经济周期、竞争优势和持续创新\"",
+      "url": "https://mba.shu.edu.cn/info/1025/4174.htm",
+      "date": "2023-10-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "讲座回顾|上汽大众高级总监解密中国自动驾驶的未来之路",
+      "url": "https://mba.shu.edu.cn/info/1025/4184.htm",
+      "date": "2023-10-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "MBA新生主题教育3|参访钱伟长馆、溯园与红色学府校史馆",
+      "url": "https://mba.shu.edu.cn/info/1025/4194.htm",
+      "date": "2023-10-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "亚太地区商学院草原挑战赛：上海大学MBA团队荣誉满载",
+      "url": "https://mba.shu.edu.cn/info/1025/4204.htm",
+      "date": "2023-10-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "SHUMBA公开课-苏州站：多元行业与思维方式的碰撞",
+      "url": "https://mba.shu.edu.cn/info/1025/4214.htm",
+      "date": "2023-10-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA首次通过商科三大国际认证之一“EPAS”",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660720895&idx=1&sn=56a981f1d97cec4126e3c0e49a80ac33&chksm=bdedef968a9a668042dbd84b2a2dc077e282397d50072550484bcd923ec54c62fd0799275d24&token=50063718&lang=zh_CN#rd",
+      "date": "2023-10-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2023年Glocal海外商业学习之旅——英国&爱尔兰站，启航！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660720941&idx=1&sn=c99f74b39b7a0b2e8c31c7df741eba25&chksm=bdedee448a9a67529d6ef84e75b025aa55ebbeafa67d3181c4bb481f4d7c2e5a203346fc2ff4&token=50063718&lang=zh_CN#rd",
+      "date": "2023-10-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "数字时代的战略与创新、科技与金融|英国&爱尔兰商业学习之旅连载2",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NDAxOTg0Ng==&mid=2660721076&idx=2&sn=57c0de96eabcac603b5e4c92b956c3cd&chksm=bdedeedd8a9a67cb8285b6002dceb1175c6469ebcc0b33268b690d355fa5ee40e3e964bdd0a3&token=50063718&lang=zh_CN#rd",
+      "date": "2023-10-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "国际排名|上海大学MBA再次登榜Bloomberg全球商学院排名",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2764",
+      "date": "2023-09-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【人民网报道】上大MBA成全国首个引入沃顿ARC模拟学习系统的MBA",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2464",
+      "date": "2023-09-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2023年首届中国研究生企业管理创新大赛总决赛将在上海大学举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2474",
+      "date": "2023-09-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【每经网报道】上大MBA校友对话沃顿MBA校友，应对乌卡时代的学与思",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2484",
+      "date": "2023-09-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "共话成长与期待-上海大学MBA校友沙龙郑州站活动圆满举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4394",
+      "date": "2023-09-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师之灼见 |唐豪：“商务环境：认知与分析”",
+      "url": "https://mba.shu.edu.cn/info/1025/4324.htm",
+      "date": "2023-09-06",
+      "column": "论坛活动"
+    },
+    {
+      "title": "2023级新生画像 | 来自五湖四海的SHUMBAer开学啦",
+      "url": "https://mba.shu.edu.cn/info/1025/4334.htm",
+      "date": "2023-09-05",
+      "column": "论坛活动"
+    },
+    {
+      "title": "破冰除隔阂，齐心展未来——SHU MBA Induction新生拓展训练实记",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3164",
+      "date": "2023-08-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "与时俱进，链接未来 |MBA区块链产业课程精彩聚焦回顾",
+      "url": "https://mba.shu.edu.cn/info/1025/5964.htm",
+      "date": "2023-07-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "彰显才华|上大MBA选手在国演赛上海赛区斩获双料殊荣",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4404",
+      "date": "2023-07-07",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHUMBA公开课|大咖共话伦理与可持续发展思维-郑州站",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4414",
+      "date": "2023-05-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "报名 | Global商业学习之旅-英国&爱尔兰站 启动报名",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4424",
+      "date": "2023-05-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "中欧-上大MBA案例工作坊：与利益相关者共赢，构建可持续的竞争优势",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4434",
+      "date": "2023-04-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "金融产业方向|CFA持证人分享《银行产业分析与银行估值方法》",
+      "url": "https://mba.shu.edu.cn/info/1025/5074.htm",
+      "date": "2023-04-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "美国资深经济专家授课全英文项目《公司理财》课程",
+      "url": "https://mba.shu.edu.cn/info/1025/5104.htm",
+      "date": "2023-04-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "MBA学生党员、干部组织生活会暨学生网格化管理工作会圆满举行",
+      "url": "https://mba.shu.edu.cn/info/1025/5194.htm",
+      "date": "2023-04-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "职业发展｜联合国招聘 “职”等你来",
+      "url": "https://mba.shu.edu.cn/info/1025/5224.htm",
+      "date": "2023-04-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "智能制造产学研合作-战略新兴产业与技术转移课程正式开课",
+      "url": "https://mba.shu.edu.cn/info/1025/5244.htm",
+      "date": "2023-04-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "产教融合| 商业实践课程助力企业发展和MBA人才培养",
+      "url": "https://mba.shu.edu.cn/info/1025/5274.htm",
+      "date": "2023-04-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "美国资深经济专家授课全英文项目《公司理财》课程",
+      "url": "https://mba.shu.edu.cn/info/1025/5284.htm",
+      "date": "2023-03-27",
+      "column": "论坛活动"
+    },
+    {
+      "title": "第20次AMBA&BGA商学院能力建设研讨会顺利举办",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4444",
+      "date": "2023-03-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "产教融合|2023思享汇（第1季）成功举办 增强跨界交流",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4454",
+      "date": "2023-03-07",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA招生政策发布会暨新年全球首场学监考生面对面交流沙龙顺利举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4464",
+      "date": "2023-03-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "中欧国际工商学院案例中心与上海大学MBA中心战略共建",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4474",
+      "date": "2023-03-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "感恩过往笃行未来|产教融合思享汇暨企业导师计划交流年会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4504",
+      "date": "2023-03-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【MBA中国网讯】上海大学MBA项目2019级调剂与复试通知",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3174",
+      "date": "2023-02-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜报|上大MBA荣获2022全球商学院卓越奖之最佳创新战略奖铜奖",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4664",
+      "date": "2023-01-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾 | 从财务报表读懂一家公司，以苹果公司为例",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8514",
+      "date": "2023-01-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA荣获“2022年度中国商学院最佳MBA项目TOP100”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4514",
+      "date": "2022-12-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA微信公众号入榜“2022全国商学院微信品牌运营TOP100”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4524",
+      "date": "2022-12-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "活动预告 | 欢迎来到“平行世界”，元宇宙论坛入口已为您开启！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2494",
+      "date": "2022-12-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA发布全国首个MBA双碳培养方向课程",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2514",
+      "date": "2022-12-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "央广网介绍上海大学MBA项目",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2524",
+      "date": "2022-12-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA荣获\"腾讯新闻-综合实力突出MBA与影响力新媒体\"",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4534",
+      "date": "2022-12-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "全球创业周中国站 | SHUMBA元宇宙产业发展论坛成功举办",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4544",
+      "date": "2022-12-05",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2023可持续发展前沿与工商未来领袖论坛暨上海大学MBA二十周年纪念活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11864",
+      "date": "2022-11-11",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2023可持续发展前沿与工商未来领袖论坛暨上海大学MBA二十周年纪念活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=11874",
+      "date": "2022-11-11",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "国际| SHUMBA 360度国际化之路-近三年回顾与学生分享",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4554",
+      "date": "2022-10-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA全球可持续发展前沿论坛成功举办",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4564",
+      "date": "2022-10-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "读书会|赵昌文主任解读《全球发展报告》及最新著作",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4584",
+      "date": "2022-10-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "战略合作|国家技术转移东部中心与上大MBA产教融合战略签约",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4594",
+      "date": "2022-10-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "QS排名出炉，上大MBA位列全球前200，亚洲32，大陆前8",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4574",
+      "date": "2022-09-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA受邀岀席浦江创新论坛第三届世界技术经理人峰会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2564",
+      "date": "2022-09-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "公开课等你来|SHUMBA经管前沿系列大讲堂-郑州站",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4604",
+      "date": "2022-09-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "启程·向未来|上海大学SHUMBA2022新生导向季启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2033",
+      "date": "2022-08-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "启程·向未来|上海大学SHUMBA2022新生导向季启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4614",
+      "date": "2022-08-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾 | 服务创新：新模式下的共享与共创",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7454",
+      "date": "2022-01-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜报|上大MBA荣获2022全球商学院卓越奖之最佳创新战略奖铜奖",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2063",
+      "date": "2022-01-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视频精选 | 产教融合新发展：产业导师和学生见面会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7464",
+      "date": "2022-01-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "聚焦 | 『请回答2020』 MBA & EDP年度回顾",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7474",
+      "date": "2022-01-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视频精选 | 百年上大，红色传承2021",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8524",
+      "date": "2022-01-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "领先企业助力，培养知智融合人才:文创产业方向导师学生见面会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8534",
+      "date": "2022-01-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "嘿，获奖的是你么？ | 吉祥物兽兽子征名获奖结果揭晓",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7444",
+      "date": "2022-01-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "打破壁垒、学科交叉培养行业人才:智能制造方向导师学生见面会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8544",
+      "date": "2022-01-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "叮~~收到一份来自SHU MBA新生的学期总结",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8554",
+      "date": "2022-01-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "党史教育|听金融大家唐双宁先生讲党史",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4674",
+      "date": "2021-11-01",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "报名丨国际组织讲座+实习重磅来袭",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2113",
+      "date": "2021-09-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "大讲堂|数字发展与跨境电商+官方招生政策答疑",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2123",
+      "date": "2021-09-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "党史教育|张黎明、高立伟两位专家为MBA新生做党史辅导报告",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2133",
+      "date": "2021-09-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHU MBA抖音首秀| 直播2021级MBA新生导向季（非全日制）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2143",
+      "date": "2021-09-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "激情飞扬 共谱辉煌|2021级MBA新生拓展培训",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2153",
+      "date": "2021-09-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHU MBA抖音首秀| 直播2021级MBA新生导向季（非全日制）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4764",
+      "date": "2021-09-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产业前沿·智造未来】MBA智能制造六月课程精彩放送",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2163",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【文创之力，赋能产业】上大MBA文创移动课堂之上海音乐谷",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2173",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 上大MBA项目宣讲会近期安排",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2183",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产教融合·大咖发力】MBA金融产业六月课程持续精彩",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2193",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "文博EDP“黄埔一期”：文博行业高层管理者研修项目在我校启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4794",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产业前沿·智造未来】MBA智能制造六月课程精彩放送",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4804",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【文创之力，赋能产业】上大MBA文创移动课堂之上海音乐谷",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4814",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 上大MBA项目宣讲会近期安排",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4824",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产教融合·大咖发力】MBA金融产业六月课程持续精彩",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4844",
+      "date": "2021-06-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "百年对话，扬时代新貌—“初心之垣”红色记忆主题浮雕在我校揭幕",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1751",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【精彩讲座】如何技巧地选择能帮助企业成长的银行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1752",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【你不可不知的】论文写作干货分享之：“论文规范与学术诚信”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2203",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【节日祝语】浓情端午，快来看看你的端午关键词",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2213",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "任永平教授参与评选“2021年影响中国会计人的十大信息技术”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2223",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【你不可不知的】论文写作干货分享之：“论文规范与学术诚信”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4854",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【节日祝语】浓情端午，快来看看你的端午关键词",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4864",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "任永平教授参与评选“2021年影响中国会计人的十大信息技术”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4874",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "百年对话，扬时代新貌—“初心之垣”红色记忆主题浮雕在我校揭幕",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4884",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【精彩讲座】如何技巧地选择能帮助企业成长的银行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4894",
+      "date": "2021-06-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【不简单！】论黑马的诞生：上大MBA队伍斩获皮划艇赛多项荣誉",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1753",
+      "date": "2021-06-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【不简单！】论黑马的诞生：上大MBA队伍斩获皮划艇赛多项荣誉",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4904",
+      "date": "2021-06-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产教融合进行时】SHUMBA新一轮产教融合创新六月精彩预告",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1754",
+      "date": "2021-06-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产教融合进行时】SHUMBA新一轮产教融合创新六月精彩预告",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4784",
+      "date": "2021-06-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【产教融合进行时】SHUMBA新一轮产教融合创新六月精彩预告",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4914",
+      "date": "2021-06-08",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "文创创新商业模式：解密《三体》、“爆款”国潮文创",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1773",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【征战沙十】与自然对话，与自己和解—沙漠里的上大“木兰飞戈”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1774",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【与世界对话，讲好中国故事】SHUMBA虚拟游学项目实况分享",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1775",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "全英文讲座预告 | 全球经济形势下的商业导航",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1776",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【今日必看】上大MBA金融产业五月课程精彩看点",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1777",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座预告 | 如何技巧地选择能帮助企业成长的银行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1778",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "文创创新商业模式：解密《三体》、“爆款”国潮文创",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5134",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【征战沙十】与自然对话，与自己和解—沙漠里的上大“木兰飞戈”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5144",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【与世界对话，讲好中国故事】SHUMBA虚拟游学项目实况分享",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5154",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "全英文讲座预告 | 全球经济形势下的商业导航",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5164",
+      "date": "2021-05-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【重温经典，赓续红色基因】上大红色MBA-党史学习教育系列3",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5564",
+      "date": "2021-05-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【讲好中国故事】上大MBA“对话中国”虚拟游学项目再次启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5574",
+      "date": "2021-05-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "节日祝语 | 劳动光荣，上大MBA祝各位：五一快乐！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5584",
+      "date": "2021-05-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【课程预告】大咖进课堂：全英文课程《全球化企业管理》重磅来袭",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5594",
+      "date": "2021-05-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 上大MBA项目宣讲会近期安排",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1789",
+      "date": "2021-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【学联动态】SHU MBA学联新学期工作推进会及成员风采一览",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1790",
+      "date": "2021-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 上大MBA项目宣讲会近期安排",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5604",
+      "date": "2021-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【学联动态】SHU MBA学联新学期工作推进会及成员风采一览",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5614",
+      "date": "2021-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "中国教育报专版：沪上的早晨在这里开始 ——这所“红色学府”用好第一人称讲党史",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5624",
+      "date": "2021-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【赓续红色基因】上大红色MBA-党史学习教育系列2",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5634",
+      "date": "2021-04-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "中国教育报专版：沪上的早晨在这里开始 ——这所“红色学府”用好第一人称讲党史",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1791",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【赓续红色基因】上大红色MBA-党史学习教育系列2",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1792",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【招生简章】2021中国商业购物中心总经理高级研修班",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1793",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【专家荟聚】各界专家深入探讨购物中心数字化转型及人才培养",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1794",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2021年云通数科第五届“云+FOF”生态圈共建峰会圆满结束",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=1795",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【招生简章】2021中国商业购物中心总经理高级研修班",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5644",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【专家荟聚】各界专家深入探讨购物中心数字化转型及人才培养",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5654",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2021年云通数科第五届“云+FOF”生态圈共建峰会圆满结束",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5664",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【重磅】上海大学挺进泰晤士高等教育世界大学影响力排名全球百强",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5674",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【重磅】上海大学挺进泰晤士高等教育世界大学影响力排名全球百强",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5694",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【招生动态】上大MBA 2022级预面试报名申请正式开启！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5704",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【资源联动】区块链技术与应用培训班（苏州）即将开班",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5714",
+      "date": "2021-04-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "支撑上海国际消费中心城市建设:购物中心数字化转型高峰论坛举",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5724",
+      "date": "2021-04-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【聚焦】SHU MBA-IMA管理会计系列讲堂暨CMA奖学金颁奖仪式",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5734",
+      "date": "2021-04-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【喜讯】上海大学MBA两支队伍均获“尖烽时刻”国赛奖项！！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5744",
+      "date": "2021-04-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "行动学习·解码兴替·展望未来：上海近代商业发展巡礼即将启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5754",
+      "date": "2021-04-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师之灼见 | 杨文硕：小微行业，难能可贵-蜜蜂乘数诠释技术转移",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6644",
+      "date": "2021-04-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【活动预告】与高管、专家约一场外滩江畔的Brunch",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5984",
+      "date": "2021-04-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "培养国际化人才：上海大学MBA海外学位项目宣讲会举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6004",
+      "date": "2021-04-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "大咖进课堂：探索心力管理的力量-刘鹏凯",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6024",
+      "date": "2021-04-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【重磅预告】洞见未来：中国商业购物中心数字化转型高峰论坛",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6044",
+      "date": "2021-04-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【实况记录】咻——飞盘高尔夫飞进SHU MBA",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6074",
+      "date": "2021-04-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "优化管理工作，提升论文质量：上大MBA 论文工作会议举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6104",
+      "date": "2021-04-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "打造专业管理团队：上海大学MBA中心2021年度管理干部培训计划启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6114",
+      "date": "2021-04-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾 | “治理”≠“管理”：全球化时代公司治理新挑战",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6134",
+      "date": "2021-04-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【清明寄哀思】",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6154",
+      "date": "2021-04-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【与海外名校负责人面对面】上海大学MBA双学位项目介绍",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6164",
+      "date": "2021-04-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【拉票】“尖烽时刻”总决赛，上大MBA队伍需要你的一票！！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6314",
+      "date": "2021-04-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【好事要发生】SHU MBA四月活动早知道",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6324",
+      "date": "2021-04-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "独门秘笈：一定要了解的SHU MBA “3×3×1/3”学习法",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6334",
+      "date": "2021-03-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "谁将是我的同行之师？SHU MBA学生数据大揭秘",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6794",
+      "date": "2021-03-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【不可不看】优秀校友展示：SHU MBA助力开启人生新篇章",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6354",
+      "date": "2021-03-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "MBA更需深刻理解企业可持续发展 | 核心课程分享",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6374",
+      "date": "2021-03-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "21级上海大学MBA 4月1日非全日制调剂复试报名登记中！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6384",
+      "date": "2021-03-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【今日有料】紧扣前沿应用，区块链产业方向商业诊断项目启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6394",
+      "date": "2021-03-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【冲鸭！】第六届亚太商学院新疆挑战赛，我们来了！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6414",
+      "date": "2021-03-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【速来查阅】上大MBA智能制造方向五月课程精彩看点",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5114",
+      "date": "2021-03-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【戳你一下】SHU MBAer原创视频大征集！！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6424",
+      "date": "2021-03-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【今日必读】产教深度融合：金融产业方向商业诊断项目启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6434",
+      "date": "2021-03-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【前方高能】上海大学MBA ECO全融师资风采",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6454",
+      "date": "2021-03-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "不简单！优胜小组诊断方案与行业领先企业战略规划接近同步！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6504",
+      "date": "2021-03-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "21级上大MBA 3.27笔试报名登记中，调剂申请即将截止",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6514",
+      "date": "2021-03-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "考生聚焦：上海大学MBA 360°国际化之路",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6544",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA与“北欧剑桥”--乌普萨拉大学双学位",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6574",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "考生聚焦：上大MBA “长三角与‘一带一路’整合教学拓展计划”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6584",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "必看！沪上知名品牌董事长携高管团队走进MBA课堂，被谁吸引？",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6604",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "什么？你还不知道？飞盘高尔夫课程进驻SHU MBA啦！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6624",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "星火百年，静守初心 | 上大红色MBA&EDP建设开启新篇章",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6824",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重大通知 | 上大MBA接受调剂！需管理类联考170分以上！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6844",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "大咖进课堂：中国电竞教父、麦肯锡前高管助力SHU MBA课堂",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6864",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "争做环保小达人，SHU MBA喊你线上助力“碳中和”！！！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6884",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾 | 用数据说话：从大数据看中国发展",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6894",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "学生说 | 2020级全日制学生 任东民：他山之石，可以攻玉",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6914",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "职场助力，与精英导师结伴同行:上大MBA企业导师说明会举行 原创 SHUMBA SHUMBA 3月6日",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6934",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 上海大学MBA官方项目详情说明会成功举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6954",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "“对话2021”产教融合发展论坛暨商业诊断汇报会成功举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6964",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重要通知 | 上海大学MBA 2021级调剂预报名已开启",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6994",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重要通知 | 2021级上海大学MBA新增3月23日复试！接受调剂！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7024",
+      "date": "2021-03-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重磅推进！深耕产业，开启2021产教融合新征程",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7044",
+      "date": "2021-03-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重要通知 | 上海大学MBA 2021年初试成绩查询及复核",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7054",
+      "date": "2021-03-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 政策解读，不容错过：上大MBA招生宣讲会安排",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7104",
+      "date": "2021-03-21",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新的一年，SHU MBA愿你是美好，美好是你！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7144",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新的一年，SHU MBA愿你是美好，美好是你！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7174",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新的一年，SHU MBA愿你是美好，美好是你！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7184",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视频精选 | 除夕庆团圆，与上大MBA同创未来",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7194",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "校友说 | 易可欣：SHU MBA学习的“信”、“疑”、“悟”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7214",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "聚焦 | 精英导师助力，上大MBA企业导师计划启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7224",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 汇报、点评精彩碰撞：智能制造诊断项目中期汇报",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7244",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯频传：上大MBA荣膺新华网“社会影响力MBA院校”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7344",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 上大MBA与美国管理会计师协会结成战略合作伙伴",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7354",
+      "date": "2021-03-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【五四：学习正当时】SHUMBA新一轮产教融合创新全面展开",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5554",
+      "date": "2021-03-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2021级调剂预报名已开启（2021年入学考生）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7384",
+      "date": "2021-02-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【央视网】孟添：打造具有影响力的MBA产学研平台",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2644",
+      "date": "2021-01-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "精彩聚焦 | /////上大MBA校友们的斜杠生活/////",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8564",
+      "date": "2021-01-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯 | 上大MBA荣膺央视网“品牌影响力MBA院校”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8574",
+      "date": "2021-01-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "培养复合型卓越金融人才：金融产业方向导师和学生见面会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8584",
+      "date": "2021-01-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "产教融合新发展:产业导师学生见面会暨商业诊断项目启动会举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8594",
+      "date": "2020-12-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "校友说 | 首选毕业生王羽：选择上大MBA，收获的远不止学历",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8604",
+      "date": "2020-12-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "邀请函 | 逐鹿先锋，云领未来：中国人力资源战略管理年会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8614",
+      "date": "2020-12-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "号外号外！中华武术班进驻SHU MBA啦！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8624",
+      "date": "2020-12-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "秃头不是成为‘研究僧’的充分必要条件——联考倒计时30天",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8634",
+      "date": "2020-12-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "御风逐浪，人生须拼搏！-第三届“亚帆赛”参赛纪实",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8644",
+      "date": "2020-12-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "滴!您的福利到了！上大MBA喊您参加第六届上海国际手造博览会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8654",
+      "date": "2020-11-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "回顾 | 973首席科学家与SHU MBAer谈“钢铁新材料”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8664",
+      "date": "2020-11-26",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯 | 上大MBA“大富翁”队喜提“尖烽时刻”国赛一等奖！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8814",
+      "date": "2020-11-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【新华网】跨院校友联谊活动探讨交流智能制造最新发展与实践",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2654",
+      "date": "2020-11-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【新浪教育】资本赋能 智造未来：智能制造高峰论坛暨跨院校友联谊活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2664",
+      "date": "2020-11-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重磅！全球创业周：2020长三角科技金融高研班启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8674",
+      "date": "2020-11-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯 | 争创一流研究生商学院教育：上大MBA再获荣誉",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8684",
+      "date": "2020-11-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "资本赋能，智造未来：智能制造高峰论坛暨跨院校友联谊活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8694",
+      "date": "2020-11-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾 | 文化自信：非遗传承与生活美学",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8704",
+      "date": "2020-11-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招兵买马 | 你知道我的缺点吗——缺点你！！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8714",
+      "date": "2020-11-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新商业新零售，聚焦“购物中心可持续发展” ：上经论坛•昆明",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8724",
+      "date": "2020-11-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 学习全国MBA培养工作会议精神，不断提升教学质量",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8734",
+      "date": "2020-11-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "讲座回顾 | 区块链≠比特币：区块链行业发展与趋势",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8744",
+      "date": "2020-11-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "校友召集令 | 全球创业周智能制造论坛暨跨院校友联谊活动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8754",
+      "date": "2020-11-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "架起跨国度、跨人文、跨领域的心灵立交：克罗地亚商会进课堂",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8764",
+      "date": "2020-11-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "活动预告 | 从瑞幸事件说起：云课堂新一期本周日开播",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8774",
+      "date": "2020-11-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 校友茶话会：毕业十余载，再聚母校话发展",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8784",
+      "date": "2020-10-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "最新宣传视频-shape your future",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2674",
+      "date": "2020-09-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "敲黑板! 主任为MBA考生划重点，不可错过的项目介绍会",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8794",
+      "date": "2020-09-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "以科创板为契机构建长三角科技金融生态，“上经论坛•绍兴”举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8804",
+      "date": "2020-09-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦|“区块链+”赋能数字经济：上经论坛·姑苏成功举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8824",
+      "date": "2020-09-23",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "邀请函|以科创板为契机构建长三角科技金融生态：上经论坛·绍兴",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8834",
+      "date": "2020-09-22",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "邀请函 | “区块链+”赋能数字经济：上经论坛·姑苏即将举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8844",
+      "date": "2020-09-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 逐梦扬帆，即日启程——我们线下开学啦！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8854",
+      "date": "2020-09-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "“深化‘四史’学习 迎接建党100周年”上海市国资委企业家研修班成功举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8864",
+      "date": "2020-09-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "不拘一格，多维授课 | MBA课程分享之《人力资源管理》",
+      "url": "https://mba.shu.edu.cn/info/1025/6184.htm",
+      "date": "2020-09-11",
+      "column": "论坛活动"
+    },
+    {
+      "title": "视线聚焦 | 融合“顶流”资源，共建MBA文创产业方向产学研联盟",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8874",
+      "date": "2020-09-09",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "活动预告 | 从质管看“中国智造”：云课堂第二季第3期即将开播",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8884",
+      "date": "2020-09-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 上海大学MBA 2021级奖助学金最新政策深度解析",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8894",
+      "date": "2020-09-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 与CFA深度合作，启动MBA金融产业方向产学研联盟",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8904",
+      "date": "2020-09-02",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "喜讯 | 祝贺沈兵荣获中国研究生电子设计竞赛国家级一等奖",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8994",
+      "date": "2020-08-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学工商管理硕士（MBA） 研究生培养全过程管理制度公示",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=9004",
+      "date": "2020-08-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 创新虚拟游学项目，助力海外对接中国",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8984",
+      "date": "2020-08-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "战略升级，媒体聚焦——上大MBA勇踏数字化新征程",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2684",
+      "date": "2020-08-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "传统金融机构如何数字化转型？专家云端支招“解题”",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2694",
+      "date": "2020-08-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | WBO鼎力支持——共建MBA区块链方向产学研联盟",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8974",
+      "date": "2020-08-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "后疫情时代，如何引爆夜经济与市集？《2020上海集市发展白皮书》发布",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2704",
+      "date": "2020-08-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "缘起上大，情定中原| 豫沪产业经济发展论坛暨上海大学河南校友会成立大会成功举办！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8964",
+      "date": "2020-08-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 上大MBA云课堂第二季第2期顺利举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8954",
+      "date": "2020-08-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【WBOnews】WBO首个MBA区块链产业方向的产学研联盟：SHU MBA 国际区块链实验室正式启动",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2844",
+      "date": "2020-07-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "视线聚焦 | 最上海、最融合、最创新：上大MBA战略合作发布会暨数字化平台—云课堂启动仪式成功举行！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8444",
+      "date": "2020-07-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "大咖荟萃，“燃爆”课堂 | 课程分享之《全球化企业管理》",
+      "url": "https://mba.shu.edu.cn/info/1025/8084.htm",
+      "date": "2020-07-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "大咖荟萃，“燃爆”课堂 | 课程分享之《全球化企业管理》",
+      "url": "https://mba.shu.edu.cn/info/1025/9484.htm",
+      "date": "2020-07-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "【搜狐】视线聚焦 | 上大工商管理学科跻身软科世界一流学科排名Top 400！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2864",
+      "date": "2020-07-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【MBACHINA】上大MBA精品栏目《师之灼见》已与您携手二十期",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2874",
+      "date": "2020-07-10",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "线聚焦 | 上大工商管理学科跻身软科世界一流学科排名Top 400！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8434",
+      "date": "2020-07-03",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重大通知 | 上大MBA 2021级第二批预面试7月4日进行!",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8404",
+      "date": "2020-06-28",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "通知 | 上大MBA 2021级第三批预面试申请即将截止！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8384",
+      "date": "2020-06-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "师之灼见 | 王曙光：医保新政下医药产业发展与投资之道",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8394",
+      "date": "2020-06-17",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【新浪教育】文创产业面面观 MBA文创方向课程分享（二）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=9894",
+      "date": "2020-06-02",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "【中国MBA教育刊登】 视线聚焦 |创业坐诊为SHU MBAer创新创业把脉助力",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2894",
+      "date": "2020-05-24",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "从德鲁克思想出发，拓宽创新创业思路 | MBA课程分享之:《商业模式创新》(BMI and ETM)",
+      "url": "https://mba.shu.edu.cn/info/1025/6344.htm",
+      "date": "2020-04-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "西门子(希腊)CEO助力在线课堂 | MBA课程分享之：全球战略管理（Global Strategic Management)",
+      "url": "https://mba.shu.edu.cn/info/1025/6444.htm",
+      "date": "2020-03-26",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学生说 | 上大MBA海外学习——机不可失之瑞典乌普萨拉大学",
+      "url": "https://mba.shu.edu.cn/info/1025/7064.htm",
+      "date": "2020-03-20",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学生说丨志愿者日记-上大MBA人在荆门",
+      "url": "https://mba.shu.edu.cn/info/1025/7084.htm",
+      "date": "2020-03-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学生说丨“我在武汉当志愿者”：一位普通的上大MBA人",
+      "url": "https://mba.shu.edu.cn/info/1025/7124.htm",
+      "date": "2020-03-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "学生说丨上大MBA海外学习-机不可失之星月国土耳其",
+      "url": "https://mba.shu.edu.cn/info/1025/7154.htm",
+      "date": "2020-03-11",
+      "column": "论坛活动"
+    },
+    {
+      "title": "让教育永远“在线”，上大MBA在线教学测试顺利进行",
+      "url": "https://mba.shu.edu.cn/info/1025/7264.htm",
+      "date": "2020-03-02",
+      "column": "论坛活动"
+    },
+    {
+      "title": "通知 | 上大MBA官方调剂说明会直播时间更改通知",
+      "url": "https://mba.shu.edu.cn/info/1024/9824.htm",
+      "date": "2020-02-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生动态 | 足不出户了解最新上大MBA调剂政策——上大MBA官方调剂说明直播等你来！",
+      "url": "https://mba.shu.edu.cn/info/1024/9834.htm",
+      "date": "2020-02-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "重要通知 | 2020年入学全国管理类联考准考证已开始下载",
+      "url": "https://mba.shu.edu.cn/info/1024/9844.htm",
+      "date": "2019-12-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "学生说 | 从不同领域领悟管理精髓——上大MBA经管前沿专题讲座（第9场）听后感（高燕）",
+      "url": "https://mba.shu.edu.cn/info/1025/7374.htm",
+      "date": "2019-12-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "关于2019年对超过最长学习年限研究生退学处理的公告",
+      "url": "https://mba.shu.edu.cn/info/1025/7404.htm",
+      "date": "2019-11-14",
+      "column": "论坛活动"
+    },
+    {
+      "title": "寻找沪上最具性价比MBA？上海大学MBA在等你！",
+      "url": "https://mba.shu.edu.cn/info/1024/9864.htm",
+      "date": "2019-10-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "寻找沪上最具性价比MBA？上海大学MBA等你来！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7234",
+      "date": "2019-10-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "通知 | 2020年上海大学MBA联考报名全攻略！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7204",
+      "date": "2019-10-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "焦点新闻 | “一带一路”倡议下的互访交流——芬兰瓦萨大学EMBA代表团来访上大MBA",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7324",
+      "date": "2019-10-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "焦点新闻：上海大学MBA长三角系列论坛（杭州站）成功举行 | 聚焦创新创业，打造国际化平台",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7134",
+      "date": "2019-09-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重大通知 | 2020年上海大学MBA联考预报名攻略",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7164",
+      "date": "2019-09-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新华网：上大2020级工商管理硕士招生简章公布",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3104",
+      "date": "2019-09-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "新华网：上大MBA长三角系列论坛（苏州站）聚焦职业发展新机遇",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3114",
+      "date": "2019-09-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "MBA教育：2020年上海大学MBA联考预报名攻略发布",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3124",
+      "date": "2019-09-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "MBACHINA：2020年上海大学MBA联考预报名攻略发布",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3134",
+      "date": "2019-09-25",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重大通知 | 上海大学MBA校友激励计划已发布",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7114",
+      "date": "2019-09-20",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重大通知 | 上海大学2020级工商管理硕士招生简章正式发布",
+      "url": "https://mba.shu.edu.cn/info/1024/9914.htm",
+      "date": "2019-09-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "重大通知 | 上海大学MBA 2020级9月22日预复试（面试）即将举行！",
+      "url": "https://mba.shu.edu.cn/info/1024/9934.htm",
+      "date": "2019-09-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学 MBA 2020 年工商管理硕士招生简章",
+      "url": "https://mba.shu.edu.cn/info/1024/9944.htm",
+      "date": "2019-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA 2020级8月31日预复试（面试）通知！",
+      "url": "https://mba.shu.edu.cn/info/1024/9954.htm",
+      "date": "2019-08-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "焦点新闻：SHU MBA Induction 入学导向课程正式开启！",
+      "url": "https://mba.shu.edu.cn/info/1024/9964.htm",
+      "date": "2019-08-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "晴热高温来袭 | SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7414.htm",
+      "date": "2019-07-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "清凉一夏 | SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7424.htm",
+      "date": "2019-07-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "菀彼柳斯，鸣蜩嘒嘒 |上大MBA 每周新闻快报（7.10）",
+      "url": "https://mba.shu.edu.cn/info/1025/8024.htm",
+      "date": "2019-07-12",
+      "column": "论坛活动"
+    },
+    {
+      "title": "梅雨季节需防潮 | 上大MBA Weekly News Letter（7.4）",
+      "url": "https://mba.shu.edu.cn/info/1025/8004.htm",
+      "date": "2019-07-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "垃圾分类，从我做起 | SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/8014.htm",
+      "date": "2019-07-08",
+      "column": "论坛活动"
+    },
+    {
+      "title": "梅雨来袭，注意防潮 | 上大MBA Weekly News Letter（6.20）",
+      "url": "https://mba.shu.edu.cn/info/1025/7974.htm",
+      "date": "2019-06-21",
+      "column": "论坛活动"
+    },
+    {
+      "title": "SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7984.htm",
+      "date": "2019-06-21",
+      "column": "论坛活动"
+    },
+    {
+      "title": "SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7994.htm",
+      "date": "2019-06-21",
+      "column": "论坛活动"
+    },
+    {
+      "title": "BST——SHU MBA理念的完美诠释 | SHU MBA土耳其学习之旅实记（第五天——最终篇）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6214",
+      "date": "2019-06-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA 2020级预复试正式启动!",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6224",
+      "date": "2019-06-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "读万卷书不如行万里路 | SHU MBA土耳其学习之旅实记（第三天）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6194",
+      "date": "2019-06-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "领略伊斯坦布尔的美丽与柔情 | SHU MBA土耳其学习之旅实记（第四天）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6204",
+      "date": "2019-06-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHU MBA带你开启星月国商业学习之旅 | SHU MBA土耳其学习之旅实记（第一天）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6144",
+      "date": "2019-06-06",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上海大学MBA 2020级预复试（面试）最新最详尽信息播报，请收好！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6124",
+      "date": "2019-06-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "搜狐教育：SHU MBA焦点新闻 |英国诺丁汉大学来访",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3224",
+      "date": "2019-05-31",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHU MBA焦点新闻 | SHU MBA 2019年度第二期师资研讨会圆满举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6094",
+      "date": "2019-05-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHU MBA焦点新闻 | 英国诺丁汉大学MBA主任来访",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6084",
+      "date": "2019-05-29",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "人工智能，未来已来 | SHU MBA全面发展大讲堂（269场），跨学科讲堂（第15场）顺利举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6054",
+      "date": "2019-05-27",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态 | 政策解读，不容错过：上大MBA招生宣讲会安排",
+      "url": "https://mba.shu.edu.cn/info/1024/9734.htm",
+      "date": "2019-05-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "感恩母亲节 | SHU MBA课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7874.htm",
+      "date": "2019-05-10",
+      "column": "论坛活动"
+    },
+    {
+      "title": "用爱拥抱明天 | 上大MBA Weekly News Letter（5.8）",
+      "url": "https://mba.shu.edu.cn/info/1025/7864.htm",
+      "date": "2019-05-09",
+      "column": "论坛活动"
+    },
+    {
+      "title": "“霭霭芳春朝，雪絮起青条” | 上大MBA Weekly News Letter（4.25）",
+      "url": "https://mba.shu.edu.cn/info/1025/7854.htm",
+      "date": "2019-04-25",
+      "column": "论坛活动"
+    },
+    {
+      "title": "四月，播种希望 | 上大MBA Weekly News Letter",
+      "url": "https://mba.shu.edu.cn/info/1025/7834.htm",
+      "date": "2019-04-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "最是人间四月天 | SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7844.htm",
+      "date": "2019-04-19",
+      "column": "论坛活动"
+    },
+    {
+      "title": "邀请函 | SHU MBA邀您与斯坦福大学校友、资深专家共同探讨”教育领域创业投资的冷与热”",
+      "url": "https://mba.shu.edu.cn/info/1025/8274.htm",
+      "date": "2019-04-16",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA项目2019级调剂与复试通知-2019年考生必看！",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5814",
+      "date": "2019-02-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "“探秘仁孚行”——SHU MBA香港商务学习之旅实记（第二天）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5824",
+      "date": "2019-02-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "“拥抱东方之珠”——SHU MBA香港学习之旅实记（第一天）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5854",
+      "date": "2019-02-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "知识、美景入人心——SHU MBA香港商务学习之旅实记（第三天）",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5874",
+      "date": "2019-02-15",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "城市规划面面观——SHU MBA全面发展大讲堂（260场），跨学科讲堂（第9场）顺利举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5804",
+      "date": "2019-02-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "SHU MBA祝愿大家新春快乐~~~~~",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5794",
+      "date": "2019-02-04",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2018 bye bye，2019 比心~SHU MBA 2018年度大事记",
+      "url": "https://mba.shu.edu.cn/info/1025/7824.htm",
+      "date": "2019-02-04",
+      "column": "论坛活动"
+    },
+    {
+      "title": "精彩活动开启19新征程——上大MBA Weekly News Letter",
+      "url": "https://mba.shu.edu.cn/info/1025/7794.htm",
+      "date": "2019-01-16",
+      "column": "论坛活动"
+    },
+    {
+      "title": "栉沐 风雨，携手同行——上海大学MBA中心2018年度师资感恩活动圆满结束",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5544",
+      "date": "2019-01-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "欢聚一堂 共抒情怀 | 2019 SHU MBA年会盛典暨学联交接仪式圆满落幕",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5764",
+      "date": "2019-01-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "从司法的有限性去追求司法的确定性——SHU MBA全面发展大讲堂（259场），跨学科讲堂（第8场）顺利举行",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5774",
+      "date": "2019-01-13",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "科学之轮不停转动——SHU MBA全面发展大讲堂（257场），跨学科讲堂（第6场）圆满结束",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4834",
+      "date": "2019-01-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "改变世界，从每个人每一天开始!——参加SHU MBA全面发展大讲堂（258场），跨学科讲堂（第7场）有感",
+      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5534",
+      "date": "2019-01-12",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "重磅嘉宾邀您共享讲座盛宴——SHU MBA本周课程、活动预告",
+      "url": "https://mba.shu.edu.cn/info/1025/7784.htm",
+      "date": "2019-01-11",
+      "column": "论坛活动"
+    },
+    {
+      "title": "新年正能量——上大MBA Weekly News Letter",
+      "url": "https://mba.shu.edu.cn/info/1025/7754.htm",
+      "date": "2019-01-08",
+      "column": "论坛活动"
+    }
+  ]
+}
