@@ -66,12 +66,20 @@ jobs:
           PAGES="${{ github.event.inputs.max_pages || '3' }}"
           python scheduler.py --no-progress -c 5 --mode "$MODE" -p "$PAGES"
 
-      - name: Commit and push changes
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-branch
+
+      - name: Sync and push data branch
         run: |
+          cp -f output/*.json data-branch/
+          cd data-branch
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          TZ='Asia/Shanghai' DATE=$(date '+%Y-%m-%d %H:%M')
-          git add output/*.json
+          git add *.json
           git diff --cached --quiet && echo "No changes to commit" && exit 0
+          TZ='Asia/Shanghai' DATE=$(date '+%Y-%m-%d %H:%M')
           git commit -m "[Chore](data): update news data ${DATE}"
-          git push origin master
+          git push origin data
