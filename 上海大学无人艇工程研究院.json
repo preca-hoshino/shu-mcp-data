@@ -2,10 +2,10 @@
   "domain": "jhai.shu.edu.cn",
   "department": "上海大学无人艇工程研究院",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 44,
+  "crawl_time": "20260514_004804",
+  "total_articles": 24,
   "columns": {
-    "新闻动态": 44
+    "新闻动态": 24
   },
   "articles": [
     {
@@ -126,126 +126,6 @@
       "title": "成旦红书记参加我院无人装备与系统党支部主题党日活动",
       "url": "https://jhai.shu.edu.cn/info/1042/1265.htm",
       "date": "2020-11-30",
-      "column": "新闻动态"
-    },
-    {
-      "title": "中国工程院院士李德毅任我院名誉院长",
-      "url": "https://jhai.shu.edu.cn/info/1042/1223.htm",
-      "date": "2018-03-27",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院再次斩获上海市技术发明一等奖、二等奖",
-      "url": "https://jhai.shu.edu.cn/info/1042/1237.htm",
-      "date": "2018-03-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院无人艇驰援东海“桑吉轮”碰撞燃爆事故再立奇功",
-      "url": "https://jhai.shu.edu.cn/info/1042/1221.htm",
-      "date": "2018-03-13",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院“无人艇”教师团队入选首批全国高校黄大年式教师团队",
-      "url": "https://jhai.shu.edu.cn/info/1042/1219.htm",
-      "date": "2017-12-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院携精海·虹无人艇获第一届（中国）无人船公开赛优秀技术奖",
-      "url": "https://jhai.shu.edu.cn/info/1042/1236.htm",
-      "date": "2017-08-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院获上海市“工人先锋号”荣誉称号",
-      "url": "https://jhai.shu.edu.cn/info/1042/1235.htm",
-      "date": "2017-05-04",
-      "column": "新闻动态"
-    },
-    {
-      "title": "热烈祝贺蒲华燕老师获上海市十大杰出青年岗位能手荣誉称号",
-      "url": "https://jhai.shu.edu.cn/info/1042/1234.htm",
-      "date": "2017-04-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院与中国船舶工业系统工程院联合“海洋智能无人系统装备实验室”盛大揭牌",
-      "url": "http://news.shu.edu.cn/Default.aspx?tabid=449&ctl=Details&mid=1059&ItemID=37931&SkinSrc=[L]",
-      "date": "2017-03-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院总体室获上海市教育系统三八红旗集体",
-      "url": "https://jhai.shu.edu.cn/info/1042/1232.htm",
-      "date": "2017-03-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院青年教师杨扬、刘娜获“扬帆计划”资助",
-      "url": "https://jhai.shu.edu.cn/info/1042/1231.htm",
-      "date": "2017-02-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院谢少荣院长领衔“精海”无人艇团队喜获2016国家技术发明二等奖",
-      "url": "https://jhai.shu.edu.cn/info/1042/1227.htm",
-      "date": "2017-01-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院蒲华燕老师获2017年上海市青年科技启明星资助计划",
-      "url": "https://jhai.shu.edu.cn/info/1042/1225.htm",
-      "date": "2016-12-30",
-      "column": "新闻动态"
-    },
-    {
-      "title": "教育部部长陈宝生一行来我院调研",
-      "url": "https://jhai.shu.edu.cn/info/1042/1218.htm",
-      "date": "2016-12-08",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院参展2016上海国际商用及公务船舶展览会",
-      "url": "https://jhai.shu.edu.cn/info/1042/1216.htm",
-      "date": "2016-11-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院谢少荣教授获2016年度国家杰出青年科学基金资助",
-      "url": "https://jhai.shu.edu.cn/info/1042/1222.htm",
-      "date": "2016-11-22",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海市文物局副局长褚晓波及多位水下考古专家赴我院调研并召开研讨会",
-      "url": "https://jhai.shu.edu.cn/info/1042/1214.htm",
-      "date": "2016-11-14",
-      "column": "新闻动态"
-    },
-    {
-      "title": "本条新闻正在更新",
-      "url": "https://jhai.shu.edu.cn/info/1042/1212.htm",
-      "date": "2016-10-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海市副市长周波莅临我院调研",
-      "url": "https://jhai.shu.edu.cn/info/1042/1211.htm",
-      "date": "2016-09-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我院罗均教授被评为上海市优秀共产党员、市教卫党委优秀共产党员-师德标兵",
-      "url": "https://jhai.shu.edu.cn/info/1042/1209.htm",
-      "date": "2016-07-06",
-      "column": "新闻动态"
-    },
-    {
-      "title": "第四届上交会万钢部长、杨雄市长莅临无人艇展位指导",
-      "url": "https://jhai.shu.edu.cn/info/1042/1207.htm",
-      "date": "2016-05-06",
       "column": "新闻动态"
     },
     {

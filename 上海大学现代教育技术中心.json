@@ -2,12 +2,12 @@
   "domain": "metc.shu.edu.cn",
   "department": "上海大学现代教育技术中心",
   "type": "04",
-  "crawl_time": "20260530_224443",
+  "crawl_time": "20260527_091111",
   "total_articles": 91,
   "columns": {
-    "中心新闻": 20,
-    "通知公告": 50,
-    "部门新闻": 21
+    "中心新闻": 37,
+    "通知公告": 30,
+    "部门新闻": 24
   },
   "articles": [
     {
@@ -194,7 +194,7 @@
       "title": "多媒体教室专用软件安装与网络登录认证提示",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=2971",
       "date": "2024-03-07",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2023-2024春季学期机房安排总表（预排）",
@@ -350,19 +350,19 @@
       "title": "关于上海大学音乐铃声推广的公告",
       "url": "https://metc.shu.edu.cn/info/1066/2240.htm",
       "date": "2023-06-12",
-      "column": "通知公告"
+      "column": "部门新闻"
     },
     {
       "title": "现代教育技术中心顺利通过 学校智慧人文商管共享实验室…",
       "url": "https://metc.shu.edu.cn/info/1066/2250.htm",
       "date": "2023-06-12",
-      "column": "通知公告"
+      "column": "部门新闻"
     },
     {
       "title": "现教中心承接上海大学赛点第十四届蓝桥杯全国总决赛",
       "url": "https://metc.shu.edu.cn/info/1066/2651.htm",
       "date": "2023-06-11",
-      "column": "通知公告"
+      "column": "部门新闻"
     },
     {
       "title": "2022-2023春季机房安排表",
@@ -380,73 +380,73 @@
       "title": "2022-2023秋季机房安排表（第二稿）",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=2098",
       "date": "2022-09-04",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2021-2022冬季学期机房安排课表-网页查看",
       "url": "https://metc.shu.edu.cn/2021to22WinterKB.pdf",
       "date": "2021-11-27",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2021-2022冬季学期机房安排课表-附件下载",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=2062",
       "date": "2021-11-27",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2021-2022秋季学期机房安排课表（第二版）",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1747",
       "date": "2021-09-03",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021春季学期自习辅导安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1561",
       "date": "2021-03-25",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021春季学期自习辅导安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1563",
       "date": "2021-03-25",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021春季学期机房安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1746",
       "date": "2021-03-08",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021冬季学期自习辅导安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1559",
       "date": "2020-11-27",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021冬季学期机房安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1745",
       "date": "2020-11-18",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021秋季学期考场安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1744",
       "date": "2020-11-12",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021秋季学期自习辅导安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1743",
       "date": "2020-09-05",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2020-2021秋季学期机房安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1742",
       "date": "2020-09-03",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "计算中心2019~2020学年考核“优秀”名单公示",
@@ -458,25 +458,25 @@
       "title": "上海大学第八届计算机应用能力大赛决赛结果",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1741",
       "date": "2020-05-25",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2019-2020春季学期自习辅导安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1740",
       "date": "2020-04-03",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2019-2020春季学期机房安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1739",
       "date": "2020-04-02",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "上海大学第八届计算机应用能力大赛报名延期通知",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1738",
       "date": "2020-03-29",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "齐心协力抗疫情 强化责任显担当",

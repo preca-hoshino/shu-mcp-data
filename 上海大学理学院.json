@@ -2,13 +2,13 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260530_224443",
-  "total_articles": 3890,
+  "crawl_time": "20260529_091248",
+  "total_articles": 3860,
   "columns": {
     "主办会议": 41,
     "学术报告": 2609,
     "本科生教务": 39,
-    "本科生新闻": 75,
+    "本科生新闻": 45,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
@@ -12911,12 +12911,6 @@
       "column": "学术报告"
     },
     {
-      "title": "理学院化学系20级全程导师-师生见面会顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9748.htm",
-      "date": "2021-09-18",
-      "column": "本科生新闻"
-    },
-    {
       "title": "物理系高温超导重点实验室周迪帆老师获欧洲应用超导大会Jan Evetts奖",
       "url": "https://scicol.shu.edu.cn/info/1008/9742.htm",
       "date": "2021-09-17",
@@ -13169,12 +13163,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "理学院组织师生观看“庆祝中国共产党成立100周年大会”直播",
-      "url": "https://scicol.shu.edu.cn/info/1161/9679.htm",
-      "date": "2021-07-02",
-      "column": "本科生新闻"
-    },
-    {
       "title": "“所有过往，皆为序章”——物理本科生17级举行毕业主题班会",
       "url": "https://scicol.shu.edu.cn/info/1007/9675.htm",
       "date": "2021-06-30",
@@ -13215,12 +13203,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/9669.htm",
       "date": "2021-06-29",
       "column": "综合新闻"
-    },
-    {
-      "title": "理学院20级学生举行分组红色影视配音比赛",
-      "url": "https://scicol.shu.edu.cn/info/1161/9677.htm",
-      "date": "2021-06-28",
-      "column": "本科生新闻"
     },
     {
       "title": "第一届上海大学理学院数学系“阳阳教育奖学金”评审条例（本科生）",
@@ -13307,12 +13289,6 @@
       "column": "学术报告"
     },
     {
-      "title": "物理系学生党支部开展“我经历的祖国三线建设”主题党课",
-      "url": "https://scicol.shu.edu.cn/info/1161/9670.htm",
-      "date": "2021-06-21",
-      "column": "本科生新闻"
-    },
-    {
       "title": "化学系今日化学系列报告第258讲 MOFs薄膜气敏传感材料",
       "url": "https://scicol.shu.edu.cn/info/1003/9686.htm",
       "date": "2021-06-20",
@@ -13377,12 +13353,6 @@
       "url": "https://scicol.shu.edu.cn/info/1003/9637.htm",
       "date": "2021-06-16",
       "column": "学术报告"
-    },
-    {
-      "title": "理学院物理系学生党支部开展电影党课专题学习",
-      "url": "https://scicol.shu.edu.cn/info/1161/9654.htm",
-      "date": "2021-06-14",
-      "column": "本科生新闻"
     },
     {
       "title": "数学系Seminar第2116期 Virasoro-like代数的拟有限表示",
@@ -13559,12 +13529,6 @@
       "column": "学术报告"
     },
     {
-      "title": "物理系学生党支部组织清洁校园志愿活动",
-      "url": "https://scicol.shu.edu.cn/info/1161/9655.htm",
-      "date": "2021-05-31",
-      "column": "本科生新闻"
-    },
-    {
       "title": "化学系今日化学系列报告第256讲 Synthesis，functional materials and composite materials",
       "url": "https://scicol.shu.edu.cn/info/1003/9684.htm",
       "date": "2021-05-28",
@@ -13581,12 +13545,6 @@
       "url": "https://scicol.shu.edu.cn/info/1008/9468.htm",
       "date": "2021-05-27",
       "column": "科研动态"
-    },
-    {
-      "title": "理学院本科生党总支顺利举办“我有心语送给党，我为同学办实事——学党史·迎校庆”主题展示",
-      "url": "https://scicol.shu.edu.cn/info/1161/9470.htm",
-      "date": "2021-05-27",
-      "column": "本科生新闻"
     },
     {
       "title": "清洗空调除隐患——物理实验中心党支部“我为群众办实事”活动",
@@ -13617,24 +13575,6 @@
       "url": "https://scicol.shu.edu.cn/info/1008/9457.htm",
       "date": "2021-05-24",
       "column": "科研动态"
-    },
-    {
-      "title": "坚守初心担使命，砥砺前行筑未来——数学系学生党支部主题党日活动顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9460.htm",
-      "date": "2021-05-24",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "理学院物理系化学系学生党支部联合接力“绣党旗”活动",
-      "url": "https://scicol.shu.edu.cn/info/1161/9461.htm",
-      "date": "2021-05-24",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "20级物理系电信春招班班委会组织召开",
-      "url": "https://scicol.shu.edu.cn/info/1161/9473.htm",
-      "date": "2021-05-24",
-      "column": "本科生新闻"
     },
     {
       "title": "前沿新材料系列报告：高活性介孔粉体的控制合成与烧结应用探索",
@@ -13673,12 +13613,6 @@
       "column": "科研动态"
     },
     {
-      "title": "红色寻访——物理系学生党支部参观中共二大会址",
-      "url": "https://scicol.shu.edu.cn/info/1161/9452.htm",
-      "date": "2021-05-17",
-      "column": "本科生新闻"
-    },
-    {
       "title": "数学系Seminar第2103期 围长为5的平面图的森林顶点划分",
       "url": "https://scicol.shu.edu.cn/info/1003/9444.htm",
       "date": "2021-05-13",
@@ -13691,12 +13625,6 @@
       "column": "学术报告"
     },
     {
-      "title": "物理系学生支部开展“我为群众做实事”之直研、考研、就业分享会",
-      "url": "https://scicol.shu.edu.cn/info/1161/9453.htm",
-      "date": "2021-05-13",
-      "column": "本科生新闻"
-    },
-    {
       "title": "数学系Seminar第2102期 预定高斯曲率的凸超曲面",
       "url": "https://scicol.shu.edu.cn/info/1003/9441.htm",
       "date": "2021-05-12",
@@ -13707,12 +13635,6 @@
       "url": "https://scicol.shu.edu.cn/info/1008/9440.htm",
       "date": "2021-05-11",
       "column": "科研动态"
-    },
-    {
-      "title": "理学院学生志愿者开展上海自然博物馆、上海科技馆志愿服务活动",
-      "url": "https://scicol.shu.edu.cn/info/1161/9436.htm",
-      "date": "2021-05-11",
-      "column": "本科生新闻"
     },
     {
       "title": "数学系Seminar第2100期 允许在非交换的阿贝尔简单群可传递的对称图",
@@ -13769,12 +13691,6 @@
       "column": "学术报告"
     },
     {
-      "title": "物理系学生党支部开展学习“延安整风运动精神”主题党课",
-      "url": "https://scicol.shu.edu.cn/info/1161/9442.htm",
-      "date": "2021-05-03",
-      "column": "本科生新闻"
-    },
-    {
       "title": "化学系专业分流宣讲会顺利进行",
       "url": "https://scicol.shu.edu.cn/info/1007/9423.htm",
       "date": "2021-05-01",
@@ -13803,18 +13719,6 @@
       "url": "https://scicol.shu.edu.cn/info/1162/9414.htm",
       "date": "2021-04-28",
       "column": "研究生新闻"
-    },
-    {
-      "title": "理学院物理系举行21级电子信息科学与技术专业春招班见面会",
-      "url": "https://scicol.shu.edu.cn/info/1161/9421.htm",
-      "date": "2021-04-27",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "回顾峥嵘岁月，致敬崭新时代——理学院数学系学生党支部主题党课",
-      "url": "https://scicol.shu.edu.cn/info/1161/9411.htm",
-      "date": "2021-04-26",
-      "column": "本科生新闻"
     },
     {
       "title": "学党史、悟思想、办实事、开新局！理学院数学系党总支举行党史学习教育动员会",
@@ -13871,12 +13775,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "理学院物理系校友讲座“浅谈中国半导体业的展望和最新的就业趋势”举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9388.htm",
-      "date": "2021-04-20",
-      "column": "本科生新闻"
-    },
-    {
       "title": "物理学科Seminar第542讲 当人工智能遇到宇宙学",
       "url": "https://scicol.shu.edu.cn/info/1003/9371.htm",
       "date": "2021-04-19",
@@ -13905,30 +13803,6 @@
       "url": "https://scicol.shu.edu.cn/info/1008/9370.htm",
       "date": "2021-04-19",
       "column": "科研动态"
-    },
-    {
-      "title": "“践行总体国家安全观，共筑校园安全防线”——理学院举行辅导员主题沙龙",
-      "url": "https://scicol.shu.edu.cn/info/1161/9375.htm",
-      "date": "2021-04-19",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "行是知之始，知是行之成——暨社区学院理工二类学生药明康德之行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9379.htm",
-      "date": "2021-04-19",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "物理系学生党支部开展“学党史，悟初心，谈体会”专题组织生活",
-      "url": "https://scicol.shu.edu.cn/info/1161/9380.htm",
-      "date": "2021-04-19",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "理学院物理系举行电子信息科学与技术专业春招班座谈会",
-      "url": "https://scicol.shu.edu.cn/info/1161/9387.htm",
-      "date": "2021-04-19",
-      "column": "本科生新闻"
     },
     {
       "title": "理学院青年讲堂暨标杆讲座系列——“如何做科研PPT”",
@@ -14007,18 +13881,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/9351.htm",
       "date": "2021-04-07",
       "column": "综合新闻"
-    },
-    {
-      "title": "凝心聚力，乘势而上，阔步踏上新征程",
-      "url": "https://scicol.shu.edu.cn/info/1161/9344.htm",
-      "date": "2021-04-06",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "理学院辅导员主题沙龙暨师生党支部书记培训交流会顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9345.htm",
-      "date": "2021-04-02",
-      "column": "本科生新闻"
     },
     {
       "title": "数学系Seminar第2084期 二维抛物方程交替方向方法的无穷模估计",
@@ -14159,12 +14021,6 @@
       "column": "学术报告"
     },
     {
-      "title": "上海大学第十三届“自强杯”大学生课外学术科技作品竞赛学院初赛暨理学院立项答辩评审会顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9306.htm",
-      "date": "2021-03-18",
-      "column": "本科生新闻"
-    },
-    {
       "title": "花香迎春•美在理院——理学院举行庆祝“三八”国际劳动妇女节插花艺术活动",
       "url": "https://scicol.shu.edu.cn/info/1007/9303.htm",
       "date": "2021-03-16",
@@ -14175,18 +14031,6 @@
       "url": "https://scicol.shu.edu.cn/info/1008/9301.htm",
       "date": "2021-03-16",
       "column": "科研动态"
-    },
-    {
-      "title": "理学院物理系师生走访上海超摩光电科技有限公司",
-      "url": "https://scicol.shu.edu.cn/info/1161/9335.htm",
-      "date": "2021-03-16",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "理学院举办辅导员就业专题成长沙龙",
-      "url": "https://scicol.shu.edu.cn/info/1161/9300.htm",
-      "date": "2021-03-12",
-      "column": "本科生新闻"
     },
     {
       "title": "物理学科Seminar第536讲 瞬子理论：打造高效万能的隧穿速率工具箱",
@@ -14271,12 +14115,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/9272.htm",
       "date": "2021-01-27",
       "column": "综合新闻"
-    },
-    {
-      "title": "物理系与超摩光电科技有限公司校企合作交流会顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9274.htm",
-      "date": "2021-01-27",
-      "column": "本科生新闻"
     },
     {
       "title": "数学系Seminar第2076期 可压缩Euler方程组Radon测度解的应用及问题",
@@ -14379,24 +14217,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/9204.htm",
       "date": "2021-01-08",
       "column": "综合新闻"
-    },
-    {
-      "title": "理学院全程导师日暨化学系导师沙龙举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9211.htm",
-      "date": "2021-01-08",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "理学院物理系2020年康阔奖学金颁奖典礼顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9183.htm",
-      "date": "2021-01-06",
-      "column": "本科生新闻"
-    },
-    {
-      "title": "格物讲堂：理学院物理系毕业生科研暨职业发展教育讲座举行",
-      "url": "https://scicol.shu.edu.cn/info/1161/9190.htm",
-      "date": "2021-01-06",
-      "column": "本科生新闻"
     },
     {
       "title": "物理学科Seminar第533讲 Machine Learning and Physics",

@@ -2,10 +2,10 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20260530_224443",
-  "total_articles": 80,
+  "crawl_time": "20260522_125541",
+  "total_articles": 50,
   "columns": {
-    "新闻快递": 71,
+    "新闻快递": 41,
     "通知公告": 9
   },
   "articles": [
@@ -256,130 +256,10 @@
       "column": "通知公告"
     },
     {
-      "title": "宝山区领导参观上海大学博物馆溯园",
-      "url": "https://museum.shu.edu.cn/info/1030/1435.htm",
-      "date": "2016-01-14",
-      "column": "新闻快递"
-    },
-    {
-      "title": "《上海大学第一次全国可移动文物普查数据采集及登录实验项目》通过验收",
-      "url": "https://museum.shu.edu.cn/info/1030/1434.htm",
-      "date": "2015-12-31",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆组织志愿者参观上海玻璃博物馆",
-      "url": "https://museum.shu.edu.cn/info/1030/1462.htm",
-      "date": "2015-12-14",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我校召开校史咨询座谈会",
-      "url": "https://museum.shu.edu.cn/info/1030/1461.htm",
-      "date": "2015-11-03",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆赴浙江大学校史馆、博物馆调研",
-      "url": "https://museum.shu.edu.cn/info/1030/1460.htm",
-      "date": "2015-10-16",
-      "column": "新闻快递"
-    },
-    {
-      "title": "老上海大学校友后裔向我校捐赠珍贵史料",
-      "url": "https://museum.shu.edu.cn/info/1030/1459.htm",
-      "date": "2015-10-12",
-      "column": "新闻快递"
-    },
-    {
-      "title": "“文脉相续·风骨相承——海派名家后裔书画精品展”开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1458.htm",
-      "date": "2015-09-25",
-      "column": "新闻快递"
-    },
-    {
-      "title": "团结·爱国·抗日：“抗战烽火中的老上大校友”图片展开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1456.htm",
-      "date": "2015-09-06",
-      "column": "新闻快递"
-    },
-    {
-      "title": "爱国将军张治中图片展在上海大学图书馆开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1457.htm",
-      "date": "2015-09-06",
-      "column": "新闻快递"
-    },
-    {
       "title": "上海大学博物馆文物征集工作条例",
       "url": "https://museum.shu.edu.cn/info/1112/1922.htm",
       "date": "2015-09-01",
       "column": "通知公告"
-    },
-    {
-      "title": "“波兰招贴艺术数字展”项目通过验收",
-      "url": "https://museum.shu.edu.cn/info/1030/1455.htm",
-      "date": "2015-07-21",
-      "column": "新闻快递"
-    },
-    {
-      "title": "“皇冠上的宝石”波兰招贴艺术巡展在上海交通大学董浩云航运博物馆举行",
-      "url": "https://museum.shu.edu.cn/info/1030/1454.htm",
-      "date": "2015-05-29",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆接受原上海科大王国强教授的国家级发明",
-      "url": "https://museum.shu.edu.cn/info/1030/1453.htm",
-      "date": "2015-04-14",
-      "column": "新闻快递"
-    },
-    {
-      "title": "陆铭同志主持博物馆（筹）工作",
-      "url": "https://museum.shu.edu.cn/info/1030/1452.htm",
-      "date": "2015-04-07",
-      "column": "新闻快递"
-    },
-    {
-      "title": "上海大学数字博物馆正式开通",
-      "url": "https://museum.shu.edu.cn/info/1030/1450.htm",
-      "date": "2015-02-12",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆承办2015年上海大学校友艺术作品展暨老上海大学捐赠史料展",
-      "url": "https://museum.shu.edu.cn/info/1030/1451.htm",
-      "date": "2015-02-06",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆举办上海大学校史与溯园建设发展座谈会",
-      "url": "https://museum.shu.edu.cn/info/1030/1448.htm",
-      "date": "2014-12-29",
-      "column": "新闻快递"
-    },
-    {
-      "title": "皇冠上的宝石——波兰招贴艺术展开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1477.htm",
-      "date": "2014-12-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我校博物馆收藏老上海大学的毕业证书",
-      "url": "https://museum.shu.edu.cn/info/1030/1476.htm",
-      "date": "2014-11-28",
-      "column": "新闻快递"
-    },
-    {
-      "title": "溯园·上海大学（1922-1927）落成仪式举行",
-      "url": "https://museum.shu.edu.cn/info/1030/1475.htm",
-      "date": "2014-10-24",
-      "column": "新闻快递"
-    },
-    {
-      "title": "日本国学院大学落合知子教授向校博物馆捐赠文物",
-      "url": "https://museum.shu.edu.cn/info/1030/1449.htm",
-      "date": "2014-09-10",
-      "column": "新闻快递"
     },
     {
       "title": "青木丰教授：博物馆展示的基本概念",
@@ -390,66 +270,6 @@
     {
       "title": "我馆举行丰定轩收藏陶瓷器捐赠仪式",
       "url": "https://museum.shu.edu.cn/info/1030/1464.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "上海大学2013年度文物博物系列高级专业技术职务晋升聘任送审名单公示",
-      "url": "https://museum.shu.edu.cn/info/1030/1465.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "“人民科学家钱学森——上海高校巡回展”上海大学站开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1466.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "大德中国·海上丰碑——纪念丰子恺先生诞辰115周年系列活动开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1467.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "“自西徂东：德语文献里的中国”图片展开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1468.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "中共上海市教育卫生工作委员会等公布2013年上海高校博物馆内涵建设项目立项名单",
-      "url": "https://museum.shu.edu.cn/info/1030/1469.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "2013年度上海市文物博物系列高级专业技术职务任职资格审定结果公示",
-      "url": "https://museum.shu.edu.cn/info/1030/1470.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆3项课题获准立项",
-      "url": "https://museum.shu.edu.cn/info/1030/1471.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "我馆获赠著名考古学家黄宣佩先生藏书",
-      "url": "https://museum.shu.edu.cn/info/1030/1472.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "上海大学博物馆艺术邀请展开幕",
-      "url": "https://museum.shu.edu.cn/info/1030/1473.htm",
-      "date": "2014-07-22",
-      "column": "新闻快递"
-    },
-    {
-      "title": "旖旎上大——美术学院老教授协会上海大学校史景观油画展开展",
-      "url": "https://museum.shu.edu.cn/info/1030/1474.htm",
       "date": "2014-07-22",
       "column": "新闻快递"
     },

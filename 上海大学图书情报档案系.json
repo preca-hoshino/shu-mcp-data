@@ -2,13 +2,13 @@
   "domain": "ischool.shu.edu.cn",
   "department": "上海大学图书情报档案系",
   "type": "28",
-  "crawl_time": "20260530_224443",
-  "total_articles": 186,
+  "crawl_time": "20260514_004804",
+  "total_articles": 174,
   "columns": {
-    "新闻动态": 68,
-    "本科生动态": 15,
-    "研究生动态": 72,
-    "通知公告": 31
+    "新闻动态": 86,
+    "通知公告": 31,
+    "研究生动态": 42,
+    "本科生动态": 15
   },
   "articles": [
     {
@@ -564,36 +564,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "上海大学图书情报档案系研究生冬季学期首日教育圆满结束",
-      "url": "https://ischool.shu.edu.cn/info/1231/1908.htm",
-      "date": "2019-11-26",
-      "column": "研究生动态"
-    },
-    {
-      "title": "首战告捷！图情档外国语联队VS材料基因组队速报",
-      "url": "https://ischool.shu.edu.cn/info/1231/1891.htm",
-      "date": "2019-11-22",
-      "column": "研究生动态"
-    },
-    {
-      "title": "本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1892.htm",
-      "date": "2019-11-22",
-      "column": "研究生动态"
-    },
-    {
-      "title": "本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1861.htm",
-      "date": "2019-11-15",
-      "column": "研究生动态"
-    },
-    {
-      "title": "“学术出版现状与未来趋势”学术讲座顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1853.htm",
-      "date": "2019-11-12",
-      "column": "研究生动态"
-    },
-    {
       "title": "图情档系金波主任一行参加苏州档案日活动",
       "url": "https://ischool.shu.edu.cn/info/1221/1832.htm",
       "date": "2019-11-09",
@@ -603,7 +573,7 @@
       "title": "本周图书情报档案系研究生就业信息汇总",
       "url": "https://ischool.shu.edu.cn/info/1231/1842.htm",
       "date": "2019-11-08",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "助力进博会，图情档人在行动",
@@ -615,31 +585,31 @@
       "title": "图书情报档案系研究生党建例会顺利召开",
       "url": "https://ischool.shu.edu.cn/info/1231/1818.htm",
       "date": "2019-11-03",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系研究生党团学例会顺利召开",
       "url": "https://ischool.shu.edu.cn/info/1231/1819.htm",
       "date": "2019-11-03",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系2019年第2期研究生赏论讲坛顺利举办",
       "url": "https://ischool.shu.edu.cn/info/1231/1820.htm",
       "date": "2019-11-03",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系第一届校史馆志愿讲解培训会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1821.htm",
       "date": "2019-11-03",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系召开2018级研究生入党积极分子推优大会",
       "url": "https://ischool.shu.edu.cn/info/1231/1822.htm",
       "date": "2019-11-03",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图情档系领导班子与教工党支部参观校史馆和溯园",
@@ -657,7 +627,7 @@
       "title": "本周图书情报档案系研究生就业信息汇总",
       "url": "https://ischool.shu.edu.cn/info/1231/1816.htm",
       "date": "2019-11-01",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "活动回顾 【2020考研经验分享会】",
@@ -669,7 +639,7 @@
       "title": "自检自查——图书情报档案系2019级研究生党支部召开“不忘初心追卓越、牢记使命创...",
       "url": "https://ischool.shu.edu.cn/info/1231/1813.htm",
       "date": "2019-10-30",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图情档系领导班子召开“不忘初心、牢记使命”主题教育专题学习会",
@@ -687,25 +657,25 @@
       "title": "新时代 新青年 新担当 党支部书记专题党课",
       "url": "https://ischool.shu.edu.cn/info/1231/1817.htm",
       "date": "2019-10-29",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "自查整改交流——图情档系2018级研究生党支部召开第二次“不忘初心追卓越，牢记使...",
       "url": "https://ischool.shu.edu.cn/info/1231/1802.htm",
       "date": "2019-10-28",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系研究生党支部慈善爱心屋捐书志愿活动圆满结束",
       "url": "https://ischool.shu.edu.cn/info/1231/1791.htm",
       "date": "2019-10-27",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系2017级研究生党支部召开党员大会",
       "url": "https://ischool.shu.edu.cn/info/1231/1943.htm",
       "date": "2019-10-27",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图情档系“加强党建思想引领，激发学术创新活力” 专题党课顺利举行",
@@ -717,7 +687,7 @@
       "title": "“不忘研途初心，牢记学术担当” 图情档系学风建设促进会成功举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1793.htm",
       "date": "2019-10-26",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图情档系领导班子召开对照党章党规找差距专题会议",
@@ -753,67 +723,25 @@
       "title": "图书情报档案系2019年第1期研究生赏论讲坛顺利举办",
       "url": "https://ischool.shu.edu.cn/info/1231/1751.htm",
       "date": "2019-10-19",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "“新中国档案学研究的成就——以档案学基础理论为例”讲座顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/1752.htm",
       "date": "2019-10-19",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "我系与法学院联合举办“我和我的祖国”新时代爱国主义教育活动",
       "url": "https://ischool.shu.edu.cn/info/1231/1753.htm",
       "date": "2019-10-19",
-      "column": "研究生动态"
-    },
-    {
-      "title": "招聘信息|本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1754.htm",
-      "date": "2019-10-18",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "中山大学陈永生教授莅临图书情报档案系作学术报告",
       "url": "https://ischool.shu.edu.cn/info/1231/1756.htm",
       "date": "2019-10-18",
-      "column": "研究生动态"
-    },
-    {
-      "title": "2019级研究生党支部召开“不忘初心、牢记使命”专题组织生活会",
-      "url": "https://ischool.shu.edu.cn/info/1231/1761.htm",
-      "date": "2019-10-18",
-      "column": "研究生动态"
-    },
-    {
-      "title": "“甘乃光文书档案连锁办法的提出、推动与战后转化” 学术讲座顺利举行",
-      "url": "https://ischool.shu.edu.cn/info/1231/1762.htm",
-      "date": "2019-10-16",
-      "column": "研究生动态"
-    },
-    {
-      "title": "“净土之上绿水青山寄真情，穹顶之下时代青年且躬行”系列团日活动之“践环保，善...",
-      "url": "https://ischool.shu.edu.cn/info/1231/1721.htm",
-      "date": "2019-10-12",
-      "column": "研究生动态"
-    },
-    {
-      "title": "图书情报档案系联合团支部荣获2018—2019学年春季学期“活力团支部”称号",
-      "url": "https://ischool.shu.edu.cn/info/1231/1722.htm",
-      "date": "2019-10-12",
-      "column": "研究生动态"
-    },
-    {
-      "title": "招聘信息|本周图书情报档案系研究生就业信息汇总",
-      "url": "https://ischool.shu.edu.cn/info/1231/1723.htm",
-      "date": "2019-10-12",
-      "column": "研究生动态"
-    },
-    {
-      "title": "喜报！图情档系团队荣获“最燃团课”微视频大赛二等奖！",
-      "url": "https://ischool.shu.edu.cn/info/1231/1681.htm",
-      "date": "2019-09-30",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系“不忘初心，牢记使命”党团学干部座谈会顺利举行",
@@ -873,7 +801,7 @@
       "title": "图书情报档案系2019级研究生党支部召开 “不忘初心、牢记使命”主题教育组织生活会",
       "url": "https://ischool.shu.edu.cn/info/1231/1601.htm",
       "date": "2019-09-21",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "图书情报档案系“不忘初心、牢记使命” 主题教育学习会顺利召开",

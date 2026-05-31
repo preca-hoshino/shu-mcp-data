@@ -2,10 +2,10 @@
   "domain": "dwjsgzb.shu.edu.cn",
   "department": "上海大学党委教师工作部",
   "type": "19",
-  "crawl_time": "20260530_224443",
-  "total_articles": 58,
+  "crawl_time": "20260520_091018",
+  "total_articles": 38,
   "columns": {
-    "新闻动态": 42,
+    "新闻动态": 22,
     "通知公告": 16
   },
   "articles": [
@@ -148,72 +148,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "领航课程思政   落实立德树人",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1741.htm",
-      "date": "2020-06-11",
-      "column": "新闻动态"
-    },
-    {
-      "title": "弘扬五四精神  担当时代重任  领航新时代青年成长成才",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1691.htm",
-      "date": "2020-05-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学召开教师思想政治工作领导小组2020年首次会议",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1641.htm",
-      "date": "2020-03-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我校举办高校教师思想政治工作专题研讨会",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1622.htm",
-      "date": "2019-12-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "爱国情·强国志·报国行",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1611.htm",
-      "date": "2019-12-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "党委教师工作部、党委统战部、直属单位党委联合举行“不忘初心、牢记使命”主题教...",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1581.htm",
-      "date": "2019-10-30",
-      "column": "新闻动态"
-    },
-    {
-      "title": "弘扬革命精神  映照初心使命",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1554.htm",
-      "date": "2019-10-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "不忘初心追卓越 牢记使命创一流",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1541.htm",
-      "date": "2019-10-08",
-      "column": "新闻动态"
-    },
-    {
-      "title": "喜迎第三十五个教师节•教师座谈会顺利举行",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1531.htm",
-      "date": "2019-09-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "喜迎第三十五个教师节•第一期“我与书记面对面”座谈会顺利举行",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1534.htm",
-      "date": "2019-09-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "纪念五四运动100周年  献礼祖国70华诞：展开历史长卷  聆听时代声音——上海大学第...",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1471.htm",
-      "date": "2019-07-05",
-      "column": "新闻动态"
-    },
-    {
       "title": "“师与远方” 之 “师荐” 重磅来袭！",
       "url": "https://dwjsgzb.shu.edu.cn/info/1004/1423.htm",
       "date": "2019-05-17",
@@ -226,46 +160,10 @@
       "column": "通知公告"
     },
     {
-      "title": "2018年上海大学新进教师岗前培训班业务工作模块专题培训顺利举行",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1373.htm",
-      "date": "2019-04-12",
-      "column": "新闻动态"
-    },
-    {
       "title": "2018年上海大学新进教师岗前培训之业务工作模块培训通知",
       "url": "https://dwjsgzb.shu.edu.cn/info/1004/1361.htm",
       "date": "2019-04-01",
       "column": "通知公告"
-    },
-    {
-      "title": "学习贯彻全国教育大会精神，新时代科学家精神：使命˙责任˙担当",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1321.htm",
-      "date": "2018-12-19",
-      "column": "新闻动态"
-    },
-    {
-      "title": "校党委副书记徐旭赴党委统战部、党委教师工作部调研指导工作",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1293.htm",
-      "date": "2018-11-02",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学2018年青年教师联谊会理事会务虚会顺利召开",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1281.htm",
-      "date": "2018-10-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "学习校党代会精神  弘扬“红船精神”  砥砺奋进新征程",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1284.htm",
-      "date": "2018-10-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学2018年新进教师岗前培训班顺利举办",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1261.htm",
-      "date": "2018-09-04",
-      "column": "新闻动态"
     },
     {
       "title": "2018年上海大学新进教师校内岗前培训班实施计划",
@@ -274,28 +172,10 @@
       "column": "通知公告"
     },
     {
-      "title": "我校组织师生观看电影纪录片《厉害了，我的国》",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1222.htm",
-      "date": "2018-03-27",
-      "column": "新闻动态"
-    },
-    {
       "title": "关于组织集中观看电影《厉害了，我的国》的通知",
       "url": "https://dwjsgzb.shu.edu.cn/info/1004/1211.htm",
       "date": "2018-03-21",
       "column": "通知公告"
-    },
-    {
-      "title": "以钟扬同志先进事迹为感召，做牢记使命的奋斗者",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1192.htm",
-      "date": "2018-02-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我校举行“不忘初心、牢记使命，贯彻落实十九大精神”学习实践活动——学习钟扬同...",
-      "url": "https://dwjsgzb.shu.edu.cn/info/1005/1171.htm",
-      "date": "2018-01-11",
-      "column": "新闻动态"
     },
     {
       "title": "关于开展学习钟扬同志先进事迹的通知",

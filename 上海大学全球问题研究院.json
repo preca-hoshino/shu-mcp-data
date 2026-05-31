@@ -2,12 +2,12 @@
   "domain": "igs.shu.edu.cn",
   "department": "上海大学全球问题研究院",
   "type": "27",
-  "crawl_time": "20260530_224443",
-  "total_articles": 436,
+  "crawl_time": "20260515_090615",
+  "total_articles": 387,
   "columns": {
-    "学术热点": 316,
-    "新闻中心": 77,
-    "通知公告": 43
+    "学术热点": 306,
+    "新闻中心": 58,
+    "通知公告": 23
   },
   "articles": [
     {
@@ -1691,12 +1691,6 @@
       "column": "学术热点"
     },
     {
-      "title": "A Lecture by Enrique Dussel Peters",
-      "url": "https://igs.shu.edu.cn/info/1011/2263.htm",
-      "date": "2019-10-28",
-      "column": "通知公告"
-    },
-    {
       "title": "How BRICS countries can play a bigger global role",
       "url": "https://igs.shu.edu.cn/info/1013/2260.htm",
       "date": "2019-10-28",
@@ -1745,18 +1739,6 @@
       "column": "学术热点"
     },
     {
-      "title": "【学术讲座】阿富汗冲突：阿富汗人的视角",
-      "url": "https://igs.shu.edu.cn/info/1011/2191.htm",
-      "date": "2019-10-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "【工作坊】The First Shanghai-Haifa Workshop on the Middle East",
-      "url": "https://igs.shu.edu.cn/info/1011/2192.htm",
-      "date": "2019-10-16",
-      "column": "通知公告"
-    },
-    {
       "title": "我读 | 远去的帝国博弈：奥兰多·费吉斯讲述的克里米亚战争",
       "url": "https://igs.shu.edu.cn/info/1013/2184.htm",
       "date": "2019-10-13",
@@ -1773,24 +1755,6 @@
       "url": "https://igs.shu.edu.cn/info/1013/2162.htm",
       "date": "2019-10-06",
       "column": "学术热点"
-    },
-    {
-      "title": "【学术讲座】火地岛、南极与巴塔哥尼亚：地球另一端中国的机遇",
-      "url": "https://igs.shu.edu.cn/info/1011/2114.htm",
-      "date": "2019-09-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "Call for Presentations at the Biannual Conference of the  Council for Latin American Studies of Asia and Oceania (CELAO)",
-      "url": "https://igs.shu.edu.cn/info/1011/2115.htm",
-      "date": "2019-09-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "Convocatoria para presentar ponencias  Consejo de Estudios Latinoamericanos de Asia y de Oceanía (CELAO)  18 de abril de 2020, Shanghái",
-      "url": "https://igs.shu.edu.cn/info/1011/2117.htm",
-      "date": "2019-09-24",
-      "column": "通知公告"
     },
     {
       "title": "【学术报告】中联部前副部长艾平应邀来上海大学作报告",
@@ -1836,12 +1800,6 @@
     },
     {
       "title": "【博士论坛】 濠江新語博士論壇2019",
-      "url": "https://igs.shu.edu.cn/info/1011/2001.htm",
-      "date": "2019-07-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "【博士论坛】 濠江新語博士論壇2019",
       "url": "https://igs.shu.edu.cn/info/1012/2002.htm",
       "date": "2019-07-12",
       "column": "新闻中心"
@@ -1869,18 +1827,6 @@
       "url": "https://igs.shu.edu.cn/info/1013/1878.htm",
       "date": "2019-05-23",
       "column": "学术热点"
-    },
-    {
-      "title": "【暑期学校】2019年上海大学“全球视野中的拉丁美洲研究”暑期学校邀请函",
-      "url": "https://igs.shu.edu.cn/info/1011/1841.htm",
-      "date": "2019-05-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "“拉丁美洲史学史”国际学术工作坊召开通知",
-      "url": "https://igs.shu.edu.cn/info/1011/1796.htm",
-      "date": "2019-04-21",
-      "column": "通知公告"
     },
     {
       "title": "【学术讲座】夏德明：全球史视野下17世纪的帝国与宗教",
@@ -2093,12 +2039,6 @@
       "column": "学术热点"
     },
     {
-      "title": "【Call for papers】5th China and The Middle East and North Africa Conference",
-      "url": "https://igs.shu.edu.cn/info/1011/1553.htm",
-      "date": "2018-12-02",
-      "column": "通知公告"
-    },
-    {
       "title": "Jiang Shixue: G20 should head for institutionalization",
       "url": "https://igs.shu.edu.cn/info/1013/1538.htm",
       "date": "2018-11-27",
@@ -2139,12 +2079,6 @@
       "url": "https://igs.shu.edu.cn/info/1013/1504.htm",
       "date": "2018-11-11",
       "column": "学术热点"
-    },
-    {
-      "title": "【会议预告】第七届中古欧亚草原国际学术研讨会即将在上海大学召开",
-      "url": "https://igs.shu.edu.cn/info/1011/1494.htm",
-      "date": "2018-11-07",
-      "column": "通知公告"
     },
     {
       "title": "【学术交流】我院留学生Melissa Rodriguez参加世界青年研究院主办的国际安全政策峰会",
@@ -2255,12 +2189,6 @@
       "column": "新闻中心"
     },
     {
-      "title": "【电影讨论】河中女孩：宽恕的代价",
-      "url": "https://igs.shu.edu.cn/info/1011/1402.htm",
-      "date": "2018-10-08",
-      "column": "通知公告"
-    },
-    {
       "title": "Brazil's presidential election: A tale of two candidates",
       "url": "https://igs.shu.edu.cn/info/1013/1397.htm",
       "date": "2018-10-07",
@@ -2291,58 +2219,10 @@
       "column": "学术热点"
     },
     {
-      "title": "China-US Trade Relations: Think tanks discuss solutions to trade dispute ahead of G20 Summit",
-      "url": "https://igs.shu.edu.cn/info/1012/1372.htm",
-      "date": "2018-09-30",
-      "column": "新闻中心"
-    },
-    {
-      "title": "二十国集团智库（T20）会议在上海举行",
-      "url": "https://igs.shu.edu.cn/info/1012/1374.htm",
-      "date": "2018-09-30",
-      "column": "新闻中心"
-    },
-    {
       "title": "Opinion: When multilateralism is at risk, how can UN survive?",
       "url": "https://igs.shu.edu.cn/info/1013/1361.htm",
       "date": "2018-09-26",
       "column": "学术热点"
-    },
-    {
-      "title": "“人类命运共同体与中国-拉美国家关系国际研讨会”在上海大学举行",
-      "url": "https://igs.shu.edu.cn/info/1012/1376.htm",
-      "date": "2018-09-25",
-      "column": "新闻中心"
-    },
-    {
-      "title": "德国柏林自由大学历史系康拉德教授来我校讲学 并参加《全球史导论》新书发布会",
-      "url": "https://igs.shu.edu.cn/info/1012/1355.htm",
-      "date": "2018-09-18",
-      "column": "新闻中心"
-    },
-    {
-      "title": "拉美研究中心与上海研究院联合举行《一带一路倡议与中拉关系》新书发布会",
-      "url": "https://igs.shu.edu.cn/info/1012/1349.htm",
-      "date": "2018-09-15",
-      "column": "新闻中心"
-    },
-    {
-      "title": "【学术活动】《全球史导论》中文版发布会",
-      "url": "https://igs.shu.edu.cn/info/1011/1319.htm",
-      "date": "2018-09-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "【讲座通知】19世纪“时间”概念的全球性转变",
-      "url": "https://igs.shu.edu.cn/info/1011/1320.htm",
-      "date": "2018-09-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "【讲座通知】权力与霸权的约束——全球史视野下17世纪的中国基督教",
-      "url": "https://igs.shu.edu.cn/info/1011/1321.htm",
-      "date": "2018-09-07",
-      "column": "通知公告"
     },
     {
       "title": "Selim Han Yeniacun：Çin'in Kuşak Yol projesinde İsrail'in konumu",
@@ -2351,124 +2231,10 @@
       "column": "学术热点"
     },
     {
-      "title": "我院博士生Zahid Khan赴澳大利亚布里斯班参加国际政治学大会",
-      "url": "https://igs.shu.edu.cn/info/1012/1316.htm",
-      "date": "2018-09-06",
-      "column": "新闻中心"
-    },
-    {
-      "title": "【讲座通知】全球化的纷争与其在拉丁美洲的后果：以阿根廷为例",
-      "url": "https://igs.shu.edu.cn/info/1011/1304.htm",
-      "date": "2018-09-05",
-      "column": "通知公告"
-    },
-    {
-      "title": "委内瑞拉国立中央大学教授Sergio Gelfenstein受邀赴拉美中心发表演讲",
-      "url": "https://igs.shu.edu.cn/info/1012/1306.htm",
-      "date": "2018-09-05",
-      "column": "新闻中心"
-    },
-    {
-      "title": "【首发】Center for Global Governance Newsletter: Issue 1/2018",
-      "url": "https://igs.shu.edu.cn/info/1012/1311.htm",
-      "date": "2018-09-05",
-      "column": "新闻中心"
-    },
-    {
       "title": "Md Safiqul Islam：The Strategies of China in the Bay of Bengal Region:Revisiting Strategic Competition",
       "url": "https://igs.shu.edu.cn/info/1013/1313.htm",
       "date": "2018-09-05",
       "column": "学术热点"
-    },
-    {
-      "title": "【学术活动】《拉美与“一带一路”》首发式",
-      "url": "https://igs.shu.edu.cn/info/1011/1297.htm",
-      "date": "2018-09-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "【会议通知】：中国-拉美命运共同体国际学术研讨会",
-      "url": "https://igs.shu.edu.cn/info/1011/1301.htm",
-      "date": "2018-09-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "江时学：发展中国家合作的新动力(大家手笔)",
-      "url": "https://igs.shu.edu.cn/info/1013/1298.htm",
-      "date": "2018-09-04",
-      "column": "学术热点"
-    },
-    {
-      "title": "土耳其研究中心主任郭长刚教授作客东方卫视《环球交叉点》",
-      "url": "https://igs.shu.edu.cn/info/1012/1291.htm",
-      "date": "2018-08-29",
-      "column": "新闻中心"
-    },
-    {
-      "title": "刘义：伊斯兰教与女性主义：土耳其的性别政治问题",
-      "url": "https://igs.shu.edu.cn/info/1013/1294.htm",
-      "date": "2018-08-29",
-      "column": "学术热点"
-    },
-    {
-      "title": "【观点】埃尔多安“另觅盟友”能帮他度过“里拉危机”吗？",
-      "url": "https://igs.shu.edu.cn/info/1013/1205.htm",
-      "date": "2018-08-23",
-      "column": "学术热点"
-    },
-    {
-      "title": "A Feature interview with Turkish Professor Tugrul Keskin",
-      "url": "https://igs.shu.edu.cn/info/1013/1182.htm",
-      "date": "2018-08-16",
-      "column": "学术热点"
-    },
-    {
-      "title": "刘义：黑海与白海：伊斯坦布尔的多维面孔",
-      "url": "https://igs.shu.edu.cn/info/1013/1185.htm",
-      "date": "2018-08-16",
-      "column": "学术热点"
-    },
-    {
-      "title": "江时学：外交理念的重要意义不亚于国际关系理论",
-      "url": "https://igs.shu.edu.cn/info/1013/1124.htm",
-      "date": "2018-08-04",
-      "column": "学术热点"
-    },
-    {
-      "title": "【征稿启事】《全球学评论》稿约",
-      "url": "https://igs.shu.edu.cn/info/1011/1013.htm",
-      "date": "2018-08-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "江时学：How to explain the Belt and Road Initiative to the world",
-      "url": "https://igs.shu.edu.cn/info/1013/1017.htm",
-      "date": "2018-07-30",
-      "column": "学术热点"
-    },
-    {
-      "title": "郎荣吉：中印须摒弃猜忌，共谋世界大同",
-      "url": "https://igs.shu.edu.cn/info/1013/1019.htm",
-      "date": "2018-07-27",
-      "column": "学术热点"
-    },
-    {
-      "title": "【观点】Red-carpet welcome for Chinese President Xi Jinping in United Arab Emirates, ‘gateway to Middle East’",
-      "url": "https://igs.shu.edu.cn/info/1013/1028.htm",
-      "date": "2018-07-20",
-      "column": "学术热点"
-    },
-    {
-      "title": "江时学：The future of US-EU relations",
-      "url": "https://igs.shu.edu.cn/info/1013/1026.htm",
-      "date": "2018-07-17",
-      "column": "学术热点"
-    },
-    {
-      "title": "【学术讲座】拉丁美洲和加勒比地区在当前国际形势中的角色",
-      "url": "https://igs.shu.edu.cn/info/1011/1014.htm",
-      "date": "2018-06-28",
-      "column": "通知公告"
     },
     {
       "title": "【圆桌】大选后土耳其稳中有变，埃尔多安连任对中国利大于弊",
@@ -2495,42 +2261,6 @@
       "column": "学术热点"
     },
     {
-      "title": "第八届全国拉美研究青年论坛在上海大学举行",
-      "url": "https://igs.shu.edu.cn/info/1012/1035.htm",
-      "date": "2018-06-18",
-      "column": "新闻中心"
-    },
-    {
-      "title": "上海大学全球问题研究院执行院长郭长刚教授一行出席全球学国际高校联盟第11届年会",
-      "url": "https://igs.shu.edu.cn/info/1012/1158.htm",
-      "date": "2018-06-15",
-      "column": "新闻中心"
-    },
-    {
-      "title": "金东寒校长率上大代表团一行访问土耳其，与我校合作伙伴海峡大学校方会谈并签署了两校合作协议",
-      "url": "https://igs.shu.edu.cn/info/1012/1206.htm",
-      "date": "2018-06-15",
-      "column": "新闻中心"
-    },
-    {
-      "title": "美国蓝星战略公司执行董事丹尼尔·埃里克森就中-拉关系发表演讲",
-      "url": "https://igs.shu.edu.cn/info/1012/1034.htm",
-      "date": "2018-06-13",
-      "column": "新闻中心"
-    },
-    {
-      "title": "阿根廷国家科学技术研究委员会研究员马尔丁•贝尔赫尔应邀作学术讲座",
-      "url": "https://igs.shu.edu.cn/info/1012/1036.htm",
-      "date": "2018-05-21",
-      "column": "新闻中心"
-    },
-    {
-      "title": "本院近两年的研究项目立项情况（2016和2017年）",
-      "url": "https://igs.shu.edu.cn/info/1012/1071.htm",
-      "date": "2018-05-15",
-      "column": "新闻中心"
-    },
-    {
       "title": "杨晨：土耳其为何提前17个月举行大选？",
       "url": "https://igs.shu.edu.cn/info/1013/1031.htm",
       "date": "2018-05-10",
@@ -2541,30 +2271,6 @@
       "url": "https://igs.shu.edu.cn/info/1011/1157.htm",
       "date": "2018-04-10",
       "column": "通知公告"
-    },
-    {
-      "title": "土耳其“格贝克力”考古学术报告会在上海大学举行",
-      "url": "https://igs.shu.edu.cn/info/1012/1038.htm",
-      "date": "2018-03-29",
-      "column": "新闻中心"
-    },
-    {
-      "title": "台湾淡江大学拉美研究所荣誉教授熊建成受邀开展学术讲座",
-      "url": "https://igs.shu.edu.cn/info/1012/1039.htm",
-      "date": "2017-12-28",
-      "column": "新闻中心"
-    },
-    {
-      "title": "中东局势与“一带一路”学术论坛在上海大学成功举行",
-      "url": "https://igs.shu.edu.cn/info/1012/1040.htm",
-      "date": "2017-12-19",
-      "column": "新闻中心"
-    },
-    {
-      "title": "巴基斯坦旁遮普大学Amjad Abbas Khan Magsi博士应邀到我校讲座",
-      "url": "https://igs.shu.edu.cn/info/1012/1041.htm",
-      "date": "2017-12-14",
-      "column": "新闻中心"
     },
     {
       "title": "巴基斯坦旁遮普大学历史系教授穆罕默德伊克巴尔•乔教授应邀来我校做学术报告",

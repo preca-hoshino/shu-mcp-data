@@ -2,10 +2,10 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260530_224443",
-  "total_articles": 50,
+  "crawl_time": "20260528_091756",
+  "total_articles": 32,
   "columns": {
-    "最新公告": 50
+    "最新公告": 32
   },
   "articles": [
     {
@@ -195,117 +195,9 @@
       "column": "最新公告"
     },
     {
-      "title": "关于上海大学2025年第二学士学位初审及面试工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37800.htm",
-      "date": "2025-06-03",
-      "column": "最新公告"
-    },
-    {
       "title": "上海大学2025年综合评价录取报名初审结果公布",
       "url": "https://bkzsw.shu.edu.cn/info/1798/37820.htm",
       "date": "2025-06-03",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2025年插班生成绩查询公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37780.htm",
-      "date": "2025-05-30",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2025年艺术类本科专业校考成绩开通查询",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37630.htm",
-      "date": "2025-03-28",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2025年“我为上大代言”实践活动完成学生名单公示",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37620.htm",
-      "date": "2025-03-21",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海电影学院2025年戏剧影视导演专业校考三试（现场考试）工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37590.htm",
-      "date": "2025-03-18",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海电影学院2025年表演专业校考三试（现场考试）工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37570.htm",
-      "date": "2025-03-17",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2025年春季高考招生候补资格考生预录取名单公示【公示已结束】",
-      "url": "https://bkzsw.shu.edu.cn/newcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1798&wbnewsid=37550",
-      "date": "2025-03-13",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2025年春季高考招生计划缺额公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37510.htm",
-      "date": "2025-03-12",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海美术学院2025年艺术类本科专业校考初选二次递补合格名单及缴费确认的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37530.htm",
-      "date": "2025-03-12",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海电影学院2025年戏剧影视导演专业校考复试（线上考试）工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37490.htm",
-      "date": "2025-03-11",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海美术学院2025年艺术类本科专业校考初选递补合格名单及缴费确认的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37470.htm",
-      "date": "2025-03-10",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海电影学院2025年表演专业校考复试（线上考试）工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37450.htm",
-      "date": "2025-03-09",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学音乐学院2025年音乐表演专业校考复试（现场考试）工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37430.htm",
-      "date": "2025-03-07",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学上海美术学院2025年艺术类本科专业校考初选及考试公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37410.htm",
-      "date": "2025-03-06",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于公布上海大学2025年春季招生自主测试资格线的通知",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37370.htm",
-      "date": "2025-02-20",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学上海电影学院2025年表演专业校考初试（线上考试）考生须知",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37330.htm",
-      "date": "2025-02-16",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学上海电影学院2025年戏剧影视导演专业校考初试（线上考试）考生须知",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37350.htm",
-      "date": "2025-02-16",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学音乐学院2025年音乐表演专业校考初试（线上考试）考生须知",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37310.htm",
-      "date": "2025-02-09",
       "column": "最新公告"
     }
   ]

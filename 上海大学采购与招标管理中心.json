@@ -2,13 +2,13 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20260530_224443",
-  "total_articles": 190,
+  "crawl_time": "20260514_004804",
+  "total_articles": 152,
   "columns": {
-    "工作动态": 78,
-    "成交公告": 22,
+    "工作动态": 58,
+    "通知公告": 29,
     "服务指南": 21,
-    "通知公告": 47,
+    "成交公告": 22,
     "采购公告": 22
   },
   "articles": [
@@ -505,112 +505,10 @@
       "column": "服务指南"
     },
     {
-      "title": "重温红色记忆·追寻红色足迹 ——采招办支部开展红船精神党史学习教育",
-      "url": "https://czb.shu.edu.cn/info/1121/1922.htm",
-      "date": "2021-06-21",
-      "column": "工作动态"
-    },
-    {
-      "title": "浓情端午送温暖 我为群众办实事 ——上大晨光电商平台正式上线啦！",
-      "url": "https://czb.shu.edu.cn/info/1121/1920.htm",
-      "date": "2021-06-11",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部召开党史学习教育第三次集中学习会",
-      "url": "https://czb.shu.edu.cn/info/1121/1918.htm",
-      "date": "2021-06-09",
-      "column": "工作动态"
-    },
-    {
-      "title": "手抄入党誓词，庆祝建党百年——采招办党支部开展重温入党誓词活动",
-      "url": "https://czb.shu.edu.cn/info/1121/1908.htm",
-      "date": "2021-05-28",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部召开党史学习教育第二次集中学习会",
-      "url": "https://czb.shu.edu.cn/info/1121/1899.htm",
-      "date": "2021-05-21",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部与纪检监察党支部举行联组学习会",
-      "url": "https://czb.shu.edu.cn/info/1121/1897.htm",
-      "date": "2021-05-19",
-      "column": "工作动态"
-    },
-    {
-      "title": "采购与招标管理办公室召开上海大学采购风险防控专题研讨会",
-      "url": "https://czb.shu.edu.cn/info/1121/1892.htm",
-      "date": "2021-05-17",
-      "column": "工作动态"
-    },
-    {
-      "title": "我校举办 “政府采购法律法规实务操作与案例分析”专题培训",
-      "url": "https://czb.shu.edu.cn/info/1121/1894.htm",
-      "date": "2021-05-17",
-      "column": "工作动态"
-    },
-    {
-      "title": "牢记使命，砥砺前行——采招办支部开展成立一周年暨参观“中国共产党早期支部建设图片史料展”活动",
-      "url": "https://czb.shu.edu.cn/info/1121/1890.htm",
-      "date": "2021-05-12",
-      "column": "工作动态"
-    },
-    {
-      "title": "咣~~上海本地知名电商平台晨光科力普商城来啦！",
-      "url": "https://czb.shu.edu.cn/info/1121/1888.htm",
-      "date": "2021-05-08",
-      "column": "工作动态"
-    },
-    {
-      "title": "上海大学即将上线中科院旗下科研物资采购平台：喀斯玛商城",
-      "url": "https://czb.shu.edu.cn/info/1121/1878.htm",
-      "date": "2021-04-30",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部召开党史学习教育党章专题学习会",
-      "url": "https://czb.shu.edu.cn/info/1121/1880.htm",
-      "date": "2021-04-30",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部召开党史学习教育集中学习会",
-      "url": "https://czb.shu.edu.cn/info/1121/1868.htm",
-      "date": "2021-04-19",
-      "column": "工作动态"
-    },
-    {
-      "title": "市政府采购中心副主任徐舟到校进行政府采购法治教育",
-      "url": "https://czb.shu.edu.cn/info/1121/1870.htm",
-      "date": "2021-04-19",
-      "column": "工作动态"
-    },
-    {
-      "title": "汲取榜样力量 践行责任担当--采招办支部组织观看《榜样5》",
-      "url": "https://czb.shu.edu.cn/info/1121/1858.htm",
-      "date": "2021-04-09",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部召开党史学习教育动员会",
-      "url": "https://czb.shu.edu.cn/info/1121/1859.htm",
-      "date": "2021-04-09",
-      "column": "工作动态"
-    },
-    {
       "title": "关于我校进口设备采购环节中相关警示注意事项的通告",
       "url": "https://czb.shu.edu.cn/info/1120/1861.htm",
       "date": "2021-04-07",
       "column": "服务指南"
-    },
-    {
-      "title": "学习航天精神 激发奋进力量--采招办党支部赴航天八院开展主题党日活动",
-      "url": "https://czb.shu.edu.cn/info/1121/1844.htm",
-      "date": "2021-03-19",
-      "column": "工作动态"
     },
     {
       "title": "上海大学采购行为负面清单",
@@ -661,24 +559,6 @@
       "column": "服务指南"
     },
     {
-      "title": "采招办党支部王瑞副书记上党课：强化党建引领，为采购提质增效",
-      "url": "https://czb.shu.edu.cn/info/1121/1812.htm",
-      "date": "2020-12-03",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办党支部王林军书记上党课：学习贯彻党的十九届五中全会精神--做好“十四五”规划，努力形成一流的采购管理机制",
-      "url": "https://czb.shu.edu.cn/info/1121/1813.htm",
-      "date": "2020-12-01",
-      "column": "工作动态"
-    },
-    {
-      "title": "采招办开展“电影党课”主题活动",
-      "url": "https://czb.shu.edu.cn/info/1121/1814.htm",
-      "date": "2020-11-13",
-      "column": "工作动态"
-    },
-    {
       "title": "采招办支部组织学习十九届五中全会和习近平主席在第三届进博会开幕式上的主旨演讲精神",
       "url": "https://czb.shu.edu.cn/info/1121/1815.htm",
       "date": "2020-11-06",
@@ -715,12 +595,6 @@
       "column": "工作动态"
     },
     {
-      "title": "“上大迅采”第一单诞生记",
-      "url": "https://czb.shu.edu.cn/info/1015/1674.htm",
-      "date": "2020-09-30",
-      "column": "通知公告"
-    },
-    {
       "title": "上大采购系列宣讲会召开（采购管家专场）",
       "url": "https://czb.shu.edu.cn/info/1121/1810.htm",
       "date": "2020-09-29",
@@ -733,46 +607,10 @@
       "column": "工作动态"
     },
     {
-      "title": "有关海关调整进口设备采购政策的最新提示",
-      "url": "https://czb.shu.edu.cn/info/1015/1661.htm",
-      "date": "2020-09-18",
-      "column": "通知公告"
-    },
-    {
-      "title": "无私奉献，无惧“烤”验 ——董瀚院长亲临采招办指导门厅装饰材料实验",
-      "url": "https://czb.shu.edu.cn/info/1015/1641.htm",
-      "date": "2020-09-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "采招办2019-2020学年暑假值班表",
-      "url": "https://czb.shu.edu.cn/info/1015/1601.htm",
-      "date": "2020-08-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "采招办召开采购与招标管理交流会",
-      "url": "https://czb.shu.edu.cn/info/1015/1603.htm",
-      "date": "2020-08-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "采购与招标管理办公室开展党风廉政宣讲教育",
-      "url": "https://czb.shu.edu.cn/info/1015/1602.htm",
-      "date": "2020-08-03",
-      "column": "通知公告"
-    },
-    {
       "title": "2019年度上海大学宝山校区基础修缮项目- 宝山校区F楼、M楼、南5楼家具搬运服务中标公告",
       "url": "https://czb.shu.edu.cn/xsxmfmn.pdf",
       "date": "2020-07-30",
       "column": "成交公告"
-    },
-    {
-      "title": "追寻伟人足迹学四史 汲取精神力量共奋进",
-      "url": "https://czb.shu.edu.cn/info/1015/1561.htm",
-      "date": "2020-07-21",
-      "column": "通知公告"
     },
     {
       "title": "2019年度上海大学宝山校区基础修缮项目-电子班牌及控电设备采购安装工程中标公告",
@@ -793,24 +631,6 @@
       "column": "成交公告"
     },
     {
-      "title": "学习四史聚能量   联组共建谋新篇",
-      "url": "https://czb.shu.edu.cn/info/1015/1541.htm",
-      "date": "2020-07-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "采购与招标管理办公室召开全体人员廉洁教育会议",
-      "url": "https://czb.shu.edu.cn/info/1015/1531.htm",
-      "date": "2020-06-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "采购与招标管理办公室组织赴龙华烈士陵园进行“四史”学习教育",
-      "url": "https://czb.shu.edu.cn/info/1015/1511.htm",
-      "date": "2020-06-23",
-      "column": "通知公告"
-    },
-    {
       "title": "上海建设工程中标结果公告",
       "url": "https://czb.shu.edu.cn/432.png",
       "date": "2020-06-22",
@@ -827,12 +647,6 @@
       "url": "https://czb.shu.edu.cn/jzgc.pdf",
       "date": "2020-06-17",
       "column": "成交公告"
-    },
-    {
-      "title": "采购与招标管理办公室支部召开 “四史”学习教育",
-      "url": "https://czb.shu.edu.cn/info/1015/1491.htm",
-      "date": "2020-06-10",
-      "column": "通知公告"
     },
     {
       "title": "关于上海大学微电子学院装饰装修工程房屋安全检测竞争性磋商招标项目的成交结果公告",
@@ -883,52 +697,10 @@
       "column": "采购公告"
     },
     {
-      "title": "采购与招标管理办公室召开上大采购启动会",
-      "url": "https://czb.shu.edu.cn/info/1015/1421.htm",
-      "date": "2020-04-28",
-      "column": "通知公告"
-    },
-    {
       "title": "上海大学校园停车管理系统升级改造竞争性磋商成交通知书",
       "url": "https://czb.shu.edu.cn/0821.pdf",
       "date": "2020-04-21",
       "column": "成交公告"
-    },
-    {
-      "title": "上海大学投标数字证书PIM申请已上线",
-      "url": "https://czb.shu.edu.cn/info/1015/1391.htm",
-      "date": "2020-04-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海市财政局关于印发市级预算支出定额标准的通知 沪财预〔2013〕79号",
-      "url": "https://czb.shu.edu.cn/info/1015/1381.htm",
-      "date": "2020-04-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展政府采购意向公开工作的通知 财库〔2020〕10号",
-      "url": "https://czb.shu.edu.cn/info/1015/1351.htm",
-      "date": "2020-03-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "抗“疫”， 采购人在行动",
-      "url": "https://czb.shu.edu.cn/info/1015/1331.htm",
-      "date": "2020-02-19",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于疫情防控期间稳妥有序开展本市政府采购活动的意见",
-      "url": "https://czb.shu.edu.cn/info/1015/1321.htm",
-      "date": "2020-02-14",
-      "column": "通知公告"
-    },
-    {
-      "title": "财政部发布关于疫情防控期间开展政府采购活动有关事项的通知",
-      "url": "https://czb.shu.edu.cn/info/1015/1312.htm",
-      "date": "2020-02-06",
-      "column": "通知公告"
     },
     {
       "title": "采购与招标管理办公室关于疫情防控期间采购事宜的通知",

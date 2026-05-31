@@ -2,12 +2,12 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 634,
+  "crawl_time": "20260522_090853",
+  "total_articles": 515,
   "columns": {
-    "主题活动": 89,
-    "校友会新闻": 205,
-    "母校新闻": 232,
+    "主题活动": 50,
+    "校友会新闻": 165,
+    "母校新闻": 192,
     "通知公告": 108
   },
   "articles": [
@@ -2208,12 +2208,6 @@
       "column": "主题活动"
     },
     {
-      "title": "对外联络处党支部支委一行走进奉贤聆听“四史”学习教育报告会并参观校友企业新航星集团",
-      "url": "https://alumni.shu.edu.cn/info/1020/3107.htm",
-      "date": "2020-11-21",
-      "column": "主题活动"
-    },
-    {
       "title": "关于筹备上海大学房地产学院校友分会的公告",
       "url": "https://alumni.shu.edu.cn/info/1021/3085.htm",
       "date": "2020-11-07",
@@ -2268,34 +2262,10 @@
       "column": "母校新闻"
     },
     {
-      "title": "聚校友之力，促党建活力——对外联络处党支部走进商飞试飞中心开展主题党日活动",
-      "url": "https://news.shu.edu.cn/info/1012/58342.htm",
-      "date": "2020-09-27",
-      "column": "主题活动"
-    },
-    {
-      "title": "铭记师恩 情系母校 郑天慧校友回母校参观交流",
-      "url": "https://news.shu.edu.cn/info/1012/58320.htm",
-      "date": "2020-09-25",
-      "column": "主题活动"
-    },
-    {
-      "title": "“同走校友走过的路”——环化学院组织参观富美实亚洲创新中心",
-      "url": "https://news.shu.edu.cn/info/1012/58322.htm",
-      "date": "2020-09-25",
-      "column": "主题活动"
-    },
-    {
       "title": "硕果累累，再创佳绩——我校斩获第22届中国国际工业博览会多个奖项",
       "url": "https://news.shu.edu.cn/info/1021/58255.htm",
       "date": "2020-09-21",
       "column": "母校新闻"
-    },
-    {
-      "title": "同济大学对外联络与发展办公室来我校交流",
-      "url": "https://alumni.shu.edu.cn/info/1020/3054.htm",
-      "date": "2020-09-19",
-      "column": "主题活动"
     },
     {
       "title": "我校社会学院Samir Kumar KC与音乐学院Xiaocao SHA 喜获2020年上海市“白玉兰纪念奖”",
@@ -2308,12 +2278,6 @@
       "url": "https://news.shu.edu.cn/info/1021/58075.htm",
       "date": "2020-09-05",
       "column": "母校新闻"
-    },
-    {
-      "title": "上海大学加拿大校友高尔夫球队参加加拿大2020“鼎岳金融”高校杯高尔夫赛并取得好成绩",
-      "url": "https://alumni.shu.edu.cn/info/1020/3055.htm",
-      "date": "2020-09-03",
-      "column": "主题活动"
     },
     {
       "title": "中国工程院党组成员、副院长钟志华院士一行赴上海大学调研",
@@ -2350,12 +2314,6 @@
       "url": "https://news.shu.edu.cn/info/1012/57945.htm",
       "date": "2020-08-13",
       "column": "母校新闻"
-    },
-    {
-      "title": "情系母校 砥砺同行——国际校友来校访问",
-      "url": "https://news.shu.edu.cn/info/1012/57864.htm",
-      "date": "2020-08-04",
-      "column": "主题活动"
     },
     {
       "title": "天空中最亮的星！这是全体上大人的荣耀！",
@@ -2418,22 +2376,10 @@
       "column": "母校新闻"
     },
     {
-      "title": "讲座预告| 临泮校友云讲坛首发！两位“大神”校友带你云端解析大数据和云计算！",
-      "url": "https://mp.weixin.qq.com/s/vh-15z6rmos9N-S3bHKuhQ",
-      "date": "2020-05-21",
-      "column": "主题活动"
-    },
-    {
       "title": "@全体四川上大校友，快来加入我们吧！",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649254726&idx=1&sn=2172e6a705e3d6117b91d13980720f82&chksm=877fdcd3b00855c59100ff8c5abc1d09008f1468542bfbf0e7840027c01ebc90876e5c44ad2b&token=970122431&lang=zh_CN#rd",
       "date": "2020-05-07",
       "column": "通知公告"
-    },
-    {
-      "title": "继往开来|上大MBA网上校友工作研讨会成功举行",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649254788&idx=3&sn=a70b62b23c363df83b09680552a92f4d&chksm=877fdc11b008550764a478ce4f64d05590cda7cc4dbab09a8be441446f2fd6f263a05aaa9018&token=970122431&lang=zh_CN#rd",
-      "date": "2020-05-07",
-      "column": "主题活动"
     },
     {
       "title": "同心“亿”意、风雨共“舟” 上海亿舟资产管理有限公司向上海大学捐赠抗疫物资",
@@ -2526,70 +2472,10 @@
       "column": "母校新闻"
     },
     {
-      "title": "沙龙型年会 融入式交流——上海大学北京校友会2019年会暨AI大数据沙龙举行",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649254074&idx=3&sn=5827e6f2598551e8d0df15dfbb9ec8e9&chksm=877fdf2fb0085639ffe3ba1e2c66a8541d6ef9aea94c87d9955c45a7b33049f1d73315aa2452&token=2009726000&lang=zh_CN#rd",
-      "date": "2020-01-16",
-      "column": "主题活动"
-    },
-    {
-      "title": "“不忘初心，‘计’续前行”计算机学院举办第一届校友理事会第四次会议",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649254031&idx=2&sn=5856a40fa2fbf3fd254a70d0a277ecfe&chksm=877fdf1ab008560c61850a5a79cfbd477bfc679480c86c12b6d364f20b07f08f894134b14e38&token=2009726000&lang=zh_CN#rd",
-      "date": "2020-01-07",
-      "column": "主题活动"
-    },
-    {
-      "title": "“经典逢新年，寄与有情人”——昆曲《牡丹亭》走进上海大学",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253920&idx=7&sn=06f2040ee729e5da473f339ee6c7c9e5&chksm=877fdfb5b00856a3b106174e11b187ddd3e9c325ccc440c7cc8622715cc4d1f224cf4619e26a&token=2009726000&lang=zh_CN#rd",
-      "date": "2020-01-01",
-      "column": "主题活动"
-    },
-    {
       "title": "2018-2019年上海大学校友工作优秀评选结果公示",
       "url": "https://alumni.shu.edu.cn/info/1021/2811.htm",
       "date": "2019-12-27",
       "column": "通知公告"
-    },
-    {
-      "title": "“庆祝中加建交50周年，2020双边国际金融与经贸系列活动“ 新闻发布暨座谈会成功举办",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253824&idx=3&sn=c3cd08d5f2b99d8a50de5126999a2955&chksm=877fd055b00859434f6c0e89ee6b27e9ea63d4255e5939f9f722c5047a2efefedb5dec1258cf&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-12-21",
-      "column": "主题活动"
-    },
-    {
-      "title": "鲜衣怒马离去，赤子之心归来——管理学院2019校友值年返校活动举行",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253779&idx=3&sn=4e7c7f02093d6a88261854d445cb6a0b&chksm=877fd006b00859108b92c5caea1b597cf9624c3570af509a806799c89e5950d3a3f75532cba3&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-12-19",
-      "column": "主题活动"
-    },
-    {
-      "title": "【临泮校友讲坛】新泰丰集团首席财务官郭著名校友重返母校开讲",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253779&idx=4&sn=98cd7576e405a036c09a6eb429ffdb2b&chksm=877fd006b00859104518ce805fceb3de1b760177e908f3b657304eaf1c561922351b671127af&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-12-19",
-      "column": "主题活动"
-    },
-    {
-      "title": "日本校友会合唱团汇报演出圆满成功",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253779&idx=5&sn=14d641f926b09a0a16e6aba2ab56892d&chksm=877fd006b0085910a639da8ef0049c2de87e428a5da3481f3d11a785c587b250cb8a5b3330e3&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-12-19",
-      "column": "主题活动"
-    },
-    {
-      "title": "上海电影学院 99届、09届校友值年返校活动顺利举行",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253724&idx=6&sn=5728ca4ecd7b668f2df170ea593c8e9c&chksm=877fd0c9b00859df79a1928b09cbd114fc3ebb325097de1f41808ecd65e97766dc99e6eb7195&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-12-14",
-      "column": "主题活动"
-    },
-    {
-      "title": "@全体上大校友，快来为母校蚂蚁森林公益林浇水吧！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253209&idx=1&sn=1b1313a8db709d46c5cfc6c068adba29&chksm=877fd2ccb0085bda8a074af83fff6dcda0dc1e37117d363638d4ae29917067b82e0630fc4ca3&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-10-25",
-      "column": "主题活动"
-    },
-    {
-      "title": "上海大学（原上海工业大学）1979级研究生入学40周年纪念会举行",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NjMxNzQzNA==&mid=2649253062&idx=1&sn=8d294d251a591beb30bc167f05d77bab&chksm=877fd353b0085a458bf283dc960849c110b5f979be0a598c6656469714b901097eb992b50fe4&token=2009726000&lang=zh_CN#rd",
-      "date": "2019-10-15",
-      "column": "主题活动"
     },
     {
       "title": "关于筹备上海大学人工智能行业校友会的公告",
@@ -2604,28 +2490,10 @@
       "column": "通知公告"
     },
     {
-      "title": "“思源凝聚 心系社会”——上海大学社会学院2018年度校友返校活动 顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2184.htm",
-      "date": "2018-12-03",
-      "column": "主题活动"
-    },
-    {
-      "title": "“文院情系两代人” ———文学院庆祝建院四十周年系列活动之校友讲坛成功举办",
-      "url": "https://alumni.shu.edu.cn/info/1020/2186.htm",
-      "date": "2018-12-03",
-      "column": "主题活动"
-    },
-    {
       "title": "关于筹备上海大学苏州校友会的公告",
       "url": "https://alumni.shu.edu.cn/info/1021/2258.htm",
       "date": "2018-12-03",
       "column": "通知公告"
-    },
-    {
-      "title": "理学院隆重举行2018校友值年返校活动",
-      "url": "https://alumni.shu.edu.cn/info/1020/2182.htm",
-      "date": "2018-11-29",
-      "column": "主题活动"
     },
     {
       "title": "关于筹备上海大学越南校友会的公告",
@@ -2652,64 +2520,10 @@
       "column": "通知公告"
     },
     {
-      "title": "上海大学社会学院校友分会成立大会暨87、97、07届校友返校活动圆满结束",
-      "url": "https://alumni.shu.edu.cn/info/1020/2180.htm",
-      "date": "2017-09-08",
-      "column": "主题活动"
-    },
-    {
-      "title": "“同学心 母校情 材料人 上大行” ---材料学院87届、97届、07届、校友返校日活动顺利举办",
-      "url": "https://alumni.shu.edu.cn/info/1020/2204.htm",
-      "date": "2017-05-25",
-      "column": "主题活动"
-    },
-    {
       "title": "关于筹备上海大学德国、日本校友会的公告",
       "url": "https://alumni.shu.edu.cn/info/1021/2253.htm",
       "date": "2016-12-26",
       "column": "通知公告"
-    },
-    {
-      "title": "通信学院86、96、06届校友返校活动圆满举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2178.htm",
-      "date": "2016-11-23",
-      "column": "主题活动"
-    },
-    {
-      "title": "图情档系校友分会成立仪式暨86、90、06届校友返校活动举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2200.htm",
-      "date": "2016-11-23",
-      "column": "主题活动"
-    },
-    {
-      "title": "“最是深情文院红”文学院校友会理事会换届大会 暨86、96、06届校友返校日活动成功举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2201.htm",
-      "date": "2016-11-23",
-      "column": "主题活动"
-    },
-    {
-      "title": "“锦玉年华·缘聚上大·续梦未来” ——上海大学校友会经济学院分会2016年返校活动暨“96、06、16届校友毕业值年联谊”活动顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2202.htm",
-      "date": "2016-11-23",
-      "column": "主题活动"
-    },
-    {
-      "title": "“重温来时路，重忆同门情” ——机自学院2016年校友值年返校活动顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2199.htm",
-      "date": "2016-06-27",
-      "column": "主题活动"
-    },
-    {
-      "title": "悉商校友分会举办“96届、06届”校友值年庆活动",
-      "url": "https://alumni.shu.edu.cn/info/1020/2197.htm",
-      "date": "2016-06-03",
-      "column": "主题活动"
-    },
-    {
-      "title": "材料学院86届、96届、06届校友返校日活动顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2198.htm",
-      "date": "2016-06-03",
-      "column": "主题活动"
     },
     {
       "title": "关于筹备上海大学大纽约地区校友会的公告",
@@ -2734,12 +2548,6 @@
       "url": "https://alumni.shu.edu.cn/info/1021/2251.htm",
       "date": "2016-04-19",
       "column": "通知公告"
-    },
-    {
-      "title": "2016年上海大学校友新春联谊会暨“荣耀上大”颁奖典礼圆满举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2196.htm",
-      "date": "2016-01-19",
-      "column": "主题活动"
     },
     {
       "title": "关于开展2014年-2015年上海大学校友工作优秀评选的通知",
@@ -2786,48 +2594,6 @@
     {
       "title": "青春不老，友情不散——生命学院2001级毕业生毕业十周年返校",
       "url": "https://alumni.shu.edu.cn/info/1020/2188.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "理学院85届、95届、05届校友返校活动隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2189.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "同筑上大梦  共续土木情   ——上海大学土木工程系校友返校活动顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1020/2190.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "2015年上海大学上海电影学院校友返校日",
-      "url": "https://alumni.shu.edu.cn/info/1020/2191.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "社会科学学院隆重举行2005届校友毕业十周年返校活动",
-      "url": "https://alumni.shu.edu.cn/info/1020/2192.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "我们在上大，等你回家 ——上海大学材料学院85届、95届、05届校友返校嘉年华",
-      "url": "https://alumni.shu.edu.cn/info/1020/2193.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "校友返校日活动——再相会，共述上大情怀",
-      "url": "https://alumni.shu.edu.cn/info/1020/2194.htm",
-      "date": "2015-11-05",
-      "column": "主题活动"
-    },
-    {
-      "title": "好久不见，甚是思念——记“Silc星聚力”校友沙龙活动之“好久不见”",
-      "url": "https://alumni.shu.edu.cn/info/1020/2195.htm",
       "date": "2015-11-05",
       "column": "主题活动"
     },
@@ -3138,60 +2904,6 @@
       "column": "通知公告"
     },
     {
-      "title": "梦回三门，岁月如歌——上海大学文学院98届涉外经济法系毕业15周年聚会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1872.htm",
-      "date": "2013-05-06",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "悉尼工商学院堪培拉校友分会新老校友交流会顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1870.htm",
-      "date": "2013-05-02",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "花季雨季一朝别，落英缤纷再逢君--上海大学机自学院精密机械系63级校友毕业周年庆",
-      "url": "https://alumni.shu.edu.cn/info/1018/1869.htm",
-      "date": "2013-04-28",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学新加坡校友会成功举行2013年度会员大会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1865.htm",
-      "date": "2013-04-26",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学悉尼工商学院墨尔本校友分会正式成立",
-      "url": "https://alumni.shu.edu.cn/info/1018/1866.htm",
-      "date": "2013-04-26",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "薪火相传十余载，情系校友返家园——记计算机学院2000级研究生校友聚会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1862.htm",
-      "date": "2013-04-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "法学院召开校友分会筹备会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1860.htm",
-      "date": "2013-04-16",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "悉尼工商学院校友分会体育俱乐部成功举办足球、篮球友谊赛",
-      "url": "https://alumni.shu.edu.cn/info/1018/1859.htm",
-      "date": "2013-04-15",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "管理学院邀请优秀校友开展专题讲座",
-      "url": "https://alumni.shu.edu.cn/info/1018/1856.htm",
-      "date": "2013-04-11",
-      "column": "校友会新闻"
-    },
-    {
       "title": "新老校友交流会",
       "url": "https://alumni.shu.edu.cn/info/1021/2224.htm",
       "date": "2013-04-08",
@@ -3210,88 +2922,10 @@
       "column": "通知公告"
     },
     {
-      "title": "机自学院成功举办“前辈教你如何涉猎职场”校友讲座",
-      "url": "https://alumni.shu.edu.cn/info/1018/1854.htm",
-      "date": "2013-03-29",
-      "column": "校友会新闻"
-    },
-    {
       "title": "管理学院校友讲座---实习选择和就业方向",
       "url": "https://alumni.shu.edu.cn/info/1021/2221.htm",
       "date": "2013-03-29",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学林野名誉教授授证仪式暨学术报告会隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1852.htm",
-      "date": "2013-03-26",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "外语学院召开学院校友分会成立筹备工作会议",
-      "url": "https://alumni.shu.edu.cn/info/1018/1857.htm",
-      "date": "2013-03-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学（原上海科大）07_10系63级入学50周年庆祝活动筹备会顺利召开",
-      "url": "https://alumni.shu.edu.cn/info/1018/1850.htm",
-      "date": "2013-03-14",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "环化学院成功举办毕业生回报母校韩国专场学术报告会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1848.htm",
-      "date": "2013-03-12",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学全友通信光电子技术人才奖学金颁奖典礼隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1847.htm",
-      "date": "2013-03-11",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学全友通信光电子技术人才奖学金颁奖典礼隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2069.htm",
-      "date": "2013-03-11",
-      "column": "母校新闻"
-    },
-    {
-      "title": "罗校长出席欧美同学会上海大学分会新春茶话会",
-      "url": "https://alumni.shu.edu.cn/info/1019/2071.htm",
-      "date": "2013-03-11",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学举办“2013东亚区域经济合作与发展”国际会议",
-      "url": "https://alumni.shu.edu.cn/info/1019/2067.htm",
-      "date": "2013-02-23",
-      "column": "母校新闻"
-    },
-    {
-      "title": "叶志明副校长带领上海大学弦乐团参加2013年上海市各界人士春节团拜会等活动",
-      "url": "https://alumni.shu.edu.cn/info/1019/2065.htm",
-      "date": "2013-02-22",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学校长罗宏杰亲切会见台湾铭传大学校长代表团",
-      "url": "https://alumni.shu.edu.cn/info/1019/2063.htm",
-      "date": "2013-01-14",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学——漕河泾新兴技术开发区、上汽乘用车签约仪式暨联合招聘会举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2061.htm",
-      "date": "2013-01-11",
-      "column": "母校新闻"
-    },
-    {
-      "title": "第二届“新航星杯”演讲大赛总决赛暨上海大学教育发展基金捐赠仪式成功举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2059.htm",
-      "date": "2013-01-08",
-      "column": "母校新闻"
     },
     {
       "title": "2013上海大学校友新春联欢答谢会",
@@ -3300,272 +2934,8 @@
       "column": "通知公告"
     },
     {
-      "title": "上海大学与上海市外国专家局合作签约仪式在校举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2028.htm",
-      "date": "2013-01-07",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学知识产权联合会2012年会举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2053.htm",
-      "date": "2013-01-07",
-      "column": "母校新闻"
-    },
-    {
-      "title": "热烈祝贺我校名誉教授李肇星当选为中国公共外交协会首任会长",
-      "url": "https://alumni.shu.edu.cn/info/1019/2055.htm",
-      "date": "2013-01-07",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海市第六届“'3+1'档案论坛”在上海大学成功举办",
-      "url": "https://alumni.shu.edu.cn/info/1019/2057.htm",
-      "date": "2013-01-07",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学与中国艺术研究院在京签署合作协议",
-      "url": "https://alumni.shu.edu.cn/info/1019/2026.htm",
-      "date": "2012-12-27",
-      "column": "母校新闻"
-    },
-    {
-      "title": "校党委书记于信汇会见美国肯塔基大学代表团一行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2050.htm",
-      "date": "2012-12-27",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学2013年自主选拔录取工作新闻发布会举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2051.htm",
-      "date": "2012-12-27",
-      "column": "母校新闻"
-    },
-    {
-      "title": "2011年度中国科技论文统计结果在京发布",
-      "url": "https://alumni.shu.edu.cn/info/1019/2022.htm",
-      "date": "2012-12-17",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校校院两级中心组举办“党的十八大报告学习体会”主题报告会",
-      "url": "https://alumni.shu.edu.cn/info/1019/2024.htm",
-      "date": "2012-12-17",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海市政府参事智慧城市研究基地举行揭牌仪式",
-      "url": "https://alumni.shu.edu.cn/info/1019/2045.htm",
-      "date": "2012-12-17",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学公共艺术技术实验教学中心顺利通过专家组验收",
-      "url": "https://alumni.shu.edu.cn/info/1019/2047.htm",
-      "date": "2012-12-17",
-      "column": "母校新闻"
-    },
-    {
-      "title": "《社会》杂志入选国家社科基金第二批学术期刊资助名单",
-      "url": "https://alumni.shu.edu.cn/info/1019/2020.htm",
-      "date": "2012-12-06",
-      "column": "母校新闻"
-    },
-    {
-      "title": "“2012年网络传播动力学研讨会”在我校召开",
-      "url": "https://alumni.shu.edu.cn/info/1019/2042.htm",
-      "date": "2012-12-06",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校四刊在“第4届中国高校精品•优秀•特色科技期刊”评比中再获佳绩",
-      "url": "https://alumni.shu.edu.cn/info/1019/2044.htm",
-      "date": "2012-12-06",
-      "column": "母校新闻"
-    },
-    {
-      "title": "社会学院首届校友返校日活动隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1844.htm",
-      "date": "2012-11-28",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "材料学院2012年度校友理事会暨2013年 “院友日”活动校友联络人恳谈会顺利举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1838.htm",
-      "date": "2012-11-27",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上大校友会代表参加南洋理工大学上海校友会年会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1840.htm",
-      "date": "2012-11-27",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学校友会环化学院分会成立大会暨第八届“成才奖学金”颁奖典礼隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1842.htm",
-      "date": "2012-11-27",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学2013年毕业生就业招聘会隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2038.htm",
-      "date": "2012-11-27",
-      "column": "母校新闻"
-    },
-    {
-      "title": "“上海市高校章程建设研讨会”在我校成功举办",
-      "url": "https://alumni.shu.edu.cn/info/1019/2040.htm",
-      "date": "2012-11-27",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校积极参与2012年中国国际工业博览会并喜获佳绩",
-      "url": "https://alumni.shu.edu.cn/info/1019/2018.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学第十一届研究生学术节开幕",
-      "url": "https://alumni.shu.edu.cn/info/1019/2025.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学举办“性别文化与妇女发展”理论研讨会",
-      "url": "https://alumni.shu.edu.cn/info/1019/2027.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海国际数字媒体技术人才培养论坛成功举办",
-      "url": "https://alumni.shu.edu.cn/info/1019/2029.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "宝山区副区长秦文波一行来上海大学调研",
-      "url": "https://alumni.shu.edu.cn/info/1019/2031.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学举办中美教育论坛",
-      "url": "https://alumni.shu.edu.cn/info/1019/2033.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学隆重举行沙海林兼职教授授证仪式",
-      "url": "https://alumni.shu.edu.cn/info/1019/2035.htm",
-      "date": "2012-11-20",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校校友会参加中国高等教育学会校友工作研究分会第十九次研讨会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1836.htm",
-      "date": "2012-11-07",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "2012年上海大学“新航星杯”英文演讲比赛成功举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1830.htm",
-      "date": "2012-10-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "当上大MBA遇见“周小燕”、“百事蓝”与“大唐电信”",
-      "url": "https://alumni.shu.edu.cn/info/1018/1832.htm",
-      "date": "2012-10-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "我校学生会主席陈黄超赴澳门参加青年发展论坛",
-      "url": "https://alumni.shu.edu.cn/info/1018/1834.htm",
-      "date": "2012-10-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "汪敏副校长出席上海大学——兴化市产学研合作基地揭牌仪式",
-      "url": "https://alumni.shu.edu.cn/info/1019/2016.htm",
-      "date": "2012-10-19",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学大学生传统教育基地揭牌仪式举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2021.htm",
-      "date": "2012-10-19",
-      "column": "母校新闻"
-    },
-    {
-      "title": "闸北区委书记方惠萍一行走访上海大学",
-      "url": "https://alumni.shu.edu.cn/info/1019/2023.htm",
-      "date": "2012-10-19",
-      "column": "母校新闻"
-    },
-    {
-      "title": "生命学院举行“艾魁英”慈善教育基金签约仪式",
-      "url": "https://alumni.shu.edu.cn/info/1018/1828.htm",
-      "date": "2012-10-11",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学代表赴京参加纪念钱伟长同志诞辰100周年座谈会",
-      "url": "https://alumni.shu.edu.cn/info/1019/2014.htm",
-      "date": "2012-10-11",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学举行钱伟长图书馆奠基仪式暨钱伟长铜像揭幕仪式",
-      "url": "https://alumni.shu.edu.cn/info/1019/2017.htm",
-      "date": "2012-10-11",
-      "column": "母校新闻"
-    },
-    {
-      "title": "纪念钱伟长诞辰100周年 学生原创剧《梦，在上大》上演",
-      "url": "https://alumni.shu.edu.cn/info/1019/2019.htm",
-      "date": "2012-10-11",
-      "column": "母校新闻"
-    },
-    {
-      "title": "钱伟长文集首发式暨纪念钱伟长百年诞辰座谈会举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2012.htm",
-      "date": "2012-09-29",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上大校友耶鲁大学博士后杨洋与钱伟长学院师生座谈会成功举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1823.htm",
-      "date": "2012-09-24",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "艾魁英生物科技有限公司拟在生命学院设立慈善基金",
-      "url": "https://alumni.shu.edu.cn/info/1018/1825.htm",
-      "date": "2012-09-24",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "上海大学与中科院长三角地区院所开展全面合作",
-      "url": "https://alumni.shu.edu.cn/info/1019/2013.htm",
-      "date": "2012-07-04",
-      "column": "母校新闻"
-    },
-    {
       "title": "我校吴明红教授获中国工程科技界最高奖项——光华工程科技奖",
       "url": "https://alumni.shu.edu.cn/info/1019/2009.htm",
-      "date": "2012-07-03",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校14项课题获2012年度国家社科基金项目立项资助",
-      "url": "https://alumni.shu.edu.cn/info/1019/2010.htm",
-      "date": "2012-07-03",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校发布“2011年度本科教育教学质量报告”",
-      "url": "https://alumni.shu.edu.cn/info/1019/2011.htm",
       "date": "2012-07-03",
       "column": "母校新闻"
     },
@@ -3642,12 +3012,6 @@
       "column": "母校新闻"
     },
     {
-      "title": "校友办为“几品上大”寻访团举行专场培训",
-      "url": "https://alumni.shu.edu.cn/info/1018/1821.htm",
-      "date": "2012-04-13",
-      "column": "校友会新闻"
-    },
-    {
       "title": "我校14件雕塑作品参加上海优秀青年美术家作品联展",
       "url": "https://alumni.shu.edu.cn/info/1019/1994.htm",
       "date": "2012-04-13",
@@ -3690,12 +3054,6 @@
       "column": "通知公告"
     },
     {
-      "title": "计算机学院召开校友分会筹备会第一次会议",
-      "url": "https://alumni.shu.edu.cn/info/1018/1855.htm",
-      "date": "2012-04-12",
-      "column": "校友会新闻"
-    },
-    {
       "title": "我校“青春力量 汇聚90”主题活动启动仪式举行",
       "url": "https://alumni.shu.edu.cn/info/1019/1992.htm",
       "date": "2012-04-12",
@@ -3712,66 +3070,6 @@
       "url": "https://alumni.shu.edu.cn/info/1021/2207.htm",
       "date": "2012-04-12",
       "column": "通知公告"
-    },
-    {
-      "title": "相约世博会，回首二十年",
-      "url": "https://alumni.shu.edu.cn/info/1018/1853.htm",
-      "date": "2010-07-12",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "原上海工业大学自动化系84级（88届）部分同学赴长兴岛、崇明岛学习考察活动简报",
-      "url": "https://alumni.shu.edu.cn/info/1018/1851.htm",
-      "date": "2010-06-03",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "宝山和松江校友分会举行经验交流会",
-      "url": "https://alumni.shu.edu.cn/info/1018/1849.htm",
-      "date": "2010-05-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "通信学院召开校友分会理事会会议",
-      "url": "https://alumni.shu.edu.cn/info/1018/1846.htm",
-      "date": "2010-04-29",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "北美校友分会2010新春聚餐会举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1845.htm",
-      "date": "2010-03-01",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "新平台，新方式，新沟通——记悉商校友会首次行业俱乐部活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1843.htm",
-      "date": "2010-01-13",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "董泰康校友应邀参加新中国成立六十周年首都观礼等庆祝活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1841.htm",
-      "date": "2009-09-30",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "悉商学院举行校友聚会活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1839.htm",
-      "date": "2006-12-21",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "研究生校友联络处举办零距离沙龙活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1837.htm",
-      "date": "2006-12-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "校友理事会暨宝山成才奖学金获得者恳谈会隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1835.htm",
-      "date": "2006-12-04",
-      "column": "校友会新闻"
     },
     {
       "title": "商管学院召开校友会工作小组会议",
@@ -3800,18 +3098,6 @@
     {
       "title": "方兆怡女士访问我校",
       "url": "https://alumni.shu.edu.cn/info/1018/1829.htm",
-      "date": "2006-11-24",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "延长校友联谊会举行欢庆校庆活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1831.htm",
-      "date": "2006-11-24",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "兼职教授授证暨“成才奖学金”颁奖仪式举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1833.htm",
       "date": "2006-11-24",
       "column": "校友会新闻"
     }

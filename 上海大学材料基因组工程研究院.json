@@ -2,12 +2,12 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 524,
+  "crawl_time": "20260520_091018",
+  "total_articles": 404,
   "columns": {
-    "学术报告": 171,
-    "科研动态": 114,
-    "综合新闻": 84,
+    "学术报告": 131,
+    "科研动态": 74,
+    "综合新闻": 44,
     "通知公告": 155
   },
   "articles": [
@@ -1812,22 +1812,10 @@
       "column": "通知公告"
     },
     {
-      "title": "材料基因组工程研究院第三届研究生党支部大会、 第三届研究生代表大会顺利召开",
-      "url": "https://mgi.shu.edu.cn/info/1064/2015.htm",
-      "date": "2019-04-27",
-      "column": "综合新闻"
-    },
-    {
       "title": "2019年博士研究生招生复试工作办法",
       "url": "https://mgi.shu.edu.cn/info/1062/1666.htm",
       "date": "2019-04-25",
       "column": "通知公告"
-    },
-    {
-      "title": "“上海足迹 春天序曲” ——材料基因组工程研究院教工党支部、工会踏青活动",
-      "url": "https://mgi.shu.edu.cn/info/1064/2014.htm",
-      "date": "2019-04-22",
-      "column": "综合新闻"
     },
     {
       "title": "2019年硕士研究生调剂工作办法",
@@ -1848,106 +1836,16 @@
       "column": "通知公告"
     },
     {
-      "title": "张金仓常务副院长等赴江西开展科技合作交流活动",
-      "url": "https://mgi.shu.edu.cn/info/1064/2013.htm",
-      "date": "2019-01-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院召开2018年度总结大会",
-      "url": "https://mgi.shu.edu.cn/info/1064/2012.htm",
-      "date": "2019-01-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "高兴华老师喜获2018年度上海大学 “蔡冠深优秀青年教师奖”",
-      "url": "https://mgi.shu.edu.cn/info/1064/2011.htm",
-      "date": "2019-01-15",
-      "column": "综合新闻"
-    },
-    {
       "title": "关于2017级硕博连读预备生资格认定工作的安排",
       "url": "https://mgi.shu.edu.cn/info/1062/1660.htm",
       "date": "2018-12-25",
       "column": "通知公告"
     },
     {
-      "title": "上海材料基因组工程研究院2018学术年会在我校成功举行",
-      "url": "https://mgi.shu.edu.cn/info/1063/1752.htm",
-      "date": "2018-12-24",
-      "column": "科研动态"
-    },
-    {
-      "title": "新时代科学家精神：使命·责任·担当 ——MGI党支部“传帮带”系列活动之四",
-      "url": "https://mgi.shu.edu.cn/info/1064/2010.htm",
-      "date": "2018-12-24",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院召开2018-2019年秋季学期教育教学研讨会",
-      "url": "https://mgi.shu.edu.cn/info/1064/2009.htm",
-      "date": "2018-11-26",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院青年教师沙龙活动——MGI党支部“传帮带”系列活动之三",
-      "url": "https://mgi.shu.edu.cn/info/1064/2008.htm",
-      "date": "2018-11-22",
-      "column": "综合新闻"
-    },
-    {
-      "title": "格桑创服-MGI创新创业课程圆满结课",
-      "url": "https://mgi.shu.edu.cn/info/1064/2007.htm",
-      "date": "2018-11-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院——材料学院2018成功举办羽毛球联谊赛",
-      "url": "https://mgi.shu.edu.cn/info/1064/2006.htm",
-      "date": "2018-11-13",
-      "column": "综合新闻"
-    },
-    {
-      "title": "张统一院士应邀前往土木工程系做学术报告 ——材料基因组工程研究院党支部和土木工程系党支部联谊共建",
-      "url": "https://mgi.shu.edu.cn/info/1064/2005.htm",
-      "date": "2018-11-08",
-      "column": "综合新闻"
-    },
-    {
-      "title": "我院张统一院士荣获何梁何利基金科学与技术进步奖",
-      "url": "https://mgi.shu.edu.cn/info/1063/1751.htm",
-      "date": "2018-11-07",
-      "column": "科研动态"
-    },
-    {
-      "title": "追忆历史，不忘初心 ——材料基因院和土木工程系教工党支部共建南湖之行主题活动",
-      "url": "https://mgi.shu.edu.cn/info/1064/2004.htm",
-      "date": "2018-10-26",
-      "column": "综合新闻"
-    },
-    {
-      "title": "我院荣获 2016-2017年度上海大学校园综合治理先进集体和先进个人奖项",
-      "url": "https://mgi.shu.edu.cn/info/1064/2003.htm",
-      "date": "2018-10-23",
-      "column": "综合新闻"
-    },
-    {
       "title": "2018年研究生国家奖学金、学业奖学金和校长奖学金评审实施细则",
       "url": "https://mgi.shu.edu.cn/info/1062/1659.htm",
       "date": "2018-10-10",
       "column": "通知公告"
-    },
-    {
-      "title": "2018材料基因组国际研讨会成功举办",
-      "url": "https://mgi.shu.edu.cn/info/1063/1750.htm",
-      "date": "2018-10-09",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院举办实验室安全培训讲座",
-      "url": "https://mgi.shu.edu.cn/info/1064/2002.htm",
-      "date": "2018-09-29",
-      "column": "综合新闻"
     },
     {
       "title": "2019年硕士推免生复试通知",
@@ -1968,88 +1866,10 @@
       "column": "通知公告"
     },
     {
-      "title": "热电研究团队在热电材料性能调控方面取得重要进展",
-      "url": "https://mgi.shu.edu.cn/info/1063/1747.htm",
-      "date": "2018-09-06",
-      "column": "科研动态"
-    },
-    {
-      "title": "任伟教授团队在拓扑半金属研究领域获重要进展",
-      "url": "https://mgi.shu.edu.cn/info/1063/1748.htm",
-      "date": "2018-09-06",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院2018级新生迎新工作完美落幕",
-      "url": "https://mgi.shu.edu.cn/info/1064/2001.htm",
-      "date": "2018-09-03",
-      "column": "综合新闻"
-    },
-    {
-      "title": "我院杨炯教授课题组在材料基因组高通量全流程新材料筛选研究领域获突破性进展",
-      "url": "https://mgi.shu.edu.cn/info/1063/1746.htm",
-      "date": "2018-09-01",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院国际合作又喜获突破性重要成果在Science上发表",
-      "url": "https://mgi.shu.edu.cn/info/1063/1745.htm",
-      "date": "2018-08-24",
-      "column": "科研动态"
-    },
-    {
-      "title": "中国材料大会2018材料基因工程分会在福建厦门顺利召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1744.htm",
-      "date": "2018-07-23",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院2018年科技夏令营成功举办",
-      "url": "https://mgi.shu.edu.cn/info/1064/2000.htm",
-      "date": "2018-07-10",
-      "column": "综合新闻"
-    },
-    {
-      "title": "我院葛军饴教授关于人工调控自旋冰结构的重要成果在Nature Communications发表",
-      "url": "https://mgi.shu.edu.cn/info/1063/1743.htm",
-      "date": "2018-07-04",
-      "column": "科研动态"
-    },
-    {
-      "title": "党在我心中，庆祝改革开放四十周年——MGI七·一红歌歌咏比赛",
-      "url": "https://mgi.shu.edu.cn/info/1064/1999.htm",
-      "date": "2018-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学-东方特钢材料基因组联合研发中心揭牌成立",
-      "url": "https://mgi.shu.edu.cn/info/1063/1742.htm",
-      "date": "2018-06-21",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院巫金波教授课题组高通量表面张力限制液滴阵列微流控科研成果在高水平期刊Analytical Chemistry上发表",
-      "url": "https://mgi.shu.edu.cn/info/1063/1741.htm",
-      "date": "2018-06-12",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院2017级本科生开放日活动圆满结束",
-      "url": "https://mgi.shu.edu.cn/info/1064/1998.htm",
-      "date": "2018-06-11",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI Seminar 第152讲：Shan Cecilia Cao(2018年6月4日9:30)",
       "url": "https://mgi.shu.edu.cn/info/1065/2182.htm",
       "date": "2018-05-16",
       "column": "学术报告"
-    },
-    {
-      "title": "凝聚青春力量，共筑MGI梦想 ——上海大学MGI党支部“五四”青年节活动",
-      "url": "https://mgi.shu.edu.cn/info/1064/1997.htm",
-      "date": "2018-05-11",
-      "column": "综合新闻"
     },
     {
       "title": "MGI Seminar 第151讲：黄小磊(2018年5月25日9:30)",
@@ -2070,28 +1890,10 @@
       "column": "学术报告"
     },
     {
-      "title": "“力学在材料基因组科学与工程中的作用”第二次研讨会成功举办",
-      "url": "https://mgi.shu.edu.cn/info/1063/1740.htm",
-      "date": "2018-04-30",
-      "column": "科研动态"
-    },
-    {
       "title": "2018年博士研究生入学考试复试通知",
       "url": "https://mgi.shu.edu.cn/info/1062/1651.htm",
       "date": "2018-04-28",
       "column": "通知公告"
-    },
-    {
-      "title": "张统一院长应邀访问青岛大学",
-      "url": "https://mgi.shu.edu.cn/info/1063/1739.htm",
-      "date": "2018-04-28",
-      "column": "科研动态"
-    },
-    {
-      "title": "无偿献热血、传递正能量",
-      "url": "https://mgi.shu.edu.cn/info/1064/1996.htm",
-      "date": "2018-04-23",
-      "column": "综合新闻"
     },
     {
       "title": "MGI Seminar 第149讲：Andrew deMello(2018年4月27日15:00)",
@@ -2130,24 +1932,6 @@
       "column": "通知公告"
     },
     {
-      "title": "MGI党支部入选上海大学“党支部建设示范点”培育党支部",
-      "url": "https://mgi.shu.edu.cn/info/1064/1994.htm",
-      "date": "2018-03-22",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院第二届研究生党支部大会、第二届研究生代表大会圆满落幕",
-      "url": "https://mgi.shu.edu.cn/info/1064/1993.htm",
-      "date": "2018-03-20",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学材料基因组工程研究院与美国国家标准与技术研究所达成合作",
-      "url": "https://mgi.shu.edu.cn/info/1063/1738.htm",
-      "date": "2018-03-16",
-      "column": "科研动态"
-    },
-    {
       "title": "2018年材料基因组工程研究院博士研究生（物理学专业）入学考核办法",
       "url": "https://mgi.shu.edu.cn/info/1062/1648.htm",
       "date": "2018-03-07",
@@ -2160,34 +1944,10 @@
       "column": "学术报告"
     },
     {
-      "title": "国家科技部高新司曹国英副司长一行来我校调研材料基因工程建设工作",
-      "url": "https://mgi.shu.edu.cn/info/1064/1992.htm",
-      "date": "2018-02-03",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI Seminar 第143讲：马迅 (2018年1月29日14:00)",
       "url": "https://mgi.shu.edu.cn/info/1065/2173.htm",
       "date": "2018-02-02",
       "column": "学术报告"
-    },
-    {
-      "title": "专家传经送宝，助攻基金申报 ——MGI党支部“传帮带”系列活动之一",
-      "url": "https://mgi.shu.edu.cn/info/1064/1991.htm",
-      "date": "2018-01-31",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院2018年新春联欢晚会完美落幕",
-      "url": "https://mgi.shu.edu.cn/info/1064/1990.htm",
-      "date": "2018-01-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料基因组工程研究院召开2017年度总结大会",
-      "url": "https://mgi.shu.edu.cn/info/1064/1989.htm",
-      "date": "2018-01-26",
-      "column": "综合新闻"
     },
     {
       "title": "MGI Seminar 第141讲：徐盛明 (2018年1月29日9:00)",
@@ -2206,18 +1966,6 @@
       "url": "https://mgi.shu.edu.cn/info/1065/2170.htm",
       "date": "2018-01-23",
       "column": "学术报告"
-    },
-    {
-      "title": "云南云锡集团来访我院",
-      "url": "https://mgi.shu.edu.cn/info/1064/1988.htm",
-      "date": "2018-01-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“材料基因特色培养班”本科生发表一作SCI学术论文",
-      "url": "https://mgi.shu.edu.cn/info/1064/1987.htm",
-      "date": "2018-01-17",
-      "column": "综合新闻"
     },
     {
       "title": "MGI Seminar 第139讲：李圣刚 (2018年1月22日14:00)",
@@ -2250,64 +1998,16 @@
       "column": "通知公告"
     },
     {
-      "title": "吕迎春博士喜获2017年度上海大学 “蔡冠深优秀青年教师奖”",
-      "url": "https://mgi.shu.edu.cn/info/1064/1986.htm",
-      "date": "2018-01-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "日本国立材料科学研究所Yibin Goto教授来校开展学术交流",
-      "url": "https://mgi.shu.edu.cn/info/1063/1737.htm",
-      "date": "2018-01-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "材料基因组工程研究院第二届迎新年师生趣味运动会圆满举行",
-      "url": "https://mgi.shu.edu.cn/info/1064/1985.htm",
-      "date": "2018-01-06",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI Seminar 第137讲：Yibin Xu (2018年1月8日10:30)",
       "url": "https://mgi.shu.edu.cn/info/1065/2167.htm",
       "date": "2018-01-05",
       "column": "学术报告"
     },
     {
-      "title": "上海材料基因组工程研究院2017学术年会在我校成功举行",
-      "url": "https://mgi.shu.edu.cn/info/1063/1736.htm",
-      "date": "2017-12-29",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海大学MGI -美国NIST材料基因视频研讨会顺利召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1735.htm",
-      "date": "2017-12-22",
-      "column": "科研动态"
-    },
-    {
-      "title": "香港城市大学、澳大利亚国立大学和美国田纳西大学教授来上海大学进行学术交流",
-      "url": "https://mgi.shu.edu.cn/info/1063/1734.htm",
-      "date": "2017-12-20",
-      "column": "科研动态"
-    },
-    {
       "title": "MGI Seminar 第136讲：Wei Chen (2017年12月27日09:00)",
       "url": "https://mgi.shu.edu.cn/info/1065/2166.htm",
       "date": "2017-12-20",
       "column": "学术报告"
-    },
-    {
-      "title": "上海大学材料基因组工程研究院调研组赴云南调研",
-      "url": "https://mgi.shu.edu.cn/info/1063/1733.htm",
-      "date": "2017-12-18",
-      "column": "科研动态"
-    },
-    {
-      "title": "澳大利亚国立大学David J. Singh教授来访我院",
-      "url": "https://mgi.shu.edu.cn/info/1063/1732.htm",
-      "date": "2017-12-17",
-      "column": "科研动态"
     },
     {
       "title": "MGI Seminar 第135讲：David J. Singh (2017年12月15日09:00)",
@@ -2320,18 +2020,6 @@
       "url": "https://mgi.shu.edu.cn/info/1065/2164.htm",
       "date": "2017-12-07",
       "column": "学术报告"
-    },
-    {
-      "title": "上海材料创新研究院成立大会暨第一届理事会第一次会议在我校隆重召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1731.htm",
-      "date": "2017-12-06",
-      "column": "科研动态"
-    },
-    {
-      "title": "德克萨斯大学奥斯汀分校Arumugam Manthiram教授应邀来访我院",
-      "url": "https://mgi.shu.edu.cn/info/1063/1730.htm",
-      "date": "2017-12-05",
-      "column": "科研动态"
     },
     {
       "title": "MGI Seminar 第133讲：Shou-Hang Bo (2017年12月7日14:00)",
@@ -2364,22 +2052,10 @@
       "column": "学术报告"
     },
     {
-      "title": "中国材料研究学会材料基因组分会成立大会顺利召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1729.htm",
-      "date": "2017-11-22",
-      "column": "科研动态"
-    },
-    {
       "title": "MGI Seminar 第128讲：Gang Lu (2017年11月20日14:00)",
       "url": "https://mgi.shu.edu.cn/info/1065/2158.htm",
       "date": "2017-11-19",
       "column": "学术报告"
-    },
-    {
-      "title": "国家外专局来我院巡查111引智基地项目",
-      "url": "https://mgi.shu.edu.cn/info/1064/1984.htm",
-      "date": "2017-11-16",
-      "column": "综合新闻"
     },
     {
       "title": "MGI Seminar 第127讲：宋光铃 (2017年11月14日09:30)",
@@ -2388,58 +2064,16 @@
       "column": "学术报告"
     },
     {
-      "title": "构建研究生德育教育体系，开展“七个一”主题教育实践",
-      "url": "https://mgi.shu.edu.cn/info/1064/1983.htm",
-      "date": "2017-11-06",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI Seminar 第125讲：徐伟 (2017年11月7日16:00)",
       "url": "https://mgi.shu.edu.cn/info/1065/2156.htm",
       "date": "2017-11-05",
       "column": "学术报告"
     },
     {
-      "title": "材料基因组工程技术与应用高研班在上海大学成功举办",
-      "url": "https://mgi.shu.edu.cn/info/1064/1982.htm",
-      "date": "2017-11-03",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI Seminar 第124讲：骆鸿 (2017年10月23日10:00)",
       "url": "https://mgi.shu.edu.cn/info/1065/2155.htm",
       "date": "2017-10-21",
       "column": "学术报告"
-    },
-    {
-      "title": "不忘初心、继往开来——MGI教工党支部集体收看十九大开幕会",
-      "url": "https://mgi.shu.edu.cn/info/1064/1981.htm",
-      "date": "2017-10-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学成功举办国家重点研发计划 “跨尺度高通量自动流程功能材料集成计算算法和软件”项目启动会",
-      "url": "https://mgi.shu.edu.cn/info/1063/1728.htm",
-      "date": "2017-10-16",
-      "column": "科研动态"
-    },
-    {
-      "title": "2017年“材料学院-材料基因组工程研究院-上大附中”教职工羽毛球友谊赛圆满举行",
-      "url": "https://mgi.shu.edu.cn/info/1064/1980.htm",
-      "date": "2017-10-16",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“庆国庆，忆历史，创未来”暨钱伟长先生诞辰105周年纪念活动——材料基因组工程研究院党支部主题活动",
-      "url": "https://mgi.shu.edu.cn/info/1064/1979.htm",
-      "date": "2017-10-10",
-      "column": "综合新闻"
-    },
-    {
-      "title": "张统一院士应邀前往北大介绍材料信息学和力学信息学",
-      "url": "https://mgi.shu.edu.cn/info/1063/1727.htm",
-      "date": "2017-10-09",
-      "column": "科研动态"
     },
     {
       "title": "MGI Seminar 第122讲：曾卓然 (2017年10月12日15:00)",
@@ -2466,18 +2100,6 @@
       "column": "通知公告"
     },
     {
-      "title": "我校张统一院士荣任《中国科学•技术科学》期刊新一届主编",
-      "url": "https://mgi.shu.edu.cn/info/1063/1726.htm",
-      "date": "2017-09-29",
-      "column": "科研动态"
-    },
-    {
-      "title": "云南稀贵金属材料基因组工程考察团来访",
-      "url": "https://mgi.shu.edu.cn/info/1063/1725.htm",
-      "date": "2017-09-27",
-      "column": "科研动态"
-    },
-    {
       "title": "上海大学材料基因组工程研究院硕士研究生推免复试方案",
       "url": "https://mgi.shu.edu.cn/info/1062/1639.htm",
       "date": "2017-09-21",
@@ -2490,28 +2112,10 @@
       "column": "通知公告"
     },
     {
-      "title": "材料基因组工程研究院新生迎新工作完美落幕",
-      "url": "https://mgi.shu.edu.cn/info/1064/1978.htm",
-      "date": "2017-09-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“2017国际材料基因组峰会暨上海大学-美国西北大学材料基因组研讨会”在我校成功举行",
-      "url": "https://mgi.shu.edu.cn/info/1063/1724.htm",
-      "date": "2017-09-06",
-      "column": "科研动态"
-    },
-    {
       "title": "MGI Seminar 第120讲：G. Jeffrey Snyder (2017年09月5日9:00)",
       "url": "https://mgi.shu.edu.cn/info/1065/2152.htm",
       "date": "2017-08-29",
       "column": "学术报告"
-    },
-    {
-      "title": "2017国际材料基因组峰会暨上海大学-美国西北大学材料基因组联合研讨会”（International Conference on Materials Genome Initiative (ICMGI 2017) and Shanghai University-Northwestern Univers",
-      "url": "https://mgi.shu.edu.cn/info/1063/1723.htm",
-      "date": "2017-08-28",
-      "column": "科研动态"
     },
     {
       "title": "MGI Seminar 第119讲：宋晓艳 (2017年09月01日9:00)",
@@ -2532,22 +2136,10 @@
       "column": "学术报告"
     },
     {
-      "title": "材料基因组工程研究院2017年度喜获8项国家自然科学基金",
-      "url": "https://mgi.shu.edu.cn/info/1063/1722.htm",
-      "date": "2017-08-20",
-      "column": "科研动态"
-    },
-    {
       "title": "MGI Seminar 第116讲 : 沈大伟 (2017年08月07日14:30)",
       "url": "https://mgi.shu.edu.cn/info/1065/2148.htm",
       "date": "2017-08-05",
       "column": "学术报告"
-    },
-    {
-      "title": "美国宾夕法尼亚大学David J. Srolovitz教授来我院进行学术交流",
-      "url": "https://mgi.shu.edu.cn/info/1063/1721.htm",
-      "date": "2017-07-27",
-      "column": "科研动态"
     },
     {
       "title": "MGI Seminar 第115讲：David Srolovitz (2017年07月26日10:00)",
@@ -2574,22 +2166,10 @@
       "column": "学术报告"
     },
     {
-      "title": "2017年上海大学材料基因组工程研究院“科技夏令营” 圆满结束",
-      "url": "https://mgi.shu.edu.cn/info/1064/1977.htm",
-      "date": "2017-07-06",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI Seminar 第113讲：Kai Tang (2017年07月07日13:30)",
       "url": "https://mgi.shu.edu.cn/info/1065/2145.htm",
       "date": "2017-07-06",
       "column": "学术报告"
-    },
-    {
-      "title": "上海大学-美国西北大学教育合作研讨会在我院成功召开",
-      "url": "https://mgi.shu.edu.cn/info/1064/1976.htm",
-      "date": "2017-06-20",
-      "column": "综合新闻"
     },
     {
       "title": "MGI Seminar 第112讲：David Tománek (2017年6月21日15:00)",
@@ -2598,22 +2178,10 @@
       "column": "学术报告"
     },
     {
-      "title": "第三届材料数据与材料信息学国际研讨会在上海大学召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1720.htm",
-      "date": "2017-06-09",
-      "column": "科研动态"
-    },
-    {
       "title": "MGI Seminar 第111讲：董自强（2017年6月7日14:00）",
       "url": "https://mgi.shu.edu.cn/info/1065/2143.htm",
       "date": "2017-06-05",
       "column": "学术报告"
-    },
-    {
-      "title": "“不唯上，不唯书，只唯实”——陈云纪念馆参观活动",
-      "url": "https://mgi.shu.edu.cn/info/1064/1975.htm",
-      "date": "2017-05-23",
-      "column": "综合新闻"
     },
     {
       "title": "2017年MGI博士招生复试通知",
@@ -2658,30 +2226,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "“力学在材料基因组科学与工程中的作用”研讨会在上海大学成功召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1719.htm",
-      "date": "2016-12-28",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海材料基因组工程研究院学术委员会第二次会议暨2016学术年会在我校成功举办",
-      "url": "https://mgi.shu.edu.cn/info/1063/1718.htm",
-      "date": "2016-12-26",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海市物理学会计算物理专业委员会暨凝聚态物理专业委员会2016年度学术研讨会成功召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1716.htm",
-      "date": "2016-11-14",
-      "column": "科研动态"
-    },
-    {
-      "title": "加拿大工程院院士骆静利教授来访我校",
-      "url": "https://mgi.shu.edu.cn/info/1063/1715.htm",
-      "date": "2016-11-08",
-      "column": "科研动态"
-    },
-    {
       "title": "2016年MGI研究生学业奖学金评审通知",
       "url": "https://mgi.shu.edu.cn/info/1062/1630.htm",
       "date": "2016-11-01",
@@ -2700,130 +2244,16 @@
       "column": "通知公告"
     },
     {
-      "title": "我院申报的国家高等学校学科创新引智基地获批立项",
-      "url": "https://mgi.shu.edu.cn/info/1063/1714.htm",
-      "date": "2016-09-08",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海材料基因组工程研究院理事会第二次会议顺利召开",
-      "url": "https://mgi.shu.edu.cn/info/1063/1713.htm",
-      "date": "2016-09-07",
-      "column": "科研动态"
-    },
-    {
-      "title": "我院本年度喜获10项国家自然科学基金",
-      "url": "https://mgi.shu.edu.cn/info/1063/1712.htm",
-      "date": "2016-08-18",
-      "column": "科研动态"
-    },
-    {
-      "title": "张统一院士一行赴鄂尔多斯集团访问调研",
-      "url": "https://mgi.shu.edu.cn/info/1063/1711.htm",
-      "date": "2016-08-16",
-      "column": "科研动态"
-    },
-    {
-      "title": "MGI Seminar 第70讲：Yun Hang Hu（2016年06月24日9:00）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2102.htm",
-      "date": "2016-06-20",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第69讲：周延春（2016年06月16日9:30）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2101.htm",
-      "date": "2016-06-13",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第67讲：陈奇志（2016年06月17日9:30）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2098.htm",
-      "date": "2016-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第68讲：马杰（2016年06月17日10:00）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2099.htm",
-      "date": "2016-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第66讲：王斌君（2016年6月17日8:30）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2100.htm",
-      "date": "2016-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第65讲：冯凌燕（2016年6月6日14:00）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2096.htm",
-      "date": "2016-06-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第63讲：Advanced Rechargeable Batteries for Energy Storage and Conversion",
-      "url": "https://mgi.shu.edu.cn/info/1065/2092.htm",
-      "date": "2016-05-23",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第64讲：Tribological Issues in Charles Chaplin and Richard Feynman’s Envisioned Machines",
-      "url": "https://mgi.shu.edu.cn/info/1065/2094.htm",
-      "date": "2016-05-23",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第61讲：Exploring Hierarchical Structures of Disordered Materials with Small Angle Neutron Scattering",
-      "url": "https://mgi.shu.edu.cn/info/1065/2088.htm",
-      "date": "2016-05-21",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第62讲：Liquid-Nanoporous Materials and Applications to",
-      "url": "https://mgi.shu.edu.cn/info/1065/2090.htm",
-      "date": "2016-05-21",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第60讲：The Materials Genome Project and Big Data（材料基因组和大数据）",
-      "url": "https://mgi.shu.edu.cn/info/1065/2086.htm",
-      "date": "2016-05-17",
-      "column": "学术报告"
-    },
-    {
       "title": "我校材料基因组本科专业“材料设计科学与工程”培养方案专家论证咨询会成功召开",
       "url": "https://mgi.shu.edu.cn/info/1063/1710.htm",
       "date": "2016-05-05",
       "column": "科研动态"
     },
     {
-      "title": "MGI Seminar 第58讲：Chemomechanics of High-Energy-Density Electrode Materials for Lithium Ion Batteries",
-      "url": "https://mgi.shu.edu.cn/info/1065/2084.htm",
-      "date": "2016-05-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第57讲：基于近程序结构单元的材料结构基因",
-      "url": "https://mgi.shu.edu.cn/info/1065/2082.htm",
-      "date": "2016-05-02",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第56讲：Efficient and accurate first-principles predictions of structures and energies for materials science, chemistry, and biology",
-      "url": "https://mgi.shu.edu.cn/info/1065/2080.htm",
-      "date": "2016-04-29",
-      "column": "学术报告"
-    },
-    {
       "title": "2016年博士招生考试复试安排",
       "url": "https://mgi.shu.edu.cn/info/1062/1628.htm",
       "date": "2016-04-25",
       "column": "通知公告"
-    },
-    {
-      "title": "MGI Seminar 第55讲：Failure prediction of metal structures with (fatigue) cracks &Design and processing of impact-resistance carbon-fiber composites",
-      "url": "https://mgi.shu.edu.cn/info/1065/2078.htm",
-      "date": "2016-04-25",
-      "column": "学术报告"
     },
     {
       "title": "2016年暑期夏令营招募第一轮通知",
@@ -2838,34 +2268,10 @@
       "column": "科研动态"
     },
     {
-      "title": "MGI Seminar 第54讲：Computational Modeling of Microstructural Evolution in Irradiated U-Mo Alloy for Nuclear Application",
-      "url": "https://mgi.shu.edu.cn/info/1065/2076.htm",
-      "date": "2016-04-06",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第53讲：Nanomechanical Characterization and Strain Engineering of Two Dimensional Materials",
-      "url": "https://mgi.shu.edu.cn/info/1065/2074.htm",
-      "date": "2016-03-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第52讲：A Surface Science Approach to Perovskite Solar Cell Research",
-      "url": "https://mgi.shu.edu.cn/info/1065/2073.htm",
-      "date": "2016-03-22",
-      "column": "学术报告"
-    },
-    {
       "title": "关于2016年硕士招生复试安排的通知",
       "url": "https://mgi.shu.edu.cn/info/1062/1626.htm",
       "date": "2016-03-21",
       "column": "通知公告"
-    },
-    {
-      "title": "MGI Seminar 第51讲：Nanoscience-Biology Frontier: From Label-Free Electric Biosensing to Healthcare Devices",
-      "url": "https://mgi.shu.edu.cn/info/1065/2072.htm",
-      "date": "2016-03-17",
-      "column": "学术报告"
     },
     {
       "title": "上海材料基因组工程研究院第一届理事会第一次会议在我校成功举行",
@@ -2880,130 +2286,16 @@
       "column": "科研动态"
     },
     {
-      "title": "MGI Seminar 第50讲：Surface internal stress and mechanical property study by diffraction method",
-      "url": "https://mgi.shu.edu.cn/info/1065/2071.htm",
-      "date": "2016-03-07",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第49讲：在透射电子显微镜中原位表征材料微结构的动态演化过程",
-      "url": "https://mgi.shu.edu.cn/info/1065/2070.htm",
-      "date": "2016-01-14",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI seminar 第48讲：Nanomechanics research activities at NTNU",
-      "url": "https://mgi.shu.edu.cn/info/1065/2069.htm",
-      "date": "2016-01-11",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第47讲：Preparation and Electrochemical Characterization of the Inhibitive Films on the Surface of Brass",
-      "url": "https://mgi.shu.edu.cn/info/1065/2068.htm",
-      "date": "2016-01-06",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第46讲：敏感材料与传感器的热力学/动力学“基因”",
-      "url": "https://mgi.shu.edu.cn/info/1065/2066.htm",
-      "date": "2016-01-05",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第45讲：钙钛矿氧化物超晶格及异质界面的研究进展",
-      "url": "https://mgi.shu.edu.cn/info/1065/2067.htm",
-      "date": "2016-01-05",
-      "column": "学术报告"
-    },
-    {
       "title": "上海材料基因组工程研究院2015学术年会在我校成功举办",
       "url": "https://mgi.shu.edu.cn/info/1063/1706.htm",
       "date": "2015-12-29",
       "column": "科研动态"
     },
     {
-      "title": "MGI Seminar 第44讲：Functional materials studies by in-situ synchrotron radiation",
-      "url": "https://mgi.shu.edu.cn/info/1065/2064.htm",
-      "date": "2015-12-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI seminar 第43讲：PFM in MGI (Phase Field Method in Materials Genome Initiative)",
-      "url": "https://mgi.shu.edu.cn/info/1065/2065.htm",
-      "date": "2015-12-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第42讲：Nanodcal科学计算软件的若干近期进展",
-      "url": "https://mgi.shu.edu.cn/info/1065/2063.htm",
-      "date": "2015-12-19",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第41讲：过渡金属氧化物微纳结构的设计合成",
-      "url": "https://mgi.shu.edu.cn/info/1065/2062.htm",
-      "date": "2015-12-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第40讲：计算机辅助材料设计",
-      "url": "https://mgi.shu.edu.cn/info/1065/2061.htm",
-      "date": "2015-11-09",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第38讲：Structure and superconductivity of (Li1-xFex)OHFeSe single crystals grown using A0.8Fe1.8Se2(A=K,Rb,Cs) as precursors",
-      "url": "https://mgi.shu.edu.cn/info/1065/2060.htm",
-      "date": "2015-11-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第37讲：材料热加工物理模拟及其应用",
-      "url": "https://mgi.shu.edu.cn/info/1065/2059.htm",
-      "date": "2015-11-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第34讲：功能复杂氧化物薄膜的科学和工程 - 下一代高性能材料的设计",
-      "url": "https://mgi.shu.edu.cn/info/1065/2056.htm",
-      "date": "2015-10-21",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第33讲：Big-Data Analytics for Materials Science: Concepts, Challenges, and Hype",
-      "url": "https://mgi.shu.edu.cn/info/1065/2055.htm",
-      "date": "2015-10-19",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第32讲：The plastic flow behavior and mechanism of metallic glasses",
-      "url": "https://mgi.shu.edu.cn/info/1065/2054.htm",
-      "date": "2015-10-18",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar 第31讲：Li-N-H System for Hydrogen Storage: An Investigation on Reaction Mechanism and Catalytic Effect",
-      "url": "https://mgi.shu.edu.cn/info/1065/2053.htm",
-      "date": "2015-10-12",
-      "column": "学术报告"
-    },
-    {
       "title": "China-MGI’2015在沪召开",
       "url": "https://mgi.shu.edu.cn/info/1063/1705.htm",
       "date": "2015-09-22",
       "column": "科研动态"
-    },
-    {
-      "title": "MGI Seminar 第30讲：新型功能材料及新性能的创新设计和研究",
-      "url": "https://mgi.shu.edu.cn/info/1065/2052.htm",
-      "date": "2015-09-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar第29讲：Revealing the Inside of Rechargeable Batteries: How Deep Can We Go by In-Situ Electron Microscopy?",
-      "url": "https://mgi.shu.edu.cn/info/1065/2051.htm",
-      "date": "2015-08-11",
-      "column": "学术报告"
     },
     {
       "title": "材料基因组科学技术论坛第二轮通知",
@@ -3016,18 +2308,6 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1623.htm",
       "date": "2015-07-08",
       "column": "通知公告"
-    },
-    {
-      "title": "MGI Seminar第27讲：脉冲激光沉积Nd-Ti掺杂的BiFeO3薄膜的微结构研究",
-      "url": "https://mgi.shu.edu.cn/info/1065/2049.htm",
-      "date": "2015-07-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "MGI Seminar第28讲：Effect of electric current on the nanoindentation behavior of tin",
-      "url": "https://mgi.shu.edu.cn/info/1065/2050.htm",
-      "date": "2015-07-03",
-      "column": "学术报告"
     },
     {
       "title": "MGI Seminar第26讲：Novel properties of KxFe2-ySe2 superconductor and BiTeCl Rashba semiconductor",

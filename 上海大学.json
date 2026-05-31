@@ -2,13 +2,13 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260530_224443",
-  "total_articles": 18386,
+  "crawl_time": "20260529_091248",
+  "total_articles": 18376,
   "columns": {
     "科研动态": 1634,
     "综合新闻": 16275,
     "通知公告": 447,
-    "重要新闻": 30
+    "重要新闻": 20
   },
   "articles": [
     {
@@ -109428,18 +109428,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "文科处荣获教育部“高校哲学社会科学研究管理先进集体”",
-      "url": "https://www.shu.edu.cn/info/1053/10144.htm",
-      "date": "2013-01-17",
-      "column": "重要新闻"
-    },
-    {
-      "title": "2012-2013年度上海大学研究生党建与思政工作研讨会召开",
-      "url": "https://www.shu.edu.cn/info/1053/10145.htm",
-      "date": "2013-01-17",
-      "column": "重要新闻"
-    },
-    {
       "title": "2013年度理工科科研秘书会议召开",
       "url": "https://www.shu.edu.cn/info/1055/4454.htm",
       "date": "2013-01-17",
@@ -109500,40 +109488,10 @@
       "column": "综合新闻"
     },
     {
-      "title": "我校举行2013年第一次宣传工作例会",
-      "url": "http://news.shu.edu.cn/info/1021/45036.htm",
-      "date": "2013-01-16",
-      "column": "重要新闻"
-    },
-    {
       "title": "校园一卡通系统维护通知",
       "url": "https://www.shu.edu.cn/info/1051/8632.htm",
       "date": "2013-01-16",
       "column": "通知公告"
-    },
-    {
-      "title": "我校举行2013年第一次宣传工作例会",
-      "url": "https://www.shu.edu.cn/info/1053/10140.htm",
-      "date": "2013-01-16",
-      "column": "重要新闻"
-    },
-    {
-      "title": "我校举行2011-2012年度工会工作积极分子表彰大会",
-      "url": "https://www.shu.edu.cn/info/1053/10141.htm",
-      "date": "2013-01-16",
-      "column": "重要新闻"
-    },
-    {
-      "title": "我校“党的光辉照我心”合唱比赛举行",
-      "url": "https://www.shu.edu.cn/info/1053/10142.htm",
-      "date": "2013-01-16",
-      "column": "重要新闻"
-    },
-    {
-      "title": "上大MBA与北大、清华、复旦、中欧等MBA项目院校共同荣获腾讯全国“十大MBA”",
-      "url": "https://www.shu.edu.cn/info/1053/10143.htm",
-      "date": "2013-01-16",
-      "column": "重要新闻"
     },
     {
       "title": "学校科技重点工作思考及实践讨论会日前举行",
@@ -109602,12 +109560,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "校青年教师联谊会召开年度总结会",
-      "url": "https://www.shu.edu.cn/info/1053/10139.htm",
-      "date": "2013-01-15",
-      "column": "重要新闻"
-    },
-    {
       "title": "外国语学院跨文化研究中心与社会发展研究院联合举办研讨会",
       "url": "https://www.shu.edu.cn/info/1056/8230.htm",
       "date": "2013-01-15",
@@ -109642,12 +109594,6 @@
       "url": "https://www.shu.edu.cn/info/1056/8235.htm",
       "date": "2013-01-15",
       "column": "综合新闻"
-    },
-    {
-      "title": "吴松副校长出席材料学院泉鑫奖学金签约仪式",
-      "url": "https://www.shu.edu.cn/info/1053/10137.htm",
-      "date": "2013-01-14",
-      "column": "重要新闻"
     },
     {
       "title": "新型显示技术及应用集成教育部重点实验室学术委员会会议顺利召开",
@@ -109724,12 +109670,6 @@
     {
       "title": "我校召开党委全委（扩大）会议",
       "url": "https://www.shu.edu.cn/info/1053/10136.htm",
-      "date": "2013-01-12",
-      "column": "重要新闻"
-    },
-    {
-      "title": "校长罗宏杰、副校长吴松亲切会见台湾铭传大学校长代表团",
-      "url": "https://www.shu.edu.cn/info/1053/10157.htm",
       "date": "2013-01-12",
       "column": "重要新闻"
     },

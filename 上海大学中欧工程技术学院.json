@@ -2,10 +2,10 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260530_224443",
-  "total_articles": 49,
+  "crawl_time": "20260521_052945",
+  "total_articles": 29,
   "columns": {
-    "重要新闻": 49
+    "重要新闻": 29
   },
   "articles": [
     {
@@ -138,126 +138,6 @@
       "title": "08级校友返校分享  系统思维、跨界实践：中欧人的“底气”",
       "url": "https://utseus.shu.edu.cn/info/1009/4206.htm",
       "date": "2025-05-21",
-      "column": "重要新闻"
-    },
-    {
-      "title": "《法国高等教育的特色和优势》：马燕生公参为上海大学师生带来精彩讲座",
-      "url": "https://utseus.shu.edu.cn/info/1009/1741.htm",
-      "date": "2019-04-03",
-      "column": "重要新闻"
-    },
-    {
-      "title": "开学季：中欧学院迎来2019年春季学期国际项目学生",
-      "url": "https://utseus.shu.edu.cn/info/1009/1671.htm",
-      "date": "2019-03-06",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧学院18级新生家长座谈会顺利举行",
-      "url": "https://utseus.shu.edu.cn/info/1009/1621.htm",
-      "date": "2019-01-07",
-      "column": "重要新闻"
-    },
-    {
-      "title": "2018年编程马拉松：“城市数据挑战赛”成功举办",
-      "url": "https://utseus.shu.edu.cn/info/1009/1593.htm",
-      "date": "2018-12-25",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧工程技术学院成功接待晋元高三学子",
-      "url": "https://utseus.shu.edu.cn/info/1009/1586.htm",
-      "date": "2018-12-24",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧工程技术学院举行 “企业联聘教授”聘任仪式",
-      "url": "https://utseus.shu.edu.cn/info/1009/1551.htm",
-      "date": "2018-12-14",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧工程技术学院成功举办上海青少年科学社2018级会员中期评估活动",
-      "url": "https://utseus.shu.edu.cn/info/1009/1531.htm",
-      "date": "2018-12-04",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧工程技术学院举行上海大学-法国技术大学“联聘教授”聘任仪式",
-      "url": "https://utseus.shu.edu.cn/info/1009/1471.htm",
-      "date": "2018-11-30",
-      "column": "重要新闻"
-    },
-    {
-      "title": "参观嘉兴南湖，学习红船精神 ----学生党支部参观学习活动",
-      "url": "https://utseus.shu.edu.cn/info/1009/1461.htm",
-      "date": "2018-11-23",
-      "column": "重要新闻"
-    },
-    {
-      "title": "2019年赴法选拔准备正在进行时 -- UT集团宣讲活动",
-      "url": "https://utseus.shu.edu.cn/info/1009/1392.htm",
-      "date": "2018-11-12",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧学院刘宛予、Marc Bondiou院长访问贝尔福-蒙贝里亚技术大学",
-      "url": "https://utseus.shu.edu.cn/info/1009/1361.htm",
-      "date": "2018-11-01",
-      "column": "重要新闻"
-    },
-    {
-      "title": "上海大学第二十一届运动会顺利举办",
-      "url": "https://utseus.shu.edu.cn/info/1009/1329.htm",
-      "date": "2018-10-30",
-      "column": "重要新闻"
-    },
-    {
-      "title": "“专业知多少?”——中欧学院专业导论课",
-      "url": "https://utseus.shu.edu.cn/info/1009/1312.htm",
-      "date": "2018-10-28",
-      "column": "重要新闻"
-    },
-    {
-      "title": "法国格勒诺布尔—阿尔卑斯大学法语学习中心CUEF主任一行访问我院",
-      "url": "https://utseus.shu.edu.cn/info/1009/1341.htm",
-      "date": "2018-10-28",
-      "column": "重要新闻"
-    },
-    {
-      "title": "教工党支部参观“勇立潮头—上海市庆祝改革开放40周年”主题展览",
-      "url": "https://utseus.shu.edu.cn/info/1009/1301.htm",
-      "date": "2018-10-25",
-      "column": "重要新闻"
-    },
-    {
-      "title": "2018年征兵欢送会",
-      "url": "https://utseus.shu.edu.cn/info/1009/1271.htm",
-      "date": "2018-09-20",
-      "column": "重要新闻"
-    },
-    {
-      "title": "【新生季】相知 | 认识你真好",
-      "url": "https://utseus.shu.edu.cn/info/1009/1245.htm",
-      "date": "2018-09-03",
-      "column": "重要新闻"
-    },
-    {
-      "title": "【新生季】报到 | 我与你初识的这两天",
-      "url": "https://utseus.shu.edu.cn/info/1009/1243.htm",
-      "date": "2018-08-31",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧工程技术学院首期赴法游学夏令营顺利启航",
-      "url": "https://utseus.shu.edu.cn/info/1009/1221.htm",
-      "date": "2018-07-12",
-      "column": "重要新闻"
-    },
-    {
-      "title": "相遇法兰西",
-      "url": "https://utseus.shu.edu.cn/info/1009/1222.htm",
-      "date": "2018-07-12",
       "column": "重要新闻"
     },
     {

@@ -2,10 +2,10 @@
   "domain": "sdts.shu.edu.cn",
   "department": "上海大学通识教育",
   "type": "05",
-  "crawl_time": "20260530_224443",
-  "total_articles": 89,
+  "crawl_time": "20260515_013355",
+  "total_articles": 69,
   "columns": {
-    "新闻动态": 79,
+    "新闻动态": 59,
     "通知公告": 10
   },
   "articles": [
@@ -373,126 +373,6 @@
       "title": "我校召开2012年度通识教育委员会工作组第四次会议",
       "url": "https://sdts.shu.edu.cn/info/1037/1104.htm",
       "date": "2012-10-25",
-      "column": "新闻动态"
-    },
-    {
-      "title": "推动各学院开展全方位改革——我校召开本科后三年人才培养研讨会",
-      "url": "https://sdts.shu.edu.cn/info/1037/1071.htm",
-      "date": "2012-02-29",
-      "column": "新闻动态"
-    },
-    {
-      "title": "本科后三年人才培养研讨会会议通知（教务处【2012】5号）",
-      "url": "https://sdts.shu.edu.cn/info/1037/1069.htm",
-      "date": "2012-02-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "叶校长等走访部分学院调研2011级后三年人才培养方案制订情况",
-      "url": "https://sdts.shu.edu.cn/info/1037/1066.htm",
-      "date": "2012-02-22",
-      "column": "新闻动态"
-    },
-    {
-      "title": "教务处开展冬季学期大一课程平时考核实施情况抽查",
-      "url": "https://sdts.shu.edu.cn/info/1037/1064.htm",
-      "date": "2012-02-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "关于鼓励2011级三大类一年级学生春季学期选修新生研讨课程的通知",
-      "url": "https://sdts.shu.edu.cn/info/1037/1062.htm",
-      "date": "2012-02-10",
-      "column": "新闻动态"
-    },
-    {
-      "title": "社区学院举行寒假网上答疑的通知",
-      "url": "https://sdts.shu.edu.cn/info/1037/1059.htm",
-      "date": "2011-12-31",
-      "column": "新闻动态"
-    },
-    {
-      "title": "关于开展大类相关课程平时考核情况抽查的通知（教务处【2011】47号）",
-      "url": "https://sdts.shu.edu.cn/info/1037/1057.htm",
-      "date": "2011-12-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "关于加强冬季学期大类各相关课程平时成绩考核的通知（教务处【2011】44号）",
-      "url": "https://sdts.shu.edu.cn/info/1037/1055.htm",
-      "date": "2011-12-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "周哲玮常务副校长对我校通识教育改革情况进行调研",
-      "url": "https://sdts.shu.edu.cn/info/1037/1052.htm",
-      "date": "2011-10-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "推进一年级公共基础课建设——我校召开课内教学与课外培养研讨会",
-      "url": "https://sdts.shu.edu.cn/info/1037/1050.htm",
-      "date": "2011-10-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "课内教学与课外培养研讨会会议通知",
-      "url": "https://sdts.shu.edu.cn/info/1037/1048.htm",
-      "date": "2011-09-23",
-      "column": "新闻动态"
-    },
-    {
-      "title": "推进新生研讨课和通识课建设——我校召开探究式教学方法与学生自主学习能力培养研讨会",
-      "url": "https://sdts.shu.edu.cn/info/1037/1045.htm",
-      "date": "2011-09-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学一年级本科生新生研讨课与通识课课程课外内容与课程考核指导性意见（教务处【2011】23号）",
-      "url": "https://sdts.shu.edu.cn/info/1037/1043.htm",
-      "date": "2011-09-16",
-      "column": "新闻动态"
-    },
-    {
-      "title": "探究式教学方法与学生自主学习能力培养研讨会会议通知",
-      "url": "https://sdts.shu.edu.cn/info/1037/1040.htm",
-      "date": "2011-09-13",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学一年级本科生学业导师招聘通知（教务处【2011】21号）",
-      "url": "https://sdts.shu.edu.cn/info/1037/1038.htm",
-      "date": "2011-09-08",
-      "column": "新闻动态"
-    },
-    {
-      "title": "一通·百通——通识教育&专业教育研讨会召开",
-      "url": "https://sdts.shu.edu.cn/info/1037/1035.htm",
-      "date": "2011-07-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "通识教育来了，大家准备好了吗？——通识教育与教师教学研讨会召开",
-      "url": "https://sdts.shu.edu.cn/info/1037/1033.htm",
-      "date": "2011-07-18",
-      "column": "新闻动态"
-    },
-    {
-      "title": "挑战·适应·变革——通识教育与教师教学研讨会会议通知（教务处【2011】16号）",
-      "url": "https://sdts.shu.edu.cn/info/1037/1030.htm",
-      "date": "2011-07-06",
-      "column": "新闻动态"
-    },
-    {
-      "title": "推进大类改革，进一步落实2011级教学计划制订工作——2011年第三次教学院长工作例会召开",
-      "url": "https://sdts.shu.edu.cn/info/1037/1028.htm",
-      "date": "2011-06-17",
-      "column": "新闻动态"
-    },
-    {
-      "title": "教务处、考评办召开大类改革与教学管理研讨会",
-      "url": "https://sdts.shu.edu.cn/info/1037/1026.htm",
-      "date": "2011-06-16",
       "column": "新闻动态"
     },
     {

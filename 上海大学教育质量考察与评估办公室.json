@@ -2,10 +2,10 @@
   "domain": "oiqa.shu.edu.cn",
   "department": "上海大学教育质量考察与评估办公室",
   "type": "28",
-  "crawl_time": "20260530_224443",
-  "total_articles": 50,
+  "crawl_time": "20260514_004804",
+  "total_articles": 30,
   "columns": {
-    "新闻": 42,
+    "新闻": 22,
     "通知公告": 8
   },
   "articles": [
@@ -176,126 +176,6 @@
       "url": "https://oiqa.shu.edu.cn/18-19qiushijuankaoping.pdf",
       "date": "2018-11-26",
       "column": "通知公告"
-    },
-    {
-      "title": "科学定位及特色创建乃大学要务",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1449.htm",
-      "date": "2008-01-17",
-      "column": "新闻"
-    },
-    {
-      "title": "温家宝听取高等教育211工程建设汇报",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1451.htm",
-      "date": "2008-01-17",
-      "column": "新闻"
-    },
-    {
-      "title": "通过学生评教提升高校教学质量",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1447.htm",
-      "date": "2007-12-24",
-      "column": "新闻"
-    },
-    {
-      "title": "研究生教育质量究竟以何保证",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1445.htm",
-      "date": "2007-12-17",
-      "column": "新闻"
-    },
-    {
-      "title": "把本科培养放在根本位置上",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1443.htm",
-      "date": "2007-12-13",
-      "column": "新闻"
-    },
-    {
-      "title": "中日大学评估机构联手合作",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1442.htm",
-      "date": "2007-11-15",
-      "column": "新闻"
-    },
-    {
-      "title": "中国教育评估界的一次盛会",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1412.htm",
-      "date": "2007-11-13",
-      "column": "新闻"
-    },
-    {
-      "title": "上海高校本科教育工作会议在华东理工召开",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1439.htm",
-      "date": "2007-11-01",
-      "column": "新闻"
-    },
-    {
-      "title": "我国高教规模世界第一 实现从精英教育到大众化",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1438.htm",
-      "date": "2007-10-16",
-      "column": "新闻"
-    },
-    {
-      "title": "教育部办公厅文件（教高评厅[2007]1号）",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1435.htm",
-      "date": "2007-10-15",
-      "column": "新闻"
-    },
-    {
-      "title": "如何培养好未来的工程师",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1433.htm",
-      "date": "2007-10-10",
-      "column": "新闻"
-    },
-    {
-      "title": "教育部关于印发《大学英语课程教学要求》的通知",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1431.htm",
-      "date": "2007-10-09",
-      "column": "新闻"
-    },
-    {
-      "title": "发挥省级教育部门在评估中的作用",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1427.htm",
-      "date": "2007-09-29",
-      "column": "新闻"
-    },
-    {
-      "title": "三部委开展全国博士质量调查工作",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1429.htm",
-      "date": "2007-09-29",
-      "column": "新闻"
-    },
-    {
-      "title": "首批十所高校启动工程教育改革",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1425.htm",
-      "date": "2007-09-26",
-      "column": "新闻"
-    },
-    {
-      "title": "把脉高校教学评估",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1423.htm",
-      "date": "2007-09-06",
-      "column": "新闻"
-    },
-    {
-      "title": "西北政法大学本科生论文质量有监控",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1417.htm",
-      "date": "2007-06-14",
-      "column": "新闻"
-    },
-    {
-      "title": "“质量工程”：提高高校本科教学质量重大举措",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1419.htm",
-      "date": "2007-06-14",
-      "column": "新闻"
-    },
-    {
-      "title": "工程教育要构建质量监控体系",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1422.htm",
-      "date": "2007-06-14",
-      "column": "新闻"
-    },
-    {
-      "title": "浙江出台高校教师教学工作业绩考核指导性意见",
-      "url": "https://oiqa.shu.edu.cn/info/1020/1416.htm",
-      "date": "2007-03-22",
-      "column": "新闻"
     },
     {
       "title": "大学校长热议质量工程：提高质量注重内涵建设",

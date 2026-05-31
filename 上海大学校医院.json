@@ -2,10 +2,10 @@
   "domain": "xyy.shu.edu.cn",
   "department": "上海大学校医院",
   "type": "38",
-  "crawl_time": "20260530_224443",
-  "total_articles": 74,
+  "crawl_time": "20260514_004804",
+  "total_articles": 64,
   "columns": {
-    "公告栏": 58,
+    "公告栏": 48,
     "新闻": 16
   },
   "articles": [
@@ -298,70 +298,10 @@
       "column": "公告栏"
     },
     {
-      "title": "上海静安区宝山区嘉定区社区卫生服务机构发热诊疗服务发热诊间地址、电话一览",
-      "url": "https://xyy.shu.edu.cn/info/1090/2965.htm",
-      "date": "2022-12-19",
-      "column": "公告栏"
-    },
-    {
-      "title": "近期校内师生就诊流程 （试行）",
-      "url": "https://xyy.shu.edu.cn/info/1090/2955.htm",
-      "date": "2022-12-16",
-      "column": "公告栏"
-    },
-    {
       "title": "上海大学世界艾滋病日公益活动圆满举办",
       "url": "https://xyy.shu.edu.cn/info/1091/2944.htm",
       "date": "2022-12-06",
       "column": "新闻"
-    },
-    {
-      "title": "2023年大学生医保缴费通知",
-      "url": "https://xyy.shu.edu.cn/info/1090/2933.htm",
-      "date": "2022-11-18",
-      "column": "公告栏"
-    },
-    {
-      "title": "大学生医保改革倒计时，看病需持卡 ——明年1月1日起施行",
-      "url": "https://xyy.shu.edu.cn/info/1090/2931.htm",
-      "date": "2022-11-17",
-      "column": "公告栏"
-    },
-    {
-      "title": "关于大学生持卡就医结算工作的通知",
-      "url": "https://xyy.shu.edu.cn/info/1090/2921.htm",
-      "date": "2022-11-01",
-      "column": "公告栏"
-    },
-    {
-      "title": "关于大学生持卡就医结算工作的通知",
-      "url": "https://xyy.shu.edu.cn/info/1090/2922.htm",
-      "date": "2022-11-01",
-      "column": "公告栏"
-    },
-    {
-      "title": "关于居民医保就医结算问答(大学生）",
-      "url": "https://xyy.shu.edu.cn/info/1090/2923.htm",
-      "date": "2022-11-01",
-      "column": "公告栏"
-    },
-    {
-      "title": "关于宝山校区保险公司来校理赔地点变更通知（大学生保险理赔）",
-      "url": "https://xyy.shu.edu.cn/info/1090/2902.htm",
-      "date": "2022-09-20",
-      "column": "公告栏"
-    },
-    {
-      "title": "延长校区校医院2022年6月13日至秋季学期工作安排",
-      "url": "https://xyy.shu.edu.cn/info/1090/2881.htm",
-      "date": "2022-06-27",
-      "column": "公告栏"
-    },
-    {
-      "title": "嘉定校区校医院2022年6月13日至秋季学期工作安排",
-      "url": "https://xyy.shu.edu.cn/info/1090/2882.htm",
-      "date": "2022-06-27",
-      "column": "公告栏"
     },
     {
       "title": "校医院宝山门诊部工作时间调整通知",

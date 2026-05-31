@@ -2,12 +2,12 @@
   "domain": "shenjichu.shu.edu.cn",
   "department": "上海大学审计处",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 85,
+  "crawl_time": "20260514_004804",
+  "total_articles": 65,
   "columns": {
-    "审计动态": 66,
-    "支部生活": 13,
-    "通知公告": 6
+    "审计动态": 46,
+    "通知公告": 6,
+    "支部生活": 13
   },
   "articles": [
     {
@@ -362,126 +362,6 @@
       "title": "审计处召开2015年与事务所的沟通会",
       "url": "https://shenjichu.shu.edu.cn/info/1014/1762.htm",
       "date": "2015-04-08",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处及时传达市教育系统审计工作会议精神",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1772.htm",
-      "date": "2012-09-27",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处召开2012年度第一次审计例会",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1773.htm",
-      "date": "2012-04-22",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处当选中国教育审计学会理事单位",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1774.htm",
-      "date": "2012-03-01",
-      "column": "审计动态"
-    },
-    {
-      "title": "上海大学罗宏杰校长对学校审计工作提出新希望",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1775.htm",
-      "date": "2012-02-21",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处组织召开二级学院经济活动规范管理研讨会",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1776.htm",
-      "date": "2012-02-21",
-      "column": "审计动态"
-    },
-    {
-      "title": "上海市教育系统领导干部经济责任审计培训会在我校召开",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1777.htm",
-      "date": "2011-11-28",
-      "column": "审计动态"
-    },
-    {
-      "title": "张佳春处长参加2011年上海教育审计工作交流会",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1778.htm",
-      "date": "2011-11-15",
-      "column": "审计动态"
-    },
-    {
-      "title": "上海大学2011年度事务所邀请招标会议暨青年教师宿舍投资监理、结算审价招标会议召开",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1646.htm",
-      "date": "2011-10-14",
-      "column": "审计动态"
-    },
-    {
-      "title": "上海音乐学院、上海商学院审计处领导来校交流工作",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1779.htm",
-      "date": "2011-09-30",
-      "column": "审计动态"
-    },
-    {
-      "title": "离退休工作处、审计处共同探望退休老同志",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1780.htm",
-      "date": "2011-09-15",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处与海天公司交流审计信息化平台建设阶段性成果",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1781.htm",
-      "date": "2011-09-11",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处周一例会部署下半年工作",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1782.htm",
-      "date": "2011-09-07",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处再次获得中国教育审计学会一类课题立项",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1783.htm",
-      "date": "2011-08-01",
-      "column": "审计动态"
-    },
-    {
-      "title": "我校召开2011年度第一次审计例会",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1784.htm",
-      "date": "2011-07-01",
-      "column": "审计动态"
-    },
-    {
-      "title": "我校审计处参加市教委“经济责任审计质量提升年”主题活动",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1785.htm",
-      "date": "2011-05-25",
-      "column": "审计动态"
-    },
-    {
-      "title": "教育审计信息系统简介及应用需求交流会在我校召开",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1786.htm",
-      "date": "2011-05-12",
-      "column": "审计动态"
-    },
-    {
-      "title": "审计处与基建处共商近期工作",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1787.htm",
-      "date": "2011-04-15",
-      "column": "审计动态"
-    },
-    {
-      "title": "2011年上海教育审计工作会议顺利召开",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1788.htm",
-      "date": "2011-04-14",
-      "column": "审计动态"
-    },
-    {
-      "title": "山东—上海教育审计工作交流会在我校召开",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1789.htm",
-      "date": "2011-03-31",
-      "column": "审计动态"
-    },
-    {
-      "title": "上海—北京教育审计工作交流会在我校顺利召开",
-      "url": "https://shenjichu.shu.edu.cn/info/1014/1790.htm",
-      "date": "2010-10-21",
       "column": "审计动态"
     },
     {

@@ -2,11 +2,11 @@
   "domain": "news.shu.edu.cn",
   "department": "上海大学新闻网",
   "type": "36",
-  "crawl_time": "20260530_224443",
-  "total_articles": 368,
+  "crawl_time": "20260514_004804",
+  "total_articles": 328,
   "columns": {
-    "图片新闻": 278,
-    "文化信息": 90
+    "文化信息": 50,
+    "图片新闻": 278
   },
   "articles": [
     {
@@ -1312,18 +1312,6 @@
       "column": "图片新闻"
     },
     {
-      "title": "上海大剧院芭蕾舞剧《天鹅湖》等演出票预订的通知",
-      "url": "https://news.shu.edu.cn/info/1014/46014.htm",
-      "date": "2013-11-29",
-      "column": "文化信息"
-    },
-    {
-      "title": "上海大剧院“双甲之约”纪念梅兰芳大师诞辰120周年演出50元学生票购买通知",
-      "url": "https://news.shu.edu.cn/info/1014/46015.htm",
-      "date": "2013-11-29",
-      "column": "文化信息"
-    },
-    {
       "title": "我校召开2013年度专题民主生活会情况通报会",
       "url": "https://news.shu.edu.cn/info/1015/4960.htm",
       "date": "2013-11-29",
@@ -1336,70 +1324,16 @@
       "column": "图片新闻"
     },
     {
-      "title": "经典昆剧《雷峰塔》将献演伟长楼",
-      "url": "https://news.shu.edu.cn/info/1014/46011.htm",
-      "date": "2013-11-19",
-      "column": "文化信息"
-    },
-    {
-      "title": "Sara Davis Buechner女士钢琴独奏音乐会",
-      "url": "https://news.shu.edu.cn/info/1014/46012.htm",
-      "date": "2013-11-19",
-      "column": "文化信息"
-    },
-    {
-      "title": "土耳其音乐专场音乐会",
-      "url": "https://news.shu.edu.cn/info/1014/46013.htm",
-      "date": "2013-11-19",
-      "column": "文化信息"
-    },
-    {
       "title": "2013年度地方高校分管财务校长工作会议在我校召开",
       "url": "https://news.shu.edu.cn/info/1015/4998.htm",
       "date": "2013-11-13",
       "column": "图片新闻"
     },
     {
-      "title": "近期京剧（12月）演出优惠票代售",
-      "url": "https://news.shu.edu.cn/info/1014/46010.htm",
-      "date": "2013-11-12",
-      "column": "文化信息"
-    },
-    {
-      "title": "“学习雷锋：把爱洒向校园——为教职工服务日”活动在即",
-      "url": "https://news.shu.edu.cn/info/1014/46121.htm",
-      "date": "2013-11-12",
-      "column": "文化信息"
-    },
-    {
-      "title": "“‘我爱上大美’校园文化展演月”时间安排表",
-      "url": "https://news.shu.edu.cn/info/1014/46008.htm",
-      "date": "2013-11-11",
-      "column": "文化信息"
-    },
-    {
-      "title": "上海大学第十一届菊文化节活动一览表",
-      "url": "https://news.shu.edu.cn/info/1014/46009.htm",
-      "date": "2013-11-11",
-      "column": "文化信息"
-    },
-    {
-      "title": "士先器识而后文艺——纪念丰子恺先生诞辰115周年书画展",
-      "url": "https://news.shu.edu.cn/info/1014/46007.htm",
-      "date": "2013-11-07",
-      "column": "文化信息"
-    },
-    {
       "title": "著名媒体人杨澜做客我校名人名师通识公开课",
       "url": "https://news.shu.edu.cn/info/1015/4997.htm",
       "date": "2013-11-07",
       "column": "图片新闻"
-    },
-    {
-      "title": "展览信息：无事间隙——手感5",
-      "url": "https://news.shu.edu.cn/info/1014/46006.htm",
-      "date": "2013-11-05",
-      "column": "文化信息"
     },
     {
       "title": "第十二届海派文化学术研讨会举行",
@@ -1414,58 +1348,16 @@
       "column": "图片新闻"
     },
     {
-      "title": "关于推荐东方讲坛特聘讲师人选的通知",
-      "url": "https://news.shu.edu.cn/info/1014/46005.htm",
-      "date": "2013-10-30",
-      "column": "文化信息"
-    },
-    {
-      "title": "上海高校志愿服务育人联盟（筹）标识（Logo）征集启事",
-      "url": "https://news.shu.edu.cn/info/1014/46003.htm",
-      "date": "2013-10-29",
-      "column": "文化信息"
-    },
-    {
-      "title": "菊缘丰韵——纪念丰子恺先生诞辰115周年文艺演出",
-      "url": "https://news.shu.edu.cn/info/1014/46004.htm",
-      "date": "2013-10-29",
-      "column": "文化信息"
-    },
-    {
-      "title": "上海大剧院艺术课堂特别活动《尼伯龙根的指环》专题讲座将走入上海大学",
-      "url": "https://news.shu.edu.cn/info/1014/46040.htm",
-      "date": "2013-10-28",
-      "column": "文化信息"
-    },
-    {
       "title": "上海大学研究生院成立",
       "url": "https://news.shu.edu.cn/info/1015/4994.htm",
       "date": "2013-10-26",
       "column": "图片新闻"
     },
     {
-      "title": "上海文艺创作优秀作品 越剧《家》即将献演伟长楼",
-      "url": "https://news.shu.edu.cn/info/1014/46039.htm",
-      "date": "2013-10-25",
-      "column": "文化信息"
-    },
-    {
       "title": "韩国木浦大学校长高锡珪来校作“韩国高等教育创新”报告",
       "url": "https://news.shu.edu.cn/info/1015/4993.htm",
       "date": "2013-10-24",
       "column": "图片新闻"
-    },
-    {
-      "title": "澳门交响乐团联合上海学生交响乐团将在我校演出《贝多芬专场交响音乐会》",
-      "url": "https://news.shu.edu.cn/info/1014/46038.htm",
-      "date": "2013-10-17",
-      "column": "文化信息"
-    },
-    {
-      "title": "展览信息：微观宏观——高珊作品展",
-      "url": "https://news.shu.edu.cn/info/1014/46037.htm",
-      "date": "2013-10-16",
-      "column": "文化信息"
     },
     {
       "title": "上海大学举行第四届金婚庆典",
@@ -1492,30 +1384,6 @@
       "column": "图片新闻"
     },
     {
-      "title": "第八届上海宝山国际民间艺术节外团专场将于我校上演",
-      "url": "https://news.shu.edu.cn/info/1014/46035.htm",
-      "date": "2013-10-14",
-      "column": "文化信息"
-    },
-    {
-      "title": "近期京剧（11月）演出优惠票代售（10月17日更新）",
-      "url": "https://news.shu.edu.cn/info/1014/46036.htm",
-      "date": "2013-10-14",
-      "column": "文化信息"
-    },
-    {
-      "title": "“学习雷锋：把爱洒向校园——为教职工服务日”活动在即",
-      "url": "https://news.shu.edu.cn/info/1014/46122.htm",
-      "date": "2013-10-11",
-      "column": "文化信息"
-    },
-    {
-      "title": "满天星业余交响乐团上海大学音乐沙龙将在我校举办",
-      "url": "https://news.shu.edu.cn/info/1014/46034.htm",
-      "date": "2013-10-10",
-      "column": "文化信息"
-    },
-    {
       "title": "韩正同志一行来我校调研",
       "url": "https://news.shu.edu.cn/info/1015/4987.htm",
       "date": "2013-10-09",
@@ -1528,12 +1396,6 @@
       "column": "图片新闻"
     },
     {
-      "title": "“喉间上的美国”次女高音Carla独唱音乐会将在我校举办",
-      "url": "https://news.shu.edu.cn/info/1014/46033.htm",
-      "date": "2013-09-29",
-      "column": "文化信息"
-    },
-    {
       "title": "我校2012-2013学年毕业生就业工作总结暨培训会举行",
       "url": "https://news.shu.edu.cn/info/1015/4986.htm",
       "date": "2013-09-29",
@@ -1544,24 +1406,6 @@
       "url": "https://news.shu.edu.cn/info/1015/4985.htm",
       "date": "2013-09-25",
       "column": "图片新闻"
-    },
-    {
-      "title": "近期交响乐优惠票代售（9月29日更新）",
-      "url": "https://news.shu.edu.cn/info/1014/46032.htm",
-      "date": "2013-09-24",
-      "column": "文化信息"
-    },
-    {
-      "title": "上海话剧艺术中心《驯悍记》将献演我校",
-      "url": "https://news.shu.edu.cn/info/1014/46030.htm",
-      "date": "2013-09-22",
-      "column": "文化信息"
-    },
-    {
-      "title": "健身舞协会培训通知",
-      "url": "https://news.shu.edu.cn/info/1014/46031.htm",
-      "date": "2013-09-22",
-      "column": "文化信息"
     },
     {
       "title": "上海市政府发展研究中心 上海大学 “文化繁荣与社会发展”研究基地揭牌仪式在我校举行",
@@ -1588,18 +1432,6 @@
       "column": "图片新闻"
     },
     {
-      "title": "上海市社联“迎中秋，庆国庆，社科界共圆中国梦”主题微博大赛征文启事",
-      "url": "https://news.shu.edu.cn/info/1014/46029.htm",
-      "date": "2013-09-12",
-      "column": "文化信息"
-    },
-    {
-      "title": "第十二届海派文化学术研讨会征稿启事",
-      "url": "https://news.shu.edu.cn/info/1014/46028.htm",
-      "date": "2013-09-11",
-      "column": "文化信息"
-    },
-    {
       "title": "上海大学章程制定工作推进会议召开",
       "url": "https://news.shu.edu.cn/info/1015/4980.htm",
       "date": "2013-09-10",
@@ -1610,36 +1442,6 @@
       "url": "https://news.shu.edu.cn/info/1015/4979.htm",
       "date": "2013-09-06",
       "column": "图片新闻"
-    },
-    {
-      "title": "德国不莱梅大学合唱团与上海大学合唱团系列合唱艺术交流展演活动暨上海大学艺术团迎新展演活动",
-      "url": "https://news.shu.edu.cn/info/1014/46027.htm",
-      "date": "2013-09-05",
-      "column": "文化信息"
-    },
-    {
-      "title": "关于庆祝第29个教师节教职工服务日活动的通知",
-      "url": "https://news.shu.edu.cn/info/1014/46025.htm",
-      "date": "2013-09-04",
-      "column": "文化信息"
-    },
-    {
-      "title": "近期京剧、沪剧、交响乐优惠票代售（9.11更新）",
-      "url": "https://news.shu.edu.cn/info/1014/46026.htm",
-      "date": "2013-09-04",
-      "column": "文化信息"
-    },
-    {
-      "title": "上海市“浦江法韵”法治文化公益广告大赛征稿",
-      "url": "https://news.shu.edu.cn/info/1014/46023.htm",
-      "date": "2013-09-03",
-      "column": "文化信息"
-    },
-    {
-      "title": "美术学院展览信息",
-      "url": "https://news.shu.edu.cn/info/1014/46024.htm",
-      "date": "2013-09-03",
-      "column": "文化信息"
     },
     {
       "title": "2013级研究生开学典礼暨入学教育举行",
@@ -1702,18 +1504,6 @@
       "column": "图片新闻"
     },
     {
-      "title": "“翰墨香·中国梦”师生书法联展作品征集",
-      "url": "https://news.shu.edu.cn/info/1014/46022.htm",
-      "date": "2013-07-05",
-      "column": "文化信息"
-    },
-    {
-      "title": "“青春-梦想-牵手” 2013年度沪台大学生暑期嘉年华联欢晚会",
-      "url": "https://news.shu.edu.cn/info/1014/46059.htm",
-      "date": "2013-07-02",
-      "column": "文化信息"
-    },
-    {
       "title": "上海大学第七次学生代表大会召开",
       "url": "https://news.shu.edu.cn/info/1015/5007.htm",
       "date": "2013-07-02",
@@ -1736,12 +1526,6 @@
       "url": "https://news.shu.edu.cn/info/1015/5006.htm",
       "date": "2013-07-01",
       "column": "图片新闻"
-    },
-    {
-      "title": "展览信息：中美学生作品交流展——美术学院",
-      "url": "https://news.shu.edu.cn/info/1014/46058.htm",
-      "date": "2013-06-28",
-      "column": "文化信息"
     },
     {
       "title": "中国共产党上海大学纪律检查委员会第一次全体会议召开",
@@ -1786,18 +1570,6 @@
       "column": "图片新闻"
     },
     {
-      "title": "请您选择：老上海大学历史纪念园地概念方案",
-      "url": "https://news.shu.edu.cn/info/1014/46056.htm",
-      "date": "2013-06-18",
-      "column": "文化信息"
-    },
-    {
-      "title": "芭蕾舞《仙女》即将献演伟长楼",
-      "url": "https://news.shu.edu.cn/info/1014/46057.htm",
-      "date": "2013-06-18",
-      "column": "文化信息"
-    },
-    {
       "title": "上海新材料及应用产学研合作中心一届一次理事会在我校召开",
       "url": "https://news.shu.edu.cn/info/1015/5037.htm",
       "date": "2013-06-17",
@@ -1820,12 +1592,6 @@
       "url": "https://news.shu.edu.cn/info/1015/5034.htm",
       "date": "2013-06-04",
       "column": "图片新闻"
-    },
-    {
-      "title": "“文明上网 共建和谐——我的中国梦”网络微小说作品征集",
-      "url": "https://news.shu.edu.cn/info/1014/46055.htm",
-      "date": "2013-06-03",
-      "column": "文化信息"
     },
     {
       "title": "我校召开第一届校董会第二次会议暨第二届校友会第二次常务理事会会议",
@@ -1902,12 +1668,6 @@
     {
       "title": "5-6月交响乐优惠票",
       "url": "https://news.shu.edu.cn/info/1014/46052.htm",
-      "date": "2013-05-13",
-      "column": "文化信息"
-    },
-    {
-      "title": "于右任与二十世纪二十年代的上海大学图片展",
-      "url": "https://news.shu.edu.cn/info/1014/46053.htm",
       "date": "2013-05-13",
       "column": "文化信息"
     },

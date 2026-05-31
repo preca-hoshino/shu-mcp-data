@@ -2,11 +2,11 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20260530_224443",
-  "total_articles": 79,
+  "crawl_time": "20260513_175610",
+  "total_articles": 73,
   "columns": {
+    "新闻动态": 58,
     "媒体聚焦": 3,
-    "新闻动态": 64,
     "通知公告": 12
   },
   "articles": [
@@ -386,42 +386,6 @@
       "title": "上海大学刘昌胜校长一行访问上海人工智能实验室",
       "url": "https://ai.shu.edu.cn/info/1045/1129.htm",
       "date": "2021-06-21",
-      "column": "新闻动态"
-    },
-    {
-      "title": "中国科学技术大学陈小平教授来我校作学术报告",
-      "url": "https://ai.shu.edu.cn/info/1045/1130.htm",
-      "date": "2021-04-24",
-      "column": "新闻动态"
-    },
-    {
-      "title": "人工智能研究院党史学习教育——勿忘初心，担负使命",
-      "url": "https://ai.shu.edu.cn/info/1045/1131.htm",
-      "date": "2021-03-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学人工智能研究院与万家寨水务控股集团举行座谈",
-      "url": "https://ai.shu.edu.cn/info/1045/1132.htm",
-      "date": "2021-03-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "汪小帆副校长一行应邀访问商汤科技",
-      "url": "https://ai.shu.edu.cn/info/1045/1133.htm",
-      "date": "2021-01-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学人工智能研究院受邀加入WSTNet Lab (网络科学国际实验室联盟)",
-      "url": "https://ai.shu.edu.cn/info/1045/1134.htm",
-      "date": "2020-12-14",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2020年海洋科技与产业战略发展高峰论坛",
-      "url": "https://ai.shu.edu.cn/info/1045/1135.htm",
-      "date": "2020-11-30",
       "column": "新闻动态"
     },
     {

@@ -2,11 +2,11 @@
   "domain": "tiyu.shu.edu.cn",
   "department": "上海大学体育学院",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 167,
+  "crawl_time": "20260514_004804",
+  "total_articles": 147,
   "columns": {
-    "头条新闻": 88,
-    "通知公告": 79
+    "通知公告": 59,
+    "头条新闻": 88
   },
   "articles": [
     {
@@ -634,64 +634,10 @@
       "column": "头条新闻"
     },
     {
-      "title": "2022年体育学院聘期考核方案",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3192.htm",
-      "date": "2022-07-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学体育学院2022年优秀本科生暑期夏令营招生通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3182.htm",
-      "date": "2022-05-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "学术讲座通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3172.htm",
-      "date": "2022-05-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年体育学院研究生招生复试方案",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3145.htm",
-      "date": "2022-03-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "2022年体育学院研究生招生复试考生须知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3146.htm",
-      "date": "2022-03-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "上大体内〔2022〕1号体育学院工作餐补贴发放办法（盖章电子版）",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3131.htm",
-      "date": "2022-03-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "【通知】体育学院2021~2022学年“寒假”值班人员的安排",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3122.htm",
-      "date": "2022-01-16",
-      "column": "通知公告"
-    },
-    {
       "title": "体育学院第三党支部与继续教育学院新嘉党支部开展支部联合组织生活及共建活动",
       "url": "https://tiyu.shu.edu.cn/info/1072/3094.htm",
       "date": "2021-12-28",
       "column": "头条新闻"
-    },
-    {
-      "title": "上海大学体育学院研究生优秀毕业生评选办法",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3092.htm",
-      "date": "2021-12-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "体育学院2022届研究生优秀毕业生评选实施细则",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3093.htm",
-      "date": "2021-12-27",
-      "column": "通知公告"
     },
     {
       "title": "上观新闻报道：上海大学不断推进高水平运动队建设与发展",
@@ -700,46 +646,16 @@
       "column": "头条新闻"
     },
     {
-      "title": "关于调整体育学院专业技术职务聘任领导小组名单的通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3075.htm",
-      "date": "2021-11-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "2020-2021学年上海大学体育学院优秀学生、优秀学生干部名单公示",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3076.htm",
-      "date": "2021-11-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "体育学院教师师德师风负面清单及失范行为处理办法",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3069.htm",
-      "date": "2021-11-11",
-      "column": "通知公告"
-    },
-    {
       "title": "2021年第二届中国大学生桥牌网络赛",
       "url": "https://tiyu.shu.edu.cn/info/1072/3067.htm",
       "date": "2021-11-10",
       "column": "头条新闻"
     },
     {
-      "title": "2020-2021学年上海大学体育学院优秀学生、优秀学生干部学生先进集体 评选细则",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3066.htm",
-      "date": "2021-11-03",
-      "column": "通知公告"
-    },
-    {
       "title": "上海大学第二十四届运动会暨第十四届教工运动会圆满举行",
       "url": "https://tiyu.shu.edu.cn/info/1072/3064.htm",
       "date": "2021-11-02",
       "column": "头条新闻"
-    },
-    {
-      "title": "体育学院2022年接收推荐免试攻读硕士研究生复试方案",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3045.htm",
-      "date": "2021-09-24",
-      "column": "通知公告"
     },
     {
       "title": "体育学院2021级体育硕士新生见面会暨学生导师双向选择会召开",
@@ -752,12 +668,6 @@
       "url": "https://tiyu.shu.edu.cn/info/1072/3028.htm",
       "date": "2021-09-13",
       "column": "头条新闻"
-    },
-    {
-      "title": "关于开展首届上海大学“体育达人”评选的通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3022.htm",
-      "date": "2021-09-03",
-      "column": "通知公告"
     },
     {
       "title": "宝山区体育局张彬局长一行访问上海大学体育学院",
@@ -826,24 +736,6 @@
       "column": "头条新闻"
     },
     {
-      "title": "关于印发《上海大学体育学院科技成果奖励实施细则》的通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3072.htm",
-      "date": "2021-07-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于印发《体育学院教练指导学生竞赛获奖奖励及集训工作量计算办法》的通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3073.htm",
-      "date": "2021-07-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于印发《上海大学体育学院专业教师请假规定及工作量结算办法》的通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/3074.htm",
-      "date": "2021-07-13",
-      "column": "通知公告"
-    },
-    {
       "title": "2021“上大-华为”足球友谊赛圆满落幕",
       "url": "https://tiyu.shu.edu.cn/info/1072/3004.htm",
       "date": "2021-07-06",
@@ -866,18 +758,6 @@
       "url": "https://tiyu.shu.edu.cn/info/1072/2998.htm",
       "date": "2021-06-16",
       "column": "头条新闻"
-    },
-    {
-      "title": "体育学院2021年聘期考核方案",
-      "url": "https://tiyu.shu.edu.cn/info/1073/2994.htm",
-      "date": "2021-06-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "2021上海大学体育学院年度考核实施方案（试行）",
-      "url": "https://tiyu.shu.edu.cn/info/1073/2995.htm",
-      "date": "2021-06-10",
-      "column": "通知公告"
     },
     {
       "title": "2021年上海市高校“校长杯”网球比赛在上海大学举行",

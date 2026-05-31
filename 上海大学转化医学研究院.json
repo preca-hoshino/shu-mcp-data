@@ -2,14 +2,14 @@
   "domain": "suitm.shu.edu.cn",
   "department": "上海大学转化医学研究院",
   "type": "20",
-  "crawl_time": "20260530_224443",
-  "total_articles": 155,
+  "crawl_time": "20260520_052625",
+  "total_articles": 105,
   "columns": {
     "图片新闻": 15,
-    "新闻动态": 46,
+    "新闻动态": 26,
     "期刊建设": 11,
-    "科研成果": 45,
-    "通知公告": 38
+    "科研成果": 25,
+    "通知公告": 28
   },
   "articles": [
     {
@@ -385,70 +385,10 @@
       "column": "通知公告"
     },
     {
-      "title": "我院团队在顶级材料期刊《Nano Today》上发表了关于微环境响应型纳米载体用于靶向治疗骨疾病的最新成果2023/03/30",
-      "url": "https://suitm.shu.edu.cn/info/1086/5287.htm",
-      "date": "2023-03-30",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Advanced Healthcare Materials》上发表了关于骨靶向外泌体的策略及应用的最新成果2023/03/07",
-      "url": "https://suitm.shu.edu.cn/info/1086/5297.htm",
-      "date": "2023-03-07",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院多肽功能材料与创新药物研究中心团队在期刊《Angew Chem Int Ed》上发表了核酸适配体偶联PROTAC策略的最新成果2023/03/01",
-      "url": "https://suitm.shu.edu.cn/info/1086/5227.htm",
-      "date": "2023-03-01",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院多肽功能材料与创新药物研究中心团队在药学卓越期刊《Acta Pharm Sin B》上发表了有关Homo-PROTAC药物设计的最新成果2023/02/26",
-      "url": "https://suitm.shu.edu.cn/info/1086/5237.htm",
-      "date": "2023-02-26",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院团队在国际顶级期刊《Research》上发表智能水凝胶调控微环境实现骨再生的最新成果综述文章2023/02/21",
-      "url": "https://suitm.shu.edu.cn/info/1086/5167.htm",
-      "date": "2023-02-21",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Composites Part B》上发表了治疗骨与关节退行性疾病领域的最新成果2023/02/20",
-      "url": "https://suitm.shu.edu.cn/info/1086/5147.htm",
-      "date": "2023-02-20",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院多肽功能材料与创新药物研究中心团队在期刊《Frontiers in Bioengineering and Biotechnology》上发表了基于核酸适配体的靶向药物递送系统的最新综述2023/02/18",
-      "url": "https://suitm.shu.edu.cn/info/1086/5217.htm",
-      "date": "2023-02-18",
-      "column": "科研成果"
-    },
-    {
       "title": "关于2月18、19日对宝山校区生活水箱清洗工作的通知2023/02/16",
       "url": "https://www.shu.edu.cn/info/1051/295854.htm",
       "date": "2023-02-16",
       "column": "通知公告"
-    },
-    {
-      "title": "我院多肽功能材料与创新药物研究中心团队在期刊《Frontiers in Chemistry》上发表了多粘菌素B用于细菌感染成像与治疗的最新综述2023/02/15",
-      "url": "https://suitm.shu.edu.cn/info/1086/5197.htm",
-      "date": "2023-02-15",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院多肽功能材料与创新药物研究中心团队在期刊《Angew Chem Int Ed》上发表了双靶点抑制剂药物治疗胰腺癌的最新成果2023/02/02",
-      "url": "https://suitm.shu.edu.cn/info/1086/5207.htm",
-      "date": "2023-02-02",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Bioactive Materials》上发表了关于靶向人骨骼肌ssDNA核酸适配体的筛选与鉴定的最新成果2023/01/20",
-      "url": "https://suitm.shu.edu.cn/info/1086/5157.htm",
-      "date": "2023-01-20",
-      "column": "科研成果"
     },
     {
       "title": "上海大学关于2023年元旦放假和2022-2023学年寒假安排的通知2022/12/29",
@@ -461,18 +401,6 @@
       "url": "https://www.shu.edu.cn/info/1051/292273.htm",
       "date": "2022-11-30",
       "column": "通知公告"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Bioactive Materials》上发表了骨靶向性水凝胶的最新成果2022/11/29",
-      "url": "https://suitm.shu.edu.cn/info/1086/4966.htm",
-      "date": "2022-11-29",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Journal of Materials Science & Technology》上发表了从生物学的角度探讨了Matrigel替代生物活性材料特性对骨类器官培养的影响2022/11/29",
-      "url": "https://suitm.shu.edu.cn/info/1086/4976.htm",
-      "date": "2022-11-29",
-      "column": "科研成果"
     },
     {
       "title": "上海大学宝山校区停电通知2022/11/03",
@@ -505,12 +433,6 @@
       "column": "通知公告"
     },
     {
-      "title": "我院团队在材料学顶级期刊《Advanced Functional Materials》上发表了巨噬细胞在骨组织损伤修复愈合过程方面的最新成果2022/10/17",
-      "url": "https://suitm.shu.edu.cn/info/1086/1531.htm",
-      "date": "2022-10-17",
-      "column": "科研成果"
-    },
-    {
       "title": "上海大学转化医学研究院苏佳灿教授团队综述：骨修复生物材料--从免疫调节的角度2022/10/17",
       "url": "https://suitm.shu.edu.cn/info/1143/1511.htm",
       "date": "2022-10-17",
@@ -527,12 +449,6 @@
       "url": "https://suitm.shu.edu.cn/info/1143/1501.htm",
       "date": "2022-10-04",
       "column": "图片新闻"
-    },
-    {
-      "title": "我院团队在生物医学顶级期刊《Theranostics》取得了基于BEVs的肿瘤治疗因其具备天然免疫刺激能力方面的最新成果2022/09/30",
-      "url": "https://suitm.shu.edu.cn/info/1086/1542.htm",
-      "date": "2022-09-30",
-      "column": "科研成果"
     },
     {
       "title": "热烈祝贺转化医学研究院35位研究生获得国家和学业奖学金2022/09/29",
@@ -577,126 +493,6 @@
       "column": "通知公告"
     },
     {
-      "title": "上海大学常态化核酸检测时间调整通知2022/09/14",
-      "url": "https://www.shu.edu.cn/info/1051/77858.htm",
-      "date": "2022-09-14",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2023年硕士研究生招生目录2022/09/13",
-      "url": "https://gmis.shu.edu.cn/ZSJZ/SS/2023/",
-      "date": "2022-09-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2022年新生团员组织关系转入办理须知2022/09/13",
-      "url": "https://yjszs.shu.edu.cn/info/1003/5724.htm",
-      "date": "2022-09-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2022级研究生新生缴费办法2022/09/13",
-      "url": "https://yjszs.shu.edu.cn/info/1004/5743.htm",
-      "date": "2022-09-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学关于2022年中秋节、国庆节放假安排的通知2022/09/09",
-      "url": "https://www.shu.edu.cn/info/1051/77801.htm",
-      "date": "2022-09-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2022级研究生顺利报到2022/09/07",
-      "url": "https://news.shu.edu.cn/info/1021/65369.htm",
-      "date": "2022-09-07",
-      "column": "新闻动态"
-    },
-    {
-      "title": "欢迎新老师！上海大学举办2022年新进教师岗前培训班2022/09/07",
-      "url": "https://news.shu.edu.cn/info/1021/65370.htm",
-      "date": "2022-09-07",
-      "column": "新闻动态"
-    },
-    {
-      "title": "我校举行2022年本科生迎新工作协调会2022/09/02",
-      "url": "https://news.shu.edu.cn/info/1012/65319.htm",
-      "date": "2022-09-02",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学9月3日-9月13日核酸采样地点及时间2022/09/02",
-      "url": "https://www.shu.edu.cn/info/1051/77746.htm",
-      "date": "2022-09-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "纪念上海大学建校100周年专题网站2022/09/01",
-      "url": "https://100.shu.edu.cn/",
-      "date": "2022-09-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学2022年毕业典礼暨学位授予仪式视频回放2022/09/01",
-      "url": "https://www.shu.edu.cn/xcpship/xcpsp/xcp_sp/sp1080/bydl2022.htm",
-      "date": "2022-09-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学2022-2023学年秋季学期学生返校和新生报到通知2022/08/22",
-      "url": "https://www.shu.edu.cn/info/1051/77663.htm",
-      "date": "2022-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学发布关于停水通知2022/08/16",
-      "url": "https://www.shu.edu.cn/info/1051/77647.htm",
-      "date": "2022-08-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学校领导刘昌胜校长一行走访教务部工训中心 慰问暑期坚守一线的师生员工2022/08/11",
-      "url": "https://news.shu.edu.cn/info/1021/65183.htm",
-      "date": "2022-08-11",
-      "column": "新闻动态"
-    },
-    {
-      "title": "纪念上海大学建校100周年活动公告（第一号）2022/08/07",
-      "url": "https://news.shu.edu.cn/info/1012/64925.htm",
-      "date": "2022-08-07",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学关于进一步调整学校疫情防控措施的通知2022/08/01",
-      "url": "https://www.shu.edu.cn/info/1051/77372.htm",
-      "date": "2022-08-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Advanced Functional Materials》上基于软硬结合新概念，实现有效的骨再生的最新成果2022/07/31",
-      "url": "https://suitm.shu.edu.cn/info/1086/1541.htm",
-      "date": "2022-07-31",
-      "column": "科研成果"
-    },
-    {
-      "title": "上海大学关于8月20日前宝山校区相关场所和校门临时管制的通知2022/07/29",
-      "url": "https://www.shu.edu.cn/info/1051/77584.htm",
-      "date": "2022-07-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "转化医学研究院周紫阳硕士研究生在《Theranostics》发表高水平综述2022/07/25",
-      "url": "https://suitm.shu.edu.cn/info/1086/1408.htm",
-      "date": "2022-07-25",
-      "column": "科研成果"
-    },
-    {
-      "title": "我院团队在生物医学顶级期刊《Theranostics》取得了用于骨/软骨修复的丝素蛋白基生物材料的设计与制备方面的最新成果2022/07/25",
-      "url": "https://suitm.shu.edu.cn/info/1086/1552.htm",
-      "date": "2022-07-25",
-      "column": "科研成果"
-    },
-    {
       "title": "转化医学研究院周紫阳硕士研究生在《Theranostics》发表高水平综述2022/07/25",
       "url": "https://suitm.shu.edu.cn/info/1143/1425.htm",
       "date": "2022-07-25",
@@ -715,22 +511,10 @@
       "column": "通知公告"
     },
     {
-      "title": "我院团队在材料学顶级期刊《Chemical Engineering Journal》上发表了骨靶向生物材料的应用及转化的最新成果2022/05/26",
-      "url": "https://suitm.shu.edu.cn/info/1086/1406.htm",
-      "date": "2022-05-26",
-      "column": "科研成果"
-    },
-    {
       "title": "转化医学研究院材料生物学研究中心任肖湘助理研究员在《Chemical Engineering Journal》发表高水平综述2022/05/26",
       "url": "https://suitm.shu.edu.cn/info/1143/1426.htm",
       "date": "2022-05-26",
       "column": "图片新闻"
-    },
-    {
-      "title": "我院团队在材料学顶级期刊《Nano Today》上发表了关于细菌外囊泡在骨相关疾病中具有优异的治疗作用效果的最新成果2022/04/14",
-      "url": "https://suitm.shu.edu.cn/info/1086/1407.htm",
-      "date": "2022-04-14",
-      "column": "科研成果"
     },
     {
       "title": "转化医学研究院肌肉骨骼研究中心姜莹莹助理研究员在《Nano Today》发表高水平综述2022/04/14",
@@ -739,22 +523,10 @@
       "column": "图片新闻"
     },
     {
-      "title": "我院团队在材料学顶级期刊《Bioactive Materials》上发表了关于细菌外囊泡的发生机制、提取技术及其相关应用的最新成果2022/01/15",
-      "url": "https://suitm.shu.edu.cn/info/1086/1381.htm",
-      "date": "2022-01-15",
-      "column": "科研成果"
-    },
-    {
       "title": "转化医学研究院材料生物学研究中心刘晗博士后在顶级刊物《Bioactive Materials》发表高水平综述2022/01/15",
       "url": "https://suitm.shu.edu.cn/info/1143/1428.htm",
       "date": "2022-01-15",
       "column": "图片新闻"
-    },
-    {
-      "title": "我院喜获2021年“赛弗安全”杯——上海大学科研实验室示范性科研实验室和优秀科研实验室荣誉2021/12/22",
-      "url": "https://suitm.shu.edu.cn/info/1082/1373.htm",
-      "date": "2021-12-22",
-      "column": "新闻动态"
     },
     {
       "title": "转化医学研究院薛序博士生在顶级刊物《Advanced Functional Materials》发表高水平综述2021/12/16",
@@ -781,70 +553,10 @@
       "column": "图片新闻"
     },
     {
-      "title": "刘昌胜院士/袁媛AFM: 可注射双交联粘合剂水凝胶用于关节伤口治疗2021/12/04",
-      "url": "https://mp.weixin.qq.com/s/Mnu172x7nkAI-jX_ZiryVg",
-      "date": "2021-12-04",
-      "column": "新闻动态"
-    },
-    {
-      "title": "关于2021年上海大学蔡冠深优秀青年教师奖评选结果的公示2021/12/03",
-      "url": "https://hr.shu.edu.cn/info/1029/5404.htm",
-      "date": "2021-12-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "热烈庆祝转化医学研究院胡衍、刘晗入选2021年上海市“超级博士后”激励计划2021/12/03",
-      "url": "https://suitm.shu.edu.cn/info/1082/1345.htm",
-      "date": "2021-12-03",
-      "column": "新闻动态"
-    },
-    {
-      "title": "追求卓越！上海大学首届创新工作大会开幕2021/11/26",
-      "url": "https://mp.weixin.qq.com/s/sGh41V055WbIrTQ_aORqcw",
-      "date": "2021-11-26",
-      "column": "新闻动态"
-    },
-    {
-      "title": "重磅喜讯！上海大学吴明红教授当选中国工程院院士！2021/11/19",
-      "url": "https://news.shu.edu.cn/info/1093/62952.htm",
-      "date": "2021-11-19",
-      "column": "新闻动态"
-    },
-    {
       "title": "上海大学转化医学研究院科技成果转化项目公示2021/11/18",
       "url": "https://suitm.shu.edu.cn/info/1085/1330.htm",
       "date": "2021-11-18",
       "column": "通知公告"
-    },
-    {
-      "title": "直击2021青科会｜刘昌胜：年轻人要拓展视野、承担责任、面向未来2021/11/15",
-      "url": "https://china.huanqiu.com/article/45aPM1mz4N8",
-      "date": "2021-11-15",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学温州研究院正式揭牌：深化校地合作，助推创新发展2021/11/14",
-      "url": "https://mp.weixin.qq.com/s/cPD2BMAosUKuqPFSdOgIBg",
-      "date": "2021-11-14",
-      "column": "新闻动态"
-    },
-    {
-      "title": "2021中国生物医药产业创新大会暨第七届生物药物创新及研发国际研讨会”在上海宝山美兰湖国际会议中心顺利召开2021/11/09",
-      "url": "https://suitm.shu.edu.cn/info/1082/1321.htm",
-      "date": "2021-11-09",
-      "column": "新闻动态"
-    },
-    {
-      "title": "刘昌胜院士荣获第六届“全国杰出专业技术人才”荣誉称号2021/11/01",
-      "url": "https://news.shu.edu.cn/info/1021/62628.htm",
-      "date": "2021-11-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "第一届全国博士后创新创业大赛总决赛将于11月19日在广东佛山开幕2021/10/26",
-      "url": "https://postdocinno.gdhrss.gov.cn/webpolicydetail?columnName=third&detailId=395",
-      "date": "2021-10-26",
-      "column": "新闻动态"
     },
     {
       "title": "关于2021年下半年全国大学英语四、六级考试报名的通知2021/10/26",
@@ -857,18 +569,6 @@
       "url": "https://www.shu.edu.cn/info/1051/74680.htm",
       "date": "2021-10-26",
       "column": "通知公告"
-    },
-    {
-      "title": "上海首届博士后创新创业大赛决出32个优胜奖2021/10/20",
-      "url": "https://mp.weixin.qq.com/s/JA3ebvJjJT5APiJNesGPCQ",
-      "date": "2021-10-20",
-      "column": "新闻动态"
-    },
-    {
-      "title": "苏州上海大学创新中心签约揭牌2021/10/19",
-      "url": "https://news.shu.edu.cn/info/1021/62330.htm",
-      "date": "2021-10-19",
-      "column": "新闻动态"
     },
     {
       "title": "刘昌胜校长一行赴武汉革命博物馆参观学习并召开专题座谈会2021/10/18",

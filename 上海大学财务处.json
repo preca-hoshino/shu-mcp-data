@@ -2,11 +2,11 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260530_224443",
-  "total_articles": 71,
+  "crawl_time": "20260514_004804",
+  "total_articles": 51,
   "columns": {
     "信息动态": 24,
-    "通知公告": 47
+    "通知公告": 27
   },
   "articles": [
     {
@@ -271,126 +271,6 @@
       "title": "上海大学银行账号信息及增值税开票信息",
       "url": "https://cwc.shu.edu.cn/info/1042/4299.htm",
       "date": "2018-04-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于调整嘉定校区财务对外服务时间的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3935.htm",
-      "date": "2012-03-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于横向科研项目经费管理的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3940.htm",
-      "date": "2011-11-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学《公益事业捐赠统一票据》使用细则（试行）",
-      "url": "https://cwc.shu.edu.cn/info/1041/3942.htm",
-      "date": "2011-10-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "科研项目结题（含中期检查）财务审核流程",
-      "url": "https://cwc.shu.edu.cn/info/1041/3943.htm",
-      "date": "2011-09-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学公务用车情况登记表",
-      "url": "https://cwc.shu.edu.cn/info/1042/3296.htm",
-      "date": "2011-06-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于启用“无现金报销”系统的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3953.htm",
-      "date": "2011-03-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于启用“教职工银行卡号查询和修改”系统的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3954.htm",
-      "date": "2011-03-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "教职工银行卡号修改操作流程V2.0",
-      "url": "https://cwc.shu.edu.cn/info/1041/3955.htm",
-      "date": "2011-03-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于个人对公益事业的捐赠在个人所得税税前扣除的公告",
-      "url": "https://cwc.shu.edu.cn/info/1042/3302.htm",
-      "date": "2011-03-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于启用“网上修改银行卡号”系统的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3959.htm",
-      "date": "2010-11-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于向付款单位出具发票（收据）及相关工作须知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3982.htm",
-      "date": "2009-12-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "请再次核对您的《个人所得税完税证明》邮寄地址",
-      "url": "https://cwc.shu.edu.cn/info/1041/3983.htm",
-      "date": "2009-11-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于本专科学生工商银行卡使用提示",
-      "url": "https://cwc.shu.edu.cn/info/1041/3984.htm",
-      "date": "2009-09-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于学生津贴、奖学金、助学金等发放的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3990.htm",
-      "date": "2009-06-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于办理国家助学贷款展期申请的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3993.htm",
-      "date": "2009-06-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "财务处部门信箱开通啦！",
-      "url": "https://cwc.shu.edu.cn/info/1042/3314.htm",
-      "date": "2009-02-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于执行财政部《政府采购进口产品管理办法》的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3999.htm",
-      "date": "2008-11-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "为使《个人所得税完税证明》准确邮寄给您，请核实您的地址",
-      "url": "https://cwc.shu.edu.cn/info/1041/4000.htm",
-      "date": "2008-11-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于启用新版财政票据的友情提示",
-      "url": "https://cwc.shu.edu.cn/info/1041/4010.htm",
-      "date": "2008-07-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于公积金帐号查询的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/4016.htm",
-      "date": "2007-10-15",
       "column": "通知公告"
     },
     {

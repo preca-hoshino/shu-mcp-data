@@ -2,10 +2,10 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260530_224443",
-  "total_articles": 377,
+  "crawl_time": "20260526_091248",
+  "total_articles": 367,
   "columns": {
-    "学术动态": 43,
+    "学术动态": 33,
     "新闻快递": 312,
     "研究成果": 22
   },
@@ -1487,18 +1487,6 @@
       "column": "新闻快递"
     },
     {
-      "title": "巴西CBMM公司技术总监Hardy 教授应邀来校进行学术交流",
-      "url": "https://cast.shu.edu.cn/info/1044/1860.htm",
-      "date": "2015-07-03",
-      "column": "学术动态"
-    },
-    {
-      "title": "2015年度上大-中信-CBMM含铌铸造材料联合实验室专家座谈会",
-      "url": "https://cast.shu.edu.cn/info/1044/1861.htm",
-      "date": "2015-07-03",
-      "column": "学术动态"
-    },
-    {
       "title": "翟启杰教授参加《连铸装备技术创新和精细化生产技术交流会》并作大会学术报告",
       "url": "https://cast.shu.edu.cn/info/1042/1701.htm",
       "date": "2015-06-23",
@@ -1511,40 +1499,16 @@
       "column": "新闻快递"
     },
     {
-      "title": "翟启杰教授参加《连铸装备技术创新和精细化生产技术交流会》并作大会学术报告",
-      "url": "https://cast.shu.edu.cn/info/1044/1855.htm",
-      "date": "2015-06-23",
-      "column": "学术动态"
-    },
-    {
-      "title": "翟启杰教授访问西北工业大学并做学术报告",
-      "url": "https://cast.shu.edu.cn/info/1044/1856.htm",
-      "date": "2015-06-23",
-      "column": "学术动态"
-    },
-    {
       "title": "《铸造行业“十三五”技术发展规划纲要》审查会在沈阳召开",
       "url": "https://cast.shu.edu.cn/info/1042/1700.htm",
       "date": "2015-05-24",
       "column": "新闻快递"
     },
     {
-      "title": "《铸造行业“十三五”技术发展规划纲要》审查会在沈阳召开",
-      "url": "https://cast.shu.edu.cn/info/1044/1859.htm",
-      "date": "2015-05-24",
-      "column": "学术动态"
-    },
-    {
       "title": "“第六届国际炼钢科技大会” 在北京召开",
       "url": "https://cast.shu.edu.cn/info/1042/1699.htm",
       "date": "2015-05-19",
       "column": "新闻快递"
-    },
-    {
-      "title": "“第六届国际炼钢科技大会” 在北京召开",
-      "url": "https://cast.shu.edu.cn/info/1044/1854.htm",
-      "date": "2015-05-19",
-      "column": "学术动态"
     },
     {
       "title": "翟启杰教授应邀到哈尔滨工业大学讲学",
@@ -1565,18 +1529,6 @@
       "column": "新闻快递"
     },
     {
-      "title": "翟启杰教授应邀到哈尔滨工业大学讲学",
-      "url": "https://cast.shu.edu.cn/info/1044/1852.htm",
-      "date": "2015-05-10",
-      "column": "学术动态"
-    },
-    {
-      "title": "高强塑非调质伞骨钢成功开发",
-      "url": "https://cast.shu.edu.cn/info/1044/1853.htm",
-      "date": "2015-05-10",
-      "column": "学术动态"
-    },
-    {
       "title": "翟启杰教授、仲红刚博士参加“脉冲磁场控制与细化金属凝固组织研讨会”",
       "url": "https://cast.shu.edu.cn/info/1042/1693.htm",
       "date": "2015-04-27",
@@ -1593,18 +1545,6 @@
       "url": "https://cast.shu.edu.cn/info/1042/1695.htm",
       "date": "2015-04-27",
       "column": "新闻快递"
-    },
-    {
-      "title": "翟启杰教授、仲红刚博士参加“脉冲磁场控制与细化金属凝固组织研讨会”",
-      "url": "https://cast.shu.edu.cn/info/1044/1850.htm",
-      "date": "2015-04-27",
-      "column": "学术动态"
-    },
-    {
-      "title": "大连理工大学王同敏教授应邀来先进凝固技术中心做学术报告",
-      "url": "https://cast.shu.edu.cn/info/1044/1851.htm",
-      "date": "2015-04-27",
-      "column": "学术动态"
     },
     {
       "title": "先进凝固中心与大冶特钢开展技术交流",

@@ -2,12 +2,12 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 715,
+  "crawl_time": "20260527_053350",
+  "total_articles": 686,
   "columns": {
-    "学术报告": 226,
+    "学术报告": 217,
     "最新动态": 364,
-    "通知公告": 125
+    "通知公告": 105
   },
   "articles": [
     {
@@ -3737,12 +3737,6 @@
       "column": "最新动态"
     },
     {
-      "title": "2014级材料基因特色培养班导师介绍",
-      "url": "https://qwc.shu.edu.cn/info/1086/2186.htm",
-      "date": "2015-12-16",
-      "column": "通知公告"
-    },
-    {
       "title": "张阿方教授“自然仿生材料”主题讲座顺利举行",
       "url": "https://qwc.shu.edu.cn/info/1087/2347.htm",
       "date": "2015-12-16",
@@ -3791,18 +3785,6 @@
       "column": "学术报告"
     },
     {
-      "title": "钱伟长学院关于基层团组织向党组织推荐优秀团员的通知",
-      "url": "https://qwc.shu.edu.cn/info/1086/2184.htm",
-      "date": "2015-12-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "钱伟长学院关于校长奖学金学院候选人推荐评审细则",
-      "url": "https://qwc.shu.edu.cn/info/1086/2185.htm",
-      "date": "2015-12-07",
-      "column": "通知公告"
-    },
-    {
       "title": "阳光之家“煎蛋小学堂”课程系列之物理基础课堂",
       "url": "https://qwc.shu.edu.cn/info/1087/2342.htm",
       "date": "2015-12-07",
@@ -3815,22 +3797,10 @@
       "column": "学术报告"
     },
     {
-      "title": "共青团上海大学钱伟长学院第三次代表大会选举结果公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2183.htm",
-      "date": "2015-12-03",
-      "column": "通知公告"
-    },
-    {
       "title": "钱伟长讲坛第5讲：士先器识而后文艺——从唐裴行俭对初唐四杰的评论谈当代大学生的...",
       "url": "https://qwc.shu.edu.cn/info/1088/2592.htm",
       "date": "2015-12-03",
       "column": "学术报告"
-    },
-    {
-      "title": "上海大学2015年优秀学生、优秀学生干部、学生先进集体评选公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2182.htm",
-      "date": "2015-12-01",
-      "column": "通知公告"
     },
     {
       "title": "科学研讨课系列报告第152讲“跟着钱老学数学”顺利举行",
@@ -3851,70 +3821,10 @@
       "column": "学术报告"
     },
     {
-      "title": "科学研讨课系列报告第153讲:谈谈中微子",
-      "url": "https://qwc.shu.edu.cn/info/1088/2588.htm",
-      "date": "2015-11-30",
-      "column": "学术报告"
-    },
-    {
-      "title": "钱伟长学院住宿书院“梦想启航”系列报告第2讲：如何遇见最好的自己",
-      "url": "https://qwc.shu.edu.cn/info/1088/2587.htm",
-      "date": "2015-11-27",
-      "column": "学术报告"
-    },
-    {
-      "title": "钱伟长学院专业认知系列报告第1讲：智能制造与机器人",
-      "url": "https://qwc.shu.edu.cn/info/1088/2586.htm",
-      "date": "2015-11-26",
-      "column": "学术报告"
-    },
-    {
       "title": "张阿方教授为钱伟长学院首日教育做主题报告",
       "url": "https://qwc.shu.edu.cn/info/1087/2340.htm",
       "date": "2015-11-25",
       "column": "最新动态"
-    },
-    {
-      "title": "科学研讨课系列报告第151讲:探索世界的奥秘，感受科技的神奇——科技文献指南",
-      "url": "https://qwc.shu.edu.cn/info/1088/2584.htm",
-      "date": "2015-11-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "科学研讨课系列报告第152讲:“跟着钱伟长学数学”——与钱伟长学院的同学一起分享...",
-      "url": "https://qwc.shu.edu.cn/info/1088/2585.htm",
-      "date": "2015-11-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "上海大学钱伟长学院关于2015年光华奖学金评审推荐公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2181.htm",
-      "date": "2015-11-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "共青团钱伟长学院委员会关于开展2014—2015学年上海大学优秀学生、优秀学生干部和...",
-      "url": "https://qwc.shu.edu.cn/info/1086/2180.htm",
-      "date": "2015-11-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "科学研讨课系列报告第150讲:科技与伦理的博弈：“能做什么”和“应做什么”",
-      "url": "https://qwc.shu.edu.cn/info/1088/2582.htm",
-      "date": "2015-11-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "钱伟长讲坛 第 4 讲:  奋斗、科研与人生",
-      "url": "https://qwc.shu.edu.cn/info/1088/2583.htm",
-      "date": "2015-11-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "2015级工科数学分析竞赛获奖情况公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2179.htm",
-      "date": "2015-10-27",
-      "column": "通知公告"
     },
     {
       "title": "上海大学钱伟长学院2015级迎新晚会顺利举行",
@@ -3935,18 +3845,6 @@
       "column": "最新动态"
     },
     {
-      "title": "钱伟长学院住宿书院“梦想启航”系列报告第1讲：走进钱院计算机讲座，感悟电脑神奇...",
-      "url": "https://qwc.shu.edu.cn/info/1088/2581.htm",
-      "date": "2015-10-26",
-      "column": "学术报告"
-    },
-    {
-      "title": "上海大学钱伟长学院单项奖学金评审补充细则（2015版）",
-      "url": "https://qwc.shu.edu.cn/info/1086/2178.htm",
-      "date": "2015-10-22",
-      "column": "通知公告"
-    },
-    {
       "title": "“纪念钱老诞辰103周年，弘扬钱老爱国精神”主题升旗仪式圆满完成",
       "url": "https://qwc.shu.edu.cn/info/1087/2341.htm",
       "date": "2015-10-10",
@@ -3957,24 +3855,6 @@
       "url": "https://qwc.shu.edu.cn/info/1087/2344.htm",
       "date": "2015-10-10",
       "column": "最新动态"
-    },
-    {
-      "title": "心理健康系列讲座二十五：遇见自己，遇见未来--浅谈大学生如何适应大学生活",
-      "url": "https://qwc.shu.edu.cn/info/1088/2580.htm",
-      "date": "2015-10-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "上海大学钱伟长学院2014-2015年度国家励志奖学金评审公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2177.htm",
-      "date": "2015-09-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学钱伟长学院关于2015年国家奖学金、宝钢奖学金评审推荐公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2176.htm",
-      "date": "2015-09-22",
-      "column": "通知公告"
     },
     {
       "title": "科学研讨课系列报告第149讲:灵感、激情、创造性",
@@ -4013,24 +3893,6 @@
       "column": "最新动态"
     },
     {
-      "title": "2015年钱伟长学院录取名单公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2175.htm",
-      "date": "2015-08-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "2015年钱伟长学院自主选拔面试名单",
-      "url": "https://qwc.shu.edu.cn/info/1086/2174.htm",
-      "date": "2015-08-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "钱伟长学院面试招生常见问题解答",
-      "url": "https://qwc.shu.edu.cn/info/1086/2173.htm",
-      "date": "2015-07-26",
-      "column": "通知公告"
-    },
-    {
       "title": "钱伟长学院香港访学交流活动顺利举行",
       "url": "https://qwc.shu.edu.cn/info/1087/2336.htm",
       "date": "2015-07-24",
@@ -4049,22 +3911,10 @@
       "column": "最新动态"
     },
     {
-      "title": "2015年钱伟长学院暑期值班表",
-      "url": "https://qwc.shu.edu.cn/info/1086/2172.htm",
-      "date": "2015-07-10",
-      "column": "通知公告"
-    },
-    {
       "title": "谢谢你给我的那两年-钱伟长学院2013级分流仪式学生代表发言",
       "url": "https://qwc.shu.edu.cn/info/1087/2321.htm",
       "date": "2015-07-10",
       "column": "最新动态"
-    },
-    {
-      "title": "2015年上海大学钱伟长学院（国家试点学院）招生启事",
-      "url": "https://qwc.shu.edu.cn/info/1086/2171.htm",
-      "date": "2015-07-07",
-      "column": "通知公告"
     },
     {
       "title": "钱伟长学院“和谐心灵、风采绽放”心理健康宣传月系列活动开幕",
@@ -4161,30 +4011,6 @@
       "url": "https://qwc.shu.edu.cn/info/1087/2333.htm",
       "date": "2015-07-03",
       "column": "最新动态"
-    },
-    {
-      "title": "钱伟长学院2015暑期社会实践校级立项情况公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2167.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "第四届钱伟长教育思想学生宣讲团名单公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2168.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于第四届共青团上海大学钱伟长学院委员会、 第九届钱伟长学院学生委员会的公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2169.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "钱伟长学院2014级学生专业分流实施细则",
-      "url": "https://qwc.shu.edu.cn/info/1086/2170.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
     },
     {
       "title": "张统一院士为钱伟长学院师生做专业分流主题报告",

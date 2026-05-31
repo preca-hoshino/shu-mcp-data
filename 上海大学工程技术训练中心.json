@@ -2,10 +2,10 @@
   "domain": "gczx.shu.edu.cn",
   "department": "上海大学工程技术训练中心",
   "type": "23",
-  "crawl_time": "20260530_224443",
-  "total_articles": 143,
+  "crawl_time": "20260514_004804",
+  "total_articles": 133,
   "columns": {
-    "中心新闻": 86,
+    "中心新闻": 76,
     "图片新闻": 57
   },
   "articles": [
@@ -629,75 +629,15 @@
     },
     {
       "title": "国内首次Catia官方认证考试试运行成功",
-      "url": "https://gczx.shu.edu.cn/info/1087/1465.htm",
-      "date": "2014-04-16",
-      "column": "中心新闻"
-    },
-    {
-      "title": "国内首次Catia官方认证考试试运行成功",
       "url": "https://gczx.shu.edu.cn/info/1088/1576.htm",
       "date": "2014-04-16",
       "column": "图片新闻"
-    },
-    {
-      "title": "工程技术训练中心召开全体职工大会",
-      "url": "https://gczx.shu.edu.cn/info/1087/1481.htm",
-      "date": "2014-02-20",
-      "column": "中心新闻"
-    },
-    {
-      "title": "西班牙加纳利拉斯帕尔马斯大学Mario教授到我中心访问",
-      "url": "https://gczx.shu.edu.cn/info/1087/1463.htm",
-      "date": "2013-12-17",
-      "column": "中心新闻"
     },
     {
       "title": "西班牙加纳利拉斯帕尔马斯大学Mario教授到我中心访问",
       "url": "https://gczx.shu.edu.cn/info/1088/1575.htm",
       "date": "2013-12-17",
       "column": "图片新闻"
-    },
-    {
-      "title": "第三届上海市大学生工程训练综合能力竞赛时间更改通知",
-      "url": "https://gczx.shu.edu.cn/info/1087/1479.htm",
-      "date": "2013-11-29",
-      "column": "中心新闻"
-    },
-    {
-      "title": "第三届上海市大学生工程训练综合能力竞赛关于设计说明书的要求",
-      "url": "https://gczx.shu.edu.cn/info/1087/1474.htm",
-      "date": "2013-11-27",
-      "column": "中心新闻"
-    },
-    {
-      "title": "第三届上海市大学生工程训练综合能力竞赛报到信息",
-      "url": "https://gczx.shu.edu.cn/info/1087/1476.htm",
-      "date": "2013-11-27",
-      "column": "中心新闻"
-    },
-    {
-      "title": "上海大学第四届大学生工程训练综合能力竞赛",
-      "url": "https://gczx.shu.edu.cn/info/1087/1472.htm",
-      "date": "2013-11-03",
-      "column": "中心新闻"
-    },
-    {
-      "title": "上海大学第四届大学生工程训练综合能力竞赛第一阶段竞赛通知",
-      "url": "https://gczx.shu.edu.cn/info/1087/1470.htm",
-      "date": "2013-09-16",
-      "column": "中心新闻"
-    },
-    {
-      "title": "中心主任胡庆夕教授应邀参加世界3D打印技术产业大会并作报告",
-      "url": "https://gczx.shu.edu.cn/info/1087/1462.htm",
-      "date": "2013-06-15",
-      "column": "中心新闻"
-    },
-    {
-      "title": "我校选派的两支参赛队分获第三届全国大学生工程训练综合能力竞赛一、二等奖",
-      "url": "https://gczx.shu.edu.cn/info/1087/1460.htm",
-      "date": "2013-06-13",
-      "column": "中心新闻"
     },
     {
       "title": "我校选派的两支参赛队分获第三届全国大学生工程训练综合能力竞赛一、二等奖",

@@ -2,11 +2,11 @@
   "domain": "modart.shu.edu.cn",
   "department": "上海大学巴黎国际时装艺术学院",
   "type": "34",
-  "crawl_time": "20260530_224443",
-  "total_articles": 228,
+  "crawl_time": "20260514_004804",
+  "total_articles": 198,
   "columns": {
-    "学院新闻": 50,
-    "时尚资讯": 178
+    "时尚资讯": 168,
+    "学院新闻": 30
   },
   "articles": [
     {
@@ -670,126 +670,6 @@
       "column": "时尚资讯"
     },
     {
-      "title": "我院获“2016中国品牌知名度中外合作院校”称号",
-      "url": "https://modart.shu.edu.cn/info/1009/2241.htm",
-      "date": "2016-11-22",
-      "column": "学院新闻"
-    },
-    {
-      "title": "热烈庆祝我院获“2016中国品牌知名度中外合作院校”称号",
-      "url": "https://modart.shu.edu.cn/info/1009/2243.htm",
-      "date": "2016-11-22",
-      "column": "学院新闻"
-    },
-    {
-      "title": "师生参加爱心联盟企业导师班毕业典礼",
-      "url": "https://modart.shu.edu.cn/info/1009/2239.htm",
-      "date": "2016-11-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院荣获“2016年度十佳教育机构”称号",
-      "url": "https://modart.shu.edu.cn/info/1009/2237.htm",
-      "date": "2016-10-20",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院参展服装博览会受火热关注",
-      "url": "https://modart.shu.edu.cn/info/1009/2236.htm",
-      "date": "2016-10-19",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院参加CHIC 2016（秋季）展",
-      "url": "https://modart.shu.edu.cn/info/1009/2234.htm",
-      "date": "2016-10-11",
-      "column": "学院新闻"
-    },
-    {
-      "title": "学院教职工赴印尼参观美国百年缝纫机品牌Singer（胜家）总部",
-      "url": "https://modart.shu.edu.cn/info/1009/2232.htm",
-      "date": "2016-10-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院2016毕业秀暨2017流行趋势发布会",
-      "url": "https://modart.shu.edu.cn/info/1009/2229.htm",
-      "date": "2016-07-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院毕业秀得到媒体持续关注，获高度评价",
-      "url": "https://modart.shu.edu.cn/info/1009/2230.htm",
-      "date": "2016-07-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院毕业生欢声笑语中拍摄毕业照",
-      "url": "https://modart.shu.edu.cn/info/1009/2231.htm",
-      "date": "2016-07-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海原常务副市长冯国勤莅临毕业秀现场",
-      "url": "https://modart.shu.edu.cn/info/1009/2228.htm",
-      "date": "2016-07-13",
-      "column": "学院新闻"
-    },
-    {
-      "title": "罗宏杰书记访问巴黎MOD'ART及GES集团",
-      "url": "https://modart.shu.edu.cn/info/1009/2227.htm",
-      "date": "2016-07-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "美国密苏里大学拜访团来我院参观交流",
-      "url": "https://modart.shu.edu.cn/info/1009/2226.htm",
-      "date": "2016-06-17",
-      "column": "学院新闻"
-    },
-    {
-      "title": "罗宏杰书记为我院发展指方向",
-      "url": "https://modart.shu.edu.cn/info/1009/2225.htm",
-      "date": "2016-05-10",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院与上大电影学院举行篮球友谊赛",
-      "url": "https://modart.shu.edu.cn/info/1009/2224.htm",
-      "date": "2016-04-26",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上大巴黎复古主题圣诞派对欢乐来袭",
-      "url": "https://modart.shu.edu.cn/info/1009/2223.htm",
-      "date": "2015-12-25",
-      "column": "学院新闻"
-    },
-    {
-      "title": "巴黎国际时装艺术学院代表莅临我院参观交流",
-      "url": "https://modart.shu.edu.cn/info/1009/2221.htm",
-      "date": "2015-11-07",
-      "column": "学院新闻"
-    },
-    {
-      "title": "都柏林国立艺术设计学院教授莅临我院举办专题讲座",
-      "url": "https://modart.shu.edu.cn/info/1009/2222.htm",
-      "date": "2015-11-07",
-      "column": "学院新闻"
-    },
-    {
-      "title": "世界和平小姐大赛启动仪式",
-      "url": "https://modart.shu.edu.cn/info/1009/2220.htm",
-      "date": "2015-10-24",
-      "column": "学院新闻"
-    },
-    {
-      "title": "T台演绎“缪斯”女神与现代潮儿的对话",
-      "url": "https://modart.shu.edu.cn/info/1009/2219.htm",
-      "date": "2015-07-18",
-      "column": "学院新闻"
-    },
-    {
       "title": "《MUSE》| 2015届时装设计与制版专业毕业秀",
       "url": "https://modart.shu.edu.cn/info/1009/2218.htm",
       "date": "2015-07-13",
@@ -1264,69 +1144,9 @@
       "column": "时尚资讯"
     },
     {
-      "title": "10万美元：坎贝尔一步千金",
-      "url": "https://modart.shu.edu.cn/info/1010/2265.htm",
-      "date": "2004-10-28",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "艺术顾问坎贝尔:模特是普通工人",
-      "url": "https://modart.shu.edu.cn/info/1010/2267.htm",
-      "date": "2004-10-28",
-      "column": "时尚资讯"
-    },
-    {
       "title": "名模坎贝尔受聘上海大学艺术顾问",
       "url": "https://modart.shu.edu.cn/info/1010/2270.htm",
       "date": "2004-10-28",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "“黑珍珠”坎贝尔今来沪教台步",
-      "url": "https://modart.shu.edu.cn/info/1010/2262.htm",
-      "date": "2004-10-26",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "“黑珍珠”坎贝尔今来沪教台步",
-      "url": "https://modart.shu.edu.cn/info/1010/2264.htm",
-      "date": "2004-10-26",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "模特时尚之都的时尚标签",
-      "url": "https://modart.shu.edu.cn/info/1010/2260.htm",
-      "date": "2004-10-24",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "日本时尚名师资助中国学生",
-      "url": "https://modart.shu.edu.cn/info/1010/2255.htm",
-      "date": "2004-09-16",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "日本时尚名师资助中国学生",
-      "url": "https://modart.shu.edu.cn/info/1010/2257.htm",
-      "date": "2004-09-16",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "上大巴黎时装学院设立上大巴黎时装学院设立百万奖学金",
-      "url": "https://modart.shu.edu.cn/info/1010/2254.htm",
-      "date": "2004-08-18",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "四大时尚周与上海接轨",
-      "url": "https://modart.shu.edu.cn/info/1010/2251.htm",
-      "date": "2004-06-23",
-      "column": "时尚资讯"
-    },
-    {
-      "title": "手把手培育中国服装制版师——法国专家里昂纳勒.胡多的“五一”长假",
-      "url": "https://modart.shu.edu.cn/info/1010/2250.htm",
-      "date": "2004-05-08",
       "column": "时尚资讯"
     },
     {

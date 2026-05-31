@@ -2,12 +2,12 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260530_224443",
-  "total_articles": 538,
+  "crawl_time": "20260528_091756",
+  "total_articles": 525,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 80,
+    "科技动态": 67,
     "通知公告": 412
   },
   "articles": [
@@ -2502,22 +2502,10 @@
       "column": "通知公告"
     },
     {
-      "title": "“上海·盐都科技人才对接会”在上海大学顺利举行",
-      "url": "https://kyglb.shu.edu.cn/info/1012/2155.htm",
-      "date": "2019-05-28",
-      "column": "科技动态"
-    },
-    {
       "title": "上海大学2019年度上海市教委、上海市教育基金会“曙光计划”项目上报名单（自然科学类）公示",
       "url": "https://kyglb.shu.edu.cn/info/1011/2152.htm",
       "date": "2019-05-27",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学“科技成果转化与知识产权运营”系列讲座 及相关政策宣讲会顺利举行",
-      "url": "https://kyglb.shu.edu.cn/info/1012/2153.htm",
-      "date": "2019-05-27",
-      "column": "科技动态"
     },
     {
       "title": "科技部关于发布国家重点研发计划“主要经济作物优质高产与产业提质增效科技创新”等重点专项2019年度定...",
@@ -2772,12 +2760,6 @@
       "column": "通知公告"
     },
     {
-      "title": "创新管理部组织召开我校纵向科研项目管理办法修订意见征询会",
-      "url": "https://kyglb.shu.edu.cn/info/1012/2072.htm",
-      "date": "2019-05-06",
-      "column": "科技动态"
-    },
-    {
       "title": "关于发布上海市2019年度“科技创新行动计划”港澳台科技合作项目指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/2061.htm",
       "date": "2019-04-30",
@@ -2862,12 +2844,6 @@
       "column": "通知公告"
     },
     {
-      "title": "我校在2018年上海市重点实验室及各类基地评估工作中取得优异成绩",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1991.htm",
-      "date": "2019-03-27",
-      "column": "科技动态"
-    },
-    {
       "title": "上海大学科技成果转化项目公示 201903-03",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=1981",
       "date": "2019-03-26",
@@ -2892,12 +2868,6 @@
       "column": "通知公告"
     },
     {
-      "title": "我校举办2019年院系科研工作负责人培训班",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1971.htm",
-      "date": "2019-03-19",
-      "column": "科技动态"
-    },
-    {
       "title": "上海大学科技成果转化项目公示 201903-02",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=1962",
       "date": "2019-03-18",
@@ -2916,22 +2886,10 @@
       "column": "通知公告"
     },
     {
-      "title": "省部共建高品质特殊钢冶金与制备国家重点实验室2019年学术委员会会议召开",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1953.htm",
-      "date": "2019-03-13",
-      "column": "科技动态"
-    },
-    {
       "title": "关于申报2019年度上海市科协学术项目的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/1951.htm",
       "date": "2019-03-12",
       "column": "通知公告"
-    },
-    {
-      "title": "中国航空发动机集团有限公司-上海大学合作交流会在我校举行",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1932.htm",
-      "date": "2019-02-22",
-      "column": "科技动态"
     },
     {
       "title": "科技部关于发布国家重点研发计划“干细胞及转化研究”等重点专项2019年度项目申报指南的通知",
@@ -2950,18 +2908,6 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/1918.htm",
       "date": "2019-01-17",
       "column": "通知公告"
-    },
-    {
-      "title": "2019年度上海大学科研工作会议暨自然基金 申报动员会顺利召开",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1917.htm",
-      "date": "2019-01-17",
-      "column": "科技动态"
-    },
-    {
-      "title": "2019年国家基金委金砖国家合作项目“多铁材料的电学和磁学性质”启动会召开",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1919.htm",
-      "date": "2019-01-17",
-      "column": "科技动态"
     },
     {
       "title": "关于发布上海市2019年度“科技创新行动计划”长三角构建区域创新共同体领域项目申报指南的通知",
@@ -3096,12 +3042,6 @@
       "column": "通知公告"
     },
     {
-      "title": "创新管理部和党校联合举办2018年科研副院长培训班",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1811.htm",
-      "date": "2018-12-10",
-      "column": "科技动态"
-    },
-    {
       "title": "市科委】关于发布上海市2019年度“科技创新行动计划”青年科技英才扬帆计划项目指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/1772.htm",
       "date": "2018-11-23",
@@ -3118,12 +3058,6 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/1763.htm",
       "date": "2018-11-01",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学2019年度国家自然科学基金申报专题辅导讲座圆满举行",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1761.htm",
-      "date": "2018-11-01",
-      "column": "科技动态"
     },
     {
       "title": "中国创新挑战赛（上海）新材料领域技术需求",
@@ -3176,18 +3110,6 @@
     {
       "title": "上海大学举行二十国集团智库会议（T20）",
       "url": "https://kyglb.shu.edu.cn/info/1012/1740.htm",
-      "date": "2018-10-22",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海大学理学院量子与分子结构国际中心博士生发表第一作者PNAS论文",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1741.htm",
-      "date": "2018-10-22",
-      "column": "科技动态"
-    },
-    {
-      "title": "“医疗器械智能制造技术与仿真”研讨会成功召开",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1742.htm",
       "date": "2018-10-22",
       "column": "科技动态"
     },

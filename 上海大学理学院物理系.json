@@ -2,13 +2,13 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260530_224443",
-  "total_articles": 386,
+  "crawl_time": "20260529_091248",
+  "total_articles": 362,
   "columns": {
     "学术报告": 288,
-    "新闻快递": 28,
-    "研究动态": 50,
-    "通知公告": 20
+    "新闻快递": 16,
+    "研究动态": 44,
+    "通知公告": 14
   },
   "articles": [
     {
@@ -1740,12 +1740,6 @@
       "column": "学术报告"
     },
     {
-      "title": "2022 QWorld量子计算与编程暑期学校火热报名中",
-      "url": "https://physics.shu.edu.cn/info/1015/1717.htm",
-      "date": "2022-07-18",
-      "column": "通知公告"
-    },
-    {
       "title": "物理学科Seminar第578讲：朱起忠（2022年7月21日14:00）",
       "url": "https://physics.shu.edu.cn/info/1078/1714.htm",
       "date": "2022-07-18",
@@ -1758,28 +1752,10 @@
       "column": "研究动态"
     },
     {
-      "title": "关于2022年上海大学物理学系全国优秀大学生夏令营预报名的补充通知",
-      "url": "https://physics.shu.edu.cn/info/1015/1708.htm",
-      "date": "2022-06-30",
-      "column": "通知公告"
-    },
-    {
       "title": "物理学科Seminar第577讲：赵亮（2022年6月23日18:30）",
       "url": "https://physics.shu.edu.cn/info/1078/1701.htm",
       "date": "2022-06-22",
       "column": "学术报告"
-    },
-    {
-      "title": "转发：上海大学第八届“互联网+”大赛产业命题赛道",
-      "url": "https://physics.shu.edu.cn/info/1015/1700.htm",
-      "date": "2022-06-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "转发：关于举办第八届中国国际“互联网+”大学生创新创业大赛 上海大学校内选拔赛 ...",
-      "url": "https://physics.shu.edu.cn/info/1015/1682.htm",
-      "date": "2022-04-22",
-      "column": "通知公告"
     },
     {
       "title": "物理学科Seminar第576讲：沈志昌（2021年12月31日13:00）",
@@ -2034,12 +2010,6 @@
       "column": "学术报告"
     },
     {
-      "title": "关于2021年上半年全国大学英语四、六级考试报名的通知",
-      "url": "https://physics.shu.edu.cn/info/1015/1467.htm",
-      "date": "2021-03-25",
-      "column": "通知公告"
-    },
-    {
       "title": "物理系青年教师曾小东博士在Phys. Rev. Lett.上发表重要研究成果",
       "url": "https://physics.shu.edu.cn/info/1076/1460.htm",
       "date": "2021-03-19",
@@ -2070,12 +2040,6 @@
       "column": "学术报告"
     },
     {
-      "title": "关于做好2021创新型人才国际合作培养项目-量子科技国际创新人才培养项目（第一批）...",
-      "url": "https://physics.shu.edu.cn/info/1015/1404.htm",
-      "date": "2021-01-31",
-      "column": "通知公告"
-    },
-    {
       "title": "物理学科Seminar第534讲：Jinggang Lan（2021年1月28日14:00）",
       "url": "https://physics.shu.edu.cn/info/1078/1357.htm",
       "date": "2021-01-25",
@@ -2097,12 +2061,6 @@
       "title": "物理系任伟教授团队在《Physical Review Letters》杂志上发表最新研究成果",
       "url": "https://physics.shu.edu.cn/info/1076/1315.htm",
       "date": "2020-12-10",
-      "column": "研究动态"
-    },
-    {
-      "title": "上海市高温超导重点实验室第二届学术委员会第二次会议成功举办",
-      "url": "https://physics.shu.edu.cn/info/1076/1425.htm",
-      "date": "2020-11-24",
       "column": "研究动态"
     },
     {
@@ -2158,90 +2116,6 @@
       "url": "https://physics.shu.edu.cn/info/1078/1189.htm",
       "date": "2020-10-12",
       "column": "学术报告"
-    },
-    {
-      "title": "物理系 Lee Burton博士发表材料数据挖掘论文",
-      "url": "https://physics.shu.edu.cn/info/1076/1427.htm",
-      "date": "2020-09-25",
-      "column": "研究动态"
-    },
-    {
-      "title": "“魅力十足”的高温超导技术力夺第22届工博会创新引领奖",
-      "url": "https://physics.shu.edu.cn/info/1021/1138.htm",
-      "date": "2020-09-24",
-      "column": "新闻快递"
-    },
-    {
-      "title": "物理系陈永聪教授等人在国际著名期刊PNAS上发表研究论文",
-      "url": "https://physics.shu.edu.cn/info/1021/1139.htm",
-      "date": "2020-09-24",
-      "column": "新闻快递"
-    },
-    {
-      "title": "物理系陈永聪教授等人在国际著名期刊PNAS上发表研究论文",
-      "url": "https://physics.shu.edu.cn/info/1076/1257.htm",
-      "date": "2020-09-24",
-      "column": "研究动态"
-    },
-    {
-      "title": "开拓校外导师资源 合作育人勇创新——记理学院物理系——中科院上海天文台科创项目...",
-      "url": "https://physics.shu.edu.cn/info/1021/1439.htm",
-      "date": "2020-09-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "契合国家重大科技攻关项目 培养大学生创新能力——理学院邀请中科院上海天文台专家...",
-      "url": "https://physics.shu.edu.cn/info/1021/1440.htm",
-      "date": "2020-09-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "云端科技嘉年华 高温超导放异彩——记我校理学院上海市高温超导重点实验室科技节开...",
-      "url": "https://physics.shu.edu.cn/info/1021/1430.htm",
-      "date": "2020-08-25",
-      "column": "新闻快递"
-    },
-    {
-      "title": "云端科技嘉年华 高温超导放异彩——记我校理学院上海市高温超导重点实验室科技节开...",
-      "url": "https://physics.shu.edu.cn/info/1076/1429.htm",
-      "date": "2020-08-25",
-      "column": "研究动态"
-    },
-    {
-      "title": "物理系李永乐等人在国际著名期刊Nano Energy上发表研究论文",
-      "url": "https://physics.shu.edu.cn/info/1021/1432.htm",
-      "date": "2020-08-03",
-      "column": "新闻快递"
-    },
-    {
-      "title": "物理系李永乐等人在国际著名期刊Nano Energy上发表研究论文",
-      "url": "https://physics.shu.edu.cn/info/1076/1431.htm",
-      "date": "2020-08-03",
-      "column": "研究动态"
-    },
-    {
-      "title": "2020上海大学-华为量子计算黑客松大赛颁奖典礼隆重举行",
-      "url": "https://physics.shu.edu.cn/info/1021/1441.htm",
-      "date": "2020-07-16",
-      "column": "新闻快递"
-    },
-    {
-      "title": "理学院《玩转量子世界》入选中宣部2019年“原动力”中国高校动漫出版孵化计划",
-      "url": "https://physics.shu.edu.cn/info/1021/1434.htm",
-      "date": "2020-06-26",
-      "column": "新闻快递"
-    },
-    {
-      "title": "理学院《玩转量子世界》入选中宣部2019年“原动力”中国高校动漫出版孵化计划",
-      "url": "https://physics.shu.edu.cn/info/1076/1433.htm",
-      "date": "2020-06-26",
-      "column": "研究动态"
-    },
-    {
-      "title": "上海大学14个学科进入QS世界大学学科排名前500",
-      "url": "https://physics.shu.edu.cn/info/1021/1082.htm",
-      "date": "2020-04-14",
-      "column": "新闻快递"
     },
     {
       "title": "06-12 物理学科Seminar：A Midas touch for catalysis-computational studies on t...",
@@ -2306,24 +2180,6 @@
     {
       "title": "物理实验中心青年教师实验讲课交流会成功举办",
       "url": "https://physics.shu.edu.cn/info/1021/1023.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "量子与分子结构国际中心2D Systems课题组在物理化学快报杂志上发表论文",
-      "url": "https://physics.shu.edu.cn/info/1021/1025.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "物理系党总支举行学习十九大报告精神“不忘初心、牢记使命”主题活动",
-      "url": "https://physics.shu.edu.cn/info/1021/1026.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "关于举办 2017 年上海大学大学生物理竞赛暨第 34 届全国部分地 区大学生物理竞赛( ...",
-      "url": "https://physics.shu.edu.cn/info/1021/1027.htm",
       "date": "2019-11-18",
       "column": "新闻快递"
     }

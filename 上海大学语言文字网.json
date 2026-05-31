@@ -2,11 +2,11 @@
   "domain": "sdyywz.shu.edu.cn",
   "department": "上海大学语言文字网",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 261,
+  "crawl_time": "20260514_004804",
+  "total_articles": 241,
   "columns": {
     "新闻动态": 197,
-    "通知通告": 64
+    "通知通告": 44
   },
   "articles": [
     {
@@ -346,42 +346,6 @@
       "column": "通知通告"
     },
     {
-      "title": "关于举办2017“诗意中国”上海诗词大会初赛的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1841.htm",
-      "date": "2017-06-05",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于组织我校师生参加“上海市2017诗歌创作征集活动”的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1840.htm",
-      "date": "2017-05-16",
-      "column": "通知通告"
-    },
-    {
-      "title": "校语委关于做好2017年语言文字工作相关培训报名的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1839.htm",
-      "date": "2017-03-08",
-      "column": "通知通告"
-    },
-    {
-      "title": "校语委关于组织申报市语测中心2017年调研项目及2018年科研课题的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1838.htm",
-      "date": "2017-03-07",
-      "column": "通知通告"
-    },
-    {
-      "title": "2017年上半年常规普通话水平测试报名通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1836.htm",
-      "date": "2017-02-28",
-      "column": "通知通告"
-    },
-    {
-      "title": "2017年上半年常规普通话水平测试报名通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1837.htm",
-      "date": "2017-02-28",
-      "column": "通知通告"
-    },
-    {
       "title": "“说唱中国”——2016留学生教学成果汇报演出",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2508.htm",
       "date": "2016-12-20",
@@ -392,18 +356,6 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2509.htm",
       "date": "2016-12-20",
       "column": "新闻动态"
-    },
-    {
-      "title": "2016年普通话水平测试优秀学生奖励通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1834.htm",
-      "date": "2016-12-08",
-      "column": "通知通告"
-    },
-    {
-      "title": "2015年汉字应用水平测试奖励通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1835.htm",
-      "date": "2016-12-08",
-      "column": "通知通告"
     },
     {
       "title": "我校师生在“中国梦•爱国情•劳动美”经典诵读大赛中再创佳绩",
@@ -424,46 +376,10 @@
       "column": "新闻动态"
     },
     {
-      "title": "关于组织我校学生参加《中国诗词大会》（第二季）上海赛区央视面试选拔活动的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1832.htm",
-      "date": "2016-11-15",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于组织我校学生参加《中国诗词大会》（第二季）上海赛区央视面试选拔活动的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1833.htm",
-      "date": "2016-11-15",
-      "column": "通知通告"
-    },
-    {
       "title": "我校获首届长三角大学生中华经典诵读大赛多个奖项",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2571.htm",
       "date": "2016-11-02",
       "column": "新闻动态"
-    },
-    {
-      "title": "2016年汉字应用水平测试工作通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1830.htm",
-      "date": "2016-09-07",
-      "column": "通知通告"
-    },
-    {
-      "title": "2016年下半年常规普通话水平测试报名通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1831.htm",
-      "date": "2016-09-07",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于组织我校师生参加”第二届上海市民诗歌节暨第十届市民诗歌创作活动”的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1828.htm",
-      "date": "2016-06-21",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于组织参与2016年上海市大学生纪念长征胜利80周年书法展示活动的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1829.htm",
-      "date": "2016-06-21",
-      "column": "通知通告"
     },
     {
       "title": "长三角地区“中华经典•中国梦想”大学生中华经典诵读 上海大学选拔赛在校举行",
@@ -484,18 +400,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "2016年上半年常规普通话水平测试报名通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1826.htm",
-      "date": "2016-03-02",
-      "column": "通知通告"
-    },
-    {
-      "title": "校语委关于组织申报2016年市语测中心科研课题的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1827.htm",
-      "date": "2016-03-02",
-      "column": "通知通告"
-    },
-    {
       "title": "“汉字情，中国梦”——上海大学学生团队获首届上海市高校汉字听写大赛三等奖",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2504.htm",
       "date": "2015-12-03",
@@ -514,18 +418,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "关于做好2016年语言文字相关工作培训预报名的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1824.htm",
-      "date": "2015-10-21",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于做好2016年上海文化知识与方言应用能力测试预报名工作的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1825.htm",
-      "date": "2015-10-21",
-      "column": "通知通告"
-    },
-    {
       "title": "文学院张萍老师荣获上海市首届大学语文教学决赛二等奖",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2502.htm",
       "date": "2015-09-24",
@@ -536,18 +428,6 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2500.htm",
       "date": "2015-06-12",
       "column": "新闻动态"
-    },
-    {
-      "title": "关于开展2015年度国家语委科研项目申报工作的通知",
-      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=175538&SkinSrc",
-      "date": "2015-06-03",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于组织我校师生参加上海市“高校师生楹联创作书写展示”活动的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1822.htm",
-      "date": "2015-05-21",
-      "column": "通知通告"
     },
     {
       "title": "2015年度高校语言文字工作会议顺利召开",

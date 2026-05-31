@@ -2,15 +2,15 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 455,
+  "crawl_time": "20260514_004804",
+  "total_articles": 385,
   "columns": {
+    "党建工作": 49,
+    "干部工作": 53,
+    "党校工作": 208,
     "人才工作": 17,
-    "党建工作": 59,
-    "党校工作": 218,
-    "基层风采": 49,
-    "干部工作": 73,
-    "理论学习": 39
+    "理论学习": 29,
+    "基层风采": 29
   },
   "articles": [
     {
@@ -1124,12 +1124,6 @@
       "column": "干部工作"
     },
     {
-      "title": "中共中央办公厅印发《2019—2023年全国党员教育培训工作规划》",
-      "url": "https://zzb.shu.edu.cn/info/1015/3176.htm",
-      "date": "2019-11-15",
-      "column": "理论学习"
-    },
-    {
       "title": "“不忘初心、牢记使命”主题教育专题党课暨第十五期教工党支部书记沙龙顺利举行",
       "url": "https://zzb.shu.edu.cn/info/1005/2844.htm",
       "date": "2019-10-30",
@@ -1232,12 +1226,6 @@
       "column": "党校工作"
     },
     {
-      "title": "中共中央印发《中国共产党党员教育管理工作条例》",
-      "url": "https://zzb.shu.edu.cn/info/1015/3175.htm",
-      "date": "2019-05-23",
-      "column": "理论学习"
-    },
-    {
       "title": "2019年宝山片区高校学生党支部书记全覆盖培训会在我校举行",
       "url": "https://zzb.shu.edu.cn/info/1005/2713.htm",
       "date": "2019-05-19",
@@ -1296,12 +1284,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/2718.htm",
       "date": "2019-03-12",
       "column": "党校工作"
-    },
-    {
-      "title": "中共中央关于加强党的政治建设的意见",
-      "url": "https://zzb.shu.edu.cn/info/1015/3174.htm",
-      "date": "2019-02-15",
-      "column": "理论学习"
     },
     {
       "title": "上海大学干部教师“双向挂职”启动会顺利举行",
@@ -1364,12 +1346,6 @@
       "column": "干部工作"
     },
     {
-      "title": "上海大学关于竞争性选拔若干中层领导干部的公告(第三批)",
-      "url": "https://zzb.shu.edu.cn/info/1011/2174.htm",
-      "date": "2018-06-27",
-      "column": "干部工作"
-    },
-    {
       "title": "我校举行2018年上半年学生预备党员专题培训",
       "url": "https://zzb.shu.edu.cn/info/1005/2151.htm",
       "date": "2018-06-19",
@@ -1386,12 +1362,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/2112.htm",
       "date": "2018-05-31",
       "column": "党校工作"
-    },
-    {
-      "title": "上海大学关于竞争性选拔若干中层领导干部的公告(第二批)",
-      "url": "https://zzb.shu.edu.cn/info/1011/2092.htm",
-      "date": "2018-05-28",
-      "column": "干部工作"
     },
     {
       "title": "上海大学第九期思政干部培训班学员赴上海高校调研学习",
@@ -1416,24 +1386,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/2101.htm",
       "date": "2018-04-12",
       "column": "党校工作"
-    },
-    {
-      "title": "《中国共产党党务公开条例（试行）》",
-      "url": "https://zzb.shu.edu.cn/info/1015/2007.htm",
-      "date": "2018-04-12",
-      "column": "理论学习"
-    },
-    {
-      "title": "中国共产党发展党员工作细则",
-      "url": "https://zzb.shu.edu.cn/info/1015/2008.htm",
-      "date": "2018-04-12",
-      "column": "理论学习"
-    },
-    {
-      "title": "关于竞争性选拔若干院系中层领导干部的公告",
-      "url": "https://zzb.shu.edu.cn/info/1011/1795.htm",
-      "date": "2018-04-04",
-      "column": "干部工作"
     },
     {
       "title": "上海大学第三期管理干部英语能力（听说专题）提升培训班开班",
@@ -1466,94 +1418,10 @@
       "column": "党校工作"
     },
     {
-      "title": "关于选派优秀青年后备干部到中国国际进口博览局选调借调的通知",
-      "url": "https://zzb.shu.edu.cn/info/1011/1301.htm",
-      "date": "2018-02-09",
-      "column": "干部工作"
-    },
-    {
-      "title": "上海市教卫党委系统党建研究会高校专委会2018年课题指南及申报要求",
-      "url": "https://zzb.shu.edu.cn/info/1016/1799.htm",
-      "date": "2018-01-19",
-      "column": "党建工作"
-    },
-    {
-      "title": "我校组织人事部副部长、组织部长王军华代表学校在市委组织部长会议上发言",
-      "url": "https://zzb.shu.edu.cn/info/1016/1080.htm",
-      "date": "2018-01-09",
-      "column": "党建工作"
-    },
-    {
-      "title": "我校开展2017年度二级党组织书记落实“三大主体责任”述职评议会",
-      "url": "https://zzb.shu.edu.cn/info/1016/1083.htm",
-      "date": "2018-01-09",
-      "column": "党建工作"
-    },
-    {
-      "title": "我校召开2018年第一次组织工作例会",
-      "url": "https://zzb.shu.edu.cn/info/1016/1086.htm",
-      "date": "2018-01-09",
-      "column": "党建工作"
-    },
-    {
-      "title": "学校组织师生党员干部观看电影《邹碧华》，学习贯彻党的十九大精神",
-      "url": "https://zzb.shu.edu.cn/info/1016/1087.htm",
-      "date": "2018-01-09",
-      "column": "党建工作"
-    },
-    {
-      "title": "2017年度“阳光计划”项目（党建工作类）申报工作的通知",
-      "url": "https://zzb.shu.edu.cn/info/1016/1796.htm",
-      "date": "2017-12-01",
-      "column": "党建工作"
-    },
-    {
-      "title": "关于选派优秀青年后备干部到杨浦区挂职锻炼的通知",
-      "url": "https://zzb.shu.edu.cn/info/1011/1299.htm",
-      "date": "2017-11-23",
-      "column": "干部工作"
-    },
-    {
-      "title": "关于开展上海大学基层党支部主题党日和组织生活观摩交流活动的通知",
-      "url": "https://zzb.shu.edu.cn/info/1016/1064.htm",
-      "date": "2017-11-10",
-      "column": "党建工作"
-    },
-    {
-      "title": "关于第十四轮基层党的建设“好项目”立项的通知",
-      "url": "https://zzb.shu.edu.cn/info/1016/1068.htm",
-      "date": "2017-11-10",
-      "column": "党建工作"
-    },
-    {
-      "title": "关于做好上海大2017届毕业生党员离校教育管理工作的通知",
-      "url": "https://zzb.shu.edu.cn/info/1016/1071.htm",
-      "date": "2017-11-10",
-      "column": "党建工作"
-    },
-    {
-      "title": "关于表彰2016-2017年度第十三轮基层党的建设“好项目”的决定",
-      "url": "https://zzb.shu.edu.cn/info/1016/1074.htm",
-      "date": "2017-11-10",
-      "column": "党建工作"
-    },
-    {
-      "title": "校内挂职锻炼招聘启事",
-      "url": "https://zzb.shu.edu.cn/info/1011/1788.htm",
-      "date": "2017-11-09",
-      "column": "干部工作"
-    },
-    {
       "title": "我校举行第三十四期教职工入党积极分子培训班开班典礼",
       "url": "https://zzb.shu.edu.cn/info/1005/1329.htm",
       "date": "2017-10-27",
       "column": "党校工作"
-    },
-    {
-      "title": "关于启动科级干部聘任工作的通知",
-      "url": "https://zzb.shu.edu.cn/info/1011/1789.htm",
-      "date": "2017-10-27",
-      "column": "干部工作"
     },
     {
       "title": "上海大学党校数码艺术学院办学点第二十三期入党积极分子培训实施计划",
@@ -1566,12 +1434,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/1326.htm",
       "date": "2017-10-12",
       "column": "党校工作"
-    },
-    {
-      "title": "我校江苏“科技镇长团”挂职干部助力学校产学研发展",
-      "url": "https://zzb.shu.edu.cn/info/1011/1790.htm",
-      "date": "2017-10-03",
-      "column": "干部工作"
     },
     {
       "title": "关于组织申报自然科学基金委业务主管或流动项目主任的通知",
@@ -1592,12 +1454,6 @@
       "column": "党校工作"
     },
     {
-      "title": "中共教育部党组关于加强新形势下高校教师党支部建设的意见",
-      "url": "https://zzb.shu.edu.cn/info/1015/1480.htm",
-      "date": "2017-08-02",
-      "column": "理论学习"
-    },
-    {
       "title": "我校组织人事部与宝山区委组织部开展对接交流",
       "url": "https://zzb.shu.edu.cn/info/1012/1351.htm",
       "date": "2017-07-24",
@@ -1614,18 +1470,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/1324.htm",
       "date": "2017-06-13",
       "column": "党校工作"
-    },
-    {
-      "title": "镇长团促沪苏共赢 产学研需协同发展",
-      "url": "https://zzb.shu.edu.cn/info/1011/1892.htm",
-      "date": "2017-05-25",
-      "column": "干部工作"
-    },
-    {
-      "title": "“人是挂职的心态不能是挂职的”",
-      "url": "https://zzb.shu.edu.cn/info/1011/1893.htm",
-      "date": "2017-05-25",
-      "column": "干部工作"
     },
     {
       "title": "“人是挂职的心态不能是挂职的”",
@@ -1656,12 +1500,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/1321.htm",
       "date": "2017-04-24",
       "column": "党校工作"
-    },
-    {
-      "title": "创新管理部和高等研究院成立及相关干部任免宣布会举行",
-      "url": "https://zzb.shu.edu.cn/info/1011/1279.htm",
-      "date": "2017-04-21",
-      "column": "干部工作"
     },
     {
       "title": "我校青年骨干教师赴上海科技大学调研学习",
@@ -1706,12 +1544,6 @@
       "column": "党校工作"
     },
     {
-      "title": "关于处级干部新一轮聘任推迟到2018年进行的通知",
-      "url": "https://zzb.shu.edu.cn/info/1011/1276.htm",
-      "date": "2017-03-15",
-      "column": "干部工作"
-    },
-    {
       "title": "上海大学党建研究会2017年工作计划",
       "url": "https://zzb.shu.edu.cn/info/1005/1312.htm",
       "date": "2017-03-14",
@@ -1724,22 +1556,10 @@
       "column": "党校工作"
     },
     {
-      "title": "中共教育部党组关于印发《普通高等学校学生党建工作标准》的通知",
-      "url": "https://zzb.shu.edu.cn/info/1015/1478.htm",
-      "date": "2017-03-03",
-      "column": "理论学习"
-    },
-    {
       "title": "学校组织党校统战支部与纪委监察支部联合举行组织生活会",
       "url": "https://zzb.shu.edu.cn/info/1005/1310.htm",
       "date": "2017-03-02",
       "column": "党校工作"
-    },
-    {
-      "title": "关于开展学院（学部、直属系）发展现状及领导班子和干部队伍专题调研工作的通知",
-      "url": "https://zzb.shu.edu.cn/info/1011/1274.htm",
-      "date": "2017-02-18",
-      "column": "干部工作"
     },
     {
       "title": "和煦党光，伴我成长——材料学院37期入党积极分子培训班结业典礼顺利开展",
@@ -1754,28 +1574,10 @@
       "column": "党建工作"
     },
     {
-      "title": "上海大学财务处处长招聘启事",
-      "url": "https://zzb.shu.edu.cn/info/1011/1269.htm",
-      "date": "2016-12-15",
-      "column": "干部工作"
-    },
-    {
-      "title": "上海大学财务处处长招聘启事",
-      "url": "https://zzb.shu.edu.cn/info/1011/1794.htm",
-      "date": "2016-12-15",
-      "column": "干部工作"
-    },
-    {
       "title": "我校召开2016年上海大学基层党组织书记抓基层党建工作和党风廉政建设工作述职评议会",
       "url": "https://zzb.shu.edu.cn/info/1016/1054.htm",
       "date": "2016-12-14",
       "column": "党建工作"
-    },
-    {
-      "title": "组织人事部成立及相关干部任免宣布会举行",
-      "url": "https://zzb.shu.edu.cn/info/1011/1268.htm",
-      "date": "2016-12-13",
-      "column": "干部工作"
     },
     {
       "title": "上海大学党校计算机学院联合办学点第十期预备党员培训实施计划",
@@ -1880,12 +1682,6 @@
       "column": "党校工作"
     },
     {
-      "title": "关于竞争性选拔中国社会科学院-上海市人民政府上海研究院合作处处长、行政处副处长的公告",
-      "url": "https://zzb.shu.edu.cn/info/1011/1671.htm",
-      "date": "2016-11-15",
-      "column": "干部工作"
-    },
-    {
       "title": "上海大学第三十四期离退休干部读书班顺利举行",
       "url": "https://zzb.shu.edu.cn/info/1005/1278.htm",
       "date": "2016-11-14",
@@ -1902,12 +1698,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/1282.htm",
       "date": "2016-11-14",
       "column": "党校工作"
-    },
-    {
-      "title": "中国共产党党内监督条例",
-      "url": "https://zzb.shu.edu.cn/info/1015/1475.htm",
-      "date": "2016-11-11",
-      "column": "理论学习"
     },
     {
       "title": "中国共产党党内监督条例",
@@ -2036,100 +1826,16 @@
       "column": "党建工作"
     },
     {
-      "title": "上海大学中欧学院着力提升海外学生党员教育管理制度化科学化水平",
-      "url": "https://zzb.shu.edu.cn/info/1014/1370.htm",
-      "date": "2016-05-06",
-      "column": "基层风采"
-    },
-    {
-      "title": "理学院与宝山区淞南镇举办党委中心组联组学习会",
-      "url": "https://zzb.shu.edu.cn/info/1014/1371.htm",
-      "date": "2016-05-06",
-      "column": "基层风采"
-    },
-    {
-      "title": "上海大学党校理学院办学点第31期入党积极分子培训班顺利举行",
-      "url": "https://zzb.shu.edu.cn/info/1014/1372.htm",
-      "date": "2016-05-06",
-      "column": "基层风采"
-    },
-    {
       "title": "党委组织部举行部分教工党支部书记“两学一做”学习教育座谈会",
       "url": "https://zzb.shu.edu.cn/info/1016/1030.htm",
       "date": "2016-05-06",
       "column": "党建工作"
     },
     {
-      "title": "美术学院学生第四党支部“两学一做”系列活动",
-      "url": "https://zzb.shu.edu.cn/info/1014/1369.htm",
-      "date": "2016-04-22",
-      "column": "基层风采"
-    },
-    {
-      "title": "2016年上海大学组织工作要点",
-      "url": "https://zzb.shu.edu.cn/info/1011/1260.htm",
-      "date": "2016-04-05",
-      "column": "干部工作"
-    },
-    {
-      "title": "2016年上海大学组织工作要点",
-      "url": "https://zzb.shu.edu.cn/info/1015/1472.htm",
-      "date": "2016-04-05",
-      "column": "理论学习"
-    },
-    {
       "title": "上海大学第八期思政干部培训班顺利开班",
       "url": "https://zzb.shu.edu.cn/info/1005/1210.htm",
       "date": "2016-04-01",
       "column": "党校工作"
-    },
-    {
-      "title": "理学院召开教工党支部书记培训会",
-      "url": "https://zzb.shu.edu.cn/info/1014/1367.htm",
-      "date": "2016-03-29",
-      "column": "基层风采"
-    },
-    {
-      "title": "理学院召开党代表培训研讨会",
-      "url": "https://zzb.shu.edu.cn/info/1014/1368.htm",
-      "date": "2016-03-29",
-      "column": "基层风采"
-    },
-    {
-      "title": "土木工程系召开党委会议",
-      "url": "https://zzb.shu.edu.cn/info/1014/1364.htm",
-      "date": "2016-03-28",
-      "column": "基层风采"
-    },
-    {
-      "title": "后勤集团党委召开党支部书记培训会",
-      "url": "https://zzb.shu.edu.cn/info/1014/1365.htm",
-      "date": "2016-03-28",
-      "column": "基层风采"
-    },
-    {
-      "title": "美术学院党委举办党支部书记考核交流会",
-      "url": "https://zzb.shu.edu.cn/info/1014/1366.htm",
-      "date": "2016-03-28",
-      "column": "基层风采"
-    },
-    {
-      "title": "法学院召开2016年第一次党委扩大会议",
-      "url": "https://zzb.shu.edu.cn/info/1014/1363.htm",
-      "date": "2016-03-24",
-      "column": "基层风采"
-    },
-    {
-      "title": "经济学院举办党支部书记培训班",
-      "url": "https://zzb.shu.edu.cn/info/1014/1362.htm",
-      "date": "2016-03-22",
-      "column": "基层风采"
-    },
-    {
-      "title": "上海电影学院召开2016年第一次党委扩大会议",
-      "url": "https://zzb.shu.edu.cn/info/1014/1361.htm",
-      "date": "2016-03-17",
-      "column": "基层风采"
     },
     {
       "title": "上海市教卫党委系统党建研究会2016年工作计划",
@@ -2142,48 +1848,6 @@
       "url": "https://zzb.shu.edu.cn/info/1005/1208.htm",
       "date": "2016-03-16",
       "column": "党校工作"
-    },
-    {
-      "title": "组织部统战部党校支部与纪委监察处支部开展联合组织生活",
-      "url": "https://zzb.shu.edu.cn/info/1014/1360.htm",
-      "date": "2016-03-16",
-      "column": "基层风采"
-    },
-    {
-      "title": "计算机学院召开党委扩大会议",
-      "url": "https://zzb.shu.edu.cn/info/1014/1354.htm",
-      "date": "2016-03-15",
-      "column": "基层风采"
-    },
-    {
-      "title": "数码艺术学院召开2016年第一次党委扩大会议",
-      "url": "https://zzb.shu.edu.cn/info/1014/1355.htm",
-      "date": "2016-03-15",
-      "column": "基层风采"
-    },
-    {
-      "title": "社发院组织学习金校长“两会”发言推进核心任务落实",
-      "url": "https://zzb.shu.edu.cn/info/1014/1356.htm",
-      "date": "2016-03-15",
-      "column": "基层风采"
-    },
-    {
-      "title": "关注民生民态 学习两会精神——外国语学院学生第二党支部学习型组织生活会顺利进行",
-      "url": "https://zzb.shu.edu.cn/info/1014/1357.htm",
-      "date": "2016-03-15",
-      "column": "基层风采"
-    },
-    {
-      "title": "材料学院召开党委扩大会议共同学习新《准则》新《条例》",
-      "url": "https://zzb.shu.edu.cn/info/1014/1358.htm",
-      "date": "2016-03-15",
-      "column": "基层风采"
-    },
-    {
-      "title": "直属单位党委召开今年第一次全委会暨工作务虚会",
-      "url": "https://zzb.shu.edu.cn/info/1014/1359.htm",
-      "date": "2016-03-15",
-      "column": "基层风采"
     },
     {
       "title": "“两学一做”学习教育课件辅导",
@@ -2214,12 +1878,6 @@
       "url": "http://cpc.people.com.cn/xuexi/n1/2016/0302/c385474-28165485.html",
       "date": "2016-03-07",
       "column": "党建工作"
-    },
-    {
-      "title": "中共中央关于加强和改进新形势下党校工作的意见",
-      "url": "https://zzb.shu.edu.cn/info/1015/1467.htm",
-      "date": "2015-12-14",
-      "column": "理论学习"
     },
     {
       "title": "上海大学党校外国语学院联合办学点第九期学生预备党员培训班实施计划",
@@ -2396,18 +2054,6 @@
       "column": "党校工作"
     },
     {
-      "title": "中共中央印发《干部教育培训工作条例》",
-      "url": "https://zzb.shu.edu.cn/info/1011/1258.htm",
-      "date": "2015-10-20",
-      "column": "干部工作"
-    },
-    {
-      "title": "上海电影学院：弘扬严实作风，加强顶层设计，集中各方智慧，促进学院发展",
-      "url": "https://zzb.shu.edu.cn/info/1014/1352.htm",
-      "date": "2015-10-20",
-      "column": "基层风采"
-    },
-    {
       "title": "上海大学党校经济学院联合办学点第八期入党申请人学习中共党史培训班实施计划",
       "url": "https://zzb.shu.edu.cn/info/1005/1141.htm",
       "date": "2015-10-19",
@@ -2438,30 +2084,6 @@
       "column": "理论学习"
     },
     {
-      "title": "上海大学举行第二十三期中青年干部培训班结业典礼",
-      "url": "https://zzb.shu.edu.cn/info/1005/1113.htm",
-      "date": "2015-09-22",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学党校材料科学与工程学院办学点第十三期入党申请人培训班实施计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1111.htm",
-      "date": "2015-09-21",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学机自学院办学点第十六期入党申请人培训班培训计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1109.htm",
-      "date": "2015-09-19",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学党校第三十二期教职工入党积极分子培训班实施计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1106.htm",
-      "date": "2015-09-18",
-      "column": "党校工作"
-    },
-    {
       "title": "援疆第一课——记援疆干部陆永生",
       "url": "https://zzb.shu.edu.cn/info/1014/1345.htm",
       "date": "2015-09-18",
@@ -2484,12 +2106,6 @@
       "url": "https://zzb.shu.edu.cn/info/1014/1343.htm",
       "date": "2015-07-06",
       "column": "基层风采"
-    },
-    {
-      "title": "习近平论“三严三实”：领导干部要知晓为官做事的尺度",
-      "url": "http://cms.shu.edu.cn/Default.aspx?tabid=32970&ctl=Detail&mid=61407&Id=177817&SkinSrc=[L]Sk",
-      "date": "2015-07-02",
-      "column": "干部工作"
     },
     {
       "title": "习近平会见全国优秀县委书记提4点要求",
@@ -2598,42 +2214,6 @@
       "url": "https://zzb.shu.edu.cn/info/1016/1006.htm",
       "date": "2015-06-16",
       "column": "党建工作"
-    },
-    {
-      "title": "上海大学党校理学院联合办学点第十二期入党申请人学习中共党史培训班实施计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1102.htm",
-      "date": "2015-06-10",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学第三十一期离退休干部读书班举行",
-      "url": "https://zzb.shu.edu.cn/info/1005/1096.htm",
-      "date": "2015-06-01",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学第十二期处级干部岗位培训班举行",
-      "url": "https://zzb.shu.edu.cn/info/1005/1099.htm",
-      "date": "2015-06-01",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学第十二期处级干部岗位培训班实施计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1091.htm",
-      "date": "2015-05-26",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学第三十一期离退休干部读书班实施计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1095.htm",
-      "date": "2015-05-26",
-      "column": "党校工作"
-    },
-    {
-      "title": "上海大学党校理学院办学点第二十九期入党积极分子培训班实施计划",
-      "url": "https://zzb.shu.edu.cn/info/1005/1089.htm",
-      "date": "2015-05-15",
-      "column": "党校工作"
     },
     {
       "title": "上海大学党校外语联合办学点第十二期期党史培训班实施计划",

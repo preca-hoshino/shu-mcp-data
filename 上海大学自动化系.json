@@ -2,10 +2,10 @@
   "domain": "automation.shu.edu.cn",
   "department": "上海大学自动化系",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 85,
+  "crawl_time": "20260527_053350",
+  "total_articles": 75,
   "columns": {
-    "新闻": 77,
+    "新闻": 67,
     "讲座/会议": 8
   },
   "articles": [
@@ -349,66 +349,6 @@
       "title": "关于申报2022年度欣巴科技奖学金的通知",
       "url": "https://automation.shu.edu.cn/info/1128/2662.htm",
       "date": "2023-02-13",
-      "column": "新闻"
-    },
-    {
-      "title": "自动化系新学期开学第一周师生情绪饱满、教学秩序井然",
-      "url": "https://automation.shu.edu.cn/info/1128/2642.htm",
-      "date": "2023-02-09",
-      "column": "新闻"
-    },
-    {
-      "title": "2023年自动化系国家自然科学基金申报动员会顺利举行",
-      "url": "https://automation.shu.edu.cn/info/1128/2622.htm",
-      "date": "2023-01-13",
-      "column": "新闻"
-    },
-    {
-      "title": "彭晨教授团队荣获2022年度中国仿真学会创新技术奖一等奖",
-      "url": "https://automation.shu.edu.cn/info/1128/2592.htm",
-      "date": "2023-01-10",
-      "column": "新闻"
-    },
-    {
-      "title": "2022年度自动化系工作总结暨表彰大会圆满举行",
-      "url": "https://automation.shu.edu.cn/info/1128/2612.htm",
-      "date": "2023-01-10",
-      "column": "新闻"
-    },
-    {
-      "title": "CCTV17《寻访中国传奇》报道杨帮华教授团队在脑机接口领域的探索与研究",
-      "url": "https://automation.shu.edu.cn/info/1128/2582.htm",
-      "date": "2023-01-04",
-      "column": "新闻"
-    },
-    {
-      "title": "我院研究成果荣获第28届IEEE M2VIP国际会议最佳论文奖",
-      "url": "https://automation.shu.edu.cn/info/1128/2551.htm",
-      "date": "2022-12-06",
-      "column": "新闻"
-    },
-    {
-      "title": "费敏锐教授团队获“中国仪器仪表学会科技进步一等奖”",
-      "url": "https://automation.shu.edu.cn/info/1128/2541.htm",
-      "date": "2022-12-01",
-      "column": "新闻"
-    },
-    {
-      "title": "踔厉奋发：机自学院自强队在2022中国机器人大赛中再获佳绩",
-      "url": "https://automation.shu.edu.cn/info/1128/2531.htm",
-      "date": "2022-11-29",
-      "column": "新闻"
-    },
-    {
-      "title": "喜报！周文举教授团队项目荣获上海市高价值专利运营百强称号！",
-      "url": "https://automation.shu.edu.cn/info/1128/2521.htm",
-      "date": "2022-11-28",
-      "column": "新闻"
-    },
-    {
-      "title": "Using Delays for Control",
-      "url": "https://automation.shu.edu.cn/info/1128/2519.htm",
-      "date": "2022-11-24",
       "column": "新闻"
     },
     {

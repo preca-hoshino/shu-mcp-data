@@ -2,12 +2,12 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 895,
+  "crawl_time": "20260527_091111",
+  "total_articles": 849,
   "columns": {
-    "党建简报": 147,
-    "学工新闻": 65,
-    "通知公告": 683
+    "党建简报": 132,
+    "学工新闻": 35,
+    "通知公告": 682
   },
   "articles": [
     {
@@ -4343,174 +4343,6 @@
       "column": "党建简报"
     },
     {
-      "title": "理学院召开学生党建工作座谈会",
-      "url": "https://xgb.shu.edu.cn/info/1005/38125.htm",
-      "date": "2009-03-27",
-      "column": "学工新闻"
-    },
-    {
-      "title": "理学院召开毕业生模拟面试指导会",
-      "url": "https://xgb.shu.edu.cn/info/1005/38128.htm",
-      "date": "2009-03-27",
-      "column": "学工新闻"
-    },
-    {
-      "title": "学工办举行2009年新进学生辅导员面试",
-      "url": "https://xgb.shu.edu.cn/info/1005/38130.htm",
-      "date": "2009-03-27",
-      "column": "学工新闻"
-    },
-    {
-      "title": "影视学院专业老师热心为学生就业奔波",
-      "url": "https://xgb.shu.edu.cn/info/1005/38123.htm",
-      "date": "2009-03-26",
-      "column": "学工新闻"
-    },
-    {
-      "title": "党委副书记、常务副校长周哲玮为学生政工干部作报告",
-      "url": "https://xgb.shu.edu.cn/info/1005/38124.htm",
-      "date": "2009-03-26",
-      "column": "学工新闻"
-    },
-    {
-      "title": "自强学院志愿者分队赴阳光之家开展活动",
-      "url": "https://xgb.shu.edu.cn/info/1005/38126.htm",
-      "date": "2009-03-26",
-      "column": "学工新闻"
-    },
-    {
-      "title": "宋任涛教授为自强学院学生作《能源作物育种》讲座",
-      "url": "https://xgb.shu.edu.cn/info/1005/38129.htm",
-      "date": "2009-03-26",
-      "column": "学工新闻"
-    },
-    {
-      "title": "未来的研究生，你准备好了吗？",
-      "url": "https://xgb.shu.edu.cn/info/1005/38116.htm",
-      "date": "2009-03-25",
-      "column": "学工新闻"
-    },
-    {
-      "title": "数码艺术学院召开课程班党员核心小组动员大会",
-      "url": "https://xgb.shu.edu.cn/info/1005/38119.htm",
-      "date": "2009-03-25",
-      "column": "学工新闻"
-    },
-    {
-      "title": "校党校校长施恩望莅临理学院进行党建工作调研",
-      "url": "https://xgb.shu.edu.cn/info/1005/38120.htm",
-      "date": "2009-03-25",
-      "column": "学工新闻"
-    },
-    {
-      "title": "昨天，是今天的起点；今天，是明天的开始——经济学院举行09...",
-      "url": "https://xgb.shu.edu.cn/info/1005/38121.htm",
-      "date": "2009-03-25",
-      "column": "学工新闻"
-    },
-    {
-      "title": "永不落幕的“80后”——记07级“我们都是80后”晚会",
-      "url": "https://xgb.shu.edu.cn/info/1005/38108.htm",
-      "date": "2009-03-24",
-      "column": "学工新闻"
-    },
-    {
-      "title": "数码艺术学院举行“危机下的创新创业教育”讲座",
-      "url": "https://xgb.shu.edu.cn/info/1005/38111.htm",
-      "date": "2009-03-24",
-      "column": "学工新闻"
-    },
-    {
-      "title": "理学院举办“心系同窗，感恩母校”05春季班毕业师生座谈会",
-      "url": "https://xgb.shu.edu.cn/info/1005/38112.htm",
-      "date": "2009-03-24",
-      "column": "学工新闻"
-    },
-    {
-      "title": "“阳光之家优秀志愿者表彰大会”成功举行",
-      "url": "https://xgb.shu.edu.cn/info/1005/38113.htm",
-      "date": "2009-03-24",
-      "column": "学工新闻"
-    },
-    {
-      "title": "理学院学生志愿者赴崇明伟业小学支教",
-      "url": "https://xgb.shu.edu.cn/info/1005/38115.htm",
-      "date": "2009-03-24",
-      "column": "学工新闻"
-    },
-    {
-      "title": "机自学院召开党建工作推进会",
-      "url": "https://xgb.shu.edu.cn/info/1005/38118.htm",
-      "date": "2009-03-24",
-      "column": "学工新闻"
-    },
-    {
-      "title": "心生源——机自学院心理委员成长营拉开帷幕",
-      "url": "https://xgb.shu.edu.cn/info/1005/38094.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "理学院“大学生活指南”生涯规划讲座顺利举行",
-      "url": "https://xgb.shu.edu.cn/info/1005/38097.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "机自学院08级特色首日教育活动——“超越梦之手，爱在你我间”",
-      "url": "https://xgb.shu.edu.cn/info/1005/38099.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "理学院举行“面对就业，你准备好了吗？”职业生涯讲座",
-      "url": "https://xgb.shu.edu.cn/info/1005/38102.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "公共管理系成功举办2009届春季毕业生毕业典礼",
-      "url": "https://xgb.shu.edu.cn/info/1005/38105.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "机自学院举行“融海外目光，论今朝发展”改革开放30年主题活动",
-      "url": "https://xgb.shu.edu.cn/info/1005/38107.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "理学院“践行科学发展观，我们在行动”党员风采展示系列活动...",
-      "url": "https://xgb.shu.edu.cn/info/1005/38110.htm",
-      "date": "2009-03-23",
-      "column": "学工新闻"
-    },
-    {
-      "title": "新的征程 ——记上海大学文学院06级本科生首日教育",
-      "url": "https://xgb.shu.edu.cn/info/1005/38106.htm",
-      "date": "2009-03-22",
-      "column": "学工新闻"
-    },
-    {
-      "title": "法学院05级毕业纪念册进展",
-      "url": "https://xgb.shu.edu.cn/info/1005/38103.htm",
-      "date": "2009-03-19",
-      "column": "学工新闻"
-    },
-    {
-      "title": "图情档系成立“档案工作站”",
-      "url": "https://xgb.shu.edu.cn/info/1005/38098.htm",
-      "date": "2009-03-13",
-      "column": "学工新闻"
-    },
-    {
-      "title": "数码艺术学院团委推行诚信教育",
-      "url": "https://xgb.shu.edu.cn/info/1005/38101.htm",
-      "date": "2009-03-13",
-      "column": "学工新闻"
-    },
-    {
       "title": "第六期辅导员学术沙龙成功举行",
       "url": "https://xgb.shu.edu.cn/info/1007/3491.htm",
       "date": "2009-03-13",
@@ -4529,22 +4361,10 @@
       "column": "党建简报"
     },
     {
-      "title": "影视学院举办“戏曲之美”主题讲座",
-      "url": "https://xgb.shu.edu.cn/info/1005/38095.htm",
-      "date": "2009-03-10",
-      "column": "学工新闻"
-    },
-    {
       "title": "2008-2009学年春季学期首日教育教室安排(延长校区)",
       "url": "https://xgb.shu.edu.cn/info/1003/7679.htm",
       "date": "2009-03-09",
       "column": "通知公告"
-    },
-    {
-      "title": "馥郁书香—记王晓明教授《漫谈大学生读书问题》讲座",
-      "url": "https://xgb.shu.edu.cn/info/1005/38093.htm",
-      "date": "2009-03-04",
-      "column": "学工新闻"
     },
     {
       "title": "学工办召开组织生活会交流党员个人发展计划",
@@ -4979,12 +4799,6 @@
       "column": "党建简报"
     },
     {
-      "title": "2008年度上海大学与法国里尔科技大学学生交流项目",
-      "url": "https://xgb.shu.edu.cn/info/1003/7574.htm",
-      "date": "2007-09-27",
-      "column": "通知公告"
-    },
-    {
       "title": "关于加强心理健康宣传工作，开展征集心理箴言的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/7573.htm",
       "date": "2007-09-25",
@@ -5075,42 +4889,6 @@
       "column": "通知公告"
     },
     {
-      "title": "2007年新任辅导员岗前培训班在上海大学开班",
-      "url": "https://xgb.shu.edu.cn/info/1007/3213.htm",
-      "date": "2007-08-31",
-      "column": "党建简报"
-    },
-    {
-      "title": "校党委副书记滕建勇作《辅导员岗位认知》专题报告",
-      "url": "https://xgb.shu.edu.cn/info/1007/3214.htm",
-      "date": "2007-08-31",
-      "column": "党建简报"
-    },
-    {
-      "title": "2007年上海市高校新任辅导员岗前培训班顺利结束",
-      "url": "https://xgb.shu.edu.cn/info/1007/3215.htm",
-      "date": "2007-08-31",
-      "column": "党建简报"
-    },
-    {
-      "title": "滕建勇副书记在家长学校为外地新生家长专场授课",
-      "url": "https://xgb.shu.edu.cn/info/1007/3216.htm",
-      "date": "2007-08-31",
-      "column": "党建简报"
-    },
-    {
-      "title": "我校2007级新生入学报到工作井然有序",
-      "url": "https://xgb.shu.edu.cn/info/1007/3217.htm",
-      "date": "2007-08-31",
-      "column": "党建简报"
-    },
-    {
-      "title": "我校2007级秋季新生开学典礼暨入学宣誓仪式隆重举行",
-      "url": "https://xgb.shu.edu.cn/info/1007/3218.htm",
-      "date": "2007-08-31",
-      "column": "党建简报"
-    },
-    {
       "title": "我校对新生辅导员进行人际交往团体辅导培训",
       "url": "https://xgb.shu.edu.cn/info/1007/3222.htm",
       "date": "2007-08-31",
@@ -5165,28 +4943,10 @@
       "column": "通知公告"
     },
     {
-      "title": "我校隆重举行2007届博士毕业生及优秀毕业生毕业典礼",
-      "url": "https://xgb.shu.edu.cn/info/1007/3211.htm",
-      "date": "2007-06-28",
-      "column": "党建简报"
-    },
-    {
-      "title": "我校举行2007届毕业生党员教育活动",
-      "url": "https://xgb.shu.edu.cn/info/1007/3212.htm",
-      "date": "2007-06-28",
-      "column": "党建简报"
-    },
-    {
       "title": "２００７届优秀毕业生毕业典礼座位表",
       "url": "https://xgb.shu.edu.cn/info/1003/7553.htm",
       "date": "2007-06-25",
       "column": "通知公告"
-    },
-    {
-      "title": "环化学院第三届“成才奖学金”颁奖典礼隆重举行",
-      "url": "https://xgb.shu.edu.cn/info/1007/3210.htm",
-      "date": "2007-06-25",
-      "column": "党建简报"
     },
     {
       "title": "关于做好2OO7届本科、高职毕业生教育工作的通知",
@@ -5207,24 +4967,6 @@
       "column": "通知公告"
     },
     {
-      "title": "“稚拙?执着—我们不是闹着玩儿”主题美术展开幕",
-      "url": "https://xgb.shu.edu.cn/info/1007/3207.htm",
-      "date": "2007-06-18",
-      "column": "党建简报"
-    },
-    {
-      "title": "学生代表在廉洁教育推进仪式上的发言稿",
-      "url": "https://xgb.shu.edu.cn/info/1007/3208.htm",
-      "date": "2007-06-18",
-      "column": "党建简报"
-    },
-    {
-      "title": "机自学院刘文敏老师在廉洁教育推进仪式上的发言",
-      "url": "https://xgb.shu.edu.cn/info/1007/3209.htm",
-      "date": "2007-06-18",
-      "column": "党建简报"
-    },
-    {
       "title": "征集“全国高校青年德育工作者论坛”优秀论文的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/7548.htm",
       "date": "2007-06-14",
@@ -5235,24 +4977,6 @@
       "url": "https://xgb.shu.edu.cn/info/1003/7549.htm",
       "date": "2007-06-14",
       "column": "通知公告"
-    },
-    {
-      "title": "家长学校举行专题讲座和讨论交流活动",
-      "url": "https://xgb.shu.edu.cn/info/1007/3204.htm",
-      "date": "2007-06-14",
-      "column": "党建简报"
-    },
-    {
-      "title": "将廉洁教育纳入大学生行为指导训练体系",
-      "url": "https://xgb.shu.edu.cn/info/1007/3205.htm",
-      "date": "2007-06-14",
-      "column": "党建简报"
-    },
-    {
-      "title": "美国田纳西大学教育代表团来我校交流学生工作",
-      "url": "https://xgb.shu.edu.cn/info/1007/3206.htm",
-      "date": "2007-06-14",
-      "column": "党建简报"
     },
     {
       "title": "关于成立二OO六级本科生军训师团和干部配备的通知",

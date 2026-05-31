@@ -2,13 +2,13 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 599,
+  "crawl_time": "20260529_091248",
+  "total_articles": 552,
   "columns": {
-    "学术活动预告": 408,
-    "学术研究": 42,
-    "学院新闻": 53,
-    "通知公告": 96
+    "学术活动预告": 398,
+    "学术研究": 32,
+    "学院新闻": 37,
+    "通知公告": 85
   },
   "articles": [
     {
@@ -1284,12 +1284,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "献给孩子们的“六一”节日礼物——尚新教授的两部译作出版",
-      "url": "https://sfs.shu.edu.cn/info/1036/13732.htm",
-      "date": "2021-05-17",
-      "column": "学术研究"
-    },
-    {
       "title": "<5月19日>文学前沿与世界文明专题讲坛系列（七）论中西方文学和艺术的关系：以法籍华裔作家程抱一为例",
       "url": "https://sfs.shu.edu.cn/info/1148/13728.htm",
       "date": "2021-05-14",
@@ -1314,12 +1308,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "张新玲教授受邀参加《国际中文教育中文水平等级标准》新书发布会暨国际学术研讨会并做论坛发言",
-      "url": "https://sfs.shu.edu.cn/info/1036/13687.htm",
-      "date": "2021-04-21",
-      "column": "学术研究"
-    },
-    {
       "title": "<4月28日>寻找塞林格小说中隐蔽的“中国”",
       "url": "https://sfs.shu.edu.cn/info/1148/13678.htm",
       "date": "2021-04-21",
@@ -1338,18 +1326,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "赵彦春教授出席第二届传统文化翻译与国际传播学术研讨会并做主旨发言",
-      "url": "https://sfs.shu.edu.cn/info/1036/13673.htm",
-      "date": "2021-04-19",
-      "column": "学术研究"
-    },
-    {
-      "title": "尚新教授导读和注释的世界学术经典《思想录》（英文版）出版",
-      "url": "https://sfs.shu.edu.cn/info/1036/13671.htm",
-      "date": "2021-04-18",
-      "column": "学术研究"
-    },
-    {
       "title": "<4月12日>Catharsis and its avatars: Artaud’s Plague Theatre",
       "url": "https://sfs.shu.edu.cn/info/1148/13623.htm",
       "date": "2021-04-02",
@@ -1360,12 +1336,6 @@
       "url": "https://sfs.shu.edu.cn/info/1148/13634.htm",
       "date": "2021-04-01",
       "column": "学术活动预告"
-    },
-    {
-      "title": "尚新教授翻译的《解析勒内•笛卡尔<第一哲学沉思录>》出版",
-      "url": "https://sfs.shu.edu.cn/info/1036/13621.htm",
-      "date": "2021-03-24",
-      "column": "学术研究"
     },
     {
       "title": "<4月2日>人工智能（AI）在语言教学中的应用",
@@ -1390,12 +1360,6 @@
       "url": "https://sfs.shu.edu.cn/info/1148/13599.htm",
       "date": "2021-03-15",
       "column": "学术活动预告"
-    },
-    {
-      "title": "2017-2020年度科研项目",
-      "url": "https://sfs.shu.edu.cn/info/1036/13471.htm",
-      "date": "2021-01-19",
-      "column": "学术研究"
     },
     {
       "title": "<1月14日>系统功能语言学与话语分析经典文献研读（第三期）作为交换的小句（Clause as Exchange）",
@@ -1432,12 +1396,6 @@
       "url": "https://sfs.shu.edu.cn/info/1148/13272.htm",
       "date": "2020-12-14",
       "column": "学术活动预告"
-    },
-    {
-      "title": "外国语学院唐青叶教授获2020年度国家社科基金重大项目立项",
-      "url": "https://sfs.shu.edu.cn/info/1036/13461.htm",
-      "date": "2020-12-07",
-      "column": "学术研究"
     },
     {
       "title": "2021年春赴日本大阪市立大学交换留学选拔通过名单公示",
@@ -1548,12 +1506,6 @@
       "column": "通知公告"
     },
     {
-      "title": "喜报：我院戴朝晖和常志斌老师获得国家社科基金项目立项",
-      "url": "https://sfs.shu.edu.cn/info/1036/13463.htm",
-      "date": "2020-10-09",
-      "column": "学术研究"
-    },
-    {
       "title": "外国语学院2020-2021年人才招聘计划",
       "url": "https://sfs.shu.edu.cn/info/1141/13011.htm",
       "date": "2020-09-29",
@@ -1596,12 +1548,6 @@
       "column": "通知公告"
     },
     {
-      "title": "2015-2019年度科研项目",
-      "url": "https://sfs.shu.edu.cn/info/1036/12491.htm",
-      "date": "2020-05-28",
-      "column": "学术研究"
-    },
-    {
       "title": "外国语学院2019-2020上海大学百优团员、五四红旗团支部拟推荐名单公示",
       "url": "https://sfs.shu.edu.cn/info/1141/12402.htm",
       "date": "2020-05-07",
@@ -1612,12 +1558,6 @@
       "url": "https://sfs.shu.edu.cn/info/1141/12361.htm",
       "date": "2020-04-27",
       "column": "通知公告"
-    },
-    {
-      "title": "我院张新玲教授喜获新项目立项",
-      "url": "https://sfs.shu.edu.cn/info/1036/13464.htm",
-      "date": "2020-04-23",
-      "column": "学术研究"
     },
     {
       "title": "双喜临门：我院马利中教授和张珊珊老师分别获得2020年度“文化繁荣与社会发展” 决策咨询研究课题立项",
@@ -2874,12 +2814,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "外国语学院校友分会（筹）通告",
-      "url": "https://sfs.shu.edu.cn/info/1141/10671.htm",
-      "date": "2013-05-14",
-      "column": "通知公告"
-    },
-    {
       "title": "5月17日跨文化交际沙龙活动",
       "url": "https://sfs.shu.edu.cn/info/1148/1300.htm",
       "date": "2013-05-07",
@@ -2940,22 +2874,10 @@
       "column": "学术活动预告"
     },
     {
-      "title": "外国语学院公章使用规定",
-      "url": "https://sfs.shu.edu.cn/info/1141/10675.htm",
-      "date": "2013-03-14",
-      "column": "通知公告"
-    },
-    {
       "title": "3月29日教授系列讲座（二）",
       "url": "https://sfs.shu.edu.cn/info/1148/1290.htm",
       "date": "2013-03-14",
       "column": "学术活动预告"
-    },
-    {
-      "title": "重建巴别塔第二季招募通知—上海大学外国语学院新生体验计划",
-      "url": "https://sfs.shu.edu.cn/info/1141/10676.htm",
-      "date": "2013-03-04",
-      "column": "通知公告"
     },
     {
       "title": "2月26日外国语学院讲座预告",
@@ -2988,12 +2910,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "外国语学院2012年度优秀教学奖名单公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10677.htm",
-      "date": "2013-01-09",
-      "column": "通知公告"
-    },
-    {
       "title": "1月11日跨文化研究的跨学科协作与发展研讨会",
       "url": "https://sfs.shu.edu.cn/info/1148/1284.htm",
       "date": "2013-01-07",
@@ -3004,12 +2920,6 @@
       "url": "https://sfs.shu.edu.cn/info/1148/1283.htm",
       "date": "2012-12-20",
       "column": "学术活动预告"
-    },
-    {
-      "title": "精品课程和重点课程立项公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10678.htm",
-      "date": "2012-12-19",
-      "column": "通知公告"
     },
     {
       "title": "1月10日外国语学院讲座预告",
@@ -3054,12 +2964,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "2013年免试攻读硕士研究生复试结果公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10681.htm",
-      "date": "2012-10-11",
-      "column": "通知公告"
-    },
-    {
       "title": "10月19日外国语学院讲座预告",
       "url": "https://sfs.shu.edu.cn/info/1148/1274.htm",
       "date": "2012-10-10",
@@ -3070,36 +2974,6 @@
       "url": "https://sfs.shu.edu.cn/info/1148/1273.htm",
       "date": "2012-10-09",
       "column": "学术活动预告"
-    },
-    {
-      "title": "上海大学优青项目推荐结果公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10690.htm",
-      "date": "2012-08-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "2012年处级后备干部推荐名单公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10691.htm",
-      "date": "2012-07-05",
-      "column": "通知公告"
-    },
-    {
-      "title": "外国语学院产学研践习计划推荐名单公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10692.htm",
-      "date": "2012-07-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于考试期间的工作职责和违纪处理程序的规定",
-      "url": "https://sfs.shu.edu.cn/info/1141/10694.htm",
-      "date": "2012-06-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "重点通识课公示",
-      "url": "https://sfs.shu.edu.cn/info/1141/10695.htm",
-      "date": "2012-04-28",
-      "column": "通知公告"
     },
     {
       "title": "12年硕士研究生复试结果公示",
@@ -3258,46 +3132,10 @@
       "column": "通知公告"
     },
     {
-      "title": "2009年5月15日应用语言学沙龙活动",
-      "url": "https://sfs.shu.edu.cn/info/1148/1071.htm",
-      "date": "2009-05-07",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "2009年5月7日理论语言学沙龙活动",
-      "url": "https://sfs.shu.edu.cn/info/1148/1069.htm",
-      "date": "2009-05-04",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "2009年5月8日翻译沙龙活动",
-      "url": "https://sfs.shu.edu.cn/info/1148/1067.htm",
-      "date": "2009-04-30",
-      "column": "学术活动预告"
-    },
-    {
       "title": "外国语学院青年教师教学竞赛获奖名单",
       "url": "https://sfs.shu.edu.cn/info/1141/10707.htm",
       "date": "2009-04-21",
       "column": "通知公告"
-    },
-    {
-      "title": "外国语学院讲座（47）——用人单位眼中的合适员工",
-      "url": "https://sfs.shu.edu.cn/info/1148/1065.htm",
-      "date": "2009-04-20",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "外国语学院讲座（46）——庞德与中国",
-      "url": "https://sfs.shu.edu.cn/info/1148/1063.htm",
-      "date": "2009-03-30",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "外语学院讲座(45)—我国高校商务英语专业的发展与…",
-      "url": "https://sfs.shu.edu.cn/info/1148/1061.htm",
-      "date": "2009-03-13",
-      "column": "学术活动预告"
     },
     {
       "title": "坚持科学发展 培养高质量外语人才(2)",
@@ -3310,30 +3148,6 @@
       "url": "https://sfs.shu.edu.cn/info/1141/10709.htm",
       "date": "2009-01-04",
       "column": "通知公告"
-    },
-    {
-      "title": "外国语学院讲座（44）——Language and Ideology",
-      "url": "https://sfs.shu.edu.cn/info/1148/1059.htm",
-      "date": "2008-12-25",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "外国语学院讲座(43)——外语教学研究方法及论文撰写",
-      "url": "https://sfs.shu.edu.cn/info/1148/1057.htm",
-      "date": "2008-11-21",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "外国语学院讲座（42）——语用学中的语境",
-      "url": "https://sfs.shu.edu.cn/info/1148/1056.htm",
-      "date": "2008-10-21",
-      "column": "学术活动预告"
-    },
-    {
-      "title": "外国语学院讲座（41）——理论?文学批评?常识",
-      "url": "https://sfs.shu.edu.cn/info/1148/1054.htm",
-      "date": "2008-10-15",
-      "column": "学术活动预告"
     },
     {
       "title": "外国语学院讲座（40）——语言学方法论",
@@ -3396,18 +3210,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "复旦大学张冲教授应邀为外国语学院作学术报告",
-      "url": "https://sfs.shu.edu.cn/info/1142/7503.htm",
-      "date": "2007-12-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "北大陆俭明、马真教授为外国语学院作学术报告",
-      "url": "https://sfs.shu.edu.cn/info/1142/7505.htm",
-      "date": "2007-12-12",
-      "column": "学院新闻"
-    },
-    {
       "title": "外国语学院讲座（30）——精彩语言学系列",
       "url": "https://sfs.shu.edu.cn/info/1148/1023.htm",
       "date": "2007-12-03",
@@ -3418,12 +3220,6 @@
       "url": "https://sfs.shu.edu.cn/info/1148/1027.htm",
       "date": "2007-12-03",
       "column": "学术活动预告"
-    },
-    {
-      "title": "华东师大何刚教授应邀来到外国语学院作学术讲座",
-      "url": "https://sfs.shu.edu.cn/info/1142/7501.htm",
-      "date": "2007-11-22",
-      "column": "学院新闻"
     },
     {
       "title": "外国语学院讲座（29）——尼采式转折：悲剧之力",
@@ -3438,72 +3234,6 @@
       "column": "学术活动预告"
     },
     {
-      "title": "朱瑾同学获CCTV杯英语演讲赛（上海賽区）一等奖",
-      "url": "https://sfs.shu.edu.cn/info/1142/7499.htm",
-      "date": "2007-10-16",
-      "column": "学院新闻"
-    },
-    {
-      "title": "日本作家村上龙与读者交流会近日在沪举行",
-      "url": "https://sfs.shu.edu.cn/info/1142/7497.htm",
-      "date": "2007-04-29",
-      "column": "学院新闻"
-    },
-    {
-      "title": "叶志明副校长与外国语学院干部教师共商教学改革",
-      "url": "https://sfs.shu.edu.cn/info/1142/7496.htm",
-      "date": "2007-04-05",
-      "column": "学院新闻"
-    },
-    {
-      "title": "英语专业在教育部本科教学评估中喜获优秀",
-      "url": "https://sfs.shu.edu.cn/info/1142/7493.htm",
-      "date": "2007-04-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "英语系举行了专家咨询座谈会",
-      "url": "https://sfs.shu.edu.cn/info/1142/7491.htm",
-      "date": "2007-02-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "厦门大学杨信彰教授做客外国语学院举行专题学术报告",
-      "url": "https://sfs.shu.edu.cn/info/1142/7489.htm",
-      "date": "2006-12-24",
-      "column": "学院新闻"
-    },
-    {
-      "title": "外国语学院精心组织学科建设大讨论",
-      "url": "https://sfs.shu.edu.cn/info/1142/7487.htm",
-      "date": "2006-11-22",
-      "column": "学院新闻"
-    },
-    {
-      "title": "徐琳君同学荣获上海市大学生日语演讲比赛大奖",
-      "url": "https://sfs.shu.edu.cn/info/1142/7485.htm",
-      "date": "2006-11-10",
-      "column": "学院新闻"
-    },
-    {
-      "title": "杨尚烨在“21世纪·联想杯”英语演讲比赛中荣膺季军",
-      "url": "https://sfs.shu.edu.cn/info/1142/7483.htm",
-      "date": "2006-11-03",
-      "column": "学院新闻"
-    },
-    {
-      "title": "日语系胡靖同学荣获日语演讲比赛大奖",
-      "url": "https://sfs.shu.edu.cn/info/1142/7481.htm",
-      "date": "2006-10-19",
-      "column": "学院新闻"
-    },
-    {
-      "title": "聂珍钊教授来外国语学院作学术报告",
-      "url": "https://sfs.shu.edu.cn/info/1142/7479.htm",
-      "date": "2006-09-26",
-      "column": "学院新闻"
-    },
-    {
       "title": "9月22日学术报告：开题报告写作/转喻研究",
       "url": "https://sfs.shu.edu.cn/info/1148/1014.htm",
       "date": "2006-09-22",
@@ -3512,18 +3242,6 @@
     {
       "title": "上海市教委本科专业教育高地项目检查组来我院检查",
       "url": "https://sfs.shu.edu.cn/info/1142/7473.htm",
-      "date": "2006-09-20",
-      "column": "学院新闻"
-    },
-    {
-      "title": "陈国明教授做客外国语学院举行专题学术报告",
-      "url": "https://sfs.shu.edu.cn/info/1142/7475.htm",
-      "date": "2006-09-20",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学第五届英语演讲比赛圆满落幕",
-      "url": "https://sfs.shu.edu.cn/info/1142/7477.htm",
       "date": "2006-09-20",
       "column": "学院新闻"
     },

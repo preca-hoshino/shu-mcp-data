@@ -2,11 +2,11 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260530_224443",
-  "total_articles": 206,
+  "crawl_time": "20260524_122845",
+  "total_articles": 187,
   "columns": {
     "工作动态": 164,
-    "通知公告": 42
+    "通知公告": 23
   },
   "articles": [
     {
@@ -1006,12 +1006,6 @@
       "column": "工作动态"
     },
     {
-      "title": "关于组织开展上海大学第二届实验室安全文化月启动仪式暨实验室安全专题培训的通知",
-      "url": "https://sbc.shu.edu.cn/info/1004/1662.htm",
-      "date": "2019-11-12",
-      "column": "通知公告"
-    },
-    {
       "title": "不忘初心砥砺行  登高望远敬老情 ---实验设备处组织2019年“敬老节”活动",
       "url": "https://sbc.shu.edu.cn/info/1003/1621.htm",
       "date": "2019-10-17",
@@ -1036,24 +1030,6 @@
       "column": "工作动态"
     },
     {
-      "title": "2019年度实验室安全培训系列活动之五-辐射安全培训",
-      "url": "https://sbc.shu.edu.cn/info/1004/1561.htm",
-      "date": "2019-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2019年暑假实验设备处值班日程表",
-      "url": "https://sbc.shu.edu.cn/info/1004/1531.htm",
-      "date": "2019-07-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于做好暑假期间实验室安全管理工作的通知",
-      "url": "https://sbc.shu.edu.cn/info/1004/1532.htm",
-      "date": "2019-07-10",
-      "column": "通知公告"
-    },
-    {
       "title": "上海市教委检查组对我校进行实验室安全现场检查",
       "url": "https://sbc.shu.edu.cn/info/1003/1522.htm",
       "date": "2019-07-01",
@@ -1072,40 +1048,10 @@
       "column": "工作动态"
     },
     {
-      "title": "转发：上大国资[2019]2号  上海大学资产自主处置各环节办理时限规则",
-      "url": "https://sbc.shu.edu.cn/33333.pdf",
-      "date": "2019-06-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "转发国资处关于启用报废设备网上申报的通知",
-      "url": "https://sbc.shu.edu.cn/info/1004/1505.htm",
-      "date": "2019-06-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "2019年度实验室安全培训系列活动之四——工程教育认证对实验室安全管理的启示",
-      "url": "https://sbc.shu.edu.cn/info/1004/1494.htm",
-      "date": "2019-06-19",
-      "column": "通知公告"
-    },
-    {
-      "title": "《上海大学非招标采购管理办法》操作细则（设备、材料、服务类）",
-      "url": "https://sbc.shu.edu.cn/11111.pdf",
-      "date": "2019-06-18",
-      "column": "通知公告"
-    },
-    {
       "title": "夏季时节实验室安全温馨提醒",
       "url": "https://sbc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=1478",
       "date": "2019-06-08",
       "column": "工作动态"
-    },
-    {
-      "title": "《上海大学招标采购管理办法》重点内容和操作细则",
-      "url": "https://sbc.shu.edu.cn/info/1004/1472.htm",
-      "date": "2019-06-05",
-      "column": "通知公告"
     },
     {
       "title": "实验设备处召开“新一轮中层后备干部民主推荐会”",
@@ -1126,64 +1072,10 @@
       "column": "工作动态"
     },
     {
-      "title": "2019年度实验室安全培训系列活动之二—实验室危险废物分类与处置培训",
-      "url": "https://sbc.shu.edu.cn/info/1004/1464.htm",
-      "date": "2019-05-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "2019年度实验室安全培训系列活动之三—实验室医疗应急技能培训",
-      "url": "https://sbc.shu.edu.cn/info/1004/1466.htm",
-      "date": "2019-05-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "设备秘书统计自查数据操作步骤",
-      "url": "https://sbc.shu.edu.cn/info/1004/1421.htm",
-      "date": "2019-05-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "仪器管理员资产清查网上操作步骤",
-      "url": "https://sbc.shu.edu.cn/info/1004/1431.htm",
-      "date": "2019-05-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学固定资产清查工作方案",
-      "url": "https://sbc.shu.edu.cn/info/1004/1432.htm",
-      "date": "2019-05-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "可供校内调剂的设备（巴士学院）",
-      "url": "https://sbc.shu.edu.cn/info/1004/1408.htm",
-      "date": "2019-05-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于上海大学开展2019年度科研实验室安全自查自纠工作的通知",
-      "url": "https://sbc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=1382",
-      "date": "2019-05-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于上海大学开展2019年度科研实验室安全自查自纠工作的通知",
-      "url": "https://sbc.shu.edu.cn/info/1004/1389.htm",
-      "date": "2019-05-06",
-      "column": "通知公告"
-    },
-    {
       "title": "我校举办实验室安全管理培训交流会",
       "url": "https://sbc.shu.edu.cn/info/1003/1388.htm",
       "date": "2019-04-17",
       "column": "工作动态"
-    },
-    {
-      "title": "可供校内调拨的设备",
-      "url": "https://sbc.shu.edu.cn/info/1004/1105.htm",
-      "date": "2019-03-05",
-      "column": "通知公告"
     },
     {
       "title": "校领导带队开展实验室建设与安全调研",
@@ -1214,12 +1106,6 @@
       "url": "https://sbc.shu.edu.cn/info/1003/1116.htm",
       "date": "2018-09-12",
       "column": "工作动态"
-    },
-    {
-      "title": "关于印发《实验设备处“一次性告知制”和“限时办结制”》的通知",
-      "url": "https://sbc.shu.edu.cn/info/1004/1106.htm",
-      "date": "2018-01-23",
-      "column": "通知公告"
     },
     {
       "title": "实验设备处组织召开“一流学科”建设项目招标实务宣讲和集中答疑会",

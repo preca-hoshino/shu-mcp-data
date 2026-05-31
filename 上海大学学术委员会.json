@@ -2,14 +2,14 @@
   "domain": "ac.shu.edu.cn",
   "department": "上海大学学术委员会",
   "type": "02",
-  "crawl_time": "20260530_224443",
-  "total_articles": 231,
+  "crawl_time": "20260514_004804",
+  "total_articles": 201,
   "columns": {
-    "上大学术": 40,
-    "学术资讯": 93,
-    "学风建设": 60,
-    "服务指南": 5,
-    "通知发文": 33
+    "学术资讯": 91,
+    "学风建设": 61,
+    "通知发文": 23,
+    "上大学术": 21,
+    "服务指南": 5
   },
   "articles": [
     {
@@ -823,18 +823,6 @@
       "column": "学风建设"
     },
     {
-      "title": "关于召开上海大学学风建设大会成立学风建设大会领导小组的通知",
-      "url": "https://ac.shu.edu.cn/info/1009/1874.htm",
-      "date": "2021-06-29",
-      "column": "通知发文"
-    },
-    {
-      "title": "上海大学2021年度高校学术治理理论与实践研究课题立项公示",
-      "url": "https://ac.shu.edu.cn/info/1009/1841.htm",
-      "date": "2021-06-23",
-      "column": "通知发文"
-    },
-    {
       "title": "科学家精神是共产党人精神谱系重要组成部分",
       "url": "https://mp.weixin.qq.com/s/2xdEwP01rnmdWEHDfOPtuQ",
       "date": "2021-06-23",
@@ -889,12 +877,6 @@
       "column": "学术资讯"
     },
     {
-      "title": "学术报告：材料性能与显微结构",
-      "url": "https://ac.shu.edu.cn/info/1009/1781.htm",
-      "date": "2021-04-16",
-      "column": "通知发文"
-    },
-    {
       "title": "上海大学首届本科生“学风建设月”启动会召开",
       "url": "https://news.shu.edu.cn/info/1012/60342.htm",
       "date": "2021-04-08",
@@ -911,12 +893,6 @@
       "url": "https://wap.peopleapp.com/article/rmh16588867/rmh16588867",
       "date": "2021-03-22",
       "column": "学术资讯"
-    },
-    {
-      "title": "上海大学2021年度高校学术治理理论与实践研究课题申报公告",
-      "url": "https://ac.shu.edu.cn/info/1009/1769.htm",
-      "date": "2021-03-09",
-      "column": "通知发文"
     },
     {
       "title": "2021年QS世界大学学科排名出炉！",
@@ -949,12 +925,6 @@
       "column": "学术资讯"
     },
     {
-      "title": "科技部关于印发《长三角科技创新共同体建设发展规划》的通知",
-      "url": "https://mp.weixin.qq.com/s/KraSpeULxHA2JjXDUyNwHQ",
-      "date": "2020-12-30",
-      "column": "通知发文"
-    },
-    {
       "title": "重磅发布：2020年全国科技奖励获奖项目大全（省部级奖+社会力量奖）",
       "url": "https://mp.weixin.qq.com/s/_1sU3iyajlIdZ9PbgZSvGQ",
       "date": "2020-12-30",
@@ -977,12 +947,6 @@
       "url": "https://mp.weixin.qq.com/s/cE8ADn62PIFRDLSCvhqXCQ",
       "date": "2020-12-23",
       "column": "学术资讯"
-    },
-    {
-      "title": "关于开展“第一届上海大学十大学术进展网络投票”的通知",
-      "url": "https://webtest1.shu.edu.cn/fgctoupiao.jsp?urltype=survey.SurveyContentUrl&wbtreeid=1455",
-      "date": "2020-12-09",
-      "column": "通知发文"
     },
     {
       "title": "营造诚实守信的科技创新环境！上海出台科技信用信息管理办法",
@@ -1009,22 +973,10 @@
       "column": "学风建设"
     },
     {
-      "title": "会议通知：“交叉学科背景下的科技伦理”高端论坛",
-      "url": "https://u.eqxiu.com/s/m2tQhRL3?eqrcode=1&share_level=1&from_user=20201127c3848eb1&from_id=21b5eb03-5&share_time=1606445665900",
-      "date": "2020-11-20",
-      "column": "通知发文"
-    },
-    {
       "title": "建设优良学风 靠“疏”也靠“堵”",
       "url": "https://mp.weixin.qq.com/s/QcR5MoLVm8oeHSk6laWy1g",
       "date": "2020-11-13",
       "column": "学风建设"
-    },
-    {
-      "title": "教育部关于成立首届全国高校美育教学指导委员会的通知",
-      "url": "http://m.moe.gov.cn/srcsite/A17/moe_794/moe_624/202008/t20200814_478031.html",
-      "date": "2020-08-20",
-      "column": "通知发文"
     },
     {
       "title": "“双一流”建设的上行式评估",
@@ -1037,12 +989,6 @@
       "url": "https://s.cyol.com/shuzibao/cmsfile/cms_json/zqzx/Newspaper/2/2020-08-20/Content/nw.D110000zgqnb_20200820_7-02.html?isshow=1&from=timeline",
       "date": "2020-08-20",
       "column": "学风建设"
-    },
-    {
-      "title": "《数据安全法（草案）》专家研讨会综述",
-      "url": "http://www.legaldaily.com.cn/IT/content/2020-07/07/content_8239396.htm?from=timeline",
-      "date": "2020-08-12",
-      "column": "学术资讯"
     },
     {
       "title": "中国高校100年：巨变、求生、浪潮、重启",
@@ -1061,12 +1007,6 @@
       "url": "https://mp.weixin.qq.com/s/y9yV_t5xelVTeumrp7O3Vw",
       "date": "2020-08-12",
       "column": "学风建设"
-    },
-    {
-      "title": "关于组织开展“第一届上海大学十大学术进展”评选工作的通知",
-      "url": "https://ac.shu.edu.cn/info/1009/1541.htm",
-      "date": "2020-08-07",
-      "column": "通知发文"
     },
     {
       "title": "交叉学科将成我国第14个学科门类",
@@ -1135,6 +1075,12 @@
       "column": "学术资讯"
     },
     {
+      "title": "《数据安全法（草案）》专家研讨会综述",
+      "url": "http://www.legaldaily.com.cn/IT/content/2020-07/07/content_8239396.htm?from=timeline",
+      "date": "2020-07-20",
+      "column": "学风建设"
+    },
+    {
       "title": "付向东VS杨辉之争：既不能放任跑马圈地，也不能纵容恶意抢跑",
       "url": "https://mp.weixin.qq.com/s/J-ApOR14Z1_B9zxhGbDyzg",
       "date": "2020-07-20",
@@ -1143,12 +1089,6 @@
     {
       "title": "这15位两院院士，都任职于上海同一所大学",
       "url": "https://www.toutiao.com/i6850742191493644813/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1595075689&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=202007182034490101290350912AC3FB5F&group_id=685074",
-      "date": "2020-07-20",
-      "column": "学术资讯"
-    },
-    {
-      "title": "这15位两院院士，都任职于上海同一所大学",
-      "url": "https://www.toutiao.com/i6850742191493644813/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1×tamp=1595075689&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&use_new_style=1&req_id=202007182034490101290350912AC3FB5F&group_id=685074",
       "date": "2020-07-20",
       "column": "学术资讯"
     },
@@ -1171,18 +1111,6 @@
       "column": "学术资讯"
     },
     {
-      "title": "《社会》英文刊Chinese Journal of Sociology的国际影响力取得重大突破",
-      "url": "http://news.shu.edu.cn/info/1013/57201.htm",
-      "date": "2020-06-30",
-      "column": "上大学术"
-    },
-    {
-      "title": "材料学院施思齐团队在《Advanced Functional Materials》发表关于构建离子输运特性数据库的研究论文",
-      "url": "http://news.shu.edu.cn/info/1013/57202.htm",
-      "date": "2020-06-30",
-      "column": "上大学术"
-    },
-    {
       "title": "最新版CSSCI来源期刊目录（2019-2020）及增减变化！【南大核心】",
       "url": "https://mp.weixin.qq.com/s/0yyjTVwAofn6HJe7vQ2-5A",
       "date": "2020-06-30",
@@ -1193,24 +1121,6 @@
       "url": "https://mp.weixin.qq.com/s/XlV41lF3c6HbdO9f3re3sw",
       "date": "2020-06-30",
       "column": "学术资讯"
-    },
-    {
-      "title": "上海大学第二届学术委员会第七次全体会议举行",
-      "url": "http://news.shu.edu.cn/info/1021/57182.htm",
-      "date": "2020-06-28",
-      "column": "上大学术"
-    },
-    {
-      "title": "理学院于洋研究团队在Chem上发表前瞻性论文",
-      "url": "http://news.shu.edu.cn/info/1013/57078.htm",
-      "date": "2020-06-23",
-      "column": "上大学术"
-    },
-    {
-      "title": "计算机学院刘悦老师团队在国际著名期刊Acta Materialia发表机器学习应用于材料科学领域的研究论文",
-      "url": "http://news.shu.edu.cn/info/1013/57120.htm",
-      "date": "2020-06-23",
-      "column": "上大学术"
     },
     {
       "title": "上海大学学术委员会议题审议流程",
@@ -1231,18 +1141,6 @@
       "column": "学术资讯"
     },
     {
-      "title": "通信学院张新鹏教授六次蝉联爱思唯尔中国高被引学者",
-      "url": "http://news.shu.edu.cn/info/1012/56533.htm",
-      "date": "2020-05-11",
-      "column": "上大学术"
-    },
-    {
-      "title": "生命科学学院肖俊杰教授课题组在Molecular Therapy杂志发表研究论文",
-      "url": "http://news.shu.edu.cn/info/1013/56525.htm",
-      "date": "2020-05-11",
-      "column": "上大学术"
-    },
-    {
       "title": "Cell出版集团刊物IMMUNITY报道生命学院魏滨教授实验室合作研究揭示胆固醇代谢调控抗病毒先天免疫的新机制",
       "url": "http://news.shu.edu.cn/info/1013/55155.htm",
       "date": "2020-04-29",
@@ -1253,18 +1151,6 @@
       "url": "http://news.shu.edu.cn/info/1013/55241.htm",
       "date": "2020-04-29",
       "column": "学术资讯"
-    },
-    {
-      "title": "材料学院与宝钢合作开发《金属连铸多模式定制磁场净化技术与装备》，达到国际领先",
-      "url": "http://news.shu.edu.cn/info/1013/55334.htm",
-      "date": "2020-04-29",
-      "column": "上大学术"
-    },
-    {
-      "title": "我校自主研制的氟碳溶喷镀膜口罩通过CMA产品质量检测",
-      "url": "http://news.shu.edu.cn/info/1013/56375.htm",
-      "date": "2020-04-29",
-      "column": "上大学术"
     },
     {
       "title": "上海大学印章管理办法",
@@ -1285,34 +1171,10 @@
       "column": "服务指南"
     },
     {
-      "title": "通信学院蒋皆恢研究团队在一区Top刊《欧洲核医学和分子成像杂志》上发表认知障碍预测的最新成果",
-      "url": "http://news.shu.edu.cn/info/1013/56425.htm",
-      "date": "2020-04-26",
-      "column": "上大学术"
-    },
-    {
       "title": "管理学院教师积极为上海“抗疫”建言献策，多篇研究专报被采纳",
       "url": "http://news.shu.edu.cn/info/1013/56376.htm",
       "date": "2020-04-21",
       "column": "学术资讯"
-    },
-    {
-      "title": "校第二届学术委员会第六次全体会议召开",
-      "url": "https://ac.shu.edu.cn/info/1010/1251.htm",
-      "date": "2020-01-03",
-      "column": "上大学术"
-    },
-    {
-      "title": "学术委员会秘书处发文",
-      "url": "https://ac.shu.edu.cn/info/1009/1221.htm",
-      "date": "2019-12-27",
-      "column": "通知发文"
-    },
-    {
-      "title": "科研诚信与学术规范、警惕学术不端教育活动举行",
-      "url": "https://ac.shu.edu.cn/info/1010/1231.htm",
-      "date": "2019-12-27",
-      "column": "上大学术"
     },
     {
       "title": "人民时评：用学术诚信涵养科技创新",
@@ -1333,18 +1195,6 @@
       "column": "通知发文"
     },
     {
-      "title": "上海大学环化学院扎实开展科学精神与学术诚信教育活动",
-      "url": "https://ac.shu.edu.cn/info/1010/1192.htm",
-      "date": "2019-12-24",
-      "column": "上大学术"
-    },
-    {
-      "title": "科学道德，学风建设 上大人在行动",
-      "url": "https://ac.shu.edu.cn/info/1010/1193.htm",
-      "date": "2019-12-24",
-      "column": "上大学术"
-    },
-    {
       "title": "上海大学学术委员会章程",
       "url": "https://ac.shu.edu.cn/info/1009/1272.htm",
       "date": "2019-12-09",
@@ -1361,36 +1211,6 @@
       "url": "https://ac.shu.edu.cn/info/1009/1274.htm",
       "date": "2019-12-09",
       "column": "通知发文"
-    },
-    {
-      "title": "校学术委员会召开第五次全体会议",
-      "url": "https://ac.shu.edu.cn/info/1010/1321.htm",
-      "date": "2019-11-18",
-      "column": "上大学术"
-    },
-    {
-      "title": "学术委员会第四次全体会议选举刘昌胜院士为校学术委员会主任",
-      "url": "https://ac.shu.edu.cn/info/1010/1333.htm",
-      "date": "2019-07-22",
-      "column": "上大学术"
-    },
-    {
-      "title": "学校召开第二届学术委员会第三次全体会议",
-      "url": "https://ac.shu.edu.cn/info/1010/1331.htm",
-      "date": "2019-06-10",
-      "column": "上大学术"
-    },
-    {
-      "title": "上海大学第二届学术委员会第二次全体会议顺利召开",
-      "url": "http://news.shu.edu.cn/info/1012/49967.htm",
-      "date": "2019-01-18",
-      "column": "上大学术"
-    },
-    {
-      "title": "我校召开第二届学术委员会第一次全体会议暨成立大会",
-      "url": "http://news.shu.edu.cn/info/1021/46467.htm",
-      "date": "2018-01-11",
-      "column": "上大学术"
     },
     {
       "title": "上海大学召开学术委员会全体会议",

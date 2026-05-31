@@ -2,11 +2,11 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 110,
+  "crawl_time": "20260529_053205",
+  "total_articles": 108,
   "columns": {
     "公告信息": 34,
-    "图书馆新闻": 43,
+    "图书馆新闻": 41,
     "资源动态": 33
   },
   "articles": [
@@ -381,18 +381,6 @@
       "url": "https://lib.shu.edu.cn/info/1022/5344.htm",
       "date": "2024-09-11",
       "column": "公告信息"
-    },
-    {
-      "title": "文荟馆举行管理创新业务操作培训",
-      "url": "https://lib.shu.edu.cn/info/1024/2671.htm",
-      "date": "2017-06-22",
-      "column": "图书馆新闻"
-    },
-    {
-      "title": "苏州大学图书馆同仁来我馆访问交流",
-      "url": "https://lib.shu.edu.cn/info/1024/2660.htm",
-      "date": "2017-06-02",
-      "column": "图书馆新闻"
     },
     {
       "title": "上海大学第五届读书月活动圆满落幕",

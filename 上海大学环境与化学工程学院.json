@@ -2,15 +2,15 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260530_224443",
-  "total_articles": 992,
+  "crawl_time": "20260525_013837",
+  "total_articles": 949,
   "columns": {
-    "学术报告": 99,
+    "学术报告": 79,
     "学院新闻": 379,
     "本科生教学": 69,
     "研究生教学": 204,
-    "科研动态": 124,
-    "通知公告": 117
+    "科研动态": 114,
+    "通知公告": 104
   },
   "articles": [
     {
@@ -3788,12 +3788,6 @@
       "column": "学院新闻"
     },
     {
-      "title": "张海娇教授课题组在低维能源纳米材料方面取得新进展",
-      "url": "https://ece.shu.edu.cn/info/1148/2930.htm",
-      "date": "2019-09-23",
-      "column": "科研动态"
-    },
-    {
       "title": "环化学院党委举行“不忘初心、牢记使命”主题教育 工作部署会",
       "url": "https://ece.shu.edu.cn/info/1149/3132.htm",
       "date": "2019-09-17",
@@ -3831,21 +3825,9 @@
     },
     {
       "title": "吴明红教授团队在Nature Chemistry发表重要研究成果",
-      "url": "https://ece.shu.edu.cn/info/1148/2932.htm",
-      "date": "2019-08-30",
-      "column": "科研动态"
-    },
-    {
-      "title": "吴明红教授团队在Nature Chemistry发表重要研究成果",
       "url": "https://ece.shu.edu.cn/info/1149/3129.htm",
       "date": "2019-08-30",
       "column": "学院新闻"
-    },
-    {
-      "title": "射线所马静副研究员成果入选ACS Editors’ Choice",
-      "url": "https://ece.shu.edu.cn/info/1148/2933.htm",
-      "date": "2019-08-22",
-      "column": "科研动态"
     },
     {
       "title": "大气污染区域联防联控制度和管理技术研究会议召开",
@@ -3962,12 +3944,6 @@
       "column": "研究生教学"
     },
     {
-      "title": "吴明红教授受邀在上海市生态环境局首期“生态环境”论坛中作报告",
-      "url": "https://ece.shu.edu.cn/info/1148/2934.htm",
-      "date": "2019-04-16",
-      "column": "科研动态"
-    },
-    {
       "title": "上海大学江西省本科招生宣传工作顺利开展",
       "url": "https://ece.shu.edu.cn/info/1149/3114.htm",
       "date": "2019-04-15",
@@ -4028,22 +4004,10 @@
       "column": "学院新闻"
     },
     {
-      "title": "环化学院王艳丽教授课题组在国际顶尖期刊Advanced Materials上发表论文",
-      "url": "https://ece.shu.edu.cn/info/1148/2935.htm",
-      "date": "2019-01-27",
-      "column": "科研动态"
-    },
-    {
       "title": "环化学院、理学院化学系召开教学、学工人才培养交流会",
       "url": "https://ece.shu.edu.cn/info/1149/3107.htm",
       "date": "2019-01-19",
       "column": "学院新闻"
-    },
-    {
-      "title": "吴明红教授团队研究成果喜获2018年国家自然科学二等奖",
-      "url": "https://ece.shu.edu.cn/info/1148/2936.htm",
-      "date": "2019-01-18",
-      "column": "科研动态"
     },
     {
       "title": "第一届“怡星”成才助学金发放仪式顺利举办",
@@ -4358,12 +4322,6 @@
       "column": "学院新闻"
     },
     {
-      "title": "上海大学与上海城投集团签署战略合作协议",
-      "url": "https://ece.shu.edu.cn/info/1148/2939.htm",
-      "date": "2018-07-22",
-      "column": "科研动态"
-    },
-    {
       "title": "争先创优，不忘初心，致敬榜样，继续前进——环化学院在学校2018年“两优一先”表彰中喜获佳绩",
       "url": "https://ece.shu.edu.cn/info/1149/3014.htm",
       "date": "2018-07-13",
@@ -4374,18 +4332,6 @@
       "url": "https://ece.shu.edu.cn/info/1149/3072.htm",
       "date": "2018-07-13",
       "column": "学院新闻"
-    },
-    {
-      "title": "环化学院石墨烯研究团队在石墨烯表界面调控方面的新成果被ADVANCED MATERIALS作为Hot Topic报道",
-      "url": "https://ece.shu.edu.cn/info/1148/2940.htm",
-      "date": "2018-07-11",
-      "column": "科研动态"
-    },
-    {
-      "title": "约翰威立出版集团（Wiley）访问上海大学推动深度合作",
-      "url": "https://ece.shu.edu.cn/info/1148/2941.htm",
-      "date": "2018-07-03",
-      "column": "科研动态"
     },
     {
       "title": "第24届上海市大学生化学化工优秀论文交流会在上海大学举行",
@@ -4476,12 +4422,6 @@
       "url": "https://ece.shu.edu.cn/info/1149/3064.htm",
       "date": "2018-05-11",
       "column": "学院新闻"
-    },
-    {
-      "title": "《自然•化学》报道吴明红研究团队在环境条件下制备反常化学计量比的氯化钠晶体",
-      "url": "https://ece.shu.edu.cn/info/1148/2942.htm",
-      "date": "2018-05-09",
-      "column": "科研动态"
     },
     {
       "title": "环化学院举行“三个责任制”签约仪式",
@@ -4988,18 +4928,6 @@
       "column": "研究生教学"
     },
     {
-      "title": "关于开展2017年度市教委本科重点课程立项申报工作的通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2622.htm",
-      "date": "2017-04-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "环化学院关于申报2017年度上海高校市级精品课程的通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2623.htm",
-      "date": "2017-04-01",
-      "column": "通知公告"
-    },
-    {
       "title": "环化学院本科招生宣传工作组赴江西省建立优秀生源基地",
       "url": "https://ece.shu.edu.cn/info/1149/3021.htm",
       "date": "2017-03-27",
@@ -5030,18 +4958,6 @@
       "column": "研究生教学"
     },
     {
-      "title": "关于征集第二届“汇创青春”环境设计类参赛作品的通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2620.htm",
-      "date": "2017-03-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "环化学院使用学院业务费财务报销流程",
-      "url": "https://ece.shu.edu.cn/info/1147/2621.htm",
-      "date": "2017-03-10",
-      "column": "通知公告"
-    },
-    {
       "title": "环化学院研究生答辩费报销具体操作说明（更新）",
       "url": "https://ece.shu.edu.cn/info/1304/5736.htm",
       "date": "2017-03-10",
@@ -5070,18 +4986,6 @@
       "url": "https://ece.shu.edu.cn/info/1148/2949.htm",
       "date": "2017-03-03",
       "column": "科研动态"
-    },
-    {
-      "title": "关于申报霍英东教育基金会2017年高等院校“青年教师基金和青年教师奖”的通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2617.htm",
-      "date": "2017-03-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "我校专业技术职务破格聘任工作等最新人事政策通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2618.htm",
-      "date": "2017-03-02",
-      "column": "通知公告"
     },
     {
       "title": "2017年上半年常规普通话水平测试报名通知",
@@ -5168,12 +5072,6 @@
       "column": "学院新闻"
     },
     {
-      "title": "关于第十一届“成才奖学金”评选的通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2615.htm",
-      "date": "2016-12-12",
-      "column": "通知公告"
-    },
-    {
       "title": "我院荣获“2016年度上海大学征兵工作优秀学院”称号",
       "url": "https://ece.shu.edu.cn/info/1149/3013.htm",
       "date": "2016-12-12",
@@ -5202,12 +5100,6 @@
       "url": "https://ece.shu.edu.cn/info/1303/5626.htm",
       "date": "2016-12-06",
       "column": "本科生教学"
-    },
-    {
-      "title": "环化学院2017“挑战杯”立项作品资助培育第三轮通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2614.htm",
-      "date": "2016-12-05",
-      "column": "通知公告"
     },
     {
       "title": "国务院学位委员会核科学与技术学科评议组来我院调研",
@@ -5300,12 +5192,6 @@
       "column": "研究生教学"
     },
     {
-      "title": "ERASMUS+ International Credit Mobility (ICP) 交流访学选拔",
-      "url": "https://ece.shu.edu.cn/info/1147/2613.htm",
-      "date": "2016-11-09",
-      "column": "通知公告"
-    },
-    {
       "title": "节能环保，创意无限——上海大学第三届环保创意设计大赛顺利举行",
       "url": "https://ece.shu.edu.cn/info/1149/3001.htm",
       "date": "2016-11-08",
@@ -5336,28 +5222,10 @@
       "column": "学院新闻"
     },
     {
-      "title": "关于第四届“阳光助学金”评选的通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2610.htm",
-      "date": "2016-11-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "环境与化学工程学院共青团优秀学生、优秀学生干部和先进集体评选细则",
-      "url": "https://ece.shu.edu.cn/info/1147/2611.htm",
-      "date": "2016-11-03",
-      "column": "通知公告"
-    },
-    {
       "title": "2016研究生学业奖学金申报通知",
       "url": "https://ece.shu.edu.cn/info/1304/5753.htm",
       "date": "2016-11-01",
       "column": "研究生教学"
-    },
-    {
-      "title": "多环芳烃与臭氧的大气非均相反应研究",
-      "url": "https://ece.shu.edu.cn/info/1151/6027.htm",
-      "date": "2016-10-31",
-      "column": "学术报告"
     },
     {
       "title": "香港科技大学、香港浸会大学硕士招生宣讲会",
@@ -5378,30 +5246,6 @@
       "column": "学院新闻"
     },
     {
-      "title": "锂离子电池电极材料的设计原理",
-      "url": "https://ece.shu.edu.cn/info/1151/6028.htm",
-      "date": "2016-10-26",
-      "column": "学术报告"
-    },
-    {
-      "title": "国际环境保护大会点子征集通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2609.htm",
-      "date": "2016-10-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "大气国十条对京津冀大气PM2.5污染的影响",
-      "url": "https://ece.shu.edu.cn/info/1151/6029.htm",
-      "date": "2016-10-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "黑碳对SH-SY5Y人神经母细胞瘤细胞的损伤机制研究",
-      "url": "https://ece.shu.edu.cn/info/1151/6030.htm",
-      "date": "2016-10-24",
-      "column": "学术报告"
-    },
-    {
       "title": "悉尼科技大学双博士宣讲会",
       "url": "https://ece.shu.edu.cn/info/1304/5754.htm",
       "date": "2016-10-20",
@@ -5412,18 +5256,6 @@
       "url": "https://ece.shu.edu.cn/info/1149/2993.htm",
       "date": "2016-10-19",
       "column": "学院新闻"
-    },
-    {
-      "title": "自然孕神秀，造化境天成——画家笔下的“自然”",
-      "url": "https://ece.shu.edu.cn/info/1151/6031.htm",
-      "date": "2016-10-19",
-      "column": "学术报告"
-    },
-    {
-      "title": "环化学院2017“挑战杯”立项作品资助培育第二轮通知",
-      "url": "https://ece.shu.edu.cn/info/1147/2607.htm",
-      "date": "2016-10-18",
-      "column": "通知公告"
     },
     {
       "title": "化工系党支部与东华大学应用化学系党支部共建交流活动暨“两学一做”学习交流讨论会",
@@ -5444,28 +5276,10 @@
       "column": "学院新闻"
     },
     {
-      "title": "大气气溶胶单颗粒研究的前沿进展",
-      "url": "https://ece.shu.edu.cn/info/1151/6032.htm",
-      "date": "2016-10-11",
-      "column": "学术报告"
-    },
-    {
       "title": "2016年上海市自然科学基金项目申报公示",
       "url": "https://ece.shu.edu.cn/info/1148/2950.htm",
       "date": "2016-10-10",
       "column": "科研动态"
-    },
-    {
-      "title": "深层海水开发利用的进展",
-      "url": "https://ece.shu.edu.cn/info/1151/6033.htm",
-      "date": "2016-10-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "大气中羰基化合物的研究进展及其分析方法的介绍",
-      "url": "https://ece.shu.edu.cn/info/1151/6034.htm",
-      "date": "2016-10-10",
-      "column": "学术报告"
     },
     {
       "title": "环化学院本科生党支部近期拟发展党员名单公示",
@@ -5486,12 +5300,6 @@
       "column": "研究生教学"
     },
     {
-      "title": "枯草芽孢杆菌与嗜油菌群联合降解原油",
-      "url": "https://ece.shu.edu.cn/info/1151/6035.htm",
-      "date": "2016-10-08",
-      "column": "学术报告"
-    },
-    {
       "title": "2017挑战杯环化学院立项作品第一轮资助培育顺利举行",
       "url": "https://ece.shu.edu.cn/info/1149/2986.htm",
       "date": "2016-09-30",
@@ -5504,46 +5312,10 @@
       "column": "学院新闻"
     },
     {
-      "title": "上海市河流沉积物中多环芳烃的污染特征",
-      "url": "https://ece.shu.edu.cn/info/1151/6036.htm",
-      "date": "2016-09-27",
-      "column": "学术报告"
-    },
-    {
-      "title": "2-甲基丁四醇的合成与结构鉴定",
-      "url": "https://ece.shu.edu.cn/info/1151/6037.htm",
-      "date": "2016-09-27",
-      "column": "学术报告"
-    },
-    {
-      "title": "科技论文写作与发表（Scientific papers: preparation and publication）",
-      "url": "https://ece.shu.edu.cn/info/1151/6038.htm",
-      "date": "2016-09-26",
-      "column": "学术报告"
-    },
-    {
-      "title": "原位快速交联可注射丝素蛋白水凝胶的性能研究",
-      "url": "https://ece.shu.edu.cn/info/1151/6039.htm",
-      "date": "2016-09-21",
-      "column": "学术报告"
-    },
-    {
       "title": "上海大学环化学院2016年度“优秀推免生奖学金”获奖学生公示",
       "url": "https://ece.shu.edu.cn/info/1304/5757.htm",
       "date": "2016-09-21",
       "column": "研究生教学"
-    },
-    {
-      "title": "安全讲座--实验室安全事项",
-      "url": "https://ece.shu.edu.cn/info/1151/6040.htm",
-      "date": "2016-09-20",
-      "column": "学术报告"
-    },
-    {
-      "title": "髓过氧化酶催化丁二烯形成的新代谢产物在细胞和人血中的发现",
-      "url": "https://ece.shu.edu.cn/info/1151/6041.htm",
-      "date": "2016-09-20",
-      "column": "学术报告"
     },
     {
       "title": "环化学院2016年应征入伍同学欢送会顺利举行",
@@ -5582,12 +5354,6 @@
       "column": "通知公告"
     },
     {
-      "title": "废弃聚氨酯水蒸气催化气化制取富氢气体的研究",
-      "url": "https://ece.shu.edu.cn/info/1151/6042.htm",
-      "date": "2016-09-12",
-      "column": "学术报告"
-    },
-    {
       "title": "2017年环化学院优秀应届本科毕业生免试攻读硕士研究生推荐工作实施办法",
       "url": "https://ece.shu.edu.cn/info/1303/5602.htm",
       "date": "2016-09-12",
@@ -5598,18 +5364,6 @@
       "url": "https://ece.shu.edu.cn/info/1303/5634.htm",
       "date": "2016-09-12",
       "column": "本科生教学"
-    },
-    {
-      "title": "大气颗粒物中典型有机示踪物及其在源解析中的应用",
-      "url": "https://ece.shu.edu.cn/info/1151/6043.htm",
-      "date": "2016-09-05",
-      "column": "学术报告"
-    },
-    {
-      "title": "持久性有机污染物胎盘转运的特征",
-      "url": "https://ece.shu.edu.cn/info/1151/6044.htm",
-      "date": "2016-09-05",
-      "column": "学术报告"
     },
     {
       "title": "2016-2017秋季学期自修辅导安排",
@@ -5672,20 +5426,8 @@
       "column": "学院新闻"
     },
     {
-      "title": "我国过去2000年降雨变化、影响及未来发展趋势",
-      "url": "https://ece.shu.edu.cn/info/1151/6045.htm",
-      "date": "2016-07-06",
-      "column": "学术报告"
-    },
-    {
       "title": "运用Pb同位素示踪技术研究大气Pb污染历史",
       "url": "https://ece.shu.edu.cn/info/1151/6046.htm",
-      "date": "2016-07-06",
-      "column": "学术报告"
-    },
-    {
-      "title": "云南腾冲末次冰期泥炭发育与热带/亚热带泥炭发育及全球甲烷的联系",
-      "url": "https://ece.shu.edu.cn/info/1151/6047.htm",
       "date": "2016-07-06",
       "column": "学术报告"
     },

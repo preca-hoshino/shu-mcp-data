@@ -2,15 +2,15 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260530_224443",
-  "total_articles": 265,
+  "crawl_time": "20260529_053205",
+  "total_articles": 245,
   "columns": {
     "学术报告": 51,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 52,
+    "综合新闻": 32,
     "通知公告": 35
   },
   "articles": [
@@ -1179,12 +1179,6 @@
       "column": "科研动态"
     },
     {
-      "title": "上海大学理论与应用力学专业举行培养方案论证会",
-      "url": "https://smes.shu.edu.cn/info/1013/1075.htm",
-      "date": "2019-06-25",
-      "column": "综合新闻"
-    },
-    {
       "title": "我校学生在第十二届全国周培源大学生力学竞赛中喜获佳绩",
       "url": "https://smes.shu.edu.cn/info/1018/1164.htm",
       "date": "2019-06-06",
@@ -1195,24 +1189,6 @@
       "url": "https://smes.shu.edu.cn/info/1018/1165.htm",
       "date": "2019-05-31",
       "column": "教学动态"
-    },
-    {
-      "title": "创新创业，我们先行  —上大学子出征第三届全国大学...",
-      "url": "https://smes.shu.edu.cn/info/1013/1074.htm",
-      "date": "2019-05-11",
-      "column": "综合新闻"
-    },
-    {
-      "title": "方岱宁院士受聘上海大学力学学科教学指导委员会主任",
-      "url": "https://smes.shu.edu.cn/info/1013/1073.htm",
-      "date": "2019-04-29",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第三届空化和多相流国际会议在上海大学成功举办",
-      "url": "https://smes.shu.edu.cn/info/1013/1072.htm",
-      "date": "2019-04-19",
-      "column": "综合新闻"
     },
     {
       "title": "SEMINAR 888：《纳米药物载体体内输运中的力学问题》",
@@ -1239,22 +1215,10 @@
       "column": "学术报告"
     },
     {
-      "title": "祝贺力学学科陈立群教授入选第四批\"国家高层次人才特...",
-      "url": "https://smes.shu.edu.cn/info/1013/2046.htm",
-      "date": "2019-03-01",
-      "column": "综合新闻"
-    },
-    {
       "title": "第十二届全国周培源大学生力学竞赛上海大学报名通知",
       "url": "https://smes.shu.edu.cn/info/1018/1188.htm",
       "date": "2019-01-07",
       "column": "教学动态"
-    },
-    {
-      "title": "力学所2018级研究生新生顺利报道",
-      "url": "https://smes.shu.edu.cn/info/1013/2047.htm",
-      "date": "2018-08-31",
-      "column": "综合新闻"
     },
     {
       "title": "天津大学曹伟教授来所交流",
@@ -1263,28 +1227,10 @@
       "column": "科研动态"
     },
     {
-      "title": "校企合作，走进上大",
-      "url": "https://smes.shu.edu.cn/info/1013/2048.htm",
-      "date": "2018-05-25",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学力学所硕士研究生崔建国的工作在Physics Tod...",
-      "url": "https://smes.shu.edu.cn/info/1013/2063.htm",
-      "date": "2018-05-10",
-      "column": "综合新闻"
-    },
-    {
       "title": "北京大学李存标教授来所交流",
       "url": "https://smes.shu.edu.cn/info/1017/2064.htm",
       "date": "2018-03-20",
       "column": "科研动态"
-    },
-    {
-      "title": "力学所举行刘高联院士追思会",
-      "url": "https://smes.shu.edu.cn/info/1013/2049.htm",
-      "date": "2018-03-14",
-      "column": "综合新闻"
     },
     {
       "title": "荷兰特温特大学朱晓珏博士应邀来所交流",
@@ -1293,28 +1239,10 @@
       "column": "科研动态"
     },
     {
-      "title": "创新创业讲座--戴世强教授",
-      "url": "https://smes.shu.edu.cn/info/1013/2035.htm",
-      "date": "2017-11-14",
-      "column": "综合新闻"
-    },
-    {
-      "title": "不可压非稳态流动的预测与控制专题",
-      "url": "https://smes.shu.edu.cn/info/1013/2036.htm",
-      "date": "2017-11-08",
-      "column": "综合新闻"
-    },
-    {
       "title": "北京大学黄筑平教授来力学所学术交流",
       "url": "https://smes.shu.edu.cn/info/1017/2030.htm",
       "date": "2017-11-01",
       "column": "科研动态"
-    },
-    {
-      "title": "力学在核电设计中的典型应用",
-      "url": "https://smes.shu.edu.cn/info/1013/2037.htm",
-      "date": "2017-10-30",
-      "column": "综合新闻"
     },
     {
       "title": "湍流理论学术研讨会",
@@ -1323,28 +1251,10 @@
       "column": "科研动态"
     },
     {
-      "title": "冯奇教授学术报告",
-      "url": "https://smes.shu.edu.cn/info/1013/2067.htm",
-      "date": "2017-10-11",
-      "column": "综合新闻"
-    },
-    {
       "title": "西安交通大学数学与统计学院的何银年教授应邀来所交流",
       "url": "https://smes.shu.edu.cn/info/1017/2066.htm",
       "date": "2017-10-11",
       "column": "科研动态"
-    },
-    {
-      "title": "BIM+城市基础设施的全生命周期信息化探索",
-      "url": "https://smes.shu.edu.cn/info/1013/2038.htm",
-      "date": "2017-10-08",
-      "column": "综合新闻"
-    },
-    {
-      "title": "创新创业的实践和启示",
-      "url": "https://smes.shu.edu.cn/info/1013/2050.htm",
-      "date": "2017-10-08",
-      "column": "综合新闻"
     },
     {
       "title": "余钊圣教授来我所学术交流",
@@ -1353,40 +1263,10 @@
       "column": "科研动态"
     },
     {
-      "title": "流体力学在汽车工业中的应用",
-      "url": "https://smes.shu.edu.cn/info/1013/2068.htm",
-      "date": "2017-09-25",
-      "column": "综合新闻"
-    },
-    {
-      "title": "力学学科2017级新生入学教育",
-      "url": "https://smes.shu.edu.cn/info/1013/2051.htm",
-      "date": "2017-09-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "创新创业之力学也可以",
-      "url": "https://smes.shu.edu.cn/info/1013/2039.htm",
-      "date": "2017-09-16",
-      "column": "综合新闻"
-    },
-    {
-      "title": "力学所2017级研究生顺利报到",
-      "url": "https://smes.shu.edu.cn/info/1013/2052.htm",
-      "date": "2017-09-10",
-      "column": "综合新闻"
-    },
-    {
       "title": "美国西北大学黄永刚院士来所访问交流",
       "url": "https://smes.shu.edu.cn/info/1017/2069.htm",
       "date": "2017-07-10",
       "column": "科研动态"
-    },
-    {
-      "title": "感受工程应用中的力学",
-      "url": "https://smes.shu.edu.cn/info/1013/2053.htm",
-      "date": "2017-06-28",
-      "column": "综合新闻"
     },
     {
       "title": "密苏里科技大学的王成博士来所学术交流",

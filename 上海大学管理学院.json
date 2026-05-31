@@ -2,12 +2,12 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 840,
+  "crawl_time": "20260526_052542",
+  "total_articles": 758,
   "columns": {
-    "学术活动": 234,
-    "学院新闻": 84,
-    "重要通知": 522
+    "学术活动": 194,
+    "学院新闻": 62,
+    "重要通知": 502
   },
   "articles": [
     {
@@ -4229,171 +4229,9 @@
       "column": "学术活动"
     },
     {
-      "title": "关于上报“教职工进修培训计划表”的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9822.htm",
-      "date": "2009-11-30",
-      "column": "重要通知"
-    },
-    {
-      "title": "管理学院关于学生校园活动卡使用的相关说明",
-      "url": "https://ms.shu.edu.cn/info/1245/9821.htm",
-      "date": "2009-11-27",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于各系、部门设信息员负责学院网站信息收集及网站内容更新工作的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9820.htm",
-      "date": "2009-11-24",
-      "column": "重要通知"
-    },
-    {
       "title": "上海管理论坛第38期（彭建文）",
       "url": "https://ms.shu.edu.cn/info/1246/11242.htm",
       "date": "2009-11-22",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于招募世博会志愿者培训师推荐人选的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9817.htm",
-      "date": "2009-11-16",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于领取2009年12月大学英语考试准考证的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9818.htm",
-      "date": "2009-11-16",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于开展2009年初、中级专业技术职务晋升聘任工作的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9815.htm",
-      "date": "2009-11-03",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于2009-2010学年秋季学期冲突考试报名的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9816.htm",
-      "date": "2009-11-03",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于调整推免2010年专业学位型直升研究生的重要通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9809.htm",
-      "date": "2009-10-04",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于06级学生第一轮校对网上成绩大表的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9808.htm",
-      "date": "2009-09-28",
-      "column": "重要通知"
-    },
-    {
-      "title": "转载：国家自然科学基金委管理科学部公开招聘流动编制项目主任启事",
-      "url": "https://ms.shu.edu.cn/info/1245/9806.htm",
-      "date": "2009-09-27",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于2009年中秋、国庆节放假安排的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9805.htm",
-      "date": "2009-09-23",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于教师资格证申请的特别告知",
-      "url": "https://ms.shu.edu.cn/info/1245/9803.htm",
-      "date": "2009-09-21",
-      "column": "重要通知"
-    },
-    {
-      "title": "管理学院推免2010年直升研究生安排及工作流程的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9804.htm",
-      "date": "2009-09-21",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于做好2009年12月大学英语四、六级考试报名工作的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9802.htm",
-      "date": "2009-09-18",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于领取2009年上海市高等学校计算机等级考试准考证的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9801.htm",
-      "date": "2009-09-16",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于2009年上海市高等学校计算机等级考试上机模拟考试的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9800.htm",
-      "date": "2009-09-15",
-      "column": "重要通知"
-    },
-    {
-      "title": "上海大学管理学院常规普通话水平测试报名通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9798.htm",
-      "date": "2009-09-07",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于2009年申请学校教职工住房补贴的通知（摘要）",
-      "url": "https://ms.shu.edu.cn/info/1245/9795.htm",
-      "date": "2009-07-02",
-      "column": "重要通知"
-    },
-    {
-      "title": "关于2009年度“上海高校选拔培养优秀青年教师科研专项基金”申报",
-      "url": "https://ms.shu.edu.cn/info/1245/9791.htm",
-      "date": "2009-06-18",
-      "column": "重要通知"
-    },
-    {
-      "title": "上海管理论坛（青年学者专场第十四期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11222.htm",
-      "date": "2009-06-15",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第二十一期",
-      "url": "https://ms.shu.edu.cn/info/1246/11221.htm",
-      "date": "2009-06-13",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海大学关于2009年上海市高等学校计算机等级考试报名工作的通知",
-      "url": "https://ms.shu.edu.cn/info/1245/9790.htm",
-      "date": "2009-06-09",
-      "column": "重要通知"
-    },
-    {
-      "title": "上海管理论坛（青年学者专场第十三期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11220.htm",
-      "date": "2009-06-09",
-      "column": "学术活动"
-    },
-    {
-      "title": "美国纽约州佩斯大学陶立新教授系列讲座",
-      "url": "https://ms.shu.edu.cn/info/1246/11218.htm",
-      "date": "2009-06-04",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理科学学会——商学院院长系列论坛(上海管理论坛第二十二期)",
-      "url": "https://ms.shu.edu.cn/info/1246/11219.htm",
-      "date": "2009-06-04",
-      "column": "学术活动"
-    },
-    {
-      "title": "博洋讲坛通知《金融危机与大国博弈的思考》",
-      "url": "https://ms.shu.edu.cn/info/1246/11216.htm",
-      "date": "2009-06-03",
-      "column": "学术活动"
-    },
-    {
-      "title": "朱晓明将来我校主持商学院院长系列论坛",
-      "url": "https://ms.shu.edu.cn/info/1246/11217.htm",
-      "date": "2009-06-03",
       "column": "学术活动"
     },
     {
@@ -4409,12 +4247,6 @@
       "column": "重要通知"
     },
     {
-      "title": "讲座通知《信息管理的发展与展望》",
-      "url": "https://ms.shu.edu.cn/info/1246/11215.htm",
-      "date": "2009-05-19",
-      "column": "学术活动"
-    },
-    {
       "title": "关于领取2009.6 CET考试准考证通知",
       "url": "https://ms.shu.edu.cn/info/1245/9786.htm",
       "date": "2009-05-14",
@@ -4425,12 +4257,6 @@
       "url": "https://ms.shu.edu.cn/info/1245/9787.htm",
       "date": "2009-05-14",
       "column": "重要通知"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十九期",
-      "url": "https://ms.shu.edu.cn/info/1246/11214.htm",
-      "date": "2009-05-11",
-      "column": "学术活动"
     },
     {
       "title": "关于今年体检工作启动新方案的通知",
@@ -4457,12 +4283,6 @@
       "column": "重要通知"
     },
     {
-      "title": "讲座通知《催人奋进的时代与青年学生的使命》",
-      "url": "https://ms.shu.edu.cn/info/1246/11213.htm",
-      "date": "2009-04-30",
-      "column": "学术活动"
-    },
-    {
       "title": "第五届“全国语文规范化知识大赛”活动通知",
       "url": "https://ms.shu.edu.cn/info/1245/9778.htm",
       "date": "2009-04-27",
@@ -4473,18 +4293,6 @@
       "url": "https://ms.shu.edu.cn/info/1245/9779.htm",
       "date": "2009-04-27",
       "column": "重要通知"
-    },
-    {
-      "title": "讲座通知《美国高校的校园文化》",
-      "url": "https://ms.shu.edu.cn/info/1246/11212.htm",
-      "date": "2009-04-24",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十八期",
-      "url": "https://ms.shu.edu.cn/info/1246/11211.htm",
-      "date": "2009-04-23",
-      "column": "学术活动"
     },
     {
       "title": "关于参加瑞典延雪平国际商学院本科生暑期课程的通知",
@@ -4499,18 +4307,6 @@
       "column": "重要通知"
     },
     {
-      "title": "管理学院上海管理论坛学术讲座第十六期",
-      "url": "https://ms.shu.edu.cn/info/1246/11209.htm",
-      "date": "2009-04-12",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十七期",
-      "url": "https://ms.shu.edu.cn/info/1246/11210.htm",
-      "date": "2009-04-12",
-      "column": "学术活动"
-    },
-    {
       "title": "管理学院关于举办青年教师本科课堂教学竞赛的通知",
       "url": "https://ms.shu.edu.cn/info/1245/9775.htm",
       "date": "2009-04-03",
@@ -4523,22 +4319,10 @@
       "column": "重要通知"
     },
     {
-      "title": "管理学院成功举办“海峡两岸学者论坛”",
-      "url": "https://ms.shu.edu.cn/info/1246/11208.htm",
-      "date": "2009-03-24",
-      "column": "学术活动"
-    },
-    {
       "title": "关于2009届应届毕业生重修考试报名、考试的通知",
       "url": "https://ms.shu.edu.cn/info/1245/9771.htm",
       "date": "2009-03-20",
       "column": "重要通知"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十五期",
-      "url": "https://ms.shu.edu.cn/info/1246/11207.htm",
-      "date": "2009-03-16",
-      "column": "学术活动"
     },
     {
       "title": "关于做好2009年6月大学英、日、德、俄、法语四级及大学英语、日语六级考...",
@@ -4553,40 +4337,10 @@
       "column": "重要通知"
     },
     {
-      "title": "上海管理论坛（青年学者专场第十二期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11206.htm",
-      "date": "2009-03-12",
-      "column": "学术活动"
-    },
-    {
       "title": "08-09冬季学期管理学院考试冲突安排",
       "url": "https://ms.shu.edu.cn/info/1245/9768.htm",
       "date": "2009-03-02",
       "column": "重要通知"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十三期",
-      "url": "https://ms.shu.edu.cn/info/1246/11204.htm",
-      "date": "2009-02-25",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十四期",
-      "url": "https://ms.shu.edu.cn/info/1246/11205.htm",
-      "date": "2009-02-25",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十二期",
-      "url": "https://ms.shu.edu.cn/info/1246/11203.htm",
-      "date": "2009-02-23",
-      "column": "学术活动"
-    },
-    {
-      "title": "商学文化月之风暴经理人大赛顺利举行",
-      "url": "https://ms.shu.edu.cn/info/1244/8175.htm",
-      "date": "2009-02-20",
-      "column": "学院新闻"
     },
     {
       "title": "上海大学管理学院学生会2008年招新通知",
@@ -4595,130 +4349,10 @@
       "column": "重要通知"
     },
     {
-      "title": "上海大学管理学院“博洋”讲坛首讲告捷",
-      "url": "https://ms.shu.edu.cn/info/1244/8169.htm",
-      "date": "2009-02-19",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学管理学院第一届学生会成立大会顺利召开",
-      "url": "https://ms.shu.edu.cn/info/1244/8170.htm",
-      "date": "2009-02-19",
-      "column": "学院新闻"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十一期",
-      "url": "https://ms.shu.edu.cn/info/1246/11202.htm",
-      "date": "2009-02-18",
-      "column": "学术活动"
-    },
-    {
       "title": "上海管理论坛（青年学者专场第十一期）讲座通知",
       "url": "https://ms.shu.edu.cn/info/1245/9766.htm",
       "date": "2009-02-17",
       "column": "重要通知"
-    },
-    {
-      "title": "上海管理论坛（青年学者专场第十一期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11201.htm",
-      "date": "2009-02-17",
-      "column": "学术活动"
-    },
-    {
-      "title": "常规普通话水平测试报名通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11197.htm",
-      "date": "2009-02-10",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院整改落实方案（征求意见稿）",
-      "url": "https://ms.shu.edu.cn/info/1246/11198.htm",
-      "date": "2009-02-10",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院举行学院领导民主生活会",
-      "url": "https://ms.shu.edu.cn/info/1244/8168.htm",
-      "date": "2009-02-09",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学管理学院召开新年首次院务会议",
-      "url": "https://ms.shu.edu.cn/info/1244/8167.htm",
-      "date": "2009-02-06",
-      "column": "学院新闻"
-    },
-    {
-      "title": "管理学院召开教务口、学工口第三次联席会议",
-      "url": "https://ms.shu.edu.cn/info/1244/8162.htm",
-      "date": "2009-01-13",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海交大解学梅博士与我院教师畅谈创新管理研究“新得”",
-      "url": "https://ms.shu.edu.cn/info/1244/8160.htm",
-      "date": "2009-01-09",
-      "column": "学院新闻"
-    },
-    {
-      "title": "管理学院召开课程建设与教学评估委员会第一次会议",
-      "url": "https://ms.shu.edu.cn/info/1244/8155.htm",
-      "date": "2008-12-30",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛（青年学者专场第九期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11196.htm",
-      "date": "2008-12-30",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学新秀刘婷与我院教师分享发表SSCI收录论文经验",
-      "url": "https://ms.shu.edu.cn/info/1244/8153.htm",
-      "date": "2008-12-25",
-      "column": "学院新闻"
-    },
-    {
-      "title": "亚洲咨询公司首席咨询师鲍勃 菲斯勒来管理学院交流",
-      "url": "https://ms.shu.edu.cn/info/1244/8148.htm",
-      "date": "2008-12-24",
-      "column": "学院新闻"
-    },
-    {
-      "title": "管理学院专访纽约佩斯大学终身教授陶立新先生",
-      "url": "https://ms.shu.edu.cn/info/1244/8139.htm",
-      "date": "2008-12-23",
-      "column": "学院新闻"
-    },
-    {
-      "title": "西安交通大学李德昌副教授做客我院青年学者专场",
-      "url": "https://ms.shu.edu.cn/info/1244/8141.htm",
-      "date": "2008-12-23",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛（青年学者专场第七期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11194.htm",
-      "date": "2008-12-22",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛（青年学者专场第八期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11195.htm",
-      "date": "2008-12-22",
-      "column": "学术活动"
-    },
-    {
-      "title": "美国Pace大学陶立新教授受聘我院兼职教授并作学术报告",
-      "url": "https://ms.shu.edu.cn/info/1244/8135.htm",
-      "date": "2008-12-21",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛青年学者专场第四期成功举办",
-      "url": "https://ms.shu.edu.cn/info/1244/8130.htm",
-      "date": "2008-12-15",
-      "column": "学院新闻"
     },
     {
       "title": "上海管理论坛（青年学者专场第六期）讲座通知",
@@ -4727,136 +4361,10 @@
       "column": "重要通知"
     },
     {
-      "title": "上海管理论坛（青年学者专场第六期）讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11193.htm",
-      "date": "2008-12-15",
-      "column": "学术活动"
-    },
-    {
-      "title": "社科院刘小玄受聘我院兼职教授并作学术讲座",
-      "url": "https://ms.shu.edu.cn/info/1244/8125.htm",
-      "date": "2008-12-10",
-      "column": "学院新闻"
-    },
-    {
-      "title": "朱道立教授谈如何申请国家自然科学基金",
-      "url": "https://ms.shu.edu.cn/info/1244/8123.htm",
-      "date": "2008-12-09",
-      "column": "学院新闻"
-    },
-    {
-      "title": "管理学院上海管理论坛学术讲座第十期",
-      "url": "https://ms.shu.edu.cn/info/1246/11191.htm",
-      "date": "2008-12-03",
-      "column": "学术活动"
-    },
-    {
       "title": "管理学院教学科通知",
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
-    },
-    {
-      "title": "管理学院教学科通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11190.htm",
-      "date": "2008-12-02",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛青年学者专场第二期成功举办",
-      "url": "https://ms.shu.edu.cn/info/1244/8113.htm",
-      "date": "2008-12-01",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛青年学者专场(第四期)讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1244/8115.htm",
-      "date": "2008-12-01",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛青年学者专场(第四期)讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11189.htm",
-      "date": "2008-12-01",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛青年学者专场(第三期)成功举办",
-      "url": "https://ms.shu.edu.cn/info/1244/8111.htm",
-      "date": "2008-11-27",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛第9期：中国企业制度30年的变迁",
-      "url": "https://ms.shu.edu.cn/info/1246/11188.htm",
-      "date": "2008-11-27",
-      "column": "学术活动"
-    },
-    {
-      "title": "2008年冬季学期教材领用通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11187.htm",
-      "date": "2008-11-26",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于“求职成绩大表”的说明",
-      "url": "https://ms.shu.edu.cn/info/1246/11186.htm",
-      "date": "2008-11-24",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛第8期：如何申请国家自然科学基金－成功与失败案例评述",
-      "url": "https://ms.shu.edu.cn/info/1246/11185.htm",
-      "date": "2008-11-23",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院第二次全院大会",
-      "url": "https://ms.shu.edu.cn/info/1244/8108.htm",
-      "date": "2008-11-21",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛青年学者专场(第二期)讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1244/8104.htm",
-      "date": "2008-11-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海管理论坛青年学者专场(第二期)讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11184.htm",
-      "date": "2008-11-18",
-      "column": "学术活动"
-    },
-    {
-      "title": "管理学院加强研究生学术诚信教育",
-      "url": "https://ms.shu.edu.cn/info/1244/8098.htm",
-      "date": "2008-11-17",
-      "column": "学院新闻"
-    },
-    {
-      "title": "08-09秋冲突考安排",
-      "url": "https://ms.shu.edu.cn/info/1246/11183.htm",
-      "date": "2008-11-10",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛青年学者专场第一期成功举办",
-      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
-      "date": "2008-11-09",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于08-09学年秋季学期期末成绩登录时间安排",
-      "url": "https://ms.shu.edu.cn/info/1246/11181.htm",
-      "date": "2008-11-06",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于设立“上海管理论坛青年学者专场”的通知?",
-      "url": "https://ms.shu.edu.cn/info/1246/11180.htm",
-      "date": "2008-11-05",
-      "column": "学术活动"
     },
     {
       "title": "管理学院运动员书写赛场神话",

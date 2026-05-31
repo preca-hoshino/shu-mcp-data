@@ -2,11 +2,11 @@
   "domain": "fpd.shu.edu.cn",
   "department": "上海大学新型显示技术及应用集成教育部重点实验室",
   "type": "21",
-  "crawl_time": "20260530_224443",
-  "total_articles": 138,
+  "crawl_time": "20260514_004804",
+  "total_articles": 93,
   "columns": {
-    "新闻中心": 77,
-    "通知公告": 61
+    "通知公告": 46,
+    "新闻中心": 47
   },
   "articles": [
     {
@@ -298,94 +298,10 @@
       "column": "通知公告"
     },
     {
-      "title": "学术报告：从材料的微观结构到宏观特性",
-      "url": "https://fpd.shu.edu.cn/info/1111/3981.htm",
-      "date": "2019-06-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "2019年“晶合”奖学金公示（新显中心）",
-      "url": "https://fpd.shu.edu.cn/info/1111/3971.htm",
-      "date": "2019-05-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "学术报告：Exploring long term operational stability of Pt Complexes for display and lighting applications",
-      "url": "https://fpd.shu.edu.cn/info/1111/3961.htm",
-      "date": "2019-03-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "学术报告：用于显示和照明技术的钯系和铂系金属有机发光材料",
-      "url": "https://fpd.shu.edu.cn/info/1111/3962.htm",
-      "date": "2019-03-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海交通大学刘洪海教授学术报告通知",
-      "url": "https://fpd.shu.edu.cn/info/1111/3941.htm",
-      "date": "2019-01-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "西安交通大学刘红忠教授学术报告通知",
-      "url": "https://fpd.shu.edu.cn/info/1111/3963.htm",
-      "date": "2019-01-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "医工交叉新技术研讨会",
-      "url": "https://fpd.shu.edu.cn/info/1111/3932.htm",
-      "date": "2018-12-18",
-      "column": "通知公告"
-    },
-    {
-      "title": "学术报告：The future is green and flexible",
-      "url": "https://fpd.shu.edu.cn/info/1111/3931.htm",
-      "date": "2018-12-14",
-      "column": "通知公告"
-    },
-    {
-      "title": "学术研讨会：半导体材料、光电子器件及应用",
-      "url": "https://fpd.shu.edu.cn/info/1111/3921.htm",
-      "date": "2018-10-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "台湾交通大学李伟教授学术报告通知",
-      "url": "https://fpd.shu.edu.cn/info/1111/3911.htm",
-      "date": "2018-10-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "法国格勒诺布尔阿尔卑斯大学 Redouane Borsali教授学术报告通知",
-      "url": "https://fpd.shu.edu.cn/info/1111/3912.htm",
-      "date": "2018-10-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "黄维扬教授团队学术报告会会议议程",
-      "url": "https://fpd.shu.edu.cn/info/1111/3902.htm",
-      "date": "2018-10-10",
-      "column": "通知公告"
-    },
-    {
       "title": "教育部“春晖计划”留德华人化学化工学会交流团访问新型显示技术及应用集成教育部重点实验室",
       "url": "https://fpd.shu.edu.cn/info/1113/3901.htm",
       "date": "2018-10-09",
       "column": "新闻中心"
-    },
-    {
-      "title": "“春晖计划“留德华人化学化工学会访问团学术报告通知",
-      "url": "https://fpd.shu.edu.cn/info/1111/3891.htm",
-      "date": "2018-09-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "学术研讨会：有机功能材料和有机光电子最新进展",
-      "url": "https://fpd.shu.edu.cn/info/1111/3861.htm",
-      "date": "2018-08-26",
-      "column": "通知公告"
     },
     {
       "title": "2018暑假”韩国湖西大学CK-1专业交流项目“与「新型显示应用技术研讨会」圆满完成",
@@ -408,12 +324,6 @@
     {
       "title": "学术研讨会：Perovskite/polymer heterojunction photodetectors",
       "url": "https://fpd.shu.edu.cn/info/1111/3811.htm",
-      "date": "2018-06-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "美国亚利桑那州立大学李坚教授学术报告会",
-      "url": "https://fpd.shu.edu.cn/info/1111/3821.htm",
       "date": "2018-06-22",
       "column": "通知公告"
     },
@@ -643,186 +553,6 @@
       "title": "正在更新",
       "url": "https://fpd.shu.edu.cn/info/1113/3397.htm",
       "date": "2016-03-16",
-      "column": "新闻中心"
-    },
-    {
-      "title": "半导体照明基础讲座（一）",
-      "url": "https://fpd.shu.edu.cn/info/1113/3430.htm",
-      "date": "2010-04-13",
-      "column": "新闻中心"
-    },
-    {
-      "title": "正在更新",
-      "url": "https://fpd.shu.edu.cn/info/1113/3485.htm",
-      "date": "2010-04-13",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第九期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3431.htm",
-      "date": "2010-03-16",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第八期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3371.htm",
-      "date": "2010-01-08",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第七期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3432.htm",
-      "date": "2009-11-29",
-      "column": "新闻中心"
-    },
-    {
-      "title": "第六届发光学会议在上海成功举行",
-      "url": "https://fpd.shu.edu.cn/info/1113/3531.htm",
-      "date": "2009-11-25",
-      "column": "新闻中心"
-    },
-    {
-      "title": "平板显示技术及应用集成”第六期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3373.htm",
-      "date": "2009-06-18",
-      "column": "新闻中心"
-    },
-    {
-      "title": "第六届全国发光与激光学术会议于2009年11月召开",
-      "url": "https://fpd.shu.edu.cn/info/1113/3374.htm",
-      "date": "2009-05-15",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第五期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3433.htm",
-      "date": "2009-04-22",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第四期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3434.htm",
-      "date": "2009-03-24",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第三期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3435.htm",
-      "date": "2008-12-02",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第二期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3436.htm",
-      "date": "2008-09-16",
-      "column": "新闻中心"
-    },
-    {
-      "title": "上海大学新型显示技术及应用集成教育部重点实验室招聘启事",
-      "url": "https://fpd.shu.edu.cn/info/1113/3376.htm",
-      "date": "2008-06-17",
-      "column": "新闻中心"
-    },
-    {
-      "title": "“平板显示技术及应用集成”第一期专题论坛报告",
-      "url": "https://fpd.shu.edu.cn/info/1113/3437.htm",
-      "date": "2008-06-04",
-      "column": "新闻中心"
-    },
-    {
-      "title": "熊绍珍教授参观访问我室",
-      "url": "https://fpd.shu.edu.cn/info/1113/3438.htm",
-      "date": "2008-01-11",
-      "column": "新闻中心"
-    },
-    {
-      "title": "南开大学光电子所熊绍珍教授参观访问我室。",
-      "url": "https://fpd.shu.edu.cn/info/1113/3439.htm",
-      "date": "2008-01-11",
-      "column": "新闻中心"
-    },
-    {
-      "title": "香港浸会大学先进发光材料中心谢国伟教授来我室访问",
-      "url": "https://fpd.shu.edu.cn/info/1113/3486.htm",
-      "date": "2006-11-14",
-      "column": "新闻中心"
-    },
-    {
-      "title": "张志林教授参加第五界国际显示器制程前瞻技术研讨会",
-      "url": "https://fpd.shu.edu.cn/info/1113/3393.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "第六届高密度微系统设计封装与失效分析会议举行",
-      "url": "https://fpd.shu.edu.cn/info/1113/3394.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "第八届高密度微系统设计封装与失效分析会议举行",
-      "url": "https://fpd.shu.edu.cn/info/1113/3395.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "深圳天马来我室参观并寻求合作",
-      "url": "https://fpd.shu.edu.cn/info/1113/3442.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "上广电来我室洽谈合作项目",
-      "url": "https://fpd.shu.edu.cn/info/1113/3443.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "香港科技大学郭海成教授参观访问我室",
-      "url": "https://fpd.shu.edu.cn/info/1113/3444.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "长春应用化学研究所王军博士来我室讲学",
-      "url": "https://fpd.shu.edu.cn/info/1113/3445.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "新加坡先进封装咨询公司首席执行官访问实验室",
-      "url": "https://fpd.shu.edu.cn/info/1113/3446.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "校领导翟启杰教授率团赴香港访问",
-      "url": "https://fpd.shu.edu.cn/info/1113/3447.htm",
-      "date": "2006-09-20",
-      "column": "新闻中心"
-    },
-    {
-      "title": "新型显示技术及应用集成教育部重点实验室招聘",
-      "url": "https://fpd.shu.edu.cn/info/1113/3377.htm",
-      "date": "2006-09-19",
-      "column": "新闻中心"
-    },
-    {
-      "title": "第八届高密度微系统设计培训在上大举行",
-      "url": "https://fpd.shu.edu.cn/info/1113/3450.htm",
-      "date": "2006-07-14",
-      "column": "新闻中心"
-    },
-    {
-      "title": "香港科技大学郭海成教授参观访问我室",
-      "url": "https://fpd.shu.edu.cn/info/1113/3451.htm",
-      "date": "2006-05-14",
-      "column": "新闻中心"
-    },
-    {
-      "title": "第七届高密度微系统设计封装”在上大胜利举行",
-      "url": "https://fpd.shu.edu.cn/info/1113/3533.htm",
-      "date": "2005-07-13",
       "column": "新闻中心"
     },
     {

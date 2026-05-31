@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260530_224443",
-  "total_articles": 1768,
+  "crawl_time": "20260526_013441",
+  "total_articles": 1748,
   "columns": {
-    "新闻": 51,
+    "新闻": 31,
     "讲座": 460,
     "通知公告": 1257
   },
@@ -3251,96 +3251,6 @@
       "column": "新闻"
     },
     {
-      "title": "我院07－08学年辅导员考核答辩会举行",
-      "url": "https://sfa.shu.edu.cn/info/1211/3808.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "全国优秀硕士论文奖",
-      "url": "https://sfa.shu.edu.cn/info/1211/3809.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "2008年度广电总局部级社科研究项目申报",
-      "url": "https://sfa.shu.edu.cn/info/1211/3810.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "2009年知识产权本硕连读推免工作通知",
-      "url": "https://sfa.shu.edu.cn/info/1211/3811.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "《少年血》釜山国际电影节获最佳亚洲短片电影奖提名",
-      "url": "https://sfa.shu.edu.cn/info/1211/3812.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "影视学院师生赴美参加夏威夷电影节及合作交流活动",
-      "url": "https://sfa.shu.edu.cn/info/1211/3813.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "“巨星陨落——追思一代电影大师谢晋院长”——追思会函告",
-      "url": "https://sfa.shu.edu.cn/info/1211/3814.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "铭刻民族心灵的电影丰碑——沉痛悼念谢晋导演",
-      "url": "https://sfa.shu.edu.cn/info/1211/3815.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "上海大学师生深情缅怀影视学院院长、电影大师谢晋",
-      "url": "https://sfa.shu.edu.cn/info/1211/3816.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "影视学院邀请上海电视台人员座谈学生培养",
-      "url": "https://sfa.shu.edu.cn/info/1211/3817.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "影视学院张咏华教授当选为外国新闻史学会副会长",
-      "url": "https://sfa.shu.edu.cn/info/1211/3818.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "刘小枫教授、张志扬教授为影视学院研究生精彩开讲",
-      "url": "https://sfa.shu.edu.cn/info/1211/3819.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "影视学院成功举办“影像中的当代伦理表达”研讨会",
-      "url": "https://sfa.shu.edu.cn/info/1211/3820.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "贾樟柯《二十四城记》挪威获电影节大奖",
-      "url": "https://sfa.shu.edu.cn/info/1211/3821.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "影视学院学生DV、摄影作品在全国校园影像交流节获奖",
-      "url": "https://sfa.shu.edu.cn/info/1211/3822.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
       "title": "解放日报报业集团社长尹明华先生受聘为我校兼职教授",
       "url": "https://sfa.shu.edu.cn/info/1211/4203.htm",
       "date": "",
@@ -3355,36 +3265,6 @@
     {
       "title": "影视学院学生党支部举行赈灾爱心义卖活动",
       "url": "https://sfa.shu.edu.cn/info/1211/4206.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "我院召开青年教师学科讨论会",
-      "url": "https://sfa.shu.edu.cn/info/1211/4208.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "<font color=black>实验中心组织新设备、新技术培训收效显著</font>",
-      "url": "https://sfa.shu.edu.cn/info/1211/4209.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "影视学院领导慰问带训官兵及学院参训学生",
-      "url": "https://sfa.shu.edu.cn/info/1211/4211.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "<font color=black>实验中心科普新作《探秘“仙草”灵芝》制作完成</font>",
-      "url": "https://sfa.shu.edu.cn/info/1211/4213.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "沉痛悼念著名电影艺术家、影视学院院长谢晋与世长辞",
-      "url": "https://sfa.shu.edu.cn/info/1211/4215.htm",
       "date": "",
       "column": "新闻"
     },

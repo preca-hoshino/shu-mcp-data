@@ -2,13 +2,13 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 340,
+  "crawl_time": "20260527_091111",
+  "total_articles": 326,
   "columns": {
-    "新闻动态": 255,
+    "新闻动态": 244,
     "讲座信息": 8,
     "资讯动态": 2,
-    "通知公告": 75
+    "通知公告": 72
   },
   "articles": [
     {
@@ -1494,24 +1494,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "2022年微电子学院研究生奖学金评审标准和评定方法(试运行)",
-      "url": "https://sme.shu.edu.cn/info/1030/1742.htm",
-      "date": "2022-09-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "微电子学院接收推荐免试攻读2023年研究生的通知",
-      "url": "https://sme.shu.edu.cn/info/1030/1730.htm",
-      "date": "2022-09-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学微电子学院推荐2023年免试攻读硕士学位研究生名单公示",
-      "url": "https://sme.shu.edu.cn/info/1030/1724.htm",
-      "date": "2022-09-18",
-      "column": "通知公告"
-    },
-    {
       "title": "巡察公告",
       "url": "https://sme.shu.edu.cn/info/1030/1723.htm",
       "date": "2022-09-16",
@@ -1830,22 +1812,10 @@
       "column": "通知公告"
     },
     {
-      "title": "党史学习教育进行时：上海大学党史学习教育第六联络指导组参加并指导微电子学院“党史百年·科技故事我来讲”活动",
-      "url": "https://sme.shu.edu.cn/info/1029/1308.htm",
-      "date": "2021-04-19",
-      "column": "新闻动态"
-    },
-    {
       "title": "微电子学院学生助理招聘",
       "url": "https://sme.shu.edu.cn/info/1030/1307.htm",
       "date": "2021-04-16",
       "column": "通知公告"
-    },
-    {
-      "title": "微电子学院第二期“创芯大讲堂”主题学术讲座顺利举行",
-      "url": "https://sme.shu.edu.cn/info/1029/1304.htm",
-      "date": "2021-04-15",
-      "column": "新闻动态"
     },
     {
       "title": "“创芯大讲堂”主题学术讲座 第二期",
@@ -1860,28 +1830,10 @@
       "column": "讲座信息"
     },
     {
-      "title": "寻访红色足迹·重温百年党史——郊野定向越野",
-      "url": "https://sme.shu.edu.cn/info/1029/1282.htm",
-      "date": "2021-04-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "开辟新天地 共创芯未来——微电子学院2021年春季学期首日教育",
-      "url": "https://sme.shu.edu.cn/info/1029/1284.htm",
-      "date": "2021-04-01",
-      "column": "新闻动态"
-    },
-    {
       "title": "上海大学微电子学院2021年硕士研究生调剂说明",
       "url": "https://sme.shu.edu.cn/info/1030/1278.htm",
       "date": "2021-03-31",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学举行杨士宁博士名誉教授聘任仪式暨微纳创新中心建设研讨会",
-      "url": "https://sme.shu.edu.cn/info/1029/1277.htm",
-      "date": "2021-03-30",
-      "column": "新闻动态"
     },
     {
       "title": "微电子学院2021年硕士研究生招生调剂工作办法",
@@ -1908,46 +1860,10 @@
       "column": "通知公告"
     },
     {
-      "title": "中科院上海分院-上海大学关于微电子学院共建交流会在我校召开",
-      "url": "https://sme.shu.edu.cn/info/1029/1245.htm",
-      "date": "2021-03-02",
-      "column": "新闻动态"
-    },
-    {
-      "title": "微电子学院举行2021年本科生“凝心聚力·砥砺奋进”迎新春主题座谈会",
-      "url": "https://sme.shu.edu.cn/info/1029/1243.htm",
-      "date": "2021-01-22",
-      "column": "新闻动态"
-    },
-    {
-      "title": "微电子学院举行2020年研究生座谈会暨迎新春交流会",
-      "url": "https://sme.shu.edu.cn/info/1029/1187.htm",
-      "date": "2021-01-04",
-      "column": "新闻动态"
-    },
-    {
-      "title": "微电子学院姚镭教授团队的相关工作在IEEE Transactions on Circuits and Systems II: Express Briefs上发表",
-      "url": "https://sme.shu.edu.cn/info/1029/1182.htm",
-      "date": "2020-12-24",
-      "column": "新闻动态"
-    },
-    {
-      "title": "微电子学院本、硕、博学生共同开展“从‘芯’出发 ‘微’你而行” 2020-2021冬季学期首日教育",
-      "url": "https://sme.shu.edu.cn/info/1029/1170.htm",
-      "date": "2020-12-02",
-      "column": "新闻动态"
-    },
-    {
       "title": "“超越摩尔”系列讲座  第四期",
       "url": "https://sme.shu.edu.cn/info/1031/1165.htm",
       "date": "2020-12-02",
       "column": "讲座信息"
-    },
-    {
-      "title": "嘉定区高层次人才服务中心走访微电子学院到岗专家",
-      "url": "https://sme.shu.edu.cn/info/1029/1162.htm",
-      "date": "2020-11-27",
-      "column": "新闻动态"
     },
     {
       "title": "微电子学院举行联聘教师聘任仪式",

@@ -2,12 +2,12 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260530_224443",
-  "total_articles": 618,
+  "crawl_time": "20260527_091111",
+  "total_articles": 579,
   "columns": {
-    "焦点新闻": 372,
-    "论坛活动": 183,
-    "通知公告": 63
+    "焦点新闻": 362,
+    "论坛活动": 174,
+    "通知公告": 43
   },
   "articles": [
     {
@@ -1979,12 +1979,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "通知 | 2022级上海大学MBA联考报名全攻略",
-      "url": "https://mba.shu.edu.cn/info/1024/9544.htm",
-      "date": "2021-10-08",
-      "column": "通知公告"
-    },
-    {
       "title": "报名丨国际组织讲座+实习重磅来袭",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2113",
       "date": "2021-09-27",
@@ -2019,12 +2013,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4764",
       "date": "2021-09-24",
       "column": "焦点新闻"
-    },
-    {
-      "title": "重大通知 | 上海大学MBA2022级联考预报名攻略",
-      "url": "https://mba.shu.edu.cn/info/1024/9564.htm",
-      "date": "2021-09-24",
-      "column": "通知公告"
     },
     {
       "title": "【产业前沿·智造未来】MBA智能制造六月课程精彩放送",
@@ -2079,12 +2067,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4844",
       "date": "2021-06-22",
       "column": "焦点新闻"
-    },
-    {
-      "title": "招生动态 | 上大MBA项目宣讲会近期安排",
-      "url": "https://mba.shu.edu.cn/info/1024/9574.htm",
-      "date": "2021-06-22",
-      "column": "通知公告"
     },
     {
       "title": "百年对话，扬时代新貌—“初心之垣”红色记忆主题浮雕在我校揭幕",
@@ -2175,12 +2157,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=4914",
       "date": "2021-06-08",
       "column": "焦点新闻"
-    },
-    {
-      "title": "招生动态 | 上大MBA项目宣讲会近期安排",
-      "url": "https://mba.shu.edu.cn/info/1024/9584.htm",
-      "date": "2021-06-01",
-      "column": "通知公告"
     },
     {
       "title": "文创创新商业模式：解密《三体》、“爆款”国潮文创",
@@ -2429,12 +2405,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "上海大学MBA中心2021年复试通过名单公示",
-      "url": "https://mba.shu.edu.cn/info/1024/9604.htm",
-      "date": "2021-04-16",
-      "column": "通知公告"
-    },
-    {
       "title": "【实况记录】咻——飞盘高尔夫飞进SHU MBA",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6074",
       "date": "2021-04-12",
@@ -2561,12 +2531,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "21级上大MBA 3.27笔试报名登记中，调剂申请即将截止",
-      "url": "https://mba.shu.edu.cn/info/1024/9614.htm",
-      "date": "2021-03-24",
-      "column": "通知公告"
-    },
-    {
       "title": "考生聚焦：上海大学MBA 360°国际化之路",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6544",
       "date": "2021-03-23",
@@ -2663,18 +2627,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "重大通知 | 上大MBA接受调剂！需管理类联考170分以上！",
-      "url": "https://mba.shu.edu.cn/info/1024/9624.htm",
-      "date": "2021-03-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "重要通知 | 2021级上海大学MBA新增3月23日复试！接受调剂！",
-      "url": "https://mba.shu.edu.cn/info/1024/9644.htm",
-      "date": "2021-03-22",
-      "column": "通知公告"
-    },
-    {
       "title": "重磅推进！深耕产业，开启2021产教融合新征程",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7044",
       "date": "2021-03-21",
@@ -2691,12 +2643,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7104",
       "date": "2021-03-21",
       "column": "焦点新闻"
-    },
-    {
-      "title": "重要通知 | 上海大学MBA 2021年初试成绩查询及复核",
-      "url": "https://mba.shu.edu.cn/info/1024/9654.htm",
-      "date": "2021-03-21",
-      "column": "通知公告"
     },
     {
       "title": "新的一年，SHU MBA愿你是美好，美好是你！",
@@ -2763,18 +2709,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=7384",
       "date": "2021-02-26",
       "column": "焦点新闻"
-    },
-    {
-      "title": "2021级调剂预报名已开启（2021年入学考生）",
-      "url": "https://mba.shu.edu.cn/info/1024/9664.htm",
-      "date": "2021-02-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "招生动态 | 上海大学MBA 2021复试安排请查收",
-      "url": "https://mba.shu.edu.cn/info/1024/9674.htm",
-      "date": "2021-01-15",
-      "column": "通知公告"
     },
     {
       "title": "【央视网】孟添：打造具有影响力的MBA产学研平台",
@@ -3011,12 +2945,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "招生动态 | 上海大学MBA 2021级奖助学金最新政策深度解析",
-      "url": "https://mba.shu.edu.cn/info/1024/9684.htm",
-      "date": "2020-09-03",
-      "column": "通知公告"
-    },
-    {
       "title": "视线聚焦 | 与CFA深度合作，启动MBA金融产业方向产学研联盟",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8904",
       "date": "2020-09-02",
@@ -3101,12 +3029,6 @@
       "column": "论坛活动"
     },
     {
-      "title": "招生动态 | 上大MBA近期项目宣讲会安排",
-      "url": "https://mba.shu.edu.cn/info/1024/9704.htm",
-      "date": "2020-07-16",
-      "column": "通知公告"
-    },
-    {
       "title": "【搜狐】视线聚焦 | 上大工商管理学科跻身软科世界一流学科排名Top 400！",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2864",
       "date": "2020-07-10",
@@ -3131,12 +3053,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "重大通知 | 上大MBA 2021级第二批预面试7月4日进行!",
-      "url": "https://mba.shu.edu.cn/info/1024/9714.htm",
-      "date": "2020-06-28",
-      "column": "通知公告"
-    },
-    {
       "title": "通知 | 上大MBA 2021级第三批预面试申请即将截止！",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=8384",
       "date": "2020-06-17",
@@ -3159,12 +3075,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=2894",
       "date": "2020-05-24",
       "column": "焦点新闻"
-    },
-    {
-      "title": "招生动态 | 政策解读，不容错过：上大MBA招生宣讲会安排",
-      "url": "https://mba.shu.edu.cn/info/1024/9744.htm",
-      "date": "2020-04-23",
-      "column": "通知公告"
     },
     {
       "title": "从德鲁克思想出发，拓宽创新创业思路 | MBA课程分享之:《商业模式创新》(BMI and ETM)",
@@ -3197,12 +3107,6 @@
       "column": "论坛活动"
     },
     {
-      "title": "上海大学MBA线上招生宣讲会安排",
-      "url": "https://mba.shu.edu.cn/info/1024/9764.htm",
-      "date": "2020-03-18",
-      "column": "通知公告"
-    },
-    {
       "title": "学生说丨上大MBA海外学习-机不可失之星月国土耳其",
       "url": "https://mba.shu.edu.cn/info/1025/7154.htm",
       "date": "2020-03-11",
@@ -3213,30 +3117,6 @@
       "url": "https://mba.shu.edu.cn/info/1025/7264.htm",
       "date": "2020-03-02",
       "column": "论坛活动"
-    },
-    {
-      "title": "上海大学MBA 2020级调剂已开放报名！",
-      "url": "https://mba.shu.edu.cn/info/1024/9784.htm",
-      "date": "2020-02-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "重大通知 | 上海大学MBA 2020年 复试报名开始！  发布时间：2020-02-25 21:57:24 阅读量：16343",
-      "url": "https://mba.shu.edu.cn/info/1024/9794.htm",
-      "date": "2020-02-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "招生动态 | 上大MBA官方调剂直播说明会即将开启！！",
-      "url": "https://mba.shu.edu.cn/info/1024/9804.htm",
-      "date": "2020-02-19",
-      "column": "通知公告"
-    },
-    {
-      "title": "招生动态 | 出分啦！上海大学MBA2020年初试成绩查询及复核通知",
-      "url": "https://mba.shu.edu.cn/info/1024/9814.htm",
-      "date": "2020-02-19",
-      "column": "通知公告"
     },
     {
       "title": "通知 | 上大MBA官方调剂说明会直播时间更改通知",
@@ -3437,24 +3317,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "愿大家节后攀新高 | 上大MBA Weekly News Letter（6.15）",
-      "url": "https://mba.shu.edu.cn/info/1025/7954.htm",
-      "date": "2019-06-15",
-      "column": "论坛活动"
-    },
-    {
-      "title": "618来袭，\"剁手\"需谨慎 |SHU MBA本周课程、活动预告",
-      "url": "https://mba.shu.edu.cn/info/1025/7964.htm",
-      "date": "2019-06-15",
-      "column": "论坛活动"
-    },
-    {
-      "title": "高温天气，注意防暑 | 上大MBA Weekly News Letter（6.5）",
-      "url": "https://mba.shu.edu.cn/info/1025/7944.htm",
-      "date": "2019-06-11",
-      "column": "论坛活动"
-    },
-    {
       "title": "SHU MBA带你开启星月国商业学习之旅 | SHU MBA土耳其学习之旅实记（第一天）",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6144",
       "date": "2019-06-06",
@@ -3471,12 +3333,6 @@
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3224",
       "date": "2019-05-31",
       "column": "焦点新闻"
-    },
-    {
-      "title": "童心未泯过六一 | SHU MBA课程预告",
-      "url": "https://mba.shu.edu.cn/info/1025/7934.htm",
-      "date": "2019-05-31",
-      "column": "论坛活动"
     },
     {
       "title": "SHU MBA焦点新闻 | SHU MBA 2019年度第二期师资研讨会圆满举行",
@@ -3497,68 +3353,14 @@
       "column": "焦点新闻"
     },
     {
-      "title": "向自然学习，于深处探寻 | SHU MBA全面发展大讲堂（268场），跨学科讲堂（第14场）顺利举行",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=6034",
-      "date": "2019-05-22",
-      "column": "焦点新闻"
-    },
-    {
-      "title": "Enjoy your life! | 上大MBA Weekly News Letter（5.22）",
-      "url": "https://mba.shu.edu.cn/info/1025/7924.htm",
-      "date": "2019-05-22",
-      "column": "论坛活动"
-    },
-    {
-      "title": "抓住春天的尾巴 | 上大MBA Weekly News Letter（5.16）",
-      "url": "https://mba.shu.edu.cn/info/1025/7894.htm",
-      "date": "2019-05-17",
-      "column": "论坛活动"
-    },
-    {
-      "title": "对SHU MBA说爱你！| SHU MBA本周活动预告",
-      "url": "https://mba.shu.edu.cn/info/1025/7904.htm",
-      "date": "2019-05-17",
-      "column": "论坛活动"
-    },
-    {
-      "title": "对SHU MBA说爱你！| SHU MBA本周活动预告",
-      "url": "https://mba.shu.edu.cn/info/1025/7914.htm",
-      "date": "2019-05-17",
-      "column": "论坛活动"
-    },
-    {
       "title": "招生动态 | 政策解读，不容错过：上大MBA招生宣讲会安排",
       "url": "https://mba.shu.edu.cn/info/1024/9734.htm",
       "date": "2019-05-15",
       "column": "通知公告"
     },
     {
-      "title": "上海大学MBA实践课堂：大师带您穿越市场营销实战的战火硝烟",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3234",
-      "date": "2019-05-10",
-      "column": "焦点新闻"
-    },
-    {
-      "title": "洞察监管视角——上市公司的会计准则及财务监管 | 上海大学MBA知智融合大讲堂（第267场），产教融合系列（第5场）举行在即",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3244",
-      "date": "2019-05-10",
-      "column": "焦点新闻"
-    },
-    {
-      "title": "【不念过往，不惧将来】上海大学MBA沙8战队“木兰飞戈队”完赛归来",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3254",
-      "date": "2019-05-10",
-      "column": "焦点新闻"
-    },
-    {
       "title": "感恩母亲节 | SHU MBA课程、活动预告",
       "url": "https://mba.shu.edu.cn/info/1025/7874.htm",
-      "date": "2019-05-10",
-      "column": "论坛活动"
-    },
-    {
-      "title": "感恩母亲节 | SHU MBA课程、活动预告",
-      "url": "https://mba.shu.edu.cn/info/1025/7884.htm",
       "date": "2019-05-10",
       "column": "论坛活动"
     },
@@ -3569,22 +3371,10 @@
       "column": "论坛活动"
     },
     {
-      "title": "【不念过往，不惧将来】上海大学MBA沙8战队“木兰飞戈队”完赛归来",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5994",
-      "date": "2019-05-08",
-      "column": "焦点新闻"
-    },
-    {
       "title": "“霭霭芳春朝，雪絮起青条” | 上大MBA Weekly News Letter（4.25）",
       "url": "https://mba.shu.edu.cn/info/1025/7854.htm",
       "date": "2019-04-25",
       "column": "论坛活动"
-    },
-    {
-      "title": "迈出国际化重要一步！| SHU MBA南美洲项目首次官方视频工作会议成功开展",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=9974",
-      "date": "2019-04-19",
-      "column": "焦点新闻"
     },
     {
       "title": "四月，播种希望 | 上大MBA Weekly News Letter",
@@ -3603,18 +3393,6 @@
       "url": "https://mba.shu.edu.cn/info/1025/8274.htm",
       "date": "2019-04-16",
       "column": "论坛活动"
-    },
-    {
-      "title": "【MBA中国网讯】上海大学 MBA2019 年工商管理硕士（全日制/非全日制）招生简章",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3264",
-      "date": "2019-02-19",
-      "column": "焦点新闻"
-    },
-    {
-      "title": "【MBA中国网讯】上大MBA每周新闻快讯——精彩活动开启19新征程",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=3274",
-      "date": "2019-02-19",
-      "column": "焦点新闻"
     },
     {
       "title": "上海大学MBA项目2019级调剂与复试通知-2019年考生必看！",
@@ -3637,18 +3415,6 @@
     {
       "title": "知识、美景入人心——SHU MBA香港商务学习之旅实记（第三天）",
       "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5874",
-      "date": "2019-02-15",
-      "column": "焦点新闻"
-    },
-    {
-      "title": "名师畅谈人力资源管理与商务礼仪规范——SHU MBA香港商务学习之旅实记（第四天）",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=5894",
-      "date": "2019-02-15",
-      "column": "焦点新闻"
-    },
-    {
-      "title": "【MBA中国网讯】上海大学MBA项目2019级调剂与复试通知",
-      "url": "https://mba.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1021&wbnewsid=9924",
       "date": "2019-02-15",
       "column": "焦点新闻"
     },

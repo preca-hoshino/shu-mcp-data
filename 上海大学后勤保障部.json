@@ -2,11 +2,11 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260530_224443",
-  "total_articles": 457,
+  "crawl_time": "20260528_053003",
+  "total_articles": 434,
   "columns": {
-    "后勤新闻": 319,
-    "通知公告": 138
+    "后勤新闻": 316,
+    "通知公告": 118
   },
   "articles": [
     {
@@ -2332,60 +2332,6 @@
       "column": "后勤新闻"
     },
     {
-      "title": "宝山校区5月9日、15日和16日停电通知",
-      "url": "https://hbb.shu.edu.cn/info/1005/1454.htm",
-      "date": "2021-05-07",
-      "column": "通知公告"
-    },
-    {
-      "title": "后勤保障部2021年五一假期放假安排",
-      "url": "https://mp.weixin.qq.com/s/lsCjTbDOkSjkcee30W0EaQ",
-      "date": "2021-05-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "第二届全国节约用水知识大赛简介",
-      "url": "https://mp.weixin.qq.com/s/dRhgEWO2OMCUyf2X0TU8kg",
-      "date": "2021-04-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "宝山校区5月2日停水通知",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247489146&idx=3&sn=4210de22ff43a4cb9720ddbebd4d880a&chksm=ea2e7ededd59f7c8fbf7a49851034bfe636907b7652bfa41bd3357a752c0c87786ee4d0d5df8&token=1606821404&lang=zh_CN#rd",
-      "date": "2021-04-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "后勤保障部推荐上海大学优秀共产党员、优秀党务工作者和先进基层党组织公示名单",
-      "url": "https://hbb.shu.edu.cn/info/1005/1433.htm",
-      "date": "2021-04-26",
-      "column": "通知公告"
-    },
-    {
-      "title": "饮服中心食堂周末营业安排（2021年4月24日 周六）",
-      "url": "https://hbb.shu.edu.cn/info/1005/1421.htm",
-      "date": "2021-04-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "饮服中心食堂周末营业安排（2021年4月17日—4月18日）",
-      "url": "https://mp.weixin.qq.com/s/JYRSr2XwaC2EA_PuTZl-cw",
-      "date": "2021-04-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "宝山校区西门汇丰路施工通知",
-      "url": "https://mp.weixin.qq.com/s/seHvP8J8z5s0Vh1CZX4KGQ",
-      "date": "2021-04-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "宝山校区停电通知",
-      "url": "https://mp.weixin.qq.com/s/GGhiPDK95Y7j9bYLyZsSLg",
-      "date": "2021-04-15",
-      "column": "通知公告"
-    },
-    {
       "title": "【党史学习】总务办第二党支部开展“追忆党史校史 重温入党誓词”主题党日活动",
       "url": "https://mp.weixin.qq.com/s/cObtRWhTme1sivmxqd1Zww",
       "date": "2021-04-15",
@@ -2404,28 +2350,10 @@
       "column": "后勤新闻"
     },
     {
-      "title": "关于“两优一先”推荐人选的公示",
-      "url": "https://hbb.shu.edu.cn/info/1005/1394.htm",
-      "date": "2021-04-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于在全校开展第33个爱国卫生月活动的通知",
-      "url": "https://mp.weixin.qq.com/s/-WQxdNnvtAIs3VH59xJe_Q",
-      "date": "2021-04-12",
-      "column": "通知公告"
-    },
-    {
       "title": "铭记英烈 矢志传承——后勤保障部各党支部组织开展“清明祭英烈”活动",
       "url": "https://mp.weixin.qq.com/s/6mJaY_IaG5tzZ9Lf157M4g",
       "date": "2021-04-12",
       "column": "后勤新闻"
-    },
-    {
-      "title": "饮服中心食堂周末营业安排（2021年4月10日—4月11日）",
-      "url": "https://mp.weixin.qq.com/s/qMgoo2QC5ApX2yTks3g4ZA",
-      "date": "2021-04-12",
-      "column": "通知公告"
     },
     {
       "title": "“学党史 守初心 办实事” ——打卡生活园区实事“5+N”，我们在行动！",
@@ -2438,18 +2366,6 @@
       "url": "https://mp.weixin.qq.com/s/T9EVfsSrb4hL99ij7lA01g",
       "date": "2021-04-02",
       "column": "后勤新闻"
-    },
-    {
-      "title": "后勤保障部2021年清明节放假安排",
-      "url": "https://mp.weixin.qq.com/s/hQSzsl6Xls6xqy38NaIduA",
-      "date": "2021-04-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "饮服中心食堂周末营业安排",
-      "url": "https://mp.weixin.qq.com/s/ycBm2rHcmvs_y8WGAsu__w",
-      "date": "2021-03-26",
-      "column": "通知公告"
     },
     {
       "title": "见贤思齐 楷模引领——后勤保障部开展党员教育活动",
@@ -2534,60 +2450,6 @@
       "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
       "date": "2021-03-01",
       "column": "后勤新闻"
-    },
-    {
-      "title": "关于2020-2021学年寒假留校学生住宿安排的通知",
-      "url": "https://mp.weixin.qq.com/s/eFceUyEdedVR46ucj-qD9Q",
-      "date": "2021-01-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "后勤保障部各单位2020-2021年度寒假期间工作安排",
-      "url": "https://mp.weixin.qq.com/s/77ZktoqHbAq1MzoJN3MrBQ",
-      "date": "2021-01-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "后勤保障部员工离沪和留校的注意事项",
-      "url": "https://mp.weixin.qq.com/s/xtAgsKwovWd54Jh9H6TuMw",
-      "date": "2021-01-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "延长校区1月23日停电通知",
-      "url": "https://mp.weixin.qq.com/s/HxE2LrVq02IC0U-EE0S2rw",
-      "date": "2021-01-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "查隐患，保安全——上海大学学生社区冬季安全检查顺利开展",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488365&idx=2&sn=56b1b127d1ac8a336474c7a875900c70&chksm=ea2e7bc9dd59f2df3b1297466c84627660366cc17c1cf519bc3fa6b4a2b292e92f890ffa04cb&token=1976710052&lang=zh_CN#rd",
-      "date": "2021-01-05",
-      "column": "后勤新闻"
-    },
-    {
-      "title": "“多元”相聚 提升服务——公寓办管理与服务座谈会顺利召开",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488365&idx=3&sn=18963b11d42cd9c2cb30024946e8bca9&chksm=ea2e7bc9dd59f2df748a1a6426bbef4629b33a4c038c3769908804bcf8cc6b14055183d1ba62&token=1976710052&lang=zh_CN#rd",
-      "date": "2021-01-05",
-      "column": "后勤新闻"
-    },
-    {
-      "title": "寒潮来袭，上大饮服多措并举保供餐",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&tempkey=MTA5NF92WUJCM203ck5rM3dHd0RnZmp5UjV6blpzb0FBYVZOeEtHai05QjdpUWpPTmh4UnVhbWRWMjJmM256NG5kTWlDbzBIUkd6bHE0M2Y1SnhPbEQ5SzdBRFJodGU4YjhQXzR1TTVsTldHbGwxaHEyNGJ0N1RKT1J4a2VrNFI4X0NvZ2dPVXVGZGJnaHFqMVJBc",
-      "date": "2021-01-04",
-      "column": "后勤新闻"
-    },
-    {
-      "title": "上大后勤向你发送一份元旦放假安排表",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488320&idx=2&sn=a4d367a9000ca94e5346026bc05df7aa&chksm=ea2e7be4dd59f2f2e0296224575089c7df4d048695f5032041f77c22e00dc862c83bd88eb1b6&token=1922560149&lang=zh_CN#rd",
-      "date": "2020-12-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "寒潮“突袭”！上大师生请注意……",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488287&idx=1&sn=62a0bf8bcfd5e2228ba124a1502a3b61&chksm=ea2e7bbbdd59f2ad68ba7e9ced609433e0c3d2bbb27644472d99de0c2078b9afa28845d7461a&token=1922560149&lang=zh_CN#rd",
-      "date": "2020-12-30",
-      "column": "通知公告"
     },
     {
       "title": "嘉定饮服邀请校工会开展会员权益专题讲座",

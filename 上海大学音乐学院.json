@@ -2,12 +2,12 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260530_224443",
-  "total_articles": 171,
+  "crawl_time": "20260514_004804",
+  "total_articles": 141,
   "columns": {
-    "学院新闻": 44,
-    "热点新闻": 100,
-    "通知公告": 27
+    "通知公告": 27,
+    "学院新闻": 24,
+    "热点新闻": 90
   },
   "articles": [
     {
@@ -713,60 +713,6 @@
       "column": "热点新闻"
     },
     {
-      "title": "民族音乐的使者，文化交流的纽带——上海大学艺术团赴巴林教育部演出圆满成功",
-      "url": "https://music.shu.edu.cn/info/1173/3493.htm",
-      "date": "2014-04-17",
-      "column": "热点新闻"
-    },
-    {
-      "title": "丝路新语，声动中东—巴林大学孔子学院揭牌仪式音乐会隆重举行",
-      "url": "https://music.shu.edu.cn/info/1173/3492.htm",
-      "date": "2014-04-16",
-      "column": "热点新闻"
-    },
-    {
-      "title": "音乐学院举办首场“音乐素质教育课程——音乐会系列(一)：‘校园艺术家’吕抒雁中提琴专场音乐会”",
-      "url": "https://music.shu.edu.cn/info/1173/3491.htm",
-      "date": "2014-04-06",
-      "column": "热点新闻"
-    },
-    {
-      "title": "上海大学音乐学院即将推出“音乐素质教育课程——音乐会系列”",
-      "url": "https://music.shu.edu.cn/info/1173/3738.htm",
-      "date": "2014-04-02",
-      "column": "热点新闻"
-    },
-    {
-      "title": "上海大学艺术团赴上海市人民广场地铁音乐角普及高雅音乐",
-      "url": "https://music.shu.edu.cn/info/1173/3737.htm",
-      "date": "2014-03-24",
-      "column": "热点新闻"
-    },
-    {
-      "title": "上海大学民族乐团亮相上海大学生新春音乐会",
-      "url": "https://music.shu.edu.cn/info/1173/3736.htm",
-      "date": "2014-03-20",
-      "column": "热点新闻"
-    },
-    {
-      "title": "院校对接献爱心 共谱和谐新乐章",
-      "url": "https://music.shu.edu.cn/info/1173/3490.htm",
-      "date": "2014-03-06",
-      "column": "热点新闻"
-    },
-    {
-      "title": "上海大学音乐学院成功举办理论组教师系列讲座",
-      "url": "https://music.shu.edu.cn/info/1173/3735.htm",
-      "date": "2014-02-24",
-      "column": "热点新闻"
-    },
-    {
-      "title": "2014年“泮池之声”新年音乐会幕后的故事之工作人员篇",
-      "url": "https://music.shu.edu.cn/info/1173/3734.htm",
-      "date": "2013-12-28",
-      "column": "热点新闻"
-    },
-    {
       "title": "2014年“泮池之声”新年音乐会演出幕后的故事之手风琴、二胡和琵琶三重奏《母亲》篇",
       "url": "https://music.shu.edu.cn/info/1173/3487.htm",
       "date": "2013-12-24",
@@ -775,12 +721,6 @@
     {
       "title": "2014年“泮池之声”新年音乐会演出幕后的故事之女声独唱《上大——遇到你是我的缘》篇",
       "url": "https://music.shu.edu.cn/info/1173/3488.htm",
-      "date": "2013-12-24",
-      "column": "热点新闻"
-    },
-    {
-      "title": "2014年“泮池之声”新年音乐会演出幕后的故事之男声二重唱《呼伦贝尔大草原》篇",
-      "url": "https://music.shu.edu.cn/info/1173/3489.htm",
       "date": "2013-12-24",
       "column": "热点新闻"
     },
@@ -815,46 +755,16 @@
       "column": "热点新闻"
     },
     {
-      "title": "上海大学音乐学院2013-2014学年冬季学期毕业生首日教育顺利开展",
-      "url": "https://music.shu.edu.cn/info/1174/3792.htm",
-      "date": "2013-12-04",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学管乐团参演“高雅艺术进校园”上海音乐学院交响管乐团上海大学专场演出",
-      "url": "https://music.shu.edu.cn/info/1174/3791.htm",
-      "date": "2013-12-03",
-      "column": "学院新闻"
-    },
-    {
       "title": "Sara Davis Buechner女士钢琴独奏音乐会成功举办",
       "url": "https://music.shu.edu.cn/info/1173/3482.htm",
       "date": "2013-12-02",
       "column": "热点新闻"
     },
     {
-      "title": "Sara Davis Buechner女士为我校钢琴协会同学教授大师班",
-      "url": "https://music.shu.edu.cn/info/1174/3790.htm",
-      "date": "2013-12-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "\"Take your time!”记于Buechner女士钢琴独奏音乐会后有感",
-      "url": "https://music.shu.edu.cn/info/1174/3861.htm",
-      "date": "2013-12-02",
-      "column": "学院新闻"
-    },
-    {
       "title": "上海音乐学院交响管乐团在我校成功举办专场演出",
       "url": "https://music.shu.edu.cn/info/1173/3481.htm",
       "date": "2013-11-28",
       "column": "热点新闻"
-    },
-    {
-      "title": "音乐学院13级研究生张冉冉等入围“第二届上海大学生原创音乐大赛”半决赛",
-      "url": "https://music.shu.edu.cn/info/1174/3789.htm",
-      "date": "2013-11-27",
-      "column": "学院新闻"
     },
     {
       "title": "MAP计划高校巡演--长笛重奏音乐会",
@@ -875,36 +785,6 @@
       "column": "热点新闻"
     },
     {
-      "title": "土耳其传统专场音乐会走进社区学院",
-      "url": "https://music.shu.edu.cn/info/1174/3788.htm",
-      "date": "2013-11-22",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学音乐学院代表团访问美国肯塔基大学之行有感之二",
-      "url": "https://music.shu.edu.cn/info/1174/3859.htm",
-      "date": "2013-11-22",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学音乐学院首届分工会委员会选举大会暨第四届“双代会”代表选举大会召开",
-      "url": "https://music.shu.edu.cn/info/1174/3787.htm",
-      "date": "2013-11-21",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学音乐学院2013年度专题民主生活会召开",
-      "url": "https://music.shu.edu.cn/info/1174/3857.htm",
-      "date": "2013-11-20",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学音乐学院代表团访问美国肯塔基大学之行有感之一",
-      "url": "https://music.shu.edu.cn/info/1174/3786.htm",
-      "date": "2013-11-18",
-      "column": "学院新闻"
-    },
-    {
       "title": "上海大学音乐学院领导与美国肯塔基大学艺术学院就两院合作进行洽谈",
       "url": "https://music.shu.edu.cn/info/1173/3477.htm",
       "date": "2013-11-14",
@@ -917,46 +797,16 @@
       "column": "热点新闻"
     },
     {
-      "title": "上海大学音乐学院领导与美国肯塔基大学艺术学院就两院合作进行洽谈",
-      "url": "https://music.shu.edu.cn/info/1174/3785.htm",
-      "date": "2013-11-14",
-      "column": "学院新闻"
-    },
-    {
-      "title": "美哉----东之韵兮西之魅----美国肯塔基大学孔子学院3周年纪念音乐会隆重举行",
-      "url": "https://music.shu.edu.cn/info/1174/3855.htm",
-      "date": "2013-11-14",
-      "column": "学院新闻"
-    },
-    {
-      "title": "上海大学音乐学院举行通识课程评审会议",
-      "url": "https://music.shu.edu.cn/info/1174/3853.htm",
-      "date": "2013-11-04",
-      "column": "学院新闻"
-    },
-    {
       "title": "李岚清同志上海大学“走进经典音乐”专题讲座背后的故事",
       "url": "https://music.shu.edu.cn/info/1173/3731.htm",
       "date": "2013-11-01",
       "column": "热点新闻"
     },
     {
-      "title": "李岚清同志上海大学“走进经典音乐”专题讲座背后的故事",
-      "url": "https://music.shu.edu.cn/info/1174/3851.htm",
-      "date": "2013-11-01",
-      "column": "学院新闻"
-    },
-    {
       "title": "高雅艺术进校园之“满天星”交响乐团上海大学音乐沙龙幕后故事",
       "url": "https://music.shu.edu.cn/info/1173/3730.htm",
       "date": "2013-10-30",
       "column": "热点新闻"
-    },
-    {
-      "title": "高雅艺术进校园之“满天星”交响乐团上海大学音乐沙龙幕后故事",
-      "url": "https://music.shu.edu.cn/info/1174/3849.htm",
-      "date": "2013-10-30",
-      "column": "学院新闻"
     },
     {
       "title": "上海大剧院艺术课堂特别活动《尼伯龙根的指环》专题讲座将走入上海大学",
@@ -971,46 +821,16 @@
       "column": "热点新闻"
     },
     {
-      "title": "上海大学第十届运动会盛大开幕",
-      "url": "https://music.shu.edu.cn/info/1174/3784.htm",
-      "date": "2013-10-29",
-      "column": "学院新闻"
-    },
-    {
       "title": "“我爱小提琴”夏小曹副院长携二十名上海大学同学与以色列小提琴大师Mintz同台演出",
       "url": "https://music.shu.edu.cn/info/1173/3474.htm",
       "date": "2013-10-28",
       "column": "热点新闻"
     },
     {
-      "title": "我校李建林教授荣获“第三届全国高校音乐专业声乐比赛”教师组美声唱法一等奖",
-      "url": "https://music.shu.edu.cn/info/1174/3782.htm",
-      "date": "2013-10-28",
-      "column": "学院新闻"
-    },
-    {
-      "title": "“我爱小提琴”夏小曹副院长携二十名上海大学同学与以色列小提琴大师Mintz同台演出",
-      "url": "https://music.shu.edu.cn/info/1174/3783.htm",
-      "date": "2013-10-28",
-      "column": "学院新闻"
-    },
-    {
       "title": "澳门交响乐团联合上海学生交响乐团将在我校演出《贝多芬专场交响音乐会》",
       "url": "https://music.shu.edu.cn/info/1173/3473.htm",
       "date": "2013-10-24",
       "column": "热点新闻"
-    },
-    {
-      "title": "音乐学院王力舟同学的科研项目入选2013年度“国家创新创业训练计划”项目",
-      "url": "https://music.shu.edu.cn/info/1174/3847.htm",
-      "date": "2013-10-24",
-      "column": "学院新闻"
-    },
-    {
-      "title": "音乐学院师生共庆教师节",
-      "url": "https://music.shu.edu.cn/info/1174/3781.htm",
-      "date": "2013-09-10",
-      "column": "学院新闻"
     },
     {
       "title": "我校王思思老师荣获第五届全国高校声乐比赛教师组民族唱法金奖",

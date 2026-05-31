@@ -2,12 +2,12 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260530_224443",
-  "total_articles": 145,
+  "crawl_time": "20260529_091248",
+  "total_articles": 122,
   "columns": {
     "文明创建": 33,
-    "文明实践": 66,
-    "校园动态": 46
+    "文明实践": 55,
+    "校园动态": 34
   },
   "articles": [
     {
@@ -539,30 +539,6 @@
       "column": "文明创建"
     },
     {
-      "title": "上大男排勇夺上海市第十六届运动会排球比赛冠军",
-      "url": "http://news.shu.edu.cn/info/1012/48843.htm",
-      "date": "2018-10-26",
-      "column": "文明实践"
-    },
-    {
-      "title": "我校在“首届高校创新创业创造教育精品成果展”决赛中斩获佳绩",
-      "url": "http://news.shu.edu.cn/info/1012/48826.htm",
-      "date": "2018-10-25",
-      "column": "文明实践"
-    },
-    {
-      "title": "体验航运文化 感知中国魅力——上海大学国际学生参加中国国际...",
-      "url": "http://news.shu.edu.cn/info/1012/48740.htm",
-      "date": "2018-10-23",
-      "column": "文明实践"
-    },
-    {
-      "title": "机自学院第十届科技节开幕式成功举办",
-      "url": "http://news.shu.edu.cn/info/1012/48759.htm",
-      "date": "2018-10-23",
-      "column": "文明实践"
-    },
-    {
       "title": "2017-2018“感动上大”系列评选推荐表",
       "url": "https://wmzx.shu.edu.cn/info/1015/1240.htm",
       "date": "2018-10-16",
@@ -575,70 +551,10 @@
       "column": "文明创建"
     },
     {
-      "title": "我校学子在上海第十六届运动会网球比赛（高校组乙组）中获得1...",
-      "url": "http://news.shu.edu.cn/info/1012/48636.htm",
-      "date": "2018-10-11",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学2018年送兵大会顺利举行",
-      "url": "http://news.shu.edu.cn/info/1012/48437.htm",
-      "date": "2018-09-19",
-      "column": "文明实践"
-    },
-    {
-      "title": "我校学生创新创业项目《御宽》获得第八届全国大学生“创新、...",
-      "url": "http://news.shu.edu.cn/info/1012/48249.htm",
-      "date": "2018-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "我校为赴西藏日喀则地区就业毕业生送行",
-      "url": "http://news.shu.edu.cn/info/1012/48241.htm",
-      "date": "2018-07-30",
-      "column": "文明实践"
-    },
-    {
-      "title": "化工学子在2018上海市大学生化工实验大赛中喜获佳绩",
-      "url": "http://news.shu.edu.cn/info/1012/48011.htm",
-      "date": "2018-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学社区学院2018级导生培训会顺利举办",
-      "url": "http://news.shu.edu.cn/info/1012/48028.htm",
-      "date": "2018-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海市高校禁毒宣传活动在上海大学举行",
-      "url": "http://news.shu.edu.cn/info/1021/48022.htm",
-      "date": "2018-06-28",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学2018届本科生毕业典礼隆重举行",
-      "url": "http://news.shu.edu.cn/info/1021/47992.htm",
-      "date": "2018-06-25",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海电影学院举行“点亮中国——马克思主义的传播与中国共产...",
-      "url": "https://wmzx.shu.edu.cn/info/1014/1051.htm",
-      "date": "2018-06-15",
-      "column": "文明实践"
-    },
-    {
       "title": "我校运动员在首届市大学生田径“联盟杯”赛上取得优异成绩",
       "url": "https://wmzx.shu.edu.cn/info/1014/1047.htm",
       "date": "2018-06-13",
       "column": "文明实践"
-    },
-    {
-      "title": "上海大学法学院文学国院长签约聘任仪式举行",
-      "url": "http://news.shu.edu.cn/info/1021/47854.htm",
-      "date": "2018-06-07",
-      "column": "校园动态"
     },
     {
       "title": "我校中外学子在“新时代•中国梦•我的故事”上海市大学生主...",
@@ -647,22 +563,10 @@
       "column": "文明实践"
     },
     {
-      "title": "上海高校贯彻落实教育部41号令工作座谈会在我校召开",
-      "url": "http://news.shu.edu.cn/info/1021/47758.htm",
-      "date": "2018-05-29",
-      "column": "校园动态"
-    },
-    {
       "title": "我校在“创青春”上海市大学生创业大赛中首次捧得优胜杯",
       "url": "http://news.shu.edu.cn/info/1021/47520.htm",
       "date": "2018-05-14",
-      "column": "校园动态"
-    },
-    {
-      "title": "创新创业学院举行首批上海大学创客空间、创新工作室授牌仪式",
-      "url": "http://news.shu.edu.cn/info/1021/47331.htm",
-      "date": "2018-04-25",
-      "column": "校园动态"
+      "column": "文明实践"
     },
     {
       "title": "上海大学机关文明部处（室）考核评估实施条例",
@@ -671,58 +575,16 @@
       "column": "文明创建"
     },
     {
-      "title": "上海大学2018年高水平运动员招生测试工作顺利开展",
-      "url": "http://news.shu.edu.cn/info/1012/46763.htm",
-      "date": "2018-03-06",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海市欧美同学会上海大学分会召开新春茶话会",
-      "url": "http://news.shu.edu.cn/info/1012/46764.htm",
-      "date": "2018-03-05",
-      "column": "校园动态"
-    },
-    {
       "title": "上海大学“精神文明建设好项目”评比办法",
       "url": "https://wmzx.shu.edu.cn/info/1015/1060.htm",
       "date": "2018-03-05",
       "column": "文明创建"
     },
     {
-      "title": "上海大学上海美术学院招生考试顺利举行",
-      "url": "http://news.shu.edu.cn/info/1021/46741.htm",
-      "date": "2018-02-27",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学国家重点实验室任忠鸣教授团队获批国家“两机”重大...",
-      "url": "http://news.shu.edu.cn/info/1021/46728.htm",
-      "date": "2018-02-12",
-      "column": "校园动态"
-    },
-    {
       "title": "上海大学“校园文化建设品牌”评比办法",
       "url": "https://wmzx.shu.edu.cn/info/1015/1061.htm",
       "date": "2018-02-06",
       "column": "文明创建"
-    },
-    {
-      "title": "“不忘初心 逐梦前行”2018年上海大学校友新春联谊会隆重举行",
-      "url": "http://news.shu.edu.cn/info/1021/46670.htm",
-      "date": "2018-01-30",
-      "column": "校园动态"
-    },
-    {
-      "title": "关于上海大学第四届校园文化建设品牌项目的公示",
-      "url": "https://wmzx.shu.edu.cn/info/1011/1096.htm",
-      "date": "2018-01-29",
-      "column": "校园动态"
-    },
-    {
-      "title": "关于开展上海大学第四届校园文化品牌网上投票评选的通知",
-      "url": "http://news.shu.edu.cn/info/1014/46485.htm",
-      "date": "2018-01-16",
-      "column": "校园动态"
     },
     {
       "title": "上海大学精神文明共建“最佳结对单位”评比办法",

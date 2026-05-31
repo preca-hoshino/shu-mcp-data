@@ -2,11 +2,11 @@
   "domain": "sustp.shu.edu.cn",
   "department": "上海大学科技园区",
   "type": "09",
-  "crawl_time": "20260530_224443",
-  "total_articles": 50,
+  "crawl_time": "20260514_004804",
+  "total_articles": 40,
   "columns": {
+    "新闻资讯": 30,
     "公告": 8,
-    "新闻资讯": 40,
     "通知": 2
   },
   "articles": [
@@ -227,64 +227,10 @@
       "column": "新闻资讯"
     },
     {
-      "title": "科创之花和浪漫樱花齐放，宝山推进环上大科技园建设",
-      "url": "https://sustp.shu.edu.cn/info/1004/3962.htm",
-      "date": "2021-03-29",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "环上大科技园建设领导小组第二次会议召开",
-      "url": "https://sustp.shu.edu.cn/info/1004/3951.htm",
-      "date": "2021-01-22",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "2021年高新技术企业认定培训简讯",
-      "url": "https://sustp.shu.edu.cn/info/1004/3943.htm",
-      "date": "2021-01-21",
-      "column": "新闻资讯"
-    },
-    {
       "title": "企业经营异常状态下，申请注销、移出怎么办？总局答复了！",
       "url": "https://sustp.shu.edu.cn/info/1123/3942.htm",
       "date": "2021-01-21",
       "column": "公告"
-    },
-    {
-      "title": "“未来合伙人”创业项目路演活动顺利开展",
-      "url": "https://sustp.shu.edu.cn/info/1004/3931.htm",
-      "date": "2020-12-28",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "宝山环上大科技园项目推介路演举行",
-      "url": "https://sustp.shu.edu.cn/info/1004/3911.htm",
-      "date": "2020-11-23",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "硕果累累，再创佳绩——我校斩获第22届中国国际工业博览会多个奖项",
-      "url": "https://sustp.shu.edu.cn/info/1004/3901.htm",
-      "date": "2020-09-21",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "零距离感受“硬核”科技，上大学子工博会科创之旅",
-      "url": "https://sustp.shu.edu.cn/info/1004/3902.htm",
-      "date": "2020-09-21",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "创新科技赋能产业新发展——上海大学最新科技成果亮相第22届工博会",
-      "url": "https://sustp.shu.edu.cn/info/1004/3892.htm",
-      "date": "2020-09-16",
-      "column": "新闻资讯"
-    },
-    {
-      "title": "第22届中国国际工业博览会开幕在即，上海大学展区精彩亮点抢先看！",
-      "url": "https://sustp.shu.edu.cn/info/1004/3885.htm",
-      "date": "2020-09-12",
-      "column": "新闻资讯"
     },
     {
       "title": "关于第22届中国国际工业博览会预约通知",
@@ -297,12 +243,6 @@
       "url": "https://sustp.shu.edu.cn/info/1123/3866.htm",
       "date": "2020-08-30",
       "column": "公告"
-    },
-    {
-      "title": "宝山区和上海大学共建环上大科技园",
-      "url": "https://sustp.shu.edu.cn/info/1004/3819.htm",
-      "date": "2020-06-22",
-      "column": "新闻资讯"
     },
     {
       "title": "关于征集“第22届中国国际工业博览会”参展项目的通知",

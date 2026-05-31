@@ -2,13 +2,13 @@
   "domain": "mae.shu.edu.cn",
   "department": "上海大学机电工程与自动化学院机械自动化工程系",
   "type": "06",
-  "crawl_time": "20260530_224443",
-  "total_articles": 160,
+  "crawl_time": "20260514_004804",
+  "total_articles": 130,
   "columns": {
+    "综合新闻": 29,
+    "通知公告": 28,
     "师生园地": 47,
-    "教研动态": 26,
-    "综合新闻": 49,
-    "通知公告": 38
+    "教研动态": 26
   },
   "articles": [
     {
@@ -594,52 +594,10 @@
       "column": "师生园地"
     },
     {
-      "title": "2019年上半年常规普通话水平测试报名通知",
-      "url": "https://mae.shu.edu.cn/info/1014/1445.htm",
-      "date": "2019-03-27",
-      "column": "通知公告"
-    },
-    {
       "title": "机自系专业博览会取得圆满成功",
       "url": "https://mae.shu.edu.cn/info/1015/1479.htm",
       "date": "2019-03-26",
       "column": "师生园地"
-    },
-    {
-      "title": "2019年上海市科学技术奖申报摸底",
-      "url": "https://mae.shu.edu.cn/info/1014/1441.htm",
-      "date": "2019-03-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2019年度上海大学课程思政专业课程建设项目",
-      "url": "https://mae.shu.edu.cn/info/1014/1442.htm",
-      "date": "2019-03-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于举办第九届上海大学大学生工程训练综合能力竞赛暨第九届上海市大学生工程训练综合能力竞赛预赛通知",
-      "url": "https://mae.shu.edu.cn/info/1014/1443.htm",
-      "date": "2019-03-24",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2019年高级专业技术职务晋升聘任工作的预通知",
-      "url": "https://mae.shu.edu.cn/info/1014/1438.htm",
-      "date": "2019-03-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展“机自学院青年英才奖”的评选通知",
-      "url": "https://mae.shu.edu.cn/info/1014/1439.htm",
-      "date": "2019-03-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "机自学院第75次学位分会将于4月15日召开",
-      "url": "https://mae.shu.edu.cn/info/1014/1440.htm",
-      "date": "2019-03-21",
-      "column": "通知公告"
     },
     {
       "title": "我系新增的教育部首批“智能制造工程”专业教学指导委员会顺利召开",
@@ -660,12 +618,6 @@
       "column": "师生园地"
     },
     {
-      "title": "我系青年教师解杨敏、段超群获得2019 年度上海市人才计划资助",
-      "url": "https://mae.shu.edu.cn/info/1014/1436.htm",
-      "date": "2019-03-05",
-      "column": "通知公告"
-    },
-    {
       "title": "机自系召开本科人才培养研讨会",
       "url": "https://mae.shu.edu.cn/info/1013/1416.htm",
       "date": "2019-03-01",
@@ -682,12 +634,6 @@
       "url": "https://mae.shu.edu.cn/info/1015/1476.htm",
       "date": "2019-01-23",
       "column": "师生园地"
-    },
-    {
-      "title": "关于督促2019年即将超过最长学习年限研究生毕业的通知",
-      "url": "https://mae.shu.edu.cn/info/1014/1435.htm",
-      "date": "2019-01-18",
-      "column": "通知公告"
     },
     {
       "title": "机自系教学成果荣获上海市教学成果一等奖",
@@ -710,12 +656,6 @@
     {
       "title": "产学研特等奖",
       "url": "https://mae.shu.edu.cn/info/1014/1471.htm",
-      "date": "2019-01-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "产学研特等奖",
-      "url": "https://mae.shu.edu.cn/info/1014/1472.htm",
       "date": "2019-01-17",
       "column": "通知公告"
     },
@@ -778,126 +718,6 @@
       "url": "https://mae.shu.edu.cn/info/1014/1469.htm",
       "date": "2017-03-29",
       "column": "通知公告"
-    },
-    {
-      "title": "美国佐治亚理工学院 Yan Wang 教授来上海大学机自学院进行学术交流和国际合作研讨",
-      "url": "https://mae.shu.edu.cn/info/1012/1354.htm",
-      "date": "2016-11-03",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学—浙江海盐县科技合作交流会",
-      "url": "https://mae.shu.edu.cn/info/1012/1351.htm",
-      "date": "2016-11-01",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“工业4.0”国际学术交流会",
-      "url": "https://mae.shu.edu.cn/info/1012/1349.htm",
-      "date": "2016-10-19",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海市智能制造及机器人重点实验室学术委员会会议",
-      "url": "https://mae.shu.edu.cn/info/1012/1363.htm",
-      "date": "2016-06-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“一流商科”研讨及国际学术交流会",
-      "url": "https://mae.shu.edu.cn/info/1012/1347.htm",
-      "date": "2016-06-12",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海市智能制造及机器人重点实验室在2016上海科技活动周中获电视专访报道",
-      "url": "https://mae.shu.edu.cn/info/1012/1345.htm",
-      "date": "2016-05-25",
-      "column": "综合新闻"
-    },
-    {
-      "title": "机自学院学生在第五届上海市大学生机械工程创新大赛中获佳绩",
-      "url": "https://mae.shu.edu.cn/info/1012/1343.htm",
-      "date": "2016-05-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "关于公布上海大学2016年度机械工程创新大赛结果的通知",
-      "url": "https://mae.shu.edu.cn/info/1012/1362.htm",
-      "date": "2016-05-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "爱的奉献---机自系献血报道",
-      "url": "https://mae.shu.edu.cn/info/1012/1361.htm",
-      "date": "2016-04-19",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学与徐汇区中心医院智慧医疗技术与转化医学联合研究基地签约揭牌仪式举行",
-      "url": "https://mae.shu.edu.cn/info/1012/1359.htm",
-      "date": "2016-03-29",
-      "column": "综合新闻"
-    },
-    {
-      "title": "本条新闻正在更新",
-      "url": "https://mae.shu.edu.cn/info/1012/1360.htm",
-      "date": "2016-03-29",
-      "column": "综合新闻"
-    },
-    {
-      "title": "澳大利亚西悉尼大学副校长代表团访问上海大学",
-      "url": "https://mae.shu.edu.cn/info/1012/1341.htm",
-      "date": "2016-03-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "机自学院四个部门的三八节活动集锦",
-      "url": "https://mae.shu.edu.cn/info/1012/1357.htm",
-      "date": "2016-03-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "沐浴春雨 享受芬芳—机自系三八节活动报道",
-      "url": "https://mae.shu.edu.cn/info/1012/1355.htm",
-      "date": "2016-03-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "工业设计专业载誉第十四届“上海电气杯”工业设计大奖赛",
-      "url": "https://mae.shu.edu.cn/info/1012/1353.htm",
-      "date": "2015-12-31",
-      "column": "综合新闻"
-    },
-    {
-      "title": "海盐-上大机自学院智能制造技术浙江研究院”工作推进研讨会",
-      "url": "https://mae.shu.edu.cn/info/1012/1352.htm",
-      "date": "2015-11-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "国际知名测量学专家Weckenmann 教授再次来访",
-      "url": "https://mae.shu.edu.cn/info/1012/1339.htm",
-      "date": "2015-11-10",
-      "column": "综合新闻"
-    },
-    {
-      "title": "新松企业奖学金协议签约仪式顺利举行",
-      "url": "https://mae.shu.edu.cn/info/1012/1338.htm",
-      "date": "2015-11-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "海盐-上大机自学院智能制造技术浙江研究院”签约与揭牌仪式",
-      "url": "https://mae.shu.edu.cn/info/1012/1348.htm",
-      "date": "2015-11-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2015国际先进制造工艺与刀具技术研讨会隆重召开",
-      "url": "https://mae.shu.edu.cn/info/1012/1334.htm",
-      "date": "2015-10-26",
-      "column": "综合新闻"
     },
     {
       "title": "2015年重阳节",
