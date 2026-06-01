@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260529_091248",
-  "total_articles": 552,
+  "crawl_time": "20260601_014255",
+  "total_articles": 553,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 37,
+    "学院新闻": 38,
     "通知公告": 85
   },
   "articles": [
+    {
+      "title": "融通中外，文明互鉴——上海大学第十三届莎士比亚戏剧节华彩呈现",
+      "url": "https://sfs.shu.edu.cn/info/1142/30657.htm",
+      "date": "2026-05-31",
+      "column": "学院新闻"
+    },
     {
       "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",
       "url": "https://sfs.shu.edu.cn/info/1142/30647.htm",

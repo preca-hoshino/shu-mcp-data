@@ -2,15 +2,21 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260522_090853",
-  "total_articles": 515,
+  "crawl_time": "20260601_014255",
+  "total_articles": 517,
   "columns": {
     "主题活动": 50,
-    "校友会新闻": 165,
+    "校友会新闻": 167,
     "母校新闻": 192,
     "通知公告": 108
   },
   "articles": [
+    {
+      "title": "砥砺奋进，开创新局！上海大学校友会第三届会员代表大会第一次会议暨第三届理事会第一次会议举行",
+      "url": "https://mp.weixin.qq.com/s/2wCb6nddrJ4dUNASezjY2g",
+      "date": "2026-06-01",
+      "column": "校友会新闻"
+    },
     {
       "title": "上海大学校友会第三届理事会理事、第二届监事会监事候选人名单公示",
       "url": "https://alumni.shu.edu.cn/info/1021/9276.htm",
@@ -3098,6 +3104,12 @@
     {
       "title": "方兆怡女士访问我校",
       "url": "https://alumni.shu.edu.cn/info/1018/1829.htm",
+      "date": "2006-11-24",
+      "column": "校友会新闻"
+    },
+    {
+      "title": "延长校友联谊会举行欢庆校庆活动",
+      "url": "https://alumni.shu.edu.cn/info/1018/1831.htm",
       "date": "2006-11-24",
       "column": "校友会新闻"
     }
