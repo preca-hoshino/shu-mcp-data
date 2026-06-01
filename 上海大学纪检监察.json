@@ -2,12 +2,18 @@
   "domain": "jwjc.shu.edu.cn",
   "department": "上海大学纪检监察",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 27,
+  "crawl_time": "20260601_054232",
+  "total_articles": 29,
   "columns": {
-    "工作动态": 27
+    "工作动态": 29
   },
   "articles": [
+    {
+      "title": "上海大学纪委与上海师范大学纪委开展联组学习",
+      "url": "https://jwjc.shu.edu.cn/info/1040/8351.htm",
+      "date": "2026-05-29",
+      "column": "工作动态"
+    },
     {
       "title": "上海商学院与上海大学开展学习教育联组学习",
       "url": "https://jwjc.shu.edu.cn/info/1040/8261.htm",
@@ -126,6 +132,12 @@
       "title": "上海外国语大学纪委一行来我校调研",
       "url": "https://jwjc.shu.edu.cn/info/1040/7281.htm",
       "date": "2025-03-21",
+      "column": "工作动态"
+    },
+    {
+      "title": "上海大学2007年第三次工作例会",
+      "url": "https://jwjc.shu.edu.cn/info/1040/1317.htm",
+      "date": "2007-10-25",
       "column": "工作动态"
     },
     {
