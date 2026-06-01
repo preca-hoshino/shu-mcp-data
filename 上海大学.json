@@ -2,15 +2,27 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260529_091248",
-  "total_articles": 18376,
+  "crawl_time": "20260601_140726",
+  "total_articles": 18378,
   "columns": {
     "科研动态": 1634,
-    "综合新闻": 16275,
+    "综合新闻": 16277,
     "通知公告": 447,
     "重要新闻": 20
   },
   "articles": [
+    {
+      "title": "融通中外，文明互鉴——上海大学第十三届莎士比亚戏剧节华彩呈现",
+      "url": "https://www.shu.edu.cn/info/1056/395925.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学纪委与上海师范大学纪委开展联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/395945.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
     {
       "title": "关于宝山校区校内通行温馨提醒",
       "url": "https://www.shu.edu.cn/info/1051/395885.htm",
