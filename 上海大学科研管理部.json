@@ -2,15 +2,39 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260528_091756",
-  "total_articles": 525,
+  "crawl_time": "20260601_095225",
+  "total_articles": 529,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 67,
-    "通知公告": 412
+    "科技动态": 69,
+    "通知公告": 414
   },
   "articles": [
+    {
+      "title": "科技部党组书记、部长阴和俊：以高水平科技自立自强引领未来产业发展",
+      "url": "https://mp.weixin.qq.com/s/4m7W5oXrP7k3yODNTwZxDA",
+      "date": "2026-06-01",
+      "column": "科技动态"
+    },
+    {
+      "title": "习近平：前瞻布局和发展未来产业",
+      "url": "https://mp.weixin.qq.com/s/Fh2ntAOGzkvKgTZJNE-j-g",
+      "date": "2026-06-01",
+      "column": "科技动态"
+    },
+    {
+      "title": "关于做好2026年全国教育科学规划年度项目申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/R3UpQ2mJaiZy9ufEwkF2_Q",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好2026年国家社会科学基金教育学重大项目招标工作的通知",
+      "url": "https://mp.weixin.qq.com/s/eFY_D8lLBlkShOQTbFUHAw",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
     {
       "title": "关于召开上海市科技计划项目科学数据汇交系统操作远程培训会议的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11182.htm",

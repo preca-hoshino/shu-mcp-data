@@ -2,14 +2,32 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260528_053003",
-  "total_articles": 1585,
+  "crawl_time": "20260601_095225",
+  "total_articles": 1588,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1389,
-    "新闻快递": 167
+    "学术报告": 1391,
+    "新闻快递": 168
   },
   "articles": [
+    {
+      "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
+      "url": "https://math.shu.edu.cn/info/1041/26821.htm",
+      "date": "2026-06-01",
+      "column": "新闻快递"
+    },
+    {
+      "title": "Seminar第3055讲 面向热流固耦合的整体式浸入边界框架及基于代理模型的不确定性量化",
+      "url": "https://math.shu.edu.cn/info/1042/26841.htm",
+      "date": "2026-06-01",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3054讲 基于人工智能的电池状态评估与故障诊断",
+      "url": "https://math.shu.edu.cn/info/1042/26831.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3053讲 正多面体与曲线上的向量丛",
       "url": "https://math.shu.edu.cn/info/1042/26811.htm",

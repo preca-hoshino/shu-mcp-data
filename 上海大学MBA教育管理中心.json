@@ -2,14 +2,32 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260527_091111",
-  "total_articles": 579,
+  "crawl_time": "20260601_095225",
+  "total_articles": 582,
   "columns": {
-    "焦点新闻": 362,
+    "焦点新闻": 363,
     "论坛活动": 174,
-    "通知公告": 43
+    "通知公告": 45
   },
   "articles": [
+    {
+      "title": "关于上海大学MBA中心2026届毕业典礼报名的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26701.htm",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（6月2日-7日）",
+      "url": "https://mp.weixin.qq.com/s/32EhL3fTDAHT0vHLyN-sTg",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "喜报！上大MBA校友工作获校级荣誉 两年深耕结硕果",
+      "url": "https://mp.weixin.qq.com/s/MOJalCxaF-_99-sCtlXz_Q",
+      "date": "2026-06-01",
+      "column": "焦点新闻"
+    },
     {
       "title": "关于2026届毕业研究生进沪就业落户成绩等级评定申报名单公示的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26611.htm",

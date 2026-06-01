@@ -2,14 +2,32 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260529_091248",
-  "total_articles": 122,
+  "crawl_time": "20260601_095225",
+  "total_articles": 125,
   "columns": {
     "文明创建": 33,
-    "文明实践": 55,
+    "文明实践": 58,
     "校园动态": 34
   },
   "articles": [
+    {
+      "title": "筑强科创育人新空间 共绘校城融合新图景——上海科技节·上海...",
+      "url": "https://www.shu.edu.cn/info/1056/395895.htm",
+      "date": "2026-06-01",
+      "column": "文明实践"
+    },
+    {
+      "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院...",
+      "url": "https://www.shu.edu.cn/info/1056/395905.htm",
+      "date": "2026-06-01",
+      "column": "文明实践"
+    },
+    {
+      "title": "新闻传播学院与文科处共同举办科研专题交流会",
+      "url": "https://www.shu.edu.cn/info/1056/395915.htm",
+      "date": "2026-06-01",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学党委理论学习中心组召开树立和践行正确政绩观专题学...",
       "url": "https://www.shu.edu.cn/info/1053/395585.htm",
