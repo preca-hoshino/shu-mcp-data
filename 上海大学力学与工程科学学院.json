@@ -2,18 +2,30 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260602_014601",
-  "total_articles": 246,
+  "crawl_time": "20260602_053900",
+  "total_articles": 248,
   "columns": {
     "学术报告": 51,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 32,
+    "综合新闻": 34,
     "通知公告": 36
   },
   "articles": [
+    {
+      "title": "力学与工程科学学院第四届青年教师课堂教学竞赛顺利举行",
+      "url": "https://smes.shu.edu.cn/info/1013/10485.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "朋辈引航，筑梦职场！力工学院开展2026届研究生毕业...",
+      "url": "https://smes.shu.edu.cn/info/1013/10475.htm",
+      "date": "2026-05-30",
+      "column": "综合新闻"
+    },
     {
       "title": "吴坚勇书记一行开展基础研究专题调研",
       "url": "https://smes.shu.edu.cn/info/1013/10445.htm",
