@@ -2,13 +2,19 @@
   "domain": "cie.shu.edu.cn",
   "department": "上海大学国际教育学院",
   "type": "13",
-  "crawl_time": "20260528_013200",
-  "total_articles": 501,
+  "crawl_time": "20260602_014601",
+  "total_articles": 502,
   "columns": {
     "学院通知": 7,
-    "新闻动态": 494
+    "新闻动态": 495
   },
   "articles": [
+    {
+      "title": "“深化国际教育交流  共促教学能力提升 ——东南亚国家教师教学能力提升培训班来访我校",
+      "url": "https://cie.shu.edu.cn/info/1013/5177.htm",
+      "date": "2026-06-02",
+      "column": "新闻动态"
+    },
     {
       "title": "“同济大学姚伟嘉助理教授为上海大学师生作“面向国际中文教育的智能体设计、 建构与场景化应用...",
       "url": "https://cie.shu.edu.cn/info/1013/5167.htm",

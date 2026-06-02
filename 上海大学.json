@@ -2,11 +2,11 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260601_140726",
-  "total_articles": 18378,
+  "crawl_time": "20260602_014601",
+  "total_articles": 18383,
   "columns": {
     "科研动态": 1634,
-    "综合新闻": 16277,
+    "综合新闻": 16282,
     "通知公告": 447,
     "重要新闻": 20
   },
@@ -20,6 +20,36 @@
     {
       "title": "上海大学纪委与上海师范大学纪委开展联组学习",
       "url": "https://www.shu.edu.cn/info/1056/395945.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学上海美术学院第二届理事会第二次会议召开",
+      "url": "https://www.shu.edu.cn/info/1056/395955.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "环化学院青年教师联谊分会换届大会顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/395965.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人与黄埔军校图片巡展",
+      "url": "https://www.shu.edu.cn/info/1056/395975.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "马克思主义学院召开AI赋能思政课教学研究专题培训会暨教师政治理论学习会",
+      "url": "https://www.shu.edu.cn/info/1056/395985.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "首届AI电影制作专业学员在上海大学上海温哥华电影学院结业，三个月交出这份“AI原生创作”答卷",
+      "url": "https://www.shu.edu.cn/info/1056/395995.htm",
       "date": "2026-06-01",
       "column": "综合新闻"
     },

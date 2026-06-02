@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260528_053003",
-  "total_articles": 2513,
+  "crawl_time": "20260602_014601",
+  "total_articles": 2514,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
     "学术动态": 548,
-    "学术报告": 133,
+    "学术报告": 134,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 30,
@@ -16,6 +16,12 @@
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "IESM讲座|发展生育金融，为生育友好型社会添砖加瓦",
+      "url": "https://sociology.shu.edu.cn/info/1105/41918.htm",
+      "date": "2026-06-02",
+      "column": "学术报告"
+    },
     {
       "title": "“智库进学院”国家社科基金与智库专报经验交流会顺利召开",
       "url": "https://sociology.shu.edu.cn/info/1104/41888.htm",
