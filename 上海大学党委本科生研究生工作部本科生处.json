@@ -2,14 +2,20 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260527_091111",
-  "total_articles": 849,
+  "crawl_time": "20260602_092934",
+  "total_articles": 850,
   "columns": {
     "党建简报": 132,
     "学工新闻": 35,
-    "通知公告": 682
+    "通知公告": 683
   },
   "articles": [
+    {
+      "title": "上海大学2026年本科生校长奖学金终评候选人名单公示",
+      "url": "https://xgb.shu.edu.cn/info/1003/45864.htm",
+      "date": "2026-06-02",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026年本科生校长奖学金学院推荐人材料公示",
       "url": "https://xgb.shu.edu.cn/info/1003/45854.htm",

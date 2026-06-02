@@ -2,14 +2,26 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260530_085033",
-  "total_articles": 1796,
+  "crawl_time": "20260602_092934",
+  "total_articles": 1798,
   "columns": {
     "政策文件": 57,
     "新闻动态": 33,
-    "通知公告": 1706
+    "通知公告": 1708
   },
   "articles": [
+    {
+      "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知（本科生院〔2026〕17号）",
+      "url": "https://bksy.shu.edu.cn/info/1015/320834.htm",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学课程思政教改项目2026年结项工作通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320864.htm",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
     {
       "title": "关于2025-2026学年夏季学期选课的补充通知",
       "url": "https://bksy.shu.edu.cn/info/1015/320824.htm",

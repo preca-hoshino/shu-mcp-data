@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260602_053900",
-  "total_articles": 3864,
+  "crawl_time": "20260602_092934",
+  "total_articles": 3866,
   "columns": {
     "主办会议": 41,
     "学术报告": 2611,
@@ -12,13 +12,25 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 599,
+    "综合新闻": 601,
     "通知公告": 158
   },
   "articles": [
     {
       "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
       "url": "https://scicol.shu.edu.cn/info/1007/32925.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "理学院党委与国际部党委开展中心组联组学习",
+      "url": "https://scicol.shu.edu.cn/info/1007/32945.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/32955.htm",
       "date": "2026-06-02",
       "column": "综合新闻"
     },

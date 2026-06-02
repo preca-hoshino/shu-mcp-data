@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260602_053900",
-  "total_articles": 529,
+  "crawl_time": "20260602_092934",
+  "total_articles": 530,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 69,
+    "科技动态": 70,
     "通知公告": 414
   },
   "articles": [
+    {
+      "title": "市科技工作党委深学真查实改 加快建设具有世界影响力的科技创新高地",
+      "url": "https://mp.weixin.qq.com/s/_rwx_9_KhsGNYBZor-tpPQ?click_id=1",
+      "date": "2026-06-02",
+      "column": "科技动态"
+    },
     {
       "title": "科技部党组书记、部长阴和俊：以高水平科技自立自强引领未来产业发展",
       "url": "https://mp.weixin.qq.com/s/4m7W5oXrP7k3yODNTwZxDA",

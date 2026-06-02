@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260602_053900",
-  "total_articles": 1752,
+  "crawl_time": "20260602_092934",
+  "total_articles": 1753,
   "columns": {
     "学院新闻": 528,
     "招生热讯": 71,
-    "通知公告": 1153
+    "通知公告": 1154
   },
   "articles": [
+    {
+      "title": "关于学生核验学号账号登录教务系统的通知",
+      "url": "https://cce.shu.edu.cn/info/1464/20354.htm",
+      "date": "2026-06-02",
+      "column": "通知公告"
+    },
     {
       "title": "校党委第四巡察组向继续教育学院党委反馈巡察情况",
       "url": "https://cce.shu.edu.cn/info/1550/20324.htm",

@@ -2,25 +2,43 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260602_053900",
-  "total_articles": 18383,
+  "crawl_time": "20260602_092934",
+  "total_articles": 18386,
   "columns": {
     "科研动态": 1634,
-    "综合新闻": 16282,
+    "综合新闻": 16285,
     "通知公告": 447,
     "重要新闻": 20
   },
   "articles": [
     {
-      "title": "融通中外，文明互鉴——上海大学第十三届莎士比亚戏剧节华彩呈现",
-      "url": "https://www.shu.edu.cn/info/1056/395925.htm",
-      "date": "2026-06-01",
+      "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
+      "url": "https://www.shu.edu.cn/info/1056/396015.htm",
+      "date": "2026-06-02",
       "column": "综合新闻"
     },
     {
-      "title": "上海大学纪委与上海师范大学纪委开展联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/395945.htm",
-      "date": "2026-06-01",
+      "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开展“智库进学院”系列活动",
+      "url": "https://www.shu.edu.cn/info/1056/396025.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "法学院举行党委理论学习中心组（扩大）学习会暨班子集体研讨交流会",
+      "url": "https://www.shu.edu.cn/info/1056/396035.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "科产系统党委开展树立和践行正确政绩观学习辅导报告",
+      "url": "https://www.shu.edu.cn/info/1056/396045.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
+      "url": "https://www.shu.edu.cn/info/1056/396055.htm",
+      "date": "2026-06-02",
       "column": "综合新闻"
     },
     {
@@ -36,7 +54,7 @@
       "column": "综合新闻"
     },
     {
-      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人与黄埔军校图片巡展",
+      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人与黄埔军校图片展巡展",
       "url": "https://www.shu.edu.cn/info/1056/395975.htm",
       "date": "2026-06-01",
       "column": "综合新闻"

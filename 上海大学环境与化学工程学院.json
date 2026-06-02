@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260602_053900",
-  "total_articles": 952,
+  "crawl_time": "20260602_092934",
+  "total_articles": 953,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 380,
+    "学院新闻": 381,
     "本科生教学": 69,
     "研究生教学": 204,
     "科研动态": 115,
     "通知公告": 105
   },
   "articles": [
+    {
+      "title": "我院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
+      "url": "https://ece.shu.edu.cn/info/1149/88334.htm",
+      "date": "2026-06-02",
+      "column": "学院新闻"
+    },
     {
       "title": "关于新生党员组织关系转入我院的相关提示",
       "url": "https://ece.shu.edu.cn/info/1147/51913.htm",

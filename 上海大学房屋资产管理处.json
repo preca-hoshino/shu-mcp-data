@@ -2,13 +2,19 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20260602_053900",
-  "total_articles": 37,
+  "crawl_time": "20260602_092934",
+  "total_articles": 39,
   "columns": {
-    "通知公告": 27,
+    "通知公告": 29,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "关于2026年老职工住房补贴发放工作的通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/4355.htm",
+      "date": "2026-06-02",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学超市及便利店服务用房招租项目招租公告",
       "url": "https://zcb.shu.edu.cn/info/1017/4345.htm",
@@ -194,6 +200,12 @@
       "url": "https://zcb.shu.edu.cn/info/1016/3105.htm",
       "date": "2024-09-23",
       "column": "部门新闻"
+    },
+    {
+      "title": "房产处电话调整通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/1414.htm",
+      "date": "2015-03-19",
+      "column": "通知公告"
     },
     {
       "title": "关于南二宿舍大修的通知",
