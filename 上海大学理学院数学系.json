@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260602_092934",
-  "total_articles": 1588,
+  "crawl_time": "20260602_132330",
+  "total_articles": 1589,
   "columns": {
     "学术会议": 29,
     "学术报告": 1391,
-    "新闻快递": 168
+    "新闻快递": 169
   },
   "articles": [
+    {
+      "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
+      "url": "https://math.shu.edu.cn/info/1041/26851.htm",
+      "date": "2026-06-02",
+      "column": "新闻快递"
+    },
     {
       "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
       "url": "https://math.shu.edu.cn/info/1041/26821.htm",
