@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260603_015018",
-  "total_articles": 530,
+  "crawl_time": "20260603_054313",
+  "total_articles": 531,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 70,
-    "通知公告": 414
+    "通知公告": 415
   },
   "articles": [
+    {
+      "title": "2026年上海大学概念验证项目征集通知",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11242",
+      "date": "2026-06-03",
+      "column": "通知公告"
+    },
     {
       "title": "市科技工作党委深学真查实改 加快建设具有世界影响力的科技创新高地",
       "url": "https://mp.weixin.qq.com/s/_rwx_9_KhsGNYBZor-tpPQ?click_id=1",

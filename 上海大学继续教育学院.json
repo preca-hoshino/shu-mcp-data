@@ -2,10 +2,10 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260603_015018",
-  "total_articles": 1754,
+  "crawl_time": "20260603_054313",
+  "total_articles": 1755,
   "columns": {
-    "学院新闻": 528,
+    "学院新闻": 529,
     "招生热讯": 72,
     "通知公告": 1154
   },
@@ -15,6 +15,12 @@
       "url": "https://cce.shu.edu.cn/info/1013/20334.htm",
       "date": "2026-06-03",
       "column": "招生热讯"
+    },
+    {
+      "title": "践行教育使命，共筑银龄未来——教师党支部和综合教研室联合开展“探索终身教育体系中的老年教育新路径”主题党日活动",
+      "url": "https://cce.shu.edu.cn/info/1550/20364.htm",
+      "date": "2026-06-03",
+      "column": "学院新闻"
     },
     {
       "title": "关于学生核验学号账号登录教务系统的通知",

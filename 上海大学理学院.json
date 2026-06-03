@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260603_015018",
-  "total_articles": 3869,
+  "crawl_time": "20260603_054313",
+  "total_articles": 3870,
   "columns": {
     "主办会议": 41,
     "学术报告": 2614,
@@ -12,7 +12,7 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 601,
+    "综合新闻": 602,
     "通知公告": 158
   },
   "articles": [
@@ -33,6 +33,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/32985.htm",
       "date": "2026-06-03",
       "column": "学术报告"
+    },
+    {
+      "title": "理学院举办庆“六一”亲子活动",
+      "url": "https://scicol.shu.edu.cn/info/1007/32995.htm",
+      "date": "2026-06-03",
+      "column": "综合新闻"
     },
     {
       "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",

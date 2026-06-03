@@ -2,25 +2,43 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260603_015018",
-  "total_articles": 2514,
+  "crawl_time": "20260603_054313",
+  "total_articles": 2517,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
     "学术动态": 548,
-    "学术报告": 134,
+    "学术报告": 135,
     "学生动态": 580,
     "教学教务": 136,
-    "校友活动": 30,
-    "综合新闻": 871,
+    "校友活动": 31,
+    "综合新闻": 872,
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "2026公共性论坛07|肥胖的大洋洲",
+      "url": "https://sociology.shu.edu.cn/info/1105/42018.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1102/41928.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
     {
       "title": "IESM讲座|发展生育金融，为生育友好型社会添砖加瓦",
       "url": "https://sociology.shu.edu.cn/info/1105/41918.htm",
       "date": "2026-06-02",
       "column": "学术报告"
+    },
+    {
+      "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1108/42008.htm",
+      "date": "2026-06-02",
+      "column": "校友活动"
     },
     {
       "title": "“智库进学院”国家社科基金与智库专报经验交流会顺利召开",

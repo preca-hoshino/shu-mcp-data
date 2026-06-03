@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260603_015018",
-  "total_articles": 954,
+  "crawl_time": "20260603_054313",
+  "total_articles": 956,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 382,
+    "学院新闻": 384,
     "本科生教学": 69,
     "研究生教学": 204,
     "科研动态": 115,
     "通知公告": 105
   },
   "articles": [
+    {
+      "title": "【环保节|光影中国】定格山河青绿，共谱生态新篇——“绿映山河・光影中国”摄影大赛落幕",
+      "url": "https://mp.weixin.qq.com/s/FEqLyVNQX_zWCk0dL39qJg",
+      "date": "2026-06-03",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【值年返校】我院2026年校友值年返校活动圆满举行！",
+      "url": "https://mp.weixin.qq.com/s/x2s1D2nZC9EIdA2jmeu_vQ",
+      "date": "2026-06-03",
+      "column": "学院新闻"
+    },
     {
       "title": "我院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
       "url": "https://ece.shu.edu.cn/info/1149/88334.htm",
