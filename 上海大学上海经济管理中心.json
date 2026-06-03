@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260518_052751",
-  "total_articles": 53,
+  "crawl_time": "20260603_015018",
+  "total_articles": 55,
   "columns": {
     "招生简章": 25,
-    "要闻速递": 28
+    "要闻速递": 30
   },
   "articles": [
+    {
+      "title": "中心校友余涛荣获上海大学2024-2025年度优秀校友“卓越贡献奖”",
+      "url": "https://jgzx.shu.edu.cn/info/1017/14328.htm",
+      "date": "2026-06-03",
+      "column": "要闻速递"
+    },
     {
       "title": "我校举办2026年数字技术应用专项师资研修班",
       "url": "https://jgzx.shu.edu.cn/info/1017/14188.htm",
@@ -306,6 +312,12 @@
     {
       "title": "经管中心召开上海市执业经纪人后续教育培训研讨会",
       "url": "https://jgzx.shu.edu.cn/info/1017/2322.htm",
+      "date": "2013-10-26",
+      "column": "要闻速递"
+    },
+    {
+      "title": "上海市金融办副主任吴俊为经管中心学员做主题报告",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2324.htm",
       "date": "2013-10-26",
       "column": "要闻速递"
     },

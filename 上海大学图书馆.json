@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260529_053205",
-  "total_articles": 108,
+  "crawl_time": "20260603_015018",
+  "total_articles": 109,
   "columns": {
     "公告信息": 34,
-    "图书馆新闻": 41,
+    "图书馆新闻": 42,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "海洋文学浸润书香 书写时代女性成长——杨怡芬新书分享会在图书馆成功举办",
+      "url": "https://lib.shu.edu.cn/info/1024/6984.htm",
+      "date": "2026-06-03",
+      "column": "图书馆新闻"
+    },
     {
       "title": "馆际互鉴 共促发展 ——深圳大学图书馆同仁赴我馆开展专题调研交流",
       "url": "https://lib.shu.edu.cn/info/1024/6974.htm",

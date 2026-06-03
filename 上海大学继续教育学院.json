@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260602_132330",
-  "total_articles": 1753,
+  "crawl_time": "20260603_015018",
+  "total_articles": 1754,
   "columns": {
     "学院新闻": 528,
-    "招生热讯": 71,
+    "招生热讯": 72,
     "通知公告": 1154
   },
   "articles": [
+    {
+      "title": "2026年上海大学成人高考（高起本、专升本）复习班招生简章",
+      "url": "https://cce.shu.edu.cn/info/1013/20334.htm",
+      "date": "2026-06-03",
+      "column": "招生热讯"
+    },
     {
       "title": "关于学生核验学号账号登录教务系统的通知",
       "url": "https://cce.shu.edu.cn/info/1464/20354.htm",

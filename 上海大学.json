@@ -2,15 +2,33 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260602_132330",
-  "total_articles": 18386,
+  "crawl_time": "20260603_015018",
+  "total_articles": 18387,
   "columns": {
-    "科研动态": 1634,
+    "科研动态": 1635,
     "综合新闻": 16285,
     "通知公告": 447,
     "重要新闻": 20
   },
   "articles": [
+    {
+      "title": "材料学院罗群教授和重庆大学李谦教授团队在Nature子刊《Nature Communications》上发表研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/396175.htm",
+      "date": "2026-06-03",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院党委与国际部党委开展中心组联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/396185.htm",
+      "date": "2026-06-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/396195.htm",
+      "date": "2026-06-03",
+      "column": "综合新闻"
+    },
     {
       "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
       "url": "https://www.shu.edu.cn/info/1056/396015.htm",
@@ -39,18 +57,6 @@
       "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
       "url": "https://www.shu.edu.cn/info/1056/396055.htm",
       "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学上海美术学院第二届理事会第二次会议召开",
-      "url": "https://www.shu.edu.cn/info/1056/395955.htm",
-      "date": "2026-06-01",
-      "column": "综合新闻"
-    },
-    {
-      "title": "环化学院青年教师联谊分会换届大会顺利召开",
-      "url": "https://www.shu.edu.cn/info/1056/395965.htm",
-      "date": "2026-06-01",
       "column": "综合新闻"
     },
     {

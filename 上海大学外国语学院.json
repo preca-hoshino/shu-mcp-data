@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260602_132330",
-  "total_articles": 555,
+  "crawl_time": "20260603_015018",
+  "total_articles": 556,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
     "学院新闻": 40,
-    "通知公告": 85
+    "通知公告": 86
   },
   "articles": [
+    {
+      "title": "外国语学院研究生招生宣传册",
+      "url": "https://sfs.shu.edu.cn/info/1141/30697.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
+    },
     {
       "title": "外国语学院英语专业学生在2026年英语专业八级考试中取得佳绩",
       "url": "https://sfs.shu.edu.cn/info/1142/30667.htm",
