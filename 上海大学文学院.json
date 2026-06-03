@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260603_054313",
-  "total_articles": 1966,
+  "crawl_time": "20260603_093922",
+  "total_articles": 1967,
   "columns": {
     "学术报告": 101,
     "学生动态": 147,
     "学院周志": 302,
     "科研动态": 478,
-    "综合新闻": 521,
+    "综合新闻": 522,
     "通知公告": 417
   },
   "articles": [
+    {
+      "title": "第三届《尚书》学研究学术研讨会在上海大学成功举办",
+      "url": "https://cla.shu.edu.cn/info/1015/53538.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
     {
       "title": "风起南洋：新加坡华文诗歌六十年",
       "url": "https://cla.shu.edu.cn/info/1016/53528.htm",

@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260603_054313",
-  "total_articles": 1798,
+  "crawl_time": "20260603_093922",
+  "total_articles": 1799,
   "columns": {
     "政策文件": 57,
     "新闻动态": 33,
-    "通知公告": 1708
+    "通知公告": 1709
   },
   "articles": [
+    {
+      "title": "关于2025-2026学年春季学期成绩复核工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320874.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
+    },
     {
       "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知（本科生院〔2026〕17号）",
       "url": "https://bksy.shu.edu.cn/info/1015/320834.htm",

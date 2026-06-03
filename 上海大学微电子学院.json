@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260527_091111",
-  "total_articles": 326,
+  "crawl_time": "20260603_093922",
+  "total_articles": 327,
   "columns": {
-    "新闻动态": 244,
+    "新闻动态": 245,
     "讲座信息": 8,
     "资讯动态": 2,
     "通知公告": 72
   },
   "articles": [
+    {
+      "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
+      "url": "https://sme.shu.edu.cn/info/1029/6862.htm",
+      "date": "2026-06-03",
+      "column": "新闻动态"
+    },
     {
       "title": "微电子学院邀请全国最美高校辅导员开展先锋领航辅导员成长沙龙",
       "url": "https://sme.shu.edu.cn/info/1029/6852.htm",

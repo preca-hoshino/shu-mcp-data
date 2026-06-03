@@ -2,17 +2,17 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260603_054313",
-  "total_articles": 3870,
+  "crawl_time": "20260603_093922",
+  "total_articles": 3873,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2614,
+    "学术报告": 2616,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 602,
+    "综合新闻": 603,
     "通知公告": 158
   },
   "articles": [
@@ -35,8 +35,26 @@
       "column": "学术报告"
     },
     {
+      "title": "数学学科Seminar第3056讲 与 Zygmund 伸缩相关的多参数调和分析的区域变量方法(1)",
+      "url": "https://scicol.shu.edu.cn/info/1003/33015.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3057讲 与 Zygmund 伸缩相关的多参数调和分析的区域变量方法(2)",
+      "url": "https://scicol.shu.edu.cn/info/1003/33025.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
+    {
       "title": "理学院举办庆“六一”亲子活动",
       "url": "https://scicol.shu.edu.cn/info/1007/32995.htm",
+      "date": "2026-06-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "童心化学·微光致远——理学院化学系赴经纬幼儿园开展实验科普暨环保启蒙活动",
+      "url": "https://scicol.shu.edu.cn/info/1007/33005.htm",
       "date": "2026-06-03",
       "column": "综合新闻"
     },

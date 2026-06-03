@@ -2,16 +2,22 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260603_054313",
-  "total_articles": 55,
+  "crawl_time": "20260603_093922",
+  "total_articles": 57,
   "columns": {
     "招生简章": 25,
-    "要闻速递": 30
+    "要闻速递": 32
   },
   "articles": [
     {
       "title": "中心校友余涛荣获上海大学2024-2025年度优秀校友“卓越贡献奖”",
       "url": "https://jgzx.shu.edu.cn/info/1017/14328.htm",
+      "date": "2026-06-03",
+      "column": "要闻速递"
+    },
+    {
+      "title": "聚焦电子科技，赋能技术创新——上海总工程师协会走进上海涵优电子科技有限公司",
+      "url": "https://jgzx.shu.edu.cn/info/1017/14378.htm",
       "date": "2026-06-03",
       "column": "要闻速递"
     },
@@ -302,6 +308,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "解读管理大师彼得-德鲁克——经管中心举办2013年上经论坛第二季主题活动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2323.htm",
+      "date": "2013-10-29",
+      "column": "要闻速递"
     },
     {
       "title": "经管中心为嘉定区领导干部进行社会管理专题培训",

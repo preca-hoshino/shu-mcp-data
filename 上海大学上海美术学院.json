@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260603_054313",
-  "total_articles": 691,
+  "crawl_time": "20260603_093922",
+  "total_articles": 692,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
     "学生工作": 40,
-    "学院新闻": 325,
+    "学院新闻": 326,
     "展览展示": 24,
     "教学": 157,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "全国专家汇聚上海美术学院共谈中国设计学自主知识体系的历史演进",
+      "url": "https://safa.shu.edu.cn/info/1084/19460.htm",
+      "date": "2026-06-03",
+      "column": "学院新闻"
+    },
     {
       "title": "上海大学上海美术学院召开第二届理事会第二次会议",
       "url": "https://safa.shu.edu.cn/info/1084/19430.htm",

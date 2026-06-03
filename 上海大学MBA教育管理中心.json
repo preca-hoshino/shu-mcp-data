@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260603_054313",
-  "total_articles": 582,
+  "crawl_time": "20260603_093922",
+  "total_articles": 583,
   "columns": {
     "焦点新闻": 363,
-    "论坛活动": 174,
+    "论坛活动": 175,
     "通知公告": 45
   },
   "articles": [
+    {
+      "title": "“拍好每一场活动：人像·现场实战指南”专题讲座",
+      "url": "https://mp.weixin.qq.com/s/gbFH45jE7KA3MMHZx7hZ8A",
+      "date": "2026-06-03",
+      "column": "论坛活动"
+    },
     {
       "title": "关于上海大学MBA中心2026届毕业典礼报名的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26701.htm",

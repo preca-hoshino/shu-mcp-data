@@ -2,18 +2,24 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260603_054313",
-  "total_articles": 531,
+  "crawl_time": "20260603_093922",
+  "total_articles": 532,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 70,
-    "通知公告": 415
+    "通知公告": 416
   },
   "articles": [
     {
       "title": "2026年上海大学概念验证项目征集通知",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11242",
+      "date": "2026-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于癌症、心脑血管、呼吸和代谢性疾病防治研究国家科技重大专项2027年度项目申报指南征求意见的通知",
+      "url": "https://service.most.gov.cn/kjjh_tztg_all/20260601/5833.html",
       "date": "2026-06-03",
       "column": "通知公告"
     },

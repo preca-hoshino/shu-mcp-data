@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260603_054313",
-  "total_articles": 956,
+  "crawl_time": "20260603_093922",
+  "total_articles": 958,
   "columns": {
     "学术报告": 79,
     "学院新闻": 384,
-    "本科生教学": 69,
+    "本科生教学": 70,
     "研究生教学": 204,
     "科研动态": 115,
-    "通知公告": 105
+    "通知公告": 106
   },
   "articles": [
+    {
+      "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/88414.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/88404.htm",
+      "date": "2026-06-03",
+      "column": "本科生教学"
+    },
     {
       "title": "【环保节|光影中国】定格山河青绿，共谱生态新篇——“绿映山河・光影中国”摄影大赛落幕",
       "url": "https://mp.weixin.qq.com/s/FEqLyVNQX_zWCk0dL39qJg",
