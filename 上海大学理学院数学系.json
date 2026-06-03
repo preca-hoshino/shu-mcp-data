@@ -2,14 +2,26 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260603_093922",
-  "total_articles": 1589,
+  "crawl_time": "20260603_134440",
+  "total_articles": 1591,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1391,
+    "学术报告": 1393,
     "新闻快递": 169
   },
   "articles": [
+    {
+      "title": "Seminar第3056讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(1)",
+      "url": "https://math.shu.edu.cn/info/1042/26861.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3057讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(2)",
+      "url": "https://math.shu.edu.cn/info/1042/26871.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
     {
       "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
       "url": "https://math.shu.edu.cn/info/1041/26851.htm",
