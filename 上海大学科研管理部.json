@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260604_054127",
-  "total_articles": 534,
+  "crawl_time": "20260604_092158",
+  "total_articles": 535,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 71,
-    "通知公告": 417
+    "通知公告": 418
   },
   "articles": [
+    {
+      "title": "关于各学院遴选技术经理人的通知",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11282",
+      "date": "2026-06-04",
+      "column": "通知公告"
+    },
     {
       "title": "链接全球创新资源，深耕成果落地转化、完善知识产权服务链条……第十二届上交会助力上海加快建成具有全...",
       "url": "https://mp.weixin.qq.com/s/9oveOPM2kqDm6G9QcPKHkw?click_id=2",

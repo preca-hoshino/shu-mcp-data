@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260604_054127",
-  "total_articles": 1967,
+  "crawl_time": "20260604_092158",
+  "total_articles": 1968,
   "columns": {
     "学术报告": 101,
     "学生动态": 147,
-    "学院周志": 302,
+    "学院周志": 303,
     "科研动态": 478,
     "综合新闻": 522,
     "通知公告": 417
   },
   "articles": [
+    {
+      "title": "文学院周志总第699期（2026年第15期，5月25日-5月31日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi699.pdf",
+      "date": "2026-06-04",
+      "column": "学院周志"
+    },
     {
       "title": "第三届《尚书》学研究学术研讨会在上海大学成功举办",
       "url": "https://cla.shu.edu.cn/info/1015/53538.htm",
