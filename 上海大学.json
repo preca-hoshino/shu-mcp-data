@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260604_015021",
+  "crawl_time": "20260604_054127",
   "total_articles": 18387,
   "columns": {
     "科研动态": 1635,
@@ -11,6 +11,36 @@
     "重要新闻": 20
   },
   "articles": [
+    {
+      "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
+      "url": "https://www.shu.edu.cn/info/1056/396375.htm",
+      "date": "2026-06-04",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发展新亮点、问题与前瞻思考",
+      "url": "https://www.shu.edu.cn/info/1056/396385.htm",
+      "date": "2026-06-04",
+      "column": "综合新闻"
+    },
+    {
+      "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生“文化中国”两创大赛 ▪ 上大文信师生大同主题调研纪实",
+      "url": "https://www.shu.edu.cn/info/1056/396395.htm",
+      "date": "2026-06-04",
+      "column": "综合新闻"
+    },
+    {
+      "title": "走进古猗园·问诊千年文物：上大文信学院让文保科普“触手可及”",
+      "url": "https://www.shu.edu.cn/info/1056/396405.htm",
+      "date": "2026-06-04",
+      "column": "综合新闻"
+    },
+    {
+      "title": "力学AI4M产教研融合创新研讨会在我校召开",
+      "url": "https://www.shu.edu.cn/info/1056/396415.htm",
+      "date": "2026-06-04",
+      "column": "综合新闻"
+    },
     {
       "title": "材料学院罗群教授和重庆大学李谦教授团队在Nature子刊《Nature Communications》上发表研究成果",
       "url": "https://www.shu.edu.cn/info/1055/396175.htm",
@@ -30,18 +60,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
-      "url": "https://www.shu.edu.cn/info/1056/396015.htm",
-      "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开展“智库进学院”系列活动",
-      "url": "https://www.shu.edu.cn/info/1056/396025.htm",
-      "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
       "title": "法学院举行党委理论学习中心组（扩大）学习会暨班子集体研讨交流会",
       "url": "https://www.shu.edu.cn/info/1056/396035.htm",
       "date": "2026-06-02",
@@ -57,24 +75,6 @@
       "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
       "url": "https://www.shu.edu.cn/info/1056/396055.htm",
       "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人与黄埔军校图片展巡展",
-      "url": "https://www.shu.edu.cn/info/1056/395975.htm",
-      "date": "2026-06-01",
-      "column": "综合新闻"
-    },
-    {
-      "title": "马克思主义学院召开AI赋能思政课教学研究专题培训会暨教师政治理论学习会",
-      "url": "https://www.shu.edu.cn/info/1056/395985.htm",
-      "date": "2026-06-01",
-      "column": "综合新闻"
-    },
-    {
-      "title": "首届AI电影制作专业学员在上海大学上海温哥华电影学院结业，三个月交出这份“AI原生创作”答卷",
-      "url": "https://www.shu.edu.cn/info/1056/395995.htm",
-      "date": "2026-06-01",
       "column": "综合新闻"
     },
     {
