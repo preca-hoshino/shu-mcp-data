@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260526_013441",
-  "total_articles": 1748,
+  "crawl_time": "20260604_015021",
+  "total_articles": 1750,
   "columns": {
-    "新闻": 31,
+    "新闻": 33,
     "讲座": 460,
     "通知公告": 1257
   },
@@ -81,6 +81,12 @@
       "url": "https://mp.weixin.qq.com/s/22la2u6iV8U-fYkTQoiwVQ",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发展新亮点、问题与前瞻思考",
+      "url": "https://mp.weixin.qq.com/s/36vxjj6mQXZE1kp2BN8rfQ",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "第十八届谢晋杯学生作品大赛系列活动预告及展映片单",
@@ -3265,6 +3271,12 @@
     {
       "title": "影视学院学生党支部举行赈灾爱心义卖活动",
       "url": "https://sfa.shu.edu.cn/info/1211/4206.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "我院召开青年教师学科讨论会",
+      "url": "https://sfa.shu.edu.cn/info/1211/4208.htm",
       "date": "",
       "column": "新闻"
     },

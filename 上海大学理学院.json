@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260603_134440",
-  "total_articles": 3873,
+  "crawl_time": "20260604_015021",
+  "total_articles": 3874,
   "columns": {
     "主办会议": 41,
     "学术报告": 2616,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 603,
+    "综合新闻": 604,
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
+      "url": "https://scicol.shu.edu.cn/info/1007/33045.htm",
+      "date": "2026-06-04",
+      "column": "综合新闻"
+    },
     {
       "title": "量子科技研究院seminar第105讲暨物理学科Seminar第814讲 固体中的极化：概述",
       "url": "https://scicol.shu.edu.cn/info/1003/32965.htm",
