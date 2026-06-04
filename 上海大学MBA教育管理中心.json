@@ -2,17 +2,23 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260604_092158",
-  "total_articles": 585,
+  "crawl_time": "20260604_131122",
+  "total_articles": 586,
   "columns": {
     "焦点新闻": 364,
     "论坛活动": 175,
-    "通知公告": 46
+    "通知公告": 47
   },
   "articles": [
     {
       "title": "关于做好2026届上海大学毕业生到中西部地区和艰苦边远地区基层单位就业学费补偿和国家助学贷款代偿资格申请工作的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26741.htm",
+      "date": "2026-06-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026届毕业生国家助学贷款还款和离校手续办理的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26751.htm",
       "date": "2026-06-04",
       "column": "通知公告"
     },

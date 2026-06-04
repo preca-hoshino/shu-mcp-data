@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260604_092158",
-  "total_articles": 1591,
+  "crawl_time": "20260604_131122",
+  "total_articles": 1592,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1393,
+    "学术报告": 1394,
     "新闻快递": 169
   },
   "articles": [
+    {
+      "title": "Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
+      "url": "https://math.shu.edu.cn/info/1042/26881.htm",
+      "date": "2026-06-04",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3056讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(1)",
       "url": "https://math.shu.edu.cn/info/1042/26861.htm",
