@@ -2,15 +2,27 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260605_014041",
-  "total_articles": 535,
+  "crawl_time": "20260605_053614",
+  "total_articles": 538,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
-    "科技动态": 71,
-    "通知公告": 418
+    "科技动态": 72,
+    "通知公告": 420
   },
   "articles": [
+    {
+      "title": "上海市农业农村委员会发布2026年上海市农业科技创新项目（浦东张江种谷、崇明长三角农业硅谷）申报指南...",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11292.htm",
+      "date": "2026-06-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "外协经费这样用，合规又省心",
+      "url": "https://mp.weixin.qq.com/s/2Ea7ZwCAT1LabdhzkEEOeg",
+      "date": "2026-06-05",
+      "column": "科技动态"
+    },
     {
       "title": "关于各学院遴选技术经理人的通知",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11282",
@@ -22,6 +34,12 @@
       "url": "https://mp.weixin.qq.com/s/9oveOPM2kqDm6G9QcPKHkw?click_id=2",
       "date": "2026-06-04",
       "column": "科技动态"
+    },
+    {
+      "title": "2026年国家社科基金重大项目选题征集公告",
+      "url": "https://mp.weixin.qq.com/s/_gtAt3VF_Spjbz96jzfYXQ",
+      "date": "2026-06-04",
+      "column": "通知公告"
     },
     {
       "title": "关于组织申报2027年度上海市教育科学研究项目的通知",

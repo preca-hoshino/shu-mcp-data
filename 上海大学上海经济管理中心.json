@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260605_014041",
-  "total_articles": 57,
+  "crawl_time": "20260605_053614",
+  "total_articles": 58,
   "columns": {
-    "招生简章": 25,
+    "招生简章": 26,
     "要闻速递": 32
   },
   "articles": [
+    {
+      "title": "【招生】上海大学与法国让穆兰里昂第三大学合作举办社会学专业硕士研究生教育项目第十一期（文末附中英文个人简历模板）",
+      "url": "https://jgzx.shu.edu.cn/info/1019/14438.htm",
+      "date": "2026-06-05",
+      "column": "招生简章"
+    },
     {
       "title": "中心校友余涛荣获上海大学2024-2025年度优秀校友“卓越贡献奖”",
       "url": "https://jgzx.shu.edu.cn/info/1017/14328.htm",
