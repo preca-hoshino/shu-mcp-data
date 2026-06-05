@@ -2,15 +2,45 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260604_131122",
-  "total_articles": 366,
+  "crawl_time": "20260605_014041",
+  "total_articles": 371,
   "columns": {
-    "学术报告": 290,
+    "学术报告": 295,
     "新闻快递": 16,
     "研究动态": 46,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar第105讲暨物理学科Seminar第814讲：Rémy Mosseri（2026年6月...",
+      "url": "https://physics.shu.edu.cn/info/1078/9554.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第106讲暨物理学科Seminar第815讲：杨哲森（2026年6月4日14:...",
+      "url": "https://physics.shu.edu.cn/info/1078/9564.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第107讲暨物理学科Seminar第816讲：杨哲森 （2026年6月5日9:...",
+      "url": "https://physics.shu.edu.cn/info/1078/9574.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第108讲暨物理学科Seminar第817讲：Shahriar Hossain （2026...",
+      "url": "https://physics.shu.edu.cn/info/1078/9584.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第109讲暨物理学科Seminar第818讲：曹腾飞（2026年6月9日15:...",
+      "url": "https://physics.shu.edu.cn/info/1078/9594.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科Seminar第812讲：Victor Despré（2026年6月3日15:00）",
       "url": "https://physics.shu.edu.cn/info/1078/9524.htm",

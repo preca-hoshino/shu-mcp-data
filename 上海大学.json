@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260604_131122",
+  "crawl_time": "20260605_014041",
   "total_articles": 18387,
   "columns": {
     "科研动态": 1635,
@@ -11,6 +11,12 @@
     "重要新闻": 20
   },
   "articles": [
+    {
+      "title": "校党委第一巡察组向机关党委反馈巡察情况",
+      "url": "https://www.shu.edu.cn/info/1056/396425.htm",
+      "date": "2026-06-05",
+      "column": "综合新闻"
+    },
     {
       "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
       "url": "https://www.shu.edu.cn/info/1056/396375.htm",
@@ -57,12 +63,6 @@
       "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/396195.htm",
       "date": "2026-06-03",
-      "column": "综合新闻"
-    },
-    {
-      "title": "法学院举行党委理论学习中心组（扩大）学习会暨班子集体研讨交流会",
-      "url": "https://www.shu.edu.cn/info/1056/396035.htm",
-      "date": "2026-06-02",
       "column": "综合新闻"
     },
     {

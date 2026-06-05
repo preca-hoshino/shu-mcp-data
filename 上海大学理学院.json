@@ -2,20 +2,32 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260604_131122",
-  "total_articles": 3876,
+  "crawl_time": "20260605_014041",
+  "total_articles": 3878,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2618,
+    "学术报告": 2619,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 604,
+    "综合新闻": 605,
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
+      "url": "https://scicol.shu.edu.cn/info/1003/33085.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "理学院化学学科开展观影主题党日活动",
+      "url": "https://scicol.shu.edu.cn/info/1007/33095.htm",
+      "date": "2026-06-05",
+      "column": "综合新闻"
+    },
     {
       "title": "量子科技研究院seminar第108讲暨物理学科Seminar第817讲 面向能源与生物医学应用的下一代纳米...",
       "url": "https://scicol.shu.edu.cn/info/1003/33065.htm",

@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260604_131122",
-  "total_articles": 692,
+  "crawl_time": "20260605_014041",
+  "total_articles": 693,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
     "学生工作": 40,
     "学院新闻": 326,
     "展览展示": 24,
-    "教学": 157,
+    "教学": 158,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "“环境设计—社会学”双学士学位复合型人才培养项目启动会举行",
+      "url": "https://safa.shu.edu.cn/info/1119/19470.htm",
+      "date": "2026-06-05",
+      "column": "教学"
+    },
     {
       "title": "全国专家汇聚上海美术学院共谈中国设计学自主知识体系的历史演进",
       "url": "https://safa.shu.edu.cn/info/1084/19460.htm",
