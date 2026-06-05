@@ -2,15 +2,21 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260514_004804",
-  "total_articles": 19,
+  "crawl_time": "20260605_091115",
+  "total_articles": 20,
   "columns": {
-    "新闻资讯": 7,
-    "通知公告": 7,
+    "招生招聘": 1,
+    "新闻资讯": 8,
     "研究成果": 4,
-    "招生招聘": 1
+    "通知公告": 7
   },
   "articles": [
+    {
+      "title": "新闻| 突破“卡脖子”瓶颈，我国钍基熔盐堆专用焊材实现国产化",
+      "url": "https://mp.weixin.qq.com/s/NLsNYxwfRYA_YCQqI9zanQ",
+      "date": "2026-06-05",
+      "column": "新闻资讯"
+    },
     {
       "title": "新闻|宝武特冶核电蒸发器用关键镍（铁）基材料获评国家级制造业单项冠军",
       "url": "https://mp.weixin.qq.com/s/LSWMVfoxPDVlXCdfAasiyg",

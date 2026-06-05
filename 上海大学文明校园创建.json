@@ -2,14 +2,20 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260605_053614",
-  "total_articles": 125,
+  "crawl_time": "20260605_091115",
+  "total_articles": 126,
   "columns": {
     "文明创建": 33,
     "文明实践": 58,
-    "校园动态": 34
+    "校园动态": 35
   },
   "articles": [
+    {
+      "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
+      "url": "https://www.shu.edu.cn/info/1053/396465.htm",
+      "date": "2026-06-05",
+      "column": "校园动态"
+    },
     {
       "title": "筑强科创育人新空间 共绘校城融合新图景——上海科技节·上海...",
       "url": "https://www.shu.edu.cn/info/1056/395895.htm",

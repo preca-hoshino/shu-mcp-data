@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260605_053614",
-  "total_articles": 586,
+  "crawl_time": "20260605_091115",
+  "total_articles": 587,
   "columns": {
     "焦点新闻": 364,
-    "论坛活动": 175,
+    "论坛活动": 176,
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "上海大学MBA中心：以绿色为笔，书写负责任的商业未来",
+      "url": "https://mp.weixin.qq.com/s/iC9mt6M3EarHF1V5yVloeg",
+      "date": "2026-06-05",
+      "column": "论坛活动"
+    },
     {
       "title": "关于做好2026届上海大学毕业生到中西部地区和艰苦边远地区基层单位就业学费补偿和国家助学贷款代偿资格申请工作的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26741.htm",

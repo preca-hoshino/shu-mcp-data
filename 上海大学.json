@@ -2,18 +2,36 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260605_053614",
-  "total_articles": 18387,
+  "crawl_time": "20260605_091115",
+  "total_articles": 18388,
   "columns": {
     "科研动态": 1635,
     "综合新闻": 16285,
     "通知公告": 447,
-    "重要新闻": 20
+    "重要新闻": 21
   },
   "articles": [
     {
+      "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
+      "url": "https://www.shu.edu.cn/info/1053/396465.htm",
+      "date": "2026-06-05",
+      "column": "重要新闻"
+    },
+    {
       "title": "校党委第一巡察组向机关党委反馈巡察情况",
       "url": "https://www.shu.edu.cn/info/1056/396425.htm",
+      "date": "2026-06-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "探秘微观生命 点亮科学童心——上海器官修复工程技术研究中心开展2026上海科技节开放日活动",
+      "url": "https://www.shu.edu.cn/info/1056/396455.htm",
+      "date": "2026-06-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学9种期刊2025 CiteScore再创佳绩，国际影响力持续攀升",
+      "url": "https://www.shu.edu.cn/info/1056/396475.htm",
       "date": "2026-06-05",
       "column": "综合新闻"
     },
@@ -63,18 +81,6 @@
       "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/396195.htm",
       "date": "2026-06-03",
-      "column": "综合新闻"
-    },
-    {
-      "title": "科产系统党委开展树立和践行正确政绩观学习辅导报告",
-      "url": "https://www.shu.edu.cn/info/1056/396045.htm",
-      "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "环化学院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
-      "url": "https://www.shu.edu.cn/info/1056/396055.htm",
-      "date": "2026-06-02",
       "column": "综合新闻"
     },
     {
