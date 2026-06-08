@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260608_053955",
-  "total_articles": 539,
+  "crawl_time": "20260608_093825",
+  "total_articles": 540,
   "columns": {
     "办事流程": 8,
     "技术需求": 38,
     "科技动态": 72,
-    "通知公告": 421
+    "通知公告": 422
   },
   "articles": [
+    {
+      "title": "关于上海大学专利类无形资产情况的公示 （2026年5月）",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11332",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
     {
       "title": "上海市农业农村委员会发布2026年上海市农业科技创新项目（浦东张江种谷、崇明长三角农业硅谷）申报指南...",
       "url": "https://kyglb.shu.edu.cn/info/1011/11292.htm",

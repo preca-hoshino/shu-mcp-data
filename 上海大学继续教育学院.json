@@ -2,14 +2,38 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260608_053955",
-  "total_articles": 1756,
+  "crawl_time": "20260608_093825",
+  "total_articles": 1760,
   "columns": {
-    "学院新闻": 529,
+    "学院新闻": 533,
     "招生热讯": 72,
     "通知公告": 1155
   },
   "articles": [
+    {
+      "title": "“业界导师引领工程”系列活动之“杰出校友分享会”——嘉定分部邀请孟祥玲校友作主题分享",
+      "url": "https://cce.shu.edu.cn/info/1434/20424.htm",
+      "date": "2026-06-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "筑牢育人根基 深化办学协同——学院党政班子赴七个校外教学点开展调研",
+      "url": "https://cce.shu.edu.cn/info/1550/20404.htm",
+      "date": "2026-06-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "数字巧板拼童趣，AI妙笔绘童真——记继续教育学院2026年儿童节多巧板电子拼画活动",
+      "url": "https://cce.shu.edu.cn/info/1550/20414.htm",
+      "date": "2026-06-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "“业界导师引领工程”系列活动之“杰出校友分享会”——嘉定分部邀请孟祥玲校友作主题分享",
+      "url": "https://cce.shu.edu.cn/info/1550/20434.htm",
+      "date": "2026-06-08",
+      "column": "学院新闻"
+    },
     {
       "title": "关于上海大学高等学历继续教育毕业生申请2026年7月毕业的通知",
       "url": "https://cce.shu.edu.cn/info/1464/20394.htm",

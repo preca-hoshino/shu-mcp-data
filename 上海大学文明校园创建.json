@@ -2,14 +2,38 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260608_053955",
-  "total_articles": 136,
+  "crawl_time": "20260608_093825",
+  "total_articles": 140,
   "columns": {
     "文明创建": 33,
-    "文明实践": 68,
-    "校园动态": 35
+    "文明实践": 71,
+    "校园动态": 36
   },
   "articles": [
+    {
+      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
+      "url": "https://www.shu.edu.cn/info/1053/396585.htm",
+      "date": "2026-06-08",
+      "column": "校园动态"
+    },
+    {
+      "title": "打通网络思政的“最后一公里”——我校举办辅导员网络思政专...",
+      "url": "https://www.shu.edu.cn/info/1056/396485.htm",
+      "date": "2026-06-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "四届党委第四轮巡察整改部署会召开",
+      "url": "https://www.shu.edu.cn/info/1056/396495.htm",
+      "date": "2026-06-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "羽动赛场展风采 凝心聚力促奋进——2026年上海大学教职工羽毛...",
+      "url": "https://www.shu.edu.cn/info/1056/396515.htm",
+      "date": "2026-06-08",
+      "column": "文明实践"
+    },
     {
       "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",

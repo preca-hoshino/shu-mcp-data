@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260608_053955",
-  "total_articles": 1968,
+  "crawl_time": "20260608_093825",
+  "total_articles": 1969,
   "columns": {
     "学术报告": 101,
     "学生动态": 147,
     "学院周志": 303,
     "科研动态": 478,
     "综合新闻": 522,
-    "通知公告": 417
+    "通知公告": 418
   },
   "articles": [
+    {
+      "title": "文学院2026年毕业生就业“攀登奖”结果公示",
+      "url": "https://cla.shu.edu.cn/info/1017/53558.htm",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
     {
       "title": "文学院周志总第699期（2026年第15期，5月25日-5月31日）",
       "url": "https://cla.shu.edu.cn/zhouzhi699.pdf",

@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260608_053955",
-  "total_articles": 2518,
+  "crawl_time": "20260608_093825",
+  "total_articles": 2519,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
     "学术动态": 548,
-    "学术报告": 136,
+    "学术报告": 137,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
@@ -16,6 +16,12 @@
     "通知公告": 47
   },
   "articles": [
+    {
+      "title": "ADRI系列讲座|Sequential Migration of Chinese Overseas Returnees: the Intertwined Roles of Urban Amenities and Economic Opportunities（中国海外归国人才的序贯迁移：城市便利设施与经济机会的交互作用）",
+      "url": "https://sociology.shu.edu.cn/info/1105/42118.htm",
+      "date": "2026-06-08",
+      "column": "学术报告"
+    },
     {
       "title": "IESM讲座|The Internationalisation of Chinese private capital in West Africa（中国私营资本在西非的国际化进程）",
       "url": "https://sociology.shu.edu.cn/info/1105/42048.htm",

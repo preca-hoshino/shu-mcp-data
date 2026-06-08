@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260608_053955",
-  "total_articles": 18388,
+  "crawl_time": "20260608_093825",
+  "total_articles": 18389,
   "columns": {
     "科研动态": 1635,
     "综合新闻": 16285,
     "通知公告": 447,
-    "重要新闻": 21
+    "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
+      "url": "https://www.shu.edu.cn/info/1053/396585.htm",
+      "date": "2026-06-08",
+      "column": "重要新闻"
+    },
     {
       "title": "打通网络思政的“最后一公里”——我校举办辅导员网络思政专题学习",
       "url": "https://www.shu.edu.cn/info/1056/396485.htm",

@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260608_053955",
-  "total_articles": 959,
+  "crawl_time": "20260608_093825",
+  "total_articles": 960,
   "columns": {
     "学术报告": 79,
     "学院新闻": 385,
     "本科生教学": 70,
     "研究生教学": 204,
     "科研动态": 115,
-    "通知公告": 106
+    "通知公告": 107
   },
   "articles": [
+    {
+      "title": "环境与化学工程学院党委关于校第四届党委第三轮巡察集中整改进展情况的通报",
+      "url": "https://ece.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1147&wbnewsid=88494",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
     {
       "title": "【环保节】碳惠校园“账”未来 绿色转型“益”同行——沪碳行·上海大学第十八届环保节圆满落幕！",
       "url": "https://ece.shu.edu.cn/info/1149/88474.htm",

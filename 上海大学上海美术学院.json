@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260608_053955",
-  "total_articles": 693,
+  "crawl_time": "20260608_093825",
+  "total_articles": 694,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
     "学生工作": 40,
-    "学院新闻": 326,
+    "学院新闻": 327,
     "展览展示": 24,
     "教学": 158,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "文博艺苑携手 共护石窟文脉——炳灵寺石窟研究所一行到访上海大学上海美术学院交流",
+      "url": "https://safa.shu.edu.cn/info/1084/19480.htm",
+      "date": "2026-06-08",
+      "column": "学院新闻"
+    },
     {
       "title": "“环境设计—社会学”双学士学位复合型人才培养项目启动会举行",
       "url": "https://safa.shu.edu.cn/info/1119/19470.htm",
