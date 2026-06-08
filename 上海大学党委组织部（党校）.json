@@ -2,17 +2,23 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20260608_014306",
-  "total_articles": 386,
+  "crawl_time": "20260608_053955",
+  "total_articles": 388,
   "columns": {
     "人才工作": 17,
     "党建工作": 49,
     "党校工作": 209,
     "基层风采": 29,
-    "干部工作": 53,
+    "干部工作": 55,
     "理论学习": 29
   },
   "articles": [
+    {
+      "title": "2026年关于选派优秀中青年干部到虹口区实践锻炼的通知",
+      "url": "https://zzb.shu.edu.cn/info/1011/8091.htm",
+      "date": "2026-06-08",
+      "column": "干部工作"
+    },
     {
       "title": "我校举办第十期科级干部岗位培训班学员论坛暨结业式",
       "url": "https://zzb.shu.edu.cn/info/1005/8071.htm",
@@ -2112,6 +2118,12 @@
       "url": "https://zzb.shu.edu.cn/info/1014/1343.htm",
       "date": "2015-07-06",
       "column": "基层风采"
+    },
+    {
+      "title": "习近平论“三严三实”：领导干部要知晓为官做事的尺度",
+      "url": "http://cms.shu.edu.cn/Default.aspx?tabid=32970&ctl=Detail&mid=61407&Id=177817&SkinSrc=[L]Sk",
+      "date": "2015-07-02",
+      "column": "干部工作"
     },
     {
       "title": "习近平会见全国优秀县委书记提4点要求",

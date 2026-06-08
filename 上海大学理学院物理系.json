@@ -2,15 +2,21 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260608_014306",
-  "total_articles": 373,
+  "crawl_time": "20260608_053955",
+  "total_articles": 375,
   "columns": {
     "学术报告": 295,
-    "新闻快递": 18,
+    "新闻快递": 20,
     "研究动态": 46,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
+      "url": "https://physics.shu.edu.cn/info/1021/9614.htm",
+      "date": "2026-06-08",
+      "column": "新闻快递"
+    },
     {
       "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
       "url": "https://physics.shu.edu.cn/info/1021/9604.htm",
@@ -2246,6 +2252,12 @@
     {
       "title": "量子与分子结构国际中心2D Systems课题组在物理化学快报杂志上发表论文",
       "url": "https://physics.shu.edu.cn/info/1021/1025.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理系党总支举行学习十九大报告精神“不忘初心、牢记使命”主题活动",
+      "url": "https://physics.shu.edu.cn/info/1021/1026.htm",
       "date": "2019-11-18",
       "column": "新闻快递"
     }

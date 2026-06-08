@@ -2,10 +2,10 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260529_013601",
-  "total_articles": 208,
+  "crawl_time": "20260608_053955",
+  "total_articles": 209,
   "columns": {
-    "党务公开": 10,
+    "党务公开": 11,
     "媒体聚焦": 14,
     "学术讲座": 45,
     "学院公告": 58,
@@ -14,6 +14,12 @@
     "综合新闻": 30
   },
   "articles": [
+    {
+      "title": "立党为公践初心 为民造福助银龄|上海大学新闻传播学院与医学院开展树立和践行正确政绩观学习教育联组学习",
+      "url": "https://sjc.shu.edu.cn/info/1002/6459.htm",
+      "date": "2026-06-08",
+      "column": "党务公开"
+    },
     {
       "title": "社科申报・决咨赋能 | 新闻传播学院与文科处共同举办科研专题交流会",
       "url": "https://sjc.shu.edu.cn/info/1009/6439.htm",

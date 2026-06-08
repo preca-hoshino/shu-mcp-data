@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260608_014306",
+  "crawl_time": "20260608_053955",
   "total_articles": 18388,
   "columns": {
     "科研动态": 1635,
@@ -11,6 +11,30 @@
     "重要新闻": 21
   },
   "articles": [
+    {
+      "title": "打通网络思政的“最后一公里”——我校举办辅导员网络思政专题学习",
+      "url": "https://www.shu.edu.cn/info/1056/396485.htm",
+      "date": "2026-06-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "四届党委第四轮巡察整改部署会召开",
+      "url": "https://www.shu.edu.cn/info/1056/396495.htm",
+      "date": "2026-06-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "监督贯通协同暨智慧监督专项工作推进会召开",
+      "url": "https://www.shu.edu.cn/info/1056/396505.htm",
+      "date": "2026-06-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "羽动赛场展风采 凝心聚力促奋进——2026年上海大学教职工羽毛球团体赛顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/396515.htm",
+      "date": "2026-06-08",
+      "column": "综合新闻"
+    },
     {
       "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
@@ -36,18 +60,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
-      "url": "https://www.shu.edu.cn/info/1056/396375.htm",
-      "date": "2026-06-04",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发展新亮点、问题与前瞻思考",
-      "url": "https://www.shu.edu.cn/info/1056/396385.htm",
-      "date": "2026-06-04",
-      "column": "综合新闻"
-    },
-    {
       "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生“文化中国”两创大赛 ▪ 上大文信师生大同主题调研纪实",
       "url": "https://www.shu.edu.cn/info/1056/396395.htm",
       "date": "2026-06-04",
@@ -70,18 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/396175.htm",
       "date": "2026-06-03",
       "column": "科研动态"
-    },
-    {
-      "title": "理学院党委与国际部党委开展中心组联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/396185.htm",
-      "date": "2026-06-03",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/396195.htm",
-      "date": "2026-06-03",
-      "column": "综合新闻"
     },
     {
       "title": "关于宝山校区校内通行温馨提醒",
