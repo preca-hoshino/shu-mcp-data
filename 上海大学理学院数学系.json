@@ -2,14 +2,26 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260607_123820",
-  "total_articles": 1594,
+  "crawl_time": "20260608_014306",
+  "total_articles": 1596,
   "columns": {
     "学术会议": 29,
     "学术报告": 1396,
-    "新闻快递": 169
+    "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "上海大学理学院数学大师讲坛第二十二、二十三以及二十四讲顺利开讲",
+      "url": "https://math.shu.edu.cn/info/1041/26911.htm",
+      "date": "2026-06-07",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学数学学科发展研讨会成功举行",
+      "url": "https://math.shu.edu.cn/info/1041/26921.htm",
+      "date": "2026-06-07",
+      "column": "新闻快递"
+    },
     {
       "title": "Seminar第3059讲 关于k-数值范围的多重性",
       "url": "https://math.shu.edu.cn/info/1042/26891.htm",

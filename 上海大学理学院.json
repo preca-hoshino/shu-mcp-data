@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260607_123820",
-  "total_articles": 3878,
+  "crawl_time": "20260608_014306",
+  "total_articles": 3880,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2619,
+    "学术报告": 2621,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -16,6 +16,18 @@
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3059讲 关于k-数值范围的多重性",
+      "url": "https://scicol.shu.edu.cn/info/1003/33115.htm",
+      "date": "2026-06-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3060讲 保秩横截性质 (RPTP) 的最新进展",
+      "url": "https://scicol.shu.edu.cn/info/1003/33125.htm",
+      "date": "2026-06-08",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
       "url": "https://scicol.shu.edu.cn/info/1003/33085.htm",

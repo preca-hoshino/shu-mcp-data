@@ -2,12 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260607_123820",
-  "total_articles": 1750,
+  "crawl_time": "20260608_014306",
+  "total_articles": 1752,
   "columns": {
     "新闻": 33,
-    "讲座": 460,
-    "通知公告": 1257
+    "讲座": 461,
+    "通知公告": 1258
   },
   "articles": [
     {
@@ -395,6 +395,12 @@
       "column": "讲座"
     },
     {
+      "title": "第五届剧本大赛终审结果公布",
+      "url": "https://mp.weixin.qq.com/s/_1CqB5ikDGrbEuVVvIKZmg?scene=1&click_id=1",
+      "date": "",
+      "column": "通知公告"
+    },
+    {
       "title": "上海大学2026年“大咖会客厅”直播上海电影学院专场",
       "url": "https://mp.weixin.qq.com/s/_QhkAjzMJWxmWjb4AQkwTg?scene=1&click_id=1",
       "date": "",
@@ -633,6 +639,12 @@
       "url": "https://mp.weixin.qq.com/s/vLe2sPIdBqP-ayDRTZh5Qg",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "海上映梦·百廿回眸——赴一场跨越百年的光影之约",
+      "url": "https://mp.weixin.qq.com/s/vMWZ0kSOQiexnE2c9xJhWw",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "「JUST」电影计划——纪录电影专题：《胡阿姨的花园》",

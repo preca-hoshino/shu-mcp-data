@@ -2,14 +2,20 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260607_123820",
-  "total_articles": 689,
+  "crawl_time": "20260608_014306",
+  "total_articles": 690,
   "columns": {
     "学术报告": 217,
-    "最新动态": 365,
+    "最新动态": 366,
     "通知公告": 107
   },
   "articles": [
+    {
+      "title": "羽你同行，共展风采——钱伟长学院国际部联队征战2026年上海大学教职工羽毛球团体...",
+      "url": "https://qwc.shu.edu.cn/info/1087/8309.htm",
+      "date": "2026-06-08",
+      "column": "最新动态"
+    },
     {
       "title": "钱伟长学院2026年就业“攀登奖”初审名单公示",
       "url": "https://qwc.shu.edu.cn/info/1086/8299.htm",
