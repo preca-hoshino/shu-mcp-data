@@ -2,20 +2,38 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260609_052705",
-  "total_articles": 2519,
+  "crawl_time": "20260609_091059",
+  "total_articles": 2522,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
-    "学术动态": 548,
+    "学术动态": 549,
     "学术报告": 137,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
     "综合新闻": 872,
-    "通知公告": 47
+    "通知公告": 49
   },
   "articles": [
+    {
+      "title": "2026年社会学院毕业生就业“攀登奖”候选人公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/42138.htm",
+      "date": "2026-06-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "第六届费孝通田野调查项目资助计划立项名单",
+      "url": "https://sociology.shu.edu.cn/info/1103/42148.htm",
+      "date": "2026-06-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "新书 | 张海东等 主编 《中国新社会阶层发展研究报告（No.2）——数字社会中的新职业群体》",
+      "url": "https://sociology.shu.edu.cn/info/1104/42128.htm",
+      "date": "2026-06-08",
+      "column": "学术动态"
+    },
     {
       "title": "ADRI系列讲座|Sequential Migration of Chinese Overseas Returnees: the Intertwined Roles of Urban Amenities and Economic Opportunities（中国海外归国人才的序贯迁移：城市便利设施与经济机会的交互作用）",
       "url": "https://sociology.shu.edu.cn/info/1105/42118.htm",

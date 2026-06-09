@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260609_052705",
-  "total_articles": 960,
+  "crawl_time": "20260609_091059",
+  "total_articles": 961,
   "columns": {
     "学术报告": 79,
     "学院新闻": 385,
     "本科生教学": 70,
     "研究生教学": 204,
     "科研动态": 115,
-    "通知公告": 107
+    "通知公告": 108
   },
   "articles": [
+    {
+      "title": "关于开展2026年度上海大学教师专业实践能力提升计划申请工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/88514.htm",
+      "date": "2026-06-09",
+      "column": "通知公告"
+    },
     {
       "title": "环境与化学工程学院党委关于校第四届党委第三轮巡察集中整改进展情况的通报",
       "url": "https://ece.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1147&wbnewsid=88494",

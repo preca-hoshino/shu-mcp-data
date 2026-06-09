@@ -2,11 +2,11 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260609_052705",
-  "total_articles": 1752,
+  "crawl_time": "20260609_091059",
+  "total_articles": 1754,
   "columns": {
     "新闻": 33,
-    "讲座": 461,
+    "讲座": 463,
     "通知公告": 1258
   },
   "articles": [
@@ -263,6 +263,12 @@
       "column": "讲座"
     },
     {
+      "title": "国家一流课程“光影中国”系列高端学术讲座——谭政主讲《全球电影新格局与中国电影产业发展》",
+      "url": "https://mp.weixin.qq.com/s/LhInTGOfwIapRlkrwlIziw",
+      "date": "",
+      "column": "讲座"
+    },
+    {
       "title": "上海电影发展研究院【起跑线计划】正式开启",
       "url": "https://mp.weixin.qq.com/s/Lm_DMAM2S2yhxoEvPfmfPA",
       "date": "",
@@ -285,6 +291,12 @@
       "url": "https://mp.weixin.qq.com/s/PzIVdW_PwN2hh5JwZXPxRQ",
       "date": "",
       "column": "新闻"
+    },
+    {
+      "title": "亚里士多德的火车进站--戏剧与电影源发视域下的表导演艺术",
+      "url": "https://mp.weixin.qq.com/s/QX4YneOoVevzxN-7rNes2w",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "UST电影计划·学术活动《寻狗启事》《耳朵大有福》",

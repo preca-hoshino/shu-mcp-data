@@ -2,10 +2,10 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260609_052705",
-  "total_articles": 760,
+  "crawl_time": "20260609_091059",
+  "total_articles": 762,
   "columns": {
-    "学术活动": 194,
+    "学术活动": 196,
     "学院新闻": 63,
     "重要通知": 503
   },
@@ -15,6 +15,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/92085.htm",
       "date": "2026-06-09",
       "column": "重要通知"
+    },
+    {
+      "title": "0622上海管理论坛第575期（李海涛教授，密苏里大学圣路易斯分校）",
+      "url": "https://ms.shu.edu.cn/info/1246/92095.htm",
+      "date": "2026-06-09",
+      "column": "学术活动"
     },
     {
       "title": "校党委第二巡察组向管理学院党委反馈巡察情况",
@@ -4377,6 +4383,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "关于设立“上海管理论坛青年学者专场”的通知?",
+      "url": "https://ms.shu.edu.cn/info/1246/11180.htm",
+      "date": "2008-11-05",
+      "column": "学术活动"
     },
     {
       "title": "管理学院运动员书写赛场神话",

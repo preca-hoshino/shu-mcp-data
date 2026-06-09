@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260609_052705",
-  "total_articles": 327,
+  "crawl_time": "20260609_091059",
+  "total_articles": 328,
   "columns": {
-    "新闻动态": 245,
+    "新闻动态": 246,
     "讲座信息": 8,
     "资讯动态": 2,
     "通知公告": 72
   },
   "articles": [
+    {
+      "title": "微电子学院开展“萌趣六一，芯动童年”儿童节活动",
+      "url": "https://sme.shu.edu.cn/info/1029/6872.htm",
+      "date": "2026-06-09",
+      "column": "新闻动态"
+    },
     {
       "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛总冠军",
       "url": "https://sme.shu.edu.cn/info/1029/6862.htm",

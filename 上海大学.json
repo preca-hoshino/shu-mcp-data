@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260609_052705",
+  "crawl_time": "20260609_091059",
   "total_articles": 18391,
   "columns": {
     "科研动态": 1637,
@@ -48,22 +48,34 @@
       "column": "综合新闻"
     },
     {
+      "title": "2026 年第六期“群雁齐飞计划”——上海院校“聚力协同共建，深耕双创育人”产教融合师资培训班在我校顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/396665.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学理学院数学学科发展研讨会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/396675.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "湖南宜章访问团来校考察收集邓中夏同志建设上海大学生平事迹史料",
+      "url": "https://www.shu.edu.cn/info/1056/396685.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "学生档案之树常青——上海大学档案馆成功举办2026年国际档案日主题活动",
+      "url": "https://www.shu.edu.cn/info/1056/396695.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
       "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
       "url": "https://www.shu.edu.cn/info/1053/396585.htm",
       "date": "2026-06-08",
       "column": "重要新闻"
-    },
-    {
-      "title": "打通网络思政的“最后一公里”——我校举办辅导员网络思政专题学习",
-      "url": "https://www.shu.edu.cn/info/1056/396485.htm",
-      "date": "2026-06-08",
-      "column": "综合新闻"
-    },
-    {
-      "title": "四届党委第四轮巡察整改部署会召开",
-      "url": "https://www.shu.edu.cn/info/1056/396495.htm",
-      "date": "2026-06-08",
-      "column": "综合新闻"
     },
     {
       "title": "监督贯通协同暨智慧监督专项工作推进会召开",
@@ -82,18 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
       "date": "2026-06-05",
       "column": "重要新闻"
-    },
-    {
-      "title": "探秘微观生命 点亮科学童心——上海器官修复工程技术研究中心开展2026上海科技节开放日活动",
-      "url": "https://www.shu.edu.cn/info/1056/396455.htm",
-      "date": "2026-06-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学9种期刊2025 CiteScore再创佳绩，国际影响力持续攀升",
-      "url": "https://www.shu.edu.cn/info/1056/396475.htm",
-      "date": "2026-06-05",
-      "column": "综合新闻"
     },
     {
       "title": "材料学院罗群教授和重庆大学李谦教授团队在Nature子刊《Nature Communications》上发表研究成果",
