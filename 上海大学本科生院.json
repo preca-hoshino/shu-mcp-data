@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260609_013407",
-  "total_articles": 1802,
+  "crawl_time": "20260609_052705",
+  "total_articles": 1803,
   "columns": {
     "政策文件": 57,
     "新闻动态": 33,
-    "通知公告": 1712
+    "通知公告": 1713
   },
   "articles": [
+    {
+      "title": "上海大学2025年本科教学成果获奖名单暨2026年高等教育上海市教学成果奖推荐公示（本科生院〔2026〕20号）",
+      "url": "https://bksy.shu.edu.cn/info/1015/320924.htm",
+      "date": "2026-06-09",
+      "column": "通知公告"
+    },
     {
       "title": "2026年6月全国大学英语四、六级考试考前须知及注意事项",
       "url": "https://bksy.shu.edu.cn/info/1015/320914.htm",

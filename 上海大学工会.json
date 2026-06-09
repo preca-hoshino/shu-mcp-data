@@ -2,16 +2,22 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20260525_053719",
-  "total_articles": 1163,
+  "crawl_time": "20260609_052705",
+  "total_articles": 1164,
   "columns": {
     "分工会动态": 303,
     "协会动态": 46,
     "教工活动": 611,
-    "新闻动态": 71,
+    "新闻动态": 72,
     "通知公告": 132
   },
   "articles": [
+    {
+      "title": "羽动赛场，聚力奋进 | 2026年上大教职工羽毛球团体赛精彩回顾！",
+      "url": "https://mp.weixin.qq.com/s/rCmlqtxuh8E1QGZh8rt_gA",
+      "date": "2026-06-09",
+      "column": "新闻动态"
+    },
     {
       "title": "凝心聚力抓落实 笃行实干开新局｜我校召开2026年分工会主席工作例会",
       "url": "https://mp.weixin.qq.com/s/tJD3XfTwdcMLBBG0rQnBTg",

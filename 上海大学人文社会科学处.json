@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260609_013407",
-  "total_articles": 330,
+  "crawl_time": "20260609_052705",
+  "total_articles": 332,
   "columns": {
-    "文科动态": 78,
+    "文科动态": 80,
     "最新立项": 60,
     "通知公告": 192
   },
   "articles": [
+    {
+      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6257.htm",
+      "date": "2026-06-09",
+      "column": "文科动态"
+    },
     {
       "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
       "url": "https://rwskc.shu.edu.cn/info/1070/6097.htm",
@@ -1875,6 +1881,12 @@
       "url": "http://www.sh-popss.gov.cn/MoreInfo.asp?action=InsideNews&infoid=63",
       "date": "2008-06-26",
       "column": "通知公告"
+    },
+    {
+      "title": "《中国文学史学史》获第一届中国出版政府奖图书奖提名奖",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3578.htm",
+      "date": "2008-06-20",
+      "column": "文科动态"
     },
     {
       "title": "上海市语委“十一五”科研课题申报通知",

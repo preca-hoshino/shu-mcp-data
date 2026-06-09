@@ -2,10 +2,10 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260609_013407",
-  "total_articles": 1760,
+  "crawl_time": "20260609_052705",
+  "total_articles": 1759,
   "columns": {
-    "学院新闻": 533,
+    "学院新闻": 532,
     "招生热讯": 72,
     "通知公告": 1155
   },
@@ -25,12 +25,6 @@
     {
       "title": "数字巧板拼童趣，AI妙笔绘童真——记继续教育学院2026年儿童节多巧板电子拼画活动",
       "url": "https://cce.shu.edu.cn/info/1550/20414.htm",
-      "date": "2026-06-08",
-      "column": "学院新闻"
-    },
-    {
-      "title": "“业界导师引领工程”系列活动之“杰出校友分享会”——嘉定分部邀请孟祥玲校友作主题分享",
-      "url": "https://cce.shu.edu.cn/info/1550/20434.htm",
       "date": "2026-06-08",
       "column": "学院新闻"
     },

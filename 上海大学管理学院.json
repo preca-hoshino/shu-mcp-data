@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260609_013407",
-  "total_articles": 759,
+  "crawl_time": "20260609_052705",
+  "total_articles": 760,
   "columns": {
     "学术活动": 194,
     "学院新闻": 63,
-    "重要通知": 502
+    "重要通知": 503
   },
   "articles": [
+    {
+      "title": "2025-2026学年上海大学“学生党员先锋”“学生党建工作先进个人”管理学...",
+      "url": "https://ms.shu.edu.cn/info/1245/92085.htm",
+      "date": "2026-06-09",
+      "column": "重要通知"
+    },
     {
       "title": "校党委第二巡察组向管理学院党委反馈巡察情况",
       "url": "https://ms.shu.edu.cn/info/1244/92075.htm",

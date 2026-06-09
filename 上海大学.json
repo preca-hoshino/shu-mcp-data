@@ -2,15 +2,51 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260609_013407",
-  "total_articles": 18389,
+  "crawl_time": "20260609_052705",
+  "total_articles": 18391,
   "columns": {
-    "科研动态": 1635,
+    "科研动态": 1637,
     "综合新闻": 16285,
     "通知公告": 447,
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "经济学院陈秋玲教授团队在《Economic Change and Restructuring》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/396625.htm",
+      "date": "2026-06-09",
+      "column": "科研动态"
+    },
+    {
+      "title": "医学院丁小雷教授课题组在《Experimental Molecular Medicine》上发表研究论文",
+      "url": "https://www.shu.edu.cn/info/1055/396635.htm",
+      "date": "2026-06-09",
+      "column": "科研动态"
+    },
+    {
+      "title": "新闻传播学院与医学院开展树立和践行正确政绩观学习教育联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/396605.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "碳惠校园“账”未来  绿色转型“益”同行——沪碳行·上海大学第十八届环保节顺利落幕",
+      "url": "https://www.shu.edu.cn/info/1056/396615.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "我校举行第三十九、四十期中青班暨二级党委青联会会长培训班开班式",
+      "url": "https://www.shu.edu.cn/info/1056/396645.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学理学院数学大师讲坛顺利开讲",
+      "url": "https://www.shu.edu.cn/info/1056/396655.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
     {
       "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
       "url": "https://www.shu.edu.cn/info/1053/396585.htm",
@@ -48,12 +84,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "校党委第一巡察组向机关党委反馈巡察情况",
-      "url": "https://www.shu.edu.cn/info/1056/396425.htm",
-      "date": "2026-06-05",
-      "column": "综合新闻"
-    },
-    {
       "title": "探秘微观生命 点亮科学童心——上海器官修复工程技术研究中心开展2026上海科技节开放日活动",
       "url": "https://www.shu.edu.cn/info/1056/396455.htm",
       "date": "2026-06-05",
@@ -63,24 +93,6 @@
       "title": "上海大学9种期刊2025 CiteScore再创佳绩，国际影响力持续攀升",
       "url": "https://www.shu.edu.cn/info/1056/396475.htm",
       "date": "2026-06-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生“文化中国”两创大赛 ▪ 上大文信师生大同主题调研纪实",
-      "url": "https://www.shu.edu.cn/info/1056/396395.htm",
-      "date": "2026-06-04",
-      "column": "综合新闻"
-    },
-    {
-      "title": "走进古猗园·问诊千年文物：上大文信学院让文保科普“触手可及”",
-      "url": "https://www.shu.edu.cn/info/1056/396405.htm",
-      "date": "2026-06-04",
-      "column": "综合新闻"
-    },
-    {
-      "title": "力学AI4M产教研融合创新研讨会在我校召开",
-      "url": "https://www.shu.edu.cn/info/1056/396415.htm",
-      "date": "2026-06-04",
       "column": "综合新闻"
     },
     {

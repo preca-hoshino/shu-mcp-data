@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260609_013407",
-  "total_articles": 3880,
+  "crawl_time": "20260609_052705",
+  "total_articles": 3882,
   "columns": {
     "主办会议": 41,
     "学术报告": 2621,
@@ -12,10 +12,22 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 605,
+    "综合新闻": 607,
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "上海大学理学院数学学科发展研讨会顺利举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/33135.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学理学院数学大师讲坛顺利开讲",
+      "url": "https://scicol.shu.edu.cn/info/1007/33155.htm",
+      "date": "2026-06-09",
+      "column": "综合新闻"
+    },
     {
       "title": "数学学科Seminar第3059讲 关于k-数值范围的多重性",
       "url": "https://scicol.shu.edu.cn/info/1003/33115.htm",
