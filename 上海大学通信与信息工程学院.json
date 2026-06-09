@@ -2,13 +2,13 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260608_133315",
-  "total_articles": 2010,
+  "crawl_time": "20260609_013407",
+  "total_articles": 2011,
   "columns": {
     "学术报告": 518,
     "教学信息": 21,
     "新闻动态": 1256,
-    "通知公告": 215
+    "通知公告": 216
   },
   "articles": [
     {
@@ -20,6 +20,12 @@
     {
       "title": "通信学院2026年就业“攀登奖”初审名单公示",
       "url": "https://scie.shu.edu.cn/info/1065/46625.htm",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025-2026学年学生党员先锋、学生党建工作先进个人、优秀主题党日评选推荐名单公示",
+      "url": "https://scie.shu.edu.cn/info/1065/46655.htm",
       "date": "2026-06-08",
       "column": "通知公告"
     },

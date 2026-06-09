@@ -2,18 +2,30 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260608_133315",
-  "total_articles": 540,
+  "crawl_time": "20260609_013407",
+  "total_articles": 545,
   "columns": {
     "办事流程": 8,
-    "技术需求": 38,
+    "技术需求": 41,
     "科技动态": 72,
-    "通知公告": 422
+    "通知公告": 424
   },
   "articles": [
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年5月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11332",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于申报国家民委民族研究项目2026年度课题的通知",
+      "url": "https://mp.weixin.qq.com/s/AJX5-M7lfp2x5dYjOBGKcg?click_id=473563379",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于转发《工信部火炬中心关于举办第十五届中国创新创业大赛的通知》的通知",
+      "url": "https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260605/8d7840efc0db47139f33fccf4f2d8c8c.html",
       "date": "2026-06-08",
       "column": "通知公告"
     },
@@ -72,6 +84,12 @@
       "column": "通知公告"
     },
     {
+      "title": "关于发布2026年度普陀区加快发展集成电路产业专项申报指南的通知",
+      "url": "https://mp.weixin.qq.com/s/VyxjnzEG1zE14WxsxVP0nw",
+      "date": "2026-06-02",
+      "column": "技术需求"
+    },
+    {
       "title": "市科技工作党委深学真查实改 加快建设具有世界影响力的科技创新高地",
       "url": "https://mp.weixin.qq.com/s/_rwx_9_KhsGNYBZor-tpPQ?click_id=1",
       "date": "2026-06-02",
@@ -108,6 +126,12 @@
       "column": "通知公告"
     },
     {
+      "title": "关于发布2026年度普陀区加快发展智能软件产业专项申报指南的通知",
+      "url": "https://mp.weixin.qq.com/s/E_78P7qil54iOd4yc-xvMQ",
+      "date": "2026-05-28",
+      "column": "技术需求"
+    },
+    {
       "title": "【开放课题】上海市集成电路与新型显示材料工程研究中心主任开放课题申报通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11172.htm",
       "date": "2026-05-27",
@@ -136,6 +160,12 @@
       "url": "https://mp.weixin.qq.com/s/wTXiuf6tjT4j6MTGxS77YA",
       "date": "2026-05-25",
       "column": "科技动态"
+    },
+    {
+      "title": "关于开展2026年静安区数据智能产业高质量发展项目（第一批）申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/zNiWoZ-ARGNMIzP5guzm1g",
+      "date": "2026-05-22",
+      "column": "技术需求"
     },
     {
       "title": "2026年上海科技节：上海大学十余家科技创新基地及科学画廊科技节期间对外开放！",
