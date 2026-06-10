@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260609_130556",
-  "total_articles": 3882,
+  "crawl_time": "20260610_013942",
+  "total_articles": 3885,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2621,
+    "学术报告": 2624,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -16,6 +16,24 @@
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3061讲 具有非可积核的连续的Kuramoto模型的松弛动力学（一）",
+      "url": "https://scicol.shu.edu.cn/info/1003/33165.htm",
+      "date": "2026-06-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3062讲 具有非可积核的连续的Kuramoto模型的松弛动力学（二）",
+      "url": "https://scicol.shu.edu.cn/info/1003/33175.htm",
+      "date": "2026-06-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3063讲 具有非可积核的连续的Kuramoto模型的松弛动力学（三）",
+      "url": "https://scicol.shu.edu.cn/info/1003/33185.htm",
+      "date": "2026-06-10",
+      "column": "学术报告"
+    },
     {
       "title": "上海大学理学院数学学科发展研讨会顺利举行",
       "url": "https://scicol.shu.edu.cn/info/1007/33135.htm",

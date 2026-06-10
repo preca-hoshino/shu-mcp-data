@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260609_130556",
-  "total_articles": 961,
+  "crawl_time": "20260610_013942",
+  "total_articles": 962,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 385,
+    "学院新闻": 386,
     "本科生教学": 70,
     "研究生教学": 204,
     "科研动态": 115,
     "通知公告": 108
   },
   "articles": [
+    {
+      "title": "【喜报】恭喜我院学子荣获“挑战杯”市赛一等奖！",
+      "url": "https://mp.weixin.qq.com/s/Bg14S9aMZ6WkIL6JHsTqTA",
+      "date": "2026-06-10",
+      "column": "学院新闻"
+    },
     {
       "title": "关于开展2026年度上海大学教师专业实践能力提升计划申请工作的通知",
       "url": "https://ece.shu.edu.cn/info/1147/88514.htm",
