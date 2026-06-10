@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260610_091646",
-  "total_articles": 438,
+  "crawl_time": "20260610_131655",
+  "total_articles": 440,
   "columns": {
     "后勤新闻": 316,
-    "通知公告": 122
+    "通知公告": 124
   },
   "articles": [
+    {
+      "title": "2026年餐饮管理中心益新三楼餐厅地板材料采购项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10216.htm",
+      "date": "2026-06-10",
+      "column": "通知公告"
+    },
     {
       "title": "行政楼报告厅改造工程设计服务需求",
       "url": "https://hbb.shu.edu.cn/info/1005/10206.htm",
@@ -2462,6 +2468,12 @@
       "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
       "date": "2021-03-01",
       "column": "后勤新闻"
+    },
+    {
+      "title": "延长校区1月23日停电通知",
+      "url": "https://mp.weixin.qq.com/s/HxE2LrVq02IC0U-EE0S2rw",
+      "date": "2021-01-11",
+      "column": "通知公告"
     },
     {
       "title": "上大后勤向你发送一份元旦放假安排表",
