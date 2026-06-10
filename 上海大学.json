@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260610_013942",
+  "crawl_time": "20260610_053637",
   "total_articles": 18391,
   "columns": {
     "科研动态": 1637,
@@ -11,6 +11,12 @@
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
+      "url": "https://www.shu.edu.cn/info/1056/396805.htm",
+      "date": "2026-06-10",
+      "column": "综合新闻"
+    },
     {
       "title": "经济学院陈秋玲教授团队在《Economic Change and Restructuring》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/396625.htm",
@@ -76,12 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396585.htm",
       "date": "2026-06-08",
       "column": "重要新闻"
-    },
-    {
-      "title": "监督贯通协同暨智慧监督专项工作推进会召开",
-      "url": "https://www.shu.edu.cn/info/1056/396505.htm",
-      "date": "2026-06-08",
-      "column": "综合新闻"
     },
     {
       "title": "羽动赛场展风采 凝心聚力促奋进——2026年上海大学教职工羽毛球团体赛顺利举办",

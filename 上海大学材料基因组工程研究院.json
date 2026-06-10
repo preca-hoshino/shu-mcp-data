@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260610_013942",
-  "total_articles": 405,
+  "crawl_time": "20260610_053637",
+  "total_articles": 407,
   "columns": {
-    "学术报告": 131,
+    "学术报告": 133,
     "科研动态": 74,
     "综合新闻": 44,
     "通知公告": 156
   },
   "articles": [
+    {
+      "title": "MGI Seminar 第418讲：黄维扬 （2026年6月13日 星期六 15:30）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7365.htm",
+      "date": "2026-06-10",
+      "column": "学术报告"
+    },
     {
       "title": "关于成立上海大学低维炭材料与器件物理研究所的通知",
       "url": "https://mgi.shu.edu.cn/info/1062/7355.htm",
@@ -2314,6 +2320,12 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1623.htm",
       "date": "2015-07-08",
       "column": "通知公告"
+    },
+    {
+      "title": "MGI Seminar第27讲：脉冲激光沉积Nd-Ti掺杂的BiFeO3薄膜的微结构研究",
+      "url": "https://mgi.shu.edu.cn/info/1065/2049.htm",
+      "date": "2015-07-03",
+      "column": "学术报告"
     },
     {
       "title": "MGI Seminar第26讲：Novel properties of KxFe2-ySe2 superconductor and BiTeCl Rashba semiconductor",
