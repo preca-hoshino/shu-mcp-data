@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260610_053637",
-  "total_articles": 2522,
+  "crawl_time": "20260610_091646",
+  "total_articles": 2523,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
@@ -12,7 +12,7 @@
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
-    "综合新闻": 872,
+    "综合新闻": 873,
     "通知公告": 49
   },
   "articles": [
@@ -177,6 +177,12 @@
       "url": "https://yjszs.shu.edu.cn/info/1004/8644.htm ",
       "date": "2026-05-07",
       "column": "通知公告"
+    },
+    {
+      "title": "五四表彰丨致敬榜样力量，他们获得2025年度上海大学青年五四奖章！",
+      "url": "https://sociology.shu.edu.cn/info/1102/42178.htm",
+      "date": "2026-05-06",
+      "column": "综合新闻"
     },
     {
       "title": "2026公共性论坛05|物业何以联合？街镇物业联合体中的责任共担与公共服务再组织",

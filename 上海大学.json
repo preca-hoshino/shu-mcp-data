@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260610_053637",
+  "crawl_time": "20260610_091646",
   "total_articles": 18391,
   "columns": {
     "科研动态": 1637,
@@ -14,6 +14,12 @@
     {
       "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
       "url": "https://www.shu.edu.cn/info/1056/396805.htm",
+      "date": "2026-06-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学上海温哥华电影学院院长课堂 | 贾樟柯：在AI时代，用“实践”重新发明电影",
+      "url": "https://www.shu.edu.cn/info/1056/396825.htm",
       "date": "2026-06-10",
       "column": "综合新闻"
     },
@@ -82,12 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396585.htm",
       "date": "2026-06-08",
       "column": "重要新闻"
-    },
-    {
-      "title": "羽动赛场展风采 凝心聚力促奋进——2026年上海大学教职工羽毛球团体赛顺利举办",
-      "url": "https://www.shu.edu.cn/info/1056/396515.htm",
-      "date": "2026-06-08",
-      "column": "综合新闻"
     },
     {
       "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",

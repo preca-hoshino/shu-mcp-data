@@ -2,16 +2,22 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20260610_053637",
-  "total_articles": 1164,
+  "crawl_time": "20260610_091646",
+  "total_articles": 1165,
   "columns": {
     "分工会动态": 303,
     "协会动态": 46,
     "教工活动": 611,
     "新闻动态": 72,
-    "通知公告": 132
+    "通知公告": 133
   },
   "articles": [
+    {
+      "title": "关于做好上海大学第六届教代会第三次会议  提案征集工作的通知",
+      "url": "https://gh.shu.edu.cn/info/1061/42692.htm",
+      "date": "2026-06-10",
+      "column": "通知公告"
+    },
     {
       "title": "羽动赛场，聚力奋进 | 2026年上大教职工羽毛球团体赛精彩回顾！",
       "url": "https://mp.weixin.qq.com/s/rCmlqtxuh8E1QGZh8rt_gA",

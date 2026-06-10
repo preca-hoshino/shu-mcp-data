@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260610_053637",
-  "total_articles": 590,
+  "crawl_time": "20260610_091646",
+  "total_articles": 591,
   "columns": {
     "焦点新闻": 364,
-    "论坛活动": 176,
+    "论坛活动": 177,
     "通知公告": 50
   },
   "articles": [
+    {
+      "title": "第十二届全国管理案例精英赛上海大学校园突围赛圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/6MUG0lFdOJ_fqUimWFr2ig",
+      "date": "2026-06-10",
+      "column": "论坛活动"
+    },
     {
       "title": "关于收集2026级新生缴费信息抬头的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26791.htm",

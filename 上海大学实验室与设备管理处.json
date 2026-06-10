@@ -2,13 +2,19 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260610_053637",
-  "total_articles": 188,
+  "crawl_time": "20260610_091646",
+  "total_articles": 190,
   "columns": {
     "工作动态": 164,
-    "通知公告": 24
+    "通知公告": 26
   },
   "articles": [
+    {
+      "title": "上海大学关于2026年第2批报废资产公开处置的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/11114.htm",
+      "date": "2026-06-10",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学关于2026年第2批资产处置审议的公示",
       "url": "https://sbc.shu.edu.cn/info/1004/11104.htm",
@@ -1112,6 +1118,12 @@
       "url": "https://sbc.shu.edu.cn/info/1003/1116.htm",
       "date": "2018-09-12",
       "column": "工作动态"
+    },
+    {
+      "title": "关于印发《实验设备处“一次性告知制”和“限时办结制”》的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/1106.htm",
+      "date": "2018-01-23",
+      "column": "通知公告"
     },
     {
       "title": "实验设备处组织召开“一流学科”建设项目招标实务宣讲和集中答疑会",
