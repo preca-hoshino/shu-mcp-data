@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260610_131655",
-  "total_articles": 762,
+  "crawl_time": "20260611_014634",
+  "total_articles": 763,
   "columns": {
     "学术活动": 196,
-    "学院新闻": 63,
+    "学院新闻": 64,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "产教融合共进，校企协同育人 | 上海大学管理学院与毕马威共建实习实践基...",
+      "url": "https://ms.shu.edu.cn/info/1244/92105.htm",
+      "date": "2026-06-11",
+      "column": "学院新闻"
+    },
     {
       "title": "2025-2026学年上海大学“学生党员先锋”“学生党建工作先进个人”管理学...",
       "url": "https://ms.shu.edu.cn/info/1245/92085.htm",

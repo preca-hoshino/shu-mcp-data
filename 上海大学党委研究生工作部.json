@@ -2,13 +2,19 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 2805,
+  "crawl_time": "20260611_014634",
+  "total_articles": 2806,
   "columns": {
     "新闻动态": 2592,
-    "通知公告": 213
+    "通知公告": 214
   },
   "articles": [
+    {
+      "title": "上海大学第三届研究生“卓越导学团队”评选结果公示",
+      "url": "https://dwygb.shu.edu.cn/info/1050/41249.htm",
+      "date": "2026-06-11",
+      "column": "通知公告"
+    },
     {
       "title": "不止课堂！这场比赛，上大师生一起“羽”见未来！",
       "url": "https://mp.weixin.qq.com/s/Fx0rUtQYzv5Is02XJbKgQw",

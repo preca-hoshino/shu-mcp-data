@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260610_131655",
-  "total_articles": 694,
+  "crawl_time": "20260611_014634",
+  "total_articles": 695,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
     "学生工作": 40,
-    "学院新闻": 327,
+    "学院新闻": 328,
     "展览展示": 24,
     "教学": 158,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "我院举行拼布灯影与果壳造物六一亲子工作坊活动",
+      "url": "https://safa.shu.edu.cn/info/1084/19490.htm",
+      "date": "2026-06-09",
+      "column": "学院新闻"
+    },
     {
       "title": "文博艺苑携手 共护石窟文脉——炳灵寺石窟研究所一行到访上海大学上海美术学院交流",
       "url": "https://safa.shu.edu.cn/info/1084/19480.htm",

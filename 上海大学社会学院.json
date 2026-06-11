@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260610_131655",
-  "total_articles": 2523,
+  "crawl_time": "20260611_014634",
+  "total_articles": 2522,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 49,
@@ -13,15 +13,9 @@
     "教学教务": 136,
     "校友活动": 31,
     "综合新闻": 873,
-    "通知公告": 49
+    "通知公告": 48
   },
   "articles": [
-    {
-      "title": "2026年社会学院毕业生就业“攀登奖”候选人公示",
-      "url": "https://sociology.shu.edu.cn/info/1103/42138.htm",
-      "date": "2026-06-09",
-      "column": "通知公告"
-    },
     {
       "title": "第六届费孝通田野调查项目资助计划立项名单",
       "url": "https://sociology.shu.edu.cn/info/1103/42148.htm",
