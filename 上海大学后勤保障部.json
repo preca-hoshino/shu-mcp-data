@@ -2,16 +2,22 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260611_054011",
-  "total_articles": 440,
+  "crawl_time": "20260611_093156",
+  "total_articles": 442,
   "columns": {
     "后勤新闻": 316,
-    "通知公告": 124
+    "通知公告": 126
   },
   "articles": [
     {
       "title": "2026年餐饮管理中心益新三楼餐厅地板材料采购项目公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10216.htm",
+      "date": "2026-06-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年餐饮管理中心食堂有害生物防治服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10236.htm",
       "date": "2026-06-10",
       "column": "通知公告"
     },
@@ -2468,6 +2474,12 @@
       "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
       "date": "2021-03-01",
       "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部员工离沪和留校的注意事项",
+      "url": "https://mp.weixin.qq.com/s/xtAgsKwovWd54Jh9H6TuMw",
+      "date": "2021-01-21",
+      "column": "通知公告"
     },
     {
       "title": "延长校区1月23日停电通知",

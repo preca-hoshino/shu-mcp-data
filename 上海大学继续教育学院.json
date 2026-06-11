@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260611_054011",
-  "total_articles": 1759,
+  "crawl_time": "20260611_093156",
+  "total_articles": 1761,
   "columns": {
     "学院新闻": 532,
     "招生热讯": 72,
-    "通知公告": 1155
+    "通知公告": 1157
   },
   "articles": [
+    {
+      "title": "上海大学高等学历继续教育2025—2026学年优秀学生干部评选结果公示",
+      "url": "https://cce.shu.edu.cn/info/1464/20374.htm",
+      "date": "2026-06-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学高等学历继续教育2025—2026学年优秀学生奖学金评选结果公示",
+      "url": "https://cce.shu.edu.cn/info/1464/20384.htm",
+      "date": "2026-06-11",
+      "column": "通知公告"
+    },
     {
       "title": "“业界导师引领工程”系列活动之“杰出校友分享会”——嘉定分部邀请孟祥玲校友作主题分享",
       "url": "https://cce.shu.edu.cn/info/1434/20424.htm",
