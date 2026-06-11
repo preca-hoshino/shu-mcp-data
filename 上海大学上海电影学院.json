@@ -2,11 +2,11 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260611_014634",
-  "total_articles": 1754,
+  "crawl_time": "20260611_054011",
+  "total_articles": 1757,
   "columns": {
-    "新闻": 33,
-    "讲座": 463,
+    "新闻": 35,
+    "讲座": 464,
     "通知公告": 1258
   },
   "articles": [
@@ -105,6 +105,12 @@
       "url": "https://mp.weixin.qq.com/s/3XKeP6gwchbMePsJoCMwJQ?scene=1&click_id=1",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "马可・穆勒教授荣获意大利共和国功勋勋章指挥官勋位",
+      "url": "https://mp.weixin.qq.com/s/3qSq7hyIvA-T7T74cb4MkQ",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "声影之间：音乐为何能深度激活我们的观影体验？",
@@ -447,6 +453,12 @@
       "url": "https://mp.weixin.qq.com/s/bQJYt_0hJj4SqY6fyaO_JQ",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "亚洲电影：众声喧哗，何以听见自我？",
+      "url": "https://mp.weixin.qq.com/s/bfZeyESiOlvwyJ_WuXUS3A",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "\"光影视界\"摄影专业系列讲座：《SIGMA·海洋与镜头的对话》",
@@ -3301,6 +3313,12 @@
     {
       "title": "我院召开青年教师学科讨论会",
       "url": "https://sfa.shu.edu.cn/info/1211/4208.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "<font color=black>实验中心组织新设备、新技术培训收效显著</font>",
+      "url": "https://sfa.shu.edu.cn/info/1211/4209.htm",
       "date": "",
       "column": "新闻"
     },

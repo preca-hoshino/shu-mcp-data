@@ -2,15 +2,33 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260611_014634",
-  "total_articles": 18391,
+  "crawl_time": "20260611_054011",
+  "total_articles": 18392,
   "columns": {
-    "科研动态": 1637,
+    "科研动态": 1638,
     "综合新闻": 16285,
     "通知公告": 447,
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "机自学院与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
+      "url": "https://www.shu.edu.cn/info/1055/396835.htm",
+      "date": "2026-06-11",
+      "column": "科研动态"
+    },
+    {
+      "title": "马可・穆勒教授荣获意大利共和国功勋勋章指挥官勋位",
+      "url": "https://www.shu.edu.cn/info/1056/396845.htm",
+      "date": "2026-06-11",
+      "column": "综合新闻"
+    },
+    {
+      "title": "印度尼西亚泗水国立大学体育与健康学院代表团来访上海大学体育学院",
+      "url": "https://www.shu.edu.cn/info/1056/396855.htm",
+      "date": "2026-06-11",
+      "column": "综合新闻"
+    },
     {
       "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
       "url": "https://www.shu.edu.cn/info/1056/396805.htm",
@@ -34,18 +52,6 @@
       "url": "https://www.shu.edu.cn/info/1055/396635.htm",
       "date": "2026-06-09",
       "column": "科研动态"
-    },
-    {
-      "title": "新闻传播学院与医学院开展树立和践行正确政绩观学习教育联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/396605.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "碳惠校园“账”未来  绿色转型“益”同行——沪碳行·上海大学第十八届环保节顺利落幕",
-      "url": "https://www.shu.edu.cn/info/1056/396615.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
     },
     {
       "title": "我校举行第三十九、四十期中青班暨二级党委青联会会长培训班开班式",
