@@ -2,12 +2,12 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260612_053926",
-  "total_articles": 18392,
+  "crawl_time": "20260612_092716",
+  "total_articles": 18393,
   "columns": {
     "科研动态": 1638,
     "综合新闻": 16285,
-    "通知公告": 447,
+    "通知公告": 448,
     "重要新闻": 22
   },
   "articles": [
@@ -40,6 +40,18 @@
       "url": "https://www.shu.edu.cn/info/1056/396905.htm",
       "date": "2026-06-12",
       "column": "综合新闻"
+    },
+    {
+      "title": "斯洛伐克布拉迪斯拉发经济与公共管理大学代表团访问上海大学",
+      "url": "https://www.shu.edu.cn/info/1056/396935.htm",
+      "date": "2026-06-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "情况通报",
+      "url": "https://www.shu.edu.cn/info/4203/396955.htm",
+      "date": "2026-06-12",
+      "column": "通知公告"
     },
     {
       "title": "机自学院与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
@@ -82,12 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1055/396635.htm",
       "date": "2026-06-09",
       "column": "科研动态"
-    },
-    {
-      "title": "学生档案之树常青——上海大学档案馆成功举办2026年国际档案日主题活动",
-      "url": "https://www.shu.edu.cn/info/1056/396695.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
     },
     {
       "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",

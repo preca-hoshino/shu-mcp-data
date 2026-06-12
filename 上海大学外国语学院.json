@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260612_053926",
-  "total_articles": 561,
+  "crawl_time": "20260612_092716",
+  "total_articles": 562,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 43,
+    "学院新闻": 44,
     "通知公告": 88
   },
   "articles": [
+    {
+      "title": "赋能暑期实践，挺膺青春担当  ——外国语学院第六期团支部书记沙龙活动顺利开展",
+      "url": "https://sfs.shu.edu.cn/info/1142/30797.htm",
+      "date": "2026-06-12",
+      "column": "学院新闻"
+    },
     {
       "title": "2025-2026学年上海大学外国语学院学生党员先锋、学生党建工作先进个人、优秀主题党日的推荐公示",
       "url": "https://sfs.shu.edu.cn/info/1141/30787.htm",

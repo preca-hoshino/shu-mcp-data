@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260612_053926",
-  "total_articles": 591,
+  "crawl_time": "20260612_092716",
+  "total_articles": 592,
   "columns": {
     "焦点新闻": 364,
     "论坛活动": 177,
-    "通知公告": 50
+    "通知公告": 51
   },
   "articles": [
+    {
+      "title": "6月28日线上专场｜上大MBA360°职业洞察营报名进行时",
+      "url": "https://mp.weixin.qq.com/s/oIF3fLgOHMbhpdIChiUkHA",
+      "date": "2026-06-12",
+      "column": "通知公告"
+    },
     {
       "title": "第十二届全国管理案例精英赛上海大学校园突围赛圆满落幕",
       "url": "https://mp.weixin.qq.com/s/6MUG0lFdOJ_fqUimWFr2ig",
