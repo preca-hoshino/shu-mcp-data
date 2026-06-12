@@ -2,17 +2,23 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20260612_092716",
-  "total_articles": 390,
+  "crawl_time": "20260612_131545",
+  "total_articles": 391,
   "columns": {
     "人才工作": 17,
-    "党建工作": 49,
+    "党建工作": 50,
     "党校工作": 211,
     "基层风采": 29,
     "干部工作": 55,
     "理论学习": 29
   },
   "articles": [
+    {
+      "title": "关于上海大学“两优一先”拟表彰对象的公示",
+      "url": "https://zzb.shu.edu.cn/nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1016&wbnewsid=8121",
+      "date": "2026-06-12",
+      "column": "党建工作"
+    },
     {
       "title": "我校党建研究会举办2026年“揭榜挂帅”和重点立项课题开题论证会",
       "url": "https://zzb.shu.edu.cn/info/1005/8111.htm",
