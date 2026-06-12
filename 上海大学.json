@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260611_132512",
+  "crawl_time": "20260612_014507",
   "total_articles": 18392,
   "columns": {
     "科研动态": 1638,
@@ -11,6 +11,30 @@
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
+      "url": "https://www.shu.edu.cn/info/1056/396865.htm",
+      "date": "2026-06-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "期刊社举行人文社科期刊评刊会",
+      "url": "https://www.shu.edu.cn/info/1056/396875.htm",
+      "date": "2026-06-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "欧美同学会上大分会与宝山分会开启互动新篇章",
+      "url": "https://www.shu.edu.cn/info/1056/396885.htm",
+      "date": "2026-06-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新闻传播学院刘幼琍教授当选国际传播学会会士（ICA Fellow）",
+      "url": "https://www.shu.edu.cn/info/1056/396895.htm",
+      "date": "2026-06-12",
+      "column": "综合新闻"
+    },
     {
       "title": "机自学院与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
       "url": "https://www.shu.edu.cn/info/1055/396835.htm",
@@ -52,30 +76,6 @@
       "url": "https://www.shu.edu.cn/info/1055/396635.htm",
       "date": "2026-06-09",
       "column": "科研动态"
-    },
-    {
-      "title": "我校举行第三十九、四十期中青班暨二级党委青联会会长培训班开班式",
-      "url": "https://www.shu.edu.cn/info/1056/396645.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学理学院数学大师讲坛顺利开讲",
-      "url": "https://www.shu.edu.cn/info/1056/396655.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026 年第六期“群雁齐飞计划”——上海院校“聚力协同共建，深耕双创育人”产教融合师资培训班在我校顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/396665.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学理学院数学学科发展研讨会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/396675.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
     },
     {
       "title": "湖南宜章访问团来校考察收集邓中夏同志建设上海大学生平事迹史料",

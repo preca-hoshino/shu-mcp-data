@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260611_132512",
-  "total_articles": 545,
+  "crawl_time": "20260612_014507",
+  "total_articles": 546,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
-    "科技动态": 72,
+    "科技动态": 73,
     "通知公告": 424
   },
   "articles": [
+    {
+      "title": "走进上大，探秘前沿！在这里，科学的种子正在发芽",
+      "url": "https://mp.weixin.qq.com/s/fMvKJfMyQP0Zco9G2Pg8sg",
+      "date": "2026-06-12",
+      "column": "科技动态"
+    },
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年5月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11332",

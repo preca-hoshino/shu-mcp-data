@@ -2,8 +2,8 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260611_132512",
-  "total_articles": 209,
+  "crawl_time": "20260612_014507",
+  "total_articles": 211,
   "columns": {
     "党务公开": 11,
     "媒体聚焦": 14,
@@ -11,9 +11,15 @@
     "学院公告": 58,
     "本科生教育": 24,
     "研究生教育": 27,
-    "综合新闻": 30
+    "综合新闻": 32
   },
   "articles": [
+    {
+      "title": "上海大学新闻传播学院刘幼琍教授当选国际传播学会会士",
+      "url": "https://sjc.shu.edu.cn/info/1009/6469.htm",
+      "date": "2026-06-11",
+      "column": "综合新闻"
+    },
     {
       "title": "立党为公践初心 为民造福助银龄|上海大学新闻传播学院与医学院开展树立和践行正确政绩观学习教育联组学习",
       "url": "https://sjc.shu.edu.cn/info/1002/6459.htm",
@@ -1061,6 +1067,12 @@
     {
       "title": "首日教育丨新闻传播学院顺利开展春季学期首日教育活动",
       "url": "https://sjc.shu.edu.cn/info/1009/1157.htm",
+      "date": "2019-03-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“上海城市形象和网络舆情”工作坊顺利举行",
+      "url": "https://sjc.shu.edu.cn/info/1009/1158.htm",
       "date": "2019-03-27",
       "column": "综合新闻"
     },

@@ -2,24 +2,12 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260611_132512",
-  "total_articles": 35,
+  "crawl_time": "20260612_014507",
+  "total_articles": 33,
   "columns": {
-    "最新公告": 35
+    "最新公告": 33
   },
   "articles": [
-    {
-      "title": "上海大学2026年插班生预录取名单公示",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/38760.htm",
-      "date": "2026-06-05",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2026年第二学士学位预录取及候补预录取名单公示",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/38780.htm",
-      "date": "2026-06-05",
-      "column": "最新公告"
-    },
     {
       "title": "上海大学2026年综合评价录取报名初审结果公布",
       "url": "https://bkzsw.shu.edu.cn/info/1798/38740.htm",
