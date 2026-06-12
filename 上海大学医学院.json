@@ -2,17 +2,23 @@
   "domain": "medicine.shu.edu.cn",
   "department": "上海大学医学院",
   "type": "18",
-  "crawl_time": "20260612_014507",
-  "total_articles": 310,
+  "crawl_time": "20260612_053926",
+  "total_articles": 311,
   "columns": {
     "学术讲座": 22,
     "学生事务": 39,
     "教师事务": 31,
-    "科研动态": 100,
+    "科研动态": 101,
     "综合新闻": 66,
     "通知公告": 52
   },
   "articles": [
+    {
+      "title": "医学院孙晓东课题组在《Advanced Functional Materials》上发表研究论文近日，上海大学医学院特聘研究员孙晓东课题组在《Advanced Functional Materials》上发表题为“Multifunctional Responsive Nanoplatform as Immun...",
+      "url": "https://medicine.shu.edu.cn/info/1053/17257.htm",
+      "date": "2026-06-12",
+      "column": "科研动态"
+    },
     {
       "title": "清华大学程京院士一行访问上海大学2026年6月9日，中国工程院院士、清华大学讲席教授程京院士一行应邀参访上海大学。上海大学医学院党委书记李娟、院长刘斌、副院长陈亮、副院长董昕...",
       "url": "https://medicine.shu.edu.cn/info/1052/17227.htm",

@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260612_014507",
+  "crawl_time": "20260612_053926",
   "total_articles": 18392,
   "columns": {
     "科研动态": 1638,
@@ -32,6 +32,12 @@
     {
       "title": "新闻传播学院刘幼琍教授当选国际传播学会会士（ICA Fellow）",
       "url": "https://www.shu.edu.cn/info/1056/396895.htm",
+      "date": "2026-06-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "后勤保障部与环化学院签署战略合作协议",
+      "url": "https://www.shu.edu.cn/info/1056/396905.htm",
       "date": "2026-06-12",
       "column": "综合新闻"
     },
@@ -76,12 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/396635.htm",
       "date": "2026-06-09",
       "column": "科研动态"
-    },
-    {
-      "title": "湖南宜章访问团来校考察收集邓中夏同志建设上海大学生平事迹史料",
-      "url": "https://www.shu.edu.cn/info/1056/396685.htm",
-      "date": "2026-06-09",
-      "column": "综合新闻"
     },
     {
       "title": "学生档案之树常青——上海大学档案馆成功举办2026年国际档案日主题活动",

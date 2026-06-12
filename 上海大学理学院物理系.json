@@ -2,15 +2,27 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260612_014507",
-  "total_articles": 375,
+  "crawl_time": "20260612_053926",
+  "total_articles": 377,
   "columns": {
-    "学术报告": 295,
+    "学术报告": 297,
     "新闻快递": 20,
     "研究动态": 46,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar第110讲暨物理学科Seminar第819讲:万贤纲（2026年6月16日14 ...",
+      "url": "https://physics.shu.edu.cn/info/1078/9634.htm",
+      "date": "2026-06-12",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar第111讲暨物理学科Seminar第820讲：赵宇心（2026年6月16日16...",
+      "url": "https://physics.shu.edu.cn/info/1078/9644.htm",
+      "date": "2026-06-12",
+      "column": "学术报告"
+    },
     {
       "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
       "url": "https://physics.shu.edu.cn/info/1021/9614.htm",
