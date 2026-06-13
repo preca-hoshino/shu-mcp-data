@@ -2,14 +2,56 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260613_014028",
-  "total_articles": 140,
+  "crawl_time": "20260613_053523",
+  "total_articles": 142,
   "columns": {
     "文明创建": 33,
-    "文明实践": 71,
+    "文明实践": 73,
     "校园动态": 36
   },
   "articles": [
+    {
+      "title": "新闻传播学院与医学院开展树立和践行正确政绩观学习教育联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/396605.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "碳惠校园“账”未来 绿色转型“益”同行——沪碳行·上海大学...",
+      "url": "https://www.shu.edu.cn/info/1056/396615.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学理学院数学学科发展研讨会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/396675.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "学生档案之树常青——上海大学档案馆成功举办2026年国际档案...",
+      "url": "https://www.shu.edu.cn/info/1056/396695.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型...",
+      "url": "https://www.shu.edu.cn/info/1056/396805.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
+      "url": "https://www.shu.edu.cn/info/1056/396865.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
+    {
+      "title": "斯洛伐克布拉迪斯拉发经济与公共管理大学代表团访问上海大学",
+      "url": "https://www.shu.edu.cn/info/1056/396935.htm",
+      "date": "2026-06-13",
+      "column": "文明实践"
+    },
     {
       "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
       "url": "https://www.shu.edu.cn/info/1053/396585.htm",
@@ -39,18 +81,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
       "date": "2026-06-05",
       "column": "校园动态"
-    },
-    {
-      "title": "融通中外，文明互鉴——上海大学第十三届莎士比亚戏剧节华彩呈现",
-      "url": "https://www.shu.edu.cn/info/1056/395925.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
-    },
-    {
-      "title": "材料学院特殊钢精炼教工党支部组织党员集体参观中国共产党人...",
-      "url": "https://www.shu.edu.cn/info/1056/395975.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
     },
     {
       "title": "马克思主义学院召开AI赋能思政课教学研究专题培训会暨教师政...",
@@ -98,24 +128,6 @@
       "title": "校党委第一巡察组向机关党委反馈巡察情况",
       "url": "https://www.shu.edu.cn/info/1056/396425.htm",
       "date": "2026-06-05",
-      "column": "文明实践"
-    },
-    {
-      "title": "筑强科创育人新空间 共绘校城融合新图景——上海科技节·上海...",
-      "url": "https://www.shu.edu.cn/info/1056/395895.htm",
-      "date": "2026-06-01",
-      "column": "文明实践"
-    },
-    {
-      "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院...",
-      "url": "https://www.shu.edu.cn/info/1056/395905.htm",
-      "date": "2026-06-01",
-      "column": "文明实践"
-    },
-    {
-      "title": "新闻传播学院与文科处共同举办科研专题交流会",
-      "url": "https://www.shu.edu.cn/info/1056/395915.htm",
-      "date": "2026-06-01",
       "column": "文明实践"
     },
     {

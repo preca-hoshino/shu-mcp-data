@@ -2,13 +2,19 @@
   "domain": "sdyywz.shu.edu.cn",
   "department": "上海大学语言文字网",
   "type": "04",
-  "crawl_time": "20260613_014028",
-  "total_articles": 247,
+  "crawl_time": "20260613_053523",
+  "total_articles": 249,
   "columns": {
     "新闻动态": 197,
-    "通知通告": 50
+    "通知通告": 52
   },
   "articles": [
+    {
+      "title": "关于举办第八届中华经典诵写讲大赛—— “诗教中国”讲解大赛上海大学选拔赛的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/2932.htm",
+      "date": "2026-06-13",
+      "column": "通知通告"
+    },
     {
       "title": "关于举办第八届中华经典诵写讲大赛—— “印记中国”师生篆刻大赛上海大学赛区比赛的通知",
       "url": "https://sdyywz.shu.edu.cn/info/1002/2892.htm",
@@ -438,6 +444,12 @@
     {
       "title": "关于做好2016年语言文字相关工作培训预报名的通知",
       "url": "https://sdyywz.shu.edu.cn/info/1002/1824.htm",
+      "date": "2015-10-21",
+      "column": "通知通告"
+    },
+    {
+      "title": "关于做好2016年上海文化知识与方言应用能力测试预报名工作的通知",
+      "url": "https://sdyywz.shu.edu.cn/info/1002/1825.htm",
       "date": "2015-10-21",
       "column": "通知通告"
     },
