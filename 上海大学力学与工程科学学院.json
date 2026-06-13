@@ -2,11 +2,11 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260612_131545",
-  "total_articles": 251,
+  "crawl_time": "20260613_014028",
+  "total_articles": 250,
   "columns": {
     "学术报告": 51,
-    "学生信息": 42,
+    "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
@@ -19,12 +19,6 @@
       "url": "https://smes.shu.edu.cn/info/1015/10545.htm",
       "date": "2026-06-11",
       "column": "通知公告"
-    },
-    {
-      "title": "力学与工程科学学院2025-2026学年学生党员先锋、学生...",
-      "url": "https://smes.shu.edu.cn/info/1016/10525.htm",
-      "date": "2026-06-08",
-      "column": "学生信息"
     },
     {
       "title": "力学AI4M产教研融合创新研讨会在我校召开",
