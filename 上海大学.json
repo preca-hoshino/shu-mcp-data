@@ -2,15 +2,27 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260614_124424",
-  "total_articles": 18393,
+  "crawl_time": "20260615_014550",
+  "total_articles": 18394,
   "columns": {
-    "科研动态": 1638,
+    "科研动态": 1639,
     "综合新闻": 16285,
     "通知公告": 448,
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "医学院孙晓东课题组在《Advanced Functional Materials》上发表研究论文",
+      "url": "https://www.shu.edu.cn/info/1055/396975.htm",
+      "date": "2026-06-15",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
+      "url": "https://www.shu.edu.cn/info/1056/396945.htm",
+      "date": "2026-06-15",
+      "column": "综合新闻"
+    },
     {
       "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
       "url": "https://www.shu.edu.cn/info/1056/396865.htm",
@@ -69,12 +81,6 @@
       "title": "印度尼西亚泗水国立大学体育与健康学院代表团来访上海大学体育学院",
       "url": "https://www.shu.edu.cn/info/1056/396855.htm",
       "date": "2026-06-11",
-      "column": "综合新闻"
-    },
-    {
-      "title": "通信学院获批教育部光电专业教育教学改革重点项目 探索复合型光电创新人才培育新路径",
-      "url": "https://www.shu.edu.cn/info/1056/396805.htm",
-      "date": "2026-06-10",
       "column": "综合新闻"
     },
     {

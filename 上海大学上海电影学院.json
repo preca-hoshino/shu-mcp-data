@@ -2,7 +2,7 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260614_124424",
+  "crawl_time": "20260615_014550",
   "total_articles": 1757,
   "columns": {
     "新闻": 35,
@@ -215,6 +215,12 @@
       "column": "新闻"
     },
     {
+      "title": "“光影中国”系列讲座成功举办：  谭政谈全球电影新格局与中国电影产业发展",
+      "url": "https://mp.weixin.qq.com/s/IeBqRw3WXLVeNkZQBQxJJA",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "《120年中国电影的起点：关于<定军山>及其他》讲座回顾",
       "url": "https://mp.weixin.qq.com/s/IovM8uyBKjEcWArrCWAUFQ",
       "date": "",
@@ -229,6 +235,12 @@
     {
       "title": "上海大学上海电影学院青年教师联谊会分会圆满完成换届大会",
       "url": "https://mp.weixin.qq.com/s/Iy5vhho_vEJKBA63j2cbjQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "致敬光影百年，共创“电影之城”：《电影之城 光影百年》新书发布暨“海上映梦·百廿回眸”系列活动 在沪盛大启幕",
+      "url": "https://mp.weixin.qq.com/s/JTRAu43dF4cwBRzcZpL0yQ",
       "date": "",
       "column": "新闻"
     },
@@ -3307,18 +3319,6 @@
     {
       "title": "影视学院学生党支部举行赈灾爱心义卖活动",
       "url": "https://sfa.shu.edu.cn/info/1211/4206.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "我院召开青年教师学科讨论会",
-      "url": "https://sfa.shu.edu.cn/info/1211/4208.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "<font color=black>实验中心组织新设备、新技术培训收效显著</font>",
-      "url": "https://sfa.shu.edu.cn/info/1211/4209.htm",
       "date": "",
       "column": "新闻"
     },
