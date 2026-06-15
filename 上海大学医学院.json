@@ -2,17 +2,23 @@
   "domain": "medicine.shu.edu.cn",
   "department": "上海大学医学院",
   "type": "18",
-  "crawl_time": "20260615_101039",
-  "total_articles": 311,
+  "crawl_time": "20260615_141250",
+  "total_articles": 309,
   "columns": {
     "学术讲座": 22,
     "学生事务": 39,
     "教师事务": 31,
     "科研动态": 101,
-    "综合新闻": 66,
+    "综合新闻": 64,
     "通知公告": 52
   },
   "articles": [
+    {
+      "title": "2026年上海市药学会药物化学青年论文报告会暨青委会成立会议在上海大学成功举办2026年上海市药学会药物化学青年论文报告会暨青委会成立会议于6月5日在上海大学成功举行。此次会议由上海市药学会药物化学专业委员会主办、上海大...",
+      "url": "https://medicine.shu.edu.cn/info/1052/17267.htm",
+      "date": "2026-06-13",
+      "column": "综合新闻"
+    },
     {
       "title": "医学院孙晓东课题组在《Advanced Functional Materials》上发表研究论文近日，上海大学医学院特聘研究员孙晓东课题组在《Advanced Functional Materials》上发表题为“Multifunctional Responsive Nanoplatform as Immun...",
       "url": "https://medicine.shu.edu.cn/info/1053/17257.htm",
@@ -1748,28 +1754,10 @@
       "column": "学生事务"
     },
     {
-      "title": "医学院（筹）首届暑期学校成功举办​为给学生提供展示“新医科”建设与发展的成果、激发创新思想、深入探讨学术问题的平台，促进行业专家与高校大学生间的交流以及对上海大学医学院...",
-      "url": "https://medicine.shu.edu.cn/info/1052/1221.htm",
-      "date": "2019-08-19",
-      "column": "综合新闻"
-    },
-    {
       "title": "王艳丽教授在国际顶级期刊《Advanced Materials》上发表综述论文",
       "url": "http://news.shu.edu.cn/info/1013/52961.htm",
       "date": "2019-08-15",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学医学院（筹）暑期学校大师讲坛——夏照帆院士专题讲座顺利举行",
-      "url": "http://news.shu.edu.cn/info/1013/52933.htm",
-      "date": "2019-08-13",
-      "column": "综合新闻"
-    },
-    {
-      "title": "医学院（筹）副院长任职宣布会举行8月6日上午，肖俊杰任医学院（筹）副院长任职宣布会在东区3号楼201会议室举行。上海大学副校长兼医学院（筹）院长汪小帆、组织人事部副部长、组织...",
-      "url": "https://medicine.shu.edu.cn/info/1052/1192.htm",
-      "date": "2019-08-06",
-      "column": "综合新闻"
     },
     {
       "title": "张川教授荣获2018年度上海市科技进步一等奖2019年5月15日，2018年度上海市科学技术奖励大会在上海展览中心友谊会堂召开，隆重表彰为上海科技创新事业和经济社会发展作出突出贡献的科技工作者...",
