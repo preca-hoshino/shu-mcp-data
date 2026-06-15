@@ -2,14 +2,38 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260615_014550",
-  "total_articles": 1599,
+  "crawl_time": "20260615_055247",
+  "total_articles": 1603,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1399,
-    "新闻快递": 171
+    "学术报告": 1402,
+    "新闻快递": 172
   },
   "articles": [
+    {
+      "title": "数聚芳华，情归母校--理学院数学系2026年校友返校日活动举行",
+      "url": "https://math.shu.edu.cn/info/1041/26991.htm",
+      "date": "2026-06-15",
+      "column": "新闻快递"
+    },
+    {
+      "title": "Seminar第3064讲 扭Yangian的Drinfeld表示及其余理想结构",
+      "url": "https://math.shu.edu.cn/info/1042/26961.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3065讲 扭Yangian与仿射格拉斯曼流形的i-切片",
+      "url": "https://math.shu.edu.cn/info/1042/26971.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第2066讲 正交三幂等矩阵",
+      "url": "https://math.shu.edu.cn/info/1042/27001.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3061讲 具有非可积核的连续的Kuramoto模型的松弛动力学（一）",
       "url": "https://math.shu.edu.cn/info/1042/26931.htm",

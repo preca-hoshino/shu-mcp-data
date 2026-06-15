@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260615_014550",
-  "total_articles": 695,
+  "crawl_time": "20260615_055247",
+  "total_articles": 696,
   "columns": {
     "党建工作": 45,
     "学术讲座": 53,
     "学生工作": 40,
     "学院新闻": 328,
     "展览展示": 24,
-    "教学": 158,
+    "教学": 159,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "上海美术学院与上海市顾村中学签约共建美育培育建设项目",
+      "url": "https://safa.shu.edu.cn/info/1119/19520.htm",
+      "date": "2026-06-12",
+      "column": "教学"
+    },
     {
       "title": "我院举行拼布灯影与果壳造物六一亲子工作坊活动",
       "url": "https://safa.shu.edu.cn/info/1084/19490.htm",

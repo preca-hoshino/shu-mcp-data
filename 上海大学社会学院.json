@@ -2,20 +2,44 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260615_014550",
-  "total_articles": 2522,
+  "crawl_time": "20260615_055247",
+  "total_articles": 2527,
   "columns": {
     "图片新闻": 119,
-    "媒体报道": 49,
-    "学术动态": 549,
-    "学术报告": 137,
+    "媒体报道": 51,
+    "学术动态": 550,
+    "学术报告": 138,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
-    "综合新闻": 873,
+    "综合新闻": 874,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "上海教育新闻网 | 打造哲社科学高地|田野课堂、数字治理，上海大学在城乡社区书写社会学自主知识体系",
+      "url": "https://mp.weixin.qq.com/s/tjK8ZvBhaPRlr7OynuhUcw",
+      "date": "2026-06-15",
+      "column": "媒体报道"
+    },
+    {
+      "title": "以青春之名，续奋进之程丨共青团上海大学社会学院研究生第十一次代表大会暨上海大学社会学院第十一次研究生代表大会圆满召开",
+      "url": "https://sociology.shu.edu.cn/info/1102/42238.htm",
+      "date": "2026-06-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新书 | 肖瑛 著《社会学与人生》",
+      "url": "https://sociology.shu.edu.cn/info/1104/42218.htm",
+      "date": "2026-06-15",
+      "column": "学术动态"
+    },
+    {
+      "title": "IESM讲座|科技革命的冲击与文凭逻辑的退场——从悼念张雪峰看教育和劳动秩序的重构",
+      "url": "https://sociology.shu.edu.cn/info/1105/42198.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
     {
       "title": "第六届费孝通田野调查项目资助计划立项名单",
       "url": "https://sociology.shu.edu.cn/info/1103/42148.htm",
@@ -12573,6 +12597,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/8113.htm",
       "date": "2014-03-09",
       "column": "综合新闻"
+    },
+    {
+      "title": "上海社会科学调查中心与《文汇报》合作开展全国两会调",
+      "url": "https://sociology.shu.edu.cn/info/1109/8114.htm",
+      "date": "2014-03-06",
+      "column": "媒体报道"
     },
     {
       "title": "特大城市社会治理协同创新中心“社会组织参与社会治理”试验基地研讨会在上海大学召开",

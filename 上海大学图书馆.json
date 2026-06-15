@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260615_014550",
-  "total_articles": 109,
+  "crawl_time": "20260615_055247",
+  "total_articles": 110,
   "columns": {
-    "公告信息": 34,
+    "公告信息": 35,
     "图书馆新闻": 42,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "关于2026年图书馆端午节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/6994.htm",
+      "date": "2026-06-15",
+      "column": "公告信息"
+    },
     {
       "title": "海洋文学浸润书香 书写时代女性成长——杨怡芬新书分享会在图书馆成功举办",
       "url": "https://lib.shu.edu.cn/info/1024/6984.htm",

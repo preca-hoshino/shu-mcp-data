@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260615_014550",
-  "total_articles": 3887,
+  "crawl_time": "20260615_055247",
+  "total_articles": 3889,
   "columns": {
     "主办会议": 41,
     "学术报告": 2626,
@@ -12,10 +12,22 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 307,
-    "综合新闻": 607,
+    "综合新闻": 609,
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数聚芳华，情归母校--理学院数学系2026年校友返校日活动举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/33215.htm",
+      "date": "2026-06-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海高校化学实验教学指导委员会2026年第一次全体会议在上海大学召开",
+      "url": "https://scicol.shu.edu.cn/info/1007/33225.htm",
+      "date": "2026-06-15",
+      "column": "综合新闻"
+    },
     {
       "title": "量子科技研究院Seminar第111讲暨物理学科Seminar第820讲 动量空间晶体群保护的拓扑物态",
       "url": "https://scicol.shu.edu.cn/info/1003/33195.htm",
