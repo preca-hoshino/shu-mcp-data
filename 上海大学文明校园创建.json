@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260615_055247",
+  "crawl_time": "20260615_101039",
   "total_articles": 142,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,12 @@
     "校园动态": 36
   },
   "articles": [
+    {
+      "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
+      "url": "https://www.shu.edu.cn/info/1056/396945.htm",
+      "date": "2026-06-15",
+      "column": "文明实践"
+    },
     {
       "title": "新闻传播学院与医学院开展树立和践行正确政绩观学习教育联组学习",
       "url": "https://www.shu.edu.cn/info/1056/396605.htm",
@@ -81,12 +87,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
       "date": "2026-06-05",
       "column": "校园动态"
-    },
-    {
-      "title": "马克思主义学院召开AI赋能思政课教学研究专题培训会暨教师政...",
-      "url": "https://www.shu.edu.cn/info/1056/395985.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
     },
     {
       "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开...",

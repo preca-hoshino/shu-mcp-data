@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260615_055247",
-  "total_articles": 3889,
+  "crawl_time": "20260615_101039",
+  "total_articles": 3892,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2626,
+    "学术报告": 2629,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -16,6 +16,24 @@
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3064讲 扭Yangian的Drinfeld表示及其余理想结构",
+      "url": "https://scicol.shu.edu.cn/info/1003/33235.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3065讲 扭Yangian与仿射格拉斯曼流形的 i - 切片",
+      "url": "https://scicol.shu.edu.cn/info/1003/33245.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第2066讲 正交三幂等矩阵",
+      "url": "https://scicol.shu.edu.cn/info/1003/33255.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
     {
       "title": "数聚芳华，情归母校--理学院数学系2026年校友返校日活动举行",
       "url": "https://scicol.shu.edu.cn/info/1007/33215.htm",

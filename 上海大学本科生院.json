@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260615_055247",
+  "crawl_time": "20260615_101039",
   "total_articles": 1803,
   "columns": {
     "政策文件": 57,
@@ -11,9 +11,9 @@
   },
   "articles": [
     {
-      "title": "上海大学2025年本科教学成果获奖名单暨2026年高等教育上海市教学成果奖推荐公示（本科生院〔2026〕20号）",
-      "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=320924",
-      "date": "2026-06-09",
+      "title": "2025-2026学年春季学期期末考试温馨提醒",
+      "url": "https://bksy.shu.edu.cn/info/1015/320934.htm",
+      "date": "2026-06-15",
       "column": "通知公告"
     },
     {

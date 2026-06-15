@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260615_055247",
-  "total_articles": 963,
+  "crawl_time": "20260615_101039",
+  "total_articles": 964,
   "columns": {
     "学术报告": 79,
     "学院新闻": 387,
     "本科生教学": 70,
     "研究生教学": 204,
-    "科研动态": 115,
+    "科研动态": 116,
     "通知公告": 108
   },
   "articles": [
+    {
+      "title": "我院博士研究生在世界土壤学大会作专题报告",
+      "url": "https://ece.shu.edu.cn/info/1148/88594.htm",
+      "date": "2026-06-15",
+      "column": "科研动态"
+    },
     {
       "title": "后勤保障部与环化学院签署战略合作协议",
       "url": "https://mp.weixin.qq.com/s/MkdtLMEgl97GNAGIA7CcBw",

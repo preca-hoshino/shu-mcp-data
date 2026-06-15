@@ -2,11 +2,11 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260615_055247",
-  "total_articles": 110,
+  "crawl_time": "20260615_101039",
+  "total_articles": 111,
   "columns": {
     "公告信息": 35,
-    "图书馆新闻": 42,
+    "图书馆新闻": 43,
     "资源动态": 33
   },
   "articles": [
@@ -15,6 +15,12 @@
       "url": "https://lib.shu.edu.cn/info/1022/6994.htm",
       "date": "2026-06-15",
       "column": "公告信息"
+    },
+    {
+      "title": "深化沪明协作——上海大学图书馆赴三明学院参加“伟长书屋”揭牌仪式并开展业务交流",
+      "url": "https://lib.shu.edu.cn/info/1024/7004.htm",
+      "date": "2026-06-15",
+      "column": "图书馆新闻"
     },
     {
       "title": "海洋文学浸润书香 书写时代女性成长——杨怡芬新书分享会在图书馆成功举办",
