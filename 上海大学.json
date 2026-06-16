@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260616_095015",
-  "total_articles": 18394,
+  "crawl_time": "20260616_135445",
+  "total_articles": 18395,
   "columns": {
     "科研动态": 1639,
     "综合新闻": 16285,
-    "通知公告": 448,
+    "通知公告": 449,
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "关于宝山校区部分楼宇停电的通知",
+      "url": "https://www.shu.edu.cn/info/1051/397035.htm",
+      "date": "2026-06-16",
+      "column": "通知公告"
+    },
     {
       "title": "数聚芳华，情归母校——理学院数学系2026年校友返校日活动举行",
       "url": "https://www.shu.edu.cn/info/1056/396995.htm",

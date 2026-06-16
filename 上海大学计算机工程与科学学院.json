@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260616_095015",
-  "total_articles": 391,
+  "crawl_time": "20260616_135445",
+  "total_articles": 392,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 46,
+    "新闻动态": 47,
     "重要通知": 311,
     "风采展示": 13
   },
@@ -34,6 +34,12 @@
       "url": "https://mp.weixin.qq.com/s/mR8vR1R_ls7fUp9CLxVxQQ",
       "date": "2026-06-01",
       "column": "风采展示"
+    },
+    {
+      "title": "科创逐光！2026年上海市大学生计算机应用能力大赛在上大圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/qrChks_cdxzN40fkaNlQKg",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "智资同心助发展，实干反哺兴母校 ——我院校友积极参与上海大学校友会第三届会员代表大会及主题活动",
