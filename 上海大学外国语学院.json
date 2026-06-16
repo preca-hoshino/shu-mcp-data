@@ -2,15 +2,27 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260616_014958",
-  "total_articles": 561,
+  "crawl_time": "20260616_055510",
+  "total_articles": 563,
   "columns": {
     "学术活动预告": 398,
     "学术研究": 32,
-    "学院新闻": 44,
+    "学院新闻": 46,
     "通知公告": 87
   },
   "articles": [
+    {
+      "title": "薪火相传守初心，逐梦前行担使命  ——外国语学院2026年毕业生党员座谈会顺利开展",
+      "url": "https://sfs.shu.edu.cn/info/1142/30817.htm",
+      "date": "2026-06-15",
+      "column": "学院新闻"
+    },
+    {
+      "title": "外国语学院2026年研究生党建中心换届大会顺利召开",
+      "url": "https://sfs.shu.edu.cn/info/1142/30827.htm",
+      "date": "2026-06-15",
+      "column": "学院新闻"
+    },
     {
       "title": "赋能暑期实践，挺膺青春担当  ——外国语学院第六期团支部书记沙龙活动顺利开展",
       "url": "https://sfs.shu.edu.cn/info/1142/30797.htm",

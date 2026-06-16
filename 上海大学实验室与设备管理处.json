@@ -2,13 +2,19 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260616_014958",
-  "total_articles": 190,
+  "crawl_time": "20260616_055510",
+  "total_articles": 192,
   "columns": {
     "工作动态": 164,
-    "通知公告": 26
+    "通知公告": 28
   },
   "articles": [
+    {
+      "title": "上海大学关于2026年第3批资产处置审议的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/11124.htm",
+      "date": "2026-06-16",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学关于2026年第2批报废资产公开处置的公示",
       "url": "https://sbc.shu.edu.cn/info/1004/11114.htm",
@@ -1088,6 +1094,12 @@
       "url": "https://sbc.shu.edu.cn/info/1003/1388.htm",
       "date": "2019-04-17",
       "column": "工作动态"
+    },
+    {
+      "title": "可供校内调拨的设备",
+      "url": "https://sbc.shu.edu.cn/info/1004/1105.htm",
+      "date": "2019-03-05",
+      "column": "通知公告"
     },
     {
       "title": "校领导带队开展实验室建设与安全调研",

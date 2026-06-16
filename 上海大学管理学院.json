@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260616_014958",
-  "total_articles": 763,
+  "crawl_time": "20260616_055510",
+  "total_articles": 765,
   "columns": {
-    "学术活动": 196,
+    "学术活动": 198,
     "学院新闻": 64,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "0618上海管理论坛第576期（孙黎副教授，美国洛厄尔麻省大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92115.htm",
+      "date": "2026-06-16",
+      "column": "学术活动"
+    },
     {
       "title": "产教融合共进，校企协同育人 | 上海大学管理学院与毕马威共建实习实践基...",
       "url": "https://ms.shu.edu.cn/info/1244/92105.htm",
@@ -4389,6 +4395,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "关于08-09学年秋季学期期末成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1246/11181.htm",
+      "date": "2008-11-06",
+      "column": "学术活动"
     },
     {
       "title": "关于设立“上海管理论坛青年学者专场”的通知?",
