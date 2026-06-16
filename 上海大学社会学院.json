@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260616_055510",
-  "total_articles": 2526,
+  "crawl_time": "20260616_095015",
+  "total_articles": 2528,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
-    "学术动态": 550,
-    "学术报告": 137,
+    "学术动态": 551,
+    "学术报告": 138,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
@@ -16,6 +16,18 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "我院教师赴湘潭大学参加“伙伴高校”合作推进会",
+      "url": "https://sociology.shu.edu.cn/info/1104/42258.htm",
+      "date": "2026-06-16",
+      "column": "学术动态"
+    },
+    {
+      "title": "IESM讲座|科技革命的冲击与文凭逻辑的退场——从悼念张雪峰看教育和劳动秩序的重构",
+      "url": "https://sociology.shu.edu.cn/info/1105/42198.htm",
+      "date": "2026-06-16",
+      "column": "学术报告"
+    },
     {
       "title": "上海教育新闻网 | 打造哲社科学高地|田野课堂、数字治理，上海大学在城乡社区书写社会学自主知识体系",
       "url": "https://mp.weixin.qq.com/s/tjK8ZvBhaPRlr7OynuhUcw",

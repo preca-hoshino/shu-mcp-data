@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260616_055510",
-  "total_articles": 1603,
+  "crawl_time": "20260616_095015",
+  "total_articles": 1604,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1402,
+    "学术报告": 1403,
     "新闻快递": 172
   },
   "articles": [
+    {
+      "title": "Seminar第3067讲 允许或要求相似性-横截性性质（STP）的零-非零模式",
+      "url": "https://math.shu.edu.cn/info/1042/27011.htm",
+      "date": "2026-06-16",
+      "column": "学术报告"
+    },
     {
       "title": "数聚芳华，情归母校--理学院数学系2026年校友返校日活动举行",
       "url": "https://math.shu.edu.cn/info/1041/26991.htm",
