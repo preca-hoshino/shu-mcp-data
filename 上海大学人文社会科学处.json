@@ -2,10 +2,10 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260615_141250",
-  "total_articles": 332,
+  "crawl_time": "20260616_014958",
+  "total_articles": 334,
   "columns": {
-    "文科动态": 80,
+    "文科动态": 82,
     "最新立项": 60,
     "通知公告": 192
   },
@@ -20,6 +20,12 @@
       "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
       "url": "https://rwskc.shu.edu.cn/info/1070/6097.htm",
       "date": "2026-05-28",
+      "column": "文科动态"
+    },
+    {
+      "title": "“人工智能与中国发展”学术研讨会在沪举行",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6307.htm",
+      "date": "2026-05-25",
       "column": "文科动态"
     },
     {
@@ -1881,6 +1887,12 @@
       "url": "http://www.sh-popss.gov.cn/MoreInfo.asp?action=InsideNews&infoid=63",
       "date": "2008-06-26",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学社会学系暨人类学研究中心宅坦村调查基地揭牌",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3580.htm",
+      "date": "2008-06-23",
+      "column": "文科动态"
     },
     {
       "title": "《中国文学史学史》获第一届中国出版政府奖图书奖提名奖",

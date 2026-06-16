@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260615_141250",
-  "total_articles": 2527,
+  "crawl_time": "20260616_014958",
+  "total_articles": 2526,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
     "学术动态": 550,
-    "学术报告": 138,
+    "学术报告": 137,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
@@ -33,12 +33,6 @@
       "url": "https://sociology.shu.edu.cn/info/1104/42218.htm",
       "date": "2026-06-15",
       "column": "学术动态"
-    },
-    {
-      "title": "IESM讲座|科技革命的冲击与文凭逻辑的退场——从悼念张雪峰看教育和劳动秩序的重构",
-      "url": "https://sociology.shu.edu.cn/info/1105/42198.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
     },
     {
       "title": "第六届费孝通田野调查项目资助计划立项名单",

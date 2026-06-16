@@ -2,10 +2,10 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260615_141250",
-  "total_articles": 213,
+  "crawl_time": "20260616_014958",
+  "total_articles": 214,
   "columns": {
-    "党务公开": 11,
+    "党务公开": 12,
     "媒体聚焦": 14,
     "学术讲座": 45,
     "学院公告": 60,
@@ -14,6 +14,12 @@
     "综合新闻": 32
   },
   "articles": [
+    {
+      "title": "新闻传播学院举行2026届研究生毕业班党员教育大会",
+      "url": "https://sjc.shu.edu.cn/info/1002/6489.htm",
+      "date": "2026-06-16",
+      "column": "党务公开"
+    },
     {
       "title": "2025年度上海大学新闻传播学院“奥致奥奖学金”评审结果公示",
       "url": "https://sjc.shu.edu.cn/info/1003/6479.htm",

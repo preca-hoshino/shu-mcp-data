@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260615_141250",
-  "total_articles": 389,
+  "crawl_time": "20260616_014958",
+  "total_articles": 390,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 45,
+    "新闻动态": 46,
     "重要通知": 311,
     "风采展示": 12
   },
@@ -16,6 +16,12 @@
       "url": "https://mp.weixin.qq.com/s/7tDrP844R-5Ejjlkl_u3kw",
       "date": "2026-06-01",
       "column": "风采展示"
+    },
+    {
+      "title": "捷报！上大计算机学子在第十五届“挑战杯”上海市大学生创业计划竞赛中斩获特等奖！",
+      "url": "https://mp.weixin.qq.com/s/Nac2d6k45OMtNGXx5Sx6sw",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生徐宏伟",

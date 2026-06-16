@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260526_091248",
-  "total_articles": 367,
+  "crawl_time": "20260616_014958",
+  "total_articles": 368,
   "columns": {
-    "学术动态": 33,
+    "学术动态": 34,
     "新闻快递": 312,
     "研究成果": 22
   },
   "articles": [
+    {
+      "title": "仲红刚参加2026年连铸学会年会",
+      "url": "https://cast.shu.edu.cn/info/1044/4141.htm",
+      "date": "2026-06-16",
+      "column": "学术动态"
+    },
     {
       "title": "CAST团队亮相2026中国铸造年会暨国际铸造博览会",
       "url": "https://cast.shu.edu.cn/info/1042/4111.htm",

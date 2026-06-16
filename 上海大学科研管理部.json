@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260615_141250",
-  "total_articles": 550,
+  "crawl_time": "20260616_014958",
+  "total_articles": 552,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
-    "科技动态": 74,
+    "科技动态": 76,
     "通知公告": 427
   },
   "articles": [
+    {
+      "title": "启源公益基金会2026年资助项目上海大学宣讲会举行",
+      "url": "https://kyglb.shu.edu.cn/info/1012/11452.htm",
+      "date": "2026-06-16",
+      "column": "科技动态"
+    },
     {
       "title": "关于组织申报2026年度教育部人文社会科学研究专项任务项目（高校辅导员研究）申报工作的通知",
       "url": "https://mp.weixin.qq.com/s/D5pQ8yfOKUI6QBM4QY8tXQ",
@@ -3260,6 +3266,12 @@
     {
       "title": "上海大学举行二十国集团智库会议（T20）",
       "url": "https://kyglb.shu.edu.cn/info/1012/1740.htm",
+      "date": "2018-10-22",
+      "column": "科技动态"
+    },
+    {
+      "title": "上海大学理学院量子与分子结构国际中心博士生发表第一作者PNAS论文",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1741.htm",
       "date": "2018-10-22",
       "column": "科技动态"
     },
