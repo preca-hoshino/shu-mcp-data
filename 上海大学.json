@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260617_054420",
+  "crawl_time": "20260617_094112",
   "total_articles": 18395,
   "columns": {
     "科研动态": 1639,
@@ -26,6 +26,12 @@
     {
       "title": "期刊社召开2026年度“攀登计划”项目评审会",
       "url": "https://www.shu.edu.cn/info/1056/397065.htm",
+      "date": "2026-06-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海电力大学纪委一行来我校调研",
+      "url": "https://www.shu.edu.cn/info/1056/397075.htm",
       "date": "2026-06-17",
       "column": "综合新闻"
     },
@@ -69,12 +75,6 @@
       "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
       "url": "https://www.shu.edu.cn/info/1056/396945.htm",
       "date": "2026-06-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "后勤保障部与环化学院签署战略合作协议",
-      "url": "https://www.shu.edu.cn/info/1056/396905.htm",
-      "date": "2026-06-12",
       "column": "综合新闻"
     },
     {

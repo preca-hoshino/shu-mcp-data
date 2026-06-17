@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260617_054420",
-  "total_articles": 2528,
+  "crawl_time": "20260617_094112",
+  "total_articles": 2529,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
-    "学术动态": 551,
+    "学术动态": 552,
     "学术报告": 138,
     "学生动态": 580,
     "教学教务": 136,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "讲座回顾|“中国私营资本在西非的国际化进程”讲座纪要",
+      "url": "https://sociology.shu.edu.cn/info/1104/42268.htm",
+      "date": "2026-06-17",
+      "column": "学术动态"
+    },
     {
       "title": "我院教师赴湘潭大学参加“伙伴高校”合作推进会",
       "url": "https://sociology.shu.edu.cn/info/1104/42258.htm",

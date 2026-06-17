@@ -2,18 +2,24 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260617_054420",
-  "total_articles": 1642,
+  "crawl_time": "20260617_094112",
+  "total_articles": 1644,
   "columns": {
     "学术动态": 84,
     "学院新闻": 1100,
     "报告讲座": 133,
-    "科研动态": 29,
+    "科研动态": 31,
     "通知公告(教师)": 24,
     "通知公告(本科生)": 106,
     "通知公告(研究生)": 166
   },
   "articles": [
+    {
+      "title": "材料学院氢冶金低碳技术团队在CEJ上发表最新研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30328.htm",
+      "date": "2026-06-17",
+      "column": "科研动态"
+    },
     {
       "title": "仲红刚参加2026年连铸学会年会并作专题报告",
       "url": "https://mat.shu.edu.cn/info/1012/30288.htm",
@@ -9337,6 +9343,12 @@
       "url": "https://mat.shu.edu.cn/info/1012/1588.htm",
       "date": "2019-10-31",
       "column": "学院新闻"
+    },
+    {
+      "title": "骆军教授课题组在热电性能调控方面再获进展",
+      "url": "https://mat.shu.edu.cn/info/1016/4647.htm",
+      "date": "2019-10-31",
+      "column": "科研动态"
     },
     {
       "title": "国家磁约束核聚变能发展研究专项“聚变用ODS低活化钢以及热沉铜的高效制备和性能优化”项目进...",

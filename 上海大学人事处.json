@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260617_054420",
-  "total_articles": 170,
+  "crawl_time": "20260617_094112",
+  "total_articles": 171,
   "columns": {
-    "新闻公告": 170
+    "新闻公告": 171
   },
   "articles": [
+    {
+      "title": "关于黄慧高级专业技术职务拟聘结果的公示",
+      "url": "https://hr.shu.edu.cn/info/1029/8229.htm",
+      "date": "2026-06-17",
+      "column": "新闻公告"
+    },
     {
       "title": "2026年高级专业技术职务聘任材料第二批外送人员公示",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8219",

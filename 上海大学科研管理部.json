@@ -2,18 +2,30 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260617_054420",
-  "total_articles": 554,
+  "crawl_time": "20260617_094112",
+  "total_articles": 556,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
     "科技动态": 76,
-    "通知公告": 429
+    "通知公告": 431
   },
   "articles": [
     {
       "title": "关于发布新一代人工智能国家科技重大专项2026年度第一批公开项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11472.htm",
+      "date": "2026-06-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于转发《全民科学素质纲要实施工作办公室关于开展2026全国优质科普作品征集活动的通知》的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11492.htm",
+      "date": "2026-06-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度启源青年学者项目申报通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11502.htm",
       "date": "2026-06-17",
       "column": "通知公告"
     },

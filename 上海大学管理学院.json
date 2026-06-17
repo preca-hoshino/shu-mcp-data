@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260617_054420",
-  "total_articles": 765,
+  "crawl_time": "20260617_094112",
+  "total_articles": 766,
   "columns": {
     "学术活动": 198,
-    "学院新闻": 64,
+    "学院新闻": 65,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "上海大学管理学院成功举办“学术进嘉定”第八期报告会：管理信息系统的...",
+      "url": "https://ms.shu.edu.cn/info/1244/92125.htm",
+      "date": "2026-06-17",
+      "column": "学院新闻"
+    },
     {
       "title": "0618上海管理论坛第576期（孙黎副教授，美国洛厄尔麻省大学）",
       "url": "https://ms.shu.edu.cn/info/1246/92115.htm",

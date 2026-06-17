@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260617_054420",
+  "crawl_time": "20260617_094112",
   "total_articles": 142,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,30 @@
     "校园动态": 36
   },
   "articles": [
+    {
+      "title": "数聚芳华，情归母校——理学院数学系2026年校友返校日活动举...",
+      "url": "https://www.shu.edu.cn/info/1056/396995.htm",
+      "date": "2026-06-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "深化沪明协作——上海大学图书馆赴三明学院参加“伟长书屋”...",
+      "url": "https://www.shu.edu.cn/info/1056/397005.htm",
+      "date": "2026-06-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生...",
+      "url": "https://www.shu.edu.cn/info/1056/397045.htm",
+      "date": "2026-06-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海电力大学纪委一行来我校调研",
+      "url": "https://www.shu.edu.cn/info/1056/397075.htm",
+      "date": "2026-06-17",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
       "url": "https://www.shu.edu.cn/info/1056/396945.htm",
@@ -87,30 +111,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
       "date": "2026-06-05",
       "column": "校园动态"
-    },
-    {
-      "title": "树立和践行正确政绩观！人文社科艺术处（智库管理办公室）开...",
-      "url": "https://www.shu.edu.cn/info/1056/396025.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
-    },
-    {
-      "title": "法学院举行党委理论学习中心组（扩大）学习会暨班子集体研讨交流",
-      "url": "https://www.shu.edu.cn/info/1056/396035.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
-    },
-    {
-      "title": "理学院党委与国际部党委开展中心组联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/396185.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
-    },
-    {
-      "title": "夺冠之路！微电子学院斩获上海大学第二十三届研究生篮球联赛...",
-      "url": "https://www.shu.edu.cn/info/1056/396375.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
     },
     {
       "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发...",
