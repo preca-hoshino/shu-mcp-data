@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260617_014707",
+  "crawl_time": "20260617_054420",
   "total_articles": 18395,
   "columns": {
     "科研动态": 1639,
@@ -11,6 +11,24 @@
     "重要新闻": 22
   },
   "articles": [
+    {
+      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生党员座谈会顺利开展",
+      "url": "https://www.shu.edu.cn/info/1056/397045.htm",
+      "date": "2026-06-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "警校协同筑反诈 凝心聚力守平安——机自学院反诈沙龙顺利开讲",
+      "url": "https://www.shu.edu.cn/info/1056/397055.htm",
+      "date": "2026-06-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "期刊社召开2026年度“攀登计划”项目评审会",
+      "url": "https://www.shu.edu.cn/info/1056/397065.htm",
+      "date": "2026-06-17",
+      "column": "综合新闻"
+    },
     {
       "title": "关于宝山校区部分楼宇停电的通知",
       "url": "https://www.shu.edu.cn/info/1051/397035.htm",
@@ -51,24 +69,6 @@
       "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
       "url": "https://www.shu.edu.cn/info/1056/396945.htm",
       "date": "2026-06-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "期刊社举行人文社科期刊评刊会",
-      "url": "https://www.shu.edu.cn/info/1056/396875.htm",
-      "date": "2026-06-12",
-      "column": "综合新闻"
-    },
-    {
-      "title": "欧美同学会上大分会与宝山分会开启互动新篇章",
-      "url": "https://www.shu.edu.cn/info/1056/396885.htm",
-      "date": "2026-06-12",
-      "column": "综合新闻"
-    },
-    {
-      "title": "新闻传播学院刘幼琍教授当选国际传播学会会士（ICA Fellow）",
-      "url": "https://www.shu.edu.cn/info/1056/396895.htm",
-      "date": "2026-06-12",
       "column": "综合新闻"
     },
     {

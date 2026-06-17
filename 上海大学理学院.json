@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260617_014707",
-  "total_articles": 3893,
+  "crawl_time": "20260617_054420",
+  "total_articles": 3896,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2630,
+    "学术报告": 2633,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -16,6 +16,24 @@
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3068讲 最小二乘配点法求解偏微分方程的持续学习策略",
+      "url": "https://scicol.shu.edu.cn/info/1003/33285.htm",
+      "date": "2026-06-17",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3069讲 带有多项式鲁棒约束的分部鲁棒优化问题",
+      "url": "https://scicol.shu.edu.cn/info/1003/33295.htm",
+      "date": "2026-06-17",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3070讲 CQR正则化问题的紧SDP松弛",
+      "url": "https://scicol.shu.edu.cn/info/1003/33305.htm",
+      "date": "2026-06-17",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3067讲 允许或要求相似性-横截性性质（STP）的零-非零模式",
       "url": "https://scicol.shu.edu.cn/info/1003/33265.htm",

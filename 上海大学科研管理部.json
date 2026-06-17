@@ -2,18 +2,24 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260617_014707",
-  "total_articles": 553,
+  "crawl_time": "20260617_054420",
+  "total_articles": 554,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
     "科技动态": 76,
-    "通知公告": 428
+    "通知公告": 429
   },
   "articles": [
     {
       "title": "关于发布新一代人工智能国家科技重大专项2026年度第一批公开项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11472.htm",
+      "date": "2026-06-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市经济和信息化委员会关于开展2026年度人形机器人与具身智能实景实训专项行动申报材料征集工作的通...",
+      "url": "https://www.sheitc.sh.gov.cn/gg/20260616/92f5e1838e7a4d028e2c1a0e9a65ecea.html",
       "date": "2026-06-17",
       "column": "通知公告"
     },
