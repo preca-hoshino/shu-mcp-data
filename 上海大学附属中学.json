@@ -2,16 +2,22 @@
   "domain": "sdfz.shu.edu.cn",
   "department": "上海大学附属中学",
   "type": "16",
-  "crawl_time": "20260616_135445",
-  "total_articles": 649,
+  "crawl_time": "20260617_014707",
+  "total_articles": 650,
   "columns": {
     "招生招聘": 40,
     "教学纵横": 67,
     "新闻中心": 451,
     "科研师训": 38,
-    "通知公告": 53
+    "通知公告": 54
   },
   "articles": [
+    {
+      "title": "【上大附中本部食堂】学生菜品图片公示6.16",
+      "url": "https://sdfz.shu.edu.cn/info/1109/9588.htm",
+      "date": "2026-06-17",
+      "column": "通知公告"
+    },
     {
       "title": "【上大附中本部食堂】学生菜品图片公示6.15",
       "url": "https://sdfz.shu.edu.cn/info/1109/9578.htm",

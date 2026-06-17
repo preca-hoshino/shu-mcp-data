@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260616_135445",
-  "total_articles": 552,
+  "crawl_time": "20260617_014707",
+  "total_articles": 553,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
     "科技动态": 76,
-    "通知公告": 427
+    "通知公告": 428
   },
   "articles": [
+    {
+      "title": "关于发布新一代人工智能国家科技重大专项2026年度第一批公开项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11472.htm",
+      "date": "2026-06-17",
+      "column": "通知公告"
+    },
     {
       "title": "启源公益基金会2026年资助项目上海大学宣讲会举行",
       "url": "https://kyglb.shu.edu.cn/info/1012/11452.htm",

@@ -2,12 +2,18 @@
   "domain": "jwjc.shu.edu.cn",
   "department": "上海大学纪检监察",
   "type": "04",
-  "crawl_time": "20260616_135445",
-  "total_articles": 31,
+  "crawl_time": "20260617_014707",
+  "total_articles": 33,
   "columns": {
-    "工作动态": 31
+    "工作动态": 33
   },
   "articles": [
+    {
+      "title": "周建军书记为大学生讲授思政课",
+      "url": "https://jwjc.shu.edu.cn/info/1040/8461.htm",
+      "date": "2026-06-09",
+      "column": "工作动态"
+    },
     {
       "title": "监督贯通协同暨智慧监督专项工作推进会召开",
       "url": "https://jwjc.shu.edu.cn/info/1040/8371.htm",
@@ -138,6 +144,12 @@
       "title": "上海外国语大学纪委一行来我校调研",
       "url": "https://jwjc.shu.edu.cn/info/1040/7281.htm",
       "date": "2025-03-21",
+      "column": "工作动态"
+    },
+    {
+      "title": "探索纪检监察工作公开，积极推进党风廉政建设",
+      "url": "https://jwjc.shu.edu.cn/info/1040/1322.htm",
+      "date": "2007-11-19",
       "column": "工作动态"
     },
     {
