@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260618_014643",
-  "total_articles": 1972,
+  "crawl_time": "20260618_054114",
+  "total_articles": 1973,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
-    "学院周志": 304,
+    "学院周志": 305,
     "科研动态": 479,
     "综合新闻": 522,
     "通知公告": 418
   },
   "articles": [
+    {
+      "title": "文学院周志总第701期（2026年第17期，6月8日-6月14日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi701.pdf",
+      "date": "2026-06-18",
+      "column": "学院周志"
+    },
     {
       "title": "国家为什么会“成功”：现代化研究的反思与中国现代化的实践",
       "url": "https://cla.shu.edu.cn/info/1016/53578.htm",
