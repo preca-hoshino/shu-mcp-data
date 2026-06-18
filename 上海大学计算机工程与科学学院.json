@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260617_132153",
-  "total_articles": 392,
+  "crawl_time": "20260618_014643",
+  "total_articles": 394,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 47,
+    "新闻动态": 49,
     "重要通知": 311,
     "风采展示": 13
   },
@@ -16,6 +16,12 @@
       "url": "https://mp.weixin.qq.com/s/7tDrP844R-5Ejjlkl_u3kw",
       "date": "2026-06-01",
       "column": "风采展示"
+    },
+    {
+      "title": "2026中国青年科技创新“揭榜挂帅”擂台赛宣讲会——计算机学院专场圆满举行！",
+      "url": "https://mp.weixin.qq.com/s/Eu0cmdybTHSNygdRzKGLtA",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "捷报！上大计算机学子在第十五届“挑战杯”上海市大学生创业计划竞赛中斩获特等奖！",
@@ -28,6 +34,12 @@
       "url": "https://mp.weixin.qq.com/s/bBN1Is8naZrk1OXKYpfmZg",
       "date": "2026-06-01",
       "column": "风采展示"
+    },
+    {
+      "title": "心向暖阳，相伴乐学 | 计算机学院2026心理健康教育风采季精彩回顾",
+      "url": "https://mp.weixin.qq.com/s/m9LTA2qWM6bPKTpvQrRPGA",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生徐宏伟",
