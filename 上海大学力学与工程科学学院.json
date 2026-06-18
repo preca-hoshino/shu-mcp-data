@@ -2,8 +2,8 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260618_093258",
-  "total_articles": 250,
+  "crawl_time": "20260618_131621",
+  "total_articles": 249,
   "columns": {
     "学术报告": 51,
     "学生信息": 41,
@@ -11,15 +11,9 @@
     "教师风采": 5,
     "科研动态": 59,
     "综合新闻": 35,
-    "通知公告": 36
+    "通知公告": 35
   },
   "articles": [
-    {
-      "title": "关于上海大学力学与工程科学学院党委“两优一先”拟...",
-      "url": "https://smes.shu.edu.cn/info/1015/10545.htm",
-      "date": "2026-06-11",
-      "column": "通知公告"
-    },
     {
       "title": "力学AI4M产教研融合创新研讨会在我校召开",
       "url": "https://smes.shu.edu.cn/info/1013/10495.htm",

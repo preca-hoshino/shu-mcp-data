@@ -2,14 +2,38 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260618_093258",
-  "total_articles": 142,
+  "crawl_time": "20260618_131621",
+  "total_articles": 145,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 36
+    "校园动态": 39
   },
   "articles": [
+    {
+      "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘...",
+      "url": "https://mp.weixin.qq.com/s/pX3jFE3CZtAS9Rg-QL4L7g",
+      "date": "2026-06-18",
+      "column": "校园动态"
+    },
+    {
+      "title": "第二届东方国际商事调解研讨会暨钢铁行业知识产权纠纷调解中...",
+      "url": "https://www.shu.edu.cn/info/1053/397135.htm",
+      "date": "2026-06-18",
+      "column": "校园动态"
+    },
+    {
+      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学...",
+      "url": "https://www.shu.edu.cn/info/1053/397145.htm",
+      "date": "2026-06-18",
+      "column": "校园动态"
+    },
+    {
+      "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
+      "url": "https://www.shu.edu.cn/info/1056/397105.htm",
+      "date": "2026-06-18",
+      "column": "文明实践"
+    },
     {
       "title": "数聚芳华，情归母校——理学院数学系2026年校友返校日活动举...",
       "url": "https://www.shu.edu.cn/info/1056/396995.htm",
@@ -111,12 +135,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
       "date": "2026-06-05",
       "column": "校园动态"
-    },
-    {
-      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发...",
-      "url": "https://www.shu.edu.cn/info/1056/396385.htm",
-      "date": "2026-06-05",
-      "column": "文明实践"
     },
     {
       "title": "以步履探古都文脉，以数据智守中华瑰宝——第三届中国研究生...",
