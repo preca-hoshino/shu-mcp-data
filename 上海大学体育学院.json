@@ -2,13 +2,19 @@
   "domain": "tiyu.shu.edu.cn",
   "department": "上海大学体育学院",
   "type": "06",
-  "crawl_time": "20260618_054114",
+  "crawl_time": "20260618_093258",
   "total_articles": 149,
   "columns": {
     "头条新闻": 88,
     "通知公告": 61
   },
   "articles": [
+    {
+      "title": "上海大学体育学院因公用车管理办法",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7824.htm",
+      "date": "2026-06-18",
+      "column": "通知公告"
+    },
     {
       "title": "2025-2026 学年研究生优秀党员先锋名单公示",
       "url": "https://tiyu.shu.edu.cn/info/1073/7804.htm",
@@ -764,12 +770,6 @@
       "url": "https://tiyu.shu.edu.cn/info/1072/2998.htm",
       "date": "2021-06-16",
       "column": "头条新闻"
-    },
-    {
-      "title": "体育学院2021年聘期考核方案",
-      "url": "https://tiyu.shu.edu.cn/info/1073/2994.htm",
-      "date": "2021-06-10",
-      "column": "通知公告"
     },
     {
       "title": "2021年上海市高校“校长杯”网球比赛在上海大学举行",

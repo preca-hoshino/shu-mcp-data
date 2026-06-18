@@ -2,16 +2,22 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20260618_054114",
-  "total_articles": 1165,
+  "crawl_time": "20260618_093258",
+  "total_articles": 1166,
   "columns": {
     "分工会动态": 303,
     "协会动态": 46,
     "教工活动": 611,
-    "新闻动态": 72,
+    "新闻动态": 73,
     "通知公告": 133
   },
   "articles": [
+    {
+      "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘“十五五”发展新蓝图！",
+      "url": "https://mp.weixin.qq.com/s/rsacNYjGiRSu5ecU7z_otw",
+      "date": "2026-06-18",
+      "column": "新闻动态"
+    },
     {
       "title": "关于做好上海大学第六届教代会第三次会议  提案征集工作的通知",
       "url": "https://gh.shu.edu.cn/info/1061/42692.htm",

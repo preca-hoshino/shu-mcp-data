@@ -2,13 +2,13 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20260618_054114",
+  "crawl_time": "20260514_004804",
   "total_articles": 152,
   "columns": {
     "工作动态": 58,
-    "成交公告": 22,
-    "服务指南": 21,
     "通知公告": 29,
+    "服务指南": 21,
+    "成交公告": 22,
     "采购公告": 22
   },
   "articles": [
@@ -697,12 +697,6 @@
       "column": "采购公告"
     },
     {
-      "title": "上海大学微电子学院装饰装修工程项目管理竞争性磋商招标项目的成交候选人公示",
-      "url": "https://czb.shu.edu.cn/WDZXYGCZMGL.pdf",
-      "date": "2020-04-24",
-      "column": "成交公告"
-    },
-    {
       "title": "上海大学校园停车管理系统升级改造竞争性磋商成交通知书",
       "url": "https://czb.shu.edu.cn/0821.pdf",
       "date": "2020-04-21",
@@ -923,6 +917,12 @@
       "url": "https://czb.shu.edu.cn/GCCGd.pdf",
       "date": "2019-07-04",
       "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程项目管理竞争性磋商招标项目的成交候选人公示",
+      "url": "https://czb.shu.edu.cn/WDZXYGCZMGL.pdf",
+      "date": "2019-04-24",
+      "column": "成交公告"
     }
   ]
 }

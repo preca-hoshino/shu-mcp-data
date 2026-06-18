@@ -2,15 +2,27 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260618_054114",
-  "total_articles": 556,
+  "crawl_time": "20260618_093258",
+  "total_articles": 557,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
     "科技动态": 76,
-    "通知公告": 431
+    "通知公告": 432
   },
   "articles": [
+    {
+      "title": "上海市经济和信息化委员会关于开展2026年度上海市中试平台培育储备征集申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/5PMeYe2IiM1QlsldXaiz5A",
+      "date": "2026-06-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市住房和城乡建设管理委员会科技创新平台（第三批）申报开始啦！",
+      "url": "https://mp.weixin.qq.com/s/TERAnPIdvHG4Zc8PbRWvwQ",
+      "date": "2026-06-18",
+      "column": "通知公告"
+    },
     {
       "title": "关于发布新一代人工智能国家科技重大专项2026年度第一批公开项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11472.htm",
@@ -166,12 +178,6 @@
       "url": "https://mp.weixin.qq.com/s/Fh2ntAOGzkvKgTZJNE-j-g",
       "date": "2026-06-01",
       "column": "科技动态"
-    },
-    {
-      "title": "关于做好2026年全国教育科学规划年度项目申报工作的通知",
-      "url": "https://mp.weixin.qq.com/s/R3UpQ2mJaiZy9ufEwkF2_Q",
-      "date": "2026-06-01",
-      "column": "通知公告"
     },
     {
       "title": "关于做好2026年国家社会科学基金教育学重大项目招标工作的通知",

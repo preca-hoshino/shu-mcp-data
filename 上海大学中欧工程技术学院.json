@@ -2,12 +2,24 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260521_052945",
-  "total_articles": 29,
+  "crawl_time": "20260618_093258",
+  "total_articles": 33,
   "columns": {
-    "重要新闻": 29
+    "重要新闻": 33
   },
   "articles": [
+    {
+      "title": "逐梦创新勇争先，学贯中欧向未来——第六届“学贯中欧 企创未来”大学生创新竞赛圆满落幕",
+      "url": "https://utseus.shu.edu.cn/info/1009/6096.htm",
+      "date": "2026-06-18",
+      "column": "重要新闻"
+    },
+    {
+      "title": "“中”生有幸，“欧”遇芳华 | 上大中欧校友，5月30日回家！",
+      "url": "https://utseus.shu.edu.cn/info/1009/6076.htm",
+      "date": "2026-05-25",
+      "column": "重要新闻"
+    },
     {
       "title": "考察苏州高新产业，寻求协同创新机遇",
       "url": "https://utseus.shu.edu.cn/info/1009/6066.htm",
@@ -138,6 +150,18 @@
       "title": "08级校友返校分享  系统思维、跨界实践：中欧人的“底气”",
       "url": "https://utseus.shu.edu.cn/info/1009/4206.htm",
       "date": "2025-05-21",
+      "column": "重要新闻"
+    },
+    {
+      "title": "中欧工程技术学院首期赴法游学夏令营顺利启航",
+      "url": "https://utseus.shu.edu.cn/info/1009/1221.htm",
+      "date": "2018-07-12",
+      "column": "重要新闻"
+    },
+    {
+      "title": "相遇法兰西",
+      "url": "https://utseus.shu.edu.cn/info/1009/1222.htm",
+      "date": "2018-07-12",
       "column": "重要新闻"
     },
     {

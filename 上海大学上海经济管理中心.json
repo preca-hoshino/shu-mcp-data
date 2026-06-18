@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260618_054114",
-  "total_articles": 58,
+  "crawl_time": "20260618_093258",
+  "total_articles": 60,
   "columns": {
     "招生简章": 26,
-    "要闻速递": 32
+    "要闻速递": 34
   },
   "articles": [
+    {
+      "title": "走访洽谈拓渠道 多方对接育人才——上海经济管理中心与合作单位持续深化人才培养合作",
+      "url": "https://jgzx.shu.edu.cn/info/1017/14498.htm",
+      "date": "2026-06-18",
+      "column": "要闻速递"
+    },
     {
       "title": "【招生】上海大学与法国让穆兰里昂第三大学合作举办社会学专业硕士研究生教育项目第十一期（文末附中英文个人简历模板）",
       "url": "https://jgzx.shu.edu.cn/info/1019/14438.htm",
@@ -314,6 +320,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "“上经青年管理精英沙龙”第二期系列活动成功举行",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2325.htm",
+      "date": "2013-10-30",
+      "column": "要闻速递"
     },
     {
       "title": "解读管理大师彼得-德鲁克——经管中心举办2013年上经论坛第二季主题活动",

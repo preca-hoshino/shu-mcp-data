@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260618_054114",
-  "total_articles": 1759,
+  "crawl_time": "20260618_093258",
+  "total_articles": 1760,
   "columns": {
-    "学院新闻": 532,
+    "学院新闻": 533,
     "招生热讯": 72,
     "通知公告": 1155
   },
   "articles": [
+    {
+      "title": "赋能增效，潜心育人——延宝分部班主任工作交流会圆满举行",
+      "url": "https://cce.shu.edu.cn/info/1434/20454.htm",
+      "date": "2026-06-18",
+      "column": "学院新闻"
+    },
     {
       "title": "“业界导师引领工程”系列活动之“杰出校友分享会”——嘉定分部邀请孟祥玲校友作主题分享",
       "url": "https://cce.shu.edu.cn/info/1434/20424.htm",

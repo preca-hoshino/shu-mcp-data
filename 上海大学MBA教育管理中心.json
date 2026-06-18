@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260618_054114",
-  "total_articles": 592,
+  "crawl_time": "20260618_093258",
+  "total_articles": 593,
   "columns": {
-    "焦点新闻": 364,
+    "焦点新闻": 365,
     "论坛活动": 177,
     "通知公告": 51
   },
   "articles": [
+    {
+      "title": "上海大学MBA中心顺利完成EFMD再认证现场考察",
+      "url": "https://mp.weixin.qq.com/s/TAa5Ea_g4H07FZk1fIurWw",
+      "date": "2026-06-18",
+      "column": "焦点新闻"
+    },
     {
       "title": "6月28日线上专场｜上大MBA360°职业洞察营报名进行时",
       "url": "https://mp.weixin.qq.com/s/oIF3fLgOHMbhpdIChiUkHA",
