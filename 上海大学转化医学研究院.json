@@ -2,11 +2,11 @@
   "domain": "suitm.shu.edu.cn",
   "department": "上海大学转化医学研究院",
   "type": "20",
-  "crawl_time": "20260520_052625",
-  "total_articles": 105,
+  "crawl_time": "20260620_124229",
+  "total_articles": 106,
   "columns": {
     "图片新闻": 15,
-    "新闻动态": 26,
+    "新闻动态": 27,
     "期刊建设": 11,
     "科研成果": 25,
     "通知公告": 28
@@ -358,6 +358,12 @@
       "title": "2024第一届中国类器官转化医学大会今日在沪举行2024/11/16",
       "url": "https://suitm.shu.edu.cn/info/1082/6238.htm",
       "date": "2024-11-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "全球首个类器官领域垂直大模型O-GPT在沪发布2024/11/15",
+      "url": "https://suitm.shu.edu.cn/info/1082/6228.htm",
+      "date": "2024-11-15",
       "column": "新闻动态"
     },
     {
