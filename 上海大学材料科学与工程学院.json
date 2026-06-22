@@ -2,18 +2,30 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260622_055448",
-  "total_articles": 1644,
+  "crawl_time": "20260622_100348",
+  "total_articles": 1648,
   "columns": {
     "学术动态": 84,
     "学院新闻": 1100,
     "报告讲座": 133,
-    "科研动态": 31,
+    "科研动态": 35,
     "通知公告(教师)": 24,
     "通知公告(本科生)": 106,
     "通知公告(研究生)": 166
   },
   "articles": [
+    {
+      "title": "材料学院博士生张乐在《Advanced Materials》上发表重要研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30338.htm",
+      "date": "2026-06-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金...",
+      "url": "https://mat.shu.edu.cn/info/1016/30348.htm",
+      "date": "2026-06-22",
+      "column": "科研动态"
+    },
     {
       "title": "材料学院氢冶金低碳技术团队在CEJ上发表最新研究成果",
       "url": "https://mat.shu.edu.cn/info/1016/30328.htm",
@@ -9321,10 +9333,22 @@
       "column": "学院新闻"
     },
     {
+      "title": "中国内燃机学会 2019 年联合学术年会新材料与表面技术分会2019年年度会议顺利召开",
+      "url": "https://mat.shu.edu.cn/info/1016/4645.htm",
+      "date": "2019-11-05",
+      "column": "科研动态"
+    },
+    {
       "title": "核电材料应用技术国际青年论坛在上海大学举行",
       "url": "https://mat.shu.edu.cn/info/1012/1567.htm",
       "date": "2019-11-04",
       "column": "学院新闻"
+    },
+    {
+      "title": "核电材料应用技术国际青年论坛在上海大学举行",
+      "url": "https://mat.shu.edu.cn/info/1016/4646.htm",
+      "date": "2019-11-04",
+      "column": "科研动态"
     },
     {
       "title": "国家磁约束核聚变能发展研究专项“聚变用ODS低活化钢以及热沉铜的高效制备和性能优化”项目进...",

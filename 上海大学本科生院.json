@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260622_055448",
-  "total_articles": 1805,
+  "crawl_time": "20260622_100348",
+  "total_articles": 1806,
   "columns": {
     "政策文件": 57,
     "新闻动态": 33,
-    "通知公告": 1715
+    "通知公告": 1716
   },
   "articles": [
+    {
+      "title": "关于举办第24届上海大学程序设计联赛夏季赛通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320994.htm",
+      "date": "2026-06-22",
+      "column": "通知公告"
+    },
     {
       "title": "本科生院关于表彰2026届本科优秀毕业论文（设计）的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321004.htm",

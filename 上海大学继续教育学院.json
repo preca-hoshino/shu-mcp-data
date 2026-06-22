@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260622_055448",
-  "total_articles": 1760,
+  "crawl_time": "20260622_100348",
+  "total_articles": 1762,
   "columns": {
-    "学院新闻": 533,
+    "学院新闻": 535,
     "招生热讯": 72,
     "通知公告": 1155
   },
   "articles": [
+    {
+      "title": "学以赋能，职启新程——上海大学继续教育学院举办职业生涯拓展课暨主题班会活动",
+      "url": "https://cce.shu.edu.cn/info/1434/20474.htm",
+      "date": "2026-06-22",
+      "column": "学院新闻"
+    },
+    {
+      "title": "研学修身  知行赴远  ——2026年上海大学管理能力提升研修班（第一期）顺利结业",
+      "url": "https://cce.shu.edu.cn/info/1550/20464.htm",
+      "date": "2026-06-22",
+      "column": "学院新闻"
+    },
     {
       "title": "赋能增效，潜心育人——延宝分部班主任工作交流会圆满举行",
       "url": "https://cce.shu.edu.cn/info/1434/20454.htm",

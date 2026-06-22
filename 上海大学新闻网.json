@@ -2,11 +2,11 @@
   "domain": "news.shu.edu.cn",
   "department": "上海大学新闻网",
   "type": "36",
-  "crawl_time": "20260622_055448",
-  "total_articles": 330,
+  "crawl_time": "20260622_100348",
+  "total_articles": 329,
   "columns": {
     "图片新闻": 278,
-    "文化信息": 52
+    "文化信息": 51
   },
   "articles": [
     {
@@ -1674,12 +1674,6 @@
     {
       "title": "5-6月交响乐优惠票",
       "url": "https://news.shu.edu.cn/info/1014/46052.htm",
-      "date": "2013-05-13",
-      "column": "文化信息"
-    },
-    {
-      "title": "于右任与二十世纪二十年代的上海大学图片展",
-      "url": "https://news.shu.edu.cn/info/1014/46053.htm",
       "date": "2013-05-13",
       "column": "文化信息"
     },

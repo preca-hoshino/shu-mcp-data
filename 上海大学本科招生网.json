@@ -2,10 +2,10 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260622_055448",
-  "total_articles": 33,
+  "crawl_time": "20260622_100348",
+  "total_articles": 35,
   "columns": {
-    "最新公告": 33
+    "最新公告": 35
   },
   "articles": [
     {
@@ -201,9 +201,21 @@
       "column": "最新公告"
     },
     {
+      "title": "关于上海大学2025年第二学士学位初审及面试工作安排的公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/37800.htm",
+      "date": "2025-06-03",
+      "column": "最新公告"
+    },
+    {
       "title": "上海大学2025年综合评价录取报名初审结果公布",
       "url": "https://bkzsw.shu.edu.cn/info/1798/37820.htm",
       "date": "2025-06-03",
+      "column": "最新公告"
+    },
+    {
+      "title": "上海大学2025年插班生成绩查询公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/37780.htm",
+      "date": "2025-05-30",
       "column": "最新公告"
     }
   ]

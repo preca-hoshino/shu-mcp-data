@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260622_055448",
-  "total_articles": 2529,
+  "crawl_time": "20260622_100348",
+  "total_articles": 2530,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
@@ -12,10 +12,16 @@
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
-    "综合新闻": 874,
+    "综合新闻": 875,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "社会学院开展“树立和践行正确政绩观学习教育”专题党课暨2026届毕业生党员教育活动",
+      "url": "https://sociology.shu.edu.cn/info/1102/42288.htm",
+      "date": "2026-06-18",
+      "column": "综合新闻"
+    },
     {
       "title": "讲座回顾|“中国私营资本在西非的国际化进程”讲座纪要",
       "url": "https://sociology.shu.edu.cn/info/1104/42268.htm",
