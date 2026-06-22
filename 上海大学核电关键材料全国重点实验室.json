@@ -2,15 +2,21 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260622_014618",
-  "total_articles": 20,
+  "crawl_time": "20260622_055448",
+  "total_articles": 21,
   "columns": {
     "招生招聘": 1,
     "新闻资讯": 8,
-    "研究成果": 4,
+    "研究成果": 5,
     "通知公告": 7
   },
   "articles": [
+    {
+      "title": "研究成果| 核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金的最新研究成果",
+      "url": "https://mp.weixin.qq.com/s/1AjH-O6RmFn-RE7Vvk1EEA",
+      "date": "2026-06-22",
+      "column": "研究成果"
+    },
     {
       "title": "新闻| 突破“卡脖子”瓶颈，我国钍基熔盐堆专用焊材实现国产化",
       "url": "https://mp.weixin.qq.com/s/NLsNYxwfRYA_YCQqI9zanQ",

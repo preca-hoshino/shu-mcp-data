@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260622_014618",
-  "total_articles": 18400,
+  "crawl_time": "20260622_055448",
+  "total_articles": 18401,
   "columns": {
     "科研动态": 1641,
     "综合新闻": 16285,
-    "通知公告": 449,
+    "通知公告": 450,
     "重要新闻": 25
   },
   "articles": [
+    {
+      "title": "上海大学推荐参加第十五届“挑战杯”中国大学生创业计划竞赛作品公示",
+      "url": "https://www.shu.edu.cn/info/1051/397405.htm",
+      "date": "2026-06-22",
+      "column": "通知公告"
+    },
     {
       "title": "材料学院氢冶金低碳技术团队在CEJ上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/397365.htm",
@@ -26,6 +32,12 @@
     {
       "title": "经济学院举行2026年毕业典礼暨学位授予仪式",
       "url": "https://www.shu.edu.cn/info/1056/397355.htm",
+      "date": "2026-06-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "民革上海大学委员会顺利完成换届",
+      "url": "https://www.shu.edu.cn/info/1056/397385.htm",
       "date": "2026-06-22",
       "column": "综合新闻"
     },
@@ -100,12 +112,6 @@
       "url": "https://www.shu.edu.cn/info/1051/397035.htm",
       "date": "2026-06-16",
       "column": "通知公告"
-    },
-    {
-      "title": "环化学院博士研究生在世界土壤学大会作专题报告",
-      "url": "https://www.shu.edu.cn/info/1056/397025.htm",
-      "date": "2026-06-16",
-      "column": "综合新闻"
     },
     {
       "title": "医学院孙晓东课题组在《Advanced Functional Materials》上发表研究论文",
