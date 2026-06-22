@@ -2,13 +2,19 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260621_124528",
-  "total_articles": 53,
+  "crawl_time": "20260622_014618",
+  "total_articles": 55,
   "columns": {
     "信息动态": 24,
-    "通知公告": 29
+    "通知公告": 31
   },
   "articles": [
+    {
+      "title": "2026年本科毕业生学费结算通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/7204.htm",
+      "date": "2026-06-22",
+      "column": "通知公告"
+    },
     {
       "title": "关于2025年度个人所得税年度汇算清缴的通知",
       "url": "https://cwc.shu.edu.cn/info/1041/7184.htm",
@@ -277,6 +283,12 @@
       "title": "上海大学银行账号信息及增值税开票信息",
       "url": "https://cwc.shu.edu.cn/info/1042/4299.htm",
       "date": "2018-04-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于启用新版财政票据的友情提示",
+      "url": "https://cwc.shu.edu.cn/info/1041/4010.htm",
+      "date": "2008-07-04",
       "column": "通知公告"
     },
     {
