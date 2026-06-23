@@ -2,15 +2,45 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260623_013615",
-  "total_articles": 18401,
+  "crawl_time": "20260623_052546",
+  "total_articles": 18403,
   "columns": {
-    "科研动态": 1641,
+    "科研动态": 1643,
     "综合新闻": 16285,
     "通知公告": 450,
     "重要新闻": 25
   },
   "articles": [
+    {
+      "title": "核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金的最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/397435.htm",
+      "date": "2026-06-23",
+      "column": "科研动态"
+    },
+    {
+      "title": "材料学院博士生张乐在《Advanced Materials》上发表重要研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/397445.htm",
+      "date": "2026-06-23",
+      "column": "科研动态"
+    },
+    {
+      "title": "协同采购：物有所值 AI 物尽其用",
+      "url": "https://www.shu.edu.cn/info/1056/397415.htm",
+      "date": "2026-06-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学2026年第1次巡察整改和成果运用联席会议召开",
+      "url": "https://www.shu.edu.cn/info/1056/397425.htm",
+      "date": "2026-06-23",
+      "column": "综合新闻"
+    },
+    {
+      "title": "思美文化筑根基 凝心聚力启新程：法学院召开2026年第四次全院教职工大会",
+      "url": "https://www.shu.edu.cn/info/1056/397455.htm",
+      "date": "2026-06-23",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学推荐参加第十五届“挑战杯”中国大学生创业计划竞赛作品公示",
       "url": "https://www.shu.edu.cn/info/1051/397405.htm",
@@ -81,24 +111,6 @@
       "title": "上海大学期刊最新IF出炉，《社会（英文）》跃升Q1区",
       "url": "https://www.shu.edu.cn/info/1056/397125.htm",
       "date": "2026-06-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生党员座谈会顺利开展",
-      "url": "https://www.shu.edu.cn/info/1056/397045.htm",
-      "date": "2026-06-17",
-      "column": "综合新闻"
-    },
-    {
-      "title": "警校协同筑反诈 凝心聚力守平安——机自学院反诈沙龙顺利开讲",
-      "url": "https://www.shu.edu.cn/info/1056/397055.htm",
-      "date": "2026-06-17",
-      "column": "综合新闻"
-    },
-    {
-      "title": "期刊社召开2026年度“攀登计划”项目评审会",
-      "url": "https://www.shu.edu.cn/info/1056/397065.htm",
-      "date": "2026-06-17",
       "column": "综合新闻"
     },
     {
