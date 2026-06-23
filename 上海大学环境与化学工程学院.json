@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260622_135727",
-  "total_articles": 965,
+  "crawl_time": "20260623_013615",
+  "total_articles": 966,
   "columns": {
     "学术报告": 79,
     "学院新闻": 388,
     "本科生教学": 70,
     "研究生教学": 204,
     "科研动态": 116,
-    "通知公告": 108
+    "通知公告": 109
   },
   "articles": [
+    {
+      "title": "环化学院党群接待日公告20260623",
+      "url": "https://ece.shu.edu.cn/info/1147/88644.htm",
+      "date": "2026-06-23",
+      "column": "通知公告"
+    },
     {
       "title": "我院与上海科技咨询有限公司开展科技成果转化专题交流",
       "url": "https://ece.shu.edu.cn/info/1149/88634.htm",
