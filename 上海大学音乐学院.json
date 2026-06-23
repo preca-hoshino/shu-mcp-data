@@ -2,12 +2,12 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 141,
+  "crawl_time": "20260623_091018",
+  "total_articles": 146,
   "columns": {
-    "通知公告": 27,
-    "学院新闻": 24,
-    "热点新闻": 90
+    "学院新闻": 29,
+    "热点新闻": 90,
+    "通知公告": 27
   },
   "articles": [
     {
@@ -533,6 +533,30 @@
       "column": "学院新闻"
     },
     {
+      "title": "音乐学院党总支特邀马克思主义学院教授李梁作《新时代中国特色社会主义的历史方位》专题讲座",
+      "url": "https://music.shu.edu.cn/info/1174/4028.htm",
+      "date": "2018-01-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学音乐学院与宝山区星堡养老社区签订志愿者服务协议",
+      "url": "https://music.shu.edu.cn/info/1174/4026.htm",
+      "date": "2017-11-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://music.shu.edu.cn/info/1174/4025.htm",
+      "date": "2017-10-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "奏响金秋，收获硕果——上海大学音乐学院师生音乐会荣登星广会舞台",
+      "url": "https://music.shu.edu.cn/info/1174/4024.htm",
+      "date": "2017-10-01",
+      "column": "学院新闻"
+    },
+    {
       "title": "第34届上海之春国际音乐节，上大音乐学院素质教育成果展示周举办“‘音乐与心理’音乐融化心灵在正念”专题讲座音乐会",
       "url": "https://music.shu.edu.cn/info/1173/3651.htm",
       "date": "2017-05-19",
@@ -831,6 +855,12 @@
       "url": "https://music.shu.edu.cn/info/1173/3473.htm",
       "date": "2013-10-24",
       "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院师生共庆教师节",
+      "url": "https://music.shu.edu.cn/info/1174/3781.htm",
+      "date": "2013-09-10",
+      "column": "学院新闻"
     },
     {
       "title": "我校王思思老师荣获第五届全国高校声乐比赛教师组民族唱法金奖",

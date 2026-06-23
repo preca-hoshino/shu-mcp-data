@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260623_052546",
-  "total_articles": 699,
+  "crawl_time": "20260623_091018",
+  "total_articles": 700,
   "columns": {
     "党建工作": 47,
     "学术讲座": 53,
     "学生工作": 40,
     "学院新闻": 329,
     "展览展示": 24,
-    "教学": 159,
+    "教学": 160,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "上海美术学院携手京冀四所中学共建美育培育项目",
+      "url": "https://safa.shu.edu.cn/info/1119/19600.htm",
+      "date": "2026-06-22",
+      "column": "教学"
+    },
     {
       "title": "艺科跨界相融 共筑艺术新局——上海美术学院与FuturX艺术数字思维联合实验室顺利揭牌",
       "url": "https://safa.shu.edu.cn/info/1084/19540.htm",

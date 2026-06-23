@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260623_052546",
-  "total_articles": 60,
+  "crawl_time": "20260623_091018",
+  "total_articles": 61,
   "columns": {
-    "招生简章": 26,
+    "招生简章": 27,
     "要闻速递": 34
   },
   "articles": [
+    {
+      "title": "【免费高研培训】人社部专业技术人才知识更新工程“智能制造协同创新与数智升维”高级研修项目启动报名",
+      "url": "https://jgzx.shu.edu.cn/info/1019/14568.htm",
+      "date": "2026-06-23",
+      "column": "招生简章"
+    },
     {
       "title": "走访洽谈拓渠道 多方对接育人才——上海经济管理中心与合作单位持续深化人才培养合作",
       "url": "https://jgzx.shu.edu.cn/info/1017/14498.htm",

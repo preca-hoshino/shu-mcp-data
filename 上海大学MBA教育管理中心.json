@@ -2,14 +2,26 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260623_052546",
-  "total_articles": 593,
+  "crawl_time": "20260623_091018",
+  "total_articles": 595,
   "columns": {
     "焦点新闻": 365,
-    "论坛活动": 177,
+    "论坛活动": 179,
     "通知公告": 51
   },
   "articles": [
+    {
+      "title": "MBA研究生党支部开展第二季度主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/FMJQ5hsBH4XR5CR2RU_JGQ",
+      "date": "2026-06-23",
+      "column": "论坛活动"
+    },
+    {
+      "title": "SHUMBA 23PT1班毕业之旅：重走长征路·赤水河畔论商道",
+      "url": "https://mp.weixin.qq.com/s/bNkKAV3ffsMzOfkZHvrndA",
+      "date": "2026-06-23",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学MBA中心顺利完成EFMD再认证现场考察",
       "url": "https://mp.weixin.qq.com/s/TAa5Ea_g4H07FZk1fIurWw",
