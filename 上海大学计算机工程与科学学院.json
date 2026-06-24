@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260624_090832",
-  "total_articles": 397,
+  "crawl_time": "20260624_125015",
+  "total_articles": 398,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 50,
+    "新闻动态": 51,
     "重要通知": 311,
     "风采展示": 15
   },
@@ -64,6 +64,12 @@
       "url": "https://mp.weixin.qq.com/s/mR8vR1R_ls7fUp9CLxVxQQ",
       "date": "2026-06-01",
       "column": "风采展示"
+    },
+    {
+      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/qj-KLBjqr-FknL6CgJ8ABQ",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "科创逐光！2026年上海市大学生计算机应用能力大赛在上大圆满落幕",

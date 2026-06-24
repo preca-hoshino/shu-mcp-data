@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260624_090832",
-  "total_articles": 595,
+  "crawl_time": "20260624_125015",
+  "total_articles": 596,
   "columns": {
     "焦点新闻": 365,
     "论坛活动": 179,
-    "通知公告": 51
+    "通知公告": 52
   },
   "articles": [
+    {
+      "title": "关于24FT毕业生办理云离校手续的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26881.htm",
+      "date": "2026-06-24",
+      "column": "通知公告"
+    },
     {
       "title": "MBA研究生党支部开展第二季度主题党日活动",
       "url": "https://mp.weixin.qq.com/s/FMJQ5hsBH4XR5CR2RU_JGQ",
