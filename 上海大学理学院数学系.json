@@ -2,14 +2,26 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260623_130347",
-  "total_articles": 1608,
+  "crawl_time": "20260624_013504",
+  "total_articles": 1610,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1406,
+    "学术报告": 1408,
     "新闻快递": 173
   },
   "articles": [
+    {
+      "title": "Seminar第3071讲 错排理论导引",
+      "url": "https://math.shu.edu.cn/info/1042/27061.htm",
+      "date": "2026-06-23",
+      "column": "学术报告"
+    },
+    {
+      "title": "核心数学研究所——几何与分析综合报告第124讲 非交换粗糙算子的弱 (1,1) 估计",
+      "url": "https://math.shu.edu.cn/info/1042/27071.htm",
+      "date": "2026-06-23",
+      "column": "学术报告"
+    },
     {
       "title": "2026年上海大学理学院数学系“阳阳教育奖学金”（本科生类）推荐名单公示",
       "url": "https://math.shu.edu.cn/info/1041/27021.htm",
