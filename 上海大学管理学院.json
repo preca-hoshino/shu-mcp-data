@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260624_013504",
-  "total_articles": 767,
+  "crawl_time": "20260624_052433",
+  "total_articles": 769,
   "columns": {
-    "学术活动": 198,
+    "学术活动": 200,
     "学院新闻": 66,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "0626上海管理论坛第577期（陈志平教授，西安交通大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92145.htm",
+      "date": "2026-06-24",
+      "column": "学术活动"
+    },
     {
       "title": "美国洛厄尔麻省大学孙黎副教授做客上海管理论坛分享《中国跨国企业为何...",
       "url": "https://ms.shu.edu.cn/info/1244/92135.htm",
@@ -4407,6 +4413,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛青年学者专场第一期成功举办",
+      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
+      "date": "2008-11-09",
+      "column": "学术活动"
     },
     {
       "title": "关于08-09学年秋季学期期末成绩登录时间安排",

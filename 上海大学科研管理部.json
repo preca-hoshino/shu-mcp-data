@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260624_013504",
+  "crawl_time": "20260624_052433",
   "total_articles": 557,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "在推动上海（长三角）国际科技创新中心建设中冲在前、打头阵！陈吉宁调研市科委",
+      "url": "https://mp.weixin.qq.com/s/Rxbpp-RPpuRlh_fd9ogh9A",
+      "date": "2026-06-24",
+      "column": "科技动态"
+    },
     {
       "title": "上海市经济和信息化委员会关于开展2026年度上海市中试平台培育储备征集申报工作的通知",
       "url": "https://mp.weixin.qq.com/s/5PMeYe2IiM1QlsldXaiz5A",
@@ -3296,12 +3302,6 @@
     {
       "title": "上海大学举行二十国集团智库会议（T20）",
       "url": "https://kyglb.shu.edu.cn/info/1012/1740.htm",
-      "date": "2018-10-22",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海大学理学院量子与分子结构国际中心博士生发表第一作者PNAS论文",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1741.htm",
       "date": "2018-10-22",
       "column": "科技动态"
     },
