@@ -2,13 +2,19 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260624_052433",
-  "total_articles": 55,
+  "crawl_time": "20260624_090832",
+  "total_articles": 56,
   "columns": {
-    "信息动态": 24,
+    "信息动态": 25,
     "通知公告": 31
   },
   "articles": [
+    {
+      "title": "智能报销系统操作演示PPT（202606）",
+      "url": "https://cwc.shu.edu.cn/info/1014/7234.htm",
+      "date": "2026-06-24",
+      "column": "信息动态"
+    },
     {
       "title": "2026年本科毕业生学费结算通知",
       "url": "https://cwc.shu.edu.cn/info/1041/7204.htm",

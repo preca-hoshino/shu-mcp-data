@@ -2,10 +2,10 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260624_052433",
-  "total_articles": 18404,
+  "crawl_time": "20260624_090832",
+  "total_articles": 18405,
   "columns": {
-    "科研动态": 1643,
+    "科研动态": 1644,
     "综合新闻": 16285,
     "通知公告": 450,
     "重要新闻": 26
@@ -16,6 +16,12 @@
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
       "date": "2026-06-24",
       "column": "重要新闻"
+    },
+    {
+      "title": "李梦甜课题组在计算机视觉顶会ECCV2026发表新成果：用“视觉偏好优化”让AI学会拍电影",
+      "url": "https://www.shu.edu.cn/info/1055/397515.htm",
+      "date": "2026-06-24",
+      "column": "科研动态"
     },
     {
       "title": "上海大学法学院与徐汇区人民法院举行战略合作签约暨联学共建活动",

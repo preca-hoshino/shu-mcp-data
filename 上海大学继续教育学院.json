@@ -2,14 +2,32 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260624_052433",
-  "total_articles": 1762,
+  "crawl_time": "20260624_090832",
+  "total_articles": 1765,
   "columns": {
-    "学院新闻": 535,
+    "学院新闻": 538,
     "招生热讯": 72,
     "通知公告": 1155
   },
   "articles": [
+    {
+      "title": "赓续红色基因 感悟大师风范——上海大学继续教育学院中成协教学点组织学员赴上海大学开展研学实践活动",
+      "url": "https://cce.shu.edu.cn/info/1434/20514.htm",
+      "date": "2026-06-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2026宝山高新区“高新展翅”年轻干部成长  训练营顺利结业",
+      "url": "https://cce.shu.edu.cn/info/1550/20484.htm",
+      "date": "2026-06-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2026年上海大学继续教育学院成人英语提高班顺利开班",
+      "url": "https://cce.shu.edu.cn/info/1550/20504.htm",
+      "date": "2026-06-24",
+      "column": "学院新闻"
+    },
     {
       "title": "学以赋能，职启新程——上海大学继续教育学院举办职业生涯拓展课暨主题班会活动",
       "url": "https://cce.shu.edu.cn/info/1434/20474.htm",

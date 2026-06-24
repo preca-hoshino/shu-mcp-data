@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260624_052433",
-  "total_articles": 2532,
+  "crawl_time": "20260624_090832",
+  "total_articles": 2533,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
     "学术动态": 552,
-    "学术报告": 140,
+    "学术报告": 141,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
@@ -19,6 +19,12 @@
     {
       "title": "2026公共性论坛09|源流与视野：理论与经验的展开路径",
       "url": "https://sociology.shu.edu.cn/info/1105/42318.htm",
+      "date": "2026-06-24",
+      "column": "学术报告"
+    },
+    {
+      "title": "2026公共性论坛10|侠客、医生抑或老师？——儒家思想视域下社会工作者在中国社会的伦理角色研究",
+      "url": "https://sociology.shu.edu.cn/info/1105/42328.htm",
       "date": "2026-06-24",
       "column": "学术报告"
     },
