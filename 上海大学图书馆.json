@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260624_125015",
-  "total_articles": 111,
+  "crawl_time": "20260625_013752",
+  "total_articles": 112,
   "columns": {
     "公告信息": 35,
-    "图书馆新闻": 43,
+    "图书馆新闻": 44,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "文澜相赠 智润学府—上海研究院捐赠图书专题展在图书馆启幕",
+      "url": "https://lib.shu.edu.cn/info/1024/7014.htm",
+      "date": "2026-06-25",
+      "column": "图书馆新闻"
+    },
     {
       "title": "关于2026年图书馆端午节放假安排的通知",
       "url": "https://lib.shu.edu.cn/info/1022/6994.htm",

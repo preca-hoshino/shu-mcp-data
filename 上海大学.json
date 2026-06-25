@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260624_125015",
-  "total_articles": 18405,
+  "crawl_time": "20260625_013752",
+  "total_articles": 18406,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 450,
+    "通知公告": 451,
     "重要新闻": 26
   },
   "articles": [
+    {
+      "title": "上海大学学生跨校参加外省市高校第十五届“挑战杯”中国大学生创业计划竞赛作品公示0625",
+      "url": "https://www.shu.edu.cn/info/1051/397535.htm",
+      "date": "2026-06-25",
+      "column": "通知公告"
+    },
     {
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",

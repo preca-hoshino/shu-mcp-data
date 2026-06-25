@@ -2,13 +2,19 @@
   "domain": "news.shu.edu.cn",
   "department": "上海大学新闻网",
   "type": "36",
-  "crawl_time": "20260624_125015",
-  "total_articles": 329,
+  "crawl_time": "20260625_013752",
+  "total_articles": 330,
   "columns": {
     "图片新闻": 278,
-    "文化信息": 51
+    "文化信息": 52
   },
   "articles": [
+    {
+      "title": "红军不怕远征难——中央红军长征决策和出发历史展览",
+      "url": "https://news.shu.edu.cn/info/1014/179955.htm",
+      "date": "2026-06-24",
+      "column": "文化信息"
+    },
     {
       "title": "“和平+奋斗+救中国——孙中山北上文物文献展”",
       "url": "https://news.shu.edu.cn/info/1014/179365.htm",
