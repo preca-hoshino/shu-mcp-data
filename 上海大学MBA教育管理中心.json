@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260625_052519",
-  "total_articles": 596,
+  "crawl_time": "20260625_090825",
+  "total_articles": 597,
   "columns": {
     "焦点新闻": 365,
     "论坛活动": 179,
-    "通知公告": 52
+    "通知公告": 53
   },
   "articles": [
+    {
+      "title": "青春逐梦 奔赴山海｜上海大学管理学院2026年毕业典礼预告",
+      "url": "https://mp.weixin.qq.com/s/dWOluVCkSjJIaGSvoNj_YA",
+      "date": "2026-06-25",
+      "column": "通知公告"
+    },
     {
       "title": "关于24FT毕业生办理云离校手续的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26881.htm",

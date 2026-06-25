@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260625_052519",
-  "total_articles": 334,
+  "crawl_time": "20260625_090825",
+  "total_articles": 336,
   "columns": {
-    "文科动态": 82,
+    "文科动态": 84,
     "最新立项": 60,
     "通知公告": 192
   },
   "articles": [
+    {
+      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6317.htm",
+      "date": "2026-06-25",
+      "column": "文科动态"
+    },
     {
       "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
       "url": "https://rwskc.shu.edu.cn/info/1070/6257.htm",
@@ -1891,6 +1897,12 @@
     {
       "title": "上海大学社会学系暨人类学研究中心宅坦村调查基地揭牌",
       "url": "https://rwskc.shu.edu.cn/info/1070/3580.htm",
+      "date": "2008-06-23",
+      "column": "文科动态"
+    },
+    {
+      "title": "现代文学教学方法与教材国际学术研讨会顺利召开",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3582.htm",
       "date": "2008-06-23",
       "column": "文科动态"
     },

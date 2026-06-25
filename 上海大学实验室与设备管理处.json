@@ -2,11 +2,11 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260625_052519",
-  "total_articles": 192,
+  "crawl_time": "20260625_090825",
+  "total_articles": 193,
   "columns": {
     "工作动态": 164,
-    "通知公告": 28
+    "通知公告": 29
   },
   "articles": [
     {
@@ -1088,6 +1088,12 @@
       "url": "https://sbc.shu.edu.cn/info/1003/1452.htm",
       "date": "2019-05-20",
       "column": "工作动态"
+    },
+    {
+      "title": "关于上海大学开展2019年度科研实验室安全自查自纠工作的通知",
+      "url": "https://sbc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=1382",
+      "date": "2019-05-06",
+      "column": "通知公告"
     },
     {
       "title": "我校举办实验室安全管理培训交流会",
