@@ -2,12 +2,12 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260625_090825",
-  "total_articles": 1610,
+  "crawl_time": "20260625_125233",
+  "total_articles": 1609,
   "columns": {
     "学术会议": 29,
     "学术报告": 1408,
-    "新闻快递": 173
+    "新闻快递": 172
   },
   "articles": [
     {
@@ -21,12 +21,6 @@
       "url": "https://math.shu.edu.cn/info/1042/27071.htm",
       "date": "2026-06-23",
       "column": "学术报告"
-    },
-    {
-      "title": "2026年上海大学理学院数学系“阳阳教育奖学金”（本科生类）推荐名单公示",
-      "url": "https://math.shu.edu.cn/info/1041/27021.htm",
-      "date": "2026-06-17",
-      "column": "新闻快递"
     },
     {
       "title": "Seminar第3068讲 最小二乘配点法求解偏微分方程的持续学习策略",
