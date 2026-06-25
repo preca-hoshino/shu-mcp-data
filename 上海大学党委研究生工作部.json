@@ -2,13 +2,19 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260625_013752",
-  "total_articles": 2807,
+  "crawl_time": "20260625_052519",
+  "total_articles": 2808,
   "columns": {
-    "新闻动态": 2593,
+    "新闻动态": 2594,
     "通知公告": 214
   },
   "articles": [
+    {
+      "title": "情系上大逐光而行，矢志报国再启新程——上海大学举办“校领导与学生代表面对面”座谈会",
+      "url": "https://dwygb.shu.edu.cn/info/1053/41269.htm",
+      "date": "2026-06-24",
+      "column": "新闻动态"
+    },
     {
       "title": "毕业季，我们一起唱响未来！",
       "url": "https://mp.weixin.qq.com/s/6a64_BsKZOtt4jlQh2ihTw",

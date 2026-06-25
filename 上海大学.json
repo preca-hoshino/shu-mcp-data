@@ -2,13 +2,13 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260625_013752",
-  "total_articles": 18406,
+  "crawl_time": "20260625_052519",
+  "total_articles": 18407,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
     "通知公告": 451,
-    "重要新闻": 26
+    "重要新闻": 27
   },
   "articles": [
     {
@@ -16,6 +16,18 @@
       "url": "https://www.shu.edu.cn/info/1051/397535.htm",
       "date": "2026-06-25",
       "column": "通知公告"
+    },
+    {
+      "title": "我校召开2026年院长工作会议",
+      "url": "https://www.shu.edu.cn/info/1053/397565.htm",
+      "date": "2026-06-25",
+      "column": "重要新闻"
+    },
+    {
+      "title": "情系上大逐光而行，矢志报国再启新程——校领导与2026届优秀毕业生代表进行面对面座谈",
+      "url": "https://www.shu.edu.cn/info/1056/397575.htm",
+      "date": "2026-06-25",
+      "column": "综合新闻"
     },
     {
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
@@ -124,12 +136,6 @@
       "url": "https://www.shu.edu.cn/info/1053/397145.htm",
       "date": "2026-06-18",
       "column": "重要新闻"
-    },
-    {
-      "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
-      "url": "https://www.shu.edu.cn/info/1056/397105.htm",
-      "date": "2026-06-18",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学期刊最新IF出炉，《社会（英文）》跃升Q1区",
