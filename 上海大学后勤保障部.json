@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260626_053029",
-  "total_articles": 443,
+  "crawl_time": "20260626_090818",
+  "total_articles": 444,
   "columns": {
     "后勤新闻": 317,
-    "通知公告": 126
+    "通知公告": 127
   },
   "articles": [
+    {
+      "title": "上海大学延长、新闸路校区办理排水许可证服务项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10336.htm",
+      "date": "2026-06-26",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学(延长校区)通信基站招租项目（三年） 招租公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10266.htm",

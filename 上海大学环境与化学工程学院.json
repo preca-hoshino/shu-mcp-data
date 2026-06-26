@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260626_053029",
-  "total_articles": 967,
+  "crawl_time": "20260626_090818",
+  "total_articles": 968,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 388,
+    "学院新闻": 389,
     "本科生教学": 70,
     "研究生教学": 204,
     "科研动态": 116,
     "通知公告": 110
   },
   "articles": [
+    {
+      "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
+      "url": "https://ece.shu.edu.cn/info/1149/88854.htm",
+      "date": "2026-06-26",
+      "column": "学院新闻"
+    },
     {
       "title": "赢在当“夏”—上海大学环境与化学工程学院2026年大学生暑期夏令营通知",
       "url": "https://mp.weixin.qq.com/s/3r87ntnQeRHmyEzFv8PS7A",

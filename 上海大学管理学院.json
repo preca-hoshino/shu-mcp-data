@@ -2,10 +2,10 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260626_053029",
-  "total_articles": 769,
+  "crawl_time": "20260626_090818",
+  "total_articles": 768,
   "columns": {
-    "学术活动": 200,
+    "学术活动": 199,
     "学院新闻": 66,
     "重要通知": 503
   },
@@ -4413,12 +4413,6 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
-    },
-    {
-      "title": "上海管理论坛青年学者专场第一期成功举办",
-      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
-      "date": "2008-11-09",
-      "column": "学术活动"
     },
     {
       "title": "关于08-09学年秋季学期期末成绩登录时间安排",

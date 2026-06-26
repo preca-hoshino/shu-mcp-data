@@ -2,10 +2,10 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260626_053029",
-  "total_articles": 1650,
+  "crawl_time": "20260626_090818",
+  "total_articles": 1652,
   "columns": {
-    "学术动态": 84,
+    "学术动态": 86,
     "学院新闻": 1100,
     "报告讲座": 133,
     "科研动态": 35,
@@ -14,6 +14,12 @@
     "通知公告(研究生)": 167
   },
   "articles": [
+    {
+      "title": "钢铁冶金博士研究生党支部联合电子信息材料博士研究生党支部开展主题党日活动",
+      "url": "https://mat.shu.edu.cn/info/1014/30398.htm",
+      "date": "2026-06-26",
+      "column": "学术动态"
+    },
     {
       "title": "毕业证领取通知（20260625）",
       "url": "https://mat.shu.edu.cn/info/1019/30388.htm",
@@ -9889,6 +9895,12 @@
       "url": "https://mat.shu.edu.cn/info/1015/1042.htm",
       "date": "2019-01-07",
       "column": "报告讲座"
+    },
+    {
+      "title": "材料学院“师生杯”羽毛球赛顺利举行",
+      "url": "https://mat.shu.edu.cn/info/1014/1046.htm",
+      "date": "2019-01-06",
+      "column": "学术动态"
     },
     {
       "title": "材料学院招生培训工作火热开展",

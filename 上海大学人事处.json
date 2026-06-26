@@ -2,18 +2,12 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260626_053029",
-  "total_articles": 171,
+  "crawl_time": "20260626_090818",
+  "total_articles": 170,
   "columns": {
-    "新闻公告": 171
+    "新闻公告": 170
   },
   "articles": [
-    {
-      "title": "上海大学上海城市更新与可持续发展研究院2026年度招聘公告",
-      "url": "https://hr.shu.edu.cn/info/1029/8249.htm",
-      "date": "2026-06-24",
-      "column": "新闻公告"
-    },
     {
       "title": "关于兰雅心高级专业技术职务拟聘结果的公示",
       "url": "https://hr.shu.edu.cn/info/1029/8259.htm",
