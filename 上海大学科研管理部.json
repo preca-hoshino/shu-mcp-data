@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260626_013933",
+  "crawl_time": "20260626_053029",
   "total_articles": 558,
   "columns": {
     "办事流程": 8,
@@ -14,6 +14,12 @@
     {
       "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第一批）项目指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11582.htm",
+      "date": "2026-06-26",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展第十三届中国技术市场协会金桥奖申报组织推荐工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11602.htm",
       "date": "2026-06-26",
       "column": "通知公告"
     },
@@ -164,12 +170,6 @@
     {
       "title": "2026年国家社科基金重大项目选题征集公告",
       "url": "https://mp.weixin.qq.com/s/_gtAt3VF_Spjbz96jzfYXQ",
-      "date": "2026-06-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于组织申报2027年度上海市教育科学研究项目的通知",
-      "url": "https://mp.weixin.qq.com/s/nwTqBKoqMlesQCNk1Qvj_g",
       "date": "2026-06-04",
       "column": "通知公告"
     },
