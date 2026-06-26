@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260625_125233",
-  "total_articles": 112,
+  "crawl_time": "20260626_013933",
+  "total_articles": 113,
   "columns": {
     "公告信息": 35,
-    "图书馆新闻": 44,
+    "图书馆新闻": 45,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "典籍载初心 精神永传承——《郭永怀传》作者团队向图书馆捐赠签名著作",
+      "url": "https://lib.shu.edu.cn/info/1024/7024.htm",
+      "date": "2026-06-26",
+      "column": "图书馆新闻"
+    },
     {
       "title": "文澜相赠 智润学府—上海研究院捐赠图书专题展在图书馆启幕",
       "url": "https://lib.shu.edu.cn/info/1024/7014.htm",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260625_125233",
+  "crawl_time": "20260626_013933",
   "total_articles": 558,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第一批）项目指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11582.htm",
+      "date": "2026-06-26",
+      "column": "通知公告"
+    },
     {
       "title": "工业和信息化部中小企业发展促进中心关于举办2026生物制造大赛的通知",
       "url": "https://mp.weixin.qq.com/s/FlYA7kYsHuPaUAv9LQWOBA",
@@ -165,12 +171,6 @@
       "title": "关于组织申报2027年度上海市教育科学研究项目的通知",
       "url": "https://mp.weixin.qq.com/s/nwTqBKoqMlesQCNk1Qvj_g",
       "date": "2026-06-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于癌症、心脑血管、呼吸和代谢性疾病防治研究国家科技重大专项2027年度项目申报指南征求意见的通知",
-      "url": "https://service.most.gov.cn/kjjh_tztg_all/20260601/5833.html",
-      "date": "2026-06-03",
       "column": "通知公告"
     },
     {

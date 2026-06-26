@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260625_125233",
+  "crawl_time": "20260626_013933",
   "total_articles": 18407,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 27
   },
   "articles": [
+    {
+      "title": "通信学院郭海润教授团队、牟成博教授团队在《Laser & Photonics Reviews》发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/397605.htm",
+      "date": "2026-06-26",
+      "column": "科研动态"
+    },
+    {
+      "title": "集众智可定良策，合群力必兴伟业——上海大学六届三次“双代会”胜利闭幕",
+      "url": "https://www.shu.edu.cn/info/1056/397585.htm",
+      "date": "2026-06-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和践行正确政绩观联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/397615.htm",
+      "date": "2026-06-26",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学学生跨校参加外省市高校第十五届“挑战杯”中国大学生创业计划竞赛作品公示0625",
       "url": "https://www.shu.edu.cn/info/1051/397535.htm",
@@ -102,12 +120,6 @@
       "column": "科研动态"
     },
     {
-      "title": "经济学院举行2026年毕业典礼暨学位授予仪式",
-      "url": "https://www.shu.edu.cn/info/1056/397355.htm",
-      "date": "2026-06-22",
-      "column": "综合新闻"
-    },
-    {
       "title": "民革上海大学委员会顺利完成换届",
       "url": "https://www.shu.edu.cn/info/1056/397385.htm",
       "date": "2026-06-22",
@@ -136,12 +148,6 @@
       "url": "https://www.shu.edu.cn/info/1053/397145.htm",
       "date": "2026-06-18",
       "column": "重要新闻"
-    },
-    {
-      "title": "上海大学期刊最新IF出炉，《社会（英文）》跃升Q1区",
-      "url": "https://www.shu.edu.cn/info/1056/397125.htm",
-      "date": "2026-06-18",
-      "column": "综合新闻"
     },
     {
       "title": "关于宝山校区部分楼宇停电的通知",
@@ -190,12 +196,6 @@
       "url": "https://www.shu.edu.cn/info/1053/396465.htm",
       "date": "2026-06-05",
       "column": "重要新闻"
-    },
-    {
-      "title": "材料学院罗群教授和重庆大学李谦教授团队在Nature子刊《Nature Communications》上发表研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/396175.htm",
-      "date": "2026-06-03",
-      "column": "科研动态"
     },
     {
       "title": "关于宝山校区校内通行温馨提醒",
