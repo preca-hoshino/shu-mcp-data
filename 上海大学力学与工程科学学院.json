@@ -2,18 +2,30 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260627_013608",
-  "total_articles": 249,
+  "crawl_time": "20260627_052135",
+  "total_articles": 251,
   "columns": {
     "学术报告": 51,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 35,
+    "综合新闻": 37,
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "青春启航，毕业快乐！",
+      "url": "https://smes.shu.edu.cn/info/1013/10575.htm",
+      "date": "2026-06-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "​力工学院召开毕业生党员教育大会，院党委书记吴铭...",
+      "url": "https://smes.shu.edu.cn/info/1013/10565.htm",
+      "date": "2026-06-26",
+      "column": "综合新闻"
+    },
     {
       "title": "力学AI4M产教研融合创新研讨会在我校召开",
       "url": "https://smes.shu.edu.cn/info/1013/10495.htm",
