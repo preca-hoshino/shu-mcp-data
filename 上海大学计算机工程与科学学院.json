@@ -2,15 +2,21 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260627_085722",
-  "total_articles": 398,
+  "crawl_time": "20260627_123245",
+  "total_articles": 401,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 51,
+    "新闻动态": 53,
     "重要通知": 311,
-    "风采展示": 15
+    "风采展示": 16
   },
   "articles": [
+    {
+      "title": "“智”强不息乘风“网”，策“码”问道“计”天下——计算机学院举行2026届毕业典礼暨学位授予仪式",
+      "url": "https://mp.weixin.qq.com/s/2o5ajGKL4VjSfMxViu2_4w",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
     {
       "title": "第三届“天翼云杯”圆满落幕！上海大学“智文研析”夺得总决赛冠军",
       "url": "https://mp.weixin.qq.com/s/4uqmOgYLrpw9kTC_Lr-Vqg",
@@ -54,6 +60,12 @@
       "column": "风采展示"
     },
     {
+      "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生王文超",
+      "url": "https://mp.weixin.qq.com/s/egCPswSjmWFwQZKy3hlL3A",
+      "date": "2026-06-01",
+      "column": "风采展示"
+    },
+    {
       "title": "心向暖阳，相伴乐学 | 计算机学院2026心理健康教育风采季精彩回顾",
       "url": "https://mp.weixin.qq.com/s/m9LTA2qWM6bPKTpvQrRPGA",
       "date": "2026-06-01",
@@ -74,6 +86,12 @@
     {
       "title": "科创逐光！2026年上海市大学生计算机应用能力大赛在上大圆满落幕",
       "url": "https://mp.weixin.qq.com/s/qrChks_cdxzN40fkaNlQKg",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和践行正确政绩观联组学习",
+      "url": "https://mp.weixin.qq.com/s/wQyhudTc2iS19jSBdgn6LA",
       "date": "2026-06-01",
       "column": "新闻动态"
     },
