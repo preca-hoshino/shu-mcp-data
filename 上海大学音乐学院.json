@@ -2,10 +2,10 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260629_014008",
-  "total_articles": 146,
+  "crawl_time": "20260629_053939",
+  "total_articles": 145,
   "columns": {
-    "学院新闻": 29,
+    "学院新闻": 28,
     "热点新闻": 90,
     "通知公告": 27
   },
@@ -855,12 +855,6 @@
       "url": "https://music.shu.edu.cn/info/1173/3473.htm",
       "date": "2013-10-24",
       "column": "热点新闻"
-    },
-    {
-      "title": "音乐学院师生共庆教师节",
-      "url": "https://music.shu.edu.cn/info/1174/3781.htm",
-      "date": "2013-09-10",
-      "column": "学院新闻"
     },
     {
       "title": "我校王思思老师荣获第五届全国高校声乐比赛教师组民族唱法金奖",

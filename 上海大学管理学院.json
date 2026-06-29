@@ -2,14 +2,26 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260629_014008",
-  "total_articles": 768,
+  "crawl_time": "20260629_053939",
+  "total_articles": 770,
   "columns": {
     "学术活动": 199,
-    "学院新闻": 66,
+    "学院新闻": 68,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "美国密苏里大学李海涛教授做客上海管理论坛分享《融合仿真、优化与强化...",
+      "url": "https://ms.shu.edu.cn/info/1244/92155.htm",
+      "date": "2026-06-29",
+      "column": "学院新闻"
+    },
+    {
+      "title": "西安交通大学陈志平教授做客《上海管理论坛》分享带有贝叶斯模糊集的可...",
+      "url": "https://ms.shu.edu.cn/info/1244/92165.htm",
+      "date": "2026-06-29",
+      "column": "学院新闻"
+    },
     {
       "title": "0626上海管理论坛第577期（陈志平教授，西安交通大学）",
       "url": "https://ms.shu.edu.cn/info/1246/92145.htm",

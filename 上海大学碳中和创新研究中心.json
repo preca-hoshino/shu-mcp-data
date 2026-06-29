@@ -2,13 +2,19 @@
   "domain": "icn.shu.edu.cn",
   "department": "上海大学碳中和创新研究中心",
   "type": "20",
-  "crawl_time": "20260522_090853",
-  "total_articles": 33,
+  "crawl_time": "20260629_053939",
+  "total_articles": 34,
   "columns": {
     "新闻动态": 15,
-    "科研动态": 18
+    "科研动态": 19
   },
   "articles": [
+    {
+      "title": "Angewandte Chemie：二氧化碳诱导晶格氧逆向溢流实现硫中毒催化剂再生2026-06-29",
+      "url": "https://icn.shu.edu.cn/info/1531/2571.htm",
+      "date": "2026-06-29",
+      "column": "科研动态"
+    },
     {
       "title": "Angewandte Chemie：在选择性催化还原氮氧化物中利用智能还原剂抑制氨逃逸2026-05-22",
       "url": "https://icn.shu.edu.cn/info/1531/2561.htm",

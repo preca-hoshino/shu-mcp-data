@@ -2,26 +2,74 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260629_014008",
-  "total_articles": 18407,
+  "crawl_time": "20260629_053939",
+  "total_articles": 18406,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 451,
+    "通知公告": 450,
     "重要新闻": 27
   },
   "articles": [
+    {
+      "title": "2026“智算领航·模数共生”——嘉定区AI+工业软件发展与龙头企业培育三年行动方案发布大会举行",
+      "url": "https://www.shu.edu.cn/info/1056/397725.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "以交流拓思路 以互鉴促提质——复旦大学档案馆到访上海大学档案馆开展业务交流",
+      "url": "https://www.shu.edu.cn/info/1056/397735.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "表彰，启航！上海大学开展学生“红色先锋”表彰暨2026届毕业生党员教育",
+      "url": "https://www.shu.edu.cn/info/1056/397745.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/397755.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学与嘉定区教育局深化共建上海大学嘉定基础教育集团签约仪式举行",
+      "url": "https://www.shu.edu.cn/info/1056/397765.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/397775.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
+      "url": "https://www.shu.edu.cn/info/1056/397785.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "筑牢安全防线 共绘发展新篇——外国语学院召开全院教职工大会",
+      "url": "https://www.shu.edu.cn/info/1056/397795.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "校党委常委、总会计师苟燕楠讲党课“在约思纯：长征的财政过紧日子之道”",
+      "url": "https://www.shu.edu.cn/info/1056/397805.htm",
+      "date": "2026-06-29",
+      "column": "综合新闻"
+    },
     {
       "title": "通信学院郭海润教授团队、牟成博教授团队在《Laser & Photonics Reviews》发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/397605.htm",
       "date": "2026-06-26",
       "column": "科研动态"
-    },
-    {
-      "title": "集众智可定良策，合群力必兴伟业——上海大学六届三次“双代会”胜利闭幕",
-      "url": "https://www.shu.edu.cn/info/1056/397585.htm",
-      "date": "2026-06-26",
-      "column": "综合新闻"
     },
     {
       "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和践行正确政绩观联组学习",
@@ -42,12 +90,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "情系上大逐光而行，矢志报国再启新程——校领导与2026届优秀毕业生代表进行面对面座谈",
-      "url": "https://www.shu.edu.cn/info/1056/397575.htm",
-      "date": "2026-06-25",
-      "column": "综合新闻"
-    },
-    {
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
       "date": "2026-06-24",
@@ -58,18 +100,6 @@
       "url": "https://www.shu.edu.cn/info/1055/397515.htm",
       "date": "2026-06-24",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学法学院与徐汇区人民法院举行战略合作签约暨联学共建活动",
-      "url": "https://www.shu.edu.cn/info/1056/397465.htm",
-      "date": "2026-06-24",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026“看中国·外国青年影像计划”上海行上大温影启程：从国潮动画到具身智能，他们将如何讲述今天的上海？",
-      "url": "https://www.shu.edu.cn/info/1056/397475.htm",
-      "date": "2026-06-24",
-      "column": "综合新闻"
     },
     {
       "title": "核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金的最新研究成果",
@@ -84,30 +114,6 @@
       "column": "科研动态"
     },
     {
-      "title": "协同采购：物有所值 AI 物尽其用",
-      "url": "https://www.shu.edu.cn/info/1056/397415.htm",
-      "date": "2026-06-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学2026年第1次巡察整改和成果运用联席会议召开",
-      "url": "https://www.shu.edu.cn/info/1056/397425.htm",
-      "date": "2026-06-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "思美文化筑根基 凝心聚力启新程：法学院召开2026年第四次全院教职工大会",
-      "url": "https://www.shu.edu.cn/info/1056/397455.htm",
-      "date": "2026-06-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学推荐参加第十五届“挑战杯”中国大学生创业计划竞赛作品公示",
-      "url": "https://www.shu.edu.cn/info/1051/397405.htm",
-      "date": "2026-06-22",
-      "column": "通知公告"
-    },
-    {
       "title": "材料学院氢冶金低碳技术团队在CEJ上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/397365.htm",
       "date": "2026-06-22",
@@ -118,18 +124,6 @@
       "url": "https://www.shu.edu.cn/info/1055/397375.htm",
       "date": "2026-06-22",
       "column": "科研动态"
-    },
-    {
-      "title": "民革上海大学委员会顺利完成换届",
-      "url": "https://www.shu.edu.cn/info/1056/397385.htm",
-      "date": "2026-06-22",
-      "column": "综合新闻"
-    },
-    {
-      "title": "民进上海大学委员会以“社会服务”为笔，绘就和美乡村新画卷",
-      "url": "https://www.shu.edu.cn/info/1056/397395.htm",
-      "date": "2026-06-22",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘“十五五”发展新蓝图！",
