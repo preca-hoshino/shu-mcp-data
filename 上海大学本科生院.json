@@ -2,17 +2,23 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260629_093813",
-  "total_articles": 1810,
+  "crawl_time": "20260629_133435",
+  "total_articles": 1811,
   "columns": {
     "政策文件": 57,
     "新闻动态": 34,
-    "通知公告": 1719
+    "通知公告": 1720
   },
   "articles": [
     {
       "title": "上海大学2026年国家教学成果奖（本科）推荐项目公示",
       "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321094",
+      "date": "2026-06-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2026年入选上海市教学成果奖（本科）项目公示",
+      "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321104",
       "date": "2026-06-29",
       "column": "通知公告"
     },

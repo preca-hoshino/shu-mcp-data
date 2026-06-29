@@ -2,17 +2,29 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260629_093813",
-  "total_articles": 1610,
+  "crawl_time": "20260629_133435",
+  "total_articles": 1612,
   "columns": {
     "学术会议": 29,
     "学术报告": 1408,
-    "新闻快递": 173
+    "新闻快递": 175
   },
   "articles": [
     {
       "title": "2026年上海大学理学院数学系“阳阳教育奖学金”（研究生类）公示",
       "url": "https://math.shu.edu.cn/info/1041/27081.htm",
+      "date": "2026-06-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2026年上海大学理学院数学系“阳阳教育基金”（教师类）推荐名单公示",
+      "url": "https://math.shu.edu.cn/info/1041/27091.htm",
+      "date": "2026-06-29",
+      "column": "新闻快递"
+    },
+    {
+      "title": "第四届上海大学理学院数学系“阳阳教育奖学金”（教师类）考核结果公示",
+      "url": "https://math.shu.edu.cn/info/1041/27101.htm",
       "date": "2026-06-29",
       "column": "新闻快递"
     },
