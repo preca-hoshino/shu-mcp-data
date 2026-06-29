@@ -2,14 +2,20 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260629_053939",
-  "total_articles": 1609,
+  "crawl_time": "20260629_093813",
+  "total_articles": 1610,
   "columns": {
     "学术会议": 29,
     "学术报告": 1408,
-    "新闻快递": 172
+    "新闻快递": 173
   },
   "articles": [
+    {
+      "title": "2026年上海大学理学院数学系“阳阳教育奖学金”（研究生类）公示",
+      "url": "https://math.shu.edu.cn/info/1041/27081.htm",
+      "date": "2026-06-29",
+      "column": "新闻快递"
+    },
     {
       "title": "Seminar第3071讲 错排理论导引",
       "url": "https://math.shu.edu.cn/info/1042/27061.htm",

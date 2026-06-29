@@ -2,12 +2,12 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260629_053939",
-  "total_articles": 558,
+  "crawl_time": "20260629_093813",
+  "total_articles": 559,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
-    "科技动态": 77,
+    "科技动态": 78,
     "通知公告": 432
   },
   "articles": [
@@ -16,6 +16,18 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/11612.htm",
       "date": "2026-06-29",
       "column": "通知公告"
+    },
+    {
+      "title": "活动预告｜「行·爱赛思」进校园→上海大学篇",
+      "url": "https://mp.weixin.qq.com/s/FfkeABtP95FFpPvQ0XpfTg",
+      "date": "2026-06-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "明纪释法：警惕以讲课费、课题费、咨询费等名义变相送礼",
+      "url": "https://mp.weixin.qq.com/s/eB-kSonlAPHD0HKFo7HsvA",
+      "date": "2026-06-29",
+      "column": "科技动态"
     },
     {
       "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第一批）项目指南的通知",
@@ -166,12 +178,6 @@
       "url": "https://mp.weixin.qq.com/s/9oveOPM2kqDm6G9QcPKHkw?click_id=2",
       "date": "2026-06-04",
       "column": "科技动态"
-    },
-    {
-      "title": "2026年国家社科基金重大项目选题征集公告",
-      "url": "https://mp.weixin.qq.com/s/_gtAt3VF_Spjbz96jzfYXQ",
-      "date": "2026-06-04",
-      "column": "通知公告"
     },
     {
       "title": "关于发布2026年度普陀区加快发展集成电路产业专项申报指南的通知",

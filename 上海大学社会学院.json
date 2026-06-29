@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260629_053939",
-  "total_articles": 2534,
+  "crawl_time": "20260629_093813",
+  "total_articles": 2535,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
     "学术动态": 552,
-    "学术报告": 142,
+    "学术报告": 143,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "走出工厂何以立足：中国新经济中的农民工生计策略与就业不稳定性",
+      "url": "https://sociology.shu.edu.cn/info/1105/42398.htm",
+      "date": "2026-06-29",
+      "column": "学术报告"
+    },
     {
       "title": "ADRI系列讲座|Shrinking Population in China: Family Planning Policy, Social Changes, and Fertility Decline（中国人口缩减：计划生育政策、社会变迁与生育率下降）",
       "url": "https://sociology.shu.edu.cn/info/1105/42368.htm",
