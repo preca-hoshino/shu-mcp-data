@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260628_123330",
+  "crawl_time": "20260629_014008",
   "total_articles": 558,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“科学仪器”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11612.htm",
+      "date": "2026-06-29",
+      "column": "通知公告"
+    },
     {
       "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第一批）项目指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11582.htm",
@@ -153,12 +159,6 @@
       "title": "2026年中国产学研合作促进会科技创新奖申报通知",
       "url": "https://www.ciur.org.cn/a1422.html",
       "date": "2026-06-05",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于各学院遴选技术经理人的通知",
-      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11282",
-      "date": "2026-06-04",
       "column": "通知公告"
     },
     {

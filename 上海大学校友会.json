@@ -2,15 +2,33 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260628_123330",
-  "total_articles": 521,
+  "crawl_time": "20260629_014008",
+  "total_articles": 531,
   "columns": {
     "主题活动": 50,
-    "校友会新闻": 171,
-    "母校新闻": 192,
+    "校友会新闻": 173,
+    "母校新闻": 200,
     "通知公告": 108
   },
   "articles": [
+    {
+      "title": "钢铁行业知识产权纠纷调解中心成立仪式暨第二届东方国际商事调解研讨会在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1053/397135.htm",
+      "date": "2026-06-19",
+      "column": "母校新闻"
+    },
+    {
+      "title": "欢迎回家！2026年各院系校友返校活动集锦",
+      "url": "https://mp.weixin.qq.com/s/uzfc4NBkkfJ5S9dx5VOc7w",
+      "date": "2026-06-16",
+      "column": "校友会新闻"
+    },
+    {
+      "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
+      "url": "https://www.shu.edu.cn/info/1053/396465.htm",
+      "date": "2026-06-06",
+      "column": "母校新闻"
+    },
     {
       "title": "上大校友齐聚南大数智中心，共话人工智能产业新未来 ——上海大学校友会AI驱动下的产业生态与创新沙龙举行",
       "url": "https://mp.weixin.qq.com/s/tfP8ZzsidVCAu4sy4s47KQ",
@@ -28,6 +46,18 @@
       "url": "https://mp.weixin.qq.com/s/2wCb6nddrJ4dUNASezjY2g",
       "date": "2026-06-01",
       "column": "校友会新闻"
+    },
+    {
+      "title": "吴坚勇书记一行开展基础研究专题调研",
+      "url": "https://www.shu.edu.cn/info/1053/395765.htm",
+      "date": "2026-05-29",
+      "column": "母校新闻"
+    },
+    {
+      "title": "积微成著，筑基未来！上海大学亮相2026第二十三届上海教育博览会",
+      "url": "https://mp.weixin.qq.com/s/6iuZKOrkORn0kVuGwYaWdQ",
+      "date": "2026-05-27",
+      "column": "母校新闻"
     },
     {
       "title": "上海大学校友会第三届理事会理事、第二届监事会监事候选人名单公示",
@@ -2952,8 +2982,32 @@
       "column": "通知公告"
     },
     {
+      "title": "钱伟长文集首发式暨纪念钱伟长百年诞辰座谈会举行",
+      "url": "https://alumni.shu.edu.cn/info/1019/2012.htm",
+      "date": "2012-09-29",
+      "column": "母校新闻"
+    },
+    {
+      "title": "上海大学与中科院长三角地区院所开展全面合作",
+      "url": "https://alumni.shu.edu.cn/info/1019/2013.htm",
+      "date": "2012-07-04",
+      "column": "母校新闻"
+    },
+    {
       "title": "我校吴明红教授获中国工程科技界最高奖项——光华工程科技奖",
       "url": "https://alumni.shu.edu.cn/info/1019/2009.htm",
+      "date": "2012-07-03",
+      "column": "母校新闻"
+    },
+    {
+      "title": "我校14项课题获2012年度国家社科基金项目立项资助",
+      "url": "https://alumni.shu.edu.cn/info/1019/2010.htm",
+      "date": "2012-07-03",
+      "column": "母校新闻"
+    },
+    {
+      "title": "我校发布“2011年度本科教育教学质量报告”",
+      "url": "https://alumni.shu.edu.cn/info/1019/2011.htm",
       "date": "2012-07-03",
       "column": "母校新闻"
     },
@@ -3088,6 +3142,12 @@
       "url": "https://alumni.shu.edu.cn/info/1021/2207.htm",
       "date": "2012-04-12",
       "column": "通知公告"
+    },
+    {
+      "title": "研究生校友联络处举办零距离沙龙活动",
+      "url": "https://alumni.shu.edu.cn/info/1018/1837.htm",
+      "date": "2006-12-19",
+      "column": "校友会新闻"
     },
     {
       "title": "校友理事会暨宝山成才奖学金获得者恳谈会隆重举行",

@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260628_123330",
-  "total_articles": 3899,
+  "crawl_time": "20260629_014008",
+  "total_articles": 3900,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2636,
+    "学术报告": 2637,
     "本科生教务": 39,
     "本科生新闻": 45,
     "研究生教务": 15,
@@ -16,6 +16,12 @@
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第822讲 黑暗宇宙的特殊特征",
+      "url": "https://scicol.shu.edu.cn/info/1003/33345.htm",
+      "date": "2026-06-29",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3071讲 错排理论导引",
       "url": "https://scicol.shu.edu.cn/info/1003/33325.htm",
