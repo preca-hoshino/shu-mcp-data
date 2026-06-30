@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260629_133435",
-  "total_articles": 368,
+  "crawl_time": "20260630_013728",
+  "total_articles": 369,
   "columns": {
     "学术动态": 34,
-    "新闻快递": 312,
+    "新闻快递": 313,
     "研究成果": 22
   },
   "articles": [
+    {
+      "title": "第一期象屿CAST奖学金颁奖仪式暨象屿集团—上大CAST人才培养与技术交流会顺利举行",
+      "url": "https://cast.shu.edu.cn/info/1042/4151.htm",
+      "date": "2026-06-29",
+      "column": "新闻快递"
+    },
     {
       "title": "仲红刚参加2026年连铸学会年会",
       "url": "https://cast.shu.edu.cn/info/1044/4141.htm",

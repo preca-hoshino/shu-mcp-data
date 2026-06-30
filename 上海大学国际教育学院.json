@@ -2,13 +2,19 @@
   "domain": "cie.shu.edu.cn",
   "department": "上海大学国际教育学院",
   "type": "13",
-  "crawl_time": "20260629_133435",
-  "total_articles": 503,
+  "crawl_time": "20260630_013728",
+  "total_articles": 504,
   "columns": {
     "学院通知": 7,
-    "新闻动态": 496
+    "新闻动态": 497
   },
   "articles": [
+    {
+      "title": "“国际部国际教育学院教师党支部赴科大讯飞开展主题党日活动",
+      "url": "https://cie.shu.edu.cn/info/1013/5197.htm",
+      "date": "2026-06-30",
+      "column": "新闻动态"
+    },
     {
       "title": "“柬埔寨洪森亲王与夫人奖学金协会（A.M.T）代表团一行8人顺利访问上海大学",
       "url": "https://cie.shu.edu.cn/info/1013/5187.htm",
