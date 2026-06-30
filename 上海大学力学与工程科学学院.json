@@ -2,15 +2,15 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260630_013728",
-  "total_articles": 251,
+  "crawl_time": "20260630_052752",
+  "total_articles": 252,
   "columns": {
     "学术报告": 51,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 37,
+    "综合新闻": 38,
     "通知公告": 35
   },
   "articles": [
@@ -24,6 +24,12 @@
       "title": "​力工学院召开毕业生党员教育大会，院党委书记吴铭...",
       "url": "https://smes.shu.edu.cn/info/1013/10565.htm",
       "date": "2026-06-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（...",
+      "url": "https://smes.shu.edu.cn/info/1013/10585.htm",
+      "date": "2026-06-25",
       "column": "综合新闻"
     },
     {

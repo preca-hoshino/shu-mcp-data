@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260630_013728",
-  "total_articles": 2535,
+  "crawl_time": "20260630_052752",
+  "total_articles": 2536,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
     "学术动态": 552,
-    "学术报告": 143,
+    "学术报告": 144,
     "学生动态": 580,
     "教学教务": 136,
     "校友活动": 31,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "2026公共性论坛11|成长中的联结：儿童青少年的社会关系与日常活动空间",
+      "url": "https://sociology.shu.edu.cn/info/1105/42428.htm",
+      "date": "2026-06-30",
+      "column": "学术报告"
+    },
     {
       "title": "走出工厂何以立足：中国新经济中的农民工生计策略与就业不稳定性",
       "url": "https://sociology.shu.edu.cn/info/1105/42398.htm",
