@@ -2,16 +2,22 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20260630_052752",
-  "total_articles": 154,
+  "crawl_time": "20260630_090920",
+  "total_articles": 155,
   "columns": {
     "工作动态": 60,
     "成交公告": 22,
-    "服务指南": 21,
+    "服务指南": 22,
     "通知公告": 29,
     "采购公告": 22
   },
   "articles": [
+    {
+      "title": "有关“十五五”期间进口设备免税清单调整的提示",
+      "url": "https://czb.shu.edu.cn/info/1120/3352.htm",
+      "date": "2026-06-30",
+      "column": "服务指南"
+    },
     {
       "title": "协同采购：物有所值 AI 物尽其用",
       "url": "https://czb.shu.edu.cn/info/1121/3332.htm",

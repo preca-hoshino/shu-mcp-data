@@ -2,16 +2,34 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260630_052752",
-  "total_articles": 33,
+  "crawl_time": "20260630_090920",
+  "total_articles": 34,
   "columns": {
-    "重要新闻": 33
+    "重要新闻": 34
   },
   "articles": [
+    {
+      "title": "从严规范管理 聚力抓实招宣——中欧工程技术学院召开2026年财务管理与本科招生工作专题培训会",
+      "url": "https://utseus.shu.edu.cn/info/1009/6106.htm",
+      "date": "2026-06-23",
+      "column": "重要新闻"
+    },
+    {
+      "title": "校企共话AI时代人才标准：中欧学院举办创新人才沙龙",
+      "url": "https://utseus.shu.edu.cn/info/1009/6116.htm",
+      "date": "2026-06-19",
+      "column": "重要新闻"
+    },
     {
       "title": "逐梦创新勇争先，学贯中欧向未来——第六届“学贯中欧 企创未来”大学生创新竞赛圆满落幕",
       "url": "https://utseus.shu.edu.cn/info/1009/6096.htm",
       "date": "2026-06-18",
+      "column": "重要新闻"
+    },
+    {
+      "title": "沪粤联动招宣行 深耕生源拓版图 —— 中欧工程技术学院春季深耕招宣一线纪实",
+      "url": "https://utseus.shu.edu.cn/info/1009/6126.htm",
+      "date": "2026-06-15",
       "column": "重要新闻"
     },
     {
@@ -150,18 +168,6 @@
       "title": "08级校友返校分享  系统思维、跨界实践：中欧人的“底气”",
       "url": "https://utseus.shu.edu.cn/info/1009/4206.htm",
       "date": "2025-05-21",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中欧工程技术学院首期赴法游学夏令营顺利启航",
-      "url": "https://utseus.shu.edu.cn/info/1009/1221.htm",
-      "date": "2018-07-12",
-      "column": "重要新闻"
-    },
-    {
-      "title": "相遇法兰西",
-      "url": "https://utseus.shu.edu.cn/info/1009/1222.htm",
-      "date": "2018-07-12",
       "column": "重要新闻"
     },
     {

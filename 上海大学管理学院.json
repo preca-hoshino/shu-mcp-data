@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260630_052752",
-  "total_articles": 770,
+  "crawl_time": "20260630_090920",
+  "total_articles": 771,
   "columns": {
     "学术活动": 199,
-    "学院新闻": 68,
+    "学院新闻": 69,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "共育绿色项目管理人才，推动商学教育与国际前沿接轨 ----上海大学管理学...",
+      "url": "https://ms.shu.edu.cn/info/1244/92175.htm",
+      "date": "2026-06-30",
+      "column": "学院新闻"
+    },
     {
       "title": "美国密苏里大学李海涛教授做客上海管理论坛分享《融合仿真、优化与强化...",
       "url": "https://ms.shu.edu.cn/info/1244/92155.htm",

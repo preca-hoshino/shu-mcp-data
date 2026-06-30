@@ -2,15 +2,27 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260630_052752",
-  "total_articles": 18406,
+  "crawl_time": "20260630_090920",
+  "total_articles": 18407,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 450,
+    "通知公告": 451,
     "重要新闻": 27
   },
   "articles": [
+    {
+      "title": "关于2025-2026学年暑假工作安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/397875.htm",
+      "date": "2026-06-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "材料学院朱波教授团队在《Chemical Engineering Journal》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/397905.htm",
+      "date": "2026-06-30",
+      "column": "科研动态"
+    },
     {
       "title": "“主委走基层”——钱锋主委赴九三学社上海大学委员会走访调研",
       "url": "https://www.shu.edu.cn/info/1056/397825.htm",
@@ -42,21 +54,21 @@
       "column": "综合新闻"
     },
     {
-      "title": "上海大学与嘉定区教育局深化共建上海大学嘉定基础教育集团签约仪式举行",
-      "url": "https://www.shu.edu.cn/info/1056/397765.htm",
-      "date": "2026-06-29",
+      "title": "“青春逐梦担大任，笃志躬行启新程” 机自学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/397885.htm",
+      "date": "2026-06-30",
       "column": "综合新闻"
     },
     {
-      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/397775.htm",
-      "date": "2026-06-29",
+      "title": "致敬五十载初心如磐  对标先进勇担时代使命——机关党委举行2026年“光荣在党50年”纪念章颁发仪式暨机关党委系统“两优一先”表彰会",
+      "url": "https://www.shu.edu.cn/info/1056/397895.htm",
+      "date": "2026-06-30",
       "column": "综合新闻"
     },
     {
-      "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
-      "url": "https://www.shu.edu.cn/info/1056/397785.htm",
-      "date": "2026-06-29",
+      "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
+      "url": "https://www.shu.edu.cn/info/1056/397915.htm",
+      "date": "2026-06-30",
       "column": "综合新闻"
     },
     {
@@ -165,12 +177,6 @@
       "title": "机自学院与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
       "url": "https://www.shu.edu.cn/info/1055/396835.htm",
       "date": "2026-06-11",
-      "column": "科研动态"
-    },
-    {
-      "title": "经济学院陈秋玲教授团队在《Economic Change and Restructuring》上发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/396625.htm",
-      "date": "2026-06-09",
       "column": "科研动态"
     },
     {

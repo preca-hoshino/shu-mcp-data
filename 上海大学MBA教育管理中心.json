@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260630_052752",
-  "total_articles": 597,
+  "crawl_time": "20260630_090920",
+  "total_articles": 598,
   "columns": {
-    "焦点新闻": 365,
+    "焦点新闻": 366,
     "论坛活动": 179,
     "通知公告": 53
   },
   "articles": [
+    {
+      "title": "上海大学管理学院与美国项目管理学会（AAPM）签署战略合作协议",
+      "url": "https://mp.weixin.qq.com/s/sKkVRoetnG_a1tbxUtviyw",
+      "date": "2026-06-30",
+      "column": "焦点新闻"
+    },
     {
       "title": "青春逐梦 奔赴山海｜上海大学管理学院2026年毕业典礼预告",
       "url": "https://mp.weixin.qq.com/s/dWOluVCkSjJIaGSvoNj_YA",
