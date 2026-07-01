@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260701_053729",
-  "total_articles": 598,
+  "crawl_time": "20260701_091031",
+  "total_articles": 599,
   "columns": {
     "焦点新闻": 366,
-    "论坛活动": 179,
+    "论坛活动": 180,
     "通知公告": 53
   },
   "articles": [
+    {
+      "title": "MBA研究生党支部七一主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/EAvgoyQ7r67Ug5gMhFpUog",
+      "date": "2026-07-01",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学管理学院与美国项目管理学会（AAPM）签署战略合作协议",
       "url": "https://mp.weixin.qq.com/s/sKkVRoetnG_a1tbxUtviyw",

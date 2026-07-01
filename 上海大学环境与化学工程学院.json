@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260701_053729",
-  "total_articles": 973,
+  "crawl_time": "20260701_091031",
+  "total_articles": 974,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 393,
+    "学院新闻": 394,
     "本科生教学": 70,
     "研究生教学": 205,
     "科研动态": 116,
     "通知公告": 110
   },
   "articles": [
+    {
+      "title": "规范教学管理 赋能队伍成长——我院召开本科教学规范与能力提升专题培训会",
+      "url": "https://ece.shu.edu.cn/info/1149/89044.htm",
+      "date": "2026-07-01",
+      "column": "学院新闻"
+    },
     {
       "title": "【毕业典礼】思源·责任·青春·奉献——上海大学环境与化学工程学院2026年毕业典礼暨学位授予仪式",
       "url": "https://mp.weixin.qq.com/s/7FPTs0HDvAqMdWlpfyaX8Q",

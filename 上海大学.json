@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260701_053729",
+  "crawl_time": "20260701_091031",
   "total_articles": 18407,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 27
   },
   "articles": [
+    {
+      "title": "上海大学侨联与嘉定区侨联、南翔镇共同举办“新侨双创在上海”主题活动",
+      "url": "https://www.shu.edu.cn/info/1056/398125.htm",
+      "date": "2026-07-01",
+      "column": "综合新闻"
+    },
     {
       "title": "关于2025-2026学年暑假工作安排的通知",
       "url": "https://www.shu.edu.cn/info/1051/397875.htm",
@@ -69,12 +75,6 @@
       "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
       "url": "https://www.shu.edu.cn/info/1056/397915.htm",
       "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "筑牢安全防线 共绘发展新篇——外国语学院召开全院教职工大会",
-      "url": "https://www.shu.edu.cn/info/1056/397795.htm",
-      "date": "2026-06-29",
       "column": "综合新闻"
     },
     {

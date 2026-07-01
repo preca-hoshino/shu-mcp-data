@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260701_053729",
+  "crawl_time": "20260701_091031",
   "total_articles": 147,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,30 @@
     "校园动态": 41
   },
   "articles": [
+    {
+      "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学...",
+      "url": "https://www.shu.edu.cn/info/1056/397865.htm",
+      "date": "2026-07-01",
+      "column": "文明实践"
+    },
+    {
+      "title": "“青春逐梦担大任，笃志躬行启新程” 机自学院2026届毕业典礼...",
+      "url": "https://www.shu.edu.cn/info/1056/397885.htm",
+      "date": "2026-07-01",
+      "column": "文明实践"
+    },
+    {
+      "title": "致敬五十载初心如磐 对标先进勇担时代使命——机关党委举行20...",
+      "url": "https://www.shu.edu.cn/info/1056/397895.htm",
+      "date": "2026-07-01",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
+      "url": "https://www.shu.edu.cn/info/1056/397915.htm",
+      "date": "2026-07-01",
+      "column": "文明实践"
+    },
     {
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖...",
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
@@ -107,12 +131,6 @@
       "column": "文明实践"
     },
     {
-      "title": "数聚芳华，情归母校——理学院数学系2026年校友返校日活动举...",
-      "url": "https://www.shu.edu.cn/info/1056/396995.htm",
-      "date": "2026-06-17",
-      "column": "文明实践"
-    },
-    {
       "title": "深化沪明协作——上海大学图书馆赴三明学院参加“伟长书屋”...",
       "url": "https://www.shu.edu.cn/info/1056/397005.htm",
       "date": "2026-06-17",
@@ -128,24 +146,6 @@
       "title": "上海电力大学纪委一行来我校调研",
       "url": "https://www.shu.edu.cn/info/1056/397075.htm",
       "date": "2026-06-17",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学赋能新质生产力多项创新成果亮相第十二届上交会",
-      "url": "https://www.shu.edu.cn/info/1056/396945.htm",
-      "date": "2026-06-15",
-      "column": "文明实践"
-    },
-    {
-      "title": "平安相伴 行稳致远——上海大学2026年安全工作会议召开",
-      "url": "https://www.shu.edu.cn/info/1056/396865.htm",
-      "date": "2026-06-13",
-      "column": "文明实践"
-    },
-    {
-      "title": "斯洛伐克布拉迪斯拉发经济与公共管理大学代表团访问上海大学",
-      "url": "https://www.shu.edu.cn/info/1056/396935.htm",
-      "date": "2026-06-13",
       "column": "文明实践"
     },
     {

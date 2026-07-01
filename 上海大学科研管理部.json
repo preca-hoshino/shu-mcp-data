@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260701_053729",
-  "total_articles": 559,
+  "crawl_time": "20260701_091031",
+  "total_articles": 561,
   "columns": {
     "办事流程": 8,
     "技术需求": 41,
-    "科技动态": 78,
+    "科技动态": 80,
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "上海科技创新市区联动暨各区科委主任座谈会召开",
+      "url": "https://mp.weixin.qq.com/s/hQ0g4nkQ-4JHoc2pDnsG7w",
+      "date": "2026-06-30",
+      "column": "科技动态"
+    },
     {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“科学仪器”项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11612.htm",
@@ -27,6 +33,12 @@
       "title": "明纪释法：警惕以讲课费、课题费、咨询费等名义变相送礼",
       "url": "https://mp.weixin.qq.com/s/eB-kSonlAPHD0HKFo7HsvA",
       "date": "2026-06-29",
+      "column": "科技动态"
+    },
+    {
+      "title": "大零号湾科创策源孵化器启用，高校硬科技孵化模式再升级",
+      "url": "https://mp.weixin.qq.com/s/0PWElY-sNZKTxP-f9K09vA",
+      "date": "2026-06-27",
       "column": "科技动态"
     },
     {
