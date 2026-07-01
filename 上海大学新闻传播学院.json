@@ -2,7 +2,7 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260701_091031",
+  "crawl_time": "20260701_130155",
   "total_articles": 214,
   "columns": {
     "党务公开": 12,
@@ -14,6 +14,12 @@
     "综合新闻": 32
   },
   "articles": [
+    {
+      "title": "“书香致远 薪火相传”——上海大学新闻传播学院举办特聘教授陈歆耕先生著作捐赠仪式",
+      "url": "https://sjc.shu.edu.cn/info/1009/6499.htm",
+      "date": "2026-07-01",
+      "column": "综合新闻"
+    },
     {
       "title": "新闻传播学院举行2026届研究生毕业班党员教育大会",
       "url": "https://sjc.shu.edu.cn/info/1002/6489.htm",
@@ -1085,12 +1091,6 @@
     {
       "title": "首日教育丨新闻传播学院顺利开展春季学期首日教育活动",
       "url": "https://sjc.shu.edu.cn/info/1009/1157.htm",
-      "date": "2019-03-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“上海城市形象和网络舆情”工作坊顺利举行",
-      "url": "https://sjc.shu.edu.cn/info/1009/1158.htm",
       "date": "2019-03-27",
       "column": "综合新闻"
     },
