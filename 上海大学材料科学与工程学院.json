@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260630_124628",
+  "crawl_time": "20260701_014229",
   "total_articles": 1655,
   "columns": {
     "学术动态": 86,
@@ -37,12 +37,6 @@
       "url": "https://mat.shu.edu.cn/info/1019/30388.htm",
       "date": "2026-06-25",
       "column": "通知公告(研究生)"
-    },
-    {
-      "title": "材料学院“两优一先”拟表彰对象公示",
-      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30368",
-      "date": "2026-06-23",
-      "column": "通知公告(教师)"
     },
     {
       "title": "材料学院博士生张乐在《Advanced Materials》上发表重要研究成果",
@@ -1207,6 +1201,12 @@
       "url": "https://mat.shu.edu.cn/info/1018/25468.htm",
       "date": "2025-12-25",
       "column": "通知公告(本科生)"
+    },
+    {
+      "title": "第三届“六晶科技”青年教师创新奖评选办法",
+      "url": "https://mat.shu.edu.cn/info/1020/25478.htm",
+      "date": "2025-12-25",
+      "column": "通知公告(教师)"
     },
     {
       "title": "薪火相传话科研 校友领航促发展——锆合金课题组年度年会圆满举行",
