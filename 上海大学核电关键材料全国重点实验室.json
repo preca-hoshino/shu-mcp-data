@@ -2,15 +2,21 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260702_013718",
-  "total_articles": 21,
+  "crawl_time": "20260702_052243",
+  "total_articles": 22,
   "columns": {
     "招生招聘": 1,
-    "新闻资讯": 8,
+    "新闻资讯": 9,
     "研究成果": 5,
     "通知公告": 7
   },
   "articles": [
+    {
+      "title": "新闻|核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
+      "url": "https://mp.weixin.qq.com/s/CtY7BBPD4KaZz0_B0wygCQ?token=1950741848&lang=zh_CN",
+      "date": "2026-07-02",
+      "column": "新闻资讯"
+    },
     {
       "title": "研究成果| 核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金的最新研究成果",
       "url": "https://mp.weixin.qq.com/s/1AjH-O6RmFn-RE7Vvk1EEA",

@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260702_013718",
-  "total_articles": 561,
+  "crawl_time": "20260702_052243",
+  "total_articles": 565,
   "columns": {
     "办事流程": 8,
-    "技术需求": 41,
-    "科技动态": 80,
+    "技术需求": 44,
+    "科技动态": 81,
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "2025年度上海市科学技术奖公布，来看获奖名单→",
+      "url": "https://mp.weixin.qq.com/s/KPi7JyzqGUzuzB53ICrTSA",
+      "date": "2026-07-02",
+      "column": "科技动态"
+    },
     {
       "title": "上海科技创新市区联动暨各区科委主任座谈会召开",
       "url": "https://mp.weixin.qq.com/s/hQ0g4nkQ-4JHoc2pDnsG7w",
@@ -52,6 +58,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/11602.htm",
       "date": "2026-06-26",
       "column": "通知公告"
+    },
+    {
+      "title": "上海科技青海行需求征集汇总表",
+      "url": "https://kyglb.shu.edu.cn/info/1082/11662.htm",
+      "date": "2026-06-26",
+      "column": "技术需求"
     },
     {
       "title": "工业和信息化部中小企业发展促进中心关于举办2026生物制造大赛的通知",
@@ -150,6 +162,12 @@
       "column": "科技动态"
     },
     {
+      "title": "关于开展2026年静安区生命健康产业高质量发展项目（第一批）申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/pjwuD9MmifpYXecjG6ly6g?click_id=221782836",
+      "date": "2026-06-10",
+      "column": "技术需求"
+    },
+    {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年5月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11332",
       "date": "2026-06-08",
@@ -232,6 +250,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/11172.htm",
       "date": "2026-05-27",
       "column": "通知公告"
+    },
+    {
+      "title": "关于发布2026年普陀区加快发展网络安全产业专项申报指南的通知",
+      "url": "https://mp.weixin.qq.com/s/IvOaOQhvxgJv5iO6a8FrQg",
+      "date": "2026-05-27",
+      "column": "技术需求"
     },
     {
       "title": "上大团队自主研发！双臂机器人摘起番茄“十拿九稳”",
