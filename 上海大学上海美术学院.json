@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260701_130155",
-  "total_articles": 701,
+  "crawl_time": "20260702_013718",
+  "total_articles": 702,
   "columns": {
     "党建工作": 47,
     "学术讲座": 53,
     "学生工作": 40,
-    "学院新闻": 330,
+    "学院新闻": 331,
     "展览展示": 24,
     "教学": 160,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "国家艺术基金2026年度美术组织创作资助项目《新海派美术创作活动》中期审稿会在沪举行",
+      "url": "https://safa.shu.edu.cn/info/1084/19630.htm",
+      "date": "2026-07-02",
+      "column": "学院新闻"
+    },
     {
       "title": "上海美术学院携手京冀四所中学共建美育培育项目",
       "url": "https://safa.shu.edu.cn/info/1119/19600.htm",

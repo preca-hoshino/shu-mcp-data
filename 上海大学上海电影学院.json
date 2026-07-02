@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260701_130155",
-  "total_articles": 1757,
+  "crawl_time": "20260702_013718",
+  "total_articles": 1758,
   "columns": {
-    "新闻": 35,
+    "新闻": 36,
     "讲座": 464,
     "通知公告": 1258
   },
@@ -651,6 +651,12 @@
       "url": "https://mp.weixin.qq.com/s/uOlGYYU_wX0P3OHs2oEpzg",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学上海电影学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://mp.weixin.qq.com/s/uQU669zDPvNLNFtNlHBhug?scene=1&click_id=1739148130",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "学院教师刘正直复排执导大型话剧《问瓷》亮相中国国家大剧院",

@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260701_130155",
-  "total_articles": 974,
+  "crawl_time": "20260702_013718",
+  "total_articles": 975,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 394,
+    "学院新闻": 395,
     "本科生教学": 70,
     "研究生教学": 205,
     "科研动态": 116,
     "通知公告": 110
   },
   "articles": [
+    {
+      "title": "【党建】“赓续百年初心，奋进崭新征程”——我院各研究生党支部开展建党105周年主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/Qwk_YxhoGsePT3tJUMdp0g",
+      "date": "2026-07-02",
+      "column": "学院新闻"
+    },
     {
       "title": "规范教学管理 赋能队伍成长——我院召开本科教学规范与能力提升专题培训会",
       "url": "https://ece.shu.edu.cn/info/1149/89044.htm",
