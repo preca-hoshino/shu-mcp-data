@@ -2,19 +2,85 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260702_052243",
+  "crawl_time": "20260702_090614",
   "total_articles": 18407,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 451,
-    "重要新闻": 27
+    "通知公告": 450,
+    "重要新闻": 28
   },
   "articles": [
     {
-      "title": "上海大学侨联与嘉定区侨联、南翔镇共同举办“新侨双创在上海”主题活动",
-      "url": "https://www.shu.edu.cn/info/1056/398125.htm",
-      "date": "2026-07-01",
+      "title": "上海大学2026年毕业典礼举行",
+      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
+      "date": "2026-07-02",
+      "column": "重要新闻"
+    },
+    {
+      "title": "核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
+      "url": "https://www.shu.edu.cn/info/1055/398165.htm",
+      "date": "2026-07-02",
+      "column": "科研动态"
+    },
+    {
+      "title": "芯向未来！微电子学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/398185.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "巴林王国巴林大学校长一行访问上海大学",
+      "url": "https://www.shu.edu.cn/info/1056/398195.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "赓续百年红色血脉 厚植法治时代担当：法学院党委组织师生党员观看庆祝中国共产党成立105周年大会",
+      "url": "https://www.shu.edu.cn/info/1056/398205.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“书香致远 薪火相传”——上海大学新闻传播学院举办特聘教授陈歆耕先生著作捐赠仪式",
+      "url": "https://www.shu.edu.cn/info/1056/398215.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海电影学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/398225.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "环化学院开展树立和践行正确政绩观专题党课暨警示教育会",
+      "url": "https://www.shu.edu.cn/info/1056/398235.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
+      "url": "https://www.shu.edu.cn/info/1056/398255.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果转化平台建设”",
+      "url": "https://www.shu.edu.cn/info/1056/398265.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "科产系统党委走访慰问“光荣在党50年”老同志",
+      "url": "https://www.shu.edu.cn/info/1056/398275.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "微电子学院、环境与化学工程学院开展树立和践行正确政绩观联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/398285.htm",
+      "date": "2026-07-02",
       "column": "综合新闻"
     },
     {
@@ -30,70 +96,10 @@
       "column": "科研动态"
     },
     {
-      "title": "“主委走基层”——钱锋主委赴九三学社上海大学委员会走访调研",
-      "url": "https://www.shu.edu.cn/info/1056/397825.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "九三学社上海大学委员会召开第八次代表大会",
-      "url": "https://www.shu.edu.cn/info/1056/397835.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学-悉尼科技大学硕士项目十周年大会暨2026级新生开学典礼顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/397845.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "中共上海大学机关委员会第二次代表大会第三次会议顺利召开",
-      "url": "https://www.shu.edu.cn/info/1056/397855.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学院开展树立和践行正确政绩观专题党课暨2026年第五期教师政治理论学习",
-      "url": "https://www.shu.edu.cn/info/1056/397865.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“青春逐梦担大任，笃志躬行启新程” 机自学院2026届毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/397885.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "致敬五十载初心如磐  对标先进勇担时代使命——机关党委举行2026年“光荣在党50年”纪念章颁发仪式暨机关党委系统“两优一先”表彰会",
-      "url": "https://www.shu.edu.cn/info/1056/397895.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
-      "url": "https://www.shu.edu.cn/info/1056/397915.htm",
-      "date": "2026-06-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "校党委常委、总会计师苟燕楠讲党课“在约思纯：长征的财政过紧日子之道”",
-      "url": "https://www.shu.edu.cn/info/1056/397805.htm",
-      "date": "2026-06-29",
-      "column": "综合新闻"
-    },
-    {
       "title": "通信学院郭海润教授团队、牟成博教授团队在《Laser & Photonics Reviews》发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/397605.htm",
       "date": "2026-06-26",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学学生跨校参加外省市高校第十五届“挑战杯”中国大学生创业计划竞赛作品公示0625",
-      "url": "https://www.shu.edu.cn/info/1051/397535.htm",
-      "date": "2026-06-25",
-      "column": "通知公告"
     },
     {
       "title": "我校召开2026年院长工作会议",
@@ -177,12 +183,6 @@
       "title": "机自学院与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
       "url": "https://www.shu.edu.cn/info/1055/396835.htm",
       "date": "2026-06-11",
-      "column": "科研动态"
-    },
-    {
-      "title": "医学院丁小雷教授课题组在《Experimental Molecular Medicine》上发表研究论文",
-      "url": "https://www.shu.edu.cn/info/1055/396635.htm",
-      "date": "2026-06-09",
       "column": "科研动态"
     },
     {

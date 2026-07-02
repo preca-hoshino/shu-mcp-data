@@ -2,12 +2,24 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260702_052243",
-  "total_articles": 171,
+  "crawl_time": "20260702_090614",
+  "total_articles": 173,
   "columns": {
-    "新闻公告": 171
+    "新闻公告": 173
   },
   "articles": [
+    {
+      "title": "关于做好2026年教职工年度考核工作的通知",
+      "url": "https://hr.shu.edu.cn/info/1029/8289.htm",
+      "date": "2026-07-02",
+      "column": "新闻公告"
+    },
+    {
+      "title": "关于开展2026年教职工聘期考核、续聘和岗位等级晋升工作的通知",
+      "url": "https://hr.shu.edu.cn/info/1029/8299.htm",
+      "date": "2026-07-02",
+      "column": "新闻公告"
+    },
     {
       "title": "关于做好2026年上海大学高校教师资格认定工作的通知",
       "url": "https://hr.shu.edu.cn/info/1029/8279.htm",
