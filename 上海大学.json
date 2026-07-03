@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260703_013118",
+  "crawl_time": "20260703_052022",
   "total_articles": 18407,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,30 @@
     "重要新闻": 28
   },
   "articles": [
+    {
+      "title": "上海电影学院成果获第十届教育部科学研究优秀成果奖（人文社会科学）",
+      "url": "https://www.shu.edu.cn/info/1055/398335.htm",
+      "date": "2026-07-03",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
+      "url": "https://www.shu.edu.cn/info/1055/398345.htm",
+      "date": "2026-07-03",
+      "column": "科研动态"
+    },
+    {
+      "title": "笃行·致远——上海大学2025级民族预科生结业典礼举行",
+      "url": "https://www.shu.edu.cn/info/1056/398305.htm",
+      "date": "2026-07-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "九三学社上海大学委员会召开主委班子例会",
+      "url": "https://www.shu.edu.cn/info/1056/398325.htm",
+      "date": "2026-07-03",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学2026年毕业典礼举行",
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
@@ -22,18 +46,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398165.htm",
       "date": "2026-07-02",
       "column": "科研动态"
-    },
-    {
-      "title": "芯向未来！微电子学院2026届毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/398185.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "巴林王国巴林大学校长一行访问上海大学",
-      "url": "https://www.shu.edu.cn/info/1056/398195.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
     },
     {
       "title": "赓续百年红色血脉 厚植法治时代担当：法学院党委组织师生党员观看庆祝中国共产党成立105周年大会",
@@ -168,22 +180,10 @@
       "column": "通知公告"
     },
     {
-      "title": "医学院孙晓东课题组在《Advanced Functional Materials》上发表研究论文",
-      "url": "https://www.shu.edu.cn/info/1055/396975.htm",
-      "date": "2026-06-15",
-      "column": "科研动态"
-    },
-    {
       "title": "情况通报",
       "url": "https://www.shu.edu.cn/info/4203/396955.htm",
       "date": "2026-06-12",
       "column": "通知公告"
-    },
-    {
-      "title": "机自学院与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
-      "url": "https://www.shu.edu.cn/info/1055/396835.htm",
-      "date": "2026-06-11",
-      "column": "科研动态"
     },
     {
       "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",

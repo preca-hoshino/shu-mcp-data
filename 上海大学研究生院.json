@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260703_013118",
-  "total_articles": 107,
+  "crawl_time": "20260703_052022",
+  "total_articles": 108,
   "columns": {
     "国际交流": 44,
     "培养管理": 19,
-    "学位工作": 23,
+    "学位工作": 24,
     "招生信息": 14,
     "综合新闻": 7
   },
   "articles": [
+    {
+      "title": "关于第111次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/173122.htm",
+      "date": "2026-07-03",
+      "column": "学位工作"
+    },
     {
       "title": "上海大学第110次学位评定委员会授予博士学位人员公告",
       "url": "https://gs.shu.edu.cn/info/1031/173092.htm",

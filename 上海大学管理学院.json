@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260703_013118",
-  "total_articles": 771,
+  "crawl_time": "20260703_052022",
+  "total_articles": 772,
   "columns": {
     "学术活动": 199,
-    "学院新闻": 69,
+    "学院新闻": 70,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "榜样催人奋进 实干成就未来——管理学院“两优一先”表彰会顺利召开",
+      "url": "https://ms.shu.edu.cn/info/1244/92185.htm",
+      "date": "2026-07-03",
+      "column": "学院新闻"
+    },
     {
       "title": "共育绿色项目管理人才，推动商学教育与国际前沿接轨 ----上海大学管理学...",
       "url": "https://ms.shu.edu.cn/info/1244/92175.htm",

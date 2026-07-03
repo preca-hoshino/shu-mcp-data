@@ -2,14 +2,26 @@
   "domain": "adrichn.shu.edu.cn",
   "department": "上海大学亚洲人口研究中心",
   "type": "04",
-  "crawl_time": "20260513_195202",
-  "total_articles": 122,
+  "crawl_time": "20260703_052022",
+  "total_articles": 124,
   "columns": {
-    "新闻动态": 99,
-    "热点新闻": 12,
-    "图片新闻": 11
+    "图片新闻": 11,
+    "新闻动态": 101,
+    "热点新闻": 12
   },
   "articles": [
+    {
+      "title": "亚洲人口研究中心师生参加第13届国际人口地理大会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/2014.htm",
+      "date": "2026-07-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "讲座回顾｜“中国人口缩减：计划生育政策、社会变迁与生育率下降”",
+      "url": "https://adrichn.shu.edu.cn/info/1055/2024.htm",
+      "date": "2026-07-03",
+      "column": "新闻动态"
+    },
     {
       "title": "亚洲人口研究中心与中国人口与发展研究中心签订战略合作协议",
       "url": "https://adrichn.shu.edu.cn/info/1055/1994.htm",

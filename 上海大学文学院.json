@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260703_013118",
-  "total_articles": 1974,
+  "crawl_time": "20260703_052022",
+  "total_articles": 1975,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
-    "学院周志": 305,
+    "学院周志": 306,
     "科研动态": 479,
     "综合新闻": 523,
     "通知公告": 418
   },
   "articles": [
+    {
+      "title": "文学院周志总第702期（2026年第18期，6月15日-6月28日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi702.pdf",
+      "date": "2026-07-03",
+      "column": "学院周志"
+    },
     {
       "title": "“文脉承光 逐梦新程”上海大学文学院2026届毕业典礼暨学位授予仪式顺利举行",
       "url": "https://cla.shu.edu.cn/info/1015/53648.htm",
