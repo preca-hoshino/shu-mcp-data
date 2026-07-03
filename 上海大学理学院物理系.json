@@ -2,15 +2,21 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260702_124312",
-  "total_articles": 379,
+  "crawl_time": "20260703_013118",
+  "total_articles": 381,
   "columns": {
     "学术报告": 299,
     "新闻快递": 20,
-    "研究动态": 46,
+    "研究动态": 48,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
+      "url": "https://physics.shu.edu.cn/info/1076/9674.htm",
+      "date": "2026-07-03",
+      "column": "研究动态"
+    },
     {
       "title": "物理学科Seminar第822讲:Prof. Dr. Maxim Khlopov(2026年6月29日10:00)",
       "url": "https://physics.shu.edu.cn/info/1078/9664.htm",
@@ -2200,6 +2206,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/1189.htm",
       "date": "2020-10-12",
       "column": "学术报告"
+    },
+    {
+      "title": "物理系李永乐等人在国际著名期刊Nano Energy上发表研究论文",
+      "url": "https://physics.shu.edu.cn/info/1076/1431.htm",
+      "date": "2020-08-03",
+      "column": "研究动态"
     },
     {
       "title": "理学院《玩转量子世界》入选中宣部2019年“原动力”中国高校动漫出版孵化计划",

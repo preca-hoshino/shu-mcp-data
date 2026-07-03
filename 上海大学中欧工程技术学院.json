@@ -2,12 +2,18 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260702_124312",
-  "total_articles": 34,
+  "crawl_time": "20260703_013118",
+  "total_articles": 35,
   "columns": {
-    "重要新闻": 34
+    "重要新闻": 35
   },
   "articles": [
+    {
+      "title": "深学细悟校准政绩坐标 实地研学筑牢实干根基 ——中欧学院教工党支部组织开展“七一”主题党日活动",
+      "url": "https://utseus.shu.edu.cn/info/1009/6136.htm",
+      "date": "2026-07-02",
+      "column": "重要新闻"
+    },
     {
       "title": "从严规范管理 聚力抓实招宣——中欧工程技术学院召开2026年财务管理与本科招生工作专题培训会",
       "url": "https://utseus.shu.edu.cn/info/1009/6106.htm",

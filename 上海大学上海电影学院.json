@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260702_124312",
-  "total_articles": 1758,
+  "crawl_time": "20260703_013118",
+  "total_articles": 1759,
   "columns": {
-    "新闻": 36,
+    "新闻": 37,
     "讲座": 464,
     "通知公告": 1258
   },
@@ -381,6 +381,12 @@
       "url": "https://mp.weixin.qq.com/s/Ug9bHCYTsQnhjpaUPDRKQg",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "上海电影学院成果获第十届教育部科学研究优秀成果奖（人文社会科学）",
+      "url": "https://mp.weixin.qq.com/s/VFcSvGIZQvrNCtTAEctVtg?scene=1&click_id=2114293331",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海电影学院兼职辅导员招聘启事",

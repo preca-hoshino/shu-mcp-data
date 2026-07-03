@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260702_124312",
+  "crawl_time": "20260703_013118",
   "total_articles": 148,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,12 @@
     "校园动态": 42
   },
   "articles": [
+    {
+      "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果...",
+      "url": "https://www.shu.edu.cn/info/1056/398265.htm",
+      "date": "2026-07-03",
+      "column": "文明实践"
+    },
     {
       "title": "奔赴山海！今天我们在上海大学毕业啦！",
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
@@ -140,12 +146,6 @@
       "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
       "url": "https://www.shu.edu.cn/info/1056/397105.htm",
       "date": "2026-06-18",
-      "column": "文明实践"
-    },
-    {
-      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生...",
-      "url": "https://www.shu.edu.cn/info/1056/397045.htm",
-      "date": "2026-06-17",
       "column": "文明实践"
     },
     {

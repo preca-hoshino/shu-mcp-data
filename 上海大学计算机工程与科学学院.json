@@ -2,15 +2,27 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260702_124312",
-  "total_articles": 402,
+  "crawl_time": "20260703_013118",
+  "total_articles": 405,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 54,
+    "新闻动态": 55,
     "重要通知": 311,
-    "风采展示": 16
+    "风采展示": 18
   },
   "articles": [
+    {
+      "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生韩晶鑫",
+      "url": "https://mp.weixin.qq.com/s/hkI6K7Rdwa3a5s6Uh7UFVQ",
+      "date": "2026-07-01",
+      "column": "风采展示"
+    },
+    {
+      "title": "七一·致敬 | 计算机工程与科学学院“两优一先”表彰名单来啦！",
+      "url": "https://mp.weixin.qq.com/s/nvrsUZMcGgD8Iqe-gyItMw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
     {
       "title": "“智”强不息乘风“网”，策“码”问道“计”天下——计算机学院举行2026届毕业典礼暨学位授予仪式",
       "url": "https://mp.weixin.qq.com/s/2o5ajGKL4VjSfMxViu2_4w",
@@ -34,6 +46,12 @@
       "url": "https://mp.weixin.qq.com/s/Eu0cmdybTHSNygdRzKGLtA",
       "date": "2026-06-01",
       "column": "新闻动态"
+    },
+    {
+      "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生冀昱昊",
+      "url": "https://mp.weixin.qq.com/s/N_f7NkEv-NGJz74GY4PnMw",
+      "date": "2026-06-01",
+      "column": "风采展示"
     },
     {
       "title": "捷报！上大计算机学子在第十五届“挑战杯”上海市大学生创业计划竞赛中斩获特等奖！",

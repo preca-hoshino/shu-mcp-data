@@ -2,18 +2,30 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260702_124312",
-  "total_articles": 565,
+  "crawl_time": "20260703_013118",
+  "total_articles": 567,
   "columns": {
     "办事流程": 8,
     "技术需求": 44,
-    "科技动态": 81,
+    "科技动态": 83,
     "通知公告": 432
   },
   "articles": [
     {
       "title": "2025年度上海市科学技术奖公布，来看获奖名单→",
       "url": "https://mp.weixin.qq.com/s/KPi7JyzqGUzuzB53ICrTSA",
+      "date": "2026-07-02",
+      "column": "科技动态"
+    },
+    {
+      "title": "祝贺！上海大学多项成果获2025年度上海市科学技术奖！",
+      "url": "https://mp.weixin.qq.com/s/U9FbmM4eDC-crdG-vEvuTw",
+      "date": "2026-07-02",
+      "column": "科技动态"
+    },
+    {
+      "title": "核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
+      "url": "https://www.shu.edu.cn/info/1055/398165.htm",
       "date": "2026-07-02",
       "column": "科技动态"
     },
