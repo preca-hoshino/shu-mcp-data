@@ -2,20 +2,38 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260703_052022",
-  "total_articles": 2538,
+  "crawl_time": "20260703_090517",
+  "total_articles": 2541,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
-    "学术动态": 552,
-    "学术报告": 144,
+    "学术动态": 553,
+    "学术报告": 145,
     "学生动态": 581,
     "教学教务": 136,
     "校友活动": 31,
-    "综合新闻": 876,
+    "综合新闻": 877,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "讲座回顾｜“中国人口缩减：计划生育政策、社会变迁与生育率下降”",
+      "url": "https://sociology.shu.edu.cn/info/1104/42498.htm",
+      "date": "2026-07-03",
+      "column": "学术动态"
+    },
+    {
+      "title": "IESM讲座|以“鱼”易“渔”：以中刚（金）发展合作为例",
+      "url": "https://sociology.shu.edu.cn/info/1105/42488.htm",
+      "date": "2026-07-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "喜报｜我院5项成果获第十届教育部科学研究优秀成果奖",
+      "url": "https://sociology.shu.edu.cn/info/1102/42478.htm",
+      "date": "2026-07-02",
+      "column": "综合新闻"
+    },
     {
       "title": "“社”启新程 驰骋云疆|上海大学社会学院2026年毕业典礼暨学位授予仪式圆满落幕",
       "url": "https://sociology.shu.edu.cn/info/1102/42458.htm",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260703_052022",
+  "crawl_time": "20260703_090517",
   "total_articles": 567,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于2026年度上海市白玉兰人才计划浦江项目申请工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11742.htm",
+      "date": "2026-07-03",
+      "column": "通知公告"
+    },
     {
       "title": "2025年度上海市科学技术奖公布，来看获奖名单→",
       "url": "https://mp.weixin.qq.com/s/KPi7JyzqGUzuzB53ICrTSA",
@@ -195,12 +201,6 @@
       "title": "关于转发《工信部火炬中心关于举办第十五届中国创新创业大赛的通知》的通知",
       "url": "https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260605/8d7840efc0db47139f33fccf4f2d8c8c.html",
       "date": "2026-06-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海市农业农村委员会发布2026年上海市农业科技创新项目（浦东张江种谷、崇明长三角农业硅谷）申报指南...",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11292.htm",
-      "date": "2026-06-05",
       "column": "通知公告"
     },
     {

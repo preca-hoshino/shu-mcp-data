@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260703_052022",
-  "total_articles": 61,
+  "crawl_time": "20260703_090517",
+  "total_articles": 63,
   "columns": {
     "招生简章": 27,
-    "要闻速递": 34
+    "要闻速递": 36
   },
   "articles": [
+    {
+      "title": "2026年怒江州生态赋能与绿色产业发展专题培训班启动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/14608.htm",
+      "date": "2026-07-03",
+      "column": "要闻速递"
+    },
     {
       "title": "【免费高研培训】人社部专业技术人才知识更新工程“智能制造协同创新与数智升维”高级研修项目启动报名",
       "url": "https://jgzx.shu.edu.cn/info/1019/14568.htm",
@@ -326,6 +332,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "经管中心举办榆林炼油厂管理干部高级研修班",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2327.htm",
+      "date": "2013-11-19",
+      "column": "要闻速递"
     },
     {
       "title": "“上经青年管理精英沙龙”第二期系列活动成功举行",

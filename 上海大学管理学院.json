@@ -2,10 +2,10 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260703_052022",
-  "total_articles": 772,
+  "crawl_time": "20260703_090517",
+  "total_articles": 774,
   "columns": {
-    "学术活动": 199,
+    "学术活动": 201,
     "学院新闻": 70,
     "重要通知": 503
   },
@@ -15,6 +15,12 @@
       "url": "https://ms.shu.edu.cn/info/1244/92185.htm",
       "date": "2026-07-03",
       "column": "学院新闻"
+    },
+    {
+      "title": "0708上海管理论坛第578期（陈其教授，美国贝勒大学商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/92195.htm",
+      "date": "2026-07-03",
+      "column": "学术活动"
     },
     {
       "title": "共育绿色项目管理人才，推动商学教育与国际前沿接轨 ----上海大学管理学...",
@@ -4437,6 +4443,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛青年学者专场第一期成功举办",
+      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
+      "date": "2008-11-09",
+      "column": "学术活动"
     },
     {
       "title": "关于08-09学年秋季学期期末成绩登录时间安排",

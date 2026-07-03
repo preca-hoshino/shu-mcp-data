@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260703_052022",
-  "total_articles": 977,
+  "crawl_time": "20260703_090517",
+  "total_articles": 978,
   "columns": {
     "学术报告": 79,
     "学院新闻": 397,
     "本科生教学": 70,
-    "研究生教学": 205,
+    "研究生教学": 206,
     "科研动态": 116,
     "通知公告": 110
   },
   "articles": [
+    {
+      "title": "关于第111次校学位评定委员会会前准备工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1304/89104.htm",
+      "date": "2026-07-03",
+      "column": "研究生教学"
+    },
     {
       "title": "我院开展树立和践行正确政绩观专题党课暨警示教育会",
       "url": "https://ece.shu.edu.cn/info/1149/89074.htm",

@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260703_052022",
-  "total_articles": 603,
+  "crawl_time": "20260703_090517",
+  "total_articles": 604,
   "columns": {
     "焦点新闻": 366,
     "论坛活动": 180,
-    "通知公告": 57
+    "通知公告": 58
   },
   "articles": [
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（7月3日-5日）",
+      "url": "https://mp.weixin.qq.com/s/72GZTKvCACE5D0A5YLgPug",
+      "date": "2026-07-03",
+      "column": "通知公告"
+    },
     {
       "title": "2026年上海大学MBA研究生新生缴费办法",
       "url": "https://mba.shu.edu.cn/info/1024/26921.htm",
