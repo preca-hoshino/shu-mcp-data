@@ -2,10 +2,10 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260703_124221",
-  "total_articles": 173,
+  "crawl_time": "20260704_013204",
+  "total_articles": 172,
   "columns": {
-    "新闻公告": 173
+    "新闻公告": 172
   },
   "articles": [
     {
@@ -24,12 +24,6 @@
       "title": "关于做好2026年上海大学高校教师资格认定工作的通知",
       "url": "https://hr.shu.edu.cn/info/1029/8279.htm",
       "date": "2026-07-01",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于2026年上海大学校长奖等奖项评选结果的公示",
-      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8269",
-      "date": "2026-06-29",
       "column": "新闻公告"
     },
     {
