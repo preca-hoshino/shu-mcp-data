@@ -2,15 +2,21 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20260526_130618",
-  "total_articles": 62,
+  "crawl_time": "20260705_090315",
+  "total_articles": 63,
   "columns": {
-    "新闻动态": 23,
+    "新闻动态": 24,
     "科研动态": 6,
     "通知公告": 23,
     "集中课程": 10
   },
   "articles": [
+    {
+      "title": "临港新片区管委会-上海大学校企协同育人对接会举行",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2861.htm",
+      "date": "2026-07-05",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学卓越工程师学院“卓越筑梦——走进宝武”活动圆满举行",
       "url": "https://zhgy.shu.edu.cn/info/1151/2841.htm",
