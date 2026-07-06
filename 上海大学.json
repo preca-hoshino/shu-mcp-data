@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260706_013150",
+  "crawl_time": "20260706_053048",
   "total_articles": 18408,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,36 @@
     "重要新闻": 29
   },
   "articles": [
+    {
+      "title": "机自学院2项成果获2025年度上海市科学技术奖",
+      "url": "https://www.shu.edu.cn/info/1055/398625.htm",
+      "date": "2026-07-06",
+      "column": "科研动态"
+    },
+    {
+      "title": "2026年怒江州生态赋能与绿色产业发展专题培训班启动",
+      "url": "https://www.shu.edu.cn/info/1056/398585.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“奔赴山海 保持热爱”——上海大学法学院2026年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/398595.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
+      "url": "https://www.shu.edu.cn/info/1056/398605.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "光影十一载，薪火续华章",
+      "url": "https://www.shu.edu.cn/info/1056/398615.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
+    },
     {
       "title": "上海电影学院成果获第十届教育部科学研究优秀成果奖（人文社会科学）",
       "url": "https://www.shu.edu.cn/info/1055/398335.htm",
@@ -52,30 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398165.htm",
       "date": "2026-07-02",
       "column": "科研动态"
-    },
-    {
-      "title": "巴林王国巴林大学校长一行访问上海大学",
-      "url": "https://www.shu.edu.cn/info/1056/398195.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "赓续百年红色血脉 厚植法治时代担当：法学院党委组织师生党员观看庆祝中国共产党成立105周年大会",
-      "url": "https://www.shu.edu.cn/info/1056/398205.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“书香致远 薪火相传”——上海大学新闻传播学院举办特聘教授陈歆耕先生著作捐赠仪式",
-      "url": "https://www.shu.edu.cn/info/1056/398215.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海电影学院2026届毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/398225.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
     },
     {
       "title": "环化学院开展树立和践行正确政绩观专题党课暨警示教育会",
@@ -147,12 +153,6 @@
       "title": "材料学院博士生张乐在《Advanced Materials》上发表重要研究成果",
       "url": "https://www.shu.edu.cn/info/1055/397445.htm",
       "date": "2026-06-23",
-      "column": "科研动态"
-    },
-    {
-      "title": "材料学院氢冶金低碳技术团队在CEJ上发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/397365.htm",
-      "date": "2026-06-22",
       "column": "科研动态"
     },
     {

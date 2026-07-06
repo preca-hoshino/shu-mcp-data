@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260706_013150",
-  "total_articles": 2541,
+  "crawl_time": "20260706_053048",
+  "total_articles": 2542,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 51,
@@ -13,9 +13,15 @@
     "教学教务": 136,
     "校友活动": 31,
     "综合新闻": 877,
-    "通知公告": 48
+    "通知公告": 49
   },
   "articles": [
+    {
+      "title": "2026年社会学院毕业生就业“攀登奖”补充候选人公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/42508.htm",
+      "date": "2026-07-03",
+      "column": "通知公告"
+    },
     {
       "title": "讲座回顾｜“中国人口缩减：计划生育政策、社会变迁与生育率下降”",
       "url": "https://sociology.shu.edu.cn/info/1104/42498.htm",

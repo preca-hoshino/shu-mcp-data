@@ -2,13 +2,19 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20260706_013150",
-  "total_articles": 38,
+  "crawl_time": "20260706_053048",
+  "total_articles": 40,
   "columns": {
-    "通知公告": 28,
+    "通知公告": 30,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "楠棠公寓·旭东锦项目可申报“房补联动”啦",
+      "url": "https://zcb.shu.edu.cn/info/1017/4365.htm",
+      "date": "2026-07-06",
+      "column": "通知公告"
+    },
     {
       "title": "上海金沪拍卖有限公司拍卖公告",
       "url": "https://zcb.shu.edu.cn/info/1017/4335.htm",
@@ -210,6 +216,12 @@
     {
       "title": "关于南二宿舍大修的通知",
       "url": "https://zcb.shu.edu.cn/info/1017/1412.htm",
+      "date": "2015-02-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于东区教师公寓的通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/1413.htm",
       "date": "2015-02-04",
       "column": "通知公告"
     },

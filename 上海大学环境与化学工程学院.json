@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260706_013150",
-  "total_articles": 980,
+  "crawl_time": "20260706_053048",
+  "total_articles": 982,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 70,
     "研究生教学": 206,
     "科研动态": 116,
-    "通知公告": 110
+    "通知公告": 112
   },
   "articles": [
+    {
+      "title": "关于做好2026年教职工年度考核工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/89134.htm",
+      "date": "2026-07-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年教职工聘期考核、续聘和岗位等级晋升工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/89144.htm",
+      "date": "2026-07-06",
+      "column": "通知公告"
+    },
     {
       "title": "【创新竞赛】第五届中国研究生“双碳”创新与创意大赛开启报名！",
       "url": "https://mp.weixin.qq.com/s/LWmC63EfHpBsJjW5xyIXOw",
