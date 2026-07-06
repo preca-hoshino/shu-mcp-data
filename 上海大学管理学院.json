@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260706_053048",
-  "total_articles": 774,
+  "crawl_time": "20260706_092340",
+  "total_articles": 776,
   "columns": {
-    "学术活动": 201,
+    "学术活动": 203,
     "学院新闻": 70,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "0724上海管理论坛第579期（庄峻教授，纽约州立大学布法罗分校）",
+      "url": "https://ms.shu.edu.cn/info/1246/92205.htm",
+      "date": "2026-07-06",
+      "column": "学术活动"
+    },
     {
       "title": "榜样催人奋进 实干成就未来——管理学院“两优一先”表彰会顺利召开",
       "url": "https://ms.shu.edu.cn/info/1244/92185.htm",
@@ -4443,6 +4449,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "08-09秋冲突考安排",
+      "url": "https://ms.shu.edu.cn/info/1246/11183.htm",
+      "date": "2008-11-10",
+      "column": "学术活动"
     },
     {
       "title": "上海管理论坛青年学者专场第一期成功举办",

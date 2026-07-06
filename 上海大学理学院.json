@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260706_053048",
-  "total_articles": 3903,
+  "crawl_time": "20260706_092340",
+  "total_articles": 3904,
   "columns": {
     "主办会议": 41,
     "学术报告": 2638,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 610,
+    "综合新闻": 611,
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "理学院举办“两优一先”表彰会、支部书记研讨交流暨书记专题党课",
+      "url": "https://scicol.shu.edu.cn/info/1007/33395.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
+    },
     {
       "title": "物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
       "url": "https://scicol.shu.edu.cn/info/1008/33385.htm",

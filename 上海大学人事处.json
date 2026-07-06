@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260706_053048",
-  "total_articles": 172,
+  "crawl_time": "20260706_092340",
+  "total_articles": 173,
   "columns": {
-    "新闻公告": 172
+    "新闻公告": 173
   },
   "articles": [
+    {
+      "title": "关于刘慧等4人高级专业技术职务拟聘结果的公示",
+      "url": "https://hr.shu.edu.cn/info/1029/8309.htm",
+      "date": "2026-07-06",
+      "column": "新闻公告"
+    },
     {
       "title": "关于做好2026年教职工年度考核工作的通知",
       "url": "https://hr.shu.edu.cn/info/1029/8289.htm",
