@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260705_123221",
-  "total_articles": 1759,
+  "crawl_time": "20260706_013150",
+  "total_articles": 1761,
   "columns": {
-    "新闻": 37,
+    "新闻": 39,
     "讲座": 464,
     "通知公告": 1258
   },
@@ -305,6 +305,12 @@
       "column": "讲座"
     },
     {
+      "title": "上海电影学院召开“两优一先”表彰会暨中层干部培训会",
+      "url": "https://mp.weixin.qq.com/s/PbmzuWXCM7448XO1YLFiNQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "上海大学上海电影学院召开工青妇工作座谈会",
       "url": "https://mp.weixin.qq.com/s/PzIVdW_PwN2hh5JwZXPxRQ",
       "date": "",
@@ -447,6 +453,12 @@
       "url": "https://mp.weixin.qq.com/s/_WxMGtIk7awvQ7zgEonLGg",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "光影十一载，薪火续华章",
+      "url": "https://mp.weixin.qq.com/s/_xB6MW6YOUOaOlUP4hs45w",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海电影学院  “光影智习室”  使用公约",

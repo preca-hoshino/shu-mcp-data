@@ -2,20 +2,14 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260705_123221",
-  "total_articles": 1611,
+  "crawl_time": "20260706_013150",
+  "total_articles": 1610,
   "columns": {
     "学术会议": 29,
     "学术报告": 1409,
-    "新闻快递": 173
+    "新闻快递": 172
   },
   "articles": [
-    {
-      "title": "第四届上海大学理学院数学系“阳阳教育奖学金”（教师类）考核结果公示",
-      "url": "https://math.shu.edu.cn/info/1041/27101.htm",
-      "date": "2026-06-29",
-      "column": "新闻快递"
-    },
     {
       "title": "Seminar第3072讲 满足原始能量耗散Patlak-Keller-Segel系统的二阶数值格式",
       "url": "https://math.shu.edu.cn/info/1042/27111.htm",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260705_123221",
+  "crawl_time": "20260706_013150",
   "total_articles": 567,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第二批项目的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11752.htm",
+      "date": "2026-07-06",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026年度上海市白玉兰人才计划浦江项目申请工作的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11742.htm",
@@ -208,12 +214,6 @@
       "url": "https://mp.weixin.qq.com/s/2Ea7ZwCAT1LabdhzkEEOeg",
       "date": "2026-06-05",
       "column": "科技动态"
-    },
-    {
-      "title": "2026年中国产学研合作促进会科技创新奖申报通知",
-      "url": "https://www.ciur.org.cn/a1422.html",
-      "date": "2026-06-05",
-      "column": "通知公告"
     },
     {
       "title": "链接全球创新资源，深耕成果落地转化、完善知识产权服务链条……第十二届上交会助力上海加快建成具有全...",

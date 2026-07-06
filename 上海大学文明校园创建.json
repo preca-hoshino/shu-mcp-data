@@ -2,14 +2,20 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260705_123221",
-  "total_articles": 148,
+  "crawl_time": "20260706_013150",
+  "total_articles": 150,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 42
+    "校园动态": 44
   },
   "articles": [
+    {
+      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
+      "url": "https://www.shu.edu.cn/info/1053/398575.htm",
+      "date": "2026-07-06",
+      "column": "校园动态"
+    },
     {
       "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果...",
       "url": "https://www.shu.edu.cn/info/1056/398265.htm",
@@ -21,12 +27,6 @@
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
       "date": "2026-07-02",
       "column": "校园动态"
-    },
-    {
-      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
-      "url": "https://www.shu.edu.cn/info/1056/398255.htm",
-      "date": "2026-07-02",
-      "column": "文明实践"
     },
     {
       "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学...",
@@ -146,6 +146,12 @@
       "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
       "url": "https://www.shu.edu.cn/info/1056/397105.htm",
       "date": "2026-06-18",
+      "column": "文明实践"
+    },
+    {
+      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生...",
+      "url": "https://www.shu.edu.cn/info/1056/397045.htm",
+      "date": "2026-06-17",
       "column": "文明实践"
     },
     {
@@ -741,6 +747,12 @@
       "url": "https://wmzx.shu.edu.cn/info/1015/1061.htm",
       "date": "2018-02-06",
       "column": "文明创建"
+    },
+    {
+      "title": "关于开展上海大学第四届校园文化品牌网上投票评选的通知",
+      "url": "http://news.shu.edu.cn/info/1014/46485.htm",
+      "date": "2018-01-16",
+      "column": "校园动态"
     },
     {
       "title": "上海大学精神文明共建“最佳结对单位”评比办法",
