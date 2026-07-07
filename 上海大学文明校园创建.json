@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260707_013147",
+  "crawl_time": "20260707_052256",
   "total_articles": 150,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,18 @@
     "校园动态": 44
   },
   "articles": [
+    {
+      "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成...",
+      "url": "https://mp.weixin.qq.com/s/nVBP2nioWGS-885ZX7tlVg",
+      "date": "2026-07-07",
+      "column": "校园动态"
+    },
+    {
+      "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
+      "url": "https://www.shu.edu.cn/info/1056/398605.htm",
+      "date": "2026-07-07",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
@@ -146,12 +158,6 @@
       "title": "凝心聚力谋改革 协同共进促发展——上海大学召开党委双月座谈会",
       "url": "https://www.shu.edu.cn/info/1056/397105.htm",
       "date": "2026-06-18",
-      "column": "文明实践"
-    },
-    {
-      "title": "薪火相传守初心，逐梦前行担使命——外国语学院2026年毕业生...",
-      "url": "https://www.shu.edu.cn/info/1056/397045.htm",
-      "date": "2026-06-17",
       "column": "文明实践"
     },
     {
@@ -747,12 +753,6 @@
       "url": "https://wmzx.shu.edu.cn/info/1015/1061.htm",
       "date": "2018-02-06",
       "column": "文明创建"
-    },
-    {
-      "title": "关于开展上海大学第四届校园文化品牌网上投票评选的通知",
-      "url": "http://news.shu.edu.cn/info/1014/46485.htm",
-      "date": "2018-01-16",
-      "column": "校园动态"
     },
     {
       "title": "上海大学精神文明共建“最佳结对单位”评比办法",

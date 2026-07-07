@@ -2,15 +2,39 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260707_013147",
-  "total_articles": 18408,
+  "crawl_time": "20260707_052256",
+  "total_articles": 18409,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
     "通知公告": 450,
-    "重要新闻": 29
+    "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "“声动海归·同心向党”留学人员文化自信与城市软实力传播行动在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/398635.htm",
+      "date": "2026-07-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "启航新程，逐梦新传 | 上海大学新闻传播学院举办2025级大类分流新生欢迎会",
+      "url": "https://www.shu.edu.cn/info/1056/398655.htm",
+      "date": "2026-07-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学新闻传播学院与国际新闻传播教育联盟成员举行双边会谈",
+      "url": "https://www.shu.edu.cn/info/1056/398675.htm",
+      "date": "2026-07-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "材料科学与工程学院 “两优一先” 表彰会顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/398695.htm",
+      "date": "2026-07-07",
+      "column": "综合新闻"
+    },
     {
       "title": "机自学院2项成果获2025年度上海市科学技术奖",
       "url": "https://www.shu.edu.cn/info/1055/398625.htm",
@@ -66,12 +90,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "上海大学2026年毕业典礼举行",
-      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
-      "date": "2026-07-02",
-      "column": "重要新闻"
-    },
-    {
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-02",
@@ -84,28 +102,10 @@
       "column": "科研动态"
     },
     {
-      "title": "环化学院开展树立和践行正确政绩观专题党课暨警示教育会",
-      "url": "https://www.shu.edu.cn/info/1056/398235.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果转化平台建设”",
-      "url": "https://www.shu.edu.cn/info/1056/398265.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "科产系统党委走访慰问“光荣在党50年”老同志",
-      "url": "https://www.shu.edu.cn/info/1056/398275.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "微电子学院、环境与化学工程学院开展树立和践行正确政绩观联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/398285.htm",
-      "date": "2026-07-02",
-      "column": "综合新闻"
+      "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成立105周年",
+      "url": "https://mp.weixin.qq.com/s/nVBP2nioWGS-885ZX7tlVg",
+      "date": "2026-07-01",
+      "column": "重要新闻"
     },
     {
       "title": "关于2025-2026学年暑假工作安排的通知",
@@ -118,6 +118,12 @@
       "url": "https://www.shu.edu.cn/info/1055/397905.htm",
       "date": "2026-06-30",
       "column": "科研动态"
+    },
+    {
+      "title": "上海大学2026年毕业典礼举行",
+      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
+      "date": "2026-06-27",
+      "column": "重要新闻"
     },
     {
       "title": "通信学院郭海润教授团队、牟成博教授团队在《Laser & Photonics Reviews》发表最新研究成果",
