@@ -2,14 +2,26 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260707_052256",
-  "total_articles": 604,
+  "crawl_time": "20260707_090848",
+  "total_articles": 606,
   "columns": {
-    "焦点新闻": 366,
-    "论坛活动": 180,
+    "焦点新闻": 367,
+    "论坛活动": 181,
     "通知公告": 58
   },
   "articles": [
+    {
+      "title": "上大MBA 25GI数智文创方向《前沿技术与产业未来》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/5WkQhJHKr7IKCnBuKLby0w",
+      "date": "2026-07-07",
+      "column": "论坛活动"
+    },
+    {
+      "title": "凝心聚力启新程，数智深耕谱新篇——上海大学MBA中心举行新任副主任任命宣布会‌",
+      "url": "https://mp.weixin.qq.com/s/HRsapg2no29YPjlENOg5lw",
+      "date": "2026-07-07",
+      "column": "焦点新闻"
+    },
     {
       "title": "招生动态|上大MBA项目招生宣讲会（7月3日-5日）",
       "url": "https://mp.weixin.qq.com/s/72GZTKvCACE5D0A5YLgPug",
