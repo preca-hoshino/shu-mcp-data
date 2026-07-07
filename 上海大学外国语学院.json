@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260707_090848",
-  "total_articles": 571,
+  "crawl_time": "20260707_125307",
+  "total_articles": 572,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 32,
-    "学院新闻": 50,
+    "学院新闻": 51,
     "通知公告": 89
   },
   "articles": [
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
+      "url": "https://sfs.shu.edu.cn/info/1142/30957.htm",
+      "date": "2026-07-07",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学暑假工作安排",
       "url": "https://www.shu.edu.cn/info/1051/397875.htm",
