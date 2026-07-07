@@ -2,11 +2,11 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260706_131915",
-  "total_articles": 442,
+  "crawl_time": "20260707_013147",
+  "total_articles": 444,
   "columns": {
-    "后勤新闻": 317,
-    "通知公告": 125
+    "后勤新闻": 318,
+    "通知公告": 126
   },
   "articles": [
     {
@@ -16,8 +16,20 @@
       "column": "通知公告"
     },
     {
+      "title": "物业管理中心召开2025年度100万以下修缮项目施工单位考核会",
+      "url": "https://hbb.shu.edu.cn/info/1081/10416.htm",
+      "date": "2026-07-03",
+      "column": "后勤新闻"
+    },
+    {
       "title": "2026年上海大学宝山校区既有建筑玻璃幕墙定期安全检查服务项目",
       "url": "https://hbb.shu.edu.cn/info/1005/10366.htm",
+      "date": "2026-07-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "学校食堂满意度专项调查通知",
+      "url": "https://hbb.shu.edu.cn/info/1005/10376.htm",
       "date": "2026-07-02",
       "column": "通知公告"
     },

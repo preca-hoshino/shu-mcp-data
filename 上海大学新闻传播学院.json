@@ -2,8 +2,8 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260706_131915",
-  "total_articles": 215,
+  "crawl_time": "20260707_013147",
+  "total_articles": 216,
   "columns": {
     "党务公开": 12,
     "媒体聚焦": 14,
@@ -11,12 +11,18 @@
     "学院公告": 60,
     "本科生教育": 24,
     "研究生教育": 27,
-    "综合新闻": 33
+    "综合新闻": 34
   },
   "articles": [
     {
       "title": "上海大学新闻传播学院与国际新闻传播教育联盟成员举行双边会谈",
       "url": "https://sjc.shu.edu.cn/info/1009/6519.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "启航新程，逐梦新传|上海大学新闻传播学院举办2025级大类分流新生欢迎会",
+      "url": "https://sjc.shu.edu.cn/info/1009/6529.htm",
       "date": "2026-07-06",
       "column": "综合新闻"
     },
