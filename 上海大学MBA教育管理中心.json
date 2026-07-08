@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260708_050722",
-  "total_articles": 606,
+  "crawl_time": "20260708_085338",
+  "total_articles": 607,
   "columns": {
     "焦点新闻": 367,
-    "论坛活动": 181,
+    "论坛活动": 182,
     "通知公告": 58
   },
   "articles": [
+    {
+      "title": "上海大学MBA 25GI智能制造方向《可持续生产》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/A1JkBm-_lhpgjk9EdeW5aw",
+      "date": "2026-07-08",
+      "column": "论坛活动"
+    },
     {
       "title": "上大MBA 25GI数智文创方向《前沿技术与产业未来》课堂教学与实践",
       "url": "https://mp.weixin.qq.com/s/5WkQhJHKr7IKCnBuKLby0w",

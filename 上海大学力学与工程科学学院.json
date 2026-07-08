@@ -2,8 +2,8 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260708_050722",
-  "total_articles": 253,
+  "crawl_time": "20260708_085338",
+  "total_articles": 254,
   "columns": {
     "学术报告": 52,
     "学生信息": 41,
@@ -11,9 +11,15 @@
     "教师风采": 5,
     "科研动态": 59,
     "综合新闻": 39,
-    "通知公告": 35
+    "通知公告": 36
   },
   "articles": [
+    {
+      "title": "力学与工程科学学院2026年度东方英才计划教师项目拟...",
+      "url": "https://smes.shu.edu.cn/info/1015/10615.htm",
+      "date": "2026-07-08",
+      "column": "通知公告"
+    },
     {
       "title": "深学笃行正确政绩观，校地联动共促城市更新——上海...",
       "url": "https://smes.shu.edu.cn/info/1013/10605.htm",

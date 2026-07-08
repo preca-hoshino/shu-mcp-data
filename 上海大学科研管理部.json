@@ -2,20 +2,32 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260708_050722",
-  "total_articles": 567,
+  "crawl_time": "20260708_085338",
+  "total_articles": 568,
   "columns": {
     "办事流程": 8,
     "技术需求": 44,
-    "科技动态": 83,
+    "科技动态": 84,
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "国家文物局关于组织开展第九批国家文物局重点科研基地申报工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11772.htm",
+      "date": "2026-07-08",
+      "column": "通知公告"
+    },
     {
       "title": "违规使用科研经费典型案例及警示",
       "url": "https://mp.weixin.qq.com/s/Bi6wmVMsuUGdLF3UIR7GQA",
       "date": "2026-07-08",
       "column": "通知公告"
+    },
+    {
+      "title": "喜报！国家科技进步奖二等奖！",
+      "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
+      "date": "2026-07-08",
+      "column": "科技动态"
     },
     {
       "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第二批项目的通知",
@@ -200,12 +212,6 @@
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年5月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11332",
-      "date": "2026-06-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于申报国家民委民族研究项目2026年度课题的通知",
-      "url": "https://mp.weixin.qq.com/s/AJX5-M7lfp2x5dYjOBGKcg?click_id=473563379",
       "date": "2026-06-08",
       "column": "通知公告"
     },

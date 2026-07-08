@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260708_050722",
-  "total_articles": 331,
+  "crawl_time": "20260708_085338",
+  "total_articles": 332,
   "columns": {
-    "新闻动态": 249,
+    "新闻动态": 250,
     "讲座信息": 8,
     "资讯动态": 2,
     "通知公告": 72
   },
   "articles": [
+    {
+      "title": "党建联学聚“芯”力  产教协同育“芯”人——上海大学集成电路协同育人联盟与临港新片区产业集群党委开展联组学习",
+      "url": "https://sme.shu.edu.cn/info/1029/6922.htm",
+      "date": "2026-07-08",
+      "column": "新闻动态"
+    },
     {
       "title": "微电子学院、环境与化学工程学院开展树立和践行正确政绩观联组学习",
       "url": "https://sme.shu.edu.cn/info/1029/6902.htm",

@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260708_050722",
-  "total_articles": 776,
+  "crawl_time": "20260708_085338",
+  "total_articles": 777,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 70,
+    "学院新闻": 71,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "青春逐梦赴山海，笃行实干启新程 |  管理学院2026年毕业典礼暨学位授予...",
+      "url": "https://ms.shu.edu.cn/info/1244/92215.htm",
+      "date": "2026-07-08",
+      "column": "学院新闻"
+    },
     {
       "title": "0724上海管理论坛第579期（庄峻教授，纽约州立大学布法罗分校）",
       "url": "https://ms.shu.edu.cn/info/1246/92205.htm",
