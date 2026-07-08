@@ -2,20 +2,32 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260707_125307",
-  "total_articles": 3904,
+  "crawl_time": "20260708_013111",
+  "total_articles": 3906,
   "columns": {
     "主办会议": 41,
     "学术报告": 2638,
     "本科生教务": 39,
-    "本科生新闻": 45,
+    "本科生新闻": 46,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 611,
+    "综合新闻": 612,
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "2026年ICQ亚洲营在上海大学举办",
+      "url": "https://scicol.shu.edu.cn/info/1007/33425.htm",
+      "date": "2026-07-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年上海大学大学生物理实验竞赛获奖名单",
+      "url": "https://scicol.shu.edu.cn/info/1161/33415.htm",
+      "date": "2026-07-08",
+      "column": "本科生新闻"
+    },
     {
       "title": "理学院举办“两优一先”表彰会、支部书记研讨交流暨书记专题党课",
       "url": "https://scicol.shu.edu.cn/info/1007/33395.htm",

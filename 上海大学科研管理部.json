@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260707_125307",
+  "crawl_time": "20260708_013111",
   "total_articles": 567,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "违规使用科研经费典型案例及警示",
+      "url": "https://mp.weixin.qq.com/s/Bi6wmVMsuUGdLF3UIR7GQA",
+      "date": "2026-07-08",
+      "column": "通知公告"
+    },
     {
       "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第二批项目的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11752.htm",
@@ -200,12 +206,6 @@
     {
       "title": "关于申报国家民委民族研究项目2026年度课题的通知",
       "url": "https://mp.weixin.qq.com/s/AJX5-M7lfp2x5dYjOBGKcg?click_id=473563379",
-      "date": "2026-06-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于转发《工信部火炬中心关于举办第十五届中国创新创业大赛的通知》的通知",
-      "url": "https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20260605/8d7840efc0db47139f33fccf4f2d8c8c.html",
       "date": "2026-06-08",
       "column": "通知公告"
     },

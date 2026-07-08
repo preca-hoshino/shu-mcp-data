@@ -2,15 +2,21 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20260707_125307",
-  "total_articles": 381,
+  "crawl_time": "20260708_013111",
+  "total_articles": 380,
   "columns": {
     "学术报告": 299,
-    "新闻快递": 20,
+    "新闻快递": 19,
     "研究动态": 48,
     "通知公告": 14
   },
   "articles": [
+    {
+      "title": "2026年上海大学大学生物理实验竞赛获奖名单",
+      "url": "https://physics.shu.edu.cn/info/1021/9684.htm",
+      "date": "2026-07-08",
+      "column": "新闻快递"
+    },
     {
       "title": "物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
       "url": "https://physics.shu.edu.cn/info/1076/9674.htm",
@@ -2282,18 +2288,6 @@
     {
       "title": "物理实验中心青年教师实验讲课交流会成功举办",
       "url": "https://physics.shu.edu.cn/info/1021/1023.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "量子与分子结构国际中心2D Systems课题组在物理化学快报杂志上发表论文",
-      "url": "https://physics.shu.edu.cn/info/1021/1025.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "物理系党总支举行学习十九大报告精神“不忘初心、牢记使命”主题活动",
-      "url": "https://physics.shu.edu.cn/info/1021/1026.htm",
       "date": "2019-11-18",
       "column": "新闻快递"
     }

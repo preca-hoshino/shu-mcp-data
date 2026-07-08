@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260707_125307",
-  "total_articles": 252,
+  "crawl_time": "20260708_013111",
+  "total_articles": 253,
   "columns": {
     "学术报告": 52,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 38,
+    "综合新闻": 39,
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "深学笃行正确政绩观，校地联动共促城市更新——上海...",
+      "url": "https://smes.shu.edu.cn/info/1013/10605.htm",
+      "date": "2026-07-07",
+      "column": "综合新闻"
+    },
     {
       "title": "基于FRP-混凝土-钢双壁空心构件的耐腐蚀桥梁关键技术...",
       "url": "https://smes.shu.edu.cn/info/1014/10595.htm",
