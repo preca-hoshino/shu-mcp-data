@@ -2,11 +2,11 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260708_013111",
-  "total_articles": 2542,
+  "crawl_time": "20260708_050722",
+  "total_articles": 2544,
   "columns": {
     "图片新闻": 119,
-    "媒体报道": 51,
+    "媒体报道": 53,
     "学术动态": 553,
     "学术报告": 145,
     "学生动态": 581,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "文汇报：沪上高校不断推进学科体系、学术体系、话语体系建设，为构建中国哲学社会科学自主知识体系提供支撑 从“书斋”到“田野”，哲学社科成果涌现",
+      "url": "https://sociology.shu.edu.cn/info/1109/42538.htm",
+      "date": "2026-07-08",
+      "column": "媒体报道"
+    },
     {
       "title": "向榜样学习|社会学院“两优一先”表彰名单",
       "url": "https://sociology.shu.edu.cn/info/1102/42518.htm",
@@ -12585,6 +12591,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/8281.htm",
       "date": "2014-05-06",
       "column": "学术动态"
+    },
+    {
+      "title": "光明日报|李友梅：在新的历史起点上推进社会体制改革",
+      "url": "https://sociology.shu.edu.cn/info/1109/8107.htm",
+      "date": "2014-05-06",
+      "column": "媒体报道"
     },
     {
       "title": "学术通讯：族群、党国与战后初期台湾工人阶级的形成",

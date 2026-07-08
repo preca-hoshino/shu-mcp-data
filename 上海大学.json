@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260708_013111",
+  "crawl_time": "20260708_050722",
   "total_articles": 18409,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
+      "url": "https://www.shu.edu.cn/info/1056/398765.htm",
+      "date": "2026-07-08",
+      "column": "综合新闻"
+    },
+    {
+      "title": "深学笃行正确政绩观，校地联动共促城市更新——上海大学力工学院党委与四川北路街道党工委开展理论学习中心组联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/398775.htm",
+      "date": "2026-07-08",
+      "column": "综合新闻"
+    },
     {
       "title": "材料学院高彦峰教授/赵起副教授在《Nature Communications》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/398745.htm",
@@ -58,18 +70,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398625.htm",
       "date": "2026-07-06",
       "column": "科研动态"
-    },
-    {
-      "title": "2026年怒江州生态赋能与绿色产业发展专题培训班启动",
-      "url": "https://www.shu.edu.cn/info/1056/398585.htm",
-      "date": "2026-07-06",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“奔赴山海 保持热爱”——上海大学法学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/398595.htm",
-      "date": "2026-07-06",
-      "column": "综合新闻"
     },
     {
       "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
