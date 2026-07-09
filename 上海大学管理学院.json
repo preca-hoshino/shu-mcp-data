@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260708_123804",
-  "total_articles": 777,
+  "crawl_time": "20260709_013154",
+  "total_articles": 778,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 71,
+    "学院新闻": 72,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "管理学院镇璐教授荣获2025年度上海市科学技术奖二等奖",
+      "url": "https://ms.shu.edu.cn/info/1244/92225.htm",
+      "date": "2026-07-09",
+      "column": "学院新闻"
+    },
     {
       "title": "青春逐梦赴山海，笃行实干启新程 |  管理学院2026年毕业典礼暨学位授予...",
       "url": "https://ms.shu.edu.cn/info/1244/92215.htm",

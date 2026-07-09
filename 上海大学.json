@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260708_123804",
+  "crawl_time": "20260709_013154",
   "total_articles": 18409,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,36 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "微电子学院徐韬副教授在《Advanced Materials》《Advanced Functional Materials》《ACS Nano》等期刊发表透明光伏器件及光学设计系列研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/398805.htm",
+      "date": "2026-07-09",
+      "column": "科研动态"
+    },
+    {
+      "title": "党建联学聚“芯”力  产教协同育“芯”人——上海大学集成电路协同育人联盟与临港新片区产业集群党委开展联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/398785.htm",
+      "date": "2026-07-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“当AI遇见传统文化”中印尼青年视觉作品展上海站颁奖典礼在上大温影举办，印尼高中生AI短片获特等奖",
+      "url": "https://www.shu.edu.cn/info/1056/398795.htm",
+      "date": "2026-07-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新闻传播学院举办树立和践行正确政绩观学习教育专题党课暨“迎七一”系列活动",
+      "url": "https://www.shu.edu.cn/info/1056/398815.htm",
+      "date": "2026-07-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "我校主办期刊《自然杂志》刊载的文章被《新华文摘》转载",
+      "url": "https://www.shu.edu.cn/info/1056/398825.htm",
+      "date": "2026-07-09",
+      "column": "综合新闻"
+    },
     {
       "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
       "url": "https://www.shu.edu.cn/info/1056/398765.htm",
@@ -30,20 +60,8 @@
       "column": "科研动态"
     },
     {
-      "title": "“声动海归·同心向党”留学人员文化自信与城市软实力传播行动在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/398635.htm",
-      "date": "2026-07-07",
-      "column": "综合新闻"
-    },
-    {
       "title": "启航新程，逐梦新传 | 上海大学新闻传播学院举办2025级大类分流新生欢迎会",
       "url": "https://www.shu.edu.cn/info/1056/398655.htm",
-      "date": "2026-07-07",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学新闻传播学院与国际新闻传播教育联盟成员举行双边会谈",
-      "url": "https://www.shu.edu.cn/info/1056/398675.htm",
       "date": "2026-07-07",
       "column": "综合新闻"
     },
@@ -70,18 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398625.htm",
       "date": "2026-07-06",
       "column": "科研动态"
-    },
-    {
-      "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
-      "url": "https://www.shu.edu.cn/info/1056/398605.htm",
-      "date": "2026-07-06",
-      "column": "综合新闻"
-    },
-    {
-      "title": "光影十一载，薪火续华章",
-      "url": "https://www.shu.edu.cn/info/1056/398615.htm",
-      "date": "2026-07-06",
-      "column": "综合新闻"
     },
     {
       "title": "上海电影学院成果获第十届教育部科学研究优秀成果奖（人文社会科学）",
@@ -153,12 +159,6 @@
       "title": "李梦甜课题组在计算机视觉顶会ECCV2026发表新成果：用“视觉偏好优化”让AI学会拍电影",
       "url": "https://www.shu.edu.cn/info/1055/397515.htm",
       "date": "2026-06-24",
-      "column": "科研动态"
-    },
-    {
-      "title": "核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金的最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/397435.htm",
-      "date": "2026-06-23",
       "column": "科研动态"
     },
     {

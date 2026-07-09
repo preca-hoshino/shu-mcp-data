@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260708_123804",
+  "crawl_time": "20260709_013154",
   "total_articles": 982,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,24 @@
     "通知公告": 112
   },
   "articles": [
+    {
+      "title": "【就业创业】2026年“职闯未来”训练营第五期预告来啦！",
+      "url": "https://mp.weixin.qq.com/s/U00Be3W1KvrezPjFwC3kQw",
+      "date": "2026-07-09",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【班级建设】“化”润初心，“工”行致远——2025级化学工程与工艺专业新生见面会顺利举行",
+      "url": "https://mp.weixin.qq.com/s/U_b7b7Sq92HxdYIn1_egtw",
+      "date": "2026-07-09",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【创新竞赛】第八届中国研究生人工智能创新大赛报名启动！",
+      "url": "https://mp.weixin.qq.com/s/zbIa5zxK6fRPUhYGAQlNFA",
+      "date": "2026-07-09",
+      "column": "学院新闻"
+    },
     {
       "title": "【党建】绿漾心间・情系陇原｜上海大学2026公益捐树活动圆满收官",
       "url": "https://mp.weixin.qq.com/s/gIFqkvKgI7yl10mdmnCxvw",
@@ -179,24 +197,6 @@
       "title": "【环保节|光影中国】定格山河青绿，共谱生态新篇——“绿映山河・光影中国”摄影大赛落幕",
       "url": "https://mp.weixin.qq.com/s/FEqLyVNQX_zWCk0dL39qJg",
       "date": "2026-06-03",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【值年返校】我院2026年校友值年返校活动圆满举行！",
-      "url": "https://mp.weixin.qq.com/s/x2s1D2nZC9EIdA2jmeu_vQ",
-      "date": "2026-06-03",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院与中海油能源发展有限公司上海安全环保分公司开展合作交流",
-      "url": "https://ece.shu.edu.cn/info/1149/88334.htm",
-      "date": "2026-06-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【杰出校友喜报】祝贺！吴明红院士获第四届全国创新争先奖",
-      "url": "https://ece.shu.edu.cn/info/1149/88344.htm",
-      "date": "2026-06-02",
       "column": "学院新闻"
     },
     {
