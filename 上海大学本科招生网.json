@@ -2,12 +2,18 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260709_052246",
+  "crawl_time": "20260709_091811",
   "total_articles": 35,
   "columns": {
     "最新公告": 35
   },
   "articles": [
+    {
+      "title": "上海大学2026年上海市综合评价录取改革试点预录取名单公示",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38920.htm",
+      "date": "2026-07-09",
+      "column": "最新公告"
+    },
     {
       "title": "上海大学2026年综合评价录取改革试点入围校测名单及考生须知",
       "url": "https://bkzsw.shu.edu.cn/info/1798/38900.htm",
@@ -204,12 +210,6 @@
       "title": "上海大学2025年第二学士学位预录取及候补录取名单公示【公示已结束】",
       "url": "https://bkzsw.shu.edu.cn/newcontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1798&wbnewsid=37900",
       "date": "2025-06-21",
-      "column": "最新公告"
-    },
-    {
-      "title": "关于上海大学2025年第二学士学位初审及面试工作安排的公告",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/37800.htm",
-      "date": "2025-06-03",
       "column": "最新公告"
     },
     {

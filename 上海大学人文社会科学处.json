@@ -2,14 +2,26 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260709_052246",
-  "total_articles": 338,
+  "crawl_time": "20260709_091811",
+  "total_articles": 342,
   "columns": {
-    "文科动态": 86,
+    "文科动态": 90,
     "最新立项": 60,
     "通知公告": 192
   },
   "articles": [
+    {
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6357.htm",
+      "date": "2026-07-09",
+      "column": "文科动态"
+    },
+    {
+      "title": "“当AI遇见传统文化”中印尼青年视觉作品展上海站颁奖典礼在上海温哥华电影学院举办",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6367.htm",
+      "date": "2026-07-09",
+      "column": "文科动态"
+    },
     {
       "title": "苟燕楠教授在中国教育会计学会2026年学术年会上做专题报告",
       "url": "https://rwskc.shu.edu.cn/info/1070/6327.htm",
@@ -1889,8 +1901,20 @@
       "column": "通知公告"
     },
     {
+      "title": "文学院葛红兵教授获上海作协重点创作项目资助",
+      "url": "http://www.shu.edu.cn/Default.aspx?tabid=121&ctl=Detail&mid=846&Id=34465&SkinSrc=[L]Skins/n",
+      "date": "2008-07-09",
+      "column": "文科动态"
+    },
+    {
       "title": "上海市“曙光计划”工作研讨会在山东泰安举行",
       "url": "https://rwskc.shu.edu.cn/info/1070/3584.htm",
+      "date": "2008-07-07",
+      "column": "文科动态"
+    },
+    {
+      "title": "文科处召开2008年度国家社科基金立项学者喜庆座谈会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3586.htm",
       "date": "2008-07-07",
       "column": "文科动态"
     },
