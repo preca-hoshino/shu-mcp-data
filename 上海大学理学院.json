@@ -2,23 +2,35 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260709_013154",
-  "total_articles": 3906,
+  "crawl_time": "20260709_052246",
+  "total_articles": 3908,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2638,
+    "学术报告": 2639,
     "本科生教务": 39,
     "本科生新闻": 46,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 612,
+    "综合新闻": 613,
     "通知公告": 158
   },
   "articles": [
     {
+      "title": "物理学科Seminar第823讲 无辅助复本阴影：量子态非线性性质高效估计方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/33455.htm",
+      "date": "2026-07-09",
+      "column": "学术报告"
+    },
+    {
       "title": "2026年ICQ亚洲营在上海大学举办",
       "url": "https://scicol.shu.edu.cn/info/1007/33425.htm",
+      "date": "2026-07-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "传承科学家精神，树立和践行正确政绩观——理学院行政党支部、化学系学生党支部及学工团队开...",
+      "url": "https://scicol.shu.edu.cn/info/1007/33435.htm",
       "date": "2026-07-09",
       "column": "综合新闻"
     },

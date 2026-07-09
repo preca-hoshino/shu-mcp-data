@@ -2,14 +2,32 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260709_013154",
-  "total_articles": 1767,
+  "crawl_time": "20260709_052246",
+  "total_articles": 1770,
   "columns": {
-    "学院新闻": 539,
-    "招生热讯": 72,
+    "学院新闻": 541,
+    "招生热讯": 73,
     "通知公告": 1156
   },
   "articles": [
+    {
+      "title": "深学七一讲话精神 践行正确政绩观 抓实学生数字档案管理 ——学校档案馆莅临继续教育学院开展档案工作专项指导",
+      "url": "https://cce.shu.edu.cn/info/1550/20664.htm",
+      "date": "2026-07-08",
+      "column": "学院新闻"
+    },
+    {
+      "title": "2026年成人高考学历提升备考指南！ 免费资料+一对一指导+考前辅导，助力稳妥上岸",
+      "url": "https://cce.shu.edu.cn/info/1013/20674.htm",
+      "date": "2026-07-07",
+      "column": "招生热讯"
+    },
+    {
+      "title": "赋能童真成长  共筑暖心服务  ——上海大学2026年上二代成长营顺利开营",
+      "url": "https://cce.shu.edu.cn/info/1550/20654.htm",
+      "date": "2026-07-07",
+      "column": "学院新闻"
+    },
     {
       "title": "关于发放2026年上半年高等教育自学考试学士学位证书的通知",
       "url": "https://cce.shu.edu.cn/info/1542/20624.htm",
