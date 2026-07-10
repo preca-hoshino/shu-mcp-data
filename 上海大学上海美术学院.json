@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260709_130055",
-  "total_articles": 705,
+  "crawl_time": "20260710_013144",
+  "total_articles": 706,
   "columns": {
     "党建工作": 47,
     "学术讲座": 53,
     "学生工作": 42,
-    "学院新闻": 332,
+    "学院新闻": 333,
     "展览展示": 24,
     "教学": 160,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "薛吕教授受邀于英国V&A博物馆开展中国工作室玻璃专题讲座",
+      "url": "https://safa.shu.edu.cn/info/1084/19720.htm",
+      "date": "2026-07-10",
+      "column": "学院新闻"
+    },
     {
       "title": "上海美术学院举行2026年毕业典礼暨学位授予仪式",
       "url": "https://safa.shu.edu.cn/info/1084/19700.htm",

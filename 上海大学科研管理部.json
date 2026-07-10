@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260709_130055",
-  "total_articles": 568,
+  "crawl_time": "20260710_013144",
+  "total_articles": 570,
   "columns": {
     "办事流程": 8,
     "技术需求": 44,
-    "科技动态": 84,
+    "科技动态": 86,
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "科创宝山，新质未来！2026年宝山区科技创新大会举行",
+      "url": "https://mp.weixin.qq.com/s/JjdGpTcPqCJtJ-nYb8Bqxg?click_id=1371498199",
+      "date": "2026-07-10",
+      "column": "科技动态"
+    },
     {
       "title": "国家文物局关于组织开展第九批国家文物局重点科研基地申报工作的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11772.htm",
@@ -3368,6 +3374,12 @@
     {
       "title": "上海大学举行二十国集团智库会议（T20）",
       "url": "https://kyglb.shu.edu.cn/info/1012/1740.htm",
+      "date": "2018-10-22",
+      "column": "科技动态"
+    },
+    {
+      "title": "上海大学理学院量子与分子结构国际中心博士生发表第一作者PNAS论文",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1741.htm",
       "date": "2018-10-22",
       "column": "科技动态"
     },

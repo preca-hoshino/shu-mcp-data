@@ -2,14 +2,14 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260709_130055",
-  "total_articles": 982,
+  "crawl_time": "20260710_013144",
+  "total_articles": 983,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 70,
     "研究生教学": 206,
-    "科研动态": 116,
+    "科研动态": 117,
     "通知公告": 112
   },
   "articles": [
@@ -30,6 +30,12 @@
       "url": "https://mp.weixin.qq.com/s/zbIa5zxK6fRPUhYGAQlNFA",
       "date": "2026-07-09",
       "column": "学院新闻"
+    },
+    {
+      "title": "环化学院李珍研究员课题组在《Advanced Functional Materials》上发表研究论文",
+      "url": "https://ece.shu.edu.cn/info/1148/89214.htm",
+      "date": "2026-07-08",
+      "column": "科研动态"
     },
     {
       "title": "【党建】绿漾心间・情系陇原｜上海大学2026公益捐树活动圆满收官",

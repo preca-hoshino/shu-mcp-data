@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260709_130055",
-  "total_articles": 444,
+  "crawl_time": "20260710_013144",
+  "total_articles": 445,
   "columns": {
     "后勤新闻": 318,
-    "通知公告": 126
+    "通知公告": 127
   },
   "articles": [
+    {
+      "title": "上海大学超市及便利店服务用房招租项目招租终止公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10426.htm",
+      "date": "2026-07-09",
+      "column": "通知公告"
+    },
     {
       "title": "物业管理中心2025年度100万以下修缮项目施工单位考核结果公示",
       "url": "https://hbb.shu.edu.cn/info/1005/10406.htm",

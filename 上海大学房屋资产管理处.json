@@ -2,13 +2,19 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20260709_130055",
-  "total_articles": 40,
+  "crawl_time": "20260710_013144",
+  "total_articles": 42,
   "columns": {
-    "通知公告": 30,
+    "通知公告": 32,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "上海大学超市及便利店服务用房招租项目招租终止公告",
+      "url": "https://zcb.shu.edu.cn/info/1017/4375.htm",
+      "date": "2026-07-10",
+      "column": "通知公告"
+    },
     {
       "title": "楠棠公寓·旭东锦项目可申报“房补联动”啦",
       "url": "https://zcb.shu.edu.cn/info/1017/4365.htm",
@@ -212,6 +218,12 @@
       "url": "https://zcb.shu.edu.cn/info/1016/3105.htm",
       "date": "2024-09-23",
       "column": "部门新闻"
+    },
+    {
+      "title": "房产处电话调整通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/1414.htm",
+      "date": "2015-03-19",
+      "column": "通知公告"
     },
     {
       "title": "关于南二宿舍大修的通知",
