@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260710_013144",
-  "total_articles": 2544,
+  "crawl_time": "20260710_052250",
+  "total_articles": 2545,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
@@ -12,7 +12,7 @@
     "学生动态": 581,
     "教学教务": 136,
     "校友活动": 31,
-    "综合新闻": 878,
+    "综合新闻": 879,
     "通知公告": 48
   },
   "articles": [
@@ -21,6 +21,12 @@
       "url": "https://sociology.shu.edu.cn/info/1109/42538.htm",
       "date": "2026-07-08",
       "column": "媒体报道"
+    },
+    {
+      "title": "社会学院党委开展树立和践行正确政绩观警示教育活动",
+      "url": "https://sociology.shu.edu.cn/info/1102/42548.htm",
+      "date": "2026-07-06",
+      "column": "综合新闻"
     },
     {
       "title": "向榜样学习|社会学院“两优一先”表彰名单",
