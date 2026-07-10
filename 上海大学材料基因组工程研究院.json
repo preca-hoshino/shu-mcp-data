@@ -2,15 +2,27 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260710_052250",
-  "total_articles": 406,
+  "crawl_time": "20260710_090729",
+  "total_articles": 410,
   "columns": {
-    "学术报告": 133,
+    "学术报告": 137,
     "科研动态": 74,
     "综合新闻": 44,
     "通知公告": 155
   },
   "articles": [
+    {
+      "title": "MGI Seminar 第419讲：Renaud Dubois （2026年7月13日 星期一 10:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7385.htm",
+      "date": "2026-07-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "MGI Seminar 第420讲：Juan José Palacios  （2026年7月16日 星期四 14:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7395.htm",
+      "date": "2026-07-10",
+      "column": "学术报告"
+    },
     {
       "title": "MGI Seminar 第418讲：黄维扬 （2026年6月13日 星期六 15:30）",
       "url": "https://mgi.shu.edu.cn/info/1065/7365.htm",
@@ -2304,6 +2316,12 @@
       "column": "科研动态"
     },
     {
+      "title": "MGI Seminar第29讲：Revealing the Inside of Rechargeable Batteries: How Deep Can We Go by In-Situ Electron Microscopy?",
+      "url": "https://mgi.shu.edu.cn/info/1065/2051.htm",
+      "date": "2015-08-11",
+      "column": "学术报告"
+    },
+    {
       "title": "材料基因组科学技术论坛第二轮通知",
       "url": "https://mgi.shu.edu.cn/info/1062/1624.htm",
       "date": "2015-07-23",
@@ -2318,6 +2336,12 @@
     {
       "title": "MGI Seminar第27讲：脉冲激光沉积Nd-Ti掺杂的BiFeO3薄膜的微结构研究",
       "url": "https://mgi.shu.edu.cn/info/1065/2049.htm",
+      "date": "2015-07-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "MGI Seminar第28讲：Effect of electric current on the nanoindentation behavior of tin",
+      "url": "https://mgi.shu.edu.cn/info/1065/2050.htm",
       "date": "2015-07-03",
       "column": "学术报告"
     },

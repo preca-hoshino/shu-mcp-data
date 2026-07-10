@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260710_052250",
-  "total_articles": 1977,
+  "crawl_time": "20260710_090729",
+  "total_articles": 1978,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
-    "学院周志": 306,
+    "学院周志": 307,
     "科研动态": 479,
     "综合新闻": 523,
     "通知公告": 420
   },
   "articles": [
+    {
+      "title": "文学院周志总第703期（2026年第19期，6月29日-7月5日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi703.pdf",
+      "date": "2026-07-10",
+      "column": "学院周志"
+    },
     {
       "title": "2026年文学院年度考核工作安排的通知",
       "url": "https://cla.shu.edu.cn/info/1017/53668.htm",

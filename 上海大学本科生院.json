@@ -2,17 +2,23 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260710_052250",
-  "total_articles": 1812,
+  "crawl_time": "20260710_090729",
+  "total_articles": 1813,
   "columns": {
     "政策文件": 57,
     "新闻动态": 34,
-    "通知公告": 1721
+    "通知公告": 1722
   },
   "articles": [
     {
       "title": "关于申报上海大学2026年人工智能赋能教育教学专项建设项目的通知（本科生院〔2026〕23号）",
       "url": "https://bksy.shu.edu.cn/info/1015/321164.htm",
+      "date": "2026-07-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2026数模竞赛暨全国大学生数学建模竞赛校内预热赛通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321174.htm",
       "date": "2026-07-10",
       "column": "通知公告"
     },
