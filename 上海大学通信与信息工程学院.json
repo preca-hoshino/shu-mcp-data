@@ -2,15 +2,27 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260711_083528",
-  "total_articles": 2020,
+  "crawl_time": "20260711_122202",
+  "total_articles": 2022,
   "columns": {
     "学术报告": 523,
     "教学信息": 21,
-    "新闻动态": 1260,
+    "新闻动态": 1262,
     "通知公告": 216
   },
   "articles": [
+    {
+      "title": "通信学院信息系党总支联合行政管理直属党支部赴上海工匠馆开展主题研学",
+      "url": "https://scie.shu.edu.cn/info/1064/46795.htm",
+      "date": "2026-07-11",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通信学院举办“聚焦通信前沿·分享成长经验” 青年学者沙龙",
+      "url": "https://scie.shu.edu.cn/info/1064/46805.htm",
+      "date": "2026-07-11",
+      "column": "新闻动态"
+    },
     {
       "title": "喜报 | 我院学子荣获第二十三届陈嘉庚青少年发明奖（上海）二等奖",
       "url": "https://scie.shu.edu.cn/info/1064/46755.htm",

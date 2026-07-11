@@ -2,15 +2,21 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260711_083528",
-  "total_articles": 407,
+  "crawl_time": "20260711_122202",
+  "total_articles": 409,
   "columns": {
     "学术活动": 21,
-    "新闻动态": 57,
+    "新闻动态": 58,
     "重要通知": 311,
-    "风采展示": 18
+    "风采展示": 19
   },
   "articles": [
+    {
+      "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生俞浩奕",
+      "url": "https://mp.weixin.qq.com/s/7NpMFRf-QTgFuNX9TvmGkg",
+      "date": "2026-07-01",
+      "column": "风采展示"
+    },
     {
       "title": "实干砺初心 青春担使命——计算机学院本科生第二党支部开展“七一”主题党日活动",
       "url": "https://mp.weixin.qq.com/s/KtX4C3lbhcAUaNzI8V1cSw",
@@ -32,6 +38,12 @@
     {
       "title": "七一·致敬 | 计算机工程与科学学院“两优一先”表彰名单来啦！",
       "url": "https://mp.weixin.qq.com/s/nvrsUZMcGgD8Iqe-gyItMw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "喜报｜计算机学院程彭洲、张新鹏文章被《新华文摘》转载！",
+      "url": "https://mp.weixin.qq.com/s/pEcXQJZvOAWIMWbbXx3okw",
       "date": "2026-07-01",
       "column": "新闻动态"
     },
