@@ -2,22 +2,16 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260710_124850",
-  "total_articles": 174,
+  "crawl_time": "20260711_013102",
+  "total_articles": 173,
   "columns": {
-    "新闻公告": 174
+    "新闻公告": 173
   },
   "articles": [
     {
       "title": "关于林琳、万晨晨同志申报高级会计师的公示",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8319",
       "date": "2026-07-10",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于刘慧等4人高级专业技术职务拟聘结果的公示",
-      "url": "https://hr.shu.edu.cn/info/1029/8309.htm",
-      "date": "2026-07-06",
       "column": "新闻公告"
     },
     {
