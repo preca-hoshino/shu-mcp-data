@@ -2,16 +2,22 @@
   "domain": "ac.shu.edu.cn",
   "department": "上海大学学术委员会",
   "type": "02",
-  "crawl_time": "20260713_013120",
-  "total_articles": 203,
+  "crawl_time": "20260713_051303",
+  "total_articles": 204,
   "columns": {
     "上大学术": 21,
     "学术资讯": 92,
-    "学风建设": 62,
+    "学风建设": 63,
     "服务指南": 5,
     "通知发文": 23
   },
   "articles": [
+    {
+      "title": "让学术圈“不能假、不敢假、不想假”",
+      "url": "https://mp.weixin.qq.com/s/iym5H6l2eHMVC9fnOB1Bsg?scene=1&click_id=817008623",
+      "date": "2026-07-13",
+      "column": "学风建设"
+    },
     {
       "title": "习近平：持续深化科教界“帽子”治理，严肃惩处学术不端行为",
       "url": "https://mp.weixin.qq.com/s/6Vr3DuoOWAqQitClgCjSEw",
