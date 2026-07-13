@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260712_122143",
+  "crawl_time": "20260713_013120",
   "total_articles": 18409,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,42 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "民革上海大学委员会召开主委（扩大）工作例会",
+      "url": "https://www.shu.edu.cn/info/1056/398975.htm",
+      "date": "2026-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "EER主编张久俊院士应邀在第15届英文科技期刊学术会议作大会报告",
+      "url": "https://www.shu.edu.cn/info/1056/398985.htm",
+      "date": "2026-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新闻传播学院2026年毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/398995.htm",
+      "date": "2026-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第九届国际新闻传播教育联盟理事会暨智能传播上海暑期班开班仪式在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/399005.htm",
+      "date": "2026-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",
+      "url": "https://www.shu.edu.cn/info/1056/399015.htm",
+      "date": "2026-07-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "大连交通大学经济管理学院一行赴上海大学经济学院调研“习近平经济思想概论”课程建设",
+      "url": "https://www.shu.edu.cn/info/1056/399025.htm",
+      "date": "2026-07-13",
+      "column": "综合新闻"
+    },
     {
       "title": "喜报！国家科技进步奖二等奖！",
       "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
@@ -22,30 +58,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398805.htm",
       "date": "2026-07-09",
       "column": "科研动态"
-    },
-    {
-      "title": "党建联学聚“芯”力  产教协同育“芯”人——上海大学集成电路协同育人联盟与临港新片区产业集群党委开展联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/398785.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“当AI遇见传统文化”中印尼青年视觉作品展上海站颁奖典礼在上大温影举办，印尼高中生AI短片获特等奖",
-      "url": "https://www.shu.edu.cn/info/1056/398795.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "新闻传播学院举办树立和践行正确政绩观学习教育专题党课暨“迎七一”系列活动",
-      "url": "https://www.shu.edu.cn/info/1056/398815.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "我校主办期刊《自然杂志》刊载的文章被《新华文摘》转载",
-      "url": "https://www.shu.edu.cn/info/1056/398825.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
     },
     {
       "title": "从弄堂咖啡到机器人实验室，十位外国青年这样拍上海：2026“看中国·上海行”在上大温影闭幕展映",
@@ -69,18 +81,6 @@
       "title": "寻迹文脉守初心  深耕校史启新程——上海大学档案馆开展于右任档案专题调研",
       "url": "https://www.shu.edu.cn/info/1056/398885.htm",
       "date": "2026-07-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
-      "url": "https://www.shu.edu.cn/info/1056/398765.htm",
-      "date": "2026-07-08",
-      "column": "综合新闻"
-    },
-    {
-      "title": "深学笃行正确政绩观，校地联动共促城市更新——上海大学力工学院党委与四川北路街道党工委开展理论学习中心组联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/398775.htm",
-      "date": "2026-07-08",
       "column": "综合新闻"
     },
     {
