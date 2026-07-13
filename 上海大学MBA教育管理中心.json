@@ -2,14 +2,32 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260713_051303",
-  "total_articles": 609,
+  "crawl_time": "20260713_090708",
+  "total_articles": 612,
   "columns": {
     "焦点新闻": 367,
-    "论坛活动": 182,
-    "通知公告": 60
+    "论坛活动": 183,
+    "通知公告": 62
   },
   "articles": [
+    {
+      "title": "关于2026届秋季上海大学MBA中心首选毕业生（Outstanding Graduates）名单公示的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27021.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于25级学生录入本年度科研成果的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27031.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "三座奖杯，九种滚烫|上海大学MBA战队HYROX杭州站",
+      "url": "https://mp.weixin.qq.com/s/aaDFYklHDNxC9g60d-ruPg",
+      "date": "2026-07-13",
+      "column": "论坛活动"
+    },
     {
       "title": "关于2026届秋季上海大学MBA中心首选毕业生（Outstanding Graduates）评选方案公示的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27001.htm",

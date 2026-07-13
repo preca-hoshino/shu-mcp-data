@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260713_051303",
+  "crawl_time": "20260713_090708",
   "total_articles": 570,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,30 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于开展2026年东方英才计划拔尖、青年项目科技平台申报工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11822.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年上海市东方英才计划拔尖、青年项目综合平台（技术转移赛道）申报评审工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11832.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年上海市东方英才计划拔尖、青年项目综合平台（未来产业赛道）申报评审工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11842.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“绿色燃料技术”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11852.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
     {
       "title": "科创宝山，新质未来！2026年宝山区科技创新大会举行",
       "url": "https://mp.weixin.qq.com/s/JjdGpTcPqCJtJ-nYb8Bqxg?click_id=1371498199",
@@ -156,12 +180,6 @@
       "column": "通知公告"
     },
     {
-      "title": "关于发布新一代人工智能国家科技重大专项2026年度第一批公开项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11472.htm",
-      "date": "2026-06-17",
-      "column": "通知公告"
-    },
-    {
       "title": "关于转发《全民科学素质纲要实施工作办公室关于开展2026全国优质科普作品征集活动的通知》的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11492.htm",
       "date": "2026-06-17",
@@ -186,28 +204,10 @@
       "column": "科技动态"
     },
     {
-      "title": "关于组织申报2026年度教育部人文社会科学研究专项任务项目（高校辅导员研究）申报工作的通知",
-      "url": "https://mp.weixin.qq.com/s/D5pQ8yfOKUI6QBM4QY8tXQ",
-      "date": "2026-06-15",
-      "column": "通知公告"
-    },
-    {
       "title": "守正科研初心，这些红线始终“带电”（含案例）",
       "url": "https://mp.weixin.qq.com/s/GnHuwtEGrT2jo_GL-Sffdg",
       "date": "2026-06-15",
       "column": "科技动态"
-    },
-    {
-      "title": "关于组织申报2026年度教育部人文社会科学研究专项任务项目（中国特色社会主义理论体系研究）申报工作的...",
-      "url": "https://mp.weixin.qq.com/s/OCnD-pRdtD7bHg_3empByw",
-      "date": "2026-06-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于组织申报2026年高校思政课教师研究专项一般项目申报工作的通知",
-      "url": "https://mp.weixin.qq.com/s/f08u_hpgIzBsUnVMhpqcOQ",
-      "date": "2026-06-15",
-      "column": "通知公告"
     },
     {
       "title": "走进上大，探秘前沿！在这里，科学的种子正在发芽",
