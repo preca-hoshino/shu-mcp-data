@@ -2,22 +2,16 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260713_125300",
-  "total_articles": 36,
+  "crawl_time": "20260714_013049",
+  "total_articles": 35,
   "columns": {
-    "最新公告": 36
+    "最新公告": 35
   },
   "articles": [
     {
       "title": "上海大学2026年各省市最低录取分数线[7.10更新]",
       "url": "https://bkzsw.shu.edu.cn/info/1798/38940.htm",
       "date": "2026-07-10",
-      "column": "最新公告"
-    },
-    {
-      "title": "上海大学2026年上海市综合评价录取改革试点预录取名单公示",
-      "url": "https://bkzsw.shu.edu.cn/info/1798/38920.htm",
-      "date": "2026-07-09",
       "column": "最新公告"
     },
     {

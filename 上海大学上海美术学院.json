@@ -2,19 +2,31 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260713_125300",
-  "total_articles": 706,
+  "crawl_time": "20260714_013049",
+  "total_articles": 708,
   "columns": {
     "党建工作": 47,
     "学术讲座": 53,
     "学生工作": 42,
-    "学院新闻": 333,
+    "学院新闻": 334,
     "展览展示": 24,
-    "教学": 160,
+    "教学": 161,
     "科研": 35,
     "通知公告": 12
   },
   "articles": [
+    {
+      "title": "沪滇携手·艺脉相承｜上海美术学院以设计赋能红河乡村振兴",
+      "url": "https://safa.shu.edu.cn/info/1084/19740.htm",
+      "date": "2026-07-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "沪滇携手·艺脉相承｜上海美术学院以设计赋能红河乡村振兴",
+      "url": "https://safa.shu.edu.cn/info/1119/19730.htm",
+      "date": "2026-07-13",
+      "column": "教学"
+    },
     {
       "title": "薛吕教授受邀于英国V&A博物馆开展中国工作室玻璃专题讲座",
       "url": "https://safa.shu.edu.cn/info/1084/19720.htm",

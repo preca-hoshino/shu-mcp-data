@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260713_125300",
-  "total_articles": 2545,
+  "crawl_time": "20260714_013049",
+  "total_articles": 2546,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
-    "学术动态": 553,
+    "学术动态": 554,
     "学术报告": 145,
     "学生动态": 581,
     "教学教务": 136,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "亚洲人口研究中心师生参加第13届国际人口地理大会",
+      "url": "https://sociology.shu.edu.cn/info/1104/42558.htm",
+      "date": "2026-07-13",
+      "column": "学术动态"
+    },
     {
       "title": "文汇报：沪上高校不断推进学科体系、学术体系、话语体系建设，为构建中国哲学社会科学自主知识体系提供支撑 从“书斋”到“田野”，哲学社科成果涌现",
       "url": "https://sociology.shu.edu.cn/info/1109/42538.htm",
