@@ -2,13 +2,19 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20260714_013049",
-  "total_articles": 42,
+  "crawl_time": "20260714_050252",
+  "total_articles": 44,
   "columns": {
-    "通知公告": 32,
+    "通知公告": 34,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "上海大学便利店、食品（烘焙）店及饮品店服务用房招租项目招租公告",
+      "url": "https://zcb.shu.edu.cn/info/1017/4395.htm",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学超市及便利店服务用房招租项目招租终止公告",
       "url": "https://zcb.shu.edu.cn/info/1017/4375.htm",
@@ -218,6 +224,12 @@
       "url": "https://zcb.shu.edu.cn/info/1016/3105.htm",
       "date": "2024-09-23",
       "column": "部门新闻"
+    },
+    {
+      "title": "上海大学教师公寓周边市场租金情况",
+      "url": "https://zcb.shu.edu.cn/info/1017/1423.htm",
+      "date": "2015-06-23",
+      "column": "通知公告"
     },
     {
       "title": "房产处电话调整通知",

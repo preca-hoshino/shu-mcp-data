@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260714_013049",
-  "total_articles": 2546,
+  "crawl_time": "20260714_050252",
+  "total_articles": 2548,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
     "学术动态": 554,
-    "学术报告": 145,
+    "学术报告": 147,
     "学生动态": 581,
     "教学教务": 136,
     "校友活动": 31,
@@ -16,6 +16,18 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "讲座|从像素到社区：街景数据与城市调查数据融合的研究路径与发现",
+      "url": "https://sociology.shu.edu.cn/info/1105/42598.htm",
+      "date": "2026-07-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "讲座|社区人口构成的双重维度及其对居民福祉的影响：来自香港公屋制度的准实验证据",
+      "url": "https://sociology.shu.edu.cn/info/1105/42608.htm",
+      "date": "2026-07-14",
+      "column": "学术报告"
+    },
     {
       "title": "亚洲人口研究中心师生参加第13届国际人口地理大会",
       "url": "https://sociology.shu.edu.cn/info/1104/42558.htm",
