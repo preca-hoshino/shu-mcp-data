@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260714_050252",
+  "crawl_time": "20260714_084531",
   "total_articles": 18409,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "法学院获2026年度国家知识产权局软科学研究项目立项",
+      "url": "https://www.shu.edu.cn/info/1055/399045.htm",
+      "date": "2026-07-14",
+      "column": "科研动态"
+    },
     {
       "title": "民革上海大学委员会召开主委（扩大）工作例会",
       "url": "https://www.shu.edu.cn/info/1056/398975.htm",
@@ -165,12 +171,6 @@
       "title": "李梦甜课题组在计算机视觉顶会ECCV2026发表新成果：用“视觉偏好优化”让AI学会拍电影",
       "url": "https://www.shu.edu.cn/info/1055/397515.htm",
       "date": "2026-06-24",
-      "column": "科研动态"
-    },
-    {
-      "title": "材料学院博士生张乐在《Advanced Materials》上发表重要研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/397445.htm",
-      "date": "2026-06-23",
       "column": "科研动态"
     },
     {

@@ -2,20 +2,26 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260714_050252",
-  "total_articles": 2548,
+  "crawl_time": "20260714_084531",
+  "total_articles": 2550,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
-    "学术动态": 554,
+    "学术动态": 555,
     "学术报告": 147,
     "学生动态": 581,
-    "教学教务": 136,
+    "教学教务": 137,
     "校友活动": 31,
     "综合新闻": 879,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "讲座回顾|汪段泳教授讲座《以“鱼”易“渔”：以中刚（金）发展合作为例》顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1104/42628.htm",
+      "date": "2026-07-14",
+      "column": "学术动态"
+    },
     {
       "title": "讲座|从像素到社区：街景数据与城市调查数据融合的研究路径与发现",
       "url": "https://sociology.shu.edu.cn/info/1105/42598.htm",
@@ -11487,6 +11493,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4973.htm",
       "date": "2015-05-12",
       "column": "综合新闻"
+    },
+    {
+      "title": "社会学院举行课堂教学与课外答疑交流会",
+      "url": "https://sociology.shu.edu.cn/info/1106/5489.htm",
+      "date": "2015-05-12",
+      "column": "教学教务"
     },
     {
       "title": "2013级学生年级大会暨暑期实践动员大会顺利举行",

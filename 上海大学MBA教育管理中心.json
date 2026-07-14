@@ -2,14 +2,26 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260714_050252",
-  "total_articles": 612,
+  "crawl_time": "20260714_084531",
+  "total_articles": 614,
   "columns": {
-    "焦点新闻": 367,
+    "焦点新闻": 368,
     "论坛活动": 183,
-    "通知公告": 62
+    "通知公告": 63
   },
   "articles": [
+    {
+      "title": "【线上课程】2026年暑期PBL交叉学科线上课程",
+      "url": "https://mp.weixin.qq.com/s/ARMYBqKvtIqFM1vCFPq-dg",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA 2026级新生画像——群英荟萃，共谱华章",
+      "url": "https://mp.weixin.qq.com/s/wQrf6gsJW5qvangtTQOAeQ",
+      "date": "2026-07-14",
+      "column": "焦点新闻"
+    },
     {
       "title": "关于2026届秋季上海大学MBA中心首选毕业生（Outstanding Graduates）名单公示的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27021.htm",

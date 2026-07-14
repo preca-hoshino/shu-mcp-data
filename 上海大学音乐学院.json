@@ -2,7 +2,7 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260714_050252",
+  "crawl_time": "20260714_084531",
   "total_articles": 145,
   "columns": {
     "学院新闻": 28,
@@ -533,12 +533,6 @@
       "column": "学院新闻"
     },
     {
-      "title": "音乐学院党总支特邀马克思主义学院教授李梁作《新时代中国特色社会主义的历史方位》专题讲座",
-      "url": "https://music.shu.edu.cn/info/1174/4028.htm",
-      "date": "2018-01-23",
-      "column": "学院新闻"
-    },
-    {
       "title": "上海大学音乐学院与宝山区星堡养老社区签订志愿者服务协议",
       "url": "https://music.shu.edu.cn/info/1174/4026.htm",
       "date": "2017-11-13",
@@ -554,6 +548,12 @@
       "title": "奏响金秋，收获硕果——上海大学音乐学院师生音乐会荣登星广会舞台",
       "url": "https://music.shu.edu.cn/info/1174/4024.htm",
       "date": "2017-10-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大之莺翩翩来，蓬门今始为君开-------上海大学音乐学院2017级本科生迎新新闻稿",
+      "url": "https://music.shu.edu.cn/info/1174/3975.htm",
+      "date": "2017-09-28",
       "column": "学院新闻"
     },
     {

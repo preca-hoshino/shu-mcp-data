@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260714_050252",
+  "crawl_time": "20260714_084531",
   "total_articles": 570,
   "columns": {
     "办事流程": 8,
@@ -14,6 +14,12 @@
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年6月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=11862",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好2026年度“曙光计划（自然科学类）”项目申报工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11872.htm",
       "date": "2026-07-14",
       "column": "通知公告"
     },
@@ -183,12 +189,6 @@
       "title": "上海市住房和城乡建设管理委员会科技创新平台（第三批）申报开始啦！",
       "url": "https://mp.weixin.qq.com/s/TERAnPIdvHG4Zc8PbRWvwQ",
       "date": "2026-06-18",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于转发《全民科学素质纲要实施工作办公室关于开展2026全国优质科普作品征集活动的通知》的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11492.htm",
-      "date": "2026-06-17",
       "column": "通知公告"
     },
     {
