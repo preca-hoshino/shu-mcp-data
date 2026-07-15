@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260715_013055",
+  "crawl_time": "20260715_050311",
   "total_articles": 18409,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
+      "url": "https://www.shu.edu.cn/info/1056/399065.htm",
+      "date": "2026-07-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
+      "url": "https://www.shu.edu.cn/info/1056/399075.htm",
+      "date": "2026-07-15",
+      "column": "综合新闻"
+    },
     {
       "title": "法学院获2026年度国家知识产权局软科学研究项目立项",
       "url": "https://www.shu.edu.cn/info/1055/399045.htm",
@@ -64,18 +76,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398805.htm",
       "date": "2026-07-09",
       "column": "科研动态"
-    },
-    {
-      "title": "从弄堂咖啡到机器人实验室，十位外国青年这样拍上海：2026“看中国·上海行”在上大温影闭幕展映",
-      "url": "https://www.shu.edu.cn/info/1056/398855.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "启航新程，逐梦新传 | 上海大学新闻传播学院举办2025级大类分流新生欢迎会",
-      "url": "https://www.shu.edu.cn/info/1056/398865.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
     },
     {
       "title": "深化馆际合作交流  共探档案创新路径——上海大学档案馆赴复旦大学档案馆开展专题调研交流",

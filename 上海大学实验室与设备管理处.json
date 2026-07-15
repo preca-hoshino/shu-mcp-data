@@ -2,13 +2,19 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260715_013055",
-  "total_articles": 196,
+  "crawl_time": "20260715_050311",
+  "total_articles": 198,
   "columns": {
     "工作动态": 165,
-    "通知公告": 31
+    "通知公告": 33
   },
   "articles": [
+    {
+      "title": "上海大学关于2026年第5批资产处置审议的公示",
+      "url": "https://sbc.shu.edu.cn/info/1004/11184.htm",
+      "date": "2026-07-15",
+      "column": "通知公告"
+    },
     {
       "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
       "url": "https://sbc.shu.edu.cn/info/1003/11164.htm",
@@ -1100,6 +1106,12 @@
       "url": "https://sbc.shu.edu.cn/info/1003/1452.htm",
       "date": "2019-05-20",
       "column": "工作动态"
+    },
+    {
+      "title": "可供校内调剂的设备（巴士学院）",
+      "url": "https://sbc.shu.edu.cn/info/1004/1408.htm",
+      "date": "2019-05-09",
+      "column": "通知公告"
     },
     {
       "title": "关于上海大学开展2019年度科研实验室安全自查自纠工作的通知",
