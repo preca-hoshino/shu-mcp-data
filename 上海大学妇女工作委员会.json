@@ -2,13 +2,19 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20260715_050311",
-  "total_articles": 472,
+  "crawl_time": "20260715_084812",
+  "total_articles": 473,
   "columns": {
     "新闻动态": 459,
-    "通知公告": 13
+    "通知公告": 14
   },
   "articles": [
+    {
+      "title": "活动预告|第四十四期泮池家长学校（亲子研学）活动预告",
+      "url": "https://mp.weixin.qq.com/s/Y5noXrwp_hpTq3HZP_ayag",
+      "date": "2026-07-15",
+      "column": "通知公告"
+    },
     {
       "title": "活动回顾 | 泮池家长学校第四十二讲：知“止”得定，知“心”...",
       "url": "https://mp.weixin.qq.com/s/l6NfH8teAB__Cu7fPa6s-Q",

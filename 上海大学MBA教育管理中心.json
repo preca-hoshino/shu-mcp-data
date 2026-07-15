@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260715_050311",
+  "crawl_time": "20260715_084812",
   "total_articles": 614,
   "columns": {
     "焦点新闻": 368,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "2026上大MBA录取通知书创意征集，文创好礼等你来！",
+      "url": "https://mp.weixin.qq.com/s/whDgmT5VQxiY6t7Go-aOpg",
+      "date": "2026-07-15",
+      "column": "通知公告"
+    },
     {
       "title": "【线上课程】2026年暑期PBL交叉学科线上课程",
       "url": "https://mp.weixin.qq.com/s/ARMYBqKvtIqFM1vCFPq-dg",
@@ -205,12 +211,6 @@
     {
       "title": "关于上海大学MBA中心2026届毕业典礼报名的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26701.htm",
-      "date": "2026-06-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "招生动态|上大MBA项目招生宣讲会（6月2日-7日）",
-      "url": "https://mp.weixin.qq.com/s/32EhL3fTDAHT0vHLyN-sTg",
       "date": "2026-06-01",
       "column": "通知公告"
     },

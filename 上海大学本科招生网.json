@@ -2,12 +2,18 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20260715_050311",
-  "total_articles": 35,
+  "crawl_time": "20260715_084812",
+  "total_articles": 36,
   "columns": {
-    "最新公告": 35
+    "最新公告": 36
   },
   "articles": [
+    {
+      "title": "上海大学2026年艺术类本科专业录取分数线(校考)",
+      "url": "https://mp.weixin.qq.com/s/wDJNQpLBZ4YqNP2Ds7WleA",
+      "date": "2026-07-14",
+      "column": "最新公告"
+    },
     {
       "title": "上海大学2026年各省市最低录取分数线[7.15更新]",
       "url": "https://bkzsw.shu.edu.cn/info/1798/38940.htm",

@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260715_050311",
-  "total_articles": 18409,
+  "crawl_time": "20260715_084812",
+  "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 450,
+    "通知公告": 451,
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "关于征集第二十六届中国国际工业博览会参展项目的通知",
+      "url": "https://www.shu.edu.cn/info/1051/399055.htm",
+      "date": "2026-07-15",
+      "column": "通知公告"
+    },
     {
       "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
       "url": "https://www.shu.edu.cn/info/1056/399065.htm",
