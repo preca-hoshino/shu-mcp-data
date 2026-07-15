@@ -2,17 +2,35 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260714_123106",
-  "total_articles": 984,
+  "crawl_time": "20260715_013055",
+  "total_articles": 990,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 71,
     "研究生教学": 206,
     "科研动态": 117,
-    "通知公告": 112
+    "通知公告": 118
   },
   "articles": [
+    {
+      "title": "关于启动2026年度上海大学环化学院 科技成果转化“揭榜挂帅”项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/89334.htm",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026 年上海大学环化学院暑期夏令营日程安排",
+      "url": "https://ece.shu.edu.cn/info/1147/89344.htm",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年环化学院全国优秀大学生暑期夏令营入围名单",
+      "url": "https://ece.shu.edu.cn/info/1147/89354.htm",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
     {
       "title": "【就业创业】2026年“职闯未来”训练营第五期就业辅导课程成功举办！",
       "url": "https://mp.weixin.qq.com/s/KqJota1HhmYPBgTOkle3Vg",
@@ -5102,6 +5120,12 @@
       "column": "研究生教学"
     },
     {
+      "title": "第五届上海大学新生环保知识竞赛参与奖获奖名单及晋级复赛名单",
+      "url": "https://ece.shu.edu.cn/info/1147/2625.htm",
+      "date": "2017-05-03",
+      "column": "通知公告"
+    },
+    {
       "title": "2017年校长奖学金环化学院推荐名单公示",
       "url": "https://ece.shu.edu.cn/info/1303/5617.htm",
       "date": "2017-05-03",
@@ -5166,6 +5190,18 @@
       "url": "https://ece.shu.edu.cn/info/1304/5735.htm",
       "date": "2017-03-14",
       "column": "研究生教学"
+    },
+    {
+      "title": "关于征集第二届“汇创青春”环境设计类参赛作品的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/2620.htm",
+      "date": "2017-03-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "环化学院使用学院业务费财务报销流程",
+      "url": "https://ece.shu.edu.cn/info/1147/2621.htm",
+      "date": "2017-03-10",
+      "column": "通知公告"
     },
     {
       "title": "环化学院研究生答辩费报销具体操作说明（更新）",
