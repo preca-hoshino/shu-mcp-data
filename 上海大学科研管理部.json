@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260716_013059",
+  "crawl_time": "20260716_050500",
   "total_articles": 571,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于组织申报2027年度上海教育技术装备 科学研究项目的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11932.htm",
+      "date": "2026-07-16",
+      "column": "通知公告"
+    },
     {
       "title": "关于组织申报国家网络空间安全国家科技重大专项第三批项目的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11882.htm",
@@ -207,12 +213,6 @@
       "title": "浦江创新论坛“寻找青年的声音”第六季创意征集正式启动",
       "url": "https://mp.weixin.qq.com/s/bNu_ttDBFGw07excR8l6CA",
       "date": "2026-06-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海市经济和信息化委员会关于开展2026年度上海市中试平台培育储备征集申报工作的通知",
-      "url": "https://mp.weixin.qq.com/s/5PMeYe2IiM1QlsldXaiz5A",
-      "date": "2026-06-18",
       "column": "通知公告"
     },
     {

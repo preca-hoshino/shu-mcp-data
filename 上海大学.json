@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260716_013059",
+  "crawl_time": "20260716_050500",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -20,6 +20,18 @@
     {
       "title": "“金专计划”第四期结业仪式暨知识产权实务人才培养分享交流活动顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/399095.htm",
+      "date": "2026-07-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "图博档党委与法学院党委开展联组学习暨业务交流会",
+      "url": "https://www.shu.edu.cn/info/1056/399225.htm",
+      "date": "2026-07-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "马克思主义学院青年教师在2026年全国青年理论宣讲大赛中荣获三等奖",
+      "url": "https://www.shu.edu.cn/info/1056/399275.htm",
       "date": "2026-07-16",
       "column": "综合新闻"
     },
@@ -46,18 +58,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399045.htm",
       "date": "2026-07-14",
       "column": "科研动态"
-    },
-    {
-      "title": "民革上海大学委员会召开主委（扩大）工作例会",
-      "url": "https://www.shu.edu.cn/info/1056/398975.htm",
-      "date": "2026-07-13",
-      "column": "综合新闻"
-    },
-    {
-      "title": "EER主编张久俊院士应邀在第15届英文科技期刊学术会议作大会报告",
-      "url": "https://www.shu.edu.cn/info/1056/398985.htm",
-      "date": "2026-07-13",
-      "column": "综合新闻"
     },
     {
       "title": "新闻传播学院2026年毕业典礼暨学位授予仪式顺利举行",

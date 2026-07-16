@@ -2,15 +2,27 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260716_013059",
-  "total_articles": 409,
+  "crawl_time": "20260716_050500",
+  "total_articles": 413,
   "columns": {
-    "学术活动": 21,
+    "学术活动": 25,
     "新闻动态": 58,
     "重要通知": 311,
     "风采展示": 19
   },
   "articles": [
+    {
+      "title": "学术报告567：ReFTA：打破张量化PEFT的权重重建瓶颈",
+      "url": "https://cs.shu.edu.cn/info/1501/51601.htm",
+      "date": "2026-07-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告568：面向真实世界的强化学习",
+      "url": "https://cs.shu.edu.cn/info/1501/51611.htm",
+      "date": "2026-07-01",
+      "column": "学术活动"
+    },
     {
       "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生俞浩奕",
       "url": "https://mp.weixin.qq.com/s/7NpMFRf-QTgFuNX9TvmGkg",
@@ -2402,6 +2414,18 @@
     {
       "title": "学术报告 - Structured Concurrency: An Approach to Programming",
       "url": "https://cs.shu.edu.cn/info/1501/42061.htm",
+      "date": "2010-06-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告 - 完整的多尺度材料设计软件平台",
+      "url": "https://cs.shu.edu.cn/info/1501/42081.htm",
+      "date": "2010-06-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告 -  A new type of P2P networks --semantic P2P network--VIRGO",
+      "url": "https://cs.shu.edu.cn/info/1501/42091.htm",
       "date": "2010-06-01",
       "column": "学术活动"
     },
