@@ -2,10 +2,10 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260716_050500",
-  "total_articles": 614,
+  "crawl_time": "20260716_084812",
+  "total_articles": 615,
   "columns": {
-    "焦点新闻": 368,
+    "焦点新闻": 369,
     "论坛活动": 183,
     "通知公告": 63
   },
@@ -15,6 +15,12 @@
       "url": "https://mba.shu.edu.cn/info/1024/27101.htm",
       "date": "2026-07-16",
       "column": "通知公告"
+    },
+    {
+      "title": "2026级上大MBA国际新生画像出炉：多元汇聚，共赴新程",
+      "url": "https://mp.weixin.qq.com/s/pBonQfJORc8NXPdM1IPnwQ?scene=1&click_id=1365382592",
+      "date": "2026-07-16",
+      "column": "焦点新闻"
     },
     {
       "title": "2026上大MBA录取通知书创意征集，文创好礼等你来！",

@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260716_050500",
-  "total_articles": 1979,
+  "crawl_time": "20260716_084812",
+  "total_articles": 1980,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
-    "学院周志": 307,
+    "学院周志": 308,
     "科研动态": 480,
     "综合新闻": 523,
     "通知公告": 420
   },
   "articles": [
+    {
+      "title": "文学院周志总第704期（2026年第20期，7月6日-7月12日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi704.pdf",
+      "date": "2026-07-16",
+      "column": "学院周志"
+    },
     {
       "title": "清华大学写作与沟通中心严程副教授受邀讲座",
       "url": "https://cla.shu.edu.cn/info/1019/53698.htm",

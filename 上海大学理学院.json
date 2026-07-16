@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260716_050500",
-  "total_articles": 3910,
+  "crawl_time": "20260716_084812",
+  "total_articles": 3912,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2640,
+    "学术报告": 2642,
     "本科生教务": 39,
     "本科生新闻": 46,
     "研究生教务": 15,
@@ -16,6 +16,18 @@
     "通知公告": 158
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar 第115讲暨物理学科Seminar第826讲 耗散自旋链中的强量子姆潘巴效应",
+      "url": "https://scicol.shu.edu.cn/info/1003/33505.htm",
+      "date": "2026-07-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院seminar 第114讲暨物理学科Seminar第825讲 量子开放系统中的非平衡动力学",
+      "url": "https://scicol.shu.edu.cn/info/1003/33515.htm",
+      "date": "2026-07-16",
+      "column": "学术报告"
+    },
     {
       "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
       "url": "https://scicol.shu.edu.cn/info/1007/33475.htm",

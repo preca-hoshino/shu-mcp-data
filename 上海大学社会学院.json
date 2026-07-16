@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260716_050500",
-  "total_articles": 2552,
+  "crawl_time": "20260716_084812",
+  "total_articles": 2554,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
-    "学术动态": 555,
-    "学术报告": 148,
+    "学术动态": 556,
+    "学术报告": 149,
     "学生动态": 581,
     "教学教务": 137,
     "校友活动": 31,
@@ -16,6 +16,18 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "讲座|金融化时代中美城市家庭的财富分层",
+      "url": "https://sociology.shu.edu.cn/info/1105/42788.htm",
+      "date": "2026-07-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "会议综述|人口学研究所顺利主办2026年中国人口学会年会国际人口迁移分论坛",
+      "url": "https://sociology.shu.edu.cn/info/1104/42698.htm",
+      "date": "2026-07-15",
+      "column": "学术动态"
+    },
     {
       "title": "讲座|不平等的结构：职业与个体层面的工作时间与性别工资差距",
       "url": "https://sociology.shu.edu.cn/info/1105/42618.htm",

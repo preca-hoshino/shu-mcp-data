@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260716_050500",
+  "crawl_time": "20260716_084812",
   "total_articles": 151,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,36 @@
     "校园动态": 45
   },
   "articles": [
+    {
+      "title": "民革上海大学委员会召开主委（扩大）工作例会",
+      "url": "https://www.shu.edu.cn/info/1056/398975.htm",
+      "date": "2026-07-16",
+      "column": "文明实践"
+    },
+    {
+      "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",
+      "url": "https://www.shu.edu.cn/info/1056/399015.htm",
+      "date": "2026-07-16",
+      "column": "文明实践"
+    },
+    {
+      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟202...",
+      "url": "https://www.shu.edu.cn/info/1056/399065.htm",
+      "date": "2026-07-16",
+      "column": "文明实践"
+    },
+    {
+      "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
+      "url": "https://www.shu.edu.cn/info/1056/399075.htm",
+      "date": "2026-07-16",
+      "column": "文明实践"
+    },
+    {
+      "title": "马克思主义学院青年教师在2026年全国青年理论宣讲大赛中荣获...",
+      "url": "https://www.shu.edu.cn/info/1056/399275.htm",
+      "date": "2026-07-16",
+      "column": "文明实践"
+    },
     {
       "title": "喜报！国家科技进步奖二等奖！",
       "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
@@ -101,24 +131,6 @@
       "column": "校园动态"
     },
     {
-      "title": "上海大学2026年第1次巡察整改和成果运用联席会议召开",
-      "url": "https://www.shu.edu.cn/info/1056/397425.htm",
-      "date": "2026-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "情系上大逐光而行，矢志报国再启新程——校领导与2026届优秀...",
-      "url": "https://www.shu.edu.cn/info/1056/397575.htm",
-      "date": "2026-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "集众智可定良策，合群力必兴伟业——上海大学六届三次“双代...",
-      "url": "https://www.shu.edu.cn/info/1056/397585.htm",
-      "date": "2026-06-29",
-      "column": "文明实践"
-    },
-    {
       "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和...",
       "url": "https://www.shu.edu.cn/info/1056/397615.htm",
       "date": "2026-06-29",
@@ -140,18 +152,6 @@
       "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
       "url": "https://www.shu.edu.cn/info/1056/397785.htm",
       "date": "2026-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "民革上海大学委员会顺利完成换届",
-      "url": "https://www.shu.edu.cn/info/1056/397385.htm",
-      "date": "2026-06-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "民进上海大学委员会以“社会服务”为笔，绘就和美乡村新画卷",
-      "url": "https://www.shu.edu.cn/info/1056/397395.htm",
-      "date": "2026-06-22",
       "column": "文明实践"
     },
     {
