@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260715_123245",
+  "crawl_time": "20260716_013059",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
+      "url": "https://www.shu.edu.cn/info/1056/399085.htm",
+      "date": "2026-07-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“金专计划”第四期结业仪式暨知识产权实务人才培养分享交流活动顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/399095.htm",
+      "date": "2026-07-16",
+      "column": "综合新闻"
+    },
     {
       "title": "关于征集第二十六届中国国际工业博览会参展项目的通知",
       "url": "https://www.shu.edu.cn/info/1051/399055.htm",
@@ -82,18 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398805.htm",
       "date": "2026-07-09",
       "column": "科研动态"
-    },
-    {
-      "title": "深化馆际合作交流  共探档案创新路径——上海大学档案馆赴复旦大学档案馆开展专题调研交流",
-      "url": "https://www.shu.edu.cn/info/1056/398875.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
-    },
-    {
-      "title": "寻迹文脉守初心  深耕校史启新程——上海大学档案馆开展于右任档案专题调研",
-      "url": "https://www.shu.edu.cn/info/1056/398885.htm",
-      "date": "2026-07-09",
-      "column": "综合新闻"
     },
     {
       "title": "材料学院高彦峰教授/赵起副教授在《Nature Communications》上发表最新研究成果",
