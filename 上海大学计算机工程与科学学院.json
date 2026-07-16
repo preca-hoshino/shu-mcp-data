@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260716_084812",
-  "total_articles": 413,
+  "crawl_time": "20260716_123648",
+  "total_articles": 414,
   "columns": {
     "学术活动": 25,
-    "新闻动态": 58,
+    "新闻动态": 59,
     "重要通知": 311,
     "风采展示": 19
   },
@@ -28,6 +28,12 @@
       "url": "https://mp.weixin.qq.com/s/7NpMFRf-QTgFuNX9TvmGkg",
       "date": "2026-07-01",
       "column": "风采展示"
+    },
+    {
+      "title": "喜报 | 计算机工程与科学学院博士研究生第一党支部入选第四批全国高校“百个研究生样板党支部”培育创建单位",
+      "url": "https://mp.weixin.qq.com/s/Ahcz8_-wyk7F5LmYdPP_qw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
     },
     {
       "title": "实干砺初心 青春担使命——计算机学院本科生第二党支部开展“七一”主题党日活动",
