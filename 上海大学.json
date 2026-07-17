@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260717_050543",
+  "crawl_time": "20260717_084509",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学与上海国投公司签署战略合作协议",
+      "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
+      "date": "2026-07-17",
+      "column": "重要新闻"
+    },
     {
       "title": "上海大学召开自主增设“城市基层党建”二级学科专家论证会",
       "url": "https://www.shu.edu.cn/info/1056/399285.htm",
@@ -208,12 +214,6 @@
       "url": "https://www.shu.edu.cn/info/4203/396955.htm",
       "date": "2026-06-12",
       "column": "通知公告"
-    },
-    {
-      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
-      "url": "https://www.shu.edu.cn/info/1053/396585.htm",
-      "date": "2026-06-08",
-      "column": "重要新闻"
     },
     {
       "title": "关于宝山校区校内通行温馨提醒",

@@ -2,8 +2,8 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260717_050543",
-  "total_articles": 219,
+  "crawl_time": "20260717_084509",
+  "total_articles": 220,
   "columns": {
     "党务公开": 12,
     "媒体聚焦": 14,
@@ -11,9 +11,15 @@
     "学院公告": 60,
     "本科生教育": 24,
     "研究生教育": 27,
-    "综合新闻": 37
+    "综合新闻": 38
   },
   "articles": [
+    {
+      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海  国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
+      "url": "https://sjc.shu.edu.cn/info/1009/6579.htm",
+      "date": "2026-07-17",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学新闻传播学院2026年毕业典礼暨学位授予仪式圆满举行",
       "url": "https://sjc.shu.edu.cn/info/1009/6559.htm",

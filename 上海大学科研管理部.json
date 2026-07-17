@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260717_050543",
+  "crawl_time": "20260717_084509",
   "total_articles": 571,
   "columns": {
     "办事流程": 8,
@@ -24,10 +24,28 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学与上海国投公司签署战略合作协议",
+      "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
+      "date": "2026-07-17",
+      "column": "科技动态"
+    },
+    {
+      "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
+      "url": "https://mp.weixin.qq.com/s/QSILklAuFn9I19EVr4rG4A",
+      "date": "2026-07-17",
+      "column": "科技动态"
+    },
+    {
       "title": "上海，引领未来",
       "url": "https://mp.weixin.qq.com/s/XZA5vrOX9fOSwc0gBPeBnw?click_id=112679869",
       "date": "2026-07-17",
       "column": "科技动态"
+    },
+    {
+      "title": "2026年“启源国资先锋项目”遴选公告",
+      "url": "https://mp.weixin.qq.com/s/tBUsmmD1VsAate0ReWugyg?scene=1&click_id=1167687609",
+      "date": "2026-07-17",
+      "column": "通知公告"
     },
     {
       "title": "关于组织申报2027年度上海教育技术装备科学研究项目的通知",
@@ -192,12 +210,6 @@
       "column": "科技动态"
     },
     {
-      "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第一批）项目指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11582.htm",
-      "date": "2026-06-26",
-      "column": "通知公告"
-    },
-    {
       "title": "关于开展第十三届中国技术市场协会金桥奖申报组织推荐工作的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11602.htm",
       "date": "2026-06-26",
@@ -252,22 +264,10 @@
       "column": "科技动态"
     },
     {
-      "title": "链接全球创新资源，深耕成果落地转化、完善知识产权服务链条……第十二届上交会助力上海加快建成具有全...",
-      "url": "https://mp.weixin.qq.com/s/9oveOPM2kqDm6G9QcPKHkw?click_id=2",
-      "date": "2026-06-04",
-      "column": "科技动态"
-    },
-    {
       "title": "关于发布2026年度普陀区加快发展集成电路产业专项申报指南的通知",
       "url": "https://mp.weixin.qq.com/s/VyxjnzEG1zE14WxsxVP0nw",
       "date": "2026-06-02",
       "column": "技术需求"
-    },
-    {
-      "title": "市科技工作党委深学真查实改 加快建设具有世界影响力的科技创新高地",
-      "url": "https://mp.weixin.qq.com/s/_rwx_9_KhsGNYBZor-tpPQ?click_id=1",
-      "date": "2026-06-02",
-      "column": "科技动态"
     },
     {
       "title": "关于召开上海市科技计划项目科学数据汇交系统操作远程培训会议的通知",

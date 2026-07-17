@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260717_050543",
-  "total_articles": 1814,
+  "crawl_time": "20260717_084509",
+  "total_articles": 1815,
   "columns": {
     "政策文件": 57,
     "新闻动态": 35,
-    "通知公告": 1722
+    "通知公告": 1723
   },
   "articles": [
+    {
+      "title": "2025-2026学年春季学期补考、缓考安排",
+      "url": "https://bksy.shu.edu.cn/info/1015/321224.htm",
+      "date": "2026-07-17",
+      "column": "通知公告"
+    },
     {
       "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
       "url": "https://bksy.shu.edu.cn/info/1016/321194.htm",

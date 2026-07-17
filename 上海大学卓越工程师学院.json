@@ -2,15 +2,21 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20260717_050543",
-  "total_articles": 63,
+  "crawl_time": "20260717_084509",
+  "total_articles": 64,
   "columns": {
     "新闻动态": 24,
     "科研动态": 6,
     "通知公告": 23,
-    "集中课程": 10
+    "集中课程": 11
   },
   "articles": [
+    {
+      "title": "讲座：高校科研赋能区域产业创新",
+      "url": "https://zhgy.shu.edu.cn/info/1031/2891.htm",
+      "date": "2026-07-17",
+      "column": "集中课程"
+    },
     {
       "title": "临港新片区管委会-上海大学校企协同育人对接会举行",
       "url": "https://zhgy.shu.edu.cn/info/1151/2861.htm",

@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260717_050543",
-  "total_articles": 115,
+  "crawl_time": "20260717_084509",
+  "total_articles": 116,
   "columns": {
     "公告信息": 36,
-    "图书馆新闻": 46,
+    "图书馆新闻": 47,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "深化馆院协同 赋能学科发展——图书馆赴文化遗产与信息管理学院开展业务交流",
+      "url": "https://lib.shu.edu.cn/info/1024/7054.htm",
+      "date": "2026-07-17",
+      "column": "图书馆新闻"
+    },
     {
       "title": "图博档党委与法学院党委开展联组学习暨业务交流会",
       "url": "https://lib.shu.edu.cn/info/1024/7044.htm",

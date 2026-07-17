@@ -2,20 +2,38 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260717_050543",
-  "total_articles": 2554,
+  "crawl_time": "20260717_084509",
+  "total_articles": 2557,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
-    "学术动态": 556,
-    "学术报告": 149,
+    "学术动态": 557,
+    "学术报告": 150,
     "学生动态": 581,
     "教学教务": 137,
     "校友活动": 31,
-    "综合新闻": 880,
+    "综合新闻": 881,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "喜报 | 社会学院秋白党支部入选第五批“全国党建工作样板支部”培育创建单位",
+      "url": "https://sociology.shu.edu.cn/info/1102/42818.htm",
+      "date": "2026-07-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "会议综述|中国社会学会2026年学术年会“第六届县域社会学”论坛圆满召开",
+      "url": "https://sociology.shu.edu.cn/info/1104/42808.htm",
+      "date": "2026-07-17",
+      "column": "学术动态"
+    },
+    {
+      "title": "讲座|社会结构感知与主观阶层认同：来自美国和中国的实验证据",
+      "url": "https://sociology.shu.edu.cn/info/1105/42828.htm",
+      "date": "2026-07-17",
+      "column": "学术报告"
+    },
     {
       "title": "讲座|金融化时代中美城市家庭的财富分层",
       "url": "https://sociology.shu.edu.cn/info/1105/42788.htm",
