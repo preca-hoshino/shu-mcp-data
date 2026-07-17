@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260716_123648",
+  "crawl_time": "20260717_013115",
   "total_articles": 571,
   "columns": {
     "办事流程": 8,
@@ -12,7 +12,19 @@
   },
   "articles": [
     {
-      "title": "关于组织申报2027年度上海教育技术装备 科学研究项目的通知",
+      "title": "关于发布煤炭重大专项2027年度公开项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11942.htm",
+      "date": "2026-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织开展新一批科技部国家科技合作基地认定申报推荐工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/11952.htm",
+      "date": "2026-07-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织申报2027年度上海教育技术装备科学研究项目的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11932.htm",
       "date": "2026-07-16",
       "column": "通知公告"
@@ -192,12 +204,6 @@
       "column": "技术需求"
     },
     {
-      "title": "工业和信息化部中小企业发展促进中心关于举办2026生物制造大赛的通知",
-      "url": "https://mp.weixin.qq.com/s/FlYA7kYsHuPaUAv9LQWOBA",
-      "date": "2026-06-25",
-      "column": "通知公告"
-    },
-    {
       "title": "科技部党组书记、部长阴和俊：以更大力度更实举措加强基础研究 打牢科技强国建设根基",
       "url": "https://mp.weixin.qq.com/s/EhFdbEHfbeaRUHQDgwb5kA",
       "date": "2026-06-24",
@@ -208,12 +214,6 @@
       "url": "https://mp.weixin.qq.com/s/Rxbpp-RPpuRlh_fd9ogh9A",
       "date": "2026-06-24",
       "column": "科技动态"
-    },
-    {
-      "title": "浦江创新论坛“寻找青年的声音”第六季创意征集正式启动",
-      "url": "https://mp.weixin.qq.com/s/bNu_ttDBFGw07excR8l6CA",
-      "date": "2026-06-23",
-      "column": "通知公告"
     },
     {
       "title": "启源公益基金会2026年资助项目上海大学宣讲会举行",

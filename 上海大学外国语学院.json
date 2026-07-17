@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260716_123648",
-  "total_articles": 574,
+  "crawl_time": "20260717_013115",
+  "total_articles": 575,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 32,
-    "学院新闻": 50,
+    "学院新闻": 51,
     "通知公告": 92
   },
   "articles": [
+    {
+      "title": "【学术讲座】外国语言文学视域下的区域国别研究——中国社会科学院日本研究所张季风教授应邀来上海大学作学术讲座",
+      "url": "https://sfs.shu.edu.cn/info/1142/31037.htm",
+      "date": "2026-07-16",
+      "column": "学院新闻"
+    },
     {
       "title": "2025-2026学年外国语学院本科生全程导师考核通知",
       "url": "https://sfs.shu.edu.cn/info/1141/31027.htm",

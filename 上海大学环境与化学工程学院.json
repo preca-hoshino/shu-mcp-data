@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260716_123648",
+  "crawl_time": "20260717_013115",
   "total_articles": 990,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,18 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "【党建| “绿漾”宣讲团】绿漾赴约，共筑绿色未来",
+      "url": "https://mp.weixin.qq.com/s/Gl2t92pravnaa_MYeEP5Rg",
+      "date": "2026-07-17",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【喜报】我院健康纳米教工党支部入选教育部第五批“全国党建工作样板支部”",
+      "url": "https://mp.weixin.qq.com/s/I2_7oj8NDgzu71C1peyxcw",
+      "date": "2026-07-17",
+      "column": "学院新闻"
+    },
     {
       "title": "关于启动2026年度上海大学环化学院 科技成果转化“揭榜挂帅”项目申报工作的通知",
       "url": "https://ece.shu.edu.cn/info/1147/89334.htm",
@@ -185,18 +197,6 @@
       "title": "【班级建设】同心同行，化梦成工｜24级化工一班荣获“卓越班级”“卓越班长”双料荣誉！",
       "url": "https://mp.weixin.qq.com/s/MMeatfXjpTxJozBBlnHmbw",
       "date": "2026-06-22",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【喜报】上海大学“绿漾”生态文明宣讲团成功入选第九届西门子爱绿教育计划！",
-      "url": "https://mp.weixin.qq.com/s/aKgB2LD_notZIMz-hG52MA",
-      "date": "2026-06-21",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【喜报】我院零维碳材料化学创新导学团队荣获上海大学研究生“卓越导学团队”表彰",
-      "url": "https://mp.weixin.qq.com/s/84vVgEzPV8t5GRXuVw4z3Q",
-      "date": "2026-06-19",
       "column": "学院新闻"
     },
     {
