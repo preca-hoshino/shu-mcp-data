@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260717_013115",
+  "crawl_time": "20260717_050543",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学召开自主增设“城市基层党建”二级学科专家论证会",
+      "url": "https://www.shu.edu.cn/info/1056/399285.htm",
+      "date": "2026-07-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "党建联学促发展 产教融合育英才——宝山区商务委员会与悉尼工商学院开展党建联组学习",
+      "url": "https://www.shu.edu.cn/info/1056/399295.htm",
+      "date": "2026-07-17",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
       "url": "https://www.shu.edu.cn/info/1056/399085.htm",
@@ -58,18 +70,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399045.htm",
       "date": "2026-07-14",
       "column": "科研动态"
-    },
-    {
-      "title": "新闻传播学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/398995.htm",
-      "date": "2026-07-13",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第九届国际新闻传播教育联盟理事会暨智能传播上海暑期班开班仪式在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/399005.htm",
-      "date": "2026-07-13",
-      "column": "综合新闻"
     },
     {
       "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",

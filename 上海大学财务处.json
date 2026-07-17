@@ -2,13 +2,19 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260717_013115",
-  "total_articles": 56,
+  "crawl_time": "20260717_050543",
+  "total_articles": 58,
   "columns": {
     "信息动态": 25,
-    "通知公告": 31
+    "通知公告": 33
   },
   "articles": [
+    {
+      "title": "上海大学2026级研究生新生缴费办法",
+      "url": "https://cwc.shu.edu.cn/info/1041/7304.htm",
+      "date": "2026-07-17",
+      "column": "通知公告"
+    },
     {
       "title": "智能报销系统操作演示PPT（202606）",
       "url": "https://cwc.shu.edu.cn/info/1014/7234.htm",
@@ -289,6 +295,12 @@
       "title": "上海大学银行账号信息及增值税开票信息",
       "url": "https://cwc.shu.edu.cn/info/1042/4299.htm",
       "date": "2018-04-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于执行财政部《政府采购进口产品管理办法》的通知",
+      "url": "https://cwc.shu.edu.cn/info/1041/3999.htm",
+      "date": "2008-11-25",
       "column": "通知公告"
     },
     {
