@@ -2,11 +2,11 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260717_084509",
-  "total_articles": 1815,
+  "crawl_time": "20260717_122955",
+  "total_articles": 1816,
   "columns": {
     "政策文件": 57,
-    "新闻动态": 35,
+    "新闻动态": 36,
     "通知公告": 1723
   },
   "articles": [
@@ -15,6 +15,12 @@
       "url": "https://bksy.shu.edu.cn/info/1015/321224.htm",
       "date": "2026-07-17",
       "column": "通知公告"
+    },
+    {
+      "title": "数智赋能育英才 开放融通启新程 —— 上海大学2026年国际化小学期暨第十一届国际教育论坛圆满落幕",
+      "url": "https://bksy.shu.edu.cn/info/1016/321214.htm",
+      "date": "2026-07-17",
+      "column": "新闻动态"
     },
     {
       "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
