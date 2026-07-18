@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260717_122955",
-  "total_articles": 2557,
+  "crawl_time": "20260718_013043",
+  "total_articles": 2558,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
     "学术动态": 557,
-    "学术报告": 150,
+    "学术报告": 151,
     "学生动态": 581,
     "教学教务": 137,
     "校友活动": 31,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "讲座|言出法随：社会科学研究中的AI智能体",
+      "url": "https://sociology.shu.edu.cn/info/1105/42838.htm",
+      "date": "2026-07-18",
+      "column": "学术报告"
+    },
     {
       "title": "喜报 | 社会学院秋白党支部入选第五批“全国党建工作样板支部”培育创建单位",
       "url": "https://sociology.shu.edu.cn/info/1102/42818.htm",
