@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260720_090452",
-  "total_articles": 2559,
+  "crawl_time": "20260720_124648",
+  "total_articles": 2560,
   "columns": {
     "图片新闻": 119,
     "媒体报道": 53,
@@ -12,10 +12,16 @@
     "学生动态": 581,
     "教学教务": 137,
     "校友活动": 31,
-    "综合新闻": 881,
+    "综合新闻": 882,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "上海大学亮相2026世界人工智能大会 分享基层治理智能体“巷导”阶段性成果",
+      "url": "https://sociology.shu.edu.cn/info/1102/42968.htm",
+      "date": "2026-07-20",
+      "column": "综合新闻"
+    },
     {
       "title": "讲座|梅子黄时雨：时间作为理解AI的一种可能",
       "url": "https://sociology.shu.edu.cn/info/1105/42848.htm",

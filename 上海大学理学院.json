@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260720_090452",
-  "total_articles": 3916,
+  "crawl_time": "20260720_124648",
+  "total_articles": 3915,
   "columns": {
     "主办会议": 41,
     "学术报告": 2643,
@@ -13,7 +13,7 @@
     "研究生新闻": 49,
     "科研动态": 308,
     "综合新闻": 616,
-    "通知公告": 159
+    "通知公告": 158
   },
   "articles": [
     {
@@ -33,12 +33,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33575.htm",
       "date": "2026-07-20",
       "column": "综合新闻"
-    },
-    {
-      "title": "理学院化学实验教学中心公益仪器培训课程开课通知",
-      "url": "https://scicol.shu.edu.cn/info/1006/33525.htm",
-      "date": "2026-07-17",
-      "column": "通知公告"
     },
     {
       "title": "量子科技研究院seminar 第115讲暨物理学科Seminar第826讲 耗散自旋链中的强量子姆潘巴效应",
