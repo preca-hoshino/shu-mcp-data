@@ -2,20 +2,32 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260720_013332",
-  "total_articles": 3913,
+  "crawl_time": "20260720_051634",
+  "total_articles": 3915,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2642,
+    "学术报告": 2643,
     "本科生教务": 39,
     "本科生新闻": 46,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 614,
+    "综合新闻": 615,
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "量子科技研究院seminar第116讲暨物理学科Seminar第827讲 量子多体计算导论",
+      "url": "https://scicol.shu.edu.cn/info/1003/33555.htm",
+      "date": "2026-07-20",
+      "column": "学术报告"
+    },
+    {
+      "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/33565.htm",
+      "date": "2026-07-20",
+      "column": "综合新闻"
+    },
     {
       "title": "理学院化学实验教学中心公益仪器培训课程开课通知",
       "url": "https://scicol.shu.edu.cn/info/1006/33525.htm",

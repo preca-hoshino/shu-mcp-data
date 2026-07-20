@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260720_013332",
+  "crawl_time": "20260720_051634",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -18,8 +18,20 @@
       "column": "综合新闻"
     },
     {
-      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海  国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
+      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
       "url": "https://www.shu.edu.cn/info/1056/399325.htm",
+      "date": "2026-07-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "民进上海大学委员会召开全委（扩大）会议",
+      "url": "https://www.shu.edu.cn/info/1056/399335.htm",
+      "date": "2026-07-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2024年度教育部哲学社会科学重大委托项目专题研讨会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/399345.htm",
       "date": "2026-07-20",
       "column": "综合新闻"
     },
@@ -70,18 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1051/399055.htm",
       "date": "2026-07-15",
       "column": "通知公告"
-    },
-    {
-      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
-      "url": "https://www.shu.edu.cn/info/1056/399065.htm",
-      "date": "2026-07-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
-      "url": "https://www.shu.edu.cn/info/1056/399075.htm",
-      "date": "2026-07-15",
-      "column": "综合新闻"
     },
     {
       "title": "法学院获2026年度国家知识产权局软科学研究项目立项",
