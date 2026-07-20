@@ -2,13 +2,13 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260719_122140",
-  "total_articles": 414,
+  "crawl_time": "20260720_013332",
+  "total_articles": 415,
   "columns": {
     "学术活动": 25,
     "新闻动态": 59,
     "重要通知": 311,
-    "风采展示": 19
+    "风采展示": 20
   },
   "articles": [
     {
@@ -40,6 +40,12 @@
       "url": "https://mp.weixin.qq.com/s/KtX4C3lbhcAUaNzI8V1cSw",
       "date": "2026-07-01",
       "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院校友、交通银行副行长钱斌：数智为帆、协同为桨 谱写金融高质量发展新篇章",
+      "url": "https://mp.weixin.qq.com/s/OKhVvL4eZKv1V5uLOHUsDQ",
+      "date": "2026-07-01",
+      "column": "风采展示"
     },
     {
       "title": "计算机学院召开党委理论学习中心组（扩大）学习会",

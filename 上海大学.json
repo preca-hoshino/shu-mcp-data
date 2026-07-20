@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260719_122140",
+  "crawl_time": "20260720_013332",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学北京招宣组顺利开展2026年高考招生咨询工作",
+      "url": "https://www.shu.edu.cn/info/1056/399315.htm",
+      "date": "2026-07-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海  国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
+      "url": "https://www.shu.edu.cn/info/1056/399325.htm",
+      "date": "2026-07-20",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学与上海国投公司签署战略合作协议",
       "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
@@ -76,18 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399045.htm",
       "date": "2026-07-14",
       "column": "科研动态"
-    },
-    {
-      "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",
-      "url": "https://www.shu.edu.cn/info/1056/399015.htm",
-      "date": "2026-07-13",
-      "column": "综合新闻"
-    },
-    {
-      "title": "大连交通大学经济管理学院一行赴上海大学经济学院调研“习近平经济思想概论”课程建设",
-      "url": "https://www.shu.edu.cn/info/1056/399025.htm",
-      "date": "2026-07-13",
-      "column": "综合新闻"
     },
     {
       "title": "喜报！国家科技进步奖二等奖！",
