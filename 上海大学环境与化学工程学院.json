@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260720_051634",
-  "total_articles": 990,
+  "crawl_time": "20260720_090452",
+  "total_articles": 992,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 71,
     "研究生教学": 206,
     "科研动态": 117,
-    "通知公告": 118
+    "通知公告": 120
   },
   "articles": [
+    {
+      "title": "环化学院党群接待日公告20260721",
+      "url": "https://ece.shu.edu.cn/info/1147/89394.htm",
+      "date": "2026-07-20",
+      "column": "通知公告"
+    },
     {
       "title": "【党建| “绿漾”宣讲团】绿漾赴约，共筑绿色未来",
       "url": "https://mp.weixin.qq.com/s/Gl2t92pravnaa_MYeEP5Rg",
@@ -5088,6 +5094,12 @@
       "url": "https://ece.shu.edu.cn/info/1149/3029.htm",
       "date": "2017-05-27",
       "column": "学院新闻"
+    },
+    {
+      "title": "第五届上海大学新生环保知识竞赛复赛获奖名单",
+      "url": "https://ece.shu.edu.cn/info/1147/2627.htm",
+      "date": "2017-05-23",
+      "column": "通知公告"
     },
     {
       "title": "无偿献血光荣榜",

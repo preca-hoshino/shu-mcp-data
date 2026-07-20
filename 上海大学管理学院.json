@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260720_051634",
-  "total_articles": 782,
+  "crawl_time": "20260720_090452",
+  "total_articles": 783,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 76,
+    "学院新闻": 77,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "我院学生在“2026（第十一届）高等院校项目管理大赛暨国际项目管理锦标...",
+      "url": "https://ms.shu.edu.cn/info/1244/92285.htm",
+      "date": "2026-07-20",
+      "column": "学院新闻"
+    },
     {
       "title": "刘人怀院士与上海大学管理学院“人怀学者”座谈交流",
       "url": "https://ms.shu.edu.cn/info/1244/92265.htm",

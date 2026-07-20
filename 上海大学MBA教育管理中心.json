@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260720_051634",
-  "total_articles": 616,
+  "crawl_time": "20260720_090452",
+  "total_articles": 617,
   "columns": {
     "焦点新闻": 369,
-    "论坛活动": 184,
+    "论坛活动": 185,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "上海大学MBA中心张峻铭同学荣获上海大学毕业生就业“攀登奖”",
+      "url": "https://mp.weixin.qq.com/s/F6Loa4PMi83VVXdkYhL4nQ",
+      "date": "2026-07-20",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学MBA25GI数智金融方向《数字金融》课堂教学与实践",
       "url": "https://mp.weixin.qq.com/s/p4X8BZxj4Svc9tJpU_cAEw",
