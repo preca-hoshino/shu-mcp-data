@@ -2,14 +2,14 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260720_124648",
-  "total_articles": 2560,
+  "crawl_time": "20260721_013127",
+  "total_articles": 2563,
   "columns": {
-    "图片新闻": 119,
+    "图片新闻": 121,
     "媒体报道": 53,
     "学术动态": 557,
     "学术报告": 152,
-    "学生动态": 581,
+    "学生动态": 582,
     "教学教务": 137,
     "校友活动": 31,
     "综合新闻": 882,
@@ -27,6 +27,12 @@
       "url": "https://sociology.shu.edu.cn/info/1105/42848.htm",
       "date": "2026-07-20",
       "column": "学术报告"
+    },
+    {
+      "title": "上海大学亮相2026世界人工智能大会 分享基层治理智能体“巷导”阶段性成果",
+      "url": "https://sociology.shu.edu.cn/info/1111/42978.htm",
+      "date": "2026-07-20",
+      "column": "图片新闻"
     },
     {
       "title": "讲座|言出法随：社会科学研究中的AI智能体",
@@ -183,6 +189,12 @@
       "url": "https://sociology.shu.edu.cn/info/1105/42298.htm",
       "date": "2026-06-23",
       "column": "学术报告"
+    },
+    {
+      "title": "本科生代表参加2026年“强东杯”全国社会学知识竞赛与学术论坛",
+      "url": "https://sociology.shu.edu.cn/info/1107/42998.htm",
+      "date": "2026-06-23",
+      "column": "学生动态"
     },
     {
       "title": "社会学院开展“树立和践行正确政绩观学习教育”专题党课暨2026届毕业生党员教育活动",
@@ -10521,6 +10533,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4922.htm",
       "date": "2015-12-22",
       "column": "综合新闻"
+    },
+    {
+      "title": "我院Guy Abel教授与社区学院新生面对面",
+      "url": "https://sociology.shu.edu.cn/info/1111/4054.htm",
+      "date": "2015-12-22",
+      "column": "图片新闻"
     },
     {
       "title": "创新中国：中国制造谁来造——“机器人”与“无人艇”走进“创新中国”第二课",

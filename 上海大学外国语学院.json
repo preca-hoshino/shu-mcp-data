@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260720_124648",
-  "total_articles": 576,
+  "crawl_time": "20260721_013127",
+  "total_articles": 577,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 32,
-    "学院新闻": 52,
+    "学院新闻": 53,
     "通知公告": 92
   },
   "articles": [
+    {
+      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互鉴研究2026年度专家论坛顺利举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/31067.htm",
+      "date": "2026-07-20",
+      "column": "学院新闻"
+    },
     {
       "title": "特大城市基层治理的上海经验与国际共鸣：上大中外师生走进石门二路街道蝴蝶湾探寻城市更新的中国经验",
       "url": "https://sfs.shu.edu.cn/info/1142/31057.htm",

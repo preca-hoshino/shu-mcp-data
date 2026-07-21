@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260720_124648",
+  "crawl_time": "20260721_013127",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "越南科学技术部部长武海军一行访问上海大学",
+      "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
+      "date": "2026-07-21",
+      "column": "重要新闻"
+    },
     {
       "title": "钱伟长学院师生参加2026年中国材料大会",
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
@@ -183,12 +189,6 @@
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
       "date": "2026-06-24",
-      "column": "重要新闻"
-    },
-    {
-      "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘“十五五”发展新蓝图！",
-      "url": "https://mp.weixin.qq.com/s/pX3jFE3CZtAS9Rg-QL4L7g",
-      "date": "2026-06-18",
       "column": "重要新闻"
     },
     {

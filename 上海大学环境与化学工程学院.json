@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260720_124648",
+  "crawl_time": "20260721_013127",
   "total_articles": 992,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "【党建|“绿漾”宣讲团】上海大学“绿漾”生态文明宣讲团亮相南京“灯塔工厂”， 50强团队暑期出征在即",
+      "url": "https://mp.weixin.qq.com/s/W9v9ai2Zl4jG6WDLQz8Eyw",
+      "date": "2026-07-21",
+      "column": "学院新闻"
+    },
     {
       "title": "环化学院党群接待日公告20260721",
       "url": "https://ece.shu.edu.cn/info/1147/89394.htm",
@@ -198,12 +204,6 @@
       "url": "https://ece.shu.edu.cn/info/1147/88644.htm",
       "date": "2026-06-23",
       "column": "通知公告"
-    },
-    {
-      "title": "【班级建设】同心同行，化梦成工｜24级化工一班荣获“卓越班级”“卓越班长”双料荣誉！",
-      "url": "https://mp.weixin.qq.com/s/MMeatfXjpTxJozBBlnHmbw",
-      "date": "2026-06-22",
-      "column": "学院新闻"
     },
     {
       "title": "我院博士研究生在世界土壤学大会作专题报告",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260720_124648",
+  "crawl_time": "20260721_013127",
   "total_articles": 571,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,24 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "国家自然科学基金委员会关于发布国家重点研发计划“发育编程及其代谢调节”“合成生物学”重点专项2026...",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12012.htm",
+      "date": "2026-07-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "“五核”上海：不简单复刻纽伦巴东，“飞轮效应”激发“能级领跑”",
+      "url": "https://mp.weixin.qq.com/s/ph5p4zvsu9QuyKwb24H0uA",
+      "date": "2026-07-21",
+      "column": "科技动态"
+    },
+    {
+      "title": "2026世界人工智能大会暨人工智能全球治理高级别会议闭幕",
+      "url": "https://mp.weixin.qq.com/s/Gk64Bd545-AQJsq8pJdl8Q",
+      "date": "2026-07-20",
+      "column": "科技动态"
+    },
     {
       "title": "关于发布煤炭重大专项2027年度公开项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/11942.htm",
@@ -210,12 +228,6 @@
       "column": "科技动态"
     },
     {
-      "title": "关于开展第十三届中国技术市场协会金桥奖申报组织推荐工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11602.htm",
-      "date": "2026-06-26",
-      "column": "通知公告"
-    },
-    {
       "title": "上海科技青海行需求征集汇总表",
       "url": "https://kyglb.shu.edu.cn/info/1082/11662.htm",
       "date": "2026-06-26",
@@ -246,22 +258,10 @@
       "column": "科技动态"
     },
     {
-      "title": "走进上大，探秘前沿！在这里，科学的种子正在发芽",
-      "url": "https://mp.weixin.qq.com/s/fMvKJfMyQP0Zco9G2Pg8sg",
-      "date": "2026-06-12",
-      "column": "科技动态"
-    },
-    {
       "title": "关于开展2026年静安区生命健康产业高质量发展项目（第一批）申报工作的通知",
       "url": "https://mp.weixin.qq.com/s/pjwuD9MmifpYXecjG6ly6g?click_id=221782836",
       "date": "2026-06-10",
       "column": "技术需求"
-    },
-    {
-      "title": "外协经费这样用，合规又省心",
-      "url": "https://mp.weixin.qq.com/s/2Ea7ZwCAT1LabdhzkEEOeg",
-      "date": "2026-06-05",
-      "column": "科技动态"
     },
     {
       "title": "关于发布2026年度普陀区加快发展集成电路产业专项申报指南的通知",
