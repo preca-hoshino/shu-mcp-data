@@ -2,17 +2,23 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260721_085530",
-  "total_articles": 784,
+  "crawl_time": "20260721_123600",
+  "total_articles": 785,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 78,
+    "学院新闻": 79,
     "重要通知": 503
   },
   "articles": [
     {
       "title": "“智能化就业指导：新模式探索与AI工具实践”专题培训成功举办",
       "url": "https://ms.shu.edu.cn/info/1244/92295.htm",
+      "date": "2026-07-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "管院校友羽毛球俱乐部成立暨第一届管院校友师生羽毛球友谊赛成功举办",
+      "url": "https://ms.shu.edu.cn/info/1244/92305.htm",
       "date": "2026-07-21",
       "column": "学院新闻"
     },
