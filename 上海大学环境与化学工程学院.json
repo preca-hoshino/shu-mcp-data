@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260721_013127",
-  "total_articles": 992,
+  "crawl_time": "20260721_050700",
+  "total_articles": 993,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 71,
-    "研究生教学": 206,
+    "研究生教学": 207,
     "科研动态": 117,
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "关于第112次校学位评定委员会会前准备工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1304/89414.htm",
+      "date": "2026-07-21",
+      "column": "研究生教学"
+    },
     {
       "title": "【党建|“绿漾”宣讲团】上海大学“绿漾”生态文明宣讲团亮相南京“灯塔工厂”， 50强团队暑期出征在即",
       "url": "https://mp.weixin.qq.com/s/W9v9ai2Zl4jG6WDLQz8Eyw",

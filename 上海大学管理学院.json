@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260721_013127",
-  "total_articles": 783,
+  "crawl_time": "20260721_050700",
+  "total_articles": 784,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 77,
+    "学院新闻": 78,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "“智能化就业指导：新模式探索与AI工具实践”专题培训成功举办",
+      "url": "https://ms.shu.edu.cn/info/1244/92295.htm",
+      "date": "2026-07-21",
+      "column": "学院新闻"
+    },
     {
       "title": "我院学生在“2026（第十一届）高等院校项目管理大赛暨国际项目管理锦标...",
       "url": "https://ms.shu.edu.cn/info/1244/92285.htm",
