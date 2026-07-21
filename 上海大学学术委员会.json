@@ -2,13 +2,13 @@
   "domain": "ac.shu.edu.cn",
   "department": "上海大学学术委员会",
   "type": "02",
-  "crawl_time": "20260721_050700",
-  "total_articles": 204,
+  "crawl_time": "20260721_085530",
+  "total_articles": 205,
   "columns": {
     "上大学术": 21,
     "学术资讯": 92,
     "学风建设": 63,
-    "服务指南": 5,
+    "服务指南": 6,
     "通知发文": 23
   },
   "articles": [
@@ -1157,6 +1157,12 @@
       "url": "https://mp.weixin.qq.com/s/Nys88eYgWOTaIoL5Vs2PBg",
       "date": "2020-06-22",
       "column": "学术资讯"
+    },
+    {
+      "title": "学术不端行为的举报与受理",
+      "url": "https://ac.shu.edu.cn/info/1013/3114.htm",
+      "date": "2020-06-17",
+      "column": "服务指南"
     },
     {
       "title": "Cell出版集团刊物IMMUNITY报道生命学院魏滨教授实验室合作研究揭示胆固醇代谢调控抗病毒先天免疫的新机制",

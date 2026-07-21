@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260721_050700",
-  "total_articles": 617,
+  "crawl_time": "20260721_085530",
+  "total_articles": 618,
   "columns": {
-    "焦点新闻": 369,
+    "焦点新闻": 370,
     "论坛活动": 185,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "国际合作|上大MBA与阿拉木图管理大学签署合作协议",
+      "url": "https://mp.weixin.qq.com/s/MKYAThyuDT4dLJdX1nFamA",
+      "date": "2026-07-21",
+      "column": "焦点新闻"
+    },
     {
       "title": "上海大学MBA中心张峻铭同学荣获上海大学毕业生就业“攀登奖”",
       "url": "https://mp.weixin.qq.com/s/F6Loa4PMi83VVXdkYhL4nQ",

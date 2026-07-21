@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260721_050700",
-  "total_articles": 1818,
+  "crawl_time": "20260721_085530",
+  "total_articles": 1819,
   "columns": {
     "政策文件": 57,
     "新闻动态": 37,
-    "通知公告": 1724
+    "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于做好2026年8月本科毕业生申请学士学位工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321264.htm",
+      "date": "2026-07-21",
+      "column": "通知公告"
+    },
     {
       "title": "2026年7月本科毕业生授予学士学位名单和暂不授予学士学位名单",
       "url": "https://bksy.shu.edu.cn/info/1015/321254.htm",

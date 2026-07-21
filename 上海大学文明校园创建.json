@@ -2,14 +2,38 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260721_050700",
-  "total_articles": 152,
+  "crawl_time": "20260721_085530",
+  "total_articles": 153,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 46
+    "校园动态": 47
   },
   "articles": [
+    {
+      "title": "越南科学技术部部长武海军一行访问上海大学",
+      "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
+      "date": "2026-07-21",
+      "column": "校园动态"
+    },
+    {
+      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告...",
+      "url": "https://www.shu.edu.cn/info/1056/399325.htm",
+      "date": "2026-07-21",
+      "column": "文明实践"
+    },
+    {
+      "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞...",
+      "url": "https://www.shu.edu.cn/info/1056/399355.htm",
+      "date": "2026-07-21",
+      "column": "文明实践"
+    },
+    {
+      "title": "2026年上海大学数学科学实践工作站夏令营活动顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/399385.htm",
+      "date": "2026-07-21",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学与上海国投公司签署战略合作协议",
       "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
@@ -141,24 +165,6 @@
       "url": "https://www.shu.edu.cn/info/1053/397565.htm",
       "date": "2026-06-29",
       "column": "校园动态"
-    },
-    {
-      "title": "表彰，启航！上海大学开展学生“红色先锋”表彰暨2026届毕业...",
-      "url": "https://www.shu.edu.cn/info/1056/397745.htm",
-      "date": "2026-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026...",
-      "url": "https://www.shu.edu.cn/info/1056/397775.htm",
-      "date": "2026-06-29",
-      "column": "文明实践"
-    },
-    {
-      "title": "计算机学院举行2026届毕业典礼暨学位授予仪式",
-      "url": "https://www.shu.edu.cn/info/1056/397785.htm",
-      "date": "2026-06-29",
-      "column": "文明实践"
     },
     {
       "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘...",

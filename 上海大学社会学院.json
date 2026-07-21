@@ -2,20 +2,38 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260721_050700",
-  "total_articles": 2563,
+  "crawl_time": "20260721_085530",
+  "total_articles": 2567,
   "columns": {
     "图片新闻": 121,
-    "媒体报道": 53,
-    "学术动态": 557,
+    "媒体报道": 55,
+    "学术动态": 558,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
-    "校友活动": 31,
+    "校友活动": 32,
     "综合新闻": 882,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "《解放日报》 | 纪莺莺：带有历史视野的社区调查的三重意义",
+      "url": "https://sociology.shu.edu.cn/info/1104/43008.htm",
+      "date": "2026-07-21",
+      "column": "学术动态"
+    },
+    {
+      "title": "第一届“社会学自主知识体系创新与人才培养” 院友研讨会成功举行",
+      "url": "https://sociology.shu.edu.cn/info/1108/43048.htm",
+      "date": "2026-07-21",
+      "column": "校友活动"
+    },
+    {
+      "title": "《解放日报》 | 纪莺莺：带有历史视野的社区调查的三重意义",
+      "url": "https://sociology.shu.edu.cn/info/1109/43018.htm",
+      "date": "2026-07-21",
+      "column": "媒体报道"
+    },
     {
       "title": "上海大学亮相2026世界人工智能大会 分享基层治理智能体“巷导”阶段性成果",
       "url": "https://sociology.shu.edu.cn/info/1102/42968.htm",
@@ -12687,6 +12705,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/7958.htm",
       "date": "2014-05-12",
       "column": "综合新闻"
+    },
+    {
+      "title": "文汇报|黄晓春：当前基层社会治理创新的起点与方向",
+      "url": "https://sociology.shu.edu.cn/info/1109/8106.htm",
+      "date": "2014-05-09",
+      "column": "媒体报道"
     },
     {
       "title": "青春路上，我们一起成长 ——社会学院庆祝“五四”青年节系列活动顺利举行",
