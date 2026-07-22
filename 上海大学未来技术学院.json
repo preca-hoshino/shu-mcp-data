@@ -2,11 +2,11 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20260722_050621",
-  "total_articles": 78,
+  "crawl_time": "20260722_085417",
+  "total_articles": 79,
   "columns": {
     "媒体聚焦": 3,
-    "新闻动态": 63,
+    "新闻动态": 64,
     "通知公告": 12
   },
   "articles": [
@@ -32,6 +32,12 @@
       "title": "智创无界“未”梦远航，凌云有志“来”启新章 | 上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
       "url": "https://mp.weixin.qq.com/s/nwPIn-cnlYffLRgru3TPxA",
       "date": "2026-06-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "未来技术学院征战2026年校教职工羽毛球团体赛圆满完赛",
+      "url": "https://ai.shu.edu.cn/info/1045/4028.htm",
+      "date": "2026-06-08",
       "column": "新闻动态"
     },
     {

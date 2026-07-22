@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260722_050621",
+  "crawl_time": "20260722_085417",
   "total_articles": 153,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,30 @@
     "校园动态": 47
   },
   "articles": [
+    {
+      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互...",
+      "url": "https://www.shu.edu.cn/info/1056/399425.htm",
+      "date": "2026-07-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学召开期刊工作领导小组会议",
+      "url": "https://www.shu.edu.cn/info/1056/399445.htm",
+      "date": "2026-07-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学第六届侨联委员会工作会议顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/399455.htm",
+      "date": "2026-07-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出...",
+      "url": "https://www.shu.edu.cn/info/1056/399465.htm",
+      "date": "2026-07-22",
+      "column": "文明实践"
+    },
     {
       "title": "越南科学技术部部长武海军一行访问上海大学",
       "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
@@ -129,30 +153,6 @@
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
       "date": "2026-07-02",
       "column": "校园动态"
-    },
-    {
-      "title": "深学细悟正确政绩观，实干担当赋能“强芯”育人——微电子学...",
-      "url": "https://www.shu.edu.cn/info/1056/397865.htm",
-      "date": "2026-07-01",
-      "column": "文明实践"
-    },
-    {
-      "title": "“青春逐梦担大任，笃志躬行启新程” 机自学院2026届毕业典礼...",
-      "url": "https://www.shu.edu.cn/info/1056/397885.htm",
-      "date": "2026-07-01",
-      "column": "文明实践"
-    },
-    {
-      "title": "致敬五十载初心如磐 对标先进勇担时代使命——机关党委举行20...",
-      "url": "https://www.shu.edu.cn/info/1056/397895.htm",
-      "date": "2026-07-01",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学未来技术学院举行2026年毕业典礼暨学位授予仪式",
-      "url": "https://www.shu.edu.cn/info/1056/397915.htm",
-      "date": "2026-07-01",
-      "column": "文明实践"
     },
     {
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖...",

@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260722_050621",
-  "total_articles": 2567,
+  "crawl_time": "20260722_085417",
+  "total_articles": 2570,
   "columns": {
     "图片新闻": 121,
-    "媒体报道": 55,
-    "学术动态": 558,
+    "媒体报道": 57,
+    "学术动态": 559,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
@@ -16,6 +16,18 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "新书 | 庞保庆 著《任期与政绩：中国县级政府的“隐形之手”》",
+      "url": "https://sociology.shu.edu.cn/info/1104/43078.htm",
+      "date": "2026-07-22",
+      "column": "学术动态"
+    },
+    {
+      "title": "中国社会科学报|黄晓春：超大城市社会发展新态势与治理变革新方向",
+      "url": "https://sociology.shu.edu.cn/info/1109/43068.htm",
+      "date": "2026-07-22",
+      "column": "媒体报道"
+    },
     {
       "title": "《解放日报》 | 纪莺莺：带有历史视野的社区调查的三重意义",
       "url": "https://sociology.shu.edu.cn/info/1104/43008.htm",
@@ -11895,6 +11907,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4981.htm",
       "date": "2015-04-01",
       "column": "综合新闻"
+    },
+    {
+      "title": "【媒体报道】黄晓春研究员在文汇报撰文谈基层治理转型",
+      "url": "https://sociology.shu.edu.cn/info/1109/6719.htm",
+      "date": "2015-04-01",
+      "column": "媒体报道"
     },
     {
       "title": "美好生活、美丽绽放 ——“瓶瓶”安安永生花制作暨社会学院三八节庆祝",

@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260722_050621",
+  "crawl_time": "20260722_085417",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -20,6 +20,12 @@
     {
       "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出：以跨国镜头定格鲜活上海",
       "url": "https://www.shu.edu.cn/info/1056/399465.htm",
+      "date": "2026-07-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "无人艇下水，机器狗竞速——2026年上海市科创教育研究院高中生科创体验营在上海大学顺利收官",
+      "url": "https://www.shu.edu.cn/info/1056/399475.htm",
       "date": "2026-07-22",
       "column": "综合新闻"
     },
@@ -52,12 +58,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
       "date": "2026-07-20",
       "column": "科研动态"
-    },
-    {
-      "title": "民进上海大学委员会召开全委（扩大）会议",
-      "url": "https://www.shu.edu.cn/info/1056/399335.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
     },
     {
       "title": "2024年度教育部哲学社会科学重大委托项目专题研讨会顺利举行",

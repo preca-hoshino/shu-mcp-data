@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260722_050621",
-  "total_articles": 3915,
+  "crawl_time": "20260722_085417",
+  "total_articles": 3916,
   "columns": {
     "主办会议": 41,
     "学术报告": 2643,
@@ -13,9 +13,15 @@
     "研究生新闻": 49,
     "科研动态": 308,
     "综合新闻": 616,
-    "通知公告": 158
+    "通知公告": 159
   },
   "articles": [
+    {
+      "title": "关于第112次理学学科学位评定分委员会会前准备工作的通知",
+      "url": "https://scicol.shu.edu.cn/info/1006/33605.htm",
+      "date": "2026-07-22",
+      "column": "通知公告"
+    },
     {
       "title": "量子科技研究院seminar第116讲暨物理学科Seminar第827讲 量子多体计算导论",
       "url": "https://scicol.shu.edu.cn/info/1003/33555.htm",

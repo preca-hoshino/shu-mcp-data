@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260722_050621",
-  "total_articles": 618,
+  "crawl_time": "20260722_085417",
+  "total_articles": 619,
   "columns": {
     "焦点新闻": 370,
-    "论坛活动": 185,
+    "论坛活动": 186,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "校友|上海大学MBA校友分会第二届理事会第一次会议顺利召开",
+      "url": "https://mp.weixin.qq.com/s/63xQT5U5S7iz8o33zrdUew",
+      "date": "2026-07-22",
+      "column": "论坛活动"
+    },
     {
       "title": "国际合作|上大MBA与阿拉木图管理大学签署合作协议",
       "url": "https://mp.weixin.qq.com/s/MKYAThyuDT4dLJdX1nFamA",
