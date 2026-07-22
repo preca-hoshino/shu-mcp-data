@@ -2,8 +2,8 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260722_013128",
-  "total_articles": 1672,
+  "crawl_time": "20260722_050621",
+  "total_articles": 1673,
   "columns": {
     "学术动态": 88,
     "学院新闻": 1108,
@@ -11,9 +11,15 @@
     "科研动态": 32,
     "通知公告(教师)": 30,
     "通知公告(本科生)": 108,
-    "通知公告(研究生)": 173
+    "通知公告(研究生)": 174
   },
   "articles": [
+    {
+      "title": "第112次院学位评定委员会会前准备工作的通知",
+      "url": "https://mat.shu.edu.cn/info/1019/30688.htm",
+      "date": "2026-07-22",
+      "column": "通知公告(研究生)"
+    },
     {
       "title": "材料科学与工程学院和核电关键材料全国重点实验室 2025-2026学年年度考核优秀名单公示",
       "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30678",
