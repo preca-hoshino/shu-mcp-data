@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260721_123600",
+  "crawl_time": "20260722_013128",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学第六届侨联委员会工作会议顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/399455.htm",
+      "date": "2026-07-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出：以跨国镜头定格鲜活上海",
+      "url": "https://www.shu.edu.cn/info/1056/399465.htm",
+      "date": "2026-07-22",
+      "column": "综合新闻"
+    },
     {
       "title": "越南科学技术部部长武海军一行访问上海大学",
       "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
@@ -40,18 +52,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
       "date": "2026-07-20",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学北京招宣组顺利开展2026年高考招生咨询工作",
-      "url": "https://www.shu.edu.cn/info/1056/399315.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
-      "url": "https://www.shu.edu.cn/info/1056/399325.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
     },
     {
       "title": "民进上海大学委员会召开全委（扩大）会议",
