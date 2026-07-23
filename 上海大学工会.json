@@ -2,16 +2,22 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20260722_123624",
-  "total_articles": 1166,
+  "crawl_time": "20260723_013120",
+  "total_articles": 1167,
   "columns": {
     "分工会动态": 303,
     "协会动态": 46,
-    "教工活动": 611,
+    "教工活动": 612,
     "新闻动态": 73,
     "通知公告": 133
   },
   "articles": [
+    {
+      "title": "亲子相伴 悦读一夏——泮池家长学校暑期亲子共读活动报名通知",
+      "url": "https://mp.weixin.qq.com/s/Bkr65arOaiUZGgi65UEcQA",
+      "date": "2026-07-23",
+      "column": "教工活动"
+    },
     {
       "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘“十五五”发展新蓝图！",
       "url": "https://mp.weixin.qq.com/s/rsacNYjGiRSu5ecU7z_otw",
