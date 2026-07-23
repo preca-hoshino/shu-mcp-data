@@ -2,21 +2,69 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20260723_013120",
-  "total_articles": 1167,
+  "crawl_time": "20260723_050719",
+  "total_articles": 1175,
   "columns": {
     "分工会动态": 303,
     "协会动态": 46,
-    "教工活动": 612,
-    "新闻动态": 73,
+    "教工活动": 614,
+    "新闻动态": 79,
     "通知公告": 133
   },
   "articles": [
+    {
+      "title": "太酷啦！2026上二代成长营，我们“毕”须闪耀！",
+      "url": "https://mp.weixin.qq.com/s/-9eSEuKtEQaAvSjhrhlwRQ",
+      "date": "2026-07-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "童心探世界，逐梦正当时！我校2026年“上二代成长营”开营啦",
+      "url": "https://mp.weixin.qq.com/s/-GmwDMouBofEJRmZzp1Yqg",
+      "date": "2026-07-23",
+      "column": "新闻动态"
+    },
     {
       "title": "亲子相伴 悦读一夏——泮池家长学校暑期亲子共读活动报名通知",
       "url": "https://mp.weixin.qq.com/s/Bkr65arOaiUZGgi65UEcQA",
       "date": "2026-07-23",
       "column": "教工活动"
+    },
+    {
+      "title": "教工保障关爱行｜教职工福利保障卡等你来激活",
+      "url": "https://mp.weixin.qq.com/s/H0hXm0fG-Ns6Ws3xEQeWIA",
+      "date": "2026-07-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "一半书香，一半足迹——“上二代”的成长营日记",
+      "url": "https://mp.weixin.qq.com/s/Kb18E6IZY6-jQDmlY4RDpw",
+      "date": "2026-07-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（7月27日）",
+      "url": "https://mp.weixin.qq.com/s/Nm4tZT-1hDoNs6GdcfpMuQ",
+      "date": "2026-07-23",
+      "column": "教工活动"
+    },
+    {
+      "title": "上二代成长营丨四大主题营玩出了什么新花样？",
+      "url": "https://mp.weixin.qq.com/s/bhWPJQ0b0_2wkraJ6fuo5w",
+      "date": "2026-07-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上二代成长营的中期报告丨排练房里的小可爱，实验室和博物馆里的小问号",
+      "url": "https://mp.weixin.qq.com/s/fiu_zCLi4lEDTxWfNTds6A",
+      "date": "2026-07-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "干饭啦！视频里的“上二代”小秘密～",
+      "url": "https://mp.weixin.qq.com/s/p83AD2rIcpeHdTJ16-ezQA",
+      "date": "2026-07-23",
+      "column": "新闻动态"
     },
     {
       "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘“十五五”发展新蓝图！",

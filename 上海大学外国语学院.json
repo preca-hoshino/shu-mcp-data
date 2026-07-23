@@ -2,15 +2,27 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260723_013120",
-  "total_articles": 578,
+  "crawl_time": "20260723_050719",
+  "total_articles": 580,
   "columns": {
     "学术活动预告": 400,
-    "学术研究": 32,
-    "学院新闻": 53,
+    "学术研究": 33,
+    "学院新闻": 54,
     "通知公告": 93
   },
   "articles": [
+    {
+      "title": "外国语学院尚新教授领衔申报的教学成果获批上海市教学改革推进项目",
+      "url": "https://sfs.shu.edu.cn/info/1036/31097.htm",
+      "date": "2026-07-23",
+      "column": "学术研究"
+    },
+    {
+      "title": "外国语学院尚新教授领衔申报的教学成果获批上海市教学改革推进项目",
+      "url": "https://sfs.shu.edu.cn/info/1142/31087.htm",
+      "date": "2026-07-23",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年外国语学院年度人事考核、聘期考核、岗位晋升结果公示",
       "url": "https://sfs.shu.edu.cn/info/1141/31077.htm",

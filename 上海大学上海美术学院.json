@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260723_013120",
-  "total_articles": 710,
+  "crawl_time": "20260723_050719",
+  "total_articles": 711,
   "columns": {
     "党建工作": 47,
     "学术讲座": 53,
@@ -12,9 +12,15 @@
     "展览展示": 24,
     "教学": 162,
     "科研": 35,
-    "通知公告": 12
+    "通知公告": 13
   },
   "articles": [
+    {
+      "title": "上海大学上海美术学院2026年暑期值班安排",
+      "url": "https://safa.shu.edu.cn/info/1122/19770.htm",
+      "date": "2026-07-23",
+      "column": "通知公告"
+    },
     {
       "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会顺利召开",
       "url": "https://safa.shu.edu.cn/info/1084/19760.htm",

@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260723_013120",
-  "total_articles": 785,
+  "crawl_time": "20260723_050719",
+  "total_articles": 786,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 79,
+    "学院新闻": 80,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "深化产教融合 走进数智会计与审计前沿——上海大学管理学院师生开展系列...",
+      "url": "https://ms.shu.edu.cn/info/1244/92325.htm",
+      "date": "2026-07-23",
+      "column": "学院新闻"
+    },
     {
       "title": "“智能化就业指导：新模式探索与AI工具实践”专题培训成功举办",
       "url": "https://ms.shu.edu.cn/info/1244/92295.htm",

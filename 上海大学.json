@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260723_013120",
+  "crawl_time": "20260723_050719",
   "total_articles": 18410,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "材料基因组工程研究院牵头组织的中国材料大会2026E06“材料基因与人工智能材料”分会和FB06“人工智能与物质科学青年科学家论坛” 在武汉成功举办",
+      "url": "https://www.shu.edu.cn/info/1055/399495.htm",
+      "date": "2026-07-23",
+      "column": "科研动态"
+    },
+    {
+      "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治党专题警示教育会",
+      "url": "https://www.shu.edu.cn/info/1056/399505.htm",
+      "date": "2026-07-23",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学第六届侨联委员会工作会议顺利召开",
       "url": "https://www.shu.edu.cn/info/1056/399455.htm",
@@ -58,12 +70,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
       "date": "2026-07-20",
       "column": "科研动态"
-    },
-    {
-      "title": "2024年度教育部哲学社会科学重大委托项目专题研讨会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/399345.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
     },
     {
       "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
@@ -172,12 +178,6 @@
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
       "date": "2026-06-27",
       "column": "重要新闻"
-    },
-    {
-      "title": "通信学院郭海润教授团队、牟成博教授团队在《Laser & Photonics Reviews》发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/397605.htm",
-      "date": "2026-06-26",
-      "column": "科研动态"
     },
     {
       "title": "我校召开2026年院长工作会议",
