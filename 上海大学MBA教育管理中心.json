@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260723_123645",
-  "total_articles": 620,
+  "crawl_time": "20260726_120235",
+  "total_articles": 607,
   "columns": {
     "焦点新闻": 370,
-    "论坛活动": 187,
-    "通知公告": 63
+    "论坛活动": 184,
+    "通知公告": 53
   },
   "articles": [
+    {
+      "title": "25GC专精特新专业方向《特色化产品与服务创新管理》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/nViWB0RvmADm6LYjmJNpoQ",
+      "date": "2026-07-24",
+      "column": "论坛活动"
+    },
     {
       "title": "上大MBA学子邢聪荣获上海大学“学生党员先锋”称号",
       "url": "https://mp.weixin.qq.com/s/EEDsopa4FtZfr0EbkZE-xg",
@@ -71,12 +77,6 @@
       "column": "焦点新闻"
     },
     {
-      "title": "关于2026届秋季上海大学MBA中心首选毕业生（Outstanding Graduates）名单公示的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27021.htm",
-      "date": "2026-07-13",
-      "column": "通知公告"
-    },
-    {
       "title": "关于25级学生录入本年度科研成果的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27031.htm",
       "date": "2026-07-13",
@@ -87,12 +87,6 @@
       "url": "https://mp.weixin.qq.com/s/aaDFYklHDNxC9g60d-ruPg",
       "date": "2026-07-13",
       "column": "论坛活动"
-    },
-    {
-      "title": "关于2026届秋季上海大学MBA中心首选毕业生（Outstanding Graduates）评选方案公示的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27001.htm",
-      "date": "2026-07-09",
-      "column": "通知公告"
     },
     {
       "title": "上大MBA360°职业洞察营第三批报名进行中",
@@ -161,26 +155,8 @@
       "column": "焦点新闻"
     },
     {
-      "title": "青春逐梦 奔赴山海｜上海大学管理学院2026年毕业典礼预告",
-      "url": "https://mp.weixin.qq.com/s/dWOluVCkSjJIaGSvoNj_YA",
-      "date": "2026-06-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于24FT毕业生办理云离校手续的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26881.htm",
-      "date": "2026-06-24",
-      "column": "通知公告"
-    },
-    {
       "title": "MBA研究生党支部开展第二季度主题党日活动",
       "url": "https://mp.weixin.qq.com/s/FMJQ5hsBH4XR5CR2RU_JGQ",
-      "date": "2026-06-23",
-      "column": "论坛活动"
-    },
-    {
-      "title": "SHUMBA 23PT1班毕业之旅：重走长征路·赤水河畔论商道",
-      "url": "https://mp.weixin.qq.com/s/bNkKAV3ffsMzOfkZHvrndA",
       "date": "2026-06-23",
       "column": "论坛活动"
     },
@@ -191,64 +167,10 @@
       "column": "焦点新闻"
     },
     {
-      "title": "6月28日线上专场｜上大MBA360°职业洞察营报名进行时",
-      "url": "https://mp.weixin.qq.com/s/oIF3fLgOHMbhpdIChiUkHA",
-      "date": "2026-06-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "第十二届全国管理案例精英赛上海大学校园突围赛圆满落幕",
-      "url": "https://mp.weixin.qq.com/s/6MUG0lFdOJ_fqUimWFr2ig",
-      "date": "2026-06-10",
-      "column": "论坛活动"
-    },
-    {
-      "title": "关于收集2026级新生缴费信息抬头的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26791.htm",
-      "date": "2026-06-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于收集在读生缴费信息抬头的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26801.htm",
-      "date": "2026-06-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于上海大学就业“攀登奖”MBA中心推荐名单公示的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26771.htm",
-      "date": "2026-06-05",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学MBA中心：以绿色为笔，书写负责任的商业未来",
-      "url": "https://mp.weixin.qq.com/s/iC9mt6M3EarHF1V5yVloeg",
-      "date": "2026-06-05",
-      "column": "论坛活动"
-    },
-    {
-      "title": "关于做好2026届上海大学毕业生到中西部地区和艰苦边远地区基层单位就业学费补偿和国家助学贷款代偿资格申请工作的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26741.htm",
-      "date": "2026-06-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026届毕业生国家助学贷款还款和离校手续办理的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26751.htm",
-      "date": "2026-06-04",
-      "column": "通知公告"
-    },
-    {
       "title": "上海大学MBA中心举办2026企业导师感恩会暨学生见面会",
       "url": "https://mp.weixin.qq.com/s/2XREJJZdIR4sFonPXBXwFg",
       "date": "2026-06-04",
       "column": "焦点新闻"
-    },
-    {
-      "title": "“拍好每一场活动：人像·现场实战指南”专题讲座",
-      "url": "https://mp.weixin.qq.com/s/gbFH45jE7KA3MMHZx7hZ8A",
-      "date": "2026-06-03",
-      "column": "论坛活动"
     },
     {
       "title": "喜报！上大MBA校友工作获校级荣誉 两年深耕结硕果",

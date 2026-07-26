@@ -2,12 +2,12 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260723_123645",
-  "total_articles": 153,
+  "crawl_time": "20260726_120235",
+  "total_articles": 140,
   "columns": {
     "文明创建": 33,
-    "文明实践": 73,
-    "校园动态": 47
+    "文明实践": 63,
+    "校园动态": 44
   },
   "articles": [
     {
@@ -71,58 +71,10 @@
       "column": "文明实践"
     },
     {
-      "title": "民革上海大学委员会召开主委（扩大）工作例会",
-      "url": "https://www.shu.edu.cn/info/1056/398975.htm",
-      "date": "2026-07-16",
-      "column": "文明实践"
-    },
-    {
-      "title": "九三学社上海大学委员会举行第二次全委（扩大）会议",
-      "url": "https://www.shu.edu.cn/info/1056/399015.htm",
-      "date": "2026-07-16",
-      "column": "文明实践"
-    },
-    {
-      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟202...",
-      "url": "https://www.shu.edu.cn/info/1056/399065.htm",
-      "date": "2026-07-16",
-      "column": "文明实践"
-    },
-    {
-      "title": "“触摸产业前沿 探索AI未来”高中生科创体验营在上海大学开营",
-      "url": "https://www.shu.edu.cn/info/1056/399075.htm",
-      "date": "2026-07-16",
-      "column": "文明实践"
-    },
-    {
-      "title": "马克思主义学院青年教师在2026年全国青年理论宣讲大赛中荣获...",
-      "url": "https://www.shu.edu.cn/info/1056/399275.htm",
-      "date": "2026-07-16",
-      "column": "文明实践"
-    },
-    {
       "title": "喜报！国家科技进步奖二等奖！",
       "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
       "date": "2026-07-09",
       "column": "校园动态"
-    },
-    {
-      "title": "党建联学聚“芯”力 产教协同育“芯”人——上海大学集成电路...",
-      "url": "https://www.shu.edu.cn/info/1056/398785.htm",
-      "date": "2026-07-09",
-      "column": "文明实践"
-    },
-    {
-      "title": "新闻传播学院举办树立和践行正确政绩观学习教育专题党课暨“...",
-      "url": "https://www.shu.edu.cn/info/1056/398815.htm",
-      "date": "2026-07-09",
-      "column": "文明实践"
-    },
-    {
-      "title": "从弄堂咖啡到机器人实验室，十位外国青年这样拍上海：2026“...",
-      "url": "https://www.shu.edu.cn/info/1056/398855.htm",
-      "date": "2026-07-09",
-      "column": "文明实践"
     },
     {
       "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成...",
@@ -131,22 +83,10 @@
       "column": "校园动态"
     },
     {
-      "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
-      "url": "https://www.shu.edu.cn/info/1056/398605.htm",
-      "date": "2026-07-07",
-      "column": "文明实践"
-    },
-    {
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-06",
       "column": "校园动态"
-    },
-    {
-      "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果...",
-      "url": "https://www.shu.edu.cn/info/1056/398265.htm",
-      "date": "2026-07-03",
-      "column": "文明实践"
     },
     {
       "title": "奔赴山海！今天我们在上海大学毕业啦！",
@@ -167,12 +107,6 @@
       "column": "校园动态"
     },
     {
-      "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘...",
-      "url": "https://mp.weixin.qq.com/s/pX3jFE3CZtAS9Rg-QL4L7g",
-      "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
       "title": "第二届东方国际商事调解研讨会暨钢铁行业知识产权纠纷调解中...",
       "url": "https://www.shu.edu.cn/info/1053/397135.htm",
       "date": "2026-06-18",
@@ -182,18 +116,6 @@
       "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学...",
       "url": "https://www.shu.edu.cn/info/1053/397145.htm",
       "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
-      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
-      "url": "https://www.shu.edu.cn/info/1053/396585.htm",
-      "date": "2026-06-08",
-      "column": "校园动态"
-    },
-    {
-      "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
-      "url": "https://www.shu.edu.cn/info/1053/396465.htm",
-      "date": "2026-06-05",
       "column": "校园动态"
     },
     {

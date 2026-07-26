@@ -2,15 +2,27 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260723_123645",
-  "total_articles": 571,
+  "crawl_time": "20260726_120235",
+  "total_articles": 551,
   "columns": {
     "办事流程": 8,
     "技术需求": 44,
-    "科技动态": 87,
-    "通知公告": 432
+    "科技动态": 77,
+    "通知公告": 422
   },
   "articles": [
+    {
+      "title": "上海用十年磨一剑的耐心，回答基础研究的“时代之问”",
+      "url": "https://mp.weixin.qq.com/s/axFkbDvpJ_wmDdcogvfn0g",
+      "date": "2026-07-24",
+      "column": "科技动态"
+    },
+    {
+      "title": "脑机接口新赛道跑出“上海速度”｜聚焦张江高新区新赛道",
+      "url": "https://mp.weixin.qq.com/s/xKS4Andjut7qVFPZtYFY5Q",
+      "date": "2026-07-23",
+      "column": "科技动态"
+    },
     {
       "title": "关于发布农业生物育种国家科技重大专项公开竞争类项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12042.htm",
@@ -108,30 +120,6 @@
       "column": "通知公告"
     },
     {
-      "title": "关于开展2026年东方英才计划拔尖、青年项目科技平台申报工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11822.htm",
-      "date": "2026-07-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2026年上海市东方英才计划拔尖、青年项目综合平台（技术转移赛道）申报评审工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11832.htm",
-      "date": "2026-07-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2026年上海市东方英才计划拔尖、青年项目综合平台（未来产业赛道）申报评审工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11842.htm",
-      "date": "2026-07-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“绿色燃料技术”项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11852.htm",
-      "date": "2026-07-13",
-      "column": "通知公告"
-    },
-    {
       "title": "科创宝山，新质未来！2026年宝山区科技创新大会举行",
       "url": "https://mp.weixin.qq.com/s/JjdGpTcPqCJtJ-nYb8Bqxg?click_id=1371498199",
       "date": "2026-07-10",
@@ -144,118 +132,10 @@
       "column": "科技动态"
     },
     {
-      "title": "上海市经济信息化委关于组织开展农业领域机器人典型应用场景遴选工作的通知",
-      "url": "https://www.sheitc.sh.gov.cn/cyfz/20260708/5e6e9bcf1c424726bd27df30e6d88e54.html",
-      "date": "2026-07-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "国家文物局关于组织开展第九批国家文物局重点科研基地申报工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11772.htm",
-      "date": "2026-07-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "智能伙伴 共创未来！2026世界人工智能大会将于7月17日至20日在上海举行",
-      "url": "https://mp.weixin.qq.com/s/AbG79IjTE-r1FLYAapOIFA?click_id=1198870721",
-      "date": "2026-07-08",
-      "column": "科技动态"
-    },
-    {
-      "title": "违规使用科研经费典型案例及警示",
-      "url": "https://mp.weixin.qq.com/s/Bi6wmVMsuUGdLF3UIR7GQA",
-      "date": "2026-07-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "喜报！国家科技进步奖二等奖！",
-      "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
-      "date": "2026-07-08",
-      "column": "科技动态"
-    },
-    {
-      "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第二批项目的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11752.htm",
-      "date": "2026-07-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年度上海市白玉兰人才计划浦江项目申请工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11742.htm",
-      "date": "2026-07-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "2025年度上海市科学技术奖公布，来看获奖名单→",
-      "url": "https://mp.weixin.qq.com/s/KPi7JyzqGUzuzB53ICrTSA",
-      "date": "2026-07-02",
-      "column": "科技动态"
-    },
-    {
-      "title": "祝贺！上海大学多项成果获2025年度上海市科学技术奖！",
-      "url": "https://mp.weixin.qq.com/s/U9FbmM4eDC-crdG-vEvuTw",
-      "date": "2026-07-02",
-      "column": "科技动态"
-    },
-    {
-      "title": "核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
-      "url": "https://www.shu.edu.cn/info/1055/398165.htm",
-      "date": "2026-07-02",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海科技创新市区联动暨各区科委主任座谈会召开",
-      "url": "https://mp.weixin.qq.com/s/hQ0g4nkQ-4JHoc2pDnsG7w",
-      "date": "2026-06-30",
-      "column": "科技动态"
-    },
-    {
-      "title": "活动预告｜「行·爱赛思」进校园→上海大学篇",
-      "url": "https://mp.weixin.qq.com/s/FfkeABtP95FFpPvQ0XpfTg",
-      "date": "2026-06-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "明纪释法：警惕以讲课费、课题费、咨询费等名义变相送礼",
-      "url": "https://mp.weixin.qq.com/s/eB-kSonlAPHD0HKFo7HsvA",
-      "date": "2026-06-29",
-      "column": "科技动态"
-    },
-    {
-      "title": "大零号湾科创策源孵化器启用，高校硬科技孵化模式再升级",
-      "url": "https://mp.weixin.qq.com/s/0PWElY-sNZKTxP-f9K09vA",
-      "date": "2026-06-27",
-      "column": "科技动态"
-    },
-    {
       "title": "上海科技青海行需求征集汇总表",
       "url": "https://kyglb.shu.edu.cn/info/1082/11662.htm",
       "date": "2026-06-26",
       "column": "技术需求"
-    },
-    {
-      "title": "科技部党组书记、部长阴和俊：以更大力度更实举措加强基础研究 打牢科技强国建设根基",
-      "url": "https://mp.weixin.qq.com/s/EhFdbEHfbeaRUHQDgwb5kA",
-      "date": "2026-06-24",
-      "column": "科技动态"
-    },
-    {
-      "title": "在推动上海（长三角）国际科技创新中心建设中冲在前、打头阵！陈吉宁调研市科委",
-      "url": "https://mp.weixin.qq.com/s/Rxbpp-RPpuRlh_fd9ogh9A",
-      "date": "2026-06-24",
-      "column": "科技动态"
-    },
-    {
-      "title": "启源公益基金会2026年资助项目上海大学宣讲会举行",
-      "url": "https://kyglb.shu.edu.cn/info/1012/11452.htm",
-      "date": "2026-06-16",
-      "column": "科技动态"
-    },
-    {
-      "title": "守正科研初心，这些红线始终“带电”（含案例）",
-      "url": "https://mp.weixin.qq.com/s/GnHuwtEGrT2jo_GL-Sffdg",
-      "date": "2026-06-15",
-      "column": "科技动态"
     },
     {
       "title": "关于开展2026年静安区生命健康产业高质量发展项目（第一批）申报工作的通知",

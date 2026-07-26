@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260723_123645",
-  "total_articles": 1761,
+  "crawl_time": "20260726_120235",
+  "total_articles": 1762,
   "columns": {
-    "新闻": 39,
+    "新闻": 40,
     "讲座": 464,
     "通知公告": 1258
   },
@@ -567,6 +567,12 @@
       "url": "https://mp.weixin.qq.com/s/izCtU2AJIbWkdPF9dJF7qw?scene=1&click_id=3",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "上海电影学院承办2026VPC全国大学生虚拟制作大赛总决赛并获多项大奖",
+      "url": "https://mp.weixin.qq.com/s/jHSvhhSJT6omms6a01hZ1Q?scene=1",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "学院教师舒浩仑执导的剧情长片《行走的夜》上映",

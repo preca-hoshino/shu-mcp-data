@@ -2,11 +2,11 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260723_123645",
-  "total_articles": 65,
+  "crawl_time": "20260726_120235",
+  "total_articles": 60,
   "columns": {
     "招生简章": 27,
-    "要闻速递": 38
+    "要闻速递": 33
   },
   "articles": [
     {
@@ -340,30 +340,6 @@
       "column": "招生简章"
     },
     {
-      "title": "国务院发展研究中心张承惠所长来经管中心授课",
-      "url": "https://jgzx.shu.edu.cn/info/1017/2328.htm",
-      "date": "2013-12-17",
-      "column": "要闻速递"
-    },
-    {
-      "title": "经管中心举办榆林炼油厂管理干部高级研修班",
-      "url": "https://jgzx.shu.edu.cn/info/1017/2327.htm",
-      "date": "2013-11-19",
-      "column": "要闻速递"
-    },
-    {
-      "title": "“上经青年管理精英沙龙”第二期系列活动成功举行",
-      "url": "https://jgzx.shu.edu.cn/info/1017/2325.htm",
-      "date": "2013-10-30",
-      "column": "要闻速递"
-    },
-    {
-      "title": "解读管理大师彼得-德鲁克——经管中心举办2013年上经论坛第二季主题活动",
-      "url": "https://jgzx.shu.edu.cn/info/1017/2323.htm",
-      "date": "2013-10-29",
-      "column": "要闻速递"
-    },
-    {
       "title": "经管中心为嘉定区领导干部进行社会管理专题培训",
       "url": "https://jgzx.shu.edu.cn/info/1017/2320.htm",
       "date": "2013-10-26",
@@ -372,12 +348,6 @@
     {
       "title": "经管中心召开上海市执业经纪人后续教育培训研讨会",
       "url": "https://jgzx.shu.edu.cn/info/1017/2322.htm",
-      "date": "2013-10-26",
-      "column": "要闻速递"
-    },
-    {
-      "title": "上海市金融办副主任吴俊为经管中心学员做主题报告",
-      "url": "https://jgzx.shu.edu.cn/info/1017/2324.htm",
       "date": "2013-10-26",
       "column": "要闻速递"
     },

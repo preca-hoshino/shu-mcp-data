@@ -2,15 +2,27 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260723_123645",
-  "total_articles": 18410,
+  "crawl_time": "20260726_120235",
+  "total_articles": 18396,
   "columns": {
-    "科研动态": 1644,
-    "综合新闻": 16285,
-    "通知公告": 451,
-    "重要新闻": 30
+    "科研动态": 1639,
+    "综合新闻": 16280,
+    "通知公告": 452,
+    "重要新闻": 25
   },
   "articles": [
+    {
+      "title": "关于征集第28届中国国际高新技术成果交易会参展项目的通知",
+      "url": "https://www.shu.edu.cn/info/1051/399515.htm",
+      "date": "2026-07-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/399485.htm",
+      "date": "2026-07-24",
+      "column": "综合新闻"
+    },
     {
       "title": "材料基因组工程研究院牵头组织的中国材料大会2026E06“材料基因与人工智能材料”分会和FB06“人工智能与物质科学青年科学家论坛” 在武汉成功举办",
       "url": "https://www.shu.edu.cn/info/1055/399495.htm",
@@ -48,46 +60,10 @@
       "column": "重要新闻"
     },
     {
-      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互鉴研究2026年度专家论坛顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/399425.htm",
-      "date": "2026-07-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第一届“社会学自主知识体系创新与人才培养”院友研讨会成功举行",
-      "url": "https://www.shu.edu.cn/info/1056/399435.htm",
-      "date": "2026-07-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学召开期刊工作领导小组会议",
-      "url": "https://www.shu.edu.cn/info/1056/399445.htm",
-      "date": "2026-07-21",
-      "column": "综合新闻"
-    },
-    {
       "title": "钱伟长学院师生参加2026年中国材料大会",
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
       "date": "2026-07-20",
       "column": "科研动态"
-    },
-    {
-      "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/399355.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
-    },
-    {
-      "title": "钱伟长学院召开2026年专业调整及拔尖人才培养改革研讨会",
-      "url": "https://www.shu.edu.cn/info/1056/399375.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026年上海大学数学科学实践工作站夏令营活动顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/399385.htm",
-      "date": "2026-07-20",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学与上海国投公司签署战略合作协议",
@@ -126,34 +102,10 @@
       "column": "科研动态"
     },
     {
-      "title": "机自学院2项成果获2025年度上海市科学技术奖",
-      "url": "https://www.shu.edu.cn/info/1055/398625.htm",
-      "date": "2026-07-06",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海电影学院成果获第十届教育部科学研究优秀成果奖（人文社会科学）",
-      "url": "https://www.shu.edu.cn/info/1055/398335.htm",
-      "date": "2026-07-03",
-      "column": "科研动态"
-    },
-    {
-      "title": "理学院物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
-      "url": "https://www.shu.edu.cn/info/1055/398345.htm",
-      "date": "2026-07-03",
-      "column": "科研动态"
-    },
-    {
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-02",
       "column": "重要新闻"
-    },
-    {
-      "title": "核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
-      "url": "https://www.shu.edu.cn/info/1055/398165.htm",
-      "date": "2026-07-02",
-      "column": "科研动态"
     },
     {
       "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成立105周年",
@@ -166,42 +118,6 @@
       "url": "https://www.shu.edu.cn/info/1051/397875.htm",
       "date": "2026-06-30",
       "column": "通知公告"
-    },
-    {
-      "title": "材料学院朱波教授团队在《Chemical Engineering Journal》上发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/397905.htm",
-      "date": "2026-06-30",
-      "column": "科研动态"
-    },
-    {
-      "title": "上海大学2026年毕业典礼举行",
-      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
-      "date": "2026-06-27",
-      "column": "重要新闻"
-    },
-    {
-      "title": "我校召开2026年院长工作会议",
-      "url": "https://www.shu.edu.cn/info/1053/397565.htm",
-      "date": "2026-06-25",
-      "column": "重要新闻"
-    },
-    {
-      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
-      "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
-      "date": "2026-06-24",
-      "column": "重要新闻"
-    },
-    {
-      "title": "钢铁行业知识产权纠纷调解中心成立仪式暨第二届东方国际商事调解研讨会在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1053/397135.htm",
-      "date": "2026-06-18",
-      "column": "重要新闻"
-    },
-    {
-      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
-      "url": "https://www.shu.edu.cn/info/1053/397145.htm",
-      "date": "2026-06-18",
-      "column": "重要新闻"
     },
     {
       "title": "关于宝山校区部分楼宇停电的通知",

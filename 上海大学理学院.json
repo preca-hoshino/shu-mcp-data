@@ -2,17 +2,17 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260723_123645",
-  "total_articles": 3916,
+  "crawl_time": "20260726_120235",
+  "total_articles": 3894,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2643,
+    "学术报告": 2624,
     "本科生教务": 39,
     "本科生新闻": 46,
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 616,
+    "综合新闻": 613,
     "通知公告": 159
   },
   "articles": [
@@ -161,18 +161,6 @@
       "column": "学术报告"
     },
     {
-      "title": "数学学科Seminar第3064讲 扭Yangian的Drinfeld表示及其余理想结构",
-      "url": "https://scicol.shu.edu.cn/info/1003/33235.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3065讲 扭Yangian与仿射格拉斯曼流形的 i - 切片",
-      "url": "https://scicol.shu.edu.cn/info/1003/33245.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
-    },
-    {
       "title": "数学学科Seminar第2066讲 正交三幂等矩阵",
       "url": "https://scicol.shu.edu.cn/info/1003/33255.htm",
       "date": "2026-06-15",
@@ -191,36 +179,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "量子科技研究院Seminar第111讲暨物理学科Seminar第820讲 动量空间晶体群保护的拓扑物态",
-      "url": "https://scicol.shu.edu.cn/info/1003/33195.htm",
-      "date": "2026-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院Seminar第110讲暨物理学科Seminar第819讲 对称性在拓扑物理和磁性材料体系的应...",
-      "url": "https://scicol.shu.edu.cn/info/1003/33205.htm",
-      "date": "2026-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3061讲 具有非可积核的连续的Kuramoto模型的松弛动力学（一）",
-      "url": "https://scicol.shu.edu.cn/info/1003/33165.htm",
-      "date": "2026-06-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3062讲 具有非可积核的连续的Kuramoto模型的松弛动力学（二）",
-      "url": "https://scicol.shu.edu.cn/info/1003/33175.htm",
-      "date": "2026-06-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3063讲 具有非可积核的连续的Kuramoto模型的松弛动力学（三）",
-      "url": "https://scicol.shu.edu.cn/info/1003/33185.htm",
-      "date": "2026-06-10",
-      "column": "学术报告"
-    },
-    {
       "title": "上海大学理学院数学学科发展研讨会顺利举行",
       "url": "https://scicol.shu.edu.cn/info/1007/33135.htm",
       "date": "2026-06-09",
@@ -233,76 +191,16 @@
       "column": "综合新闻"
     },
     {
-      "title": "数学学科Seminar第3059讲 关于k-数值范围的多重性",
-      "url": "https://scicol.shu.edu.cn/info/1003/33115.htm",
-      "date": "2026-06-08",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3060讲 保秩横截性质 (RPTP) 的最新进展",
-      "url": "https://scicol.shu.edu.cn/info/1003/33125.htm",
-      "date": "2026-06-08",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
-      "url": "https://scicol.shu.edu.cn/info/1003/33085.htm",
-      "date": "2026-06-05",
-      "column": "学术报告"
-    },
-    {
       "title": "理学院化学学科开展观影主题党日活动",
       "url": "https://scicol.shu.edu.cn/info/1007/33095.htm",
       "date": "2026-06-05",
       "column": "综合新闻"
     },
     {
-      "title": "量子科技研究院seminar第108讲暨物理学科Seminar第817讲 面向能源与生物医学应用的下一代纳米...",
-      "url": "https://scicol.shu.edu.cn/info/1003/33065.htm",
-      "date": "2026-06-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第109讲暨物理学科Seminar第818讲 HfO2中铁电相与铁电畴的相稳定性调控...",
-      "url": "https://scicol.shu.edu.cn/info/1003/33075.htm",
-      "date": "2026-06-04",
-      "column": "学术报告"
-    },
-    {
       "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
       "url": "https://scicol.shu.edu.cn/info/1007/33045.htm",
       "date": "2026-06-04",
       "column": "综合新闻"
-    },
-    {
-      "title": "量子科技研究院seminar第105讲暨物理学科Seminar第814讲 固体中的极化：概述",
-      "url": "https://scicol.shu.edu.cn/info/1003/32965.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第106讲暨物理学科Seminar第815讲 非厄米物理简介第三讲",
-      "url": "https://scicol.shu.edu.cn/info/1003/32975.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第107讲暨物理学科Seminar第816讲 非厄米物理简介第四讲",
-      "url": "https://scicol.shu.edu.cn/info/1003/32985.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3056讲 与 Zygmund 伸缩相关的多参数调和分析的区域变量方法(1)",
-      "url": "https://scicol.shu.edu.cn/info/1003/33015.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3057讲 与 Zygmund 伸缩相关的多参数调和分析的区域变量方法(2)",
-      "url": "https://scicol.shu.edu.cn/info/1003/33025.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
     },
     {
       "title": "理学院举办庆“六一”亲子活动",
@@ -315,36 +213,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33005.htm",
       "date": "2026-06-03",
       "column": "综合新闻"
-    },
-    {
-      "title": "理学院数学大师讲坛第二十、二十一讲顺利开讲",
-      "url": "https://scicol.shu.edu.cn/info/1007/32925.htm",
-      "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "理学院党委与国际部党委开展中心组联组学习",
-      "url": "https://scicol.shu.edu.cn/info/1007/32945.htm",
-      "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026年上海市高温超导重点实验室开放日活动顺利举行",
-      "url": "https://scicol.shu.edu.cn/info/1007/32955.htm",
-      "date": "2026-06-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "物理学科Seminar第812讲 从头算模拟超快电子-核动力学——开辟阿秒化学之路",
-      "url": "https://scicol.shu.edu.cn/info/1003/32905.htm",
-      "date": "2026-06-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第104讲暨物理学科Seminar第813讲 非厄米物理简介第二讲",
-      "url": "https://scicol.shu.edu.cn/info/1003/32915.htm",
-      "date": "2026-06-01",
-      "column": "学术报告"
     },
     {
       "title": "理学院2026年毕业研究生成绩综合排名公示",

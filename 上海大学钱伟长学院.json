@@ -2,12 +2,12 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260723_123645",
-  "total_articles": 692,
+  "crawl_time": "20260726_120235",
+  "total_articles": 691,
   "columns": {
     "学术报告": 217,
     "最新动态": 368,
-    "通知公告": 107
+    "通知公告": 106
   },
   "articles": [
     {
@@ -4041,12 +4041,6 @@
       "url": "https://qwc.shu.edu.cn/info/1087/2333.htm",
       "date": "2015-07-03",
       "column": "最新动态"
-    },
-    {
-      "title": "钱伟长学院2015暑期社会实践校级立项情况公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2167.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
     },
     {
       "title": "张统一院士为钱伟长学院师生做专业分流主题报告",

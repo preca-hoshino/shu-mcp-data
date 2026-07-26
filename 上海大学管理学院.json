@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260723_123645",
-  "total_articles": 786,
+  "crawl_time": "20260726_120235",
+  "total_articles": 782,
   "columns": {
-    "学术活动": 203,
+    "学术活动": 199,
     "学院新闻": 80,
     "重要通知": 503
   },
   "articles": [
+    {
+      "title": "征稿通知|第三届清华数字经济潮涌论坛暨2026工业工程、创新创业与产业生...",
+      "url": "https://ms.shu.edu.cn/info/1245/92335.htm",
+      "date": "2026-07-24",
+      "column": "重要通知"
+    },
     {
       "title": "深化产教融合 走进数智会计与审计前沿——上海大学管理学院师生开展系列...",
       "url": "https://ms.shu.edu.cn/info/1244/92325.htm",
@@ -135,12 +141,6 @@
       "url": "https://ms.shu.edu.cn/info/1244/92105.htm",
       "date": "2026-06-11",
       "column": "学院新闻"
-    },
-    {
-      "title": "2025-2026学年上海大学“学生党员先锋”“学生党建工作先进个人”管理学...",
-      "url": "https://ms.shu.edu.cn/info/1245/92085.htm",
-      "date": "2026-06-09",
-      "column": "重要通知"
     },
     {
       "title": "0622上海管理论坛第575期（李海涛教授，密苏里大学圣路易斯分校）",
@@ -4509,30 +4509,6 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
-    },
-    {
-      "title": "08-09秋冲突考安排",
-      "url": "https://ms.shu.edu.cn/info/1246/11183.htm",
-      "date": "2008-11-10",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛青年学者专场第一期成功举办",
-      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
-      "date": "2008-11-09",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于08-09学年秋季学期期末成绩登录时间安排",
-      "url": "https://ms.shu.edu.cn/info/1246/11181.htm",
-      "date": "2008-11-06",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于设立“上海管理论坛青年学者专场”的通知?",
-      "url": "https://ms.shu.edu.cn/info/1246/11180.htm",
-      "date": "2008-11-05",
-      "column": "学术活动"
     },
     {
       "title": "管理学院运动员书写赛场神话",

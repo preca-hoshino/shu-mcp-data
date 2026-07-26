@@ -2,20 +2,32 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260723_123645",
-  "total_articles": 2570,
+  "crawl_time": "20260726_120235",
+  "total_articles": 2562,
   "columns": {
-    "图片新闻": 121,
-    "媒体报道": 57,
-    "学术动态": 559,
-    "学术报告": 152,
+    "图片新闻": 120,
+    "媒体报道": 53,
+    "学术动态": 561,
+    "学术报告": 148,
     "学生动态": 582,
-    "教学教务": 137,
+    "教学教务": 136,
     "校友活动": 32,
     "综合新闻": 882,
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "会议综述|中国社会学会2026年学术年会消费社会学论坛成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1104/43098.htm",
+      "date": "2026-07-23",
+      "column": "学术动态"
+    },
+    {
+      "title": "会议综述|全球南方跨国企业田野实验室2026年度工作坊顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1104/43118.htm",
+      "date": "2026-07-23",
+      "column": "学术动态"
+    },
     {
       "title": "新书 | 庞保庆 著《任期与政绩：中国县级政府的“隐形之手”》",
       "url": "https://sociology.shu.edu.cn/info/1104/43078.htm",
@@ -281,34 +293,10 @@
       "column": "学术动态"
     },
     {
-      "title": "ADRI系列讲座|Sequential Migration of Chinese Overseas Returnees: the Intertwined Roles of Urban Amenities and Economic Opportunities（中国海外归国人才的序贯迁移：城市便利设施与经济机会的交互作用）",
-      "url": "https://sociology.shu.edu.cn/info/1105/42118.htm",
-      "date": "2026-06-08",
-      "column": "学术报告"
-    },
-    {
-      "title": "IESM讲座|The Internationalisation of Chinese private capital in West Africa（中国私营资本在西非的国际化进程）",
-      "url": "https://sociology.shu.edu.cn/info/1105/42048.htm",
-      "date": "2026-06-05",
-      "column": "学术报告"
-    },
-    {
-      "title": "2026公共性论坛07|肥胖的大洋洲",
-      "url": "https://sociology.shu.edu.cn/info/1105/42018.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
-    },
-    {
       "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",
       "url": "https://sociology.shu.edu.cn/info/1102/41928.htm",
       "date": "2026-06-02",
       "column": "综合新闻"
-    },
-    {
-      "title": "IESM讲座|发展生育金融，为生育友好型社会添砖加瓦",
-      "url": "https://sociology.shu.edu.cn/info/1105/41918.htm",
-      "date": "2026-06-02",
-      "column": "学术报告"
     },
     {
       "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",
@@ -10565,12 +10553,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "我院Guy Abel教授与社区学院新生面对面",
-      "url": "https://sociology.shu.edu.cn/info/1111/4054.htm",
-      "date": "2015-12-22",
-      "column": "图片新闻"
-    },
-    {
       "title": "创新中国：中国制造谁来造——“机器人”与“无人艇”走进“创新中国”第二课",
       "url": "https://sociology.shu.edu.cn/info/1102/4923.htm",
       "date": "2015-12-18",
@@ -11603,12 +11585,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "社会学院举行课堂教学与课外答疑交流会",
-      "url": "https://sociology.shu.edu.cn/info/1106/5489.htm",
-      "date": "2015-05-12",
-      "column": "教学教务"
-    },
-    {
       "title": "2013级学生年级大会暨暑期实践动员大会顺利举行",
       "url": "https://sociology.shu.edu.cn/info/1107/3977.htm",
       "date": "2015-05-12",
@@ -11907,12 +11883,6 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4981.htm",
       "date": "2015-04-01",
       "column": "综合新闻"
-    },
-    {
-      "title": "【媒体报道】黄晓春研究员在文汇报撰文谈基层治理转型",
-      "url": "https://sociology.shu.edu.cn/info/1109/6719.htm",
-      "date": "2015-04-01",
-      "column": "媒体报道"
     },
     {
       "title": "美好生活、美丽绽放 ——“瓶瓶”安安永生花制作暨社会学院三八节庆祝",
@@ -12725,12 +12695,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "文汇报|黄晓春：当前基层社会治理创新的起点与方向",
-      "url": "https://sociology.shu.edu.cn/info/1109/8106.htm",
-      "date": "2014-05-09",
-      "column": "媒体报道"
-    },
-    {
       "title": "青春路上，我们一起成长 ——社会学院庆祝“五四”青年节系列活动顺利举行",
       "url": "https://sociology.shu.edu.cn/info/1107/7618.htm",
       "date": "2014-05-07",
@@ -12747,12 +12711,6 @@
       "url": "https://sociology.shu.edu.cn/info/1104/8281.htm",
       "date": "2014-05-06",
       "column": "学术动态"
-    },
-    {
-      "title": "光明日报|李友梅：在新的历史起点上推进社会体制改革",
-      "url": "https://sociology.shu.edu.cn/info/1109/8107.htm",
-      "date": "2014-05-06",
-      "column": "媒体报道"
     },
     {
       "title": "学术通讯：族群、党国与战后初期台湾工人阶级的形成",
@@ -12855,12 +12813,6 @@
       "url": "https://sociology.shu.edu.cn/info/1102/8113.htm",
       "date": "2014-03-09",
       "column": "综合新闻"
-    },
-    {
-      "title": "上海社会科学调查中心与《文汇报》合作开展全国两会调",
-      "url": "https://sociology.shu.edu.cn/info/1109/8114.htm",
-      "date": "2014-03-06",
-      "column": "媒体报道"
     },
     {
       "title": "特大城市社会治理协同创新中心“社会组织参与社会治理”试验基地研讨会在上海大学召开",

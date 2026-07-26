@@ -2,11 +2,11 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260723_123645",
-  "total_articles": 58,
+  "crawl_time": "20260726_120235",
+  "total_articles": 55,
   "columns": {
     "信息动态": 25,
-    "通知公告": 33
+    "通知公告": 30
   },
   "articles": [
     {
@@ -295,24 +295,6 @@
       "title": "上海大学银行账号信息及增值税开票信息",
       "url": "https://cwc.shu.edu.cn/info/1042/4299.htm",
       "date": "2018-04-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于执行财政部《政府采购进口产品管理办法》的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/3999.htm",
-      "date": "2008-11-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于启用新版财政票据的友情提示",
-      "url": "https://cwc.shu.edu.cn/info/1041/4010.htm",
-      "date": "2008-07-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于公积金帐号查询的通知",
-      "url": "https://cwc.shu.edu.cn/info/1041/4016.htm",
-      "date": "2007-10-15",
       "column": "通知公告"
     },
     {

@@ -2,12 +2,12 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260723_123645",
-  "total_articles": 531,
+  "crawl_time": "20260726_120235",
+  "total_articles": 524,
   "columns": {
     "主题活动": 50,
-    "校友会新闻": 173,
-    "母校新闻": 200,
+    "校友会新闻": 170,
+    "母校新闻": 196,
     "通知公告": 108
   },
   "articles": [
@@ -886,6 +886,12 @@
       "url": "https://www.shu.edu.cn/info/1053/356145.htm",
       "date": "2024-10-11",
       "column": "母校新闻"
+    },
+    {
+      "title": "上海大学电子校友卡申领流程",
+      "url": "https://alumni.shu.edu.cn/info/1018/7106.htm",
+      "date": "2024-09-24",
+      "column": "校友会新闻"
     },
     {
       "title": "上海大学电子校友卡申领流程",
@@ -2982,32 +2988,8 @@
       "column": "通知公告"
     },
     {
-      "title": "钱伟长文集首发式暨纪念钱伟长百年诞辰座谈会举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2012.htm",
-      "date": "2012-09-29",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学与中科院长三角地区院所开展全面合作",
-      "url": "https://alumni.shu.edu.cn/info/1019/2013.htm",
-      "date": "2012-07-04",
-      "column": "母校新闻"
-    },
-    {
       "title": "我校吴明红教授获中国工程科技界最高奖项——光华工程科技奖",
       "url": "https://alumni.shu.edu.cn/info/1019/2009.htm",
-      "date": "2012-07-03",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校14项课题获2012年度国家社科基金项目立项资助",
-      "url": "https://alumni.shu.edu.cn/info/1019/2010.htm",
-      "date": "2012-07-03",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校发布“2011年度本科教育教学质量报告”",
-      "url": "https://alumni.shu.edu.cn/info/1019/2011.htm",
       "date": "2012-07-03",
       "column": "母校新闻"
     },
@@ -3144,18 +3126,6 @@
       "column": "通知公告"
     },
     {
-      "title": "研究生校友联络处举办零距离沙龙活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1837.htm",
-      "date": "2006-12-19",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "校友理事会暨宝山成才奖学金获得者恳谈会隆重举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1835.htm",
-      "date": "2006-12-04",
-      "column": "校友会新闻"
-    },
-    {
       "title": "商管学院召开校友会工作小组会议",
       "url": "https://alumni.shu.edu.cn/info/1018/1822.htm",
       "date": "2006-11-24",
@@ -3182,18 +3152,6 @@
     {
       "title": "方兆怡女士访问我校",
       "url": "https://alumni.shu.edu.cn/info/1018/1829.htm",
-      "date": "2006-11-24",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "延长校友联谊会举行欢庆校庆活动",
-      "url": "https://alumni.shu.edu.cn/info/1018/1831.htm",
-      "date": "2006-11-24",
-      "column": "校友会新闻"
-    },
-    {
-      "title": "兼职教授授证暨“成才奖学金”颁奖仪式举行",
-      "url": "https://alumni.shu.edu.cn/info/1018/1833.htm",
       "date": "2006-11-24",
       "column": "校友会新闻"
     }
