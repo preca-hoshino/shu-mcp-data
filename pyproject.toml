@@ -21,6 +21,7 @@ src = ["src"]
 extend-exclude = [
     "temp/*",
     ".venv/*",
+    ".github/instructions/*",
 ]
 
 [tool.ruff.lint]
