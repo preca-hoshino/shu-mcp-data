@@ -2,12 +2,12 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260726_120235",
-  "total_articles": 1809,
+  "crawl_time": "20260726_122714",
+  "total_articles": 1819,
   "columns": {
     "政策文件": 57,
     "新闻动态": 37,
-    "通知公告": 1715
+    "通知公告": 1725
   },
   "articles": [
     {
@@ -71,6 +71,12 @@
       "column": "通知公告"
     },
     {
+      "title": "关于举办上海大学2026年中国国际大学生创新大赛校内选拔赛的预通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321134.htm",
+      "date": "2026-07-08",
+      "column": "通知公告"
+    },
+    {
       "title": "关于公布上海大学2026年大学生物理实验竞赛获奖名单的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321144.htm",
       "date": "2026-07-08",
@@ -83,10 +89,64 @@
       "column": "通知公告"
     },
     {
+      "title": "关于做好2026年7月本科毕业生申请学士学位工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321054.htm",
+      "date": "2026-06-26",
+      "column": "通知公告"
+    },
+    {
       "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（力工学院专场）",
       "url": "https://bksy.shu.edu.cn/info/1016/321034.htm",
       "date": "2026-06-24",
       "column": "新闻动态"
+    },
+    {
+      "title": "关于举办第24届上海大学程序设计联赛夏季赛通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320994.htm",
+      "date": "2026-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "本科生院关于表彰2026届本科优秀毕业论文（设计）的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321004.htm",
+      "date": "2026-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学本科毕业生离校前下载成绩证明的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320964.htm",
+      "date": "2026-06-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "2025-2026学年春季学期期末考试温馨提醒",
+      "url": "https://bksy.shu.edu.cn/info/1015/320934.htm",
+      "date": "2026-06-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年6月全国大学英语四、六级考试考前须知及注意事项",
+      "url": "https://bksy.shu.edu.cn/info/1015/320914.htm",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025-2026学年夏季学期实践课程增开、扩容及第二轮选课时间推迟的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320904.htm",
+      "date": "2026-06-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办2026年上海大学大学生电子设计竞赛的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320884.htm",
+      "date": "2026-06-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2025-2026学年春季学期成绩复核工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320874.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
     },
     {
       "title": "关于2025-2026学年夏季学期选课的补充通知",

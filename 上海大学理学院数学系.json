@@ -2,11 +2,11 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260726_120235",
-  "total_articles": 1600,
+  "crawl_time": "20260726_122714",
+  "total_articles": 1610,
   "columns": {
     "学术会议": 29,
-    "学术报告": 1399,
+    "学术报告": 1409,
     "新闻快递": 172
   },
   "articles": [
@@ -77,6 +77,24 @@
       "column": "学术报告"
     },
     {
+      "title": "Seminar第3061讲 具有非可积核的连续的Kuramoto模型的松弛动力学（一）",
+      "url": "https://math.shu.edu.cn/info/1042/26931.htm",
+      "date": "2026-06-09",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3062讲 具有非可积核的连续的Kuramoto模型的松弛动力学（二）",
+      "url": "https://math.shu.edu.cn/info/1042/26941.htm",
+      "date": "2026-06-09",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3063讲 具有非可积核的连续的Kuramoto模型的松弛动力学（三）",
+      "url": "https://math.shu.edu.cn/info/1042/26951.htm",
+      "date": "2026-06-09",
+      "column": "学术报告"
+    },
+    {
       "title": "上海大学理学院数学大师讲坛第二十二、二十三以及二十四讲顺利开讲",
       "url": "https://math.shu.edu.cn/info/1041/26911.htm",
       "date": "2026-06-07",
@@ -89,6 +107,36 @@
       "column": "新闻快递"
     },
     {
+      "title": "Seminar第3059讲 关于k-数值范围的多重性",
+      "url": "https://math.shu.edu.cn/info/1042/26891.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3060讲 保秩横截性质(RPTP)的最新进展",
+      "url": "https://math.shu.edu.cn/info/1042/26901.htm",
+      "date": "2026-06-05",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
+      "url": "https://math.shu.edu.cn/info/1042/26881.htm",
+      "date": "2026-06-04",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3056讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(1)",
+      "url": "https://math.shu.edu.cn/info/1042/26861.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3057讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(2)",
+      "url": "https://math.shu.edu.cn/info/1042/26871.htm",
+      "date": "2026-06-03",
+      "column": "学术报告"
+    },
+    {
       "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
       "url": "https://math.shu.edu.cn/info/1041/26851.htm",
       "date": "2026-06-02",
@@ -99,6 +147,18 @@
       "url": "https://math.shu.edu.cn/info/1041/26821.htm",
       "date": "2026-06-01",
       "column": "新闻快递"
+    },
+    {
+      "title": "Seminar第3055讲 面向热流固耦合的整体式浸入边界框架及基于代理模型的不确定性量化",
+      "url": "https://math.shu.edu.cn/info/1042/26841.htm",
+      "date": "2026-06-01",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3054讲 基于人工智能的电池状态评估与故障诊断",
+      "url": "https://math.shu.edu.cn/info/1042/26831.htm",
+      "date": "2026-05-29",
+      "column": "学术报告"
     },
     {
       "title": "Seminar第3053讲 正多面体与曲线上的向量丛",

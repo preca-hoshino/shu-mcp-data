@@ -2,11 +2,11 @@
   "domain": "fpd.shu.edu.cn",
   "department": "上海大学新型显示技术及应用集成教育部重点实验室",
   "type": "21",
-  "crawl_time": "20260514_004804",
-  "total_articles": 93,
+  "crawl_time": "20260726_122714",
+  "total_articles": 94,
   "columns": {
-    "通知公告": 46,
-    "新闻中心": 47
+    "新闻中心": 47,
+    "通知公告": 47
   },
   "articles": [
     {
@@ -295,6 +295,12 @@
       "title": "日本山形大学Hisahiro Sasabe教授学术报告通知",
       "url": "https://fpd.shu.edu.cn/info/1111/3992.htm",
       "date": "2019-07-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "学术报告：从材料的微观结构到宏观特性",
+      "url": "https://fpd.shu.edu.cn/info/1111/3981.htm",
+      "date": "2019-06-21",
       "column": "通知公告"
     },
     {

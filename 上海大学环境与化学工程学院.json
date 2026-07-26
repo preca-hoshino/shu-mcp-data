@@ -2,15 +2,15 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260726_120235",
-  "total_articles": 977,
+  "crawl_time": "20260726_122714",
+  "total_articles": 991,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 389,
+    "学院新闻": 399,
     "本科生教学": 71,
     "研究生教学": 207,
     "科研动态": 117,
-    "通知公告": 114
+    "通知公告": 118
   },
   "articles": [
     {
@@ -110,6 +110,12 @@
       "column": "本科生教学"
     },
     {
+      "title": "【就业创业】2026年“职闯未来”训练营第五期预告来啦！",
+      "url": "https://mp.weixin.qq.com/s/U00Be3W1KvrezPjFwC3kQw",
+      "date": "2026-07-09",
+      "column": "学院新闻"
+    },
+    {
       "title": "【班级建设】“化”润初心，“工”行致远——2025级化学工程与工艺专业新生见面会顺利举行",
       "url": "https://mp.weixin.qq.com/s/U_b7b7Sq92HxdYIn1_egtw",
       "date": "2026-07-09",
@@ -128,6 +134,12 @@
       "column": "科研动态"
     },
     {
+      "title": "【党建】绿漾心间・情系陇原｜上海大学2026公益捐树活动圆满收官",
+      "url": "https://mp.weixin.qq.com/s/gIFqkvKgI7yl10mdmnCxvw",
+      "date": "2026-07-07",
+      "column": "学院新闻"
+    },
+    {
       "title": "关于做好2026年教职工年度考核工作的通知",
       "url": "https://ece.shu.edu.cn/info/1147/89134.htm",
       "date": "2026-07-06",
@@ -140,10 +152,52 @@
       "column": "通知公告"
     },
     {
+      "title": "【创新竞赛】第五届中国研究生“双碳”创新与创意大赛开启报名！",
+      "url": "https://mp.weixin.qq.com/s/LWmC63EfHpBsJjW5xyIXOw",
+      "date": "2026-07-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【创新竞赛】第十二届中国研究生智慧城市技术与创意设计大赛报名启动！",
+      "url": "https://mp.weixin.qq.com/s/QqzMDj-fcYgXnL2hqeX1xA",
+      "date": "2026-07-06",
+      "column": "学院新闻"
+    },
+    {
       "title": "关于第111次校学位评定委员会会前准备工作的通知",
       "url": "https://ece.shu.edu.cn/info/1304/89104.htm",
       "date": "2026-07-03",
       "column": "研究生教学"
+    },
+    {
+      "title": "我院开展树立和践行正确政绩观专题党课暨警示教育会",
+      "url": "https://ece.shu.edu.cn/info/1149/89074.htm",
+      "date": "2026-07-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院与微电子学院开展树立和践行正确政绩观联组学习",
+      "url": "https://ece.shu.edu.cn/info/1149/89094.htm",
+      "date": "2026-07-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【党建】“赓续百年初心，奋进崭新征程”——我院各研究生党支部开展建党105周年主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/Qwk_YxhoGsePT3tJUMdp0g",
+      "date": "2026-07-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "规范教学管理 赋能队伍成长——我院召开本科教学规范与能力提升专题培训会",
+      "url": "https://ece.shu.edu.cn/info/1149/89044.htm",
+      "date": "2026-07-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【毕业典礼】思源·责任·青春·奉献——上海大学环境与化学工程学院2026年毕业典礼暨学位授予仪式",
+      "url": "https://mp.weixin.qq.com/s/7FPTs0HDvAqMdWlpfyaX8Q",
+      "date": "2026-06-30",
+      "column": "学院新闻"
     },
     {
       "title": "2026届毕业研究生毕业证、学位证领取通知",
@@ -152,9 +206,21 @@
       "column": "研究生教学"
     },
     {
+      "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
+      "url": "https://ece.shu.edu.cn/info/1149/88854.htm",
+      "date": "2026-06-26",
+      "column": "学院新闻"
+    },
+    {
       "title": "赢在当“夏”—上海大学环境与化学工程学院2026年大学生暑期夏令营通知",
       "url": "https://mp.weixin.qq.com/s/3r87ntnQeRHmyEzFv8PS7A",
       "date": "2026-06-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "环化学院党群接待日公告20260624",
+      "url": "https://ece.shu.edu.cn/info/1147/88644.htm",
+      "date": "2026-06-23",
       "column": "通知公告"
     },
     {
@@ -162,6 +228,24 @@
       "url": "https://ece.shu.edu.cn/info/1148/88594.htm",
       "date": "2026-06-15",
       "column": "科研动态"
+    },
+    {
+      "title": "关于开展2026年度上海大学教师专业实践能力提升计划申请工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/88514.htm",
+      "date": "2026-06-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "环境与化学工程学院党委关于校第四届党委第三轮巡察集中整改进展情况的通报",
+      "url": "https://ece.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1147&wbnewsid=88494",
+      "date": "2026-06-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/88414.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
     },
     {
       "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知",

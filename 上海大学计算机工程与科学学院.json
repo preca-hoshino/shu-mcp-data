@@ -2,13 +2,13 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260726_120235",
-  "total_articles": 401,
+  "crawl_time": "20260726_122714",
+  "total_articles": 416,
   "columns": {
-    "学术活动": 23,
-    "新闻动态": 49,
+    "学术活动": 25,
+    "新闻动态": 59,
     "重要通知": 311,
-    "风采展示": 18
+    "风采展示": 21
   },
   "articles": [
     {
@@ -54,6 +54,12 @@
       "column": "新闻动态"
     },
     {
+      "title": "实干砺初心 青春担使命——计算机学院本科生第二党支部开展“七一”主题党日活动",
+      "url": "https://mp.weixin.qq.com/s/KtX4C3lbhcAUaNzI8V1cSw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "计算机学院校友、交通银行副行长钱斌：数智为帆、协同为桨 谱写金融高质量发展新篇章",
       "url": "https://mp.weixin.qq.com/s/OKhVvL4eZKv1V5uLOHUsDQ",
       "date": "2026-07-01",
@@ -76,6 +82,12 @@
       "url": "https://mp.weixin.qq.com/s/hkI6K7Rdwa3a5s6Uh7UFVQ",
       "date": "2026-07-01",
       "column": "风采展示"
+    },
+    {
+      "title": "七一·致敬 | 计算机工程与科学学院“两优一先”表彰名单来啦！",
+      "url": "https://mp.weixin.qq.com/s/nvrsUZMcGgD8Iqe-gyItMw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
     },
     {
       "title": "喜报｜计算机学院程彭洲、张新鹏文章被《新华文摘》转载！",
@@ -108,6 +120,30 @@
       "column": "新闻动态"
     },
     {
+      "title": "“智”强不息乘风“网”，策“码”问道“计”天下——计算机学院举行2026届毕业典礼暨学位授予仪式",
+      "url": "https://mp.weixin.qq.com/s/2o5ajGKL4VjSfMxViu2_4w",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "第三届“天翼云杯”圆满落幕！上海大学“智文研析”夺得总决赛冠军",
+      "url": "https://mp.weixin.qq.com/s/4uqmOgYLrpw9kTC_Lr-Vqg",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "研究生风采 | 研精毕智，笃行致远——2026届上海市优秀毕业生李春洁",
+      "url": "https://mp.weixin.qq.com/s/7tDrP844R-5Ejjlkl_u3kw",
+      "date": "2026-06-01",
+      "column": "风采展示"
+    },
+    {
+      "title": "2026中国青年科技创新“揭榜挂帅”擂台赛宣讲会——计算机学院专场圆满举行！",
+      "url": "https://mp.weixin.qq.com/s/Eu0cmdybTHSNygdRzKGLtA",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生冀昱昊",
       "url": "https://mp.weixin.qq.com/s/N_f7NkEv-NGJz74GY4PnMw",
       "date": "2026-06-01",
@@ -126,6 +162,12 @@
       "column": "风采展示"
     },
     {
+      "title": "计算机学院党委召开“智聚先锋·链动未来”2026年第四次党支部书记例会暨毕业生党员教育",
+      "url": "https://mp.weixin.qq.com/s/aNbd4xaMtgGnKNlaAavwUw",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生毛彦翔",
       "url": "https://mp.weixin.qq.com/s/bBN1Is8naZrk1OXKYpfmZg",
       "date": "2026-06-01",
@@ -136,6 +178,36 @@
       "url": "https://mp.weixin.qq.com/s/egCPswSjmWFwQZKy3hlL3A",
       "date": "2026-06-01",
       "column": "风采展示"
+    },
+    {
+      "title": "心向暖阳，相伴乐学 | 计算机学院2026心理健康教育风采季精彩回顾",
+      "url": "https://mp.weixin.qq.com/s/m9LTA2qWM6bPKTpvQrRPGA",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生徐宏伟",
+      "url": "https://mp.weixin.qq.com/s/mR8vR1R_ls7fUp9CLxVxQQ",
+      "date": "2026-06-01",
+      "column": "风采展示"
+    },
+    {
+      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/qj-KLBjqr-FknL6CgJ8ABQ",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "科创逐光！2026年上海市大学生计算机应用能力大赛在上大圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/qrChks_cdxzN40fkaNlQKg",
+      "date": "2026-06-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "机自学院党委、计算机学院党委、未来技术学院党委开展树立和践行正确政绩观联组学习",
+      "url": "https://mp.weixin.qq.com/s/wQyhudTc2iS19jSBdgn6LA",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "上海大学计算机工程与科学学院2026年博士研究生招生第二次报名须知",
@@ -160,6 +232,12 @@
       "url": "https://mp.weixin.qq.com/s/8iIhFIDmvTlRGwVg0HhmzQ",
       "date": "2026-05-01",
       "column": "新闻动态"
+    },
+    {
+      "title": "研究生风采 | 坚守科技报国初心，勇担强国建设使命——2026届上海市优秀毕业生薛至言",
+      "url": "https://mp.weixin.qq.com/s/9H-PJB05pvTQ7RQaJL-ZcA",
+      "date": "2026-05-01",
+      "column": "风采展示"
     },
     {
       "title": "上海大学荣获第十三届ASC世界大学生超算竞赛一等奖",
@@ -2354,6 +2432,18 @@
     {
       "title": "学术报告 - Structured Concurrency: An Approach to Programming",
       "url": "https://cs.shu.edu.cn/info/1501/42061.htm",
+      "date": "2010-06-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告 - 完整的多尺度材料设计软件平台",
+      "url": "https://cs.shu.edu.cn/info/1501/42081.htm",
+      "date": "2010-06-01",
+      "column": "学术活动"
+    },
+    {
+      "title": "学术报告 -  A new type of P2P networks --semantic P2P network--VIRGO",
+      "url": "https://cs.shu.edu.cn/info/1501/42091.htm",
       "date": "2010-06-01",
       "column": "学术活动"
     },

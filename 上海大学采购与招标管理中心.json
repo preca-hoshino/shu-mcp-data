@@ -2,10 +2,10 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20260726_120235",
-  "total_articles": 155,
+  "crawl_time": "20260726_122714",
+  "total_articles": 156,
   "columns": {
-    "工作动态": 59,
+    "工作动态": 60,
     "成交公告": 22,
     "服务指南": 22,
     "通知公告": 30,
@@ -577,6 +577,12 @@
       "column": "服务指南"
     },
     {
+      "title": "采招办开展“电影党课”主题活动",
+      "url": "https://czb.shu.edu.cn/info/1121/1814.htm",
+      "date": "2020-11-13",
+      "column": "工作动态"
+    },
+    {
       "title": "采招办支部组织学习十九届五中全会和习近平主席在第三届进博会开幕式上的主旨演讲精神",
       "url": "https://czb.shu.edu.cn/info/1121/1815.htm",
       "date": "2020-11-06",
@@ -715,12 +721,6 @@
       "column": "采购公告"
     },
     {
-      "title": "上海大学微电子学院装饰装修工程项目管理竞争性磋商招标项目的成交候选人公示",
-      "url": "https://czb.shu.edu.cn/WDZXYGCZMGL.pdf",
-      "date": "2020-04-24",
-      "column": "成交公告"
-    },
-    {
       "title": "上海大学校园停车管理系统升级改造竞争性磋商成交通知书",
       "url": "https://czb.shu.edu.cn/0821.pdf",
       "date": "2020-04-21",
@@ -829,7 +829,7 @@
       "column": "采购公告"
     },
     {
-      "title": "2019年度上海大学嘉定校区基础修缮项目",
+      "title": "2019年度上海大学宝山校区基础修缮项目",
       "url": "https://czb.shu.edu.cn/GCbsxqjcxs.pdf",
       "date": "2019-12-13",
       "column": "采购公告"
@@ -941,6 +941,12 @@
       "url": "https://czb.shu.edu.cn/GCCGd.pdf",
       "date": "2019-07-04",
       "column": "采购公告"
+    },
+    {
+      "title": "上海大学微电子学院装饰装修工程项目管理竞争性磋商招标项目的成交候选人公示",
+      "url": "https://czb.shu.edu.cn/WDZXYGCZMGL.pdf",
+      "date": "2019-04-24",
+      "column": "成交公告"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260514_004804",
-  "total_articles": 141,
+  "crawl_time": "20260726_122714",
+  "total_articles": 145,
   "columns": {
-    "通知公告": 27,
-    "学院新闻": 24,
-    "热点新闻": 90
+    "学院新闻": 28,
+    "热点新闻": 90,
+    "通知公告": 27
   },
   "articles": [
     {
@@ -530,6 +530,30 @@
       "title": "无偿献血，爱心传递——2018年上海大学音乐学院无偿献血光荣榜",
       "url": "https://music.shu.edu.cn/info/1174/4030.htm",
       "date": "2018-05-02",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学音乐学院与宝山区星堡养老社区签订志愿者服务协议",
+      "url": "https://music.shu.edu.cn/info/1174/4026.htm",
+      "date": "2017-11-13",
+      "column": "学院新闻"
+    },
+    {
+      "title": "本条新闻正在更新",
+      "url": "https://music.shu.edu.cn/info/1174/4025.htm",
+      "date": "2017-10-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "奏响金秋，收获硕果——上海大学音乐学院师生音乐会荣登星广会舞台",
+      "url": "https://music.shu.edu.cn/info/1174/4024.htm",
+      "date": "2017-10-01",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上大之莺翩翩来，蓬门今始为君开-------上海大学音乐学院2017级本科生迎新新闻稿",
+      "url": "https://music.shu.edu.cn/info/1174/3975.htm",
+      "date": "2017-09-28",
       "column": "学院新闻"
     },
     {

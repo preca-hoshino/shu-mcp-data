@@ -2,12 +2,12 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260726_120235",
-  "total_articles": 782,
+  "crawl_time": "20260726_122714",
+  "total_articles": 796,
   "columns": {
-    "学术活动": 199,
+    "学术活动": 203,
     "学院新闻": 80,
-    "重要通知": 503
+    "重要通知": 513
   },
   "articles": [
     {
@@ -1136,6 +1136,66 @@
       "title": "关于上海大学管理学院研究生“国家”“特种”“学业”奖学金评审细则202...",
       "url": "https://ms.shu.edu.cn/info/1245/84825.htm",
       "date": "2023-09-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/84494.htm",
+      "date": "2023-06-29",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/disiluntongzhishanghaidaxue.pdf",
+      "date": "2023-06-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/84424.htm",
+      "date": "2023-06-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/84254.htm",
+      "date": "2023-06-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年度上海市哲学社会科学规划课题申报公告",
+      "url": "https://mp.weixin.qq.com/s/E4wIeB4UmfPLAhU_S5cyfQ",
+      "date": "2023-05-31",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年度国家社会科学基金项目申报公告",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzczNjI4Mg==&mid=2247489603&idx=1&sn=fa9a735013fd296aba58dabb4fbb6f22&chksm=ceb657f6f9c1dee09ae59b64e7fe6be2669d37a6e5a202defddf7b1922dc3a0876687c7335b9&scene=126&sessionid=1680764385&subscene=227&key=c7398c8b43a1c905f",
+      "date": "2023-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/83834.htm",
+      "date": "2023-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年度教育部人文社会科学研究一般项目申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/Vx6th90aD9qKT8y0CKEjfg",
+      "date": "2023-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2023年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/83664.htm",
+      "date": "2023-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学2023年度国家自然科学基金项目申报通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/4531.htm",
+      "date": "2023-02-17",
       "column": "重要通知"
     },
     {
@@ -4509,6 +4569,30 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "08-09秋冲突考安排",
+      "url": "https://ms.shu.edu.cn/info/1246/11183.htm",
+      "date": "2008-11-10",
+      "column": "学术活动"
+    },
+    {
+      "title": "上海管理论坛青年学者专场第一期成功举办",
+      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
+      "date": "2008-11-09",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于08-09学年秋季学期期末成绩登录时间安排",
+      "url": "https://ms.shu.edu.cn/info/1246/11181.htm",
+      "date": "2008-11-06",
+      "column": "学术活动"
+    },
+    {
+      "title": "关于设立“上海管理论坛青年学者专场”的通知?",
+      "url": "https://ms.shu.edu.cn/info/1246/11180.htm",
+      "date": "2008-11-05",
+      "column": "学术活动"
     },
     {
       "title": "管理学院运动员书写赛场神话",
