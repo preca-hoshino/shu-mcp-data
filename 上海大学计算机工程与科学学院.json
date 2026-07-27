@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260727_013141",
+  "crawl_time": "20260727_052003",
   "total_articles": 416,
   "columns": {
     "学术活动": 25,
@@ -22,6 +22,12 @@
       "url": "https://cs.shu.edu.cn/info/1501/51611.htm",
       "date": "2026-07-01",
       "column": "学术活动"
+    },
+    {
+      "title": "数字搭桥惠长者，青春聚力伴夕阳 | 计算机学院科技助老实践活动回顾",
+      "url": "https://mp.weixin.qq.com/s/1mSF-ZaLY7op4kl38dPFjA",
+      "date": "2026-07-01",
+      "column": "新闻动态"
     },
     {
       "title": "上海大学计算机学院走访校友企业上海守扣科技有限公司",
@@ -194,12 +200,6 @@
     {
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
       "url": "https://mp.weixin.qq.com/s/qj-KLBjqr-FknL6CgJ8ABQ",
-      "date": "2026-06-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "科创逐光！2026年上海市大学生计算机应用能力大赛在上大圆满落幕",
-      "url": "https://mp.weixin.qq.com/s/qrChks_cdxzN40fkaNlQKg",
       "date": "2026-06-01",
       "column": "新闻动态"
     },

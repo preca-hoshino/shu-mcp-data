@@ -2,18 +2,36 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260727_013141",
-  "total_articles": 1678,
+  "crawl_time": "20260727_052003",
+  "total_articles": 1680,
   "columns": {
     "学术动态": 88,
     "学院新闻": 1111,
     "报告讲座": 133,
     "科研动态": 33,
     "通知公告(教师)": 30,
-    "通知公告(本科生)": 108,
-    "通知公告(研究生)": 175
+    "通知公告(本科生)": 109,
+    "通知公告(研究生)": 176
   },
   "articles": [
+    {
+      "title": "材料学院2026暑假值班安排",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1018&wbnewsid=30778",
+      "date": "2026-07-27",
+      "column": "通知公告(本科生)"
+    },
+    {
+      "title": "材料学院2026暑假值班安排",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1019&wbnewsid=30788",
+      "date": "2026-07-27",
+      "column": "通知公告(研究生)"
+    },
+    {
+      "title": "材料学院2026暑假值班安排",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30768",
+      "date": "2026-07-27",
+      "column": "通知公告(教师)"
+    },
     {
       "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
       "url": "https://mat.shu.edu.cn/info/1012/30758.htm",
@@ -9523,12 +9541,6 @@
       "url": "https://mat.shu.edu.cn/info/1012/1567.htm",
       "date": "2019-11-04",
       "column": "学院新闻"
-    },
-    {
-      "title": "材料学院职业健康安全管理体系标准基础知识培训",
-      "url": "https://mat.shu.edu.cn/info/1020/1885.htm",
-      "date": "2019-11-02",
-      "column": "通知公告(教师)"
     },
     {
       "title": "国家磁约束核聚变能发展研究专项“聚变用ODS低活化钢以及热沉铜的高效制备和性能优化”项目进...",

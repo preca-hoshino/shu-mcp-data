@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260727_013141",
+  "crawl_time": "20260727_052003",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,18 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于印发《上海大学本科生微专业建设与管理办法》的通知(上大内〔2025〕138号)",
+      "url": "https://bksy.shu.edu.cn/info/1015/321354.htm",
+      "date": "2026-07-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于印发《上海大学本科生辅修专业管理暂行办法》的通知(上大内〔2025〕137号)",
+      "url": "https://bksy.shu.edu.cn/info/1015/321374.htm",
+      "date": "2026-07-27",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026年本科生转专业拟录取名单的公示",
       "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321334",
@@ -134,18 +146,6 @@
       "title": "关于2025-2026学年夏季学期实践课程增开、扩容及第二轮选课时间推迟的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/320904.htm",
       "date": "2026-06-05",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于举办2026年上海大学大学生电子设计竞赛的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/320884.htm",
-      "date": "2026-06-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2025-2026学年春季学期成绩复核工作的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/320874.htm",
-      "date": "2026-06-03",
       "column": "通知公告"
     },
     {

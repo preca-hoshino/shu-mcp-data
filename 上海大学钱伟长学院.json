@@ -2,14 +2,26 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260727_013141",
-  "total_articles": 692,
+  "crawl_time": "20260727_052003",
+  "total_articles": 694,
   "columns": {
     "学术报告": 217,
-    "最新动态": 368,
+    "最新动态": 370,
     "通知公告": 107
   },
   "articles": [
+    {
+      "title": "钱伟长学院师生参加2026年中国材料大会",
+      "url": "https://qwc.shu.edu.cn/info/1087/8339.htm",
+      "date": "2026-07-20",
+      "column": "最新动态"
+    },
+    {
+      "title": "钱伟长学院召开2026年专业调整及拔尖人才培养改革研讨会",
+      "url": "https://qwc.shu.edu.cn/info/1087/8349.htm",
+      "date": "2026-07-20",
+      "column": "最新动态"
+    },
     {
       "title": "“做伟长人，塑伟长梦”钱伟长学院2026届本科生毕业典礼顺利举行",
       "url": "https://qwc.shu.edu.cn/info/1087/8329.htm",
