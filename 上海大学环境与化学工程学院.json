@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260726_122714",
+  "crawl_time": "20260727_013141",
   "total_articles": 991,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,24 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "【党建|“绿漾”宣讲团】变废为宝，向“无废城市”迈进",
+      "url": "https://mp.weixin.qq.com/s/KOGgZjjDpj2FLNlk1nJuOQ",
+      "date": "2026-07-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【综合新闻】上海大学“十五五”节能降碳合作推进会成功举办",
+      "url": "https://mp.weixin.qq.com/s/Qks8cg4NGZNEq6DVu1KQlQ",
+      "date": "2026-07-27",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【党建|“绿漾”宣讲团】上海大学“绿漾”生态文明宣讲团换届大会顺利召开",
+      "url": "https://mp.weixin.qq.com/s/mlr7bNIJovL1JxR7SnTFZQ",
+      "date": "2026-07-27",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年环化学院创新型人才国际合作培养项目（第三批）选拔工作通知",
       "url": "https://ece.shu.edu.cn/info/1147/89444.htm",
@@ -188,28 +206,10 @@
       "column": "学院新闻"
     },
     {
-      "title": "规范教学管理 赋能队伍成长——我院召开本科教学规范与能力提升专题培训会",
-      "url": "https://ece.shu.edu.cn/info/1149/89044.htm",
-      "date": "2026-07-01",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【毕业典礼】思源·责任·青春·奉献——上海大学环境与化学工程学院2026年毕业典礼暨学位授予仪式",
-      "url": "https://mp.weixin.qq.com/s/7FPTs0HDvAqMdWlpfyaX8Q",
-      "date": "2026-06-30",
-      "column": "学院新闻"
-    },
-    {
       "title": "2026届毕业研究生毕业证、学位证领取通知",
       "url": "https://ece.shu.edu.cn/info/1304/88864.htm",
       "date": "2026-06-28",
       "column": "研究生教学"
-    },
-    {
-      "title": "上海市环保产业协会固废专委会年会暨环境保护人才培养综合改革研讨会顺利召开",
-      "url": "https://ece.shu.edu.cn/info/1149/88854.htm",
-      "date": "2026-06-26",
-      "column": "学院新闻"
     },
     {
       "title": "赢在当“夏”—上海大学环境与化学工程学院2026年大学生暑期夏令营通知",

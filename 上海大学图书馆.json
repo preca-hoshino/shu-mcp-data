@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260726_122714",
-  "total_articles": 116,
+  "crawl_time": "20260727_013141",
+  "total_articles": 117,
   "columns": {
-    "公告信息": 36,
+    "公告信息": 37,
     "图书馆新闻": 47,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "关于2026年图书馆暑假开放的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/7064.htm",
+      "date": "2026-07-27",
+      "column": "公告信息"
+    },
     {
       "title": "深化馆院协同 赋能学科发展——图书馆赴文化遗产与信息管理学院开展业务交流",
       "url": "https://lib.shu.edu.cn/info/1024/7054.htm",
