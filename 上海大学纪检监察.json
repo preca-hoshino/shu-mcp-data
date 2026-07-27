@@ -2,12 +2,18 @@
   "domain": "jwjc.shu.edu.cn",
   "department": "上海大学纪检监察",
   "type": "04",
-  "crawl_time": "20260727_090819",
-  "total_articles": 31,
+  "crawl_time": "20260727_130708",
+  "total_articles": 32,
   "columns": {
-    "工作动态": 31
+    "工作动态": 32
   },
   "articles": [
+    {
+      "title": "校纪委赴上海交大纪委调研学习",
+      "url": "https://jwjc.shu.edu.cn/info/1040/8631.htm",
+      "date": "2026-07-24",
+      "column": "工作动态"
+    },
     {
       "title": "上海电力大学纪委一行来我校调研",
       "url": "https://jwjc.shu.edu.cn/info/1040/8491.htm",
