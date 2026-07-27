@@ -2,15 +2,27 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260727_052003",
-  "total_articles": 572,
+  "crawl_time": "20260727_090819",
+  "total_articles": 571,
   "columns": {
     "办事流程": 8,
     "技术需求": 44,
-    "科技动态": 88,
+    "科技动态": 87,
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于开展2026年度第二批上海市城市数字化转型专项资金项目申报的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12082.htm",
+      "date": "2026-07-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "聚焦青年科技创新力量，新一届TR35中国区入选者名单在上海发布",
+      "url": "https://mp.weixin.qq.com/s/xSNs_QcjT7MNo9H6RSGBHg?click_id=773928492",
+      "date": "2026-07-27",
+      "column": "科技动态"
+    },
     {
       "title": "上海用十年磨一剑的耐心，回答基础研究的“时代之问”",
       "url": "https://mp.weixin.qq.com/s/axFkbDvpJ_wmDdcogvfn0g",
@@ -222,12 +234,6 @@
       "column": "科技动态"
     },
     {
-      "title": "活动预告｜「行·爱赛思」进校园→上海大学篇",
-      "url": "https://mp.weixin.qq.com/s/FfkeABtP95FFpPvQ0XpfTg",
-      "date": "2026-06-29",
-      "column": "通知公告"
-    },
-    {
       "title": "明纪释法：警惕以讲课费、课题费、咨询费等名义变相送礼",
       "url": "https://mp.weixin.qq.com/s/eB-kSonlAPHD0HKFo7HsvA",
       "date": "2026-06-29",
@@ -248,12 +254,6 @@
     {
       "title": "科技部党组书记、部长阴和俊：以更大力度更实举措加强基础研究 打牢科技强国建设根基",
       "url": "https://mp.weixin.qq.com/s/EhFdbEHfbeaRUHQDgwb5kA",
-      "date": "2026-06-24",
-      "column": "科技动态"
-    },
-    {
-      "title": "在推动上海（长三角）国际科技创新中心建设中冲在前、打头阵！陈吉宁调研市科委",
-      "url": "https://mp.weixin.qq.com/s/Rxbpp-RPpuRlh_fd9ogh9A",
       "date": "2026-06-24",
       "column": "科技动态"
     },
@@ -3386,12 +3386,6 @@
     {
       "title": "上海大学举行二十国集团智库会议（T20）",
       "url": "https://kyglb.shu.edu.cn/info/1012/1740.htm",
-      "date": "2018-10-22",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海大学理学院量子与分子结构国际中心博士生发表第一作者PNAS论文",
-      "url": "https://kyglb.shu.edu.cn/info/1012/1741.htm",
       "date": "2018-10-22",
       "column": "科技动态"
     },

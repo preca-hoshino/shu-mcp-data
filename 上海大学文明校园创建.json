@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260727_052003",
+  "crawl_time": "20260727_090819",
   "total_articles": 153,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,30 @@
     "校园动态": 47
   },
   "articles": [
+    {
+      "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化...",
+      "url": "https://www.shu.edu.cn/info/1056/399485.htm",
+      "date": "2026-07-27",
+      "column": "文明实践"
+    },
+    {
+      "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治...",
+      "url": "https://www.shu.edu.cn/info/1056/399505.htm",
+      "date": "2026-07-27",
+      "column": "文明实践"
+    },
+    {
+      "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
+      "url": "https://www.shu.edu.cn/info/1056/399535.htm",
+      "date": "2026-07-27",
+      "column": "文明实践"
+    },
+    {
+      "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/399555.htm",
+      "date": "2026-07-27",
+      "column": "文明实践"
+    },
     {
       "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互...",
       "url": "https://www.shu.edu.cn/info/1056/399425.htm",
@@ -107,18 +131,6 @@
       "column": "校园动态"
     },
     {
-      "title": "党建联学聚“芯”力 产教协同育“芯”人——上海大学集成电路...",
-      "url": "https://www.shu.edu.cn/info/1056/398785.htm",
-      "date": "2026-07-09",
-      "column": "文明实践"
-    },
-    {
-      "title": "新闻传播学院举办树立和践行正确政绩观学习教育专题党课暨“...",
-      "url": "https://www.shu.edu.cn/info/1056/398815.htm",
-      "date": "2026-07-09",
-      "column": "文明实践"
-    },
-    {
       "title": "从弄堂咖啡到机器人实验室，十位外国青年这样拍上海：2026“...",
       "url": "https://www.shu.edu.cn/info/1056/398855.htm",
       "date": "2026-07-09",
@@ -131,22 +143,10 @@
       "column": "校园动态"
     },
     {
-      "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
-      "url": "https://www.shu.edu.cn/info/1056/398605.htm",
-      "date": "2026-07-07",
-      "column": "文明实践"
-    },
-    {
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-06",
       "column": "校园动态"
-    },
-    {
-      "title": "校党委常委、副校长王从春讲党课“践行正确政绩观，攻坚成果...",
-      "url": "https://www.shu.edu.cn/info/1056/398265.htm",
-      "date": "2026-07-03",
-      "column": "文明实践"
     },
     {
       "title": "奔赴山海！今天我们在上海大学毕业啦！",

@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260727_052003",
-  "total_articles": 1982,
+  "crawl_time": "20260727_090819",
+  "total_articles": 1983,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
     "学院周志": 309,
     "科研动态": 481,
     "综合新闻": 523,
-    "通知公告": 420
+    "通知公告": 421
   },
   "articles": [
+    {
+      "title": "文学院暑期值班表",
+      "url": "https://cla.shu.edu.cn/info/1017/53788.htm",
+      "date": "2026-07-27",
+      "column": "通知公告"
+    },
     {
       "title": "文学院周志总第705期（2026年第21期，7月13日-7月19日）",
       "url": "https://cla.shu.edu.cn/zhouzhi705.pdf",
