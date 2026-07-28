@@ -2,8 +2,8 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260727_130708",
-  "total_articles": 220,
+  "crawl_time": "20260728_013050",
+  "total_articles": 222,
   "columns": {
     "党务公开": 12,
     "媒体聚焦": 14,
@@ -11,9 +11,21 @@
     "学院公告": 60,
     "本科生教育": 24,
     "研究生教育": 27,
-    "综合新闻": 38
+    "综合新闻": 40
   },
   "articles": [
+    {
+      "title": "智库赋能国家级园区创建 校地协同谱写数广新篇——上海大学上海广告研究院助力普陀获批首批国家数字广告产业园区试点",
+      "url": "https://sjc.shu.edu.cn/info/1009/6589.htm",
+      "date": "2026-07-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年智能传播上海国际暑期学校圆满落幕",
+      "url": "https://sjc.shu.edu.cn/info/1009/6599.htm",
+      "date": "2026-07-27",
+      "column": "综合新闻"
+    },
     {
       "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海  国际大学生广告节暨中国（浦东）青年AI创享节盛大启幕",
       "url": "https://sjc.shu.edu.cn/info/1009/6579.htm",
