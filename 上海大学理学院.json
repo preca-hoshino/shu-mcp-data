@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260728_013050",
-  "total_articles": 3918,
+  "crawl_time": "20260728_050605",
+  "total_articles": 3917,
   "columns": {
     "主办会议": 41,
     "学术报告": 2643,
@@ -12,16 +12,10 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 618,
+    "综合新闻": 617,
     "通知公告": 159
   },
   "articles": [
-    {
-      "title": "吴坚勇书记带队调研理学院基础学科建设工作",
-      "url": "https://scicol.shu.edu.cn/info/1007/33665.htm",
-      "date": "2026-07-28",
-      "column": "综合新闻"
-    },
     {
       "title": "校党委常委、统战部部长曹为民讲授树立和践行正确政绩观专题党课",
       "url": "https://scicol.shu.edu.cn/info/1007/33645.htm",

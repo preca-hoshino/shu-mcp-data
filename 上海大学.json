@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260728_013050",
+  "crawl_time": "20260728_050605",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "材料基因组工程研究院张统一院士团队牵头研发科学领域贝叶斯优化框架Bgolearn，加速新材料发现",
+      "url": "https://www.shu.edu.cn/info/1055/399595.htm",
+      "date": "2026-07-28",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
+      "url": "https://www.shu.edu.cn/info/1056/399575.htm",
+      "date": "2026-07-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
+      "url": "https://www.shu.edu.cn/info/1056/399585.htm",
+      "date": "2026-07-28",
+      "column": "综合新闻"
+    },
     {
       "title": "核电关键材料全国重点实验室卞西磊副研究员在《Materials Today》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/399525.htm",
@@ -84,18 +102,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "第一届“社会学自主知识体系创新与人才培养”院友研讨会成功举行",
-      "url": "https://www.shu.edu.cn/info/1056/399435.htm",
-      "date": "2026-07-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学召开期刊工作领导小组会议",
-      "url": "https://www.shu.edu.cn/info/1056/399445.htm",
-      "date": "2026-07-21",
-      "column": "综合新闻"
-    },
-    {
       "title": "钱伟长学院师生参加2026年中国材料大会",
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
       "date": "2026-07-20",
@@ -160,12 +166,6 @@
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-02",
       "column": "重要新闻"
-    },
-    {
-      "title": "核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
-      "url": "https://www.shu.edu.cn/info/1055/398165.htm",
-      "date": "2026-07-02",
-      "column": "科研动态"
     },
     {
       "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成立105周年",

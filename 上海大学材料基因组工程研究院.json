@@ -2,15 +2,33 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260728_013050",
-  "total_articles": 412,
+  "crawl_time": "20260728_050605",
+  "total_articles": 416,
   "columns": {
     "学术报告": 137,
-    "科研动态": 74,
+    "科研动态": 76,
     "综合新闻": 46,
-    "通知公告": 155
+    "通知公告": 157
   },
   "articles": [
+    {
+      "title": "2026年材料基因组工程研究院教职工年度考核优秀人员公示",
+      "url": "https://mgi.shu.edu.cn/info/1062/7415.htm",
+      "date": "2026-07-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "材料基因组工程研究院《关于二级部门负责人职务调整任命的通知》",
+      "url": "https://mgi.shu.edu.cn/info/1062/7435.htm",
+      "date": "2026-07-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "我院张统一院士团队牵头研发  科学领域贝叶斯优化框架Bgolearn，加速新材料发现",
+      "url": "https://mgi.shu.edu.cn/info/1063/7445.htm",
+      "date": "2026-07-28",
+      "column": "科研动态"
+    },
     {
       "title": "我院牵头组织的中国材料大会2026 E06“材料基因与人工智能材料”分会和 FB06“人工智能与物质科学青年科学家论坛” 在武汉成功举办",
       "url": "https://mgi.shu.edu.cn/info/1064/7405.htm",
@@ -2272,6 +2290,12 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1629.htm",
       "date": "2016-09-19",
       "column": "通知公告"
+    },
+    {
+      "title": "张统一院士一行赴鄂尔多斯集团访问调研",
+      "url": "https://mgi.shu.edu.cn/info/1063/1711.htm",
+      "date": "2016-08-16",
+      "column": "科研动态"
     },
     {
       "title": "我校材料基因组本科专业“材料设计科学与工程”培养方案专家论证咨询会成功召开",

@@ -2,13 +2,19 @@
   "domain": "tiyu.shu.edu.cn",
   "department": "上海大学体育学院",
   "type": "06",
-  "crawl_time": "20260728_013050",
-  "total_articles": 150,
+  "crawl_time": "20260728_050605",
+  "total_articles": 151,
   "columns": {
     "头条新闻": 88,
-    "通知公告": 62
+    "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于体育学院运动训练本科专业秘书公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7844.htm",
+      "date": "2026-07-28",
+      "column": "通知公告"
+    },
     {
       "title": "关于修订《上海大学体育学院荣誉体系优化建设方案（试行）》的通知",
       "url": "https://tiyu.shu.edu.cn/info/1073/7834.htm",

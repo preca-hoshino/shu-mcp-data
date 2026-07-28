@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260728_013050",
+  "crawl_time": "20260728_050605",
   "total_articles": 991,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,24 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "我院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
+      "url": "https://ece.shu.edu.cn/info/1149/89494.htm",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【综合新闻】深化产教研协同，共育环保创新人才——我院举行环境保护育人实训平台建设交流会",
+      "url": "https://mp.weixin.qq.com/s/91kh8pBBiSwQH5bCAhBW7Q",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【就业创业】行走课堂——探访环保行业，规划职业未来",
+      "url": "https://mp.weixin.qq.com/s/Ee4uGr6WjnfmAZ9ak8gr_w",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
     {
       "title": "校企协同育人才 产教融合促发展   ——我院携手上海环境危废事业部深化产学研协同创新合作",
       "url": "https://ece.shu.edu.cn/info/1149/89484.htm",
@@ -182,28 +200,10 @@
       "column": "学院新闻"
     },
     {
-      "title": "【创新竞赛】第十二届中国研究生智慧城市技术与创意设计大赛报名启动！",
-      "url": "https://mp.weixin.qq.com/s/QqzMDj-fcYgXnL2hqeX1xA",
-      "date": "2026-07-06",
-      "column": "学院新闻"
-    },
-    {
       "title": "关于第111次校学位评定委员会会前准备工作的通知",
       "url": "https://ece.shu.edu.cn/info/1304/89104.htm",
       "date": "2026-07-03",
       "column": "研究生教学"
-    },
-    {
-      "title": "我院开展树立和践行正确政绩观专题党课暨警示教育会",
-      "url": "https://ece.shu.edu.cn/info/1149/89074.htm",
-      "date": "2026-07-02",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院与微电子学院开展树立和践行正确政绩观联组学习",
-      "url": "https://ece.shu.edu.cn/info/1149/89094.htm",
-      "date": "2026-07-02",
-      "column": "学院新闻"
     },
     {
       "title": "2026届毕业研究生毕业证、学位证领取通知",

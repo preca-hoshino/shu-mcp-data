@@ -2,11 +2,11 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260728_013050",
-  "total_articles": 1680,
+  "crawl_time": "20260728_050605",
+  "total_articles": 1681,
   "columns": {
     "学术动态": 88,
-    "学院新闻": 1111,
+    "学院新闻": 1112,
     "报告讲座": 133,
     "科研动态": 33,
     "通知公告(教师)": 30,
@@ -14,6 +14,12 @@
     "通知公告(研究生)": 176
   },
   "articles": [
+    {
+      "title": "材料学院本科生在2026年中国大学生机械工程创新创意大赛​——第十一届失效分析赛全国总决赛...",
+      "url": "https://mat.shu.edu.cn/info/1012/30798.htm",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
     {
       "title": "材料学院2026暑假值班安排",
       "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1018&wbnewsid=30778",
