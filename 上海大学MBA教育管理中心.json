@@ -2,14 +2,26 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260728_050605",
-  "total_articles": 621,
+  "crawl_time": "20260728_085709",
+  "total_articles": 622,
   "columns": {
     "焦点新闻": 370,
-    "论坛活动": 188,
+    "论坛活动": 189,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2026年暑假留宿报备的通知及注意事项",
+      "url": "https://mba.shu.edu.cn/info/1024/27191.htm",
+      "date": "2026-07-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "师者嘉言励前行|上海大学MBA中心2026年春季学期圆满收官",
+      "url": "https://mp.weixin.qq.com/s/eHpBFGyt9T6mgUrbZtemnA",
+      "date": "2026-07-28",
+      "column": "论坛活动"
+    },
     {
       "title": "上大MBA360°职业洞察营8月15日线上专场报名进行中",
       "url": "https://mp.weixin.qq.com/s/8X7bLbslUv2IIKXnGUBriA",
@@ -247,12 +259,6 @@
     {
       "title": "关于上海大学MBA中心2026届毕业典礼报名的通知",
       "url": "https://mba.shu.edu.cn/info/1024/26701.htm",
-      "date": "2026-06-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "招生动态|上大MBA项目招生宣讲会（6月2日-7日）",
-      "url": "https://mp.weixin.qq.com/s/32EhL3fTDAHT0vHLyN-sTg",
       "date": "2026-06-01",
       "column": "通知公告"
     },
