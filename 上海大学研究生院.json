@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260729_050654",
-  "total_articles": 112,
+  "crawl_time": "20260729_085916",
+  "total_articles": 113,
   "columns": {
     "国际交流": 44,
     "培养管理": 19,
     "学位工作": 28,
     "招生信息": 14,
-    "综合新闻": 7
+    "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "研究生院2025-2026学年暑假值班安排",
+      "url": "https://gs.shu.edu.cn/info/1027/173172.htm",
+      "date": "2026-07-29",
+      "column": "综合新闻"
+    },
     {
       "title": "关于第112次校学位评定委员会会前准备工作的通知",
       "url": "https://gs.shu.edu.cn/info/1031/173142.htm",
