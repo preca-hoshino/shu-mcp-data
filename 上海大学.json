@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260729_013111",
+  "crawl_time": "20260729_050654",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "我校召开2026年产教研协同育人团队交流会",
+      "url": "https://www.shu.edu.cn/info/1053/399685.htm",
+      "date": "2026-07-29",
+      "column": "重要新闻"
+    },
+    {
+      "title": "校企协同育匠心 产教融合促发展——环化学院携手上海环境危废事业部深化产学研协同创新合作",
+      "url": "https://www.shu.edu.cn/info/1056/399695.htm",
+      "date": "2026-07-29",
+      "column": "综合新闻"
+    },
     {
       "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
       "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
@@ -94,12 +106,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399495.htm",
       "date": "2026-07-23",
       "column": "科研动态"
-    },
-    {
-      "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治党专题警示教育会",
-      "url": "https://www.shu.edu.cn/info/1056/399505.htm",
-      "date": "2026-07-23",
-      "column": "综合新闻"
     },
     {
       "title": "越南科学技术部部长武海军一行访问上海大学",
@@ -201,12 +207,6 @@
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
       "date": "2026-06-24",
-      "column": "重要新闻"
-    },
-    {
-      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
-      "url": "https://www.shu.edu.cn/info/1053/397145.htm",
-      "date": "2026-06-18",
       "column": "重要新闻"
     },
     {
