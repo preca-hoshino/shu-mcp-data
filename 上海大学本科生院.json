@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260728_124042",
+  "crawl_time": "20260729_013111",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -44,12 +44,6 @@
       "title": "上海大学课程思政教育教学改革研究项目2026年结项情况",
       "url": "https://bksy.shu.edu.cn/info/1015/321414.htm",
       "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2026年本科生转专业拟录取名单的公示",
-      "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321334",
-      "date": "2026-07-24",
       "column": "通知公告"
     },
     {
@@ -146,6 +140,12 @@
       "title": "本科生院关于表彰2026届本科优秀毕业论文（设计）的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321004.htm",
       "date": "2026-06-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学本科毕业生离校前下载成绩证明的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/320964.htm",
+      "date": "2026-06-16",
       "column": "通知公告"
     },
     {

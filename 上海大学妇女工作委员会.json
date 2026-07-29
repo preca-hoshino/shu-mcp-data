@@ -2,13 +2,25 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20260728_124042",
-  "total_articles": 473,
+  "crawl_time": "20260729_013111",
+  "total_articles": 475,
   "columns": {
-    "新闻动态": 459,
-    "通知公告": 14
+    "新闻动态": 460,
+    "通知公告": 15
   },
   "articles": [
+    {
+      "title": "亲子相伴 悦读一夏——泮池家长学校暑期亲子共读活动报名通知",
+      "url": "https://mp.weixin.qq.com/s/Bkr65arOaiUZGgi65UEcQA",
+      "date": "2026-07-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "活动回顾|第四十四期泮池家长学校亲子研学活动顺利举办",
+      "url": "https://mp.weixin.qq.com/s/91UbU7oYIge-Br1t7lqvtw",
+      "date": "2026-07-21",
+      "column": "新闻动态"
+    },
     {
       "title": "活动预告|第四十四期泮池家长学校（亲子研学）活动预告",
       "url": "https://mp.weixin.qq.com/s/Y5noXrwp_hpTq3HZP_ayag",

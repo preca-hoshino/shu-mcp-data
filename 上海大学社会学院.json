@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260728_124042",
-  "total_articles": 2572,
+  "crawl_time": "20260729_013111",
+  "total_articles": 2573,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
-    "学术动态": 561,
+    "学术动态": 562,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
@@ -16,6 +16,12 @@
     "通知公告": 48
   },
   "articles": [
+    {
+      "title": "第15届应用社会科学研究方法研修班基础班顺利结业",
+      "url": "https://sociology.shu.edu.cn/info/1104/43148.htm",
+      "date": "2026-07-28",
+      "column": "学术动态"
+    },
     {
       "title": "会议综述|中国社会学会2026年学术年会消费社会学论坛成功举办",
       "url": "https://sociology.shu.edu.cn/info/1104/43098.htm",

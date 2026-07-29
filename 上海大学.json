@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260728_124042",
+  "crawl_time": "20260729_013111",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
+      "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
+      "date": "2026-07-28",
+      "column": "重要新闻"
+    },
     {
       "title": "材料基因组工程研究院张统一院士团队牵头研发科学领域贝叶斯优化框架Bgolearn，加速新材料发现",
       "url": "https://www.shu.edu.cn/info/1055/399595.htm",
@@ -195,12 +201,6 @@
       "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
       "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
       "date": "2026-06-24",
-      "column": "重要新闻"
-    },
-    {
-      "title": "钢铁行业知识产权纠纷调解中心成立仪式暨第二届东方国际商事调解研讨会在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1053/397135.htm",
-      "date": "2026-06-18",
       "column": "重要新闻"
     },
     {
