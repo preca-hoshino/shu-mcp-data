@@ -2,17 +2,23 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20260730_050445",
-  "total_articles": 391,
+  "crawl_time": "20260730_085622",
+  "total_articles": 392,
   "columns": {
     "人才工作": 17,
     "党建工作": 51,
     "党校工作": 211,
     "基层风采": 29,
-    "干部工作": 54,
+    "干部工作": 55,
     "理论学习": 29
   },
   "articles": [
+    {
+      "title": "关于选派优秀中青年干部到奉贤区实践锻炼的通知",
+      "url": "https://zzb.shu.edu.cn/info/1011/8451.htm",
+      "date": "2026-07-30",
+      "column": "干部工作"
+    },
     {
       "title": "上海大学召开树立和践行正确政绩观学习教育工作专班第五次会议",
       "url": "https://zzb.shu.edu.cn/info/1016/8371.htm",

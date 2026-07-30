@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260730_050445",
-  "total_articles": 416,
+  "crawl_time": "20260730_085622",
+  "total_articles": 417,
   "columns": {
     "学术报告": 137,
     "科研动态": 76,
     "综合新闻": 46,
-    "通知公告": 157
+    "通知公告": 158
   },
   "articles": [
+    {
+      "title": "2026年材料基因组工程研究院暑假值班表",
+      "url": "https://mgi.shu.edu.cn/info/1062/7455.htm",
+      "date": "2026-07-30",
+      "column": "通知公告"
+    },
     {
       "title": "2026年材料基因组工程研究院教职工年度考核优秀人员公示",
       "url": "https://mgi.shu.edu.cn/info/1062/7415.htm",
