@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260729_124442",
-  "total_articles": 2573,
+  "crawl_time": "20260730_013042",
+  "total_articles": 2574,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
@@ -13,9 +13,15 @@
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 882,
-    "通知公告": 48
+    "通知公告": 49
   },
   "articles": [
+    {
+      "title": "社会学院2025-2026学年暑假值班安排表",
+      "url": "https://sociology.shu.edu.cn/info/1103/43128.htm",
+      "date": "2026-07-30",
+      "column": "通知公告"
+    },
     {
       "title": "第15届应用社会科学研究方法研修班基础班顺利结业",
       "url": "https://sociology.shu.edu.cn/info/1104/43148.htm",

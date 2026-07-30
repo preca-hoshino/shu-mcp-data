@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260729_124442",
+  "crawl_time": "20260730_013042",
   "total_articles": 571,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于发布京津冀环境综合治理国家科技重大专项2027年度第一批“揭榜挂帅”项目榜单的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12092.htm",
+      "date": "2026-07-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布京津冀环境综合治理国家科技重大专项2027年度第一批公开竞争择优项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12102.htm",
+      "date": "2026-07-30",
+      "column": "通知公告"
+    },
     {
       "title": "关于开展2026年度第二批上海市城市数字化转型专项资金项目申报的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12082.htm",
@@ -196,18 +208,6 @@
       "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
       "date": "2026-07-08",
       "column": "科技动态"
-    },
-    {
-      "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第二批项目的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11752.htm",
-      "date": "2026-07-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年度上海市白玉兰人才计划浦江项目申请工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11742.htm",
-      "date": "2026-07-03",
-      "column": "通知公告"
     },
     {
       "title": "2025年度上海市科学技术奖公布，来看获奖名单→",
