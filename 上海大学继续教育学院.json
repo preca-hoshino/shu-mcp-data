@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260730_013042",
-  "total_articles": 1770,
+  "crawl_time": "20260730_050445",
+  "total_articles": 1771,
   "columns": {
     "学院新闻": 541,
-    "招生热讯": 73,
+    "招生热讯": 74,
     "通知公告": 1156
   },
   "articles": [
+    {
+      "title": "2026市民艺术夜校（上海大学教学点）秋季班 招生简章",
+      "url": "https://cce.shu.edu.cn/info/1013/20694.htm",
+      "date": "2026-07-30",
+      "column": "招生热讯"
+    },
     {
       "title": "深学七一讲话精神 践行正确政绩观 抓实学生数字档案管理 ——学校档案馆莅临继续教育学院开展档案工作专项指导",
       "url": "https://cce.shu.edu.cn/info/1550/20664.htm",
