@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260730_123755",
+  "crawl_time": "20260731_013120",
   "total_articles": 571,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "国家能源局关于发布智能电网国家科技重大专项基础支撑自主化关键技术公开项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12122.htm",
+      "date": "2026-07-31",
+      "column": "通知公告"
+    },
     {
       "title": "关于发布京津冀环境综合治理国家科技重大专项2027年度第一批“揭榜挂帅”项目榜单的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12092.htm",
@@ -189,12 +195,6 @@
       "title": "上海市经济信息化委关于组织开展农业领域机器人典型应用场景遴选工作的通知",
       "url": "https://www.sheitc.sh.gov.cn/cyfz/20260708/5e6e9bcf1c424726bd27df30e6d88e54.html",
       "date": "2026-07-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "国家文物局关于组织开展第九批国家文物局重点科研基地申报工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11772.htm",
-      "date": "2026-07-08",
       "column": "通知公告"
     },
     {

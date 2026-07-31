@@ -2,18 +2,24 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260730_123755",
-  "total_articles": 1683,
+  "crawl_time": "20260731_013120",
+  "total_articles": 1682,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1112,
     "报告讲座": 133,
     "科研动态": 33,
-    "通知公告(教师)": 30,
+    "通知公告(教师)": 28,
     "通知公告(本科生)": 109,
-    "通知公告(研究生)": 176
+    "通知公告(研究生)": 177
   },
   "articles": [
+    {
+      "title": "毕业证领取通知（20260731）",
+      "url": "https://mat.shu.edu.cn/info/1019/30818.htm",
+      "date": "2026-07-31",
+      "column": "通知公告(研究生)"
+    },
     {
       "title": "材料学院本科生在2026年中国大学生机械工程创新创意大赛​——第十一届失效分析赛全国总决赛...",
       "url": "https://mat.shu.edu.cn/info/1012/30798.htm",
@@ -55,12 +61,6 @@
       "url": "https://mat.shu.edu.cn/info/1016/30748.htm",
       "date": "2026-07-24",
       "column": "科研动态"
-    },
-    {
-      "title": "干部任前公示 20260723",
-      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30728",
-      "date": "2026-07-23",
-      "column": "通知公告(教师)"
     },
     {
       "title": "以赛促学砺真知，校企协同育新人——上海大学第七届“瑞侃杯”高分子基础知识竞赛颁奖典礼圆...",
@@ -9749,12 +9749,6 @@
     {
       "title": "关于张夏聪等4人中级专业技术职务聘任结果的通知",
       "url": "https://mat.shu.edu.cn/info/1020/1241.htm",
-      "date": "2019-04-18",
-      "column": "通知公告(教师)"
-    },
-    {
-      "title": "关于开展2019年百千万人才工程国家级人选选拔工作的通知",
-      "url": "https://mat.shu.edu.cn/info/1020/1242.htm",
       "date": "2019-04-18",
       "column": "通知公告(教师)"
     },
