@@ -2,13 +2,25 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260731_090215",
-  "total_articles": 456,
+  "crawl_time": "20260731_124135",
+  "total_articles": 458,
   "columns": {
     "后勤新闻": 320,
-    "通知公告": 136
+    "通知公告": 138
   },
   "articles": [
+    {
+      "title": "上海大学宝山校区图书馆磁悬浮冷水机组1#压缩机维修服务公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10586.htm",
+      "date": "2026-07-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年餐饮管理中心嘉定校区一食堂二楼餐厅低值易耗品采购项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10596.htm",
+      "date": "2026-07-31",
+      "column": "通知公告"
+    },
     {
       "title": "物业管理中心2026年宿舍维修专项（100万以下）项目过程评估服务采购公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10486.htm",
