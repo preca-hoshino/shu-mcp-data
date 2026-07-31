@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260731_051251",
+  "crawl_time": "20260731_090215",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "我校召开综改任务落实推进会",
+      "url": "https://www.shu.edu.cn/info/1053/399865.htm",
+      "date": "2026-07-31",
+      "column": "重要新闻"
+    },
     {
       "title": "党建引领促合作 产教融合谋发展——生命学院赴临港奉贤平台开展调研签约活动",
       "url": "https://www.shu.edu.cn/info/1056/399795.htm",
@@ -26,6 +32,12 @@
     {
       "title": "马克思主义学院“青马之声”宣讲团赴疆 开展“沪喀同心·青春理享会”系列活动",
       "url": "https://www.shu.edu.cn/info/1056/399815.htm",
+      "date": "2026-07-31",
+      "column": "综合新闻"
+    },
+    {
+      "title": "排查隐患守底线 平安护航度暑期——学校开展2026年暑假前安全检查",
+      "url": "https://www.shu.edu.cn/info/1056/399825.htm",
       "date": "2026-07-31",
       "column": "综合新闻"
     },
@@ -76,12 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399595.htm",
       "date": "2026-07-28",
       "column": "科研动态"
-    },
-    {
-      "title": "2026年上海市青少年科学研究院、青少年工程院联合开学典礼在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/399625.htm",
-      "date": "2026-07-28",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学马克思主义学院与上海电机学院马克思主义学院开展理论学习中心组联组学习",
@@ -201,12 +207,6 @@
       "title": "我校召开2026年院长工作会议",
       "url": "https://www.shu.edu.cn/info/1053/397565.htm",
       "date": "2026-06-25",
-      "column": "重要新闻"
-    },
-    {
-      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
-      "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
-      "date": "2026-06-24",
       "column": "重要新闻"
     },
     {

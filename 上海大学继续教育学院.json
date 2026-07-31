@@ -2,14 +2,38 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260731_051251",
-  "total_articles": 1771,
+  "crawl_time": "20260731_090215",
+  "total_articles": 1775,
   "columns": {
-    "学院新闻": 541,
-    "招生热讯": 74,
+    "学院新闻": 544,
+    "招生热讯": 75,
     "通知公告": 1156
   },
   "articles": [
+    {
+      "title": "上海大学高等学历继续教育艺术类专业考试要求",
+      "url": "https://cce.shu.edu.cn/info/1013/20724.htm",
+      "date": "2026-07-31",
+      "column": "招生热讯"
+    },
+    {
+      "title": "织密校外办学监督网 筑牢继续教育廉洁防线 ——学院召开校外教学点廉洁监督专题会议",
+      "url": "https://cce.shu.edu.cn/info/1550/20734.htm",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "聚力职业发展 赋能学子成长——继续教育学院举行“职业生涯拓展平台”建设启动仪式",
+      "url": "https://cce.shu.edu.cn/info/1550/20744.htm",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "宁波市中华职业教育社委员履职能力提升研修班顺利结业",
+      "url": "https://cce.shu.edu.cn/info/1550/20754.htm",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
     {
       "title": "2026市民艺术夜校（上海大学教学点）秋季班 招生简章",
       "url": "https://cce.shu.edu.cn/info/1013/20694.htm",

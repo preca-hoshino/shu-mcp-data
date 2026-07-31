@@ -2,13 +2,19 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20260731_051251",
-  "total_articles": 47,
+  "crawl_time": "20260731_090215",
+  "total_articles": 48,
   "columns": {
-    "通知公告": 37,
+    "通知公告": 38,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "房屋资产管理处2026年暑假值班安排",
+      "url": "https://zcb.shu.edu.cn/info/1017/4405.htm",
+      "date": "2026-07-31",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学便利店、食品（烘焙）店及饮品店服务用房招租项目包件二、三招租失败公告",
       "url": "https://zcb.shu.edu.cn/info/1017/4415.htm",

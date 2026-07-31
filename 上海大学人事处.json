@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260731_051251",
-  "total_articles": 174,
+  "crawl_time": "20260731_090215",
+  "total_articles": 175,
   "columns": {
-    "新闻公告": 174
+    "新闻公告": 175
   },
   "articles": [
+    {
+      "title": "关于开展上海大学2026年第二批次教师专业实践能力提升计划申请工作的通知",
+      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8369",
+      "date": "2026-07-31",
+      "column": "新闻公告"
+    },
     {
       "title": "上海大学2026年暑假组织人事部值班安排",
       "url": "https://hr.shu.edu.cn/info/1029/8349.htm",

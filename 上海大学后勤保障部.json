@@ -2,11 +2,11 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260731_051251",
-  "total_articles": 457,
+  "crawl_time": "20260731_090215",
+  "total_articles": 456,
   "columns": {
     "后勤新闻": 320,
-    "通知公告": 137
+    "通知公告": 136
   },
   "articles": [
     {
@@ -67,12 +67,6 @@
       "title": "上海大学(宝山校区)通信基站招租项目（三年） 包件四、六、九 招租失败公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10576.htm",
       "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学便利店、食品（烘焙）店及饮品店服务用房招租项目 招租公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10476.htm",
-      "date": "2026-07-13",
       "column": "通知公告"
     },
     {
