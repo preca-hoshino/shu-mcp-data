@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260731_013120",
-  "total_articles": 622,
+  "crawl_time": "20260731_051251",
+  "total_articles": 623,
   "columns": {
     "焦点新闻": 370,
-    "论坛活动": 189,
+    "论坛活动": 190,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "一流企业专业方向《数字化转型与智能组织变革》课堂教学与实践",
+      "url": "https://mp.weixin.qq.com/s/zu-zwcWje613Xg826SPRmw",
+      "date": "2026-07-31",
+      "column": "论坛活动"
+    },
     {
       "title": "关于2026年暑假留宿报备的通知及注意事项",
       "url": "https://mba.shu.edu.cn/info/1024/27191.htm",

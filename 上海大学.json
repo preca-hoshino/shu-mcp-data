@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260731_013120",
+  "crawl_time": "20260731_051251",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "党建引领促合作 产教融合谋发展——生命学院赴临港奉贤平台开展调研签约活动",
+      "url": "https://www.shu.edu.cn/info/1056/399795.htm",
+      "date": "2026-07-31",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学×鹊秘堂“品牌创意传播实训项目”顺利收官",
+      "url": "https://www.shu.edu.cn/info/1056/399805.htm",
+      "date": "2026-07-31",
+      "column": "综合新闻"
+    },
+    {
+      "title": "马克思主义学院“青马之声”宣讲团赴疆 开展“沪喀同心·青春理享会”系列活动",
+      "url": "https://www.shu.edu.cn/info/1056/399815.htm",
+      "date": "2026-07-31",
+      "column": "综合新闻"
+    },
     {
       "title": "环化学院李珍研究员课题组在《Advanced Functional Materials》上发表研究论文",
       "url": "https://www.shu.edu.cn/info/1055/399765.htm",
@@ -60,18 +78,6 @@
       "column": "科研动态"
     },
     {
-      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学习研讨会",
-      "url": "https://www.shu.edu.cn/info/1056/399575.htm",
-      "date": "2026-07-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
-      "url": "https://www.shu.edu.cn/info/1056/399585.htm",
-      "date": "2026-07-28",
-      "column": "综合新闻"
-    },
-    {
       "title": "2026年上海市青少年科学研究院、青少年工程院联合开学典礼在上海大学举行",
       "url": "https://www.shu.edu.cn/info/1056/399625.htm",
       "date": "2026-07-28",
@@ -94,12 +100,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399525.htm",
       "date": "2026-07-27",
       "column": "科研动态"
-    },
-    {
-      "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
-      "url": "https://www.shu.edu.cn/info/1056/399555.htm",
-      "date": "2026-07-27",
-      "column": "综合新闻"
     },
     {
       "title": "关于征集第28届中国国际高新技术成果交易会参展项目的通知",

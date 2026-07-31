@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260731_013120",
+  "crawl_time": "20260731_051251",
   "total_articles": 991,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,18 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "【党建|“绿漾”宣讲团】“绿漾”带小朋友们解锁护水知识！",
+      "url": "https://mp.weixin.qq.com/s/Hsw4hMTrQajq7_yOCGjQzg",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【社会实践】旧物焕新・邻里共生——“绿萤”社会实践队走进昱翠家苑开展社区环保工作坊活动",
+      "url": "https://mp.weixin.qq.com/s/lmxsqJ57bG1hOtCHdQ_FOA",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
     {
       "title": "我院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
       "url": "https://ece.shu.edu.cn/info/1149/89494.htm",
@@ -176,12 +188,6 @@
       "column": "科研动态"
     },
     {
-      "title": "【党建】绿漾心间・情系陇原｜上海大学2026公益捐树活动圆满收官",
-      "url": "https://mp.weixin.qq.com/s/gIFqkvKgI7yl10mdmnCxvw",
-      "date": "2026-07-07",
-      "column": "学院新闻"
-    },
-    {
       "title": "关于做好2026年教职工年度考核工作的通知",
       "url": "https://ece.shu.edu.cn/info/1147/89134.htm",
       "date": "2026-07-06",
@@ -192,12 +198,6 @@
       "url": "https://ece.shu.edu.cn/info/1147/89144.htm",
       "date": "2026-07-06",
       "column": "通知公告"
-    },
-    {
-      "title": "【创新竞赛】第五届中国研究生“双碳”创新与创意大赛开启报名！",
-      "url": "https://mp.weixin.qq.com/s/LWmC63EfHpBsJjW5xyIXOw",
-      "date": "2026-07-06",
-      "column": "学院新闻"
     },
     {
       "title": "关于第111次校学位评定委员会会前准备工作的通知",
