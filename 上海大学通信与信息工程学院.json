@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260801_013129",
-  "total_articles": 2022,
+  "crawl_time": "20260801_050720",
+  "total_articles": 2023,
   "columns": {
     "学术报告": 523,
     "教学信息": 21,
-    "新闻动态": 1262,
+    "新闻动态": 1263,
     "通知公告": 216
   },
   "articles": [
+    {
+      "title": "通信与信息工程学院召开干部宣布大会",
+      "url": "https://scie.shu.edu.cn/info/1064/46875.htm",
+      "date": "2026-08-01",
+      "column": "新闻动态"
+    },
     {
       "title": "通信学院信息系党总支联合行政管理直属党支部赴上海工匠馆开展主题研学",
       "url": "https://scie.shu.edu.cn/info/1064/46795.htm",
