@@ -2,15 +2,22 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260801_084739",
-  "total_articles": 23,
+  "crawl_time": "20260801_122445",
+  "total_articles": 24,
   "columns": {
+    "开放课题": 1,
     "招生招聘": 1,
     "新闻资讯": 9,
     "研究成果": 5,
     "通知公告": 8
   },
   "articles": [
+    {
+      "title": "核电关键材料全国重点实验室2026年开放课题申请指南",
+      "url": "https://skl4nm.shu.edu.cn/info/1071/1841.htm",
+      "date": "2026-08-01",
+      "column": "开放课题"
+    },
     {
       "title": "2026年暑假值班表",
       "url": "https://skl4nm.shu.edu.cn/info/1031/1831.htm",
