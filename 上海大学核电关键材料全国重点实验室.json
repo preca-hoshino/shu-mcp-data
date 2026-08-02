@@ -2,16 +2,22 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260802_013144",
-  "total_articles": 24,
+  "crawl_time": "20260802_050701",
+  "total_articles": 25,
   "columns": {
     "开放课题": 1,
     "招生招聘": 1,
     "新闻资讯": 9,
     "研究成果": 5,
-    "通知公告": 8
+    "通知公告": 9
   },
   "articles": [
+    {
+      "title": "上海大学核电关键材料全国重点实验室“兴邦奖学金”评定条例",
+      "url": "https://skl4nm.shu.edu.cn/info/1031/1851.htm",
+      "date": "2026-08-01",
+      "column": "通知公告"
+    },
     {
       "title": "核电关键材料全国重点实验室2026年开放课题申请指南",
       "url": "https://skl4nm.shu.edu.cn/info/1071/1841.htm",

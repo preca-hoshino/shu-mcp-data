@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260802_013144",
-  "total_articles": 369,
+  "crawl_time": "20260802_050701",
+  "total_articles": 370,
   "columns": {
     "学术动态": 34,
     "新闻快递": 313,
-    "研究成果": 22
+    "研究成果": 23
   },
   "articles": [
+    {
+      "title": "行业著名《连铸》重磅推出PMO技术专栏",
+      "url": "https://cast.shu.edu.cn/info/1043/4161.htm",
+      "date": "2026-08-02",
+      "column": "研究成果"
+    },
     {
       "title": "第一期象屿CAST奖学金颁奖仪式暨象屿集团—上大CAST人才培养与技术交流会顺利举行",
       "url": "https://cast.shu.edu.cn/info/1042/4151.htm",
