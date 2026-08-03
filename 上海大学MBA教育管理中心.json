@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260803_051604",
-  "total_articles": 623,
+  "crawl_time": "20260803_090855",
+  "total_articles": 624,
   "columns": {
     "焦点新闻": 370,
-    "论坛活动": 190,
+    "论坛活动": 191,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "海外商业学习之旅｜踏足沙巴，探寻蓝色经济与可持续发展之路",
+      "url": "https://mp.weixin.qq.com/s/IjuVXibjlrGQqSqk0hkuPQ",
+      "date": "2026-08-03",
+      "column": "论坛活动"
+    },
     {
       "title": "一流企业专业方向《数字化转型与智能组织变革》课堂教学与实践",
       "url": "https://mp.weixin.qq.com/s/zu-zwcWje613Xg826SPRmw",
