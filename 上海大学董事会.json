@@ -2,12 +2,30 @@
   "domain": "xdh.shu.edu.cn",
   "department": "上海大学董事会",
   "type": "28",
-  "crawl_time": "20260513_175610",
-  "total_articles": 52,
+  "crawl_time": "20260803_051604",
+  "total_articles": 55,
   "columns": {
-    "新闻动态": 52
+    "新闻动态": 55
   },
   "articles": [
+    {
+      "title": "林毅夫校董来校出席《新结构经济学刊》系列研讨会2026-06-06了解更多",
+      "url": "https://xdh.shu.edu.cn/info/1003/2034.htm",
+      "date": "2026-06-06",
+      "column": "新闻动态"
+    },
+    {
+      "title": "宋治平校董带队研学，走近吉林百亿级绿色航油项目2026-04-29了解更多",
+      "url": "https://xdh.shu.edu.cn/info/1003/2044.htm",
+      "date": "2026-04-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上大校董两会履职 建言资政共谋发展2026-02-10了解更多",
+      "url": "https://xdh.shu.edu.cn/info/1003/2084.htm",
+      "date": "2026-02-10",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学第三届董事会第五次全体会议召开2025-12-16了解更多",
       "url": "https://xdh.shu.edu.cn/info/1003/2004.htm",

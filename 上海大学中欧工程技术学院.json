@@ -2,12 +2,18 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260803_013126",
-  "total_articles": 35,
+  "crawl_time": "20260803_051604",
+  "total_articles": 36,
   "columns": {
-    "重要新闻": 35
+    "重要新闻": 36
   },
   "articles": [
+    {
+      "title": "深耕法语研学 融通中法文化：中欧工程技术学院赴法暑期夏令营圆满落幕",
+      "url": "https://utseus.shu.edu.cn/info/1009/6146.htm",
+      "date": "2026-08-03",
+      "column": "重要新闻"
+    },
     {
       "title": "深学细悟校准政绩坐标 实地研学筑牢实干根基 ——中欧学院教工党支部组织开展“七一”主题党日活动",
       "url": "https://utseus.shu.edu.cn/info/1009/6136.htm",
