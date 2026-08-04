@@ -2,26 +2,14 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260803_130623",
-  "total_articles": 699,
+  "crawl_time": "20260804_013119",
+  "total_articles": 695,
   "columns": {
     "学术报告": 217,
     "最新动态": 371,
-    "通知公告": 111
+    "通知公告": 107
   },
   "articles": [
-    {
-      "title": "钱伟长学院2026年教职工年度考核拟优秀名单公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/8369.htm",
-      "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "钱伟长学院2026年伟长金牛奖教金名单公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/8389.htm",
-      "date": "2026-07-27",
-      "column": "通知公告"
-    },
     {
       "title": "钱伟长学院举办2026年本硕博一体化培养宣讲会",
       "url": "https://qwc.shu.edu.cn/info/1087/8359.htm",
@@ -4075,18 +4063,6 @@
     {
       "title": "钱伟长学院2015暑期社会实践校级立项情况公示",
       "url": "https://qwc.shu.edu.cn/info/1086/2167.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "第四届钱伟长教育思想学生宣讲团名单公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2168.htm",
-      "date": "2015-06-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于第四届共青团上海大学钱伟长学院委员会、 第九届钱伟长学院学生委员会的公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/2169.htm",
       "date": "2015-06-29",
       "column": "通知公告"
     },
