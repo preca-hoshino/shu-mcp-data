@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260804_050558",
-  "total_articles": 624,
+  "crawl_time": "20260804_085826",
+  "total_articles": 625,
   "columns": {
     "焦点新闻": 370,
-    "论坛活动": 191,
+    "论坛活动": 192,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "精研案例，实战练兵——上海大学MBA中心全力备战全国管理案例精英赛",
+      "url": "https://mp.weixin.qq.com/s/NCncSMaSpCfluNFvS9VyOA",
+      "date": "2026-08-04",
+      "column": "论坛活动"
+    },
     {
       "title": "海外商业学习之旅｜踏足沙巴，探寻蓝色经济与可持续发展之路",
       "url": "https://mp.weixin.qq.com/s/IjuVXibjlrGQqSqk0hkuPQ",
