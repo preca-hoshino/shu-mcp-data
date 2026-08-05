@@ -2,14 +2,50 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260805_013132",
-  "total_articles": 794,
+  "crawl_time": "20260805_050600",
+  "total_articles": 800,
   "columns": {
     "学术活动": 201,
-    "学院新闻": 80,
+    "学院新闻": 86,
     "重要通知": 513
   },
   "articles": [
+    {
+      "title": "校企协同 产教育人——管理学院管理科学专业赴五锐金属集团开展暑期岗位...",
+      "url": "https://ms.shu.edu.cn/info/1244/92345.htm",
+      "date": "2026-08-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "产教融合探前沿 数智赋能育新才——上海大学管理学院师生 赴迈富时集团...",
+      "url": "https://ms.shu.edu.cn/info/1244/92355.htm",
+      "date": "2026-08-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "产业专家进校园 前沿认知促成长——管理学院工商管理系专业认识系列讲座...",
+      "url": "https://ms.shu.edu.cn/info/1244/92365.htm",
+      "date": "2026-08-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "从国潮品牌到智能工厂：管理学院工商管理专业学子探访产业一线开展认识实习",
+      "url": "https://ms.shu.edu.cn/info/1244/92375.htm",
+      "date": "2026-08-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "对话实体企业 触摸智媒前沿——上海大学管理学院开展产教融合系列参观研...",
+      "url": "https://ms.shu.edu.cn/info/1244/92385.htm",
+      "date": "2026-08-05",
+      "column": "学院新闻"
+    },
+    {
+      "title": "走进AI产业前沿 触摸商业新脉搏——管理学院工商管理系开展系列企业现场...",
+      "url": "https://ms.shu.edu.cn/info/1244/92395.htm",
+      "date": "2026-08-05",
+      "column": "学院新闻"
+    },
     {
       "title": "征稿通知|第三届清华数字经济潮涌论坛暨2026工业工程、创新创业与产业生...",
       "url": "https://ms.shu.edu.cn/info/1245/92335.htm",
