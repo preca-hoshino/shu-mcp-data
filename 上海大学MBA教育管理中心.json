@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260805_050600",
-  "total_articles": 625,
+  "crawl_time": "20260805_085735",
+  "total_articles": 626,
   "columns": {
-    "焦点新闻": 370,
+    "焦点新闻": 371,
     "论坛活动": 192,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "2026级SHUMBAer学习进度条刷新：研究生Online",
+      "url": "https://mp.weixin.qq.com/s/UCpY66OfjaIrUUegw7ie6Q",
+      "date": "2026-08-05",
+      "column": "焦点新闻"
+    },
     {
       "title": "精研案例，实战练兵——上海大学MBA中心全力备战全国管理案例精英赛",
       "url": "https://mp.weixin.qq.com/s/NCncSMaSpCfluNFvS9VyOA",
