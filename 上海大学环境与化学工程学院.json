@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260804_124152",
+  "crawl_time": "20260805_013132",
   "total_articles": 991,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "以赛促学育新人 凝心聚力创佳绩——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导教师动员座谈会",
+      "url": "https://ece.shu.edu.cn/info/1149/89544.htm",
+      "date": "2026-08-04",
+      "column": "学院新闻"
+    },
     {
       "title": "【党建|“绿漾”宣讲团】“绿漾”带小朋友们解锁护水知识！",
       "url": "https://mp.weixin.qq.com/s/Hsw4hMTrQajq7_yOCGjQzg",
@@ -162,12 +168,6 @@
       "url": "https://ece.shu.edu.cn/info/1303/89264.htm",
       "date": "2026-07-10",
       "column": "本科生教学"
-    },
-    {
-      "title": "【就业创业】2026年“职闯未来”训练营第五期预告来啦！",
-      "url": "https://mp.weixin.qq.com/s/U00Be3W1KvrezPjFwC3kQw",
-      "date": "2026-07-09",
-      "column": "学院新闻"
     },
     {
       "title": "【班级建设】“化”润初心，“工”行致远——2025级化学工程与工艺专业新生见面会顺利举行",
