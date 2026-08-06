@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260805_123942",
+  "crawl_time": "20260806_035600",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”AI短片！奔赴创意新开场",
+      "url": "https://www.shu.edu.cn/info/1056/399875.htm",
+      "date": "2026-08-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
+      "url": "https://mp.weixin.qq.com/s/4WmJ7ODzfLywFlrB5QnDKw",
+      "date": "2026-08-01",
+      "column": "重要新闻"
+    },
     {
       "title": "我校召开综改任务落实推进会",
       "url": "https://www.shu.edu.cn/info/1053/399865.htm",
@@ -88,12 +100,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399595.htm",
       "date": "2026-07-28",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学马克思主义学院与上海电机学院马克思主义学院开展理论学习中心组联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/399645.htm",
-      "date": "2026-07-28",
-      "column": "综合新闻"
     },
     {
       "title": "第三届爱尔兰文学研讨会在沪举行 中爱学者共话鲁迅与萧伯纳“半席之约”",
@@ -201,12 +207,6 @@
       "title": "上海大学2026年毕业典礼举行",
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
       "date": "2026-06-27",
-      "column": "重要新闻"
-    },
-    {
-      "title": "我校召开2026年院长工作会议",
-      "url": "https://www.shu.edu.cn/info/1053/397565.htm",
-      "date": "2026-06-25",
       "column": "重要新闻"
     },
     {
