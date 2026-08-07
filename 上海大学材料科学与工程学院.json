@@ -2,18 +2,24 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260807_053943",
-  "total_articles": 1683,
+  "crawl_time": "20260807_085530",
+  "total_articles": 1684,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
     "报告讲座": 133,
-    "科研动态": 33,
+    "科研动态": 34,
     "通知公告(教师)": 28,
     "通知公告(本科生)": 109,
     "通知公告(研究生)": 177
   },
   "articles": [
+    {
+      "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界...",
+      "url": "https://mat.shu.edu.cn/info/1016/30858.htm",
+      "date": "2026-08-07",
+      "column": "科研动态"
+    },
     {
       "title": "船用缸套铸造技术专栏重磅刊发《铸造工程》—— 上海大学先进凝固技术中心攻坚船舶动力核心部...",
       "url": "https://mat.shu.edu.cn/info/1012/30848.htm",
