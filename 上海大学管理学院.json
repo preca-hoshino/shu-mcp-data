@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260806_140735",
-  "total_articles": 800,
+  "crawl_time": "20260807_034154",
+  "total_articles": 801,
   "columns": {
     "学术活动": 201,
-    "学院新闻": 86,
+    "学院新闻": 87,
     "重要通知": 513
   },
   "articles": [
+    {
+      "title": "我院MEM学生在第十届上海市工程管理创新大赛中斩获佳绩",
+      "url": "https://ms.shu.edu.cn/info/1244/92405.htm",
+      "date": "2026-08-07",
+      "column": "学院新闻"
+    },
     {
       "title": "校企协同 产教育人——管理学院管理科学专业赴五锐金属集团开展暑期岗位...",
       "url": "https://ms.shu.edu.cn/info/1244/92345.htm",
