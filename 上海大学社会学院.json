@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260808_045614",
-  "total_articles": 2574,
+  "crawl_time": "20260808_083555",
+  "total_articles": 2576,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
-    "学术动态": 562,
+    "学术动态": 564,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
@@ -17,10 +17,22 @@
   },
   "articles": [
     {
+      "title": "会议综述|中国社会学会2026年学术年会第十届历史社会学分论坛成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1104/43178.htm",
+      "date": "2026-08-05",
+      "column": "学术动态"
+    },
+    {
       "title": "社会学院2025-2026学年暑假值班安排表",
       "url": "https://sociology.shu.edu.cn/info/1103/43128.htm",
       "date": "2026-07-30",
       "column": "通知公告"
+    },
+    {
+      "title": "第15届应用社会科学研究方法研修班《数据分析专题》系列讲座圆满落幕",
+      "url": "https://sociology.shu.edu.cn/info/1104/43168.htm",
+      "date": "2026-07-29",
+      "column": "学术动态"
     },
     {
       "title": "第15届应用社会科学研究方法研修班基础班顺利结业",

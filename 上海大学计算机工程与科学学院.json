@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260808_045614",
+  "crawl_time": "20260808_083555",
   "total_articles": 416,
   "columns": {
     "学术活动": 25,
@@ -11,6 +11,12 @@
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "暑假社会实践 | 再赴鹤溪，向新而行——2026年“点石成金”暑期支教活动（启航篇）",
+      "url": "https://mp.weixin.qq.com/s/qUwL2wyfUzviJRRkOujbXw",
+      "date": "2026-08-01",
+      "column": "新闻动态"
+    },
     {
       "title": "学术报告567：ReFTA：打破张量化PEFT的权重重建瓶颈",
       "url": "https://cs.shu.edu.cn/info/1501/51601.htm",
@@ -153,12 +159,6 @@
       "title": "计算机学院本科生第二党支部开展“红迹沪上·青春砺行”主题实践活动",
       "url": "https://mp.weixin.qq.com/s/yhjx6r6oC4dtryPtgLBTMg",
       "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "“智”强不息乘风“网”，策“码”问道“计”天下——计算机学院举行2026届毕业典礼暨学位授予仪式",
-      "url": "https://mp.weixin.qq.com/s/2o5ajGKL4VjSfMxViu2_4w",
-      "date": "2026-06-01",
       "column": "新闻动态"
     },
     {
