@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260808_124629",
+  "crawl_time": "20260809_025448",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "环球自然日2026年度全国总决选在上海大学开幕",
+      "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
+      "date": "2026-08-08",
+      "column": "重要新闻"
+    },
     {
       "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”AI短片！奔赴创意新开场",
       "url": "https://www.shu.edu.cn/info/1056/399875.htm",
@@ -202,12 +208,6 @@
       "url": "https://www.shu.edu.cn/info/1051/397875.htm",
       "date": "2026-06-30",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学2026年毕业典礼举行",
-      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
-      "date": "2026-06-27",
-      "column": "重要新闻"
     },
     {
       "title": "关于宝山校区部分楼宇停电的通知",
