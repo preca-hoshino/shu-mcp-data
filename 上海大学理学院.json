@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260809_124849",
-  "total_articles": 3919,
+  "crawl_time": "20260810_030349",
+  "total_articles": 3920,
   "columns": {
     "主办会议": 41,
     "学术报告": 2644,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 618,
+    "综合新闻": 619,
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "上海大学在第十三届全国高校物理实验教学研讨会自制仪器评比中斩获佳绩",
+      "url": "https://scicol.shu.edu.cn/info/1007/33715.htm",
+      "date": "2026-08-10",
+      "column": "综合新闻"
+    },
     {
       "title": "物理学科Seminar第828讲 化学特异性超分辨成像：从中红外光热显微技术到结构光照明",
       "url": "https://scicol.shu.edu.cn/info/1003/33685.htm",
