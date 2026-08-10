@@ -2,11 +2,11 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260810_030349",
-  "total_articles": 460,
+  "crawl_time": "20260810_052620",
+  "total_articles": 456,
   "columns": {
     "后勤新闻": 320,
-    "通知公告": 140
+    "通知公告": 136
   },
   "articles": [
     {
@@ -42,54 +42,6 @@
     {
       "title": "迎新宿舍电风扇一次性清洗保洁服务项目公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10496.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学便利店、食品（烘焙）店及饮品店服务用房招租项目 （包件一）招租结果公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10506.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学便利店、食品（烘焙）店及饮品店服务用房招租项目 包件二、三 招租失败公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10516.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学(宝山校区)通信基站招租项目 （一年） 招租结果公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10526.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学(嘉定校区)通信基站招租项目 （一年） 招租结果公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10536.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学(宝山校区)通信基站招租项目 （三年） 招租结果公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10546.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学(嘉定校区)通信基站招租项目 （三年） 招租结果公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10556.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学(延长校区)通信基站招租项目 （三年） 招租结果公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10566.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学(宝山校区)通信基站招租项目（三年） 包件四、六、九 招租失败公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10576.htm",
       "date": "2026-07-30",
       "column": "通知公告"
     },
@@ -148,9 +100,21 @@
       "column": "后勤新闻"
     },
     {
+      "title": "2026年餐饮管理中心益新三楼餐厅地板材料采购项目公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10216.htm",
+      "date": "2026-06-10",
+      "column": "通知公告"
+    },
+    {
       "title": "2026年餐饮管理中心食堂有害生物防治服务公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10236.htm",
       "date": "2026-06-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "行政楼报告厅改造工程设计服务需求",
+      "url": "https://hbb.shu.edu.cn/info/1005/10206.htm",
+      "date": "2026-06-04",
       "column": "通知公告"
     },
     {
@@ -2594,6 +2558,18 @@
       "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
       "date": "2021-03-01",
       "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部员工离沪和留校的注意事项",
+      "url": "https://mp.weixin.qq.com/s/xtAgsKwovWd54Jh9H6TuMw",
+      "date": "2021-01-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "延长校区1月23日停电通知",
+      "url": "https://mp.weixin.qq.com/s/HxE2LrVq02IC0U-EE0S2rw",
+      "date": "2021-01-11",
+      "column": "通知公告"
     },
     {
       "title": "上大后勤向你发送一份元旦放假安排表",
