@@ -2,14 +2,32 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260810_091606",
-  "total_articles": 156,
+  "crawl_time": "20260810_130600",
+  "total_articles": 158,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 50
+    "校园动态": 52
   },
   "articles": [
+    {
+      "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
+      "url": "https://mp.weixin.qq.com/s/4WmJ7ODzfLywFlrB5QnDKw",
+      "date": "2026-08-10",
+      "column": "校园动态"
+    },
+    {
+      "title": "387支队伍齐聚！环球自然日2026年度全国总决选在上海大学开幕...",
+      "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
+      "date": "2026-08-10",
+      "column": "校园动态"
+    },
+    {
+      "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”A...",
+      "url": "https://www.shu.edu.cn/info/1056/399875.htm",
+      "date": "2026-08-10",
+      "column": "文明实践"
+    },
     {
       "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
       "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
@@ -127,12 +145,6 @@
     {
       "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告...",
       "url": "https://www.shu.edu.cn/info/1056/399325.htm",
-      "date": "2026-07-21",
-      "column": "文明实践"
-    },
-    {
-      "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞...",
-      "url": "https://www.shu.edu.cn/info/1056/399355.htm",
       "date": "2026-07-21",
       "column": "文明实践"
     },
