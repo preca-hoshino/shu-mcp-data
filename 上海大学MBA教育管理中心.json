@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260811_050810",
-  "total_articles": 626,
+  "crawl_time": "20260811_085031",
+  "total_articles": 627,
   "columns": {
     "焦点新闻": 371,
-    "论坛活动": 192,
+    "论坛活动": 193,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "“草11”载誉凯旋｜2天36.5公里，于坚守之中看见上大力量",
+      "url": "https://mp.weixin.qq.com/s/q_gMxR4bAhe2SIMa9id8Ow",
+      "date": "2026-08-11",
+      "column": "论坛活动"
+    },
     {
       "title": "活动预告｜聚势同行·领航新程：上海大学MBA2026新生导向季",
       "url": "https://mp.weixin.qq.com/s/BkC9oKymDUe-TT7C0j7ONQ",
