@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260812_130712",
-  "total_articles": 114,
+  "crawl_time": "20260813_032049",
+  "total_articles": 115,
   "columns": {
     "国际交流": 44,
     "培养管理": 20,
-    "学位工作": 28,
+    "学位工作": 29,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "关于召开上海大学第112次学位评定委员会会议的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/173192.htm",
+      "date": "2026-08-13",
+      "column": "学位工作"
+    },
     {
       "title": "关于举办“国元证券杯”上海大学2026年中国国际大学生创新大赛校内选拔赛的通知",
       "url": "https://gs.shu.edu.cn/info/1029/173182.htm",

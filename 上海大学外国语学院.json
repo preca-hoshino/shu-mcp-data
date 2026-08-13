@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260812_130712",
-  "total_articles": 577,
+  "crawl_time": "20260813_032049",
+  "total_articles": 578,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 33,
-    "学院新闻": 54,
+    "学院新闻": 55,
     "通知公告": 90
   },
   "articles": [
+    {
+      "title": "走出课堂读懂社区——上海大学外院学子开展全民阅读赋能社区治理调研",
+      "url": "https://sfs.shu.edu.cn/info/1142/31107.htm",
+      "date": "2026-08-12",
+      "column": "学院新闻"
+    },
     {
       "title": "外国语学院尚新教授领衔申报的教学成果获批上海市教学改革推进项目",
       "url": "https://sfs.shu.edu.cn/info/1036/31097.htm",
