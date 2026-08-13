@@ -2,13 +2,19 @@
   "domain": "icn.shu.edu.cn",
   "department": "上海大学碳中和创新研究中心",
   "type": "20",
-  "crawl_time": "20260813_090803",
-  "total_articles": 35,
+  "crawl_time": "20260813_130825",
+  "total_articles": 36,
   "columns": {
     "新闻动态": 16,
-    "科研动态": 19
+    "科研动态": 20
   },
   "articles": [
+    {
+      "title": "Angewandte Chemie：外延氧化物界面构筑耐硫CuO活性位点，实现多污染物协同高效净化2026-08-13",
+      "url": "https://icn.shu.edu.cn/info/1531/2601.htm",
+      "date": "2026-08-13",
+      "column": "科研动态"
+    },
     {
       "title": "上海大学碳中和创新研究中心团队荣获上海市“明日科技之星”2026-07-22",
       "url": "https://icn.shu.edu.cn/info/1541/2581.htm",
