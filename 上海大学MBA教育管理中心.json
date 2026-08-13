@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260813_053958",
+  "crawl_time": "20260813_090803",
   "total_articles": 627,
   "columns": {
     "焦点新闻": 371,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "公开课报名｜资深跨国企业高管解读：中国工业企业欧洲破局之路",
+      "url": "https://mp.weixin.qq.com/s/hXrOOQ_B4C-9WXAsyA3UcQ",
+      "date": "2026-08-13",
+      "column": "通知公告"
+    },
     {
       "title": "“草11”载誉凯旋｜2天36.5公里，于坚守之中看见上大力量",
       "url": "https://mp.weixin.qq.com/s/q_gMxR4bAhe2SIMa9id8Ow",
@@ -267,12 +273,6 @@
       "url": "https://mp.weixin.qq.com/s/iC9mt6M3EarHF1V5yVloeg",
       "date": "2026-06-05",
       "column": "论坛活动"
-    },
-    {
-      "title": "关于做好2026届上海大学毕业生到中西部地区和艰苦边远地区基层单位就业学费补偿和国家助学贷款代偿资格申请工作的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26741.htm",
-      "date": "2026-06-04",
-      "column": "通知公告"
     },
     {
       "title": "关于2026届毕业生国家助学贷款还款和离校手续办理的通知",
