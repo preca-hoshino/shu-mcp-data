@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260814_053739",
+  "crawl_time": "20260814_090403",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,30 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界面能领域重要研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/400025.htm",
+      "date": "2026-08-14",
+      "column": "科研动态"
+    },
+    {
+      "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际采风系列活动圆满收官",
+      "url": "https://www.shu.edu.cn/info/1056/400035.htm",
+      "date": "2026-08-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学在第十三届全国高校物理实验教学研讨会自制仪器评比中斩获佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/400045.htm",
+      "date": "2026-08-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
+      "url": "https://www.shu.edu.cn/info/1056/400055.htm",
+      "date": "2026-08-14",
+      "column": "综合新闻"
+    },
     {
       "title": "环球自然日2026年度全国总决选在上海大学开幕",
       "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
@@ -84,18 +108,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "校企协同育匠心 产教融合促发展——环化学院携手上海环境危废事业部深化产学研协同创新合作",
-      "url": "https://www.shu.edu.cn/info/1056/399695.htm",
-      "date": "2026-07-29",
-      "column": "综合新闻"
-    },
-    {
-      "title": "环化学院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
-      "url": "https://www.shu.edu.cn/info/1056/399705.htm",
-      "date": "2026-07-29",
-      "column": "综合新闻"
-    },
-    {
       "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
       "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
       "date": "2026-07-28",
@@ -106,12 +118,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399595.htm",
       "date": "2026-07-28",
       "column": "科研动态"
-    },
-    {
-      "title": "第三届爱尔兰文学研讨会在沪举行 中爱学者共话鲁迅与萧伯纳“半席之约”",
-      "url": "https://www.shu.edu.cn/info/1056/399655.htm",
-      "date": "2026-07-28",
-      "column": "综合新闻"
     },
     {
       "title": "核电关键材料全国重点实验室卞西磊副研究员在《Materials Today》上发表最新研究成果",
@@ -183,12 +189,6 @@
       "title": "机自学院2项成果获2025年度上海市科学技术奖",
       "url": "https://www.shu.edu.cn/info/1055/398625.htm",
       "date": "2026-07-06",
-      "column": "科研动态"
-    },
-    {
-      "title": "理学院物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
-      "url": "https://www.shu.edu.cn/info/1055/398345.htm",
-      "date": "2026-07-03",
       "column": "科研动态"
     },
     {
