@@ -2,13 +2,19 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260815_043015",
-  "total_articles": 2809,
+  "crawl_time": "20260815_082313",
+  "total_articles": 2810,
   "columns": {
     "新闻动态": 2595,
-    "通知公告": 214
+    "通知公告": 215
   },
   "articles": [
+    {
+      "title": "关于开展2026-2027学年上海大学家庭经济困难学生认定申请的通知",
+      "url": "https://dwygb.shu.edu.cn/info/1050/41299.htm",
+      "date": "2026-08-10",
+      "column": "通知公告"
+    },
     {
       "title": "表彰，启航！上海大学开展学生“红色先锋”表彰暨2026届毕业生党员教育",
       "url": "https://mp.weixin.qq.com/s/dGVLJGYtgdl7DXzpdVg6hQ",
