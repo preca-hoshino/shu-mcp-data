@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260816_043524",
+  "crawl_time": "20260816_082442",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400065.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“2026运动防治慢性病国际会议”在上海成功召开",
+      "url": "https://www.shu.edu.cn/info/1056/400075.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学法学院联合国家知识产权局审协天津中心举办“科研创新・专利实战营”",
+      "url": "https://www.shu.edu.cn/info/1056/400085.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
+    },
     {
       "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界面能领域重要研究成果",
       "url": "https://www.shu.edu.cn/info/1055/400025.htm",
@@ -60,12 +78,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "党建引领促合作 产教融合谋发展——生命学院赴临港奉贤平台开展调研签约活动",
-      "url": "https://www.shu.edu.cn/info/1056/399795.htm",
-      "date": "2026-07-31",
-      "column": "综合新闻"
-    },
-    {
       "title": "上海大学×鹊秘堂“品牌创意传播实训项目”顺利收官",
       "url": "https://www.shu.edu.cn/info/1056/399805.htm",
       "date": "2026-07-31",
@@ -88,18 +100,6 @@
       "url": "https://www.shu.edu.cn/info/1055/399765.htm",
       "date": "2026-07-30",
       "column": "科研动态"
-    },
-    {
-      "title": "马克思主义学院党委与计算机工程与科学学院党委开展党委理论学习中心组联组学习",
-      "url": "https://www.shu.edu.cn/info/1056/399775.htm",
-      "date": "2026-07-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学“1+3+N”集成电路协同育人联盟联组学习习近平党建思想暨2026年第二次党建联席会议顺利召开",
-      "url": "https://www.shu.edu.cn/info/1056/399785.htm",
-      "date": "2026-07-30",
-      "column": "综合新闻"
     },
     {
       "title": "我校召开2026年产教研协同育人团队交流会",
