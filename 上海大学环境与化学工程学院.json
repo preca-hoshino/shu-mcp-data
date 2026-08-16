@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260816_082442",
-  "total_articles": 991,
+  "crawl_time": "20260816_123707",
+  "total_articles": 992,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 71,
     "研究生教学": 207,
     "科研动态": 117,
-    "通知公告": 118
+    "通知公告": 119
   },
   "articles": [
+    {
+      "title": "关于做好2026年度上海市青年五四奖章推荐工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1147/89554.htm",
+      "date": "2026-08-16",
+      "column": "通知公告"
+    },
     {
       "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
       "url": "https://ece.shu.edu.cn/info/1149/89544.htm",
