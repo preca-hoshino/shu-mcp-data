@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260817_044112",
+  "crawl_time": "20260817_083828",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "宝山区与上海大学深化战略合作交流会举行",
+      "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
+      "date": "2026-08-17",
+      "column": "重要新闻"
+    },
     {
       "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/400065.htm",
@@ -195,12 +201,6 @@
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-02",
-      "column": "重要新闻"
-    },
-    {
-      "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成立105周年",
-      "url": "https://mp.weixin.qq.com/s/nVBP2nioWGS-885ZX7tlVg",
-      "date": "2026-07-01",
       "column": "重要新闻"
     },
     {
