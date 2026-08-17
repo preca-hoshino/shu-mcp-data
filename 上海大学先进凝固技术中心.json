@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260817_083828",
-  "total_articles": 371,
+  "crawl_time": "20260817_124133",
+  "total_articles": 372,
   "columns": {
     "学术动态": 34,
-    "新闻快递": 313,
+    "新闻快递": 314,
     "研究成果": 24
   },
   "articles": [
+    {
+      "title": "首钢贵钢PMO工程技术改造项目顺利通过验收",
+      "url": "https://cast.shu.edu.cn/info/1042/4231.htm",
+      "date": "2026-08-17",
+      "column": "新闻快递"
+    },
     {
       "title": "船用缸套铸造技术专栏重磅刊发《铸造工程》—— 上海大学先进凝固技术中心攻坚船舶动力核心部件国产化",
       "url": "https://cast.shu.edu.cn/info/1043/4171.htm",

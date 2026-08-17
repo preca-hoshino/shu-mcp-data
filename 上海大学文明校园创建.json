@@ -2,14 +2,44 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260817_083828",
-  "total_articles": 158,
+  "crawl_time": "20260817_124133",
+  "total_articles": 160,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 52
+    "校园动态": 54
   },
   "articles": [
+    {
+      "title": "双向赋能、共谱新篇！宝山区与上海大学深化战略合作交流会举行",
+      "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
+      "date": "2026-08-17",
+      "column": "校园动态"
+    },
+    {
+      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要...",
+      "url": "https://mp.weixin.qq.com/s/EttuBUcMt6wHwyQFJYBf3Q",
+      "date": "2026-08-17",
+      "column": "校园动态"
+    },
+    {
+      "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际...",
+      "url": "https://www.shu.edu.cn/info/1056/400035.htm",
+      "date": "2026-08-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400065.htm",
+      "date": "2026-08-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "“2026运动防治慢性病国际会议”在上海成功召开",
+      "url": "https://www.shu.edu.cn/info/1056/400075.htm",
+      "date": "2026-08-17",
+      "column": "文明实践"
+    },
     {
       "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
       "url": "https://mp.weixin.qq.com/s/4WmJ7ODzfLywFlrB5QnDKw",
@@ -125,12 +155,6 @@
       "column": "文明实践"
     },
     {
-      "title": "上海大学第六届侨联委员会工作会议顺利召开",
-      "url": "https://www.shu.edu.cn/info/1056/399455.htm",
-      "date": "2026-07-22",
-      "column": "文明实践"
-    },
-    {
       "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出...",
       "url": "https://www.shu.edu.cn/info/1056/399465.htm",
       "date": "2026-07-22",
@@ -141,18 +165,6 @@
       "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
       "date": "2026-07-21",
       "column": "校园动态"
-    },
-    {
-      "title": "“FUN·开·造” & “FUN·开·AI”——第25届上海国际大学生广告...",
-      "url": "https://www.shu.edu.cn/info/1056/399325.htm",
-      "date": "2026-07-21",
-      "column": "文明实践"
-    },
-    {
-      "title": "2026年上海大学数学科学实践工作站夏令营活动顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/399385.htm",
-      "date": "2026-07-21",
-      "column": "文明实践"
     },
     {
       "title": "上海大学与上海国投公司签署战略合作协议",
