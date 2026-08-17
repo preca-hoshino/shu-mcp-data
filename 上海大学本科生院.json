@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260817_021137",
+  "crawl_time": "20260817_044112",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,24 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "2026年度上海大学课程思政教育教学改革研究项目拟立项名单公示",
+      "url": "https://bksy.shu.edu.cn/info/1015/321524.htm",
+      "date": "2026-08-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于做好2026年上海大学“党史学习教育与课程相融合” 示范课程建设项目结项工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321534.htm",
+      "date": "2026-08-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年度上海大学“党史学习教育与课程相融合” 示范课程立项建设申报工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321544.htm",
+      "date": "2026-08-17",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026-2027年度集成电路领域本科生“一生一芯”高端芯片设计与EDA揭榜实践项目立项结果",
       "url": "https://bksy.shu.edu.cn/info/1015/321514.htm",
@@ -122,24 +140,6 @@
       "title": "上海大学2026数模竞赛暨全国大学生数学建模竞赛校内预热赛通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321174.htm",
       "date": "2026-07-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于举办上海大学2026年中国国际大学生创新大赛校内选拔赛的预通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321134.htm",
-      "date": "2026-07-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于公布上海大学2026年大学生物理实验竞赛获奖名单的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321144.htm",
-      "date": "2026-07-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2025-2026学年春季学期成绩复核工作的补充通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321154.htm",
-      "date": "2026-07-08",
       "column": "通知公告"
     },
     {
