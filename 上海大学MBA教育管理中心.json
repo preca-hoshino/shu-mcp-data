@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260818_083215",
+  "crawl_time": "20260818_124336",
   "total_articles": 627,
   "columns": {
     "焦点新闻": 371,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "上大MBA360°职业洞察营9月13日线下专场报名进行中",
+      "url": "https://mp.weixin.qq.com/s/J6kGvB65JDDuTMUkv8q7LA",
+      "date": "2026-08-18",
+      "column": "通知公告"
+    },
     {
       "title": "公开课报名｜资深跨国企业高管解读：中国工业企业欧洲破局之路",
       "url": "https://mp.weixin.qq.com/s/hXrOOQ_B4C-9WXAsyA3UcQ",
@@ -273,12 +279,6 @@
       "url": "https://mp.weixin.qq.com/s/iC9mt6M3EarHF1V5yVloeg",
       "date": "2026-06-05",
       "column": "论坛活动"
-    },
-    {
-      "title": "关于2026届毕业生国家助学贷款还款和离校手续办理的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26751.htm",
-      "date": "2026-06-04",
-      "column": "通知公告"
     },
     {
       "title": "上海大学MBA中心举办2026企业导师感恩会暨学生见面会",
