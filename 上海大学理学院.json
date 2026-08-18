@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260817_124133",
-  "total_articles": 3921,
+  "crawl_time": "20260818_020738",
+  "total_articles": 3922,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2644,
+    "学术报告": 2645,
     "本科生教务": 39,
     "本科生新闻": 47,
     "研究生教务": 15,
@@ -16,6 +16,12 @@
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第829讲 自动化计算工作流程加速对不对称催化的机理理解",
+      "url": "https://scicol.shu.edu.cn/info/1003/33745.htm",
+      "date": "2026-08-18",
+      "column": "学术报告"
+    },
     {
       "title": "理学院化学系学生在第十四届全国大学生化学实验竞赛总决赛中喜获佳绩",
       "url": "https://scicol.shu.edu.cn/info/1161/33735.htm",

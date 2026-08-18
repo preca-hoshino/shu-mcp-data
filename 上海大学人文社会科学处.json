@@ -2,14 +2,26 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260817_124133",
-  "total_articles": 344,
+  "crawl_time": "20260818_020738",
+  "total_articles": 348,
   "columns": {
-    "文科动态": 92,
+    "文科动态": 96,
     "最新立项": 60,
     "通知公告": 192
   },
   "articles": [
+    {
+      "title": "社会学院黄晓春教授在《中国社会科学》发表城市更新与社会治理创新协同改革学术论文",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6437.htm",
+      "date": "2026-08-17",
+      "column": "文科动态"
+    },
+    {
+      "title": "上海美术学院金江波教授在《人民日报》发表“现代插画的海上创生”观点文章",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6447.htm",
+      "date": "2026-08-17",
+      "column": "文科动态"
+    },
     {
       "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
       "url": "https://rwskc.shu.edu.cn/info/1070/6427.htm",
@@ -1895,10 +1907,22 @@
       "column": "通知公告"
     },
     {
+      "title": "我校又获7项国家社科基金2008年度单列项目立项",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3594.htm",
+      "date": "2008-08-27",
+      "column": "文科动态"
+    },
+    {
       "title": "“2008长三角民营剧团论坛”征稿通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/2857.htm",
       "date": "2008-07-15",
       "column": "通知公告"
+    },
+    {
+      "title": "文科处组织教育部重大攻关项目预答辩会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3592.htm",
+      "date": "2008-07-11",
+      "column": "文科动态"
     },
     {
       "title": "上海市体育局2008年体育科技招标项目申报通知",

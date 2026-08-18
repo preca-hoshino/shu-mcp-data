@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260817_124133",
+  "crawl_time": "20260818_020738",
   "total_articles": 992,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,48 @@
     "通知公告": 119
   },
   "articles": [
+    {
+      "title": "【迎新季】环护山河，化绘未来丨上海大学环境与化学工程学院简介",
+      "url": "https://mp.weixin.qq.com/s/0pHF3oDnmMdPaMRpn8Bk-Q",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
+      "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】报到不踩坑！开学清单+出行指南请查收！",
+      "url": "https://mp.weixin.qq.com/s/KscRoFGGfgN_NlXAdCRlHg",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】大一新生必看第一篇|核心课程准备，从暑假开始（数理化篇）",
+      "url": "https://mp.weixin.qq.com/s/R5X8ORmIIxI5GcQlcLsZgw",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】关于宿舍，2026级新生关心的问题，答案在这里！",
+      "url": "https://mp.weixin.qq.com/s/RwJJnz9w9135hnM49M33WA",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【创新竞赛】我院研究生创新实践大赛备赛经验分享会顺利开展!",
+      "url": "https://mp.weixin.qq.com/s/bGjl4lbqT5cpH3sC-4s1qw",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】大一新生必看第二篇|核心课程准备，从暑假开始（英语篇）",
+      "url": "https://mp.weixin.qq.com/s/kk-jUdCt7wxz-wcvFYALgQ",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
     {
       "title": "关于做好2026年度上海市青年五四奖章推荐工作的通知",
       "url": "https://ece.shu.edu.cn/info/1147/89554.htm",
@@ -140,52 +182,10 @@
       "column": "通知公告"
     },
     {
-      "title": "【就业创业】2026年“职闯未来”训练营第五期就业辅导课程成功举办！",
-      "url": "https://mp.weixin.qq.com/s/KqJota1HhmYPBgTOkle3Vg",
-      "date": "2026-07-14",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【团建】我院第二十四届学生代表大会顺利召开",
-      "url": "https://mp.weixin.qq.com/s/fDvv9Wu2IYlTm6TLtroGOA",
-      "date": "2026-07-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【转载】“十五五”，美丽中国将有这些新变化（新华社）",
-      "url": "https://mp.weixin.qq.com/s/g7jJYcybIoIMGWSqMm8f6g",
-      "date": "2026-07-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【科研动态|科研成果】我院李珍研究员课题组在《Advanced Functional Materials》上发表研究论文",
-      "url": "https://mp.weixin.qq.com/s/rXLS5oA9oaBosH1Q63pgrg",
-      "date": "2026-07-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【就业创业】访企拓岗（上海市环境监测中心、上海市减污降碳管理运营技术中心）活动报名开启！",
-      "url": "https://mp.weixin.qq.com/s/tWXyE7DthbG-MFXTbPf7yw",
-      "date": "2026-07-12",
-      "column": "学院新闻"
-    },
-    {
       "title": "关于申报上海大学2026年人工智能赋能教育教学专项建设项目的通知",
       "url": "https://ece.shu.edu.cn/info/1303/89264.htm",
       "date": "2026-07-10",
       "column": "本科生教学"
-    },
-    {
-      "title": "【班级建设】“化”润初心，“工”行致远——2025级化学工程与工艺专业新生见面会顺利举行",
-      "url": "https://mp.weixin.qq.com/s/U_b7b7Sq92HxdYIn1_egtw",
-      "date": "2026-07-09",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【创新竞赛】第八届中国研究生人工智能创新大赛报名启动！",
-      "url": "https://mp.weixin.qq.com/s/zbIa5zxK6fRPUhYGAQlNFA",
-      "date": "2026-07-09",
-      "column": "学院新闻"
     },
     {
       "title": "环化学院李珍研究员课题组在《Advanced Functional Materials》上发表研究论文",
