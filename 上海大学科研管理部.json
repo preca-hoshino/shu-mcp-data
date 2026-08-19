@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260819_020950",
+  "crawl_time": "20260819_043610",
   "total_articles": 572,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "上海大学2026年上海市教委、上海市教育基金会 “曙光计划”（自然科学类、人文社科类）项目上报名单公示",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12282.htm",
+      "date": "2026-08-19",
+      "column": "通知公告"
+    },
     {
       "title": "央视《焦点访谈》关注上海（长三角）国际科技创新中心建设",
       "url": "https://mp.weixin.qq.com/s/C9fZHvLN13TOb9jWzwLpBQ?click_id=2049972120",
@@ -207,12 +213,6 @@
       "title": "2026年“启源国资先锋项目”遴选公告",
       "url": "https://mp.weixin.qq.com/s/tBUsmmD1VsAate0ReWugyg?scene=1&click_id=1167687609",
       "date": "2026-07-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于组织申报2027年度上海教育技术装备科学研究项目的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11932.htm",
-      "date": "2026-07-16",
       "column": "通知公告"
     },
     {
