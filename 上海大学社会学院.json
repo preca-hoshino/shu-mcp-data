@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260818_124336",
-  "total_articles": 2576,
+  "crawl_time": "20260819_020950",
+  "total_articles": 2577,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
-    "学术动态": 564,
+    "学术动态": 565,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
@@ -16,6 +16,12 @@
     "通知公告": 49
   },
   "articles": [
+    {
+      "title": "我院黄晓春教授在《中国社会科学》2026年第7期上发表城市更新与社会治理创新协同改革学术论文",
+      "url": "https://sociology.shu.edu.cn/info/1104/43198.htm",
+      "date": "2026-08-18",
+      "column": "学术动态"
+    },
     {
       "title": "会议综述|中国社会学会2026年学术年会第十届历史社会学分论坛成功举办",
       "url": "https://sociology.shu.edu.cn/info/1104/43178.htm",

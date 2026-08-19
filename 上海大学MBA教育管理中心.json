@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260818_124336",
-  "total_articles": 627,
+  "crawl_time": "20260819_020950",
+  "total_articles": 628,
   "columns": {
-    "焦点新闻": 371,
+    "焦点新闻": 372,
     "论坛活动": 193,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "聚势同行・领航新程|上海大学MBA2026新生导向启动仪式隆重举行",
+      "url": "https://mp.weixin.qq.com/s/4M6JjzWpVqCJnE606eeWvw",
+      "date": "2026-08-19",
+      "column": "焦点新闻"
+    },
     {
       "title": "上大MBA360°职业洞察营9月13日线下专场报名进行中",
       "url": "https://mp.weixin.qq.com/s/J6kGvB65JDDuTMUkv8q7LA",
