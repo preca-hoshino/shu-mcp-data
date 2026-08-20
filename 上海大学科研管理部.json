@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260820_043651",
+  "crawl_time": "20260820_083320",
   "total_articles": 572,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于发布移动信息网络国家科技重大专项2026年度第二批项目申报指南（公开竞争）的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12292.htm",
+      "date": "2026-08-20",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布移动信息网络国家科技重大专项2027年度项目申报指南（公开竞争）的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12302.htm",
+      "date": "2026-08-20",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026年上海市教委、上海市教育基金会 “曙光计划”（自然科学类、人文社科类）项目上报名单公示",
       "url": "https://kyglb.shu.edu.cn/info/1011/12282.htm",
@@ -178,18 +190,6 @@
       "url": "https://mp.weixin.qq.com/s/Gk64Bd545-AQJsq8pJdl8Q",
       "date": "2026-07-20",
       "column": "科技动态"
-    },
-    {
-      "title": "关于发布煤炭重大专项2027年度公开项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11942.htm",
-      "date": "2026-07-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于组织开展新一批科技部国家科技合作基地认定申报推荐工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/11952.htm",
-      "date": "2026-07-17",
-      "column": "通知公告"
     },
     {
       "title": "上海大学与上海国投公司签署战略合作协议",
