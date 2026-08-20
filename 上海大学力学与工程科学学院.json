@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260819_124418",
-  "total_articles": 255,
+  "crawl_time": "20260820_020852",
+  "total_articles": 256,
   "columns": {
     "学术报告": 52,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 41,
+    "综合新闻": 42,
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "上海大学力工学院学子获第二届全国大学生智能建造竞...",
+      "url": "https://smes.shu.edu.cn/info/1013/10665.htm",
+      "date": "2026-08-19",
+      "column": "综合新闻"
+    },
     {
       "title": "越南科学技术部部长武海军一行访问上海大学",
       "url": "https://smes.shu.edu.cn/info/1013/10635.htm",
