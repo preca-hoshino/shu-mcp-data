@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260820_124752",
-  "total_articles": 628,
+  "crawl_time": "20260821_021514",
+  "total_articles": 629,
   "columns": {
     "焦点新闻": 372,
-    "论坛活动": 193,
+    "论坛活动": 194,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "聚势启新 领速未来|2026级上大MBA新生导向季拓展活动全记录",
+      "url": "https://mp.weixin.qq.com/s/Ra_2HjmoizJBv5qHcoZwTQ",
+      "date": "2026-08-21",
+      "column": "论坛活动"
+    },
     {
       "title": "聚势同行・领航新程|上海大学MBA2026新生导向启动仪式隆重举行",
       "url": "https://mp.weixin.qq.com/s/4M6JjzWpVqCJnE606eeWvw",

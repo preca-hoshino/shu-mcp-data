@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260820_124752",
-  "total_articles": 174,
+  "crawl_time": "20260821_021514",
+  "total_articles": 175,
   "columns": {
-    "新闻公告": 174
+    "新闻公告": 175
   },
   "articles": [
+    {
+      "title": "关于李信之、梅海涛同志申报副研究馆员的公示",
+      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8389",
+      "date": "2026-08-20",
+      "column": "新闻公告"
+    },
     {
       "title": "关于开展上海大学2026年第二批次教师专业实践能力提升计划申请工作的通知",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8369",
