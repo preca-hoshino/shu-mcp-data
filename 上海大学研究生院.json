@@ -2,22 +2,16 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260822_020702",
-  "total_articles": 115,
+  "crawl_time": "20260822_043152",
+  "total_articles": 106,
   "columns": {
     "国际交流": 44,
     "培养管理": 20,
-    "学位工作": 29,
+    "学位工作": 20,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
-    {
-      "title": "关于召开上海大学第112次学位评定委员会会议的通知",
-      "url": "https://gs.shu.edu.cn/info/1031/173192.htm",
-      "date": "2026-08-13",
-      "column": "学位工作"
-    },
     {
       "title": "关于举办“国元证券杯”上海大学2026年中国国际大学生创新大赛校内选拔赛的通知",
       "url": "https://gs.shu.edu.cn/info/1029/173182.htm",
@@ -29,54 +23,6 @@
       "url": "https://gs.shu.edu.cn/info/1027/173172.htm",
       "date": "2026-07-29",
       "column": "综合新闻"
-    },
-    {
-      "title": "关于第112次校学位评定委员会会前准备工作的通知",
-      "url": "https://gs.shu.edu.cn/info/1031/173142.htm",
-      "date": "2026-07-21",
-      "column": "学位工作"
-    },
-    {
-      "title": "上海大学第111次学位评定委员会授予博士学位人员公告",
-      "url": "https://gs.shu.edu.cn/info/1031/173152.htm",
-      "date": "2026-07-21",
-      "column": "学位工作"
-    },
-    {
-      "title": "上海大学第111次学位评定委员会授予硕士学位人员公告",
-      "url": "https://gs.shu.edu.cn/info/1031/173162.htm",
-      "date": "2026-07-21",
-      "column": "学位工作"
-    },
-    {
-      "title": "关于召开上海大学第111次学位评定委员会会议的通知",
-      "url": "https://gs.shu.edu.cn/info/1031/173132.htm",
-      "date": "2026-07-08",
-      "column": "学位工作"
-    },
-    {
-      "title": "关于第111次校学位评定委员会会前准备工作的通知",
-      "url": "https://gs.shu.edu.cn/info/1031/173122.htm",
-      "date": "2026-07-03",
-      "column": "学位工作"
-    },
-    {
-      "title": "上海大学第110次学位评定委员会授予博士学位人员公告",
-      "url": "https://gs.shu.edu.cn/info/1031/173092.htm",
-      "date": "2026-06-26",
-      "column": "学位工作"
-    },
-    {
-      "title": "上海大学第110次学位评定委员会授予硕士学位人员公告",
-      "url": "https://gs.shu.edu.cn/info/1031/173102.htm",
-      "date": "2026-06-26",
-      "column": "学位工作"
-    },
-    {
-      "title": "关于召开上海大学第110次学位评定委员会会议的通知",
-      "url": "https://gs.shu.edu.cn/info/1031/173082.htm",
-      "date": "2026-06-10",
-      "column": "学位工作"
     },
     {
       "title": "关于第110次校学位评定委员会会前准备工作的通知",

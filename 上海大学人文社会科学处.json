@@ -2,78 +2,18 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260822_020702",
-  "total_articles": 348,
+  "crawl_time": "20260528_091756",
+  "total_articles": 317,
   "columns": {
-    "文科动态": 96,
-    "最新立项": 60,
+    "文科动态": 77,
+    "最新立项": 48,
     "通知公告": 192
   },
   "articles": [
     {
-      "title": "社会学院黄晓春教授在《中国社会科学》发表城市更新与社会治理创新协同改革学术论文",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6437.htm",
-      "date": "2026-08-17",
-      "column": "文科动态"
-    },
-    {
-      "title": "上海美术学院金江波教授在《人民日报》发表“现代插画的海上创生”观点文章",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6447.htm",
-      "date": "2026-08-17",
-      "column": "文科动态"
-    },
-    {
-      "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化遗产语料库构建研究》课题研讨会在上海大学顺利召开",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6427.htm",
-      "date": "2026-07-24",
-      "column": "文科动态"
-    },
-    {
-      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6357.htm",
-      "date": "2026-07-09",
-      "column": "文科动态"
-    },
-    {
-      "title": "“当AI遇见传统文化”中印尼青年视觉作品展上海站颁奖典礼在上海温哥华电影学院举办",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6367.htm",
-      "date": "2026-07-09",
-      "column": "文科动态"
-    },
-    {
-      "title": "苟燕楠教授在中国教育会计学会2026年学术年会上做专题报告",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6327.htm",
-      "date": "2026-06-26",
-      "column": "文科动态"
-    },
-    {
-      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖礼圆满落幕",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6317.htm",
-      "date": "2026-06-25",
-      "column": "文科动态"
-    },
-    {
-      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6257.htm",
-      "date": "2026-06-09",
-      "column": "文科动态"
-    },
-    {
       "title": "我校成功举办“新时代青年社科工作者的历史使命与责任担当”平行论坛",
       "url": "https://rwskc.shu.edu.cn/info/1070/6097.htm",
       "date": "2026-05-28",
-      "column": "文科动态"
-    },
-    {
-      "title": "“人工智能与中国发展”学术研讨会在沪举行",
-      "url": "https://rwskc.shu.edu.cn/info/1070/6307.htm",
-      "date": "2026-05-25",
-      "column": "文科动态"
-    },
-    {
-      "title": "我校与浙江财经大学联合召开“加强财政科学管理 深化零基预算改革”交流会",
-      "url": "https://rwskc.shu.edu.cn/info/1070/5987.htm",
-      "date": "2026-05-21",
       "column": "文科动态"
     },
     {
@@ -179,52 +119,16 @@
       "column": "通知公告"
     },
     {
-      "title": "我校获25项2025年度上海市哲学社会科学规划年度课题",
-      "url": "https://rwskc.shu.edu.cn/info/1071/6197.htm",
-      "date": "2025-12-01",
-      "column": "最新立项"
-    },
-    {
-      "title": "我校获10项2025年度教育部人文社会科学研究项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/6187.htm",
-      "date": "2025-11-30",
-      "column": "最新立项"
-    },
-    {
-      "title": "我校获3项2025年度上海市艺术科学规划项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/6217.htm",
-      "date": "2025-11-30",
-      "column": "最新立项"
-    },
-    {
-      "title": "2025年度上海市白玉兰人才计划浦江项目立项名单",
-      "url": "https://rwskc.shu.edu.cn/info/1071/6177.htm",
-      "date": "2025-11-13",
-      "column": "最新立项"
-    },
-    {
       "title": "深研细悟明方向 同心协力谋新篇——上海大学科研管理部党支部与上海市科学学研究所党支部联组学习党的二十届四中全会精神",
       "url": "https://rwskc.shu.edu.cn/info/1070/6027.htm",
       "date": "2025-11-10",
       "column": "文科动态"
     },
     {
-      "title": "2025年度“晨光项目”（人文社科类）立项名单",
-      "url": "https://rwskc.shu.edu.cn/info/1071/6227.htm",
-      "date": "2025-11-01",
-      "column": "最新立项"
-    },
-    {
       "title": "国家社科基金文化遗产保护传承研究重大专项《文化遗产学学科体系建设研究》开题专家论证会召开",
       "url": "https://rwskc.shu.edu.cn/info/1070/5637.htm",
       "date": "2025-06-13",
       "column": "文科动态"
-    },
-    {
-      "title": "我校获2项2025年度国家艺术基金项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/6207.htm",
-      "date": "2025-06-01",
-      "column": "最新立项"
     },
     {
       "title": "关于组织申报第二批教育部哲学社会科学实验室的通知",
@@ -1391,36 +1295,6 @@
       "column": "通知公告"
     },
     {
-      "title": "我校获立4项2015年度上海市人民政府决策咨询研究重点课题",
-      "url": "https://rwskc.shu.edu.cn/info/1071/4208.htm",
-      "date": "2015-04-30",
-      "column": "最新立项"
-    },
-    {
-      "title": "我校文科1位老师入选2014年度上海市“晨光计划”项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/4207.htm",
-      "date": "2015-04-23",
-      "column": "最新立项"
-    },
-    {
-      "title": "我校2位老师入选2014年度上海市“阳光计划”项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/4206.htm",
-      "date": "2015-03-25",
-      "column": "最新立项"
-    },
-    {
-      "title": "我校文科2位老师入选2014年度上海市“曙光计划”项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/4205.htm",
-      "date": "2015-03-24",
-      "column": "最新立项"
-    },
-    {
-      "title": "我校获立1项国家体育总局体育哲学社会科学研究项目",
-      "url": "https://rwskc.shu.edu.cn/info/1071/4204.htm",
-      "date": "2015-03-09",
-      "column": "最新立项"
-    },
-    {
       "title": "2015年国家社科基金后期资助项目申报工作的通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/3279.htm",
       "date": "2015-01-21",
@@ -1473,12 +1347,6 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/3271.htm",
       "date": "2014-12-01",
       "column": "通知公告"
-    },
-    {
-      "title": "我校7项课题获2015年度上海市教育委员会科研创新项目立项",
-      "url": "https://rwskc.shu.edu.cn/info/1071/4203.htm",
-      "date": "2014-12-01",
-      "column": "最新立项"
     },
     {
       "title": "拟申报2014年度“晨光计划”（人文社科类）项目公示名单",
@@ -1907,52 +1775,16 @@
       "column": "通知公告"
     },
     {
-      "title": "我校又获7项国家社科基金2008年度单列项目立项",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3594.htm",
-      "date": "2008-08-27",
-      "column": "文科动态"
-    },
-    {
       "title": "“2008长三角民营剧团论坛”征稿通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/2857.htm",
       "date": "2008-07-15",
       "column": "通知公告"
     },
     {
-      "title": "文科处组织教育部重大攻关项目预答辩会",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3592.htm",
-      "date": "2008-07-11",
-      "column": "文科动态"
-    },
-    {
       "title": "上海市体育局2008年体育科技招标项目申报通知",
       "url": "http://www.shsports.gov.cn/website/xxgk/xxgk_display.jsp?ct_id=16983",
       "date": "2008-07-10",
       "column": "通知公告"
-    },
-    {
-      "title": "文学院葛红兵教授获上海作协重点创作项目资助",
-      "url": "http://www.shu.edu.cn/Default.aspx?tabid=121&ctl=Detail&mid=846&Id=34465&SkinSrc=[L]Skins/n",
-      "date": "2008-07-09",
-      "column": "文科动态"
-    },
-    {
-      "title": "文学院历史系召开市教委重点学科建设促进会",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3590.htm",
-      "date": "2008-07-09",
-      "column": "文科动态"
-    },
-    {
-      "title": "上海市“曙光计划”工作研讨会在山东泰安举行",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3584.htm",
-      "date": "2008-07-07",
-      "column": "文科动态"
-    },
-    {
-      "title": "文科处召开2008年度国家社科基金立项学者喜庆座谈会",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3586.htm",
-      "date": "2008-07-07",
-      "column": "文科动态"
     },
     {
       "title": "关于启动2008年度上海大学人文社会科学创新项目的预通知",
@@ -1965,24 +1797,6 @@
       "url": "http://www.sh-popss.gov.cn/MoreInfo.asp?action=InsideNews&infoid=63",
       "date": "2008-06-26",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学社会学系暨人类学研究中心宅坦村调查基地揭牌",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3580.htm",
-      "date": "2008-06-23",
-      "column": "文科动态"
-    },
-    {
-      "title": "现代文学教学方法与教材国际学术研讨会顺利召开",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3582.htm",
-      "date": "2008-06-23",
-      "column": "文科动态"
-    },
-    {
-      "title": "《中国文学史学史》获第一届中国出版政府奖图书奖提名奖",
-      "url": "https://rwskc.shu.edu.cn/info/1070/3578.htm",
-      "date": "2008-06-20",
-      "column": "文科动态"
     },
     {
       "title": "上海市语委“十一五”科研课题申报通知",

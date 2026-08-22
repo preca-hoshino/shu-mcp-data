@@ -2,13 +2,13 @@
   "domain": "ischool.shu.edu.cn",
   "department": "上海大学图书情报档案系",
   "type": "28",
-  "crawl_time": "20260514_004804",
+  "crawl_time": "20260822_043152",
   "total_articles": 174,
   "columns": {
-    "新闻动态": 86,
-    "通知公告": 31,
-    "研究生动态": 42,
-    "本科生动态": 15
+    "新闻动态": 115,
+    "本科生动态": 15,
+    "研究生动态": 30,
+    "通知公告": 14
   },
   "articles": [
     {
@@ -27,169 +27,169 @@
       "title": "文化遗产与信息管理学院2023年硕士研究生招生复试工作办法",
       "url": "https://ischool.shu.edu.cn/info/1013/3892.htm",
       "date": "2023-03-25",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2022年研究生国家奖学金文信学院推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3883.htm",
       "date": "2022-09-26",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2022年研究生校长奖学金文信学院推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3884.htm",
       "date": "2022-09-26",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2022年文信学院研究生学业奖学金推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3885.htm",
       "date": "2022-09-26",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2023年上海大学文化遗产与信息管理学院推免生复试方案",
       "url": "https://ischool.shu.edu.cn/info/1013/3873.htm",
       "date": "2022-09-23",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知",
       "url": "https://ischool.shu.edu.cn/info/1013/3874.htm",
       "date": "2022-09-23",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2023年上海大学文化遗产与信息管理学院推免生复试模拟测试的通知——文物与博物馆",
       "url": "https://ischool.shu.edu.cn/info/1013/3875.htm",
       "date": "2022-09-23",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2023年上海大学文化遗产与信息管理学院推免硕士研究生复试通知",
       "url": "https://ischool.shu.edu.cn/info/1013/3881.htm",
       "date": "2022-09-23",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2022年研究生宝钢奖学金文化遗产与信息管理学院推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3872.htm",
       "date": "2022-09-21",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "院研究生第二党支部换届大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3870.htm",
       "date": "2022-09-20",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "院研究生第六党支部成立大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3871.htm",
       "date": "2022-09-20",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2023年免试攻读硕士研究生推荐名单公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3866.htm",
       "date": "2022-09-16",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2022年上海大学文化遗产与信息管理学院研究生学业奖学金评定办法",
       "url": "https://ischool.shu.edu.cn/info/1013/3868.htm",
       "date": "2022-09-16",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "2022年上海大学文化遗产与信息管理学院研究生国家奖学金评审办法",
       "url": "https://ischool.shu.edu.cn/info/1013/3869.htm",
       "date": "2022-09-16",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2023年推荐应届优秀本科毕业生免试攻读硕士学位研...",
       "url": "https://ischool.shu.edu.cn/info/1013/3865.htm",
       "date": "2022-09-14",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022级研究生新生欢迎会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3863.htm",
       "date": "2022-09-12",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022级研究生新生见面会暨团学纳新考察圆满落幕",
       "url": "https://ischool.shu.edu.cn/info/1231/3864.htm",
       "date": "2022-09-12",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022-2023学年研究生团学换届大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3862.htm",
       "date": "2022-09-08",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022-2023学年研究生党总支换届大会顺利举行",
       "url": "https://ischool.shu.edu.cn/info/1231/3851.htm",
       "date": "2022-09-06",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "院研究生第三党支部、第五党支部联动开展“红色故事润心田，革命精神代代传”主题...",
       "url": "https://ischool.shu.edu.cn/info/1231/3841.htm",
       "date": "2022-08-10",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022年全国优秀大学生图书情报与档案管理学科夏令...",
       "url": "https://ischool.shu.edu.cn/info/1013/3832.htm",
       "date": "2022-07-20",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "院研究生第一党支部、第四党支部“我和我的家乡”党史学习教育第五期顺利举办",
       "url": "https://ischool.shu.edu.cn/info/1231/3827.htm",
       "date": "2022-07-16",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院2022年“全国优秀大学生图书情报与档案管理学科夏...",
       "url": "https://ischool.shu.edu.cn/info/1013/3826.htm",
       "date": "2022-07-12",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "文信学院研究生第一、第四党支部联合召开“中国共产党上海市第十二次代表大会精神...",
       "url": "https://ischool.shu.edu.cn/info/1231/3824.htm",
       "date": "2022-07-09",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "文信学院研究生第三党支部、第五党支部“砥砺奋进 勇毅前行——中国共产党上海市第...",
       "url": "https://ischool.shu.edu.cn/info/1231/3825.htm",
       "date": "2022-07-09",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学2022届文化遗产与信息管理学院研究生成绩综合排名公示",
       "url": "https://ischool.shu.edu.cn/info/1013/3823.htm",
       "date": "2022-07-05",
-      "column": "通知公告"
+      "column": "新闻动态"
     },
     {
       "title": "文信学院开展庆七一暨2022年毕业主题教育活动",
       "url": "https://ischool.shu.edu.cn/info/1231/3821.htm",
       "date": "2022-07-01",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院本硕党支部党建工作荣获多项荣誉表彰",
       "url": "https://ischool.shu.edu.cn/info/1231/3822.htm",
       "date": "2022-07-01",
-      "column": "研究生动态"
+      "column": "新闻动态"
     },
     {
       "title": "上海大学文化遗产与信息管理学院关于举办2022年全国优秀大学生图书情报与档案管理...",
@@ -1053,7 +1053,7 @@
       "title": "【学术报告】Recordkeeping Informatics（12月12日）",
       "url": "https://ischool.shu.edu.cn/info/1013/1181.htm",
       "date": "2018-12-20",
-      "column": "通知公告"
+      "column": "新闻动态"
     }
   ]
 }

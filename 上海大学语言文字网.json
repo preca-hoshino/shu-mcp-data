@@ -2,37 +2,13 @@
   "domain": "sdyywz.shu.edu.cn",
   "department": "上海大学语言文字网",
   "type": "04",
-  "crawl_time": "20260822_020702",
-  "total_articles": 249,
+  "crawl_time": "20260514_004804",
+  "total_articles": 241,
   "columns": {
     "新闻动态": 197,
-    "通知通告": 52
+    "通知通告": 44
   },
   "articles": [
-    {
-      "title": "关于举办第八届中华经典诵写讲大赛—— “诗教中国”讲解大赛上海大学选拔赛的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/2932.htm",
-      "date": "2026-06-13",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于举办第八届中华经典诵写讲大赛—— “印记中国”师生篆刻大赛上海大学赛区比赛的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/2892.htm",
-      "date": "2026-06-12",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于举办第八届中华经典诵写讲大赛—— “笔墨中国”汉字书写大赛上海大学赛区比赛的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/2902.htm",
-      "date": "2026-06-12",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于举办第八届中华经典诵写讲大赛—— “诵读中国”经典诵读大赛上海大学赛区比赛的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/2922.htm",
-      "date": "2026-06-12",
-      "column": "通知通告"
-    },
     {
       "title": "重磅 | 权威解读来了！国家通用语言文字法修订了哪些地方（附全文）",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2872.htm",
@@ -442,18 +418,6 @@
       "column": "新闻动态"
     },
     {
-      "title": "关于做好2016年语言文字相关工作培训预报名的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1824.htm",
-      "date": "2015-10-21",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于做好2016年上海文化知识与方言应用能力测试预报名工作的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1825.htm",
-      "date": "2015-10-21",
-      "column": "通知通告"
-    },
-    {
       "title": "文学院张萍老师荣获上海市首届大学语文教学决赛二等奖",
       "url": "https://sdyywz.shu.edu.cn/info/1116/2502.htm",
       "date": "2015-09-24",
@@ -464,18 +428,6 @@
       "url": "https://sdyywz.shu.edu.cn/info/1116/2500.htm",
       "date": "2015-06-12",
       "column": "新闻动态"
-    },
-    {
-      "title": "关于开展2015年度国家语委科研项目申报工作的通知",
-      "url": "http://www.rwskc.shu.edu.cn/Default.aspx?tabid=30916&ctl=Detail&mid=59194&Id=175538&SkinSrc",
-      "date": "2015-06-03",
-      "column": "通知通告"
-    },
-    {
-      "title": "关于组织我校师生参加上海市“高校师生楹联创作书写展示”活动的通知",
-      "url": "https://sdyywz.shu.edu.cn/info/1002/1822.htm",
-      "date": "2015-05-21",
-      "column": "通知通告"
     },
     {
       "title": "2015年度高校语言文字工作会议顺利召开",

@@ -2,37 +2,13 @@
   "domain": "tiyu.shu.edu.cn",
   "department": "上海大学体育学院",
   "type": "06",
-  "crawl_time": "20260822_020702",
-  "total_articles": 151,
+  "crawl_time": "20260514_004804",
+  "total_articles": 147,
   "columns": {
-    "头条新闻": 88,
-    "通知公告": 63
+    "通知公告": 59,
+    "头条新闻": 88
   },
   "articles": [
-    {
-      "title": "关于体育学院运动训练本科专业秘书公示",
-      "url": "https://tiyu.shu.edu.cn/info/1073/7844.htm",
-      "date": "2026-07-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于修订《上海大学体育学院荣誉体系优化建设方案（试行）》的通知",
-      "url": "https://tiyu.shu.edu.cn/info/1073/7834.htm",
-      "date": "2026-07-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学体育学院因公用车管理办法",
-      "url": "https://tiyu.shu.edu.cn/info/1073/7824.htm",
-      "date": "2026-06-18",
-      "column": "通知公告"
-    },
-    {
-      "title": "2025-2026 学年研究生优秀党员先锋名单公示",
-      "url": "https://tiyu.shu.edu.cn/info/1073/7804.htm",
-      "date": "2026-06-09",
-      "column": "通知公告"
-    },
     {
       "title": "2025年度上海大学百名优秀团员公示",
       "url": "https://tiyu.shu.edu.cn/info/1073/7794.htm",

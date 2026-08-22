@@ -2,19 +2,13 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260822_020702",
-  "total_articles": 2810,
+  "crawl_time": "20260822_043152",
+  "total_articles": 2808,
   "columns": {
     "新闻动态": 2595,
-    "通知公告": 215
+    "通知公告": 213
   },
   "articles": [
-    {
-      "title": "关于开展2026-2027学年上海大学家庭经济困难学生认定申请的通知",
-      "url": "https://dwygb.shu.edu.cn/info/1050/41299.htm",
-      "date": "2026-08-10",
-      "column": "通知公告"
-    },
     {
       "title": "表彰，启航！上海大学开展学生“红色先锋”表彰暨2026届毕业生党员教育",
       "url": "https://mp.weixin.qq.com/s/dGVLJGYtgdl7DXzpdVg6hQ",
@@ -32,24 +26,6 @@
       "url": "https://mp.weixin.qq.com/s/6a64_BsKZOtt4jlQh2ihTw",
       "date": "2026-06-16",
       "column": "新闻动态"
-    },
-    {
-      "title": "上海大学第三届研究生“卓越导学团队”评选结果公示",
-      "url": "https://dwygb.shu.edu.cn/info/1050/41249.htm",
-      "date": "2026-06-11",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学家庭经济困难学生认定工作实施办法",
-      "url": "https://dwygb.shu.edu.cn/info/1050/40289.htm",
-      "date": "2026-06-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学学生临时困难补助管理办法",
-      "url": "https://dwygb.shu.edu.cn/info/1050/40329.htm",
-      "date": "2026-06-10",
-      "column": "通知公告"
     },
     {
       "title": "上海大学家庭经济困难学生认定工作实施办法",
@@ -274,7 +250,7 @@
       "column": "新闻动态"
     },
     {
-      "title": "上海大学研究生资助政策指南",
+      "title": "上海大学研究生资助介绍",
       "url": "https://dwygb.shu.edu.cn/info/1050/40159.htm",
       "date": "2025-07-15",
       "column": "通知公告"
@@ -313,6 +289,18 @@
       "title": "关于上海大学2025年研究生思政教育研究课题立项的通知",
       "url": "https://dwygb.shu.edu.cn/info/1050/40099.htm",
       "date": "2025-07-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学研究生特殊及突发情况困难补助管理办法",
+      "url": "https://dwygb.shu.edu.cn/info/1050/40329.htm",
+      "date": "2025-07-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学家庭经济困难研究生认定管理办法",
+      "url": "https://dwygb.shu.edu.cn/info/1050/40289.htm",
+      "date": "2025-07-02",
       "column": "通知公告"
     },
     {

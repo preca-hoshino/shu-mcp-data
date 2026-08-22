@@ -2,37 +2,13 @@
   "domain": "cie.shu.edu.cn",
   "department": "上海大学国际教育学院",
   "type": "13",
-  "crawl_time": "20260822_020702",
-  "total_articles": 505,
+  "crawl_time": "20260528_013200",
+  "total_articles": 501,
   "columns": {
-    "学院通知": 8,
-    "新闻动态": 497
+    "学院通知": 7,
+    "新闻动态": 494
   },
   "articles": [
-    {
-      "title": "“上海大学本科生学籍管理和学位授予补充规定（国际学生）",
-      "url": "https://cie.shu.edu.cn/info/1014/5207.htm",
-      "date": "2026-07-29",
-      "column": "学院通知"
-    },
-    {
-      "title": "“国际部国际教育学院教师党支部赴科大讯飞开展主题党日活动",
-      "url": "https://cie.shu.edu.cn/info/1013/5197.htm",
-      "date": "2026-06-30",
-      "column": "新闻动态"
-    },
-    {
-      "title": "“柬埔寨洪森亲王与夫人奖学金协会（A.M.T）代表团一行8人顺利访问上海大学",
-      "url": "https://cie.shu.edu.cn/info/1013/5187.htm",
-      "date": "2026-06-12",
-      "column": "新闻动态"
-    },
-    {
-      "title": "“深化国际教育交流  共促教学能力提升 ——东南亚国家教师教学能力提升培训班来访我校",
-      "url": "https://cie.shu.edu.cn/info/1013/5177.htm",
-      "date": "2026-06-02",
-      "column": "新闻动态"
-    },
     {
       "title": "“同济大学姚伟嘉助理教授为上海大学师生作“面向国际中文教育的智能体设计、 建构与场景化应用...",
       "url": "https://cie.shu.edu.cn/info/1013/5167.htm",

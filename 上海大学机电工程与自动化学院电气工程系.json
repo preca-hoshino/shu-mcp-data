@@ -2,19 +2,13 @@
   "domain": "ee.shu.edu.cn",
   "department": "上海大学机电工程与自动化学院电气工程系",
   "type": "20",
-  "crawl_time": "20260822_020702",
-  "total_articles": 59,
+  "crawl_time": "20260822_043152",
+  "total_articles": 58,
   "columns": {
     "科研教学": 22,
-    "综合新闻": 37
+    "综合新闻": 36
   },
   "articles": [
-    {
-      "title": "机自学院汪飞教授团队获2026年台达电力电子科教发展计划重点项目立项",
-      "url": "https://ee.shu.edu.cn/info/1012/5114.htm",
-      "date": "2026-07-27",
-      "column": "综合新闻"
-    },
     {
       "title": "机自学院汪飞教授团队获2026年台达电力电子科教发展计划重点项目立项",
       "url": "https://ee.shu.edu.cn/info/1015/5104.htm",

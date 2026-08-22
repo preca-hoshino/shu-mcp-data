@@ -2,28 +2,16 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20260822_020702",
-  "total_articles": 157,
+  "crawl_time": "20260822_043152",
+  "total_articles": 155,
   "columns": {
     "工作动态": 60,
     "成交公告": 22,
     "服务指南": 22,
-    "通知公告": 31,
+    "通知公告": 29,
     "采购公告": 22
   },
   "articles": [
-    {
-      "title": "2026年8-9月暑假采购与招标管理中心值班日程表",
-      "url": "https://czb.shu.edu.cn/info/1015/3372.htm",
-      "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "物业管理中心2025年度100万以下修缮项目施工单位考核结果公示",
-      "url": "https://czb.shu.edu.cn/info/1015/3362.htm",
-      "date": "2026-07-06",
-      "column": "通知公告"
-    },
     {
       "title": "有关“十五五”期间进口设备免税清单调整的提示",
       "url": "https://czb.shu.edu.cn/info/1120/3352.htm",

@@ -2,26 +2,14 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260822_020702",
-  "total_articles": 160,
+  "crawl_time": "20260822_043152",
+  "total_articles": 140,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 54
+    "校园动态": 34
   },
   "articles": [
-    {
-      "title": "双向赋能、共谱新篇！宝山区与上海大学深化战略合作交流会举行",
-      "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
-      "date": "2026-08-17",
-      "column": "校园动态"
-    },
-    {
-      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要...",
-      "url": "https://mp.weixin.qq.com/s/EttuBUcMt6wHwyQFJYBf3Q",
-      "date": "2026-08-17",
-      "column": "校园动态"
-    },
     {
       "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际...",
       "url": "https://www.shu.edu.cn/info/1056/400035.htm",
@@ -41,40 +29,10 @@
       "column": "文明实践"
     },
     {
-      "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
-      "url": "https://mp.weixin.qq.com/s/4WmJ7ODzfLywFlrB5QnDKw",
-      "date": "2026-08-10",
-      "column": "校园动态"
-    },
-    {
-      "title": "387支队伍齐聚！环球自然日2026年度全国总决选在上海大学开幕...",
-      "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
-      "date": "2026-08-10",
-      "column": "校园动态"
-    },
-    {
       "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”A...",
       "url": "https://www.shu.edu.cn/info/1056/399875.htm",
       "date": "2026-08-10",
       "column": "文明实践"
-    },
-    {
-      "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
-      "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
-      "date": "2026-08-03",
-      "column": "校园动态"
-    },
-    {
-      "title": "我校召开2026年产教研协同育人团队交流会",
-      "url": "https://www.shu.edu.cn/info/1053/399685.htm",
-      "date": "2026-08-03",
-      "column": "校园动态"
-    },
-    {
-      "title": "我校召开综改任务落实推进会",
-      "url": "https://www.shu.edu.cn/info/1053/399865.htm",
-      "date": "2026-08-03",
-      "column": "校园动态"
     },
     {
       "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学...",
@@ -159,84 +117,6 @@
       "url": "https://www.shu.edu.cn/info/1056/399465.htm",
       "date": "2026-07-22",
       "column": "文明实践"
-    },
-    {
-      "title": "越南科学技术部部长武海军一行访问上海大学",
-      "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
-      "date": "2026-07-21",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学与上海国投公司签署战略合作协议",
-      "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
-      "date": "2026-07-17",
-      "column": "校园动态"
-    },
-    {
-      "title": "喜报！国家科技进步奖二等奖！",
-      "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
-      "date": "2026-07-09",
-      "column": "校园动态"
-    },
-    {
-      "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成...",
-      "url": "https://mp.weixin.qq.com/s/nVBP2nioWGS-885ZX7tlVg",
-      "date": "2026-07-07",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
-      "url": "https://www.shu.edu.cn/info/1053/398575.htm",
-      "date": "2026-07-06",
-      "column": "校园动态"
-    },
-    {
-      "title": "奔赴山海！今天我们在上海大学毕业啦！",
-      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
-      "date": "2026-07-02",
-      "column": "校园动态"
-    },
-    {
-      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖...",
-      "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
-      "date": "2026-06-29",
-      "column": "校园动态"
-    },
-    {
-      "title": "我校召开2026年院长工作会议",
-      "url": "https://www.shu.edu.cn/info/1053/397565.htm",
-      "date": "2026-06-29",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘...",
-      "url": "https://mp.weixin.qq.com/s/pX3jFE3CZtAS9Rg-QL4L7g",
-      "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
-      "title": "第二届东方国际商事调解研讨会暨钢铁行业知识产权纠纷调解中...",
-      "url": "https://www.shu.edu.cn/info/1053/397135.htm",
-      "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学...",
-      "url": "https://www.shu.edu.cn/info/1053/397145.htm",
-      "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
-      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
-      "url": "https://www.shu.edu.cn/info/1053/396585.htm",
-      "date": "2026-06-08",
-      "column": "校园动态"
-    },
-    {
-      "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
-      "url": "https://www.shu.edu.cn/info/1053/396465.htm",
-      "date": "2026-06-05",
-      "column": "校园动态"
     },
     {
       "title": "上海大学党委理论学习中心组召开树立和践行正确政绩观专题学...",

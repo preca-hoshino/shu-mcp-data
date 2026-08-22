@@ -2,48 +2,12 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260822_020702",
-  "total_articles": 175,
+  "crawl_time": "20260528_091756",
+  "total_articles": 169,
   "columns": {
-    "新闻公告": 175
+    "新闻公告": 169
   },
   "articles": [
-    {
-      "title": "关于李信之、梅海涛同志申报副研究馆员的公示",
-      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8389",
-      "date": "2026-08-20",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于开展上海大学2026年第二批次教师专业实践能力提升计划申请工作的通知",
-      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8369",
-      "date": "2026-07-31",
-      "column": "新闻公告"
-    },
-    {
-      "title": "上海大学2026年暑假组织人事部值班安排",
-      "url": "https://hr.shu.edu.cn/info/1029/8349.htm",
-      "date": "2026-07-31",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于做好2026年教职工年度考核工作的通知",
-      "url": "https://hr.shu.edu.cn/info/1029/8289.htm",
-      "date": "2026-07-02",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于开展2026年教职工聘期考核、续聘和岗位等级晋升工作的通知",
-      "url": "https://hr.shu.edu.cn/info/1029/8299.htm",
-      "date": "2026-07-02",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于做好2026年上海大学高校教师资格认定工作的通知",
-      "url": "https://hr.shu.edu.cn/info/1029/8279.htm",
-      "date": "2026-07-01",
-      "column": "新闻公告"
-    },
     {
       "title": "关于开展2026年度长三角地区高校访问学者计划派出人选推荐工作的通知",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8199",

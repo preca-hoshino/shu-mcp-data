@@ -2,91 +2,13 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260822_020702",
-  "total_articles": 459,
+  "crawl_time": "20260822_043152",
+  "total_articles": 438,
   "columns": {
     "后勤新闻": 320,
-    "通知公告": 139
+    "通知公告": 118
   },
   "articles": [
-    {
-      "title": "上海大学（大型客车）增配配件项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10646.htm",
-      "date": "2026-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学购置（大型客车）配套代办服务项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10656.htm",
-      "date": "2026-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学购置（小型轿车）配套代办服务项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10666.htm",
-      "date": "2026-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学车辆（大型普通客车）购置项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10676.htm",
-      "date": "2026-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学车辆（小型轿车）购置项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10696.htm",
-      "date": "2026-08-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学电热水器采购项目",
-      "url": "https://hbb.shu.edu.cn/info/1005/10636.htm",
-      "date": "2026-08-19",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年餐饮管理中心嘉定校区一食堂二层餐厅宣传类材料采购项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10626.htm",
-      "date": "2026-08-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "嘉定校区宿舍楼维修项目工程监理服务采购公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10616.htm",
-      "date": "2026-08-06",
-      "column": "通知公告"
-    },
-    {
-      "title": "祁连三村204-208号学生公寓室内公共区域日常保洁和城璟公寓入住前房间深度保洁采购公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10606.htm",
-      "date": "2026-08-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学宝山校区图书馆磁悬浮冷水机组1#压缩机维修服务公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10586.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年餐饮管理中心嘉定校区一食堂二楼餐厅低值易耗品采购项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10596.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "物业管理中心2026年宿舍维修专项（100万以下）项目过程评估服务采购公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10486.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "迎新宿舍电风扇一次性清洗保洁服务项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10496.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
     {
       "title": "内蒙古农业大学后勤管理处来我校调研交流",
       "url": "https://hbb.shu.edu.cn/info/1081/10436.htm",
@@ -100,58 +22,16 @@
       "column": "后勤新闻"
     },
     {
-      "title": "物业管理中心2025年度100万以下修缮项目施工单位考核结果公示",
-      "url": "https://hbb.shu.edu.cn/info/1005/10406.htm",
-      "date": "2026-07-03",
-      "column": "通知公告"
-    },
-    {
       "title": "物业管理中心召开2025年度100万以下修缮项目施工单位考核会",
       "url": "https://hbb.shu.edu.cn/info/1081/10416.htm",
       "date": "2026-07-03",
       "column": "后勤新闻"
     },
     {
-      "title": "2026年上海大学宝山校区既有建筑玻璃幕墙定期安全检查服务项目",
-      "url": "https://hbb.shu.edu.cn/info/1005/10366.htm",
-      "date": "2026-07-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "学校食堂满意度专项调查通知",
-      "url": "https://hbb.shu.edu.cn/info/1005/10376.htm",
-      "date": "2026-07-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "陈太公寓入住前和退宿后房间深度保洁采购公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10386.htm",
-      "date": "2026-07-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学延长、新闸路校区办理排水许可证服务项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10346.htm",
-      "date": "2026-07-01",
-      "column": "通知公告"
-    },
-    {
       "title": "后勤保障部与环化学院签署战略合作协议",
       "url": "https://hbb.shu.edu.cn/info/1081/10256.htm",
       "date": "2026-06-12",
       "column": "后勤新闻"
-    },
-    {
-      "title": "2026年餐饮管理中心益新三楼餐厅地板材料采购项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10216.htm",
-      "date": "2026-06-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年餐饮管理中心食堂有害生物防治服务公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10236.htm",
-      "date": "2026-06-10",
-      "column": "通知公告"
     },
     {
       "title": "2026年宝山校区徽派建筑灭白蚁及木质结构修复服务公告",
@@ -2594,12 +2474,6 @@
       "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
       "date": "2021-03-01",
       "column": "后勤新闻"
-    },
-    {
-      "title": "寒潮“突袭”！上大师生请注意……",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488287&idx=1&sn=62a0bf8bcfd5e2228ba124a1502a3b61&chksm=ea2e7bbbdd59f2ad68ba7e9ced609433e0c3d2bbb27644472d99de0c2078b9afa28845d7461a&token=1922560149&lang=zh_CN#rd",
-      "date": "2020-12-30",
-      "column": "通知公告"
     },
     {
       "title": "嘉定饮服邀请校工会开展会员权益专题讲座",

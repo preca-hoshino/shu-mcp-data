@@ -2,31 +2,13 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20260822_020702",
-  "total_articles": 200,
+  "crawl_time": "20260822_043152",
+  "total_articles": 190,
   "columns": {
     "工作动态": 167,
-    "通知公告": 33
+    "通知公告": 23
   },
   "articles": [
-    {
-      "title": "上海大学关于2026年第4批报废资产公开处置的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11264.htm",
-      "date": "2026-08-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学关于2026年第3批报废资产公开处置的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11274.htm",
-      "date": "2026-08-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年暑假实验室与设备管理处值班",
-      "url": "https://sbc.shu.edu.cn/info/1004/11214.htm",
-      "date": "2026-07-24",
-      "column": "通知公告"
-    },
     {
       "title": "以“四渡”精神淬炼正确政绩观，以实干担当赋能高质量发展——资产与实验室管理部四个党支部联合开展主题党日活动",
       "url": "https://sbc.shu.edu.cn/info/1003/11224.htm",
@@ -40,52 +22,10 @@
       "column": "工作动态"
     },
     {
-      "title": "上海大学关于2026年第5批资产处置审议的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11184.htm",
-      "date": "2026-07-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海金沪拍卖有限公司拍卖公告",
-      "url": "https://sbc.shu.edu.cn/info/1004/11194.htm",
-      "date": "2026-07-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海金沪拍卖有限公司拍卖公告",
-      "url": "https://sbc.shu.edu.cn/info/1004/11204.htm",
-      "date": "2026-07-15",
-      "column": "通知公告"
-    },
-    {
       "title": "“上海·大学实验室安全讲堂”开讲 首期聚焦特种设备安全管理",
       "url": "https://sbc.shu.edu.cn/info/1003/11164.htm",
       "date": "2026-07-05",
       "column": "工作动态"
-    },
-    {
-      "title": "上海大学关于2026年第4批资产处置审议的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11154.htm",
-      "date": "2026-06-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学关于2026年第3批资产处置审议的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11124.htm",
-      "date": "2026-06-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学关于2026年第2批报废资产公开处置的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11114.htm",
-      "date": "2026-06-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学关于2026年第2批资产处置审议的公示",
-      "url": "https://sbc.shu.edu.cn/info/1004/11104.htm",
-      "date": "2026-05-20",
-      "column": "通知公告"
     },
     {
       "title": "上海大学关于做好2026年五一假期实验室安全工作的提示",

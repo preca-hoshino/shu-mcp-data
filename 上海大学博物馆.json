@@ -2,25 +2,13 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20260822_020702",
-  "total_articles": 52,
+  "crawl_time": "20260522_125541",
+  "total_articles": 50,
   "columns": {
-    "新闻快递": 43,
+    "新闻快递": 41,
     "通知公告": 9
   },
   "articles": [
-    {
-      "title": "上海大学博物馆、校史馆临时闭馆公告",
-      "url": "https://museum.shu.edu.cn/info/1030/5396.htm",
-      "date": "2026-07-09",
-      "column": "新闻快递"
-    },
-    {
-      "title": "上海大学博物馆2026年端午节假期开放公告",
-      "url": "https://museum.shu.edu.cn/info/1030/5406.htm",
-      "date": "2026-06-12",
-      "column": "新闻快递"
-    },
     {
       "title": "喜报！“玉见文明：良渚文化特展”荣获2025年度上海市博物馆陈列展览精品推介",
       "url": "https://museum.shu.edu.cn/info/1030/5336.htm",

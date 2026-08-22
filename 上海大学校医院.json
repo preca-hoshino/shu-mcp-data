@@ -2,19 +2,13 @@
   "domain": "xyy.shu.edu.cn",
   "department": "上海大学校医院",
   "type": "38",
-  "crawl_time": "20260822_020702",
-  "total_articles": 65,
+  "crawl_time": "20260514_004804",
+  "total_articles": 64,
   "columns": {
-    "公告栏": 49,
+    "公告栏": 48,
     "新闻": 16
   },
   "articles": [
-    {
-      "title": "关于开展2026年上海大学教职工体检的通知",
-      "url": "https://xyy.shu.edu.cn/info/1090/5436.htm",
-      "date": "2026-06-04",
-      "column": "公告栏"
-    },
     {
       "title": "关于开展2026年上海大学教职工体检的通知",
       "url": "https://xyy.shu.edu.cn/info/1090/5386.htm",

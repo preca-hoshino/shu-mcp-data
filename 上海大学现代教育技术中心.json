@@ -2,11 +2,11 @@
   "domain": "metc.shu.edu.cn",
   "department": "上海大学现代教育技术中心",
   "type": "04",
-  "crawl_time": "20260527_091111",
+  "crawl_time": "20260822_043152",
   "total_articles": 91,
   "columns": {
-    "中心新闻": 37,
-    "通知公告": 30,
+    "中心新闻": 49,
+    "通知公告": 18,
     "部门新闻": 24
   },
   "articles": [
@@ -68,7 +68,7 @@
       "title": "立信会计金融学院教务处一行 来访现代教育技术中心交流调研",
       "url": "https://metc.shu.edu.cn/info/1066/3351.htm",
       "date": "2025-11-12",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "上海市卫生健康技术评价中心一行 来访虚拟仿真实验中心",
@@ -86,31 +86,31 @@
       "title": "西北农林科技大学一行参观虚拟仿真实验中心",
       "url": "https://metc.shu.edu.cn/info/1066/3331.htm",
       "date": "2025-10-31",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "打造全天候云+共享计算机实验室 上海大学AI+图形渲染算力支撑实验室正式启用",
       "url": "https://metc.shu.edu.cn/info/1066/3321.htm",
       "date": "2025-10-24",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "打造“数智化”实验教学新范式 上海大学虚拟仿真实验中心正式启用",
       "url": "https://metc.shu.edu.cn/info/1066/3291.htm",
       "date": "2025-10-10",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "云+大文科实验教学示范中心建设研讨会顺利召开",
       "url": "https://metc.shu.edu.cn/info/1066/3281.htm",
       "date": "2025-04-11",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "现教中心召开“AI赋能实验教学，全面部署AI助手”工作推进会",
       "url": "https://metc.shu.edu.cn/info/1066/3261.htm",
       "date": "2025-03-17",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2024-2025春季学期上机机房教室查询",
@@ -122,13 +122,13 @@
       "title": "2024-2025春季学期上机机房教室查询",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=3241",
       "date": "2025-03-12",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "教务部现教中心赴新闻传播学院交流学习",
       "url": "https://metc.shu.edu.cn/info/1066/3201.htm",
       "date": "2025-01-10",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "复旦大学科技伦理与人类未来研究院来访现教中心",
@@ -518,19 +518,19 @@
       "title": "2019-2020秋季学期考场安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1733",
       "date": "2019-10-14",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2019-2020秋季学期自习辅导安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1731",
       "date": "2019-08-30",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "2019-2020秋季学期机房安排",
       "url": "https://metc.shu.edu.cn/nny.jsp?urltype=news.NewsContentUrl&wbtreeid=1067&wbnewsid=1732",
       "date": "2019-08-30",
-      "column": "通知公告"
+      "column": "中心新闻"
     },
     {
       "title": "【上大】关于2018-2019学年暑假工作安排的通知",
@@ -554,7 +554,7 @@
       "title": "◆2010秋计算机课考试安排表",
       "url": "http://www.cc.shu.edu.cn/news/20101105.html",
       "date": "2010-11-05",
-      "column": "通知公告"
+      "column": "中心新闻"
     }
   ]
 }
