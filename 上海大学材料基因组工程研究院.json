@@ -2,11 +2,11 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260822_043152",
-  "total_articles": 408,
+  "crawl_time": "20260822_082441",
+  "total_articles": 409,
   "columns": {
     "学术报告": 131,
-    "科研动态": 75,
+    "科研动态": 76,
     "综合新闻": 46,
     "通知公告": 156
   },
@@ -2266,6 +2266,12 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1629.htm",
       "date": "2016-09-19",
       "column": "通知公告"
+    },
+    {
+      "title": "张统一院士一行赴鄂尔多斯集团访问调研",
+      "url": "https://mgi.shu.edu.cn/info/1063/1711.htm",
+      "date": "2016-08-16",
+      "column": "科研动态"
     },
     {
       "title": "我校材料基因组本科专业“材料设计科学与工程”培养方案专家论证咨询会成功召开",

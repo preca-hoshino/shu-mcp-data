@@ -2,74 +2,68 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260822_043152",
-  "total_articles": 562,
+  "crawl_time": "20260822_082441",
+  "total_articles": 561,
   "columns": {
-    "学术活动预告": 398,
-    "学术研究": 32,
-    "学院新闻": 47,
-    "通知公告": 85
+    "学术活动预告": 400,
+    "学术研究": 33,
+    "学院新闻": 37,
+    "通知公告": 91
   },
   "articles": [
     {
-      "title": "走出课堂读懂社区——上海大学外院学子开展全民阅读赋能社区治理调研",
-      "url": "https://sfs.shu.edu.cn/info/1142/31107.htm",
-      "date": "2026-08-12",
-      "column": "学院新闻"
+      "title": "上海大学日本语能力考点考试入场要求",
+      "url": "https://sfs.shu.edu.cn/info/1141/31117.htm",
+      "date": "2026-08-20",
+      "column": "通知公告"
     },
     {
       "title": "外国语学院尚新教授领衔申报的教学成果获批上海市教学改革推进项目",
-      "url": "https://sfs.shu.edu.cn/info/1142/31087.htm",
+      "url": "https://sfs.shu.edu.cn/info/1036/31097.htm",
       "date": "2026-07-23",
-      "column": "学院新闻"
+      "column": "学术研究"
     },
     {
-      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互鉴研究2026年度专家论坛顺利举行",
-      "url": "https://sfs.shu.edu.cn/info/1142/31067.htm",
-      "date": "2026-07-20",
-      "column": "学院新闻"
+      "title": "上海大学外国语学院2026年教职工聘期考核、续聘和岗位等级晋升工作的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/30977.htm",
+      "date": "2026-07-08",
+      "column": "通知公告"
     },
     {
-      "title": "特大城市基层治理的上海经验与国际共鸣：上大中外师生走进石门二路街道蝴蝶湾探寻城市更新的中国经验",
-      "url": "https://sfs.shu.edu.cn/info/1142/31057.htm",
-      "date": "2026-07-18",
-      "column": "学院新闻"
+      "title": "上海大学外国语学院2026年教职工年度考核工作通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/30987.htm",
+      "date": "2026-07-08",
+      "column": "通知公告"
     },
     {
-      "title": "【学术讲座】外国语言文学视域下的区域国别研究——中国社会科学院日本研究所张季风教授应邀来上海大学作学术讲座",
-      "url": "https://sfs.shu.edu.cn/info/1142/31037.htm",
-      "date": "2026-07-16",
-      "column": "学院新闻"
+      "title": "2026年上海大学暑假工作安排",
+      "url": "https://www.shu.edu.cn/info/1051/397875.htm",
+      "date": "2026-07-01",
+      "column": "通知公告"
     },
     {
-      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛在上海大学成功举办",
-      "url": "https://sfs.shu.edu.cn/info/1142/30957.htm",
-      "date": "2026-07-07",
-      "column": "学院新闻"
-    },
-    {
-      "title": "以青春之名，赴光影之约——上海大学2026年上海国际电影节、上海电视节志愿活动圆满落幕",
-      "url": "https://sfs.shu.edu.cn/info/1142/30897.htm",
+      "title": "上海大学外国语学院英语系“共读一本书”系列活动(第一期) 院长之选《离骚》专题读书会",
+      "url": "https://sfs.shu.edu.cn/info/1148/30907.htm",
       "date": "2026-06-30",
-      "column": "学院新闻"
+      "column": "学术活动预告"
     },
     {
-      "title": "校际交流拓思路 互学互鉴促提升——上海海洋大学外国语学院来校调研交流",
-      "url": "https://sfs.shu.edu.cn/info/1142/30837.htm",
+      "title": "中国英汉语比较研究会2026年常务理事会暨第五届英汉对比与翻译学科建设高层论坛通知（第三号）",
+      "url": "https://sfs.shu.edu.cn/info/1141/30867.htm",
       "date": "2026-06-26",
-      "column": "学院新闻"
+      "column": "通知公告"
     },
     {
-      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://sfs.shu.edu.cn/info/1142/30877.htm",
+      "title": "“话语·文化·社会”湖畔沙龙第42期暨AI赋能外语学科科研创新",
+      "url": "https://sfs.shu.edu.cn/info/1148/30857.htm",
       "date": "2026-06-26",
-      "column": "学院新闻"
+      "column": "学术活动预告"
     },
     {
-      "title": "筑牢安全防线 共绘发展新篇——外国语学院召开全院教职工大会",
-      "url": "https://sfs.shu.edu.cn/info/1142/30887.htm",
-      "date": "2026-06-26",
-      "column": "学院新闻"
+      "title": "外国语学院研究生招生宣传册",
+      "url": "https://sfs.shu.edu.cn/info/1141/30697.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
     },
     {
       "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",

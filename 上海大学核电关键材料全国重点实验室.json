@@ -2,13 +2,13 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260822_043152",
-  "total_articles": 23,
+  "crawl_time": "20260822_082441",
+  "total_articles": 24,
   "columns": {
     "开放课题": 1,
     "招生招聘": 1,
-    "新闻资讯": 7,
-    "研究成果": 5,
+    "新闻资讯": 9,
+    "研究成果": 4,
     "通知公告": 9
   },
   "articles": [
@@ -31,10 +31,16 @@
       "column": "通知公告"
     },
     {
-      "title": "研究成果| 核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金的最新研究成果",
-      "url": "https://mp.weixin.qq.com/s/1AjH-O6RmFn-RE7Vvk1EEA",
-      "date": "2026-06-22",
-      "column": "研究成果"
+      "title": "新闻|核电关键材料全国重点实验室理事会第二次会议、第一届学术委员会第二次会议成功召开",
+      "url": "https://mp.weixin.qq.com/s/CtY7BBPD4KaZz0_B0wygCQ?token=1950741848&lang=zh_CN",
+      "date": "2026-07-02",
+      "column": "新闻资讯"
+    },
+    {
+      "title": "新闻| 突破“卡脖子”瓶颈，我国钍基熔盐堆专用焊材实现国产化",
+      "url": "https://mp.weixin.qq.com/s/NLsNYxwfRYA_YCQqI9zanQ",
+      "date": "2026-06-05",
+      "column": "新闻资讯"
     },
     {
       "title": "新闻|宝武特冶核电蒸发器用关键镍（铁）基材料获评国家级制造业单项冠军",

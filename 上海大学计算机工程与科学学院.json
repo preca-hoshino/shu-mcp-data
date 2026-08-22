@@ -2,27 +2,15 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260822_043152",
-  "total_articles": 393,
+  "crawl_time": "20260822_082441",
+  "total_articles": 392,
   "columns": {
-    "学术活动": 25,
+    "学术活动": 21,
     "新闻动态": 39,
     "重要通知": 311,
-    "风采展示": 18
+    "风采展示": 21
   },
   "articles": [
-    {
-      "title": "学术报告567：ReFTA：打破张量化PEFT的权重重建瓶颈",
-      "url": "https://cs.shu.edu.cn/info/1501/51601.htm",
-      "date": "2026-07-01",
-      "column": "学术活动"
-    },
-    {
-      "title": "学术报告568：面向真实世界的强化学习",
-      "url": "https://cs.shu.edu.cn/info/1501/51611.htm",
-      "date": "2026-07-01",
-      "column": "学术活动"
-    },
     {
       "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生俞浩奕",
       "url": "https://mp.weixin.qq.com/s/7NpMFRf-QTgFuNX9TvmGkg",
@@ -45,6 +33,12 @@
       "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生韩晶鑫",
       "url": "https://mp.weixin.qq.com/s/hkI6K7Rdwa3a5s6Uh7UFVQ",
       "date": "2026-07-01",
+      "column": "风采展示"
+    },
+    {
+      "title": "研究生风采 | 研精毕智，笃行致远——2026届上海市优秀毕业生李春洁",
+      "url": "https://mp.weixin.qq.com/s/7tDrP844R-5Ejjlkl_u3kw",
+      "date": "2026-06-01",
       "column": "风采展示"
     },
     {
@@ -78,6 +72,12 @@
       "column": "风采展示"
     },
     {
+      "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生徐宏伟",
+      "url": "https://mp.weixin.qq.com/s/mR8vR1R_ls7fUp9CLxVxQQ",
+      "date": "2026-06-01",
+      "column": "风采展示"
+    },
+    {
       "title": "上海大学计算机工程与科学学院2026年博士研究生招生第二次报名须知",
       "url": "https://cs.shu.edu.cn/info/1081/50801.htm",
       "date": "2026-05-01",
@@ -100,6 +100,12 @@
       "url": "https://mp.weixin.qq.com/s/8iIhFIDmvTlRGwVg0HhmzQ",
       "date": "2026-05-01",
       "column": "新闻动态"
+    },
+    {
+      "title": "研究生风采 | 坚守科技报国初心，勇担强国建设使命——2026届上海市优秀毕业生薛至言",
+      "url": "https://mp.weixin.qq.com/s/9H-PJB05pvTQ7RQaJL-ZcA",
+      "date": "2026-05-01",
+      "column": "风采展示"
     },
     {
       "title": "上海大学荣获第十三届ASC世界大学生超算竞赛一等奖",
@@ -2294,18 +2300,6 @@
     {
       "title": "学术报告 - Structured Concurrency: An Approach to Programming",
       "url": "https://cs.shu.edu.cn/info/1501/42061.htm",
-      "date": "2010-06-01",
-      "column": "学术活动"
-    },
-    {
-      "title": "学术报告 - 完整的多尺度材料设计软件平台",
-      "url": "https://cs.shu.edu.cn/info/1501/42081.htm",
-      "date": "2010-06-01",
-      "column": "学术活动"
-    },
-    {
-      "title": "学术报告 -  A new type of P2P networks --semantic P2P network--VIRGO",
-      "url": "https://cs.shu.edu.cn/info/1501/42091.htm",
       "date": "2010-06-01",
       "column": "学术活动"
     },

@@ -2,12 +2,12 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260822_043152",
-  "total_articles": 1680,
+  "crawl_time": "20260822_082441",
+  "total_articles": 1678,
   "columns": {
-    "学术动态": 87,
+    "学术动态": 84,
     "学院新闻": 1113,
-    "报告讲座": 132,
+    "报告讲座": 133,
     "科研动态": 34,
     "通知公告(教师)": 28,
     "通知公告(本科生)": 109,
@@ -19,6 +19,12 @@
       "url": "https://mat.shu.edu.cn/info/1012/30878.htm",
       "date": "2026-08-17",
       "column": "学院新闻"
+    },
+    {
+      "title": "8月14日：Two-dimensional Materials: A Multidisciplinary Approach to Data Storage, Multi...",
+      "url": "https://mat.shu.edu.cn/info/1015/30868.htm",
+      "date": "2026-08-11",
+      "column": "报告讲座"
     },
     {
       "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界...",
@@ -55,12 +61,6 @@
       "url": "https://mat.shu.edu.cn/info/1012/30798.htm",
       "date": "2026-07-28",
       "column": "学院新闻"
-    },
-    {
-      "title": "材料学院研究生党支部开展“凝心铸魂强党性 实干担当树政绩”主题党日",
-      "url": "https://mat.shu.edu.cn/info/1014/30808.htm",
-      "date": "2026-07-28",
-      "column": "学术动态"
     },
     {
       "title": "材料学院2026暑假值班安排",
@@ -127,12 +127,6 @@
       "url": "https://mat.shu.edu.cn/info/1012/30658.htm",
       "date": "2026-07-18",
       "column": "学院新闻"
-    },
-    {
-      "title": "2025级材工系研究生第二、第三党支部联合开展“光影忆四渡 红心向未来”主题党日活动",
-      "url": "https://mat.shu.edu.cn/info/1014/30648.htm",
-      "date": "2026-07-16",
-      "column": "学术动态"
     },
     {
       "title": "毕业证领取通知（20260709）",
@@ -247,12 +241,6 @@
       "url": "https://mat.shu.edu.cn/info/1012/30408.htm",
       "date": "2026-06-29",
       "column": "学院新闻"
-    },
-    {
-      "title": "钢铁冶金博士研究生党支部联合电子信息材料博士研究生党支部开展主题党日活动",
-      "url": "https://mat.shu.edu.cn/info/1014/30398.htm",
-      "date": "2026-06-26",
-      "column": "学术动态"
     },
     {
       "title": "毕业证领取通知（20260625）",

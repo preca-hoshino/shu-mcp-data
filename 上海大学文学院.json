@@ -2,14 +2,14 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260822_043152",
-  "total_articles": 1972,
+  "crawl_time": "20260822_082441",
+  "total_articles": 1976,
   "columns": {
-    "学术报告": 100,
+    "学术报告": 102,
     "学生动态": 147,
     "学院周志": 302,
     "科研动态": 481,
-    "综合新闻": 521,
+    "综合新闻": 523,
     "通知公告": 421
   },
   "articles": [
@@ -50,6 +50,18 @@
       "column": "通知公告"
     },
     {
+      "title": "“文脉承光 逐梦新程”上海大学文学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://cla.shu.edu.cn/info/1015/53648.htm",
+      "date": "2026-06-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "国家为什么会“成功”：现代化研究的反思与中国现代化的实践",
+      "url": "https://cla.shu.edu.cn/info/1016/53578.htm",
+      "date": "2026-06-15",
+      "column": "学术报告"
+    },
+    {
       "title": "上海大学人文学术论文写作与教学工作坊顺利举办",
       "url": "https://cla.shu.edu.cn/info/1019/53588.htm",
       "date": "2026-06-15",
@@ -60,6 +72,18 @@
       "url": "https://cla.shu.edu.cn/info/1017/53558.htm",
       "date": "2026-06-08",
       "column": "通知公告"
+    },
+    {
+      "title": "第三届《尚书》学研究学术研讨会在上海大学成功举办",
+      "url": "https://cla.shu.edu.cn/info/1015/53538.htm",
+      "date": "2026-06-01",
+      "column": "综合新闻"
+    },
+    {
+      "title": "风起南洋：新加坡华文诗歌六十年",
+      "url": "https://cla.shu.edu.cn/info/1016/53528.htm",
+      "date": "2026-06-01",
+      "column": "学术报告"
     },
     {
       "title": "第三届《尚书》学研究学术研讨会在上海大学成功举办",

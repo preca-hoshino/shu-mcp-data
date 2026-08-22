@@ -2,13 +2,19 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260514_004804",
-  "total_articles": 51,
+  "crawl_time": "20260822_082441",
+  "total_articles": 52,
   "columns": {
-    "信息动态": 24,
+    "信息动态": 25,
     "通知公告": 27
   },
   "articles": [
+    {
+      "title": "智能报销系统操作演示PPT（202606）",
+      "url": "https://cwc.shu.edu.cn/info/1014/7234.htm",
+      "date": "2026-06-24",
+      "column": "信息动态"
+    },
     {
       "title": "2025年上海大学财务与资产业务百问百答",
       "url": "https://cwc.shu.edu.cn/info/1014/7064.htm",

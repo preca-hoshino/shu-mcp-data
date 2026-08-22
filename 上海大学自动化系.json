@@ -2,13 +2,25 @@
   "domain": "automation.shu.edu.cn",
   "department": "上海大学自动化系",
   "type": "06",
-  "crawl_time": "20260527_053350",
-  "total_articles": 75,
+  "crawl_time": "20260822_082441",
+  "total_articles": 77,
   "columns": {
-    "新闻": 67,
+    "新闻": 69,
     "讲座/会议": 8
   },
   "articles": [
+    {
+      "title": "立德树人结硕果，自动化系喜报频传",
+      "url": "https://automation.shu.edu.cn/info/1128/4213.htm",
+      "date": "2026-06-29",
+      "column": "新闻"
+    },
+    {
+      "title": "以赛促学，实操赋能：自动化系物联网设计竞赛培训顺利开展",
+      "url": "https://automation.shu.edu.cn/info/1128/4203.htm",
+      "date": "2026-06-02",
+      "column": "新闻"
+    },
     {
       "title": "2024-2025学年“上电所奖学金”获奖学生名单公示",
       "url": "https://automation.shu.edu.cn/info/1128/4173.htm",

@@ -2,20 +2,14 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260822_043152",
-  "total_articles": 371,
+  "crawl_time": "20260822_082441",
+  "total_articles": 370,
   "columns": {
-    "学术动态": 33,
-    "新闻快递": 314,
+    "学术动态": 34,
+    "新闻快递": 312,
     "研究成果": 24
   },
   "articles": [
-    {
-      "title": "首钢贵钢PMO工程技术改造项目顺利通过验收",
-      "url": "https://cast.shu.edu.cn/info/1042/4231.htm",
-      "date": "2026-08-17",
-      "column": "新闻快递"
-    },
     {
       "title": "船用缸套铸造技术专栏重磅刊发《铸造工程》—— 上海大学先进凝固技术中心攻坚船舶动力核心部件国产化",
       "url": "https://cast.shu.edu.cn/info/1043/4171.htm",
@@ -29,10 +23,10 @@
       "column": "研究成果"
     },
     {
-      "title": "第一期象屿CAST奖学金颁奖仪式暨象屿集团—上大CAST人才培养与技术交流会顺利举行",
-      "url": "https://cast.shu.edu.cn/info/1042/4151.htm",
-      "date": "2026-06-29",
-      "column": "新闻快递"
+      "title": "仲红刚参加2026年连铸学会年会",
+      "url": "https://cast.shu.edu.cn/info/1044/4141.htm",
+      "date": "2026-06-16",
+      "column": "学术动态"
     },
     {
       "title": "CAST团队亮相2026中国铸造年会暨国际铸造博览会",
