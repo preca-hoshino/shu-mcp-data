@@ -2,30 +2,18 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20260823_123747",
-  "total_articles": 475,
+  "crawl_time": "20260824_021438",
+  "total_articles": 471,
   "columns": {
     "新闻动态": 460,
-    "通知公告": 15
+    "通知公告": 11
   },
   "articles": [
-    {
-      "title": "亲子相伴 悦读一夏——泮池家长学校暑期亲子共读活动报名通知",
-      "url": "https://mp.weixin.qq.com/s/Bkr65arOaiUZGgi65UEcQA",
-      "date": "2026-07-22",
-      "column": "通知公告"
-    },
     {
       "title": "活动回顾|第四十四期泮池家长学校亲子研学活动顺利举办",
       "url": "https://mp.weixin.qq.com/s/91UbU7oYIge-Br1t7lqvtw",
       "date": "2026-07-21",
       "column": "新闻动态"
-    },
-    {
-      "title": "活动预告|第四十四期泮池家长学校（亲子研学）活动预告",
-      "url": "https://mp.weixin.qq.com/s/Y5noXrwp_hpTq3HZP_ayag",
-      "date": "2026-07-15",
-      "column": "通知公告"
     },
     {
       "title": "活动回顾 | 泮池家长学校第四十二讲：知“止”得定，知“心”...",
@@ -38,18 +26,6 @@
       "url": "https://mp.weixin.qq.com/s/3nhsFmlL2eMGntE2R0jzdA",
       "date": "2026-06-01",
       "column": "新闻动态"
-    },
-    {
-      "title": "“泮池家长学校”第四十二期预告 | 知“止”得定，知“心”相...",
-      "url": "https://mp.weixin.qq.com/s/iwzFmK7naDOrF0svyRbP7g",
-      "date": "2026-06-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "“上二代”小掌柜乐淘集市六一狂欢来袭！",
-      "url": "https://mp.weixin.qq.com/s/2MQKnx-ynBjR_LqOSrwRWg",
-      "date": "2026-05-21",
-      "column": "通知公告"
     },
     {
       "title": "上海大学女教授联谊会赴青浦区开展文化品读活动",
