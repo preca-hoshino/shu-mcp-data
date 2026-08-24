@@ -2,13 +2,13 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260824_021438",
-  "total_articles": 18396,
+  "crawl_time": "20260824_044305",
+  "total_articles": 18391,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16275,
     "通知公告": 447,
-    "重要新闻": 30
+    "重要新闻": 25
   },
   "articles": [
     {
@@ -54,12 +54,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
-      "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
-      "date": "2026-07-28",
-      "column": "重要新闻"
-    },
-    {
       "title": "材料基因组工程研究院张统一院士团队牵头研发科学领域贝叶斯优化框架Bgolearn，加速新材料发现",
       "url": "https://www.shu.edu.cn/info/1055/399595.htm",
       "date": "2026-07-28",
@@ -78,34 +72,16 @@
       "column": "科研动态"
     },
     {
-      "title": "越南科学技术部部长武海军一行访问上海大学",
-      "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
-      "date": "2026-07-21",
-      "column": "重要新闻"
-    },
-    {
       "title": "钱伟长学院师生参加2026年中国材料大会",
       "url": "https://www.shu.edu.cn/info/1055/399365.htm",
       "date": "2026-07-20",
       "column": "科研动态"
     },
     {
-      "title": "上海大学与上海国投公司签署战略合作协议",
-      "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
-      "date": "2026-07-17",
-      "column": "重要新闻"
-    },
-    {
       "title": "法学院获2026年度国家知识产权局软科学研究项目立项",
       "url": "https://www.shu.edu.cn/info/1055/399045.htm",
       "date": "2026-07-14",
       "column": "科研动态"
-    },
-    {
-      "title": "喜报！国家科技进步奖二等奖！",
-      "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
-      "date": "2026-07-09",
-      "column": "重要新闻"
     },
     {
       "title": "微电子学院徐韬副教授在《Advanced Materials》《Advanced Functional Materials》《ACS Nano》等期刊发表透明光伏器件及光学设计系列研究成果",
@@ -124,12 +100,6 @@
       "url": "https://www.shu.edu.cn/info/1055/398625.htm",
       "date": "2026-07-06",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
-      "url": "https://www.shu.edu.cn/info/1053/398575.htm",
-      "date": "2026-07-02",
-      "column": "重要新闻"
     },
     {
       "title": "关于宝山校区校内通行温馨提醒",
