@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260824_124827",
-  "total_articles": 2019,
+  "crawl_time": "20260825_021014",
+  "total_articles": 2020,
   "columns": {
     "学术报告": 518,
     "教学信息": 21,
-    "新闻动态": 1264,
+    "新闻动态": 1265,
     "通知公告": 216
   },
   "articles": [
+    {
+      "title": "通信学院郭海润教授团队在《Photonics Research》发表集成量子光源最新研究成果",
+      "url": "https://scie.shu.edu.cn/info/1064/46895.htm",
+      "date": "2026-08-24",
+      "column": "新闻动态"
+    },
     {
       "title": "喜报 | 我院团队在中国研究生电子设计竞赛全国总决赛中荣获全国一等奖、二等奖",
       "url": "https://scie.shu.edu.cn/info/1064/46885.htm",
