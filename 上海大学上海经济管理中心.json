@@ -2,48 +2,24 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260825_124504",
-  "total_articles": 59,
+  "crawl_time": "20260826_021627",
+  "total_articles": 55,
   "columns": {
-    "招生简章": 25,
-    "要闻速递": 34
+    "招生简章": 27,
+    "要闻速递": 28
   },
   "articles": [
     {
-      "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
-      "url": "https://jgzx.shu.edu.cn/info/1017/14788.htm",
-      "date": "2026-07-27",
-      "column": "要闻速递"
+      "title": "【免费高研培训】人社部专业技术人才知识更新工程“智能制造协同创新与数智升维”高级研修项目启动报名",
+      "url": "https://jgzx.shu.edu.cn/info/1019/14568.htm",
+      "date": "2026-06-23",
+      "column": "招生简章"
     },
     {
-      "title": "中心举办2026年上海市中小企业服务能力提升培训班",
-      "url": "https://jgzx.shu.edu.cn/info/1017/14708.htm",
-      "date": "2026-07-06",
-      "column": "要闻速递"
-    },
-    {
-      "title": "2026年怒江州生态赋能与绿色产业发展专题培训班启动",
-      "url": "https://jgzx.shu.edu.cn/info/1017/14608.htm",
-      "date": "2026-07-03",
-      "column": "要闻速递"
-    },
-    {
-      "title": "走访洽谈拓渠道 多方对接育人才——上海经济管理中心与合作单位持续深化人才培养合作",
-      "url": "https://jgzx.shu.edu.cn/info/1017/14498.htm",
-      "date": "2026-06-18",
-      "column": "要闻速递"
-    },
-    {
-      "title": "中心校友余涛荣获上海大学2024-2025年度优秀校友“卓越贡献奖”",
-      "url": "https://jgzx.shu.edu.cn/info/1017/14328.htm",
-      "date": "2026-06-03",
-      "column": "要闻速递"
-    },
-    {
-      "title": "聚焦电子科技，赋能技术创新——上海总工程师协会走进上海涵优电子科技有限公司",
-      "url": "https://jgzx.shu.edu.cn/info/1017/14378.htm",
-      "date": "2026-06-03",
-      "column": "要闻速递"
+      "title": "【招生】上海大学与法国让穆兰里昂第三大学合作举办社会学专业硕士研究生教育项目第十一期（文末附中英文个人简历模板）",
+      "url": "https://jgzx.shu.edu.cn/info/1019/14438.htm",
+      "date": "2026-06-05",
+      "column": "招生简章"
     },
     {
       "title": "我校举办2026年数字技术应用专项师资研修班",
