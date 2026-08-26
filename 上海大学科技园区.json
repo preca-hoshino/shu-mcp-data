@@ -2,10 +2,10 @@
   "domain": "sustp.shu.edu.cn",
   "department": "上海大学科技园区",
   "type": "09",
-  "crawl_time": "20260826_083844",
-  "total_articles": 42,
+  "crawl_time": "20260826_125036",
+  "total_articles": 41,
   "columns": {
-    "公告": 9,
+    "公告": 8,
     "新闻资讯": 31,
     "通知": 2
   },
@@ -15,12 +15,6 @@
       "url": "https://sustp.shu.edu.cn/info/1004/4531.htm",
       "date": "2026-06-03",
       "column": "新闻资讯"
-    },
-    {
-      "title": "校党委第四巡察组向科技园区与产业系统党委反馈巡察情况",
-      "url": "https://sustp.shu.edu.cn/info/1123/4521.htm",
-      "date": "2026-06-03",
-      "column": "公告"
     },
     {
       "title": "结束巡察进驻公告",

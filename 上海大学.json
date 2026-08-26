@@ -2,15 +2,39 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260826_083844",
-  "total_articles": 18396,
+  "crawl_time": "20260826_125036",
+  "total_articles": 18406,
   "columns": {
     "科研动态": 1644,
-    "综合新闻": 16275,
+    "综合新闻": 16285,
     "通知公告": 447,
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "理学院化学系学生在第十四届全国大学生化学实验竞赛总决赛中喜获佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/400105.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学力工学院学子获第二届全国大学生智能建造竞赛一等奖",
+      "url": "https://www.shu.edu.cn/info/1056/400115.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "民进上海大学委员会6位教授被聘任为上海民进开明科普宣讲团专家",
+      "url": "https://www.shu.edu.cn/info/1056/400125.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026全国第十九届精密工程学术研讨会暨青年学者创新论坛成功举行",
+      "url": "https://www.shu.edu.cn/info/1056/400135.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
     {
       "title": "宝山区与上海大学深化战略合作交流会举行",
       "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
@@ -18,10 +42,46 @@
       "column": "重要新闻"
     },
     {
+      "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400065.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“2026运动防治慢性病国际会议”在上海成功召开",
+      "url": "https://www.shu.edu.cn/info/1056/400075.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学法学院联合国家知识产权局审协天津中心举办“科研创新・专利实战营”",
+      "url": "https://www.shu.edu.cn/info/1056/400085.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
+    },
+    {
       "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界面能领域重要研究成果",
       "url": "https://www.shu.edu.cn/info/1055/400025.htm",
       "date": "2026-08-14",
       "column": "科研动态"
+    },
+    {
+      "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际采风系列活动圆满收官",
+      "url": "https://www.shu.edu.cn/info/1056/400035.htm",
+      "date": "2026-08-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学在第十三届全国高校物理实验教学研讨会自制仪器评比中斩获佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/400045.htm",
+      "date": "2026-08-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
+      "url": "https://www.shu.edu.cn/info/1056/400055.htm",
+      "date": "2026-08-14",
+      "column": "综合新闻"
     },
     {
       "title": "环球自然日2026年度全国总决选在上海大学开幕",
