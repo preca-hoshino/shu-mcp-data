@@ -2,13 +2,13 @@
   "domain": "suitm.shu.edu.cn",
   "department": "上海大学转化医学研究院",
   "type": "20",
-  "crawl_time": "20260520_052625",
+  "crawl_time": "20260826_083844",
   "total_articles": 105,
   "columns": {
-    "图片新闻": 15,
+    "图片新闻": 12,
     "新闻动态": 26,
     "期刊建设": 11,
-    "科研成果": 25,
+    "科研成果": 28,
     "通知公告": 28
   },
   "articles": [
@@ -601,10 +601,10 @@
       "column": "通知公告"
     },
     {
-      "title": "转化医学研究院井莹莹教授团队联合长海医院苏佳灿教授团队在《Bone Research》发表文章2021/10/09",
+      "title": "转化医学研究院团队在《Bone Research》发表文章2021/10/09",
       "url": "https://mp.weixin.qq.com/s/0l-rbB9S-8Jf6QLGXKv64A",
       "date": "2021-10-09",
-      "column": "图片新闻"
+      "column": "科研成果"
     },
     {
       "title": "刘昌胜校长率队深入教学一线调研秋季学期开学第一课2021/10/09",
@@ -619,16 +619,16 @@
       "column": "通知公告"
     },
     {
-      "title": "转化医学研究院井莹莹教授团队联合长海医院苏佳灿教授、陈晓教授研究团队在《Bioactive Materials》发表了论文2021/10/07",
+      "title": "转化医学研究院团队在《Bioactive Materials》发表了论文2021/10/07",
       "url": "https://mp.weixin.qq.com/s/UhUEtqR0bF56fu0D0IIEJQ",
       "date": "2021-10-07",
-      "column": "图片新闻"
+      "column": "科研成果"
     },
     {
-      "title": "转化医学研究院胡宏岗教授联合张卫东教授在《Chemical Reviews》发表封面文章2021/10/07",
+      "title": "转化医学研究院团队在《Chemical Reviews》发表封面文章2021/10/07",
       "url": "https://mp.weixin.qq.com/s/mEWiMKh6En4kFMSBxZnwLg",
       "date": "2021-10-07",
-      "column": "图片新闻"
+      "column": "科研成果"
     },
     {
       "title": "我爱你，中国！上大人唱响对祖国的赞歌！2021/10/07",

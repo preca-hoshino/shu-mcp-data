@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260826_043846",
+  "crawl_time": "20260826_083844",
   "total_articles": 545,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于上海大学2026年度“启源青年学者项目” 拟推荐项目的公示",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12332.htm",
+      "date": "2026-08-26",
+      "column": "通知公告"
+    },
     {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“农业科技”项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12322.htm",
@@ -27,12 +33,6 @@
       "title": "关于发布移动信息网络国家科技重大专项2027年度项目申报指南（公开竞争）的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12302.htm",
       "date": "2026-08-20",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2026年上海市教委、上海市教育基金会 “曙光计划”（自然科学类、人文社科类）项目上报名单公示",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12282.htm",
-      "date": "2026-08-19",
       "column": "通知公告"
     },
     {

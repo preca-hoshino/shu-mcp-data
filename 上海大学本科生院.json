@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260826_043846",
+  "crawl_time": "20260826_083844",
   "total_articles": 1815,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,12 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "上海大学具身智能机器人专项班2026年招生简章（机电工程与自动化学院）",
+      "url": "https://bksy.shu.edu.cn/info/1015/321584.htm",
+      "date": "2026-08-26",
+      "column": "通知公告"
+    },
     {
       "title": "关于上海大学2026年度本科专业设置的公示",
       "url": "https://bksy.shu.edu.cn/info/1015/321554.htm",
@@ -116,12 +122,6 @@
       "title": "关于做好2026年8月本科毕业生申请学士学位工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321264.htm",
       "date": "2026-07-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "2025-2026学年春季学期补考、缓考安排",
-      "url": "https://bksy.shu.edu.cn/info/1015/321224.htm",
-      "date": "2026-07-17",
       "column": "通知公告"
     },
     {
