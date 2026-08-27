@@ -2,32 +2,14 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260826_125036",
-  "total_articles": 111,
+  "crawl_time": "20260529_053205",
+  "total_articles": 108,
   "columns": {
-    "公告信息": 37,
+    "公告信息": 34,
     "图书馆新闻": 41,
     "资源动态": 33
   },
   "articles": [
-    {
-      "title": "关于2026年图书馆暑假开放的通知",
-      "url": "https://lib.shu.edu.cn/info/1022/7064.htm",
-      "date": "2026-07-27",
-      "column": "公告信息"
-    },
-    {
-      "title": "关于图书馆防汛防台期间临时闭馆通知",
-      "url": "https://lib.shu.edu.cn/info/1022/7034.htm",
-      "date": "2026-07-09",
-      "column": "公告信息"
-    },
-    {
-      "title": "关于2026年图书馆端午节放假安排的通知",
-      "url": "https://lib.shu.edu.cn/info/1022/6994.htm",
-      "date": "2026-06-15",
-      "column": "公告信息"
-    },
     {
       "title": "馆际互鉴 共促发展 ——深圳大学图书馆同仁赴我馆开展专题调研交流",
       "url": "https://lib.shu.edu.cn/info/1024/6974.htm",
