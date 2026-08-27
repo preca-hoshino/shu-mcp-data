@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260827_104226",
-  "total_articles": 3922,
+  "crawl_time": "20260827_150040",
+  "total_articles": 3923,
   "columns": {
     "主办会议": 41,
     "学术报告": 2645,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 49,
     "科研动态": 308,
-    "综合新闻": 619,
+    "综合新闻": 620,
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "理学院2026年度国家自然科学基金资助再创佳绩",
+      "url": "https://scicol.shu.edu.cn/info/1007/33755.htm",
+      "date": "2026-08-27",
+      "column": "综合新闻"
+    },
     {
       "title": "物理学科Seminar第829讲 自动化计算工作流程加速对不对称催化的机理理解",
       "url": "https://scicol.shu.edu.cn/info/1003/33745.htm",
