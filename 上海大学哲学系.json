@@ -2,13 +2,12 @@
   "domain": "zxx.shu.edu.cn",
   "department": "上海大学哲学系",
   "type": "20",
-  "crawl_time": "20260827_184806",
+  "crawl_time": "20260827_215043",
   "total_articles": 113,
   "columns": {
     "图片新闻": 4,
     "学术动态": 3,
-    "学生天地": 1,
-    "新闻速递": 98,
+    "新闻速递": 99,
     "通知公告": 7
   },
   "articles": [
@@ -89,12 +88,6 @@
       "url": "https://mp.weixin.qq.com/s/aL8GAt2WwNoZSZujOvejLA",
       "date": "2019-05-27",
       "column": "学术动态"
-    },
-    {
-      "title": "2019年上海顾村公园樱花节志愿者面试圆满结束2019-03-18",
-      "url": "https://zxx.shu.edu.cn/system/defaultcontent.jsp",
-      "date": "2019-03-18",
-      "column": "学生天地"
     },
     {
       "title": "东方教育时报：上海大学首开上海党史课《开天辟地》：“真理的味道别样甜！”2018-10-30",
@@ -688,6 +681,12 @@
       "title": "学科建设实事2009-10-13",
       "url": "https://zxx.shu.edu.cn/info/1051/1699.htm",
       "date": "2009-10-13",
+      "column": "新闻速递"
+    },
+    {
+      "title": "陈新汉教授做客香港中文大学做访问学者2005-03-06",
+      "url": "https://zxx.shu.edu.cn/system/defaultcontent.jsp",
+      "date": "2005-03-06",
       "column": "新闻速递"
     }
   ]
