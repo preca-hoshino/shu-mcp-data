@@ -2,13 +2,25 @@
   "domain": "sklass.shu.edu.cn",
   "department": "上海大学先进特殊钢全国重点实验室",
   "type": "20",
-  "crawl_time": "20260514_004804",
-  "total_articles": 12,
+  "crawl_time": "20260828_195159",
+  "total_articles": 14,
   "columns": {
-    "重要新闻": 10,
-    "公示公告": 2
+    "公示公告": 2,
+    "重要新闻": 12
   },
   "articles": [
+    {
+      "title": "2026年上海科技节上海大学先进特殊钢全国重点实验室开放活动2026-06-05",
+      "url": "https://sklass.shu.edu.cn/info/1042/10272.htm",
+      "date": "2026-06-05",
+      "column": "重要新闻"
+    },
+    {
+      "title": "特殊钢精炼教工党支部与中国联合重型燃气轮机技术有限公司材料中心和综合管理部党支部开展第三期党建联学系列活动2026-05-18",
+      "url": "https://sklass.shu.edu.cn/info/1042/10262.htm",
+      "date": "2026-05-18",
+      "column": "重要新闻"
+    },
     {
       "title": "先进特殊钢全国实验室（上海）召开全体成员大会2026-04-17",
       "url": "https://sklass.shu.edu.cn/info/1042/10242.htm",

@@ -2,11 +2,11 @@
   "domain": "gczx.shu.edu.cn",
   "department": "上海大学工程技术训练中心",
   "type": "23",
-  "crawl_time": "20260828_155554",
+  "crawl_time": "20260514_004804",
   "total_articles": 133,
   "columns": {
-    "中心新闻": 74,
-    "图片新闻": 59
+    "中心新闻": 76,
+    "图片新闻": 57
   },
   "articles": [
     {
@@ -73,13 +73,13 @@
       "title": "征程万里风正劲、重任千钧再奋蹄 —— 工程训练中心召开2023年度工作总结大会",
       "url": "https://mp.weixin.qq.com/s/amx71Rxw4pbdOxeHiiFM0Q",
       "date": "2023-12-19",
-      "column": "图片新闻"
+      "column": "中心新闻"
     },
     {
       "title": "环上大智能制造概念验证中心首次项目需求讨论会完美收官",
       "url": "https://mp.weixin.qq.com/s/EiQxTSR_DFJ5lklvQfF7lw",
       "date": "2023-12-12",
-      "column": "图片新闻"
+      "column": "中心新闻"
     },
     {
       "title": "上海大学与海克斯康集团在第六届进博会上签约，一起为产教融合“加速”",
