@@ -2,43 +2,19 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260828_122006",
-  "total_articles": 1764,
+  "crawl_time": "20260828_155554",
+  "total_articles": 1757,
   "columns": {
     "学院新闻": 527,
     "招生热讯": 77,
-    "通知公告": 1160
+    "通知公告": 1153
   },
   "articles": [
-    {
-      "title": "关于成人本科学生报考自学考试外语类课程的提醒",
-      "url": "https://cce.shu.edu.cn/info/1464/20864.htm",
-      "date": "2026-08-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2026年下半年高等教育自学考试实践课缴费注意事项",
-      "url": "https://cce.shu.edu.cn/info/1542/20774.htm",
-      "date": "2026-08-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发放2026年6月上海大学高等教育自学考试毕业证书的通知",
-      "url": "https://cce.shu.edu.cn/info/1542/20764.htm",
-      "date": "2026-08-27",
-      "column": "通知公告"
-    },
     {
       "title": "上海市2026年成人高校招生考试网上报名将于9月2日至7日进行",
       "url": "https://www.shmeea.edu.cn/page/08000/20260827/20561.html",
       "date": "2026-08-27",
       "column": "招生热讯"
-    },
-    {
-      "title": "上海市2026年下半年高等教育自学考试网上报名将于9月1日至6日进行",
-      "url": "https://www.shmeea.edu.cn/page/04100/20260824/20557.html",
-      "date": "2026-08-25",
-      "column": "通知公告"
     },
     {
       "title": "2026年上海市成人高等学校全国统考招生章程",
@@ -65,28 +41,10 @@
       "column": "招生热讯"
     },
     {
-      "title": "关于发放2026年上半年高等教育自学考试学士学位证书的通知",
-      "url": "https://cce.shu.edu.cn/info/1542/20624.htm",
-      "date": "2026-07-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于上海大学高等学历继续教育毕业生申请2026年7月毕业的通知",
-      "url": "https://cce.shu.edu.cn/info/1464/20394.htm",
-      "date": "2026-06-05",
-      "column": "通知公告"
-    },
-    {
       "title": "2026年上海大学成人高考（高起本、专升本）复习班招生简章",
       "url": "https://cce.shu.edu.cn/info/1013/20334.htm",
       "date": "2026-06-03",
       "column": "招生热讯"
-    },
-    {
-      "title": "关于学生核验学号账号登录教务系统的通知",
-      "url": "https://cce.shu.edu.cn/info/1464/20354.htm",
-      "date": "2026-06-02",
-      "column": "通知公告"
     },
     {
       "title": "榜样聚力引航向 导学赋能促成长  ——学业导师开展“学习的故事”主题育人活动",

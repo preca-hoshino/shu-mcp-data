@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260828_122006",
-  "total_articles": 409,
+  "crawl_time": "20260828_155554",
+  "total_articles": 411,
   "columns": {
     "学术报告": 131,
-    "科研动态": 76,
+    "科研动态": 78,
     "综合新闻": 46,
     "通知公告": 156
   },
   "articles": [
+    {
+      "title": "我院张统一院士、任伟教授团队在《npj Computational Materials》发表研究成果",
+      "url": "https://mgi.shu.edu.cn/info/1063/7545.htm",
+      "date": "2026-08-28",
+      "column": "科研动态"
+    },
     {
       "title": "2026年材料基因组工程研究院暑假值班表",
       "url": "https://mgi.shu.edu.cn/info/1062/7455.htm",
@@ -2266,6 +2272,12 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1629.htm",
       "date": "2016-09-19",
       "column": "通知公告"
+    },
+    {
+      "title": "我院本年度喜获10项国家自然科学基金",
+      "url": "https://mgi.shu.edu.cn/info/1063/1712.htm",
+      "date": "2016-08-18",
+      "column": "科研动态"
     },
     {
       "title": "张统一院士一行赴鄂尔多斯集团访问调研",
