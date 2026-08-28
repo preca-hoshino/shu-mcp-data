@@ -2,14 +2,20 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260527_091111",
-  "total_articles": 849,
+  "crawl_time": "20260828_122006",
+  "total_articles": 851,
   "columns": {
     "党建简报": 132,
-    "学工新闻": 35,
+    "学工新闻": 37,
     "通知公告": 682
   },
   "articles": [
+    {
+      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员...",
+      "url": "https://xgb.shu.edu.cn/info/1005/45984.htm",
+      "date": "2026-08-28",
+      "column": "学工新闻"
+    },
     {
       "title": "上海大学2026年本科生校长奖学金学院推荐人材料公示",
       "url": "https://xgb.shu.edu.cn/info/1003/45854.htm",
@@ -4365,6 +4371,12 @@
       "url": "https://xgb.shu.edu.cn/info/1003/7679.htm",
       "date": "2009-03-09",
       "column": "通知公告"
+    },
+    {
+      "title": "馥郁书香—记王晓明教授《漫谈大学生读书问题》讲座",
+      "url": "https://xgb.shu.edu.cn/info/1005/38093.htm",
+      "date": "2009-03-04",
+      "column": "学工新闻"
     },
     {
       "title": "学工办召开组织生活会交流党员个人发展计划",

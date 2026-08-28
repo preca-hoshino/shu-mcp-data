@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260827_215043",
+  "crawl_time": "20260828_122006",
   "total_articles": 1815,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,24 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于做好上海大学2026年中国国际大学生创新大赛校内选拔赛产业赛道参赛的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321674.htm",
+      "date": "2026-08-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年8月本科毕业生授予学士学位名单和暂不授予学士学位名单",
+      "url": "https://bksy.shu.edu.cn/info/1015/321704.htm",
+      "date": "2026-08-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2026级本科新生秋季学期选课通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321714.htm",
+      "date": "2026-08-28",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学具身智能机器人专项班2026年招生简章（机电工程与自动化学院）",
       "url": "https://bksy.shu.edu.cn/info/1015/321584.htm",
@@ -104,24 +122,6 @@
       "title": "上海大学课程思政教育教学改革研究项目2026年结项情况",
       "url": "https://bksy.shu.edu.cn/info/1015/321414.htm",
       "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于申报2026年度本科专业动态优化调整专项建设项目的通知——跨学科融合课程、产教协同育人项目（本科生院〔2026〕24号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/321304.htm",
-      "date": "2026-07-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于做好2026年8月本科毕业生申请学士学位工作的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321264.htm",
-      "date": "2026-07-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "2025-2026学年春季学期补考、缓考安排",
-      "url": "https://bksy.shu.edu.cn/info/1015/321224.htm",
-      "date": "2026-07-17",
       "column": "通知公告"
     },
     {
