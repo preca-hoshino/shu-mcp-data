@@ -2,15 +2,15 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260830_055950",
-  "total_articles": 992,
+  "crawl_time": "20260830_094705",
+  "total_articles": 991,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 71,
     "研究生教学": 207,
     "科研动态": 117,
-    "通知公告": 119
+    "通知公告": 118
   },
   "articles": [
     {
@@ -258,12 +258,6 @@
       "url": "https://ece.shu.edu.cn/info/1303/88404.htm",
       "date": "2026-06-03",
       "column": "本科生教学"
-    },
-    {
-      "title": "关于新生党员组织关系转入我院的相关提示",
-      "url": "https://ece.shu.edu.cn/info/1147/51913.htm",
-      "date": "2026-06-01",
-      "column": "通知公告"
     },
     {
       "title": "我院研究生张明万/王康在《Angewandte Chemie International Edition》发表研究成果",
