@@ -2,12 +2,54 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260521_052945",
-  "total_articles": 29,
+  "crawl_time": "20260830_055950",
+  "total_articles": 36,
   "columns": {
-    "重要新闻": 29
+    "重要新闻": 36
   },
   "articles": [
+    {
+      "title": "深耕法语研学 融通中法文化：中欧工程技术学院赴法暑期夏令营圆满落幕",
+      "url": "https://utseus.shu.edu.cn/info/1009/6146.htm",
+      "date": "2026-08-03",
+      "column": "重要新闻"
+    },
+    {
+      "title": "深学细悟校准政绩坐标 实地研学筑牢实干根基 ——中欧学院教工党支部组织开展“七一”主题党日活动",
+      "url": "https://utseus.shu.edu.cn/info/1009/6136.htm",
+      "date": "2026-07-02",
+      "column": "重要新闻"
+    },
+    {
+      "title": "从严规范管理 聚力抓实招宣——中欧工程技术学院召开2026年财务管理与本科招生工作专题培训会",
+      "url": "https://utseus.shu.edu.cn/info/1009/6106.htm",
+      "date": "2026-06-23",
+      "column": "重要新闻"
+    },
+    {
+      "title": "校企共话AI时代人才标准：中欧学院举办创新人才沙龙",
+      "url": "https://utseus.shu.edu.cn/info/1009/6116.htm",
+      "date": "2026-06-19",
+      "column": "重要新闻"
+    },
+    {
+      "title": "逐梦创新勇争先，学贯中欧向未来——第六届“学贯中欧 企创未来”大学生创新竞赛圆满落幕",
+      "url": "https://utseus.shu.edu.cn/info/1009/6096.htm",
+      "date": "2026-06-18",
+      "column": "重要新闻"
+    },
+    {
+      "title": "沪粤联动招宣行 深耕生源拓版图 —— 中欧工程技术学院春季深耕招宣一线纪实",
+      "url": "https://utseus.shu.edu.cn/info/1009/6126.htm",
+      "date": "2026-06-15",
+      "column": "重要新闻"
+    },
+    {
+      "title": "“中”生有幸，“欧”遇芳华 | 上大中欧校友，5月30日回家！",
+      "url": "https://utseus.shu.edu.cn/info/1009/6076.htm",
+      "date": "2026-05-25",
+      "column": "重要新闻"
+    },
     {
       "title": "考察苏州高新产业，寻求协同创新机遇",
       "url": "https://utseus.shu.edu.cn/info/1009/6066.htm",

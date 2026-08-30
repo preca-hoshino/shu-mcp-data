@@ -2,18 +2,84 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260529_053205",
-  "total_articles": 245,
+  "crawl_time": "20260830_055950",
+  "total_articles": 256,
   "columns": {
-    "学术报告": 51,
+    "学术报告": 52,
     "学生信息": 41,
     "教学动态": 22,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 32,
+    "综合新闻": 42,
     "通知公告": 35
   },
   "articles": [
+    {
+      "title": "上海大学力工学院学子获第二届全国大学生智能建造竞...",
+      "url": "https://smes.shu.edu.cn/info/1013/10665.htm",
+      "date": "2026-08-19",
+      "column": "综合新闻"
+    },
+    {
+      "title": "越南科学技术部部长武海军一行访问上海大学",
+      "url": "https://smes.shu.edu.cn/info/1013/10635.htm",
+      "date": "2026-07-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "青春接力，逐梦新程！力工学院第七次研究生双代会顺...",
+      "url": "https://smes.shu.edu.cn/info/1013/10625.htm",
+      "date": "2026-07-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "深学笃行正确政绩观，校地联动共促城市更新——上海...",
+      "url": "https://smes.shu.edu.cn/info/1013/10605.htm",
+      "date": "2026-07-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "基于FRP-混凝土-钢双壁空心构件的耐腐蚀桥梁关键技术...",
+      "url": "https://smes.shu.edu.cn/info/1014/10595.htm",
+      "date": "2026-07-01",
+      "column": "学术报告"
+    },
+    {
+      "title": "青春启航，毕业快乐！",
+      "url": "https://smes.shu.edu.cn/info/1013/10575.htm",
+      "date": "2026-06-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "​力工学院召开毕业生党员教育大会，院党委书记吴铭...",
+      "url": "https://smes.shu.edu.cn/info/1013/10565.htm",
+      "date": "2026-06-26",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（...",
+      "url": "https://smes.shu.edu.cn/info/1013/10585.htm",
+      "date": "2026-06-25",
+      "column": "综合新闻"
+    },
+    {
+      "title": "力学AI4M产教研融合创新研讨会在我校召开",
+      "url": "https://smes.shu.edu.cn/info/1013/10495.htm",
+      "date": "2026-06-03",
+      "column": "综合新闻"
+    },
+    {
+      "title": "力学与工程科学学院第四届青年教师课堂教学竞赛顺利举行",
+      "url": "https://smes.shu.edu.cn/info/1013/10485.htm",
+      "date": "2026-06-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "朋辈引航，筑梦职场！力工学院开展2026届研究生毕业...",
+      "url": "https://smes.shu.edu.cn/info/1013/10475.htm",
+      "date": "2026-05-30",
+      "column": "综合新闻"
+    },
     {
       "title": "吴坚勇书记一行开展基础研究专题调研",
       "url": "https://smes.shu.edu.cn/info/1013/10445.htm",

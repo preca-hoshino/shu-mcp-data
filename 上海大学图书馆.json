@@ -2,11 +2,11 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260829_161632",
-  "total_articles": 111,
+  "crawl_time": "20260830_055950",
+  "total_articles": 117,
   "columns": {
     "公告信息": 37,
-    "图书馆新闻": 41,
+    "图书馆新闻": 47,
     "资源动态": 33
   },
   "articles": [
@@ -17,16 +17,52 @@
       "column": "公告信息"
     },
     {
+      "title": "深化馆院协同 赋能学科发展——图书馆赴文化遗产与信息管理学院开展业务交流",
+      "url": "https://lib.shu.edu.cn/info/1024/7054.htm",
+      "date": "2026-07-17",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "图博档党委与法学院党委开展联组学习暨业务交流会",
+      "url": "https://lib.shu.edu.cn/info/1024/7044.htm",
+      "date": "2026-07-16",
+      "column": "图书馆新闻"
+    },
+    {
       "title": "关于图书馆防汛防台期间临时闭馆通知",
       "url": "https://lib.shu.edu.cn/info/1022/7034.htm",
       "date": "2026-07-09",
       "column": "公告信息"
     },
     {
+      "title": "典籍载初心 精神永传承——《郭永怀传》作者团队向图书馆捐赠签名著作",
+      "url": "https://lib.shu.edu.cn/info/1024/7024.htm",
+      "date": "2026-06-26",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "文澜相赠 智润学府—上海研究院捐赠图书专题展在图书馆启幕",
+      "url": "https://lib.shu.edu.cn/info/1024/7014.htm",
+      "date": "2026-06-25",
+      "column": "图书馆新闻"
+    },
+    {
       "title": "关于2026年图书馆端午节放假安排的通知",
       "url": "https://lib.shu.edu.cn/info/1022/6994.htm",
       "date": "2026-06-15",
       "column": "公告信息"
+    },
+    {
+      "title": "深化沪明协作——上海大学图书馆赴三明学院参加“伟长书屋”揭牌仪式并开展业务交流",
+      "url": "https://lib.shu.edu.cn/info/1024/7004.htm",
+      "date": "2026-06-15",
+      "column": "图书馆新闻"
+    },
+    {
+      "title": "海洋文学浸润书香 书写时代女性成长——杨怡芬新书分享会在图书馆成功举办",
+      "url": "https://lib.shu.edu.cn/info/1024/6984.htm",
+      "date": "2026-06-03",
+      "column": "图书馆新闻"
     },
     {
       "title": "馆际互鉴 共促发展 ——深圳大学图书馆同仁赴我馆开展专题调研交流",

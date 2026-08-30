@@ -2,11 +2,11 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260829_161632",
-  "total_articles": 972,
+  "crawl_time": "20260830_055950",
+  "total_articles": 992,
   "columns": {
     "学术报告": 79,
-    "学院新闻": 379,
+    "学院新闻": 399,
     "本科生教学": 71,
     "研究生教学": 207,
     "科研动态": 117,
@@ -14,10 +14,130 @@
   },
   "articles": [
     {
+      "title": "【迎新季】研途新程，与你同行——环化研会即将发车！",
+      "url": "https://mp.weixin.qq.com/s/TRzfntbkGwFszXGAj4mg6g",
+      "date": "2026-08-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】我院研究生团总支介绍",
+      "url": "https://mp.weixin.qq.com/s/eKPh7JQWbVbCqABDNVgkUA",
+      "date": "2026-08-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【综合新闻】法典时代启新程 改革攻坚正当时 ——环化学院纵深推进人才培养综合改革",
+      "url": "https://mp.weixin.qq.com/s/p00t3Y2fGq-F9cic8GS_UQ",
+      "date": "2026-08-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】我院2026级本科新生数据大揭秘！",
+      "url": "https://mp.weixin.qq.com/s/1QT8MR6c_PROyC3R6uWeSQ",
+      "date": "2026-08-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【社会实践】循水探源守初心 笃行致远担使命——我院研究生参加2026上海青年志愿者绿色营暨学生“碳”索夏令营活动",
+      "url": "https://mp.weixin.qq.com/s/5TKqVL5GzQGjmzeUTanjkA",
+      "date": "2026-08-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】我院研究生党建中心介绍",
+      "url": "https://mp.weixin.qq.com/s/YOBFirsq1TwVGmrO18SnBQ",
+      "date": "2026-08-20",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】环护山河，化绘未来丨上海大学环境与化学工程学院简介",
+      "url": "https://mp.weixin.qq.com/s/0pHF3oDnmMdPaMRpn8Bk-Q",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
+      "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】报到不踩坑！开学清单+出行指南请查收！",
+      "url": "https://mp.weixin.qq.com/s/KscRoFGGfgN_NlXAdCRlHg",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】大一新生必看第一篇|核心课程准备，从暑假开始（数理化篇）",
+      "url": "https://mp.weixin.qq.com/s/R5X8ORmIIxI5GcQlcLsZgw",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】关于宿舍，2026级新生关心的问题，答案在这里！",
+      "url": "https://mp.weixin.qq.com/s/RwJJnz9w9135hnM49M33WA",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【创新竞赛】我院研究生创新实践大赛备赛经验分享会顺利开展!",
+      "url": "https://mp.weixin.qq.com/s/bGjl4lbqT5cpH3sC-4s1qw",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【迎新季】大一新生必看第二篇|核心课程准备，从暑假开始（英语篇）",
+      "url": "https://mp.weixin.qq.com/s/kk-jUdCt7wxz-wcvFYALgQ",
+      "date": "2026-08-18",
+      "column": "学院新闻"
+    },
+    {
       "title": "关于做好2026年度上海市青年五四奖章推荐工作的通知",
       "url": "https://ece.shu.edu.cn/info/1147/89554.htm",
       "date": "2026-08-16",
       "column": "通知公告"
+    },
+    {
+      "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
+      "url": "https://ece.shu.edu.cn/info/1149/89544.htm",
+      "date": "2026-08-04",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【党建|“绿漾”宣讲团】“绿漾”带小朋友们解锁护水知识！",
+      "url": "https://mp.weixin.qq.com/s/Hsw4hMTrQajq7_yOCGjQzg",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【社会实践】旧物焕新・邻里共生——“绿萤”社会实践队走进昱翠家苑开展社区环保工作坊活动",
+      "url": "https://mp.weixin.qq.com/s/lmxsqJ57bG1hOtCHdQ_FOA",
+      "date": "2026-07-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "我院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
+      "url": "https://ece.shu.edu.cn/info/1149/89494.htm",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【综合新闻】深化产教研协同，共育环保创新人才——我院举行环境保护育人实训平台建设交流会",
+      "url": "https://mp.weixin.qq.com/s/91kh8pBBiSwQH5bCAhBW7Q",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "【就业创业】行走课堂——探访环保行业，规划职业未来",
+      "url": "https://mp.weixin.qq.com/s/Ee4uGr6WjnfmAZ9ak8gr_w",
+      "date": "2026-07-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "校企协同育人才 产教融合促发展   ——我院携手上海环境危废事业部深化产学研协同创新合作",
+      "url": "https://ece.shu.edu.cn/info/1149/89484.htm",
+      "date": "2026-07-27",
+      "column": "学院新闻"
     },
     {
       "title": "2026年环化学院创新型人才国际合作培养项目（第三批）选拔工作通知",

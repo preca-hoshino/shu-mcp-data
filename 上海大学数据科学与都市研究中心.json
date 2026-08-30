@@ -2,10 +2,10 @@
   "domain": "suns.shu.edu.cn",
   "department": "上海大学数据科学与都市研究中心",
   "type": "06",
-  "crawl_time": "20260829_161632",
-  "total_articles": 53,
+  "crawl_time": "20260830_055950",
+  "total_articles": 54,
   "columns": {
-    "公告": 35,
+    "公告": 36,
     "新闻": 18
   },
   "articles": [
@@ -14,6 +14,12 @@
       "url": "https://suns.shu.edu.cn/info/1019/1604.htm",
       "date": "2026-07-29",
       "column": "新闻"
+    },
+    {
+      "title": "第15届·应用社会科学研究方法研修班《数据分析专题》系列讲座",
+      "url": "https://suns.shu.edu.cn/info/1020/1584.htm",
+      "date": "2026-06-14",
+      "column": "公告"
     },
     {
       "title": "第15届·应用社会科学研究方法研修班·基础班招生简章",

@@ -2,20 +2,26 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260829_161632",
-  "total_articles": 2575,
+  "crawl_time": "20260830_055950",
+  "total_articles": 2578,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
-    "学术动态": 565,
+    "学术动态": 566,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
-    "校友活动": 30,
+    "校友活动": 32,
     "综合新闻": 882,
     "通知公告": 49
   },
   "articles": [
+    {
+      "title": "第二届“地域社会政策”年度学术论坛举行",
+      "url": "https://sociology.shu.edu.cn/info/1104/43218.htm",
+      "date": "2026-08-28",
+      "column": "学术动态"
+    },
     {
       "title": "我院黄晓春教授在《中国社会科学》2026年第7期上发表城市更新与社会治理创新协同改革学术论文",
       "url": "https://sociology.shu.edu.cn/info/1104/43198.htm",
@@ -75,6 +81,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/43008.htm",
       "date": "2026-07-21",
       "column": "学术动态"
+    },
+    {
+      "title": "第一届“社会学自主知识体系创新与人才培养” 院友研讨会成功举行",
+      "url": "https://sociology.shu.edu.cn/info/1108/43048.htm",
+      "date": "2026-07-21",
+      "column": "校友活动"
     },
     {
       "title": "《解放日报》 | 纪莺莺：带有历史视野的社区调查的三重意义",
@@ -345,6 +357,12 @@
       "url": "https://sociology.shu.edu.cn/info/1105/41918.htm",
       "date": "2026-06-02",
       "column": "学术报告"
+    },
+    {
+      "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1108/42008.htm",
+      "date": "2026-06-02",
+      "column": "校友活动"
     },
     {
       "title": "“智库进学院”国家社科基金与智库专报经验交流会顺利召开",

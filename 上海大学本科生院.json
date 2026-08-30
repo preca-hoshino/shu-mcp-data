@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260829_161632",
-  "total_articles": 1815,
+  "crawl_time": "20260830_055950",
+  "total_articles": 1819,
   "columns": {
     "政策文件": 57,
-    "新闻动态": 33,
+    "新闻动态": 37,
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于上海大学本科生教材征订的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321734.htm",
+      "date": "2026-08-30",
+      "column": "通知公告"
+    },
     {
       "title": "关于做好上海大学2026年中国国际大学生创新大赛校内选拔赛产业赛道参赛的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321674.htm",
@@ -95,12 +101,6 @@
       "column": "通知公告"
     },
     {
-      "title": "关于印发《上海大学本科生微专业建设与管理办法》的通知(上大内〔2025〕138号)",
-      "url": "https://bksy.shu.edu.cn/info/1015/321354.htm",
-      "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
       "title": "关于印发《上海大学本科生辅修专业管理暂行办法》的通知(上大内〔2025〕137号)",
       "url": "https://bksy.shu.edu.cn/info/1015/321374.htm",
       "date": "2026-07-27",
@@ -123,6 +123,30 @@
       "url": "https://bksy.shu.edu.cn/info/1015/321414.htm",
       "date": "2026-07-27",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学举办习近平新时代中国特色社会主义思想分领域思想进课程培训交流会",
+      "url": "https://bksy.shu.edu.cn/info/1016/321244.htm",
+      "date": "2026-07-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "数智赋能育英才 开放融通启新程 —— 上海大学2026年国际化小学期暨第十一届国际教育论坛圆满落幕",
+      "url": "https://bksy.shu.edu.cn/info/1016/321214.htm",
+      "date": "2026-07-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "面向人工智能时代的教育教学督导——上海高校质量保障联盟2026年年会召开",
+      "url": "https://bksy.shu.edu.cn/info/1016/321194.htm",
+      "date": "2026-07-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升研讨会（力工学院专场）",
+      "url": "https://bksy.shu.edu.cn/info/1016/321034.htm",
+      "date": "2026-06-24",
+      "column": "新闻动态"
     },
     {
       "title": "关于2025-2026学年夏季学期选课的补充通知",

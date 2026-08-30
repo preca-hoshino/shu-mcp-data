@@ -2,15 +2,39 @@
   "domain": "chemlab.shu.edu.cn",
   "department": "上海大学化学教学实验中心",
   "type": "12",
-  "crawl_time": "20260525_053719",
-  "total_articles": 256,
+  "crawl_time": "20260830_055950",
+  "total_articles": 260,
   "columns": {
     "仪器资源": 34,
     "实验安排": 41,
     "实验教学信息": 99,
-    "新闻动态": 82
+    "新闻动态": 86
   },
   "articles": [
+    {
+      "title": "我校学生在“英诺德杯”第十四届全国大学生化学实验竞赛总决赛中喜获佳绩",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4222.htm",
+      "date": "2026-08-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4212.htm",
+      "date": "2026-07-18",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2026年理学院化学实验教学中心公益仪器培训课程开课通知",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4202.htm",
+      "date": "2026-07-17",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学化学系学子在上海市化学化工优秀毕业论文大赛中斩获一等奖、二等奖",
+      "url": "https://chemlab.shu.edu.cn/info/1004/4192.htm",
+      "date": "2026-06-11",
+      "column": "新闻动态"
+    },
     {
       "title": "2026年上海大学化学实验竞赛评奖结果公布",
       "url": "https://chemlab.shu.edu.cn/info/1004/4162.htm",

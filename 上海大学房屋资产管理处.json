@@ -2,13 +2,43 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20260514_004804",
-  "total_articles": 35,
+  "crawl_time": "20260830_055950",
+  "total_articles": 42,
   "columns": {
-    "通知公告": 25,
+    "通知公告": 32,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "房屋资产管理处2026年暑假值班安排",
+      "url": "https://zcb.shu.edu.cn/info/1017/4405.htm",
+      "date": "2026-07-31",
+      "column": "通知公告"
+    },
+    {
+      "title": "楠棠公寓·旭东锦项目可申报“房补联动”啦",
+      "url": "https://zcb.shu.edu.cn/info/1017/4365.htm",
+      "date": "2026-07-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海金沪拍卖有限公司拍卖公告",
+      "url": "https://zcb.shu.edu.cn/info/1017/4335.htm",
+      "date": "2026-06-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年老职工住房补贴发放工作的通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/4355.htm",
+      "date": "2026-06-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学超市及便利店服务用房招租项目招租公告",
+      "url": "https://zcb.shu.edu.cn/info/1017/4345.htm",
+      "date": "2026-06-01",
+      "column": "通知公告"
+    },
     {
       "title": "南大金地草莓社区“房补联动”政策申报指南请查收",
       "url": "https://zcb.shu.edu.cn/info/1017/4285.htm",
@@ -190,8 +220,20 @@
       "column": "部门新闻"
     },
     {
+      "title": "房产处电话调整通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/1414.htm",
+      "date": "2015-03-19",
+      "column": "通知公告"
+    },
+    {
       "title": "关于南二宿舍大修的通知",
       "url": "https://zcb.shu.edu.cn/info/1017/1412.htm",
+      "date": "2015-02-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于东区教师公寓的通知",
+      "url": "https://zcb.shu.edu.cn/info/1017/1413.htm",
       "date": "2015-02-04",
       "column": "通知公告"
     },

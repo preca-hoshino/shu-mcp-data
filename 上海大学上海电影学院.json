@@ -2,11 +2,11 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260829_161632",
-  "total_articles": 1749,
+  "crawl_time": "20260830_055950",
+  "total_articles": 1762,
   "columns": {
-    "新闻": 31,
-    "讲座": 460,
+    "新闻": 40,
+    "讲座": 464,
     "通知公告": 1258
   },
   "articles": [
@@ -83,6 +83,12 @@
       "column": "讲座"
     },
     {
+      "title": "“光影中国”系列讲座成功举办：胡智锋教授谈中国网络视听发展新亮点、问题与前瞻思考",
+      "url": "https://mp.weixin.qq.com/s/36vxjj6mQXZE1kp2BN8rfQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "第十八届谢晋杯学生作品大赛系列活动预告及展映片单",
       "url": "https://mp.weixin.qq.com/s/3FZB7omMpNVRbZzo2tA70Q",
       "date": "",
@@ -99,6 +105,12 @@
       "url": "https://mp.weixin.qq.com/s/3XKeP6gwchbMePsJoCMwJQ?scene=1&click_id=1",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "马可・穆勒教授荣获意大利共和国功勋勋章指挥官勋位",
+      "url": "https://mp.weixin.qq.com/s/3qSq7hyIvA-T7T74cb4MkQ",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "声影之间：音乐为何能深度激活我们的观影体验？",
@@ -203,6 +215,12 @@
       "column": "新闻"
     },
     {
+      "title": "“光影中国”系列讲座成功举办：  谭政谈全球电影新格局与中国电影产业发展",
+      "url": "https://mp.weixin.qq.com/s/IeBqRw3WXLVeNkZQBQxJJA",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "《120年中国电影的起点：关于<定军山>及其他》讲座回顾",
       "url": "https://mp.weixin.qq.com/s/IovM8uyBKjEcWArrCWAUFQ",
       "date": "",
@@ -217,6 +235,12 @@
     {
       "title": "上海大学上海电影学院青年教师联谊会分会圆满完成换届大会",
       "url": "https://mp.weixin.qq.com/s/Iy5vhho_vEJKBA63j2cbjQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "致敬光影百年，共创“电影之城”：《电影之城 光影百年》新书发布暨“海上映梦·百廿回眸”系列活动 在沪盛大启幕",
+      "url": "https://mp.weixin.qq.com/s/JTRAu43dF4cwBRzcZpL0yQ",
       "date": "",
       "column": "新闻"
     },
@@ -257,6 +281,12 @@
       "column": "讲座"
     },
     {
+      "title": "国家一流课程“光影中国”系列高端学术讲座——谭政主讲《全球电影新格局与中国电影产业发展》",
+      "url": "https://mp.weixin.qq.com/s/LhInTGOfwIapRlkrwlIziw",
+      "date": "",
+      "column": "讲座"
+    },
+    {
       "title": "上海电影发展研究院【起跑线计划】正式开启",
       "url": "https://mp.weixin.qq.com/s/Lm_DMAM2S2yhxoEvPfmfPA",
       "date": "",
@@ -275,10 +305,22 @@
       "column": "讲座"
     },
     {
+      "title": "上海电影学院召开“两优一先”表彰会暨中层干部培训会",
+      "url": "https://mp.weixin.qq.com/s/PbmzuWXCM7448XO1YLFiNQ",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "上海大学上海电影学院召开工青妇工作座谈会",
       "url": "https://mp.weixin.qq.com/s/PzIVdW_PwN2hh5JwZXPxRQ",
       "date": "",
       "column": "新闻"
+    },
+    {
+      "title": "亚里士多德的火车进站--戏剧与电影源发视域下的表导演艺术",
+      "url": "https://mp.weixin.qq.com/s/QX4YneOoVevzxN-7rNes2w",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "UST电影计划·学术活动《寻狗启事》《耳朵大有福》",
@@ -347,6 +389,12 @@
       "column": "通知公告"
     },
     {
+      "title": "上海电影学院成果获第十届教育部科学研究优秀成果奖（人文社会科学）",
+      "url": "https://mp.weixin.qq.com/s/VFcSvGIZQvrNCtTAEctVtg?scene=1&click_id=2114293331",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "上海电影学院兼职辅导员招聘启事",
       "url": "https://mp.weixin.qq.com/s/WPzxS4ACqkBNcm_l7U9iJA?scene=1&click_id=1",
       "date": "",
@@ -407,6 +455,12 @@
       "column": "通知公告"
     },
     {
+      "title": "光影十一载，薪火续华章",
+      "url": "https://mp.weixin.qq.com/s/_xB6MW6YOUOaOlUP4hs45w",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "上海电影学院  “光影智习室”  使用公约",
       "url": "https://mp.weixin.qq.com/s/aQEj6FfM_Z9MGiYe563Pcw",
       "date": "",
@@ -429,6 +483,12 @@
       "url": "https://mp.weixin.qq.com/s/bQJYt_0hJj4SqY6fyaO_JQ",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "亚洲电影：众声喧哗，何以听见自我？",
+      "url": "https://mp.weixin.qq.com/s/bfZeyESiOlvwyJ_WuXUS3A",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "\"光影视界\"摄影专业系列讲座：《SIGMA·海洋与镜头的对话》",
@@ -507,6 +567,12 @@
       "url": "https://mp.weixin.qq.com/s/izCtU2AJIbWkdPF9dJF7qw?scene=1&click_id=3",
       "date": "",
       "column": "讲座"
+    },
+    {
+      "title": "上海电影学院承办2026VPC全国大学生虚拟制作大赛总决赛并获多项大奖",
+      "url": "https://mp.weixin.qq.com/s/jHSvhhSJT6omms6a01hZ1Q?scene=1",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "学院教师舒浩仑执导的剧情长片《行走的夜》上映",
@@ -611,6 +677,12 @@
       "column": "通知公告"
     },
     {
+      "title": "上海大学上海电影学院2026届毕业典礼暨学位授予仪式顺利举行",
+      "url": "https://mp.weixin.qq.com/s/uQU669zDPvNLNFtNlHBhug?scene=1&click_id=1739148130",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "学院教师刘正直复排执导大型话剧《问瓷》亮相中国国家大剧院",
       "url": "https://mp.weixin.qq.com/s/uTJUkgx-DruBcyZ6g5UcKA",
       "date": "",
@@ -633,6 +705,12 @@
       "url": "https://mp.weixin.qq.com/s/vLe2sPIdBqP-ayDRTZh5Qg",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "海上映梦·百廿回眸——赴一场跨越百年的光影之约",
+      "url": "https://mp.weixin.qq.com/s/vMWZ0kSOQiexnE2c9xJhWw",
+      "date": "",
+      "column": "讲座"
     },
     {
       "title": "「JUST」电影计划——纪录电影专题：《胡阿姨的花园》",

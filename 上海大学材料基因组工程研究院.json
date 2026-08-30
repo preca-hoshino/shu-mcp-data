@@ -2,10 +2,10 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260829_161632",
-  "total_articles": 411,
+  "crawl_time": "20260830_055950",
+  "total_articles": 417,
   "columns": {
-    "学术报告": 131,
+    "学术报告": 137,
     "科研动态": 78,
     "综合新闻": 46,
     "通知公告": 156
@@ -34,6 +34,24 @@
       "url": "https://mgi.shu.edu.cn/info/1064/7405.htm",
       "date": "2026-07-22",
       "column": "综合新闻"
+    },
+    {
+      "title": "MGI Seminar 第419讲：Renaud Dubois （2026年7月13日 星期一 10:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7385.htm",
+      "date": "2026-07-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "MGI Seminar 第420讲：Juan José Palacios  （2026年7月14日 星期二10:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7395.htm",
+      "date": "2026-07-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "MGI Seminar 第418讲：黄维扬 （2026年6月13日 星期六 15:30）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7365.htm",
+      "date": "2026-06-10",
+      "column": "学术报告"
     },
     {
       "title": "材料基因组工程研究院2026年硕士研究生硕博连读资格认定名单（第二批）公示",
@@ -2340,6 +2358,12 @@
       "column": "科研动态"
     },
     {
+      "title": "MGI Seminar第29讲：Revealing the Inside of Rechargeable Batteries: How Deep Can We Go by In-Situ Electron Microscopy?",
+      "url": "https://mgi.shu.edu.cn/info/1065/2051.htm",
+      "date": "2015-08-11",
+      "column": "学术报告"
+    },
+    {
       "title": "材料基因组科学技术论坛第二轮通知",
       "url": "https://mgi.shu.edu.cn/info/1062/1624.htm",
       "date": "2015-07-23",
@@ -2350,6 +2374,18 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1623.htm",
       "date": "2015-07-08",
       "column": "通知公告"
+    },
+    {
+      "title": "MGI Seminar第27讲：脉冲激光沉积Nd-Ti掺杂的BiFeO3薄膜的微结构研究",
+      "url": "https://mgi.shu.edu.cn/info/1065/2049.htm",
+      "date": "2015-07-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "MGI Seminar第28讲：Effect of electric current on the nanoindentation behavior of tin",
+      "url": "https://mgi.shu.edu.cn/info/1065/2050.htm",
+      "date": "2015-07-03",
+      "column": "学术报告"
     },
     {
       "title": "MGI Seminar第26讲：Novel properties of KxFe2-ySe2 superconductor and BiTeCl Rashba semiconductor",

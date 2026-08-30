@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260829_161632",
-  "total_articles": 599,
+  "crawl_time": "20260830_055950",
+  "total_articles": 629,
   "columns": {
-    "焦点新闻": 362,
+    "焦点新闻": 372,
     "论坛活动": 194,
-    "通知公告": 43
+    "通知公告": 63
   },
   "articles": [
+    {
+      "title": "上大MBA公开课报名|资深银行 CIO 深度剖析：金融数智转型下人才需求全新变局",
+      "url": "https://mp.weixin.qq.com/s/fFEWVsiiPkuoddTpWBxKmA",
+      "date": "2026-08-24",
+      "column": "通知公告"
+    },
     {
       "title": "聚势启新 领速未来|2026级上大MBA新生导向季拓展活动全记录",
       "url": "https://mp.weixin.qq.com/s/Ra_2HjmoizJBv5qHcoZwTQ",
@@ -17,10 +23,40 @@
       "column": "论坛活动"
     },
     {
+      "title": "聚势同行・领航新程|上海大学MBA2026新生导向启动仪式隆重举行",
+      "url": "https://mp.weixin.qq.com/s/4M6JjzWpVqCJnE606eeWvw",
+      "date": "2026-08-19",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "上大MBA360°职业洞察营9月13日线下专场报名进行中",
+      "url": "https://mp.weixin.qq.com/s/J6kGvB65JDDuTMUkv8q7LA",
+      "date": "2026-08-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "公开课报名｜资深跨国企业高管解读：中国工业企业欧洲破局之路",
+      "url": "https://mp.weixin.qq.com/s/hXrOOQ_B4C-9WXAsyA3UcQ",
+      "date": "2026-08-13",
+      "column": "通知公告"
+    },
+    {
       "title": "“草11”载誉凯旋｜2天36.5公里，于坚守之中看见上大力量",
       "url": "https://mp.weixin.qq.com/s/q_gMxR4bAhe2SIMa9id8Ow",
       "date": "2026-08-11",
       "column": "论坛活动"
+    },
+    {
+      "title": "活动预告｜聚势同行·领航新程：上海大学MBA2026新生导向季",
+      "url": "https://mp.weixin.qq.com/s/BkC9oKymDUe-TT7C0j7ONQ",
+      "date": "2026-08-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026级SHUMBAer学习进度条刷新：研究生Online",
+      "url": "https://mp.weixin.qq.com/s/UCpY66OfjaIrUUegw7ie6Q",
+      "date": "2026-08-05",
+      "column": "焦点新闻"
     },
     {
       "title": "精研案例，实战练兵——上海大学MBA中心全力备战全国管理案例精英赛",
@@ -41,10 +77,22 @@
       "column": "论坛活动"
     },
     {
+      "title": "关于2026年暑假留宿报备的通知及注意事项",
+      "url": "https://mba.shu.edu.cn/info/1024/27191.htm",
+      "date": "2026-07-28",
+      "column": "通知公告"
+    },
+    {
       "title": "师者嘉言励前行|上海大学MBA中心2026年春季学期圆满收官",
       "url": "https://mp.weixin.qq.com/s/eHpBFGyt9T6mgUrbZtemnA",
       "date": "2026-07-28",
       "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA360°职业洞察营8月15日线上专场报名进行中",
+      "url": "https://mp.weixin.qq.com/s/8X7bLbslUv2IIKXnGUBriA",
+      "date": "2026-07-27",
+      "column": "通知公告"
     },
     {
       "title": "25GC专精特新专业方向《特色化产品与服务创新管理》课堂教学与实践",
@@ -65,6 +113,12 @@
       "column": "论坛活动"
     },
     {
+      "title": "国际合作|上大MBA与阿拉木图管理大学签署合作协议",
+      "url": "https://mp.weixin.qq.com/s/MKYAThyuDT4dLJdX1nFamA",
+      "date": "2026-07-21",
+      "column": "焦点新闻"
+    },
+    {
       "title": "上海大学MBA中心张峻铭同学荣获上海大学毕业生就业“攀登奖”",
       "url": "https://mp.weixin.qq.com/s/F6Loa4PMi83VVXdkYhL4nQ",
       "date": "2026-07-20",
@@ -77,10 +131,52 @@
       "column": "论坛活动"
     },
     {
+      "title": "关于组织开展2026年上海大学研究生新时代伟大变革暑期实践活动的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27101.htm",
+      "date": "2026-07-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026级上大MBA国际新生画像出炉：多元汇聚，共赴新程",
+      "url": "https://mp.weixin.qq.com/s/pBonQfJORc8NXPdM1IPnwQ?scene=1&click_id=1365382592",
+      "date": "2026-07-16",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "2026上大MBA录取通知书创意征集，文创好礼等你来！",
+      "url": "https://mp.weixin.qq.com/s/whDgmT5VQxiY6t7Go-aOpg",
+      "date": "2026-07-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "【线上课程】2026年暑期PBL交叉学科线上课程",
+      "url": "https://mp.weixin.qq.com/s/ARMYBqKvtIqFM1vCFPq-dg",
+      "date": "2026-07-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学MBA 2026级新生画像——群英荟萃，共谱华章",
+      "url": "https://mp.weixin.qq.com/s/wQrf6gsJW5qvangtTQOAeQ",
+      "date": "2026-07-14",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "关于25级学生录入本年度科研成果的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27031.htm",
+      "date": "2026-07-13",
+      "column": "通知公告"
+    },
+    {
       "title": "三座奖杯，九种滚烫|上海大学MBA战队HYROX杭州站",
       "url": "https://mp.weixin.qq.com/s/aaDFYklHDNxC9g60d-ruPg",
       "date": "2026-07-13",
       "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA360°职业洞察营第三批报名进行中",
+      "url": "https://mp.weixin.qq.com/s/cRf0d7-Bn5McoAoM7gX0PQ",
+      "date": "2026-07-09",
+      "column": "通知公告"
     },
     {
       "title": "上海大学MBA 25GI智能制造方向《可持续生产》课堂教学与实践",
@@ -95,10 +191,64 @@
       "column": "论坛活动"
     },
     {
+      "title": "凝心聚力启新程，数智深耕谱新篇——上海大学MBA中心举行新任副主任任命宣布会‌",
+      "url": "https://mp.weixin.qq.com/s/HRsapg2no29YPjlENOg5lw",
+      "date": "2026-07-07",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（7月3日-5日）",
+      "url": "https://mp.weixin.qq.com/s/72GZTKvCACE5D0A5YLgPug",
+      "date": "2026-07-03",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年上海大学MBA研究生新生缴费办法",
+      "url": "https://mba.shu.edu.cn/info/1024/26921.htm",
+      "date": "2026-07-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年上海大学MBA2025级研究生缴费办法",
+      "url": "https://mba.shu.edu.cn/info/1024/26931.htm",
+      "date": "2026-07-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年上海大学MBA2024级研究生缴费办法",
+      "url": "https://mba.shu.edu.cn/info/1024/26941.htm",
+      "date": "2026-07-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "上大MBA360°职业洞察营7月18日线下专场报名开启",
+      "url": "https://mp.weixin.qq.com/s/lus4dJjP6xs_S3NS7ZDysA",
+      "date": "2026-07-02",
+      "column": "通知公告"
+    },
+    {
       "title": "MBA研究生党支部七一主题党日活动",
       "url": "https://mp.weixin.qq.com/s/EAvgoyQ7r67Ug5gMhFpUog",
       "date": "2026-07-01",
       "column": "论坛活动"
+    },
+    {
+      "title": "上海大学管理学院与美国项目管理学会（AAPM）签署战略合作协议",
+      "url": "https://mp.weixin.qq.com/s/sKkVRoetnG_a1tbxUtviyw",
+      "date": "2026-06-30",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "青春逐梦 奔赴山海｜上海大学管理学院2026年毕业典礼预告",
+      "url": "https://mp.weixin.qq.com/s/dWOluVCkSjJIaGSvoNj_YA",
+      "date": "2026-06-25",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于24FT毕业生办理云离校手续的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26881.htm",
+      "date": "2026-06-24",
+      "column": "通知公告"
     },
     {
       "title": "MBA研究生党支部开展第二季度主题党日活动",
@@ -113,10 +263,28 @@
       "column": "论坛活动"
     },
     {
+      "title": "上海大学MBA中心顺利完成EFMD再认证现场考察",
+      "url": "https://mp.weixin.qq.com/s/TAa5Ea_g4H07FZk1fIurWw",
+      "date": "2026-06-18",
+      "column": "焦点新闻"
+    },
+    {
+      "title": "6月28日线上专场｜上大MBA360°职业洞察营报名进行时",
+      "url": "https://mp.weixin.qq.com/s/oIF3fLgOHMbhpdIChiUkHA",
+      "date": "2026-06-12",
+      "column": "通知公告"
+    },
+    {
       "title": "第十二届全国管理案例精英赛上海大学校园突围赛圆满落幕",
       "url": "https://mp.weixin.qq.com/s/6MUG0lFdOJ_fqUimWFr2ig",
       "date": "2026-06-10",
       "column": "论坛活动"
+    },
+    {
+      "title": "关于收集在读生缴费信息抬头的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/26801.htm",
+      "date": "2026-06-08",
+      "column": "通知公告"
     },
     {
       "title": "上海大学MBA中心：以绿色为笔，书写负责任的商业未来",
@@ -125,10 +293,22 @@
       "column": "论坛活动"
     },
     {
+      "title": "上海大学MBA中心举办2026企业导师感恩会暨学生见面会",
+      "url": "https://mp.weixin.qq.com/s/2XREJJZdIR4sFonPXBXwFg",
+      "date": "2026-06-04",
+      "column": "焦点新闻"
+    },
+    {
       "title": "“拍好每一场活动：人像·现场实战指南”专题讲座",
       "url": "https://mp.weixin.qq.com/s/gbFH45jE7KA3MMHZx7hZ8A",
       "date": "2026-06-03",
       "column": "论坛活动"
+    },
+    {
+      "title": "喜报！上大MBA校友工作获校级荣誉 两年深耕结硕果",
+      "url": "https://mp.weixin.qq.com/s/MOJalCxaF-_99-sCtlXz_Q",
+      "date": "2026-06-01",
+      "column": "焦点新闻"
     },
     {
       "title": "关于2026届毕业研究生进沪就业落户成绩等级评定申报名单公示的通知",
