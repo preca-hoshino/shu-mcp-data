@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20260831_062005",
-  "total_articles": 334,
+  "crawl_time": "20260831_103643",
+  "total_articles": 335,
   "columns": {
-    "新闻动态": 252,
+    "新闻动态": 253,
     "讲座信息": 8,
     "资讯动态": 2,
     "通知公告": 72
   },
   "articles": [
+    {
+      "title": "为“芯”而来，“智”汇狮城｜微电子学院2026年暑期新加坡产教融合训练营圆满结束",
+      "url": "https://sme.shu.edu.cn/info/1029/7592.htm",
+      "date": "2026-08-31",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学“1+3+N”集成电路协同育人联盟联组学习习近平党建思想暨2026年第二次党建联席会议顺利召开",
       "url": "https://sme.shu.edu.cn/info/1029/7172.htm",
