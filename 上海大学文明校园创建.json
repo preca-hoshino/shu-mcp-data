@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260831_103643",
+  "crawl_time": "20260831_154832",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,30 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "民进上海大学委员会6位教授被聘任为上海民进开明科普宣讲团专家",
+      "url": "https://www.shu.edu.cn/info/1056/400125.htm",
+      "date": "2026-08-31",
+      "column": "文明实践"
+    },
+    {
+      "title": "“先进制造国际学术交流研讨会：微纳制造中的力学、计算与测...",
+      "url": "https://www.shu.edu.cn/info/1056/400165.htm",
+      "date": "2026-08-31",
+      "column": "文明实践"
+    },
+    {
+      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员...",
+      "url": "https://www.shu.edu.cn/info/1056/400225.htm",
+      "date": "2026-08-31",
+      "column": "文明实践"
+    },
+    {
+      "title": "山区人大换届选举上海大学选区选举工作动员暨培训会举行",
+      "url": "https://www.shu.edu.cn/info/1056/400235.htm",
+      "date": "2026-08-31",
+      "column": "文明实践"
+    },
     {
       "title": "双向赋能、共谱新篇！宝山区与上海大学深化战略合作交流会举行",
       "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
@@ -125,12 +149,6 @@
       "column": "文明实践"
     },
     {
-      "title": "树牢正确政绩观，从严正风促发展——科产系统召开全面从严治...",
-      "url": "https://www.shu.edu.cn/info/1056/399505.htm",
-      "date": "2026-07-27",
-      "column": "文明实践"
-    },
-    {
       "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
       "url": "https://www.shu.edu.cn/info/1056/399535.htm",
       "date": "2026-07-27",
@@ -140,24 +158,6 @@
       "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
       "url": "https://www.shu.edu.cn/info/1056/399555.htm",
       "date": "2026-07-27",
-      "column": "文明实践"
-    },
-    {
-      "title": "百年文脉贯中西，文明互鉴谱新篇——百年上海中外文明交流互...",
-      "url": "https://www.shu.edu.cn/info/1056/399425.htm",
-      "date": "2026-07-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学召开期刊工作领导小组会议",
-      "url": "https://www.shu.edu.cn/info/1056/399445.htm",
-      "date": "2026-07-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "上大温影承办“看中国·上海行”获东方卫视《下一站》专题播出...",
-      "url": "https://www.shu.edu.cn/info/1056/399465.htm",
-      "date": "2026-07-22",
       "column": "文明实践"
     },
     {
