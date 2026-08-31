@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260830_160804",
+  "crawl_time": "20260831_062005",
   "total_articles": 416,
   "columns": {
     "学术活动": 25,
@@ -11,6 +11,18 @@
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "暑假社会实践 | 智润乡野播星火，点石成金筑少年——2026年“点石成金”暑期支教活动（总结篇）",
+      "url": "https://mp.weixin.qq.com/s/OfRzpI33PnAX9ne7Lzpt6g",
+      "date": "2026-08-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "喜报 | 计算机学院学子斩获第二十一届中国研究生电子设计竞赛全国三等奖（上海赛区一等奖）！",
+      "url": "https://mp.weixin.qq.com/s/TQ4wEmTBCw2vzAIL8Jg_JQ",
+      "date": "2026-08-01",
+      "column": "新闻动态"
+    },
     {
       "title": "暑假社会实践 | 再赴鹤溪，向新而行——2026年“点石成金”暑期支教活动（启航篇）",
       "url": "https://mp.weixin.qq.com/s/qUwL2wyfUzviJRRkOujbXw",
@@ -120,12 +132,6 @@
       "column": "风采展示"
     },
     {
-      "title": "七一·致敬 | 计算机工程与科学学院“两优一先”表彰名单来啦！",
-      "url": "https://mp.weixin.qq.com/s/nvrsUZMcGgD8Iqe-gyItMw",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
       "title": "第三届“智联杯”华为无线程序设计竞赛暨2026年上海市大学生程序设计竞赛圆满举行！",
       "url": "https://mp.weixin.qq.com/s/p9k5ruO5K1bOkChFof7y0g",
       "date": "2026-07-01",
@@ -184,12 +190,6 @@
       "url": "https://mp.weixin.qq.com/s/OFPpooYCP-vKYS5g5ewH1g",
       "date": "2026-06-01",
       "column": "风采展示"
-    },
-    {
-      "title": "计算机学院党委召开“智聚先锋·链动未来”2026年第四次党支部书记例会暨毕业生党员教育",
-      "url": "https://mp.weixin.qq.com/s/aNbd4xaMtgGnKNlaAavwUw",
-      "date": "2026-06-01",
-      "column": "新闻动态"
     },
     {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生毛彦翔",

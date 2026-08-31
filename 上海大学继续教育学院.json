@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260830_160804",
-  "total_articles": 1782,
+  "crawl_time": "20260831_062005",
+  "total_articles": 1783,
   "columns": {
     "学院新闻": 545,
     "招生热讯": 77,
-    "通知公告": 1160
+    "通知公告": 1161
   },
   "articles": [
+    {
+      "title": "关于2026年6月自考本科毕业生申请学士学位登记的通知",
+      "url": "https://cce.shu.edu.cn/info/1542/20784.htm",
+      "date": "2026-08-31",
+      "column": "通知公告"
+    },
     {
       "title": "关于成人本科学生报考自学考试外语类课程的提醒",
       "url": "https://cce.shu.edu.cn/info/1464/20864.htm",
