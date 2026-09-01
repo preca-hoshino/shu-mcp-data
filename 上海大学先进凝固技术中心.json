@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260831_185009",
-  "total_articles": 372,
+  "crawl_time": "20260901_054817",
+  "total_articles": 373,
   "columns": {
-    "学术动态": 34,
+    "学术动态": 35,
     "新闻快递": 314,
     "研究成果": 24
   },
   "articles": [
+    {
+      "title": "“2026材料与社会文明——材料研究与人才培养研讨会”成功举办",
+      "url": "https://cast.shu.edu.cn/info/1044/4241.htm",
+      "date": "2026-09-01",
+      "column": "学术动态"
+    },
     {
       "title": "首钢贵钢PMO工程技术改造项目顺利通过验收",
       "url": "https://cast.shu.edu.cn/info/1042/4231.htm",
