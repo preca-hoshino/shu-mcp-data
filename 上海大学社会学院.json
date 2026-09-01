@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260901_091241",
-  "total_articles": 2578,
+  "crawl_time": "20260901_130226",
+  "total_articles": 2579,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
@@ -13,9 +13,15 @@
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 882,
-    "通知公告": 49
+    "通知公告": 50
   },
   "articles": [
+    {
+      "title": "关于开展2026年上海大学本科生国际组织实习认定工作的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/43248.htm",
+      "date": "2026-09-01",
+      "column": "通知公告"
+    },
     {
       "title": "第二届“地域社会政策”年度学术论坛举行",
       "url": "https://sociology.shu.edu.cn/info/1104/43218.htm",

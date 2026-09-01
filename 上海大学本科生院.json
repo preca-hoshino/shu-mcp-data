@@ -2,11 +2,11 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260901_091241",
-  "total_articles": 1820,
+  "crawl_time": "20260901_130226",
+  "total_articles": 1819,
   "columns": {
     "政策文件": 57,
-    "新闻动态": 38,
+    "新闻动态": 37,
     "通知公告": 1725
   },
   "articles": [
@@ -129,12 +129,6 @@
       "url": "https://bksy.shu.edu.cn/info/1015/321414.htm",
       "date": "2026-07-27",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学举办习近平新时代中国特色社会主义思想分领域思想进课程培训交流会",
-      "url": "https://bksy.shu.edu.cn/info/1016/321244.htm",
-      "date": "2026-07-20",
-      "column": "新闻动态"
     },
     {
       "title": "数智赋能育英才 开放融通启新程 —— 上海大学2026年国际化小学期暨第十一届国际教育论坛圆满落幕",
