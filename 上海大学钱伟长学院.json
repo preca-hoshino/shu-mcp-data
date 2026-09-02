@@ -2,14 +2,20 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260902_123038",
-  "total_articles": 695,
+  "crawl_time": "20260902_160230",
+  "total_articles": 696,
   "columns": {
     "学术报告": 217,
-    "最新动态": 371,
+    "最新动态": 372,
     "通知公告": 107
   },
   "articles": [
+    {
+      "title": "钱伟长学院举办2026级新生见面会暨“院长第一课”",
+      "url": "https://qwc.shu.edu.cn/info/1087/8399.htm",
+      "date": "2026-09-02",
+      "column": "最新动态"
+    },
     {
       "title": "钱伟长学院举办2026年本硕博一体化培养宣讲会",
       "url": "https://qwc.shu.edu.cn/info/1087/8359.htm",
