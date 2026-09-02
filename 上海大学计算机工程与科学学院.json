@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260902_082659",
+  "crawl_time": "20260902_123038",
   "total_articles": 416,
   "columns": {
     "学术活动": 25,
@@ -11,6 +11,12 @@
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "逐梦启航，序启新章！计算机工程与科学学院2026级本科生迎新工作圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/7FLO5KJDCmZH4U1kPR_rPA",
+      "date": "2026-09-01",
+      "column": "新闻动态"
+    },
     {
       "title": "暑假社会实践 | 智润乡野播星火，点石成金筑少年——2026年“点石成金”暑期支教活动（总结篇）",
       "url": "https://mp.weixin.qq.com/s/OfRzpI33PnAX9ne7Lzpt6g",
@@ -74,12 +80,6 @@
     {
       "title": "“筑牢反诈防线 守护校园平安”上海大学计算机工程与科学学院反诈主题沙龙顺利召开",
       "url": "https://mp.weixin.qq.com/s/FKWezT1cK_oASib7Jei2DA",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "实干砺初心 青春担使命——计算机学院本科生第二党支部开展“七一”主题党日活动",
-      "url": "https://mp.weixin.qq.com/s/KtX4C3lbhcAUaNzI8V1cSw",
       "date": "2026-07-01",
       "column": "新闻动态"
     },

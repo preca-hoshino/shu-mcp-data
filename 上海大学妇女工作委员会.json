@@ -2,10 +2,10 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20260902_082659",
-  "total_articles": 472,
+  "crawl_time": "20260902_123038",
+  "total_articles": 475,
   "columns": {
-    "新闻动态": 457,
+    "新闻动态": 460,
     "通知公告": 15
   },
   "articles": [
@@ -16,10 +16,28 @@
       "column": "通知公告"
     },
     {
+      "title": "活动回顾|第四十四期泮池家长学校亲子研学活动顺利举办",
+      "url": "https://mp.weixin.qq.com/s/91UbU7oYIge-Br1t7lqvtw",
+      "date": "2026-07-21",
+      "column": "新闻动态"
+    },
+    {
       "title": "活动预告|第四十四期泮池家长学校（亲子研学）活动预告",
       "url": "https://mp.weixin.qq.com/s/Y5noXrwp_hpTq3HZP_ayag",
       "date": "2026-07-15",
       "column": "通知公告"
+    },
+    {
+      "title": "活动回顾 | 泮池家长学校第四十二讲：知“止”得定，知“心”...",
+      "url": "https://mp.weixin.qq.com/s/l6NfH8teAB__Cu7fPa6s-Q",
+      "date": "2026-06-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "活动回顾 | 泮池家长学校第四十一讲：《八0后沪漂带娃漫记》...",
+      "url": "https://mp.weixin.qq.com/s/3nhsFmlL2eMGntE2R0jzdA",
+      "date": "2026-06-01",
+      "column": "新闻动态"
     },
     {
       "title": "“泮池家长学校”第四十二期预告 | 知“止”得定，知“心”相...",

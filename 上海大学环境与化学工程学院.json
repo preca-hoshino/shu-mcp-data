@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260902_082659",
+  "crawl_time": "20260902_123038",
   "total_articles": 991,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "【迎新季】上海大学环保社招新啦！",
+      "url": "https://mp.weixin.qq.com/s/I5eU9XKJqvuM084K6y2UKQ",
+      "date": "2026-09-02",
+      "column": "学院新闻"
+    },
     {
       "title": "【迎新季】研途新程，与你同行——环化研会即将发车！",
       "url": "https://mp.weixin.qq.com/s/TRzfntbkGwFszXGAj4mg6g",
@@ -131,12 +137,6 @@
       "title": "【就业创业】行走课堂——探访环保行业，规划职业未来",
       "url": "https://mp.weixin.qq.com/s/Ee4uGr6WjnfmAZ9ak8gr_w",
       "date": "2026-07-28",
-      "column": "学院新闻"
-    },
-    {
-      "title": "校企协同育人才 产教融合促发展   ——我院携手上海环境危废事业部深化产学研协同创新合作",
-      "url": "https://ece.shu.edu.cn/info/1149/89484.htm",
-      "date": "2026-07-27",
       "column": "学院新闻"
     },
     {
