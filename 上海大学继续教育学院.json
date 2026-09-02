@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260901_160809",
-  "total_articles": 1785,
+  "crawl_time": "20260902_051128",
+  "total_articles": 1787,
   "columns": {
     "学院新闻": 545,
-    "招生热讯": 78,
-    "通知公告": 1162
+    "招生热讯": 79,
+    "通知公告": 1163
   },
   "articles": [
+    {
+      "title": "上海大学2026年成人高考网上报名开始啦",
+      "url": "https://cce.shu.edu.cn/info/1013/20924.htm",
+      "date": "2026-09-02",
+      "column": "招生热讯"
+    },
+    {
+      "title": "上海大学2026年成人高考网上报名开始啦",
+      "url": "https://cce.shu.edu.cn/info/1464/20904.htm",
+      "date": "2026-09-02",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026年成人高考网上报名友情提醒",
       "url": "https://cce.shu.edu.cn/info/1013/20914.htm",
