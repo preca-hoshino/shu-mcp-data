@@ -2,10 +2,10 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20260902_051128",
-  "total_articles": 157,
+  "crawl_time": "20260902_082659",
+  "total_articles": 156,
   "columns": {
-    "工作动态": 60,
+    "工作动态": 59,
     "成交公告": 22,
     "服务指南": 22,
     "通知公告": 31,
@@ -581,12 +581,6 @@
       "url": "https://czb.shu.edu.cn/info/1120/1820.htm",
       "date": "2020-12-03",
       "column": "服务指南"
-    },
-    {
-      "title": "采招办开展“电影党课”主题活动",
-      "url": "https://czb.shu.edu.cn/info/1121/1814.htm",
-      "date": "2020-11-13",
-      "column": "工作动态"
     },
     {
       "title": "采招办支部组织学习十九届五中全会和习近平主席在第三届进博会开幕式上的主旨演讲精神",
