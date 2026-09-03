@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260903_083513",
+  "crawl_time": "20260903_123339",
   "total_articles": 991,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "【迎新季】环化新力量，青春正当时——2026级本科新生报到直击",
+      "url": "https://mp.weixin.qq.com/s/pp2XQlhiWiP8rH27GCPceA",
+      "date": "2026-09-03",
+      "column": "学院新闻"
+    },
     {
       "title": "【迎新季】上海大学环保社招新啦！",
       "url": "https://mp.weixin.qq.com/s/I5eU9XKJqvuM084K6y2UKQ",
@@ -119,12 +125,6 @@
       "title": "【社会实践】旧物焕新・邻里共生——“绿萤”社会实践队走进昱翠家苑开展社区环保工作坊活动",
       "url": "https://mp.weixin.qq.com/s/lmxsqJ57bG1hOtCHdQ_FOA",
       "date": "2026-07-31",
-      "column": "学院新闻"
-    },
-    {
-      "title": "我院与闵行区生态环境局开展树立和践行正确政绩观党建联学活动",
-      "url": "https://ece.shu.edu.cn/info/1149/89494.htm",
-      "date": "2026-07-28",
       "column": "学院新闻"
     },
     {

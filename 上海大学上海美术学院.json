@@ -2,19 +2,31 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260903_083513",
-  "total_articles": 711,
+  "crawl_time": "20260903_123339",
+  "total_articles": 713,
   "columns": {
     "党建工作": 47,
     "学术讲座": 53,
     "学生工作": 42,
     "学院新闻": 335,
     "展览展示": 24,
-    "教学": 162,
+    "教学": 163,
     "科研": 35,
-    "通知公告": 13
+    "通知公告": 14
   },
   "articles": [
+    {
+      "title": "上海大学上海美术学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://safa.shu.edu.cn/info/1119/19810.htm",
+      "date": "2026-09-03",
+      "column": "教学"
+    },
+    {
+      "title": "上海大学上海美术学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://safa.shu.edu.cn/info/1122/19820.htm",
+      "date": "2026-09-03",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学上海美术学院2026年暑期值班安排",
       "url": "https://safa.shu.edu.cn/info/1122/19770.htm",
