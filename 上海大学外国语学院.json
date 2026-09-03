@@ -2,12 +2,12 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260902_160230",
-  "total_articles": 578,
+  "crawl_time": "20260903_051521",
+  "total_articles": 570,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 33,
-    "学院新闻": 55,
+    "学院新闻": 47,
     "通知公告": 90
   },
   "articles": [
@@ -114,58 +114,10 @@
       "column": "学术活动预告"
     },
     {
-      "title": "薪火相传守初心，逐梦前行担使命  ——外国语学院2026年毕业生党员座谈会顺利开展",
-      "url": "https://sfs.shu.edu.cn/info/1142/30817.htm",
-      "date": "2026-06-15",
-      "column": "学院新闻"
-    },
-    {
-      "title": "外国语学院2026年研究生党建中心换届大会顺利召开",
-      "url": "https://sfs.shu.edu.cn/info/1142/30827.htm",
-      "date": "2026-06-15",
-      "column": "学院新闻"
-    },
-    {
-      "title": "赋能暑期实践，挺膺青春担当  ——外国语学院第六期团支部书记沙龙活动顺利开展",
-      "url": "https://sfs.shu.edu.cn/info/1142/30797.htm",
-      "date": "2026-06-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "渔阳寻迹・语传薪火|双语宣讲进校园，让红色课堂“活”起来",
-      "url": "https://sfs.shu.edu.cn/info/1142/30767.htm",
-      "date": "2026-06-05",
-      "column": "学院新闻"
-    },
-    {
       "title": "外国语学院研究生招生宣传册",
       "url": "https://sfs.shu.edu.cn/info/1141/30697.htm",
       "date": "2026-06-03",
       "column": "通知公告"
-    },
-    {
-      "title": "外国语学院英语专业学生在2026年英语专业八级考试中取得佳绩",
-      "url": "https://sfs.shu.edu.cn/info/1142/30667.htm",
-      "date": "2026-06-01",
-      "column": "学院新闻"
-    },
-    {
-      "title": "外国语学院分工会开展六一“可爱上海“绘画活动",
-      "url": "https://sfs.shu.edu.cn/info/1142/30687.htm",
-      "date": "2026-06-01",
-      "column": "学院新闻"
-    },
-    {
-      "title": "融通中外，文明互鉴——上海大学第十三届莎士比亚戏剧节华彩呈现",
-      "url": "https://sfs.shu.edu.cn/info/1142/30657.htm",
-      "date": "2026-05-31",
-      "column": "学院新闻"
-    },
-    {
-      "title": "第六届“樱花国际日语杯”学术论坛在上海大学圆满举办",
-      "url": "https://sfs.shu.edu.cn/info/1142/30707.htm",
-      "date": "2026-05-31",
-      "column": "学院新闻"
     },
     {
       "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",

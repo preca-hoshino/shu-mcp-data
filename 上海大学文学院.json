@@ -2,12 +2,12 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260902_160230",
-  "total_articles": 1984,
+  "crawl_time": "20260903_051521",
+  "total_articles": 1976,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
-    "学院周志": 310,
+    "学院周志": 302,
     "科研动态": 481,
     "综合新闻": 523,
     "通知公告": 421
@@ -26,40 +26,16 @@
       "column": "通知公告"
     },
     {
-      "title": "文学院周志总第706期（2026年第22期，7月20日-7月26日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi706.pdf",
-      "date": "2026-07-31",
-      "column": "学院周志"
-    },
-    {
-      "title": "文学院周志总第705期（2026年第21期，7月13日-7月19日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi705.pdf",
-      "date": "2026-07-23",
-      "column": "学院周志"
-    },
-    {
       "title": "文学院召开“写作与沟通”课程教学改革推进研讨会",
       "url": "https://cla.shu.edu.cn/info/1019/53738.htm",
       "date": "2026-07-17",
       "column": "科研动态"
     },
     {
-      "title": "文学院周志总第704期（2026年第20期，7月6日-7月12日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi704.pdf",
-      "date": "2026-07-16",
-      "column": "学院周志"
-    },
-    {
       "title": "清华大学写作与沟通中心严程副教授受邀讲座",
       "url": "https://cla.shu.edu.cn/info/1019/53698.htm",
       "date": "2026-07-13",
       "column": "科研动态"
-    },
-    {
-      "title": "文学院周志总第703期（2026年第19期，6月29日-7月5日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi703.pdf",
-      "date": "2026-07-10",
-      "column": "学院周志"
     },
     {
       "title": "2026年文学院年度考核工作安排的通知",
@@ -74,22 +50,10 @@
       "column": "通知公告"
     },
     {
-      "title": "文学院周志总第702期（2026年第18期，6月15日-6月28日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi702.pdf",
-      "date": "2026-07-03",
-      "column": "学院周志"
-    },
-    {
       "title": "“文脉承光 逐梦新程”上海大学文学院2026届毕业典礼暨学位授予仪式顺利举行",
       "url": "https://cla.shu.edu.cn/info/1015/53648.htm",
       "date": "2026-06-30",
       "column": "综合新闻"
-    },
-    {
-      "title": "文学院周志总第701期（2026年第17期，6月8日-6月14日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi701.pdf",
-      "date": "2026-06-18",
-      "column": "学院周志"
     },
     {
       "title": "国家为什么会“成功”：现代化研究的反思与中国现代化的实践",
@@ -104,22 +68,10 @@
       "column": "科研动态"
     },
     {
-      "title": "文学院周志总第700期（2026年第16期，6月1日-6月7日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi700.pdf",
-      "date": "2026-06-11",
-      "column": "学院周志"
-    },
-    {
       "title": "文学院2026年毕业生就业“攀登奖”结果公示",
       "url": "https://cla.shu.edu.cn/info/1017/53558.htm",
       "date": "2026-06-08",
       "column": "通知公告"
-    },
-    {
-      "title": "文学院周志总第699期（2026年第15期，5月25日-5月31日）",
-      "url": "https://cla.shu.edu.cn/zhouzhi699.pdf",
-      "date": "2026-06-04",
-      "column": "学院周志"
     },
     {
       "title": "第三届《尚书》学研究学术研讨会在上海大学成功举办",

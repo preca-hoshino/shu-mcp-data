@@ -2,19 +2,13 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260902_160230",
-  "total_articles": 458,
+  "crawl_time": "20260903_051521",
+  "total_articles": 457,
   "columns": {
     "后勤新闻": 320,
-    "通知公告": 138
+    "通知公告": 137
   },
   "articles": [
-    {
-      "title": "城璟公寓跨校区师生预约用车短期包车项目公告",
-      "url": "https://hbb.shu.edu.cn/info/1005/10736.htm",
-      "date": "2026-08-29",
-      "column": "通知公告"
-    },
     {
       "title": "上海市教育委员会等10部门关于举办第五届上海市青少年生态文明素养交流活动的通知",
       "url": "https://hbb.shu.edu.cn/info/1005/10726.htm",

@@ -2,14 +2,20 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260902_160230",
-  "total_articles": 852,
+  "crawl_time": "20260903_051521",
+  "total_articles": 853,
   "columns": {
     "党建简报": 132,
     "学工新闻": 37,
-    "通知公告": 683
+    "通知公告": 684
   },
   "articles": [
+    {
+      "title": "2026年上海大学本科生学生手册",
+      "url": "https://xgb.shu.edu.cn/info/1003/46014.htm",
+      "date": "2026-09-03",
+      "column": "通知公告"
+    },
     {
       "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员...",
       "url": "https://xgb.shu.edu.cn/info/1005/45984.htm",

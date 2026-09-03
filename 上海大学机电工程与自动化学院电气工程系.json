@@ -2,10 +2,10 @@
   "domain": "ee.shu.edu.cn",
   "department": "上海大学机电工程与自动化学院电气工程系",
   "type": "20",
-  "crawl_time": "20260902_160230",
-  "total_articles": 63,
+  "crawl_time": "20260903_051521",
+  "total_articles": 59,
   "columns": {
-    "科研教学": 24,
+    "科研教学": 20,
     "综合新闻": 39
   },
   "articles": [
@@ -16,40 +16,16 @@
       "column": "综合新闻"
     },
     {
-      "title": "机自学院在第九届中国研究生创“芯”大赛全国总决赛中荣获一等奖",
-      "url": "https://ee.shu.edu.cn/info/1015/5164.htm",
-      "date": "2026-08-24",
-      "column": "科研教学"
-    },
-    {
       "title": "电气工程系教师指导研究生在第二十一届中国研究生电子设计竞赛全国总决赛中荣获佳绩",
       "url": "https://ee.shu.edu.cn/info/1012/5124.htm",
       "date": "2026-08-22",
       "column": "综合新闻"
     },
     {
-      "title": "电气工程系教师指导研究生在第二十一届中国研究生电子设计竞赛全国总决赛中荣获佳绩",
-      "url": "https://ee.shu.edu.cn/info/1015/5144.htm",
-      "date": "2026-08-22",
-      "column": "科研教学"
-    },
-    {
       "title": "机自学院汪飞教授团队获2026年台达电力电子科教发展计划重点项目立项",
       "url": "https://ee.shu.edu.cn/info/1012/5114.htm",
       "date": "2026-07-27",
       "column": "综合新闻"
-    },
-    {
-      "title": "机自学院汪飞教授团队获2026年台达电力电子科教发展计划重点项目立项",
-      "url": "https://ee.shu.edu.cn/info/1015/5104.htm",
-      "date": "2026-07-27",
-      "column": "科研教学"
-    },
-    {
-      "title": "机自学院徐晨副教授团队与里斯本大学高等工学院合作发表IEEE TPEL高水平学术论文",
-      "url": "https://ee.shu.edu.cn/info/1015/5094.htm",
-      "date": "2026-06-09",
-      "column": "科研教学"
     },
     {
       "title": "交流有道，求学有方——外教课程学习专题分享会",
