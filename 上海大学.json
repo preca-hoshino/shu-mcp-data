@@ -2,11 +2,11 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260903_051521",
-  "total_articles": 18402,
+  "crawl_time": "20260903_083513",
+  "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
-    "综合新闻": 16275,
+    "综合新闻": 16285,
     "通知公告": 453,
     "重要新闻": 30
   },
@@ -42,10 +42,70 @@
       "column": "科研动态"
     },
     {
+      "title": "“先进制造国际学术交流研讨会：微纳制造中的力学、计算与测量”在上海大学顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/400165.htm",
+      "date": "2026-08-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026 SHVFS招聘会现场直击｜AI赋能文娱新赛道，近五十家名企携百岗齐聚上大温影",
+      "url": "https://www.shu.edu.cn/info/1056/400175.htm",
+      "date": "2026-08-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "市审计局杜娟副局长带队赴环上大科技园开展党建联建活动",
+      "url": "https://www.shu.edu.cn/info/1056/400195.htm",
+      "date": "2026-08-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员培训会",
+      "url": "https://www.shu.edu.cn/info/1056/400225.htm",
+      "date": "2026-08-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "宝山区人大换届选举上海大学选区选举工作动员暨培训会举行",
+      "url": "https://www.shu.edu.cn/info/1056/400235.htm",
+      "date": "2026-08-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "理学院化学系学生在第十四届全国大学生化学实验竞赛总决赛中喜获佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/400105.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学力工学院学子获第二届全国大学生智能建造竞赛一等奖",
+      "url": "https://www.shu.edu.cn/info/1056/400115.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "民进上海大学委员会6位教授被聘任为上海民进开明科普宣讲团专家",
+      "url": "https://www.shu.edu.cn/info/1056/400125.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026全国第十九届精密工程学术研讨会暨青年学者创新论坛成功举行",
+      "url": "https://www.shu.edu.cn/info/1056/400135.htm",
+      "date": "2026-08-21",
+      "column": "综合新闻"
+    },
+    {
       "title": "宝山区与上海大学深化战略合作交流会举行",
       "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
       "date": "2026-08-17",
       "column": "重要新闻"
+    },
+    {
+      "title": "上海大学法学院联合国家知识产权局审协天津中心举办“科研创新・专利实战营”",
+      "url": "https://www.shu.edu.cn/info/1056/400085.htm",
+      "date": "2026-08-16",
+      "column": "综合新闻"
     },
     {
       "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界面能领域重要研究成果",

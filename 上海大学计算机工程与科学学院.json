@@ -2,11 +2,11 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260903_051521",
-  "total_articles": 406,
+  "crawl_time": "20260903_083513",
+  "total_articles": 416,
   "columns": {
     "学术活动": 25,
-    "新闻动态": 49,
+    "新闻动态": 59,
     "重要通知": 311,
     "风采展示": 21
   },
@@ -54,10 +54,22 @@
       "column": "新闻动态"
     },
     {
+      "title": "上海大学计算机学院走访校友企业上海守扣科技有限公司",
+      "url": "https://mp.weixin.qq.com/s/4xjSmg2lkC28uiUJBMyDWQ",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "研究生风采 | 菁英垂范，逐光远航——2026届上海市优秀毕业生俞浩奕",
       "url": "https://mp.weixin.qq.com/s/7NpMFRf-QTgFuNX9TvmGkg",
       "date": "2026-07-01",
       "column": "风采展示"
+    },
+    {
+      "title": "喜报 | 计算机工程与科学学院博士研究生第一党支部入选第四批全国高校“百个研究生样板党支部”培育创建单位",
+      "url": "https://mp.weixin.qq.com/s/Ahcz8_-wyk7F5LmYdPP_qw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
     },
     {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生张婧怡",
@@ -66,10 +78,28 @@
       "column": "风采展示"
     },
     {
+      "title": "“筑牢反诈防线 守护校园平安”上海大学计算机工程与科学学院反诈主题沙龙顺利召开",
+      "url": "https://mp.weixin.qq.com/s/FKWezT1cK_oASib7Jei2DA",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
       "title": "计算机学院校友、交通银行副行长钱斌：数智为帆、协同为桨 谱写金融高质量发展新篇章",
       "url": "https://mp.weixin.qq.com/s/OKhVvL4eZKv1V5uLOHUsDQ",
       "date": "2026-07-01",
       "column": "风采展示"
+    },
+    {
+      "title": "计算机学院召开党委理论学习中心组（扩大）学习会",
+      "url": "https://mp.weixin.qq.com/s/SVt5ZMNmeYdD9cnImP2KPw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院名誉院长郭毅可教授在WAIC发表“探求人工智能的第一性原理：把握硅碳时代的人机共生”主题演讲",
+      "url": "https://mp.weixin.qq.com/s/YxDERJerBgJxX9uhO31-ug",
+      "date": "2026-07-01",
+      "column": "新闻动态"
     },
     {
       "title": "行走课堂丨走进美钛中国，赋能生涯发展",
@@ -104,6 +134,36 @@
     {
       "title": "第三届“智联杯”华为无线程序设计竞赛暨2026年上海市大学生程序设计竞赛圆满举行！",
       "url": "https://mp.weixin.qq.com/s/p9k5ruO5K1bOkChFof7y0g",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "喜报｜计算机学院程彭洲、张新鹏文章被《新华文摘》转载！",
+      "url": "https://mp.weixin.qq.com/s/pEcXQJZvOAWIMWbbXx3okw",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "行走课堂丨走进哔哩哔哩，感受企业创新活力",
+      "url": "https://mp.weixin.qq.com/s/pgKjXGHm0K7PYkLfwabjxg",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "走进WAIC！计算机学院研究生参与研发人形消防巡检机器人",
+      "url": "https://mp.weixin.qq.com/s/unT1sTxTHyJ2Ap-D6HeAzQ",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机工程与科学学院第二十次团员代表大会暨第二十一次学生代表大会顺利召开",
+      "url": "https://mp.weixin.qq.com/s/x5klTbePCAQvcQiMed9KwA",
+      "date": "2026-07-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机学院本科生第二党支部开展“红迹沪上·青春砺行”主题实践活动",
+      "url": "https://mp.weixin.qq.com/s/yhjx6r6oC4dtryPtgLBTMg",
       "date": "2026-07-01",
       "column": "新闻动态"
     },

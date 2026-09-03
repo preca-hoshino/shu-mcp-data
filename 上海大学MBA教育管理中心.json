@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260903_051521",
+  "crawl_time": "20260903_083513",
   "total_articles": 629,
   "columns": {
     "焦点新闻": 372,
@@ -10,6 +10,18 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "选对赛道，赢在起点｜上海大学MBA专业方向学术主任为2026级新生详解专业方向",
+      "url": "https://mp.weixin.qq.com/s/5d6_7yaSBVqb4Rw7sjrW-g",
+      "date": "2026-09-03",
+      "column": "论坛活动"
+    },
+    {
+      "title": "回望上大MBA时光：国际首选毕业生Shatree Suwanvalaikorn的求学日志",
+      "url": "https://mp.weixin.qq.com/s/S9Tcvxbjlql3tPmL1PLtRw",
+      "date": "2026-09-03",
+      "column": "论坛活动"
+    },
     {
       "title": "上大MBA公开课报名|资深银行 CIO 深度剖析：金融数智转型下人才需求全新变局",
       "url": "https://mp.weixin.qq.com/s/fFEWVsiiPkuoddTpWBxKmA",
@@ -287,22 +299,10 @@
       "column": "通知公告"
     },
     {
-      "title": "上海大学MBA中心：以绿色为笔，书写负责任的商业未来",
-      "url": "https://mp.weixin.qq.com/s/iC9mt6M3EarHF1V5yVloeg",
-      "date": "2026-06-05",
-      "column": "论坛活动"
-    },
-    {
       "title": "上海大学MBA中心举办2026企业导师感恩会暨学生见面会",
       "url": "https://mp.weixin.qq.com/s/2XREJJZdIR4sFonPXBXwFg",
       "date": "2026-06-04",
       "column": "焦点新闻"
-    },
-    {
-      "title": "“拍好每一场活动：人像·现场实战指南”专题讲座",
-      "url": "https://mp.weixin.qq.com/s/gbFH45jE7KA3MMHZx7hZ8A",
-      "date": "2026-06-03",
-      "column": "论坛活动"
     },
     {
       "title": "喜报！上大MBA校友工作获校级荣誉 两年深耕结硕果",
