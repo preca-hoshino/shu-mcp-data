@@ -2,14 +2,20 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20260903_155223",
-  "total_articles": 145,
+  "crawl_time": "20260904_051140",
+  "total_articles": 146,
   "columns": {
     "学院新闻": 28,
     "热点新闻": 90,
-    "通知公告": 27
+    "通知公告": 28
   },
   "articles": [
+    {
+      "title": "上海大学音乐学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://music.shu.edu.cn/info/1175/5229.htm",
+      "date": "2026-09-04",
+      "column": "通知公告"
+    },
     {
       "title": "音乐学院2026年推荐应届优秀本科毕业生免试攻读硕士学位研究生名单公示",
       "url": "https://music.shu.edu.cn/info/1175/5189.htm",

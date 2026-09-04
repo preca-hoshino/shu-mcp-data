@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260903_155223",
-  "total_articles": 578,
+  "crawl_time": "20260904_051140",
+  "total_articles": 579,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 33,
     "学院新闻": 55,
-    "通知公告": 90
+    "通知公告": 91
   },
   "articles": [
+    {
+      "title": "上海大学外国语学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://sfs.shu.edu.cn/info/1141/31137.htm",
+      "date": "2026-09-04",
+      "column": "通知公告"
+    },
     {
       "title": "2026年7月JLPT上海大学考点证书邮寄信息登记通道已开通",
       "url": "https://sfs.shu.edu.cn/info/1141/31127.htm",

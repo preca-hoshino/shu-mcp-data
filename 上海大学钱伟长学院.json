@@ -2,14 +2,20 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260903_155223",
-  "total_articles": 696,
+  "crawl_time": "20260904_051140",
+  "total_articles": 698,
   "columns": {
     "学术报告": 217,
     "最新动态": 372,
-    "通知公告": 107
+    "通知公告": 109
   },
   "articles": [
+    {
+      "title": "钱伟长学院推荐2027年应届优秀本科毕业生免试攻读研究生工作细则",
+      "url": "https://qwc.shu.edu.cn/info/1086/8419.htm",
+      "date": "2026-09-03",
+      "column": "通知公告"
+    },
     {
       "title": "钱伟长学院举办2026级新生见面会暨“院长第一课”",
       "url": "https://qwc.shu.edu.cn/info/1087/8399.htm",
@@ -4069,6 +4075,12 @@
     {
       "title": "钱伟长学院2015暑期社会实践校级立项情况公示",
       "url": "https://qwc.shu.edu.cn/info/1086/2167.htm",
+      "date": "2015-06-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "第四届钱伟长教育思想学生宣讲团名单公示",
+      "url": "https://qwc.shu.edu.cn/info/1086/2168.htm",
       "date": "2015-06-29",
       "column": "通知公告"
     },

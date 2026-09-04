@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260903_155223",
-  "total_articles": 991,
+  "crawl_time": "20260904_051140",
+  "total_articles": 992,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
-    "本科生教学": 71,
+    "本科生教学": 72,
     "研究生教学": 207,
     "科研动态": 117,
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "环境与化学工程学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://ece.shu.edu.cn/info/1303/89714.htm",
+      "date": "2026-09-04",
+      "column": "本科生教学"
+    },
     {
       "title": "【迎新季】环化新力量，青春正当时——2026级本科新生报到直击",
       "url": "https://mp.weixin.qq.com/s/pp2XQlhiWiP8rH27GCPceA",
