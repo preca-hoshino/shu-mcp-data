@@ -2,18 +2,24 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260904_051140",
-  "total_articles": 224,
+  "crawl_time": "20260904_083058",
+  "total_articles": 226,
   "columns": {
     "党务公开": 12,
     "媒体聚焦": 14,
     "学术讲座": 45,
-    "学院公告": 60,
+    "学院公告": 62,
     "本科生教育": 24,
     "研究生教育": 27,
     "综合新闻": 42
   },
   "articles": [
+    {
+      "title": "上海大学新闻传播学院 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://sjc.shu.edu.cn/info/1003/6619.htm",
+      "date": "2026-09-04",
+      "column": "学院公告"
+    },
     {
       "title": "上海大学×鹊秘堂“品牌创意传播实训项目”圆满收官",
       "url": "https://sjc.shu.edu.cn/info/1009/6609.htm",
@@ -805,6 +811,12 @@
       "url": "https://sjc.shu.edu.cn/info/1002/1575.htm",
       "date": "2019-10-16",
       "column": "党务公开"
+    },
+    {
+      "title": "我院与英国拉夫堡大学学生联合培养项目宣讲会等你来参加！",
+      "url": "https://sjc.shu.edu.cn/info/1003/1571.htm",
+      "date": "2019-10-16",
+      "column": "学院公告"
     },
     {
       "title": "新闻传播学院2019年度考核结果公示",

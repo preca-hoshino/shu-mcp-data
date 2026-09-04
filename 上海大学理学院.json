@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260904_051140",
-  "total_articles": 3925,
+  "crawl_time": "20260904_083058",
+  "total_articles": 3927,
   "columns": {
     "主办会议": 41,
     "学术报告": 2645,
@@ -13,9 +13,21 @@
     "研究生新闻": 49,
     "科研动态": 309,
     "综合新闻": 620,
-    "通知公告": 160
+    "通知公告": 162
   },
   "articles": [
+    {
+      "title": "理学院关于做好2027年推荐优秀应届本科毕业生免试攻读研究生工作的实施意见",
+      "url": "https://scicol.shu.edu.cn/PDF1/20260904-11.pdf",
+      "date": "2026-09-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "2027年推免工作相关附件文件",
+      "url": "https://scicol.shu.edu.cn/info/1006/33805.htm",
+      "date": "2026-09-04",
+      "column": "通知公告"
+    },
     {
       "title": "“AI + 无限万象”人工智能创新大赛第二届“新致杯”· 报名通道正式开启",
       "url": "https://mp.weixin.qq.com/s/B_dplR3mZ3SNEv6qqtWHrQ",
