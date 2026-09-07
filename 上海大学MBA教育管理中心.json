@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260907_052204",
+  "crawl_time": "20260907_085922",
   "total_articles": 629,
   "columns": {
     "焦点新闻": 372,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2026级新生入学报到人像采集的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27351.htm",
+      "date": "2026-09-07",
+      "column": "通知公告"
+    },
     {
       "title": "选对赛道，赢在起点｜上海大学MBA专业方向学术主任为2026级新生详解专业方向",
       "url": "https://mp.weixin.qq.com/s/5d6_7yaSBVqb4Rw7sjrW-g",
@@ -291,12 +297,6 @@
       "url": "https://mp.weixin.qq.com/s/6MUG0lFdOJ_fqUimWFr2ig",
       "date": "2026-06-10",
       "column": "论坛活动"
-    },
-    {
-      "title": "关于收集在读生缴费信息抬头的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/26801.htm",
-      "date": "2026-06-08",
-      "column": "通知公告"
     },
     {
       "title": "上海大学MBA中心举办2026企业导师感恩会暨学生见面会",

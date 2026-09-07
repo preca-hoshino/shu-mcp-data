@@ -2,13 +2,19 @@
   "domain": "fpd.shu.edu.cn",
   "department": "上海大学新型显示技术及应用集成教育部重点实验室",
   "type": "21",
-  "crawl_time": "20260907_052204",
-  "total_articles": 94,
+  "crawl_time": "20260907_085922",
+  "total_articles": 96,
   "columns": {
     "新闻中心": 47,
-    "通知公告": 47
+    "通知公告": 49
   },
   "articles": [
+    {
+      "title": "2027年度开放课题申请通知",
+      "url": "https://fpd.shu.edu.cn/info/1111/4704.htm",
+      "date": "2026-09-07",
+      "column": "通知公告"
+    },
     {
       "title": "2026年度开放课题申请通知",
       "url": "https://fpd.shu.edu.cn/info/1111/4694.htm",
@@ -301,6 +307,12 @@
       "title": "学术报告：从材料的微观结构到宏观特性",
       "url": "https://fpd.shu.edu.cn/info/1111/3981.htm",
       "date": "2019-06-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "2019年“晶合”奖学金公示（新显中心）",
+      "url": "https://fpd.shu.edu.cn/info/1111/3971.htm",
+      "date": "2019-05-13",
       "column": "通知公告"
     },
     {
