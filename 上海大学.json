@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260906_145945",
+  "crawl_time": "20260907_052204",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,42 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "理学院化学系钱汇东、赵宏滨研究团队在《ACS Energy Letters》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/400345.htm",
+      "date": "2026-09-07",
+      "column": "科研动态"
+    },
+    {
+      "title": "校地携手  薪火接力——上海大学附属市八中学、上海大学附属市八初级中学今天正式揭牌！",
+      "url": "https://www.shu.edu.cn/info/1056/400305.htm",
+      "date": "2026-09-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学上海温哥华电影学院AI影视制作中心正式成立",
+      "url": "https://www.shu.edu.cn/info/1056/400325.htm",
+      "date": "2026-09-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "文化遗产与信息管理学院2026级本科迎新系列活动顺利开展",
+      "url": "https://www.shu.edu.cn/info/1056/400335.htm",
+      "date": "2026-09-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "贾樟柯续任上海大学上海温哥华电影学院院长，十年领航再启新程",
+      "url": "https://www.shu.edu.cn/info/1056/400355.htm",
+      "date": "2026-09-07",
+      "column": "综合新闻"
+    },
+    {
+      "title": "电力装备具身智能联合创新中心工作年会顺利召开",
+      "url": "https://www.shu.edu.cn/info/1056/400365.htm",
+      "date": "2026-09-07",
+      "column": "综合新闻"
+    },
     {
       "title": "聚焦“一国一区域一领域”，助力中资企业“出海”：上海大学区域国别研究院揭牌成立",
       "url": "https://mp.weixin.qq.com/s/CzmLhS0ousf9vnsxmJ6oYg",
@@ -72,24 +108,6 @@
       "column": "科研动态"
     },
     {
-      "title": "“先进制造国际学术交流研讨会：微纳制造中的力学、计算与测量”在上海大学顺利召开",
-      "url": "https://www.shu.edu.cn/info/1056/400165.htm",
-      "date": "2026-08-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026 SHVFS招聘会现场直击｜AI赋能文娱新赛道，近五十家名企携百岗齐聚上大温影",
-      "url": "https://www.shu.edu.cn/info/1056/400175.htm",
-      "date": "2026-08-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "市审计局杜娟副局长带队赴环上大科技园开展党建联建活动",
-      "url": "https://www.shu.edu.cn/info/1056/400195.htm",
-      "date": "2026-08-28",
-      "column": "综合新闻"
-    },
-    {
       "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员培训会",
       "url": "https://www.shu.edu.cn/info/1056/400225.htm",
       "date": "2026-08-28",
@@ -99,18 +117,6 @@
       "title": "宝山区人大换届选举上海大学选区选举工作动员暨培训会举行",
       "url": "https://www.shu.edu.cn/info/1056/400235.htm",
       "date": "2026-08-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "民进上海大学委员会6位教授被聘任为上海民进开明科普宣讲团专家",
-      "url": "https://www.shu.edu.cn/info/1056/400125.htm",
-      "date": "2026-08-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026全国第十九届精密工程学术研讨会暨青年学者创新论坛成功举行",
-      "url": "https://www.shu.edu.cn/info/1056/400135.htm",
-      "date": "2026-08-21",
       "column": "综合新闻"
     },
     {
@@ -178,12 +184,6 @@
       "url": "https://www.shu.edu.cn/info/1051/399515.htm",
       "date": "2026-07-24",
       "column": "通知公告"
-    },
-    {
-      "title": "材料基因组工程研究院牵头组织的中国材料大会2026E06“材料基因与人工智能材料”分会和FB06“人工智能与物质科学青年科学家论坛” 在武汉成功举办",
-      "url": "https://www.shu.edu.cn/info/1055/399495.htm",
-      "date": "2026-07-23",
-      "column": "科研动态"
     },
     {
       "title": "越南科学技术部部长武海军一行访问上海大学",

@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260906_145945",
-  "total_articles": 804,
+  "crawl_time": "20260907_052204",
+  "total_articles": 806,
   "columns": {
-    "学术活动": 201,
+    "学术活动": 203,
     "学院新闻": 90,
     "重要通知": 513
   },
   "articles": [
+    {
+      "title": "0911上海管理论坛第580期（谭劲松教授，加拿大约克大学舒立克商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/92455.htm",
+      "date": "2026-09-07",
+      "column": "学术活动"
+    },
     {
       "title": "管理学院获13项国家自然科学基金立项资助",
       "url": "https://ms.shu.edu.cn/info/1244/92435.htm",
@@ -4623,6 +4629,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "08-09秋冲突考安排",
+      "url": "https://ms.shu.edu.cn/info/1246/11183.htm",
+      "date": "2008-11-10",
+      "column": "学术活动"
     },
     {
       "title": "上海管理论坛青年学者专场第一期成功举办",

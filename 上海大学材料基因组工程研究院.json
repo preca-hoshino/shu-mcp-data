@@ -2,10 +2,10 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260906_145945",
-  "total_articles": 417,
+  "crawl_time": "20260907_052204",
+  "total_articles": 419,
   "columns": {
-    "学术报告": 137,
+    "学术报告": 139,
     "科研动态": 78,
     "综合新闻": 46,
     "通知公告": 156
@@ -16,6 +16,12 @@
       "url": "https://mgi.shu.edu.cn/info/1063/7545.htm",
       "date": "2026-08-28",
       "column": "科研动态"
+    },
+    {
+      "title": "MGI Seminar 第421讲：沈健 教授 （2026年8月17日 星期一 15:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7555.htm",
+      "date": "2026-08-14",
+      "column": "学术报告"
     },
     {
       "title": "2026年材料基因组工程研究院暑假值班表",
@@ -2356,6 +2362,12 @@
       "url": "https://mgi.shu.edu.cn/info/1063/1705.htm",
       "date": "2015-09-22",
       "column": "科研动态"
+    },
+    {
+      "title": "MGI Seminar 第30讲：新型功能材料及新性能的创新设计和研究",
+      "url": "https://mgi.shu.edu.cn/info/1065/2052.htm",
+      "date": "2015-09-10",
+      "column": "学术报告"
     },
     {
       "title": "MGI Seminar第29讲：Revealing the Inside of Rechargeable Batteries: How Deep Can We Go by In-Situ Electron Microscopy?",
