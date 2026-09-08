@@ -2,14 +2,32 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260908_083847",
-  "total_articles": 853,
+  "crawl_time": "20260908_123605",
+  "total_articles": 856,
   "columns": {
     "党建简报": 132,
     "学工新闻": 37,
-    "通知公告": 684
+    "通知公告": 687
   },
   "articles": [
+    {
+      "title": "上海大学关于开展2025-2026学年本科生国家奖学金 上海市奖学...",
+      "url": "https://xgb.shu.edu.cn/info/1003/46034.htm",
+      "date": "2026-09-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学关于开展2025-2026学年国家励志奖学金评审工作的通知",
+      "url": "https://xgb.shu.edu.cn/info/1003/46044.htm",
+      "date": "2026-09-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学关于开展2026年度本科生宝钢优秀学生奖评审工作的通...",
+      "url": "https://xgb.shu.edu.cn/info/1003/46054.htm",
+      "date": "2026-09-08",
+      "column": "通知公告"
+    },
     {
       "title": "2026年上海大学本科生学生手册",
       "url": "https://xgb.shu.edu.cn/info/1003/46014.htm",
