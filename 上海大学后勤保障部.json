@@ -2,10 +2,10 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20260907_172005",
-  "total_articles": 457,
+  "crawl_time": "20260908_052426",
+  "total_articles": 463,
   "columns": {
-    "后勤新闻": 320,
+    "后勤新闻": 326,
     "通知公告": 137
   },
   "articles": [
@@ -34,10 +34,28 @@
       "column": "通知公告"
     },
     {
+      "title": "东上航业务团队来我校开展交流活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/10846.htm",
+      "date": "2026-08-14",
+      "column": "后勤新闻"
+    },
+    {
       "title": "2026年餐饮管理中心嘉定校区一食堂二层餐厅宣传类材料采购项目公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10626.htm",
       "date": "2026-08-13",
       "column": "通知公告"
+    },
+    {
+      "title": "宝山校区宿舍暑期大修工程攻坚推进会召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/10796.htm",
+      "date": "2026-08-13",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "经营管理办公室与深圳瑞捷开展专题业务交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/10806.htm",
+      "date": "2026-08-13",
+      "column": "后勤新闻"
     },
     {
       "title": "嘉定校区宿舍楼维修项目工程监理服务采购公告",
@@ -74,6 +92,24 @@
       "url": "https://hbb.shu.edu.cn/info/1005/10496.htm",
       "date": "2026-07-30",
       "column": "通知公告"
+    },
+    {
+      "title": "华东政法大学后勤管理处来我校调研交流",
+      "url": "https://hbb.shu.edu.cn/info/1081/10836.htm",
+      "date": "2026-07-27",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "后勤保障部开展2026年度正科级干部考核述职会",
+      "url": "https://hbb.shu.edu.cn/info/1081/10826.htm",
+      "date": "2026-07-22",
+      "column": "后勤新闻"
+    },
+    {
+      "title": "上海市学校后勤协会安全与应急保障专委会工作会议召开",
+      "url": "https://hbb.shu.edu.cn/info/1081/10816.htm",
+      "date": "2026-07-20",
+      "column": "后勤新闻"
     },
     {
       "title": "内蒙古农业大学后勤管理处来我校调研交流",
