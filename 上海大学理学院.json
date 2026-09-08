@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260908_052426",
-  "total_articles": 3928,
+  "crawl_time": "20260908_083847",
+  "total_articles": 3929,
   "columns": {
     "主办会议": 41,
     "学术报告": 2645,
@@ -13,12 +13,18 @@
     "研究生新闻": 49,
     "科研动态": 309,
     "综合新闻": 620,
-    "通知公告": 163
+    "通知公告": 164
   },
   "articles": [
     {
       "title": "上海大学理学院2027年推荐优秀应届本科毕业生免试攻读研究生名单公示",
-      "url": "https://scicol.shu.edu.cn/PDF1/20260908-11.pdf",
+      "url": "https://scicol.shu.edu.cn/info/1006/33825.htm",
+      "date": "2026-09-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办上海大学2026年“新致杯”高等数学竞赛暨第十八届全国大学生数学竞赛校内赛的通知",
+      "url": "https://scicol.shu.edu.cn/info/1006/33835.htm",
       "date": "2026-09-08",
       "column": "通知公告"
     },
