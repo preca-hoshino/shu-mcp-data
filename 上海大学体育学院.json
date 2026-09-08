@@ -2,11 +2,11 @@
   "domain": "tiyu.shu.edu.cn",
   "department": "上海大学体育学院",
   "type": "06",
-  "crawl_time": "20260908_123605",
-  "total_articles": 151,
+  "crawl_time": "20260908_160423",
+  "total_articles": 152,
   "columns": {
     "头条新闻": 88,
-    "通知公告": 63
+    "通知公告": 64
   },
   "articles": [
     {
@@ -31,6 +31,12 @@
       "title": "2025-2026 学年研究生优秀党员先锋名单公示",
       "url": "https://tiyu.shu.edu.cn/info/1073/7804.htm",
       "date": "2026-06-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于废止《上海大学体育学院科研团队组建及管理办法》的通知",
+      "url": "https://tiyu.shu.edu.cn/info/1073/7864.htm",
+      "date": "2026-05-27",
       "column": "通知公告"
     },
     {
