@@ -2,10 +2,10 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260909_052712",
-  "total_articles": 714,
+  "crawl_time": "20260909_084149",
+  "total_articles": 713,
   "columns": {
-    "党建工作": 47,
+    "党建工作": 46,
     "学术讲座": 53,
     "学生工作": 42,
     "学院新闻": 335,
@@ -3182,12 +3182,6 @@
       "url": "https://safa.shu.edu.cn/info/1121/7545.htm",
       "date": "2021-10-25",
       "column": "学生工作"
-    },
-    {
-      "title": "美术学院中心组(扩大)参观龙门石窟艺术对话特展“铭心妙相”",
-      "url": "https://safa.shu.edu.cn/info/1085/7534.htm",
-      "date": "2021-10-16",
-      "column": "党建工作"
     },
     {
       "title": "上海美术学院召开2021年研究生导师大会",

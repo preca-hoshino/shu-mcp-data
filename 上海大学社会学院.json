@@ -2,15 +2,15 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260909_052712",
-  "total_articles": 2582,
+  "crawl_time": "20260909_084149",
+  "total_articles": 2581,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
     "学术动态": 566,
     "学术报告": 152,
     "学生动态": 582,
-    "教学教务": 137,
+    "教学教务": 136,
     "校友活动": 32,
     "综合新闻": 882,
     "通知公告": 53
@@ -11673,12 +11673,6 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4973.htm",
       "date": "2015-05-12",
       "column": "综合新闻"
-    },
-    {
-      "title": "社会学院举行课堂教学与课外答疑交流会",
-      "url": "https://sociology.shu.edu.cn/info/1106/5489.htm",
-      "date": "2015-05-12",
-      "column": "教学教务"
     },
     {
       "title": "2013级学生年级大会暨暑期实践动员大会顺利举行",

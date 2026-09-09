@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260909_052712",
-  "total_articles": 806,
+  "crawl_time": "20260909_084149",
+  "total_articles": 807,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 90,
+    "学院新闻": 91,
     "重要通知": 513
   },
   "articles": [
+    {
+      "title": "深化校地协同，赋能“北转型” | 上海大学管理学院与宝山区市场监管局续...",
+      "url": "https://ms.shu.edu.cn/info/1244/92495.htm",
+      "date": "2026-09-09",
+      "column": "学院新闻"
+    },
     {
       "title": "0911上海管理论坛第580期（谭劲松教授，加拿大约克大学舒立克商学院）",
       "url": "https://ms.shu.edu.cn/info/1246/92455.htm",
