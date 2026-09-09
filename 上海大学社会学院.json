@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260908_160423",
-  "total_articles": 2581,
+  "crawl_time": "20260909_052712",
+  "total_articles": 2582,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
@@ -13,9 +13,15 @@
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 882,
-    "通知公告": 52
+    "通知公告": 53
   },
   "articles": [
+    {
+      "title": "关于2026年中秋节、国庆节放假安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/400395.htm",
+      "date": "2026-09-09",
+      "column": "通知公告"
+    },
     {
       "title": "社会学院2027年优秀应届本科毕业生免试攻读研究生拟推荐名单公示",
       "url": "https://sociology.shu.edu.cn/info/1103/43298.htm",

@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260908_160423",
-  "total_articles": 419,
+  "crawl_time": "20260909_052712",
+  "total_articles": 421,
   "columns": {
-    "学术报告": 139,
+    "学术报告": 141,
     "科研动态": 78,
     "综合新闻": 46,
     "通知公告": 156
   },
   "articles": [
+    {
+      "title": "MGI Seminar 第422讲：徐吉健 教授  （2026年9月11日 星期五 10:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7565.htm",
+      "date": "2026-09-09",
+      "column": "学术报告"
+    },
     {
       "title": "我院张统一院士、任伟教授团队在《npj Computational Materials》发表研究成果",
       "url": "https://mgi.shu.edu.cn/info/1063/7545.htm",
@@ -2356,6 +2362,12 @@
       "url": "https://mgi.shu.edu.cn/info/1063/1706.htm",
       "date": "2015-12-29",
       "column": "科研动态"
+    },
+    {
+      "title": "MGI Seminar 第31讲：Li-N-H System for Hydrogen Storage: An Investigation on Reaction Mechanism and Catalytic Effect",
+      "url": "https://mgi.shu.edu.cn/info/1065/2053.htm",
+      "date": "2015-10-12",
+      "column": "学术报告"
     },
     {
       "title": "China-MGI’2015在沪召开",
