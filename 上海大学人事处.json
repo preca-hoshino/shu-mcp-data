@@ -2,22 +2,16 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260909_124238",
-  "total_articles": 176,
+  "crawl_time": "20260909_155934",
+  "total_articles": 175,
   "columns": {
-    "新闻公告": 176
+    "新闻公告": 175
   },
   "articles": [
     {
       "title": "2026年度国家重大人才工程上海大学建议人选的公示",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8409",
       "date": "2026-09-04",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于顾青、特日乐同志申报副编审的公示",
-      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8399",
-      "date": "2026-09-03",
       "column": "新闻公告"
     },
     {
