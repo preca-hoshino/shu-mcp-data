@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260910_052418",
+  "crawl_time": "20260910_084127",
   "total_articles": 994,
   "columns": {
     "学术报告": 79,
@@ -18,6 +18,12 @@
       "url": "https://ece.shu.edu.cn/info/1148/89814.htm",
       "date": "2026-09-10",
       "column": "科研动态"
+    },
+    {
+      "title": "“弘扬教育家精神 立德树人铸师魂 —— 环化学院致全体教师的教师节寄语”",
+      "url": "https://ece.shu.edu.cn/info/1149/89824.htm",
+      "date": "2026-09-10",
+      "column": "学院新闻"
     },
     {
       "title": "【今日佳节】深耕杏坛，桃李成蹊——祝各位老师教师节快乐！",
@@ -149,12 +155,6 @@
       "title": "【社会实践】旧物焕新・邻里共生——“绿萤”社会实践队走进昱翠家苑开展社区环保工作坊活动",
       "url": "https://mp.weixin.qq.com/s/lmxsqJ57bG1hOtCHdQ_FOA",
       "date": "2026-07-31",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【综合新闻】深化产教研协同，共育环保创新人才——我院举行环境保护育人实训平台建设交流会",
-      "url": "https://mp.weixin.qq.com/s/91kh8pBBiSwQH5bCAhBW7Q",
-      "date": "2026-07-28",
       "column": "学院新闻"
     },
     {
