@@ -2,17 +2,35 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260909_155934",
-  "total_articles": 1986,
+  "crawl_time": "20260910_052418",
+  "total_articles": 1989,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
     "学院周志": 310,
     "科研动态": 481,
     "综合新闻": 523,
-    "通知公告": 423
+    "通知公告": 426
   },
   "articles": [
+    {
+      "title": "文学院2026年度本科生宝钢优秀学生奖评审细则",
+      "url": "https://cla.shu.edu.cn/info/1017/53848.htm",
+      "date": "2026-09-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "文学院2025-2026学年国家励志奖学金评审细则",
+      "url": "https://cla.shu.edu.cn/info/1017/53858.htm",
+      "date": "2026-09-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "文学院2025-2026学年本科生国家奖学金、上海市奖学金评审细则",
+      "url": "https://cla.shu.edu.cn/info/1017/53868.htm",
+      "date": "2026-09-10",
+      "column": "通知公告"
+    },
     {
       "title": "文学院2027年推荐优秀应届本科毕业生免试攻读研究生名单公示",
       "url": "https://cla.shu.edu.cn/info/1017/53838.htm",

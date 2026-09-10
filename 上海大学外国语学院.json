@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260909_155934",
-  "total_articles": 581,
+  "crawl_time": "20260910_052418",
+  "total_articles": 583,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 33,
     "学院新闻": 55,
-    "通知公告": 93
+    "通知公告": 95
   },
   "articles": [
+    {
+      "title": "2026年中秋节、国庆节放假安排",
+      "url": "https://www.shu.edu.cn/info/1051/400395.htm",
+      "date": "2026-09-10",
+      "column": "通知公告"
+    },
     {
       "title": "【推免招生】上海大学外国语学院2027年接收推荐优秀应届本科毕业生免试攻读研究生（含直博生）预报名通知",
       "url": "https://sfs.shu.edu.cn/info/1141/31157.htm",
@@ -27,6 +33,12 @@
       "title": "上海大学外国语学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
       "url": "https://sfs.shu.edu.cn/info/1141/31137.htm",
       "date": "2026-09-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于调整校园管理的通告",
+      "url": "https://www.shu.edu.cn/info/1051/400245.htm",
+      "date": "2026-09-01",
       "column": "通知公告"
     },
     {

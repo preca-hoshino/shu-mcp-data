@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260909_155934",
-  "total_articles": 993,
+  "crawl_time": "20260910_052418",
+  "total_articles": 994,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 73,
     "研究生教学": 207,
-    "科研动态": 117,
+    "科研动态": 118,
     "通知公告": 118
   },
   "articles": [
+    {
+      "title": "我院毕业研究生王康博士在《Advanced Functional Materials》发表研究成果",
+      "url": "https://ece.shu.edu.cn/info/1148/89814.htm",
+      "date": "2026-09-10",
+      "column": "科研动态"
+    },
+    {
+      "title": "【今日佳节】深耕杏坛，桃李成蹊——祝各位老师教师节快乐！",
+      "url": "https://mp.weixin.qq.com/s/Sxd_k9Ttk1R9PSFAcH33nA",
+      "date": "2026-09-10",
+      "column": "学院新闻"
+    },
     {
       "title": "公示-环境与化学工程学院2027年应届优秀本科毕业生免试攻读研究生拟推荐名单",
       "url": "https://ece.shu.edu.cn/info/1303/89744.htm",
@@ -142,12 +154,6 @@
     {
       "title": "【综合新闻】深化产教研协同，共育环保创新人才——我院举行环境保护育人实训平台建设交流会",
       "url": "https://mp.weixin.qq.com/s/91kh8pBBiSwQH5bCAhBW7Q",
-      "date": "2026-07-28",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【就业创业】行走课堂——探访环保行业，规划职业未来",
-      "url": "https://mp.weixin.qq.com/s/Ee4uGr6WjnfmAZ9ak8gr_w",
       "date": "2026-07-28",
       "column": "学院新闻"
     },
