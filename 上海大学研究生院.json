@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260910_155411",
-  "total_articles": 117,
+  "crawl_time": "20260911_052212",
+  "total_articles": 118,
   "columns": {
     "国际交流": 44,
-    "培养管理": 20,
+    "培养管理": 21,
     "学位工作": 31,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "上海大学2026级研究生新生学籍信息录入与培养计划登录通知",
+      "url": "https://gs.shu.edu.cn/info/1029/173222.htm",
+      "date": "2026-09-11",
+      "column": "培养管理"
+    },
     {
       "title": "上海大学第112次学位评定委员会授予博士学位人员公告",
       "url": "https://gs.shu.edu.cn/info/1031/173202.htm",

@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260910_155411",
+  "crawl_time": "20260911_052212",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,30 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "上海大学举行2026年秋季中层干部专题研修班",
+      "url": "https://mp.weixin.qq.com/s/2qokro_NXKHxFQORSXUXVg",
+      "date": "2026-09-11",
+      "column": "校园动态"
+    },
+    {
+      "title": "聚焦“一国一区域一领域”，助力中资企业“出海”：上海大学...",
+      "url": "https://mp.weixin.qq.com/s/CzmLhS0ousf9vnsxmJ6oYg",
+      "date": "2026-09-11",
+      "column": "校园动态"
+    },
+    {
+      "title": "上海大学举行庆祝第42个教师节暨优秀教师表彰大会",
+      "url": "https://mp.weixin.qq.com/s/MiMH1s8nvqPtL20YhZufWg",
+      "date": "2026-09-11",
+      "column": "校园动态"
+    },
+    {
+      "title": "校地携手 薪火接力——上海大学附属市八中学、上海大学附属市...",
+      "url": "https://www.shu.edu.cn/info/1056/400305.htm",
+      "date": "2026-09-11",
+      "column": "文明实践"
+    },
     {
       "title": "民进上海大学委员会6位教授被聘任为上海民进开明科普宣讲团专家",
       "url": "https://www.shu.edu.cn/info/1056/400125.htm",
@@ -143,12 +167,6 @@
       "column": "文明实践"
     },
     {
-      "title": "国家社科基金文化遗产保护传承研究重大专项《中国非物质文化...",
-      "url": "https://www.shu.edu.cn/info/1056/399485.htm",
-      "date": "2026-07-27",
-      "column": "文明实践"
-    },
-    {
       "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
       "url": "https://www.shu.edu.cn/info/1056/399535.htm",
       "date": "2026-07-27",
@@ -209,12 +227,6 @@
       "column": "校园动态"
     },
     {
-      "title": "上海大学六届三次“双代会”顺利开幕！全校上下凝心聚力共绘...",
-      "url": "https://mp.weixin.qq.com/s/pX3jFE3CZtAS9Rg-QL4L7g",
-      "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
       "title": "第二届东方国际商事调解研讨会暨钢铁行业知识产权纠纷调解中...",
       "url": "https://www.shu.edu.cn/info/1053/397135.htm",
       "date": "2026-06-18",
@@ -224,18 +236,6 @@
       "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学...",
       "url": "https://www.shu.edu.cn/info/1053/397145.htm",
       "date": "2026-06-18",
-      "column": "校园动态"
-    },
-    {
-      "title": "《新结构经济学刊》系列研讨会第1期在上海大学成功举办",
-      "url": "https://www.shu.edu.cn/info/1053/396585.htm",
-      "date": "2026-06-08",
-      "column": "校园动态"
-    },
-    {
-      "title": "龚正市长赴上海大学科技园嘉定基地调研园区重点培育企业昆仑数模",
-      "url": "https://www.shu.edu.cn/info/1053/396465.htm",
-      "date": "2026-06-05",
       "column": "校园动态"
     },
     {

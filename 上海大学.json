@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260910_155411",
+  "crawl_time": "20260911_052212",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "环化学院毕业研究生王康博士在《Advanced Functional Materials》发表研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/400445.htm",
+      "date": "2026-09-11",
+      "column": "科研动态"
+    },
+    {
+      "title": "深化校地协同，赋能“北转型” | 上海大学管理学院与宝山区市场监管局续签战略合作协议，共启2026年“质量月”新篇章",
+      "url": "https://www.shu.edu.cn/info/1056/400425.htm",
+      "date": "2026-09-11",
+      "column": "综合新闻"
+    },
+    {
+      "title": "爱尔兰高级官员代表团访问上海大学",
+      "url": "https://www.shu.edu.cn/info/1056/400435.htm",
+      "date": "2026-09-11",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学举行2026年秋季中层干部专题研修班",
       "url": "https://mp.weixin.qq.com/s/2qokro_NXKHxFQORSXUXVg",
@@ -126,18 +144,6 @@
       "column": "科研动态"
     },
     {
-      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员培训会",
-      "url": "https://www.shu.edu.cn/info/1056/400225.htm",
-      "date": "2026-08-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "宝山区人大换届选举上海大学选区选举工作动员暨培训会举行",
-      "url": "https://www.shu.edu.cn/info/1056/400235.htm",
-      "date": "2026-08-28",
-      "column": "综合新闻"
-    },
-    {
       "title": "宝山区与上海大学深化战略合作交流会举行",
       "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
       "date": "2026-08-17",
@@ -189,12 +195,6 @@
       "title": "材料基因组工程研究院张统一院士团队牵头研发科学领域贝叶斯优化框架Bgolearn，加速新材料发现",
       "url": "https://www.shu.edu.cn/info/1055/399595.htm",
       "date": "2026-07-28",
-      "column": "科研动态"
-    },
-    {
-      "title": "核电关键材料全国重点实验室卞西磊副研究员在《Materials Today》上发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/399525.htm",
-      "date": "2026-07-27",
       "column": "科研动态"
     },
     {

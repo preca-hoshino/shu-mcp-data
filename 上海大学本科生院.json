@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260910_155411",
+  "crawl_time": "20260911_052212",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,18 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321784.htm",
+      "date": "2026-09-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2026年大学生电子设计竞赛获奖名单的公示",
+      "url": "https://bksy.shu.edu.cn/info/1015/321794.htm",
+      "date": "2026-09-11",
+      "column": "通知公告"
+    },
     {
       "title": "关于印发《上海大学2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法》的通知",
       "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321754",
@@ -104,18 +116,6 @@
       "title": "关于暑假期间开放自习教室的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321424.htm",
       "date": "2026-07-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于印发《上海大学本科生辅修专业管理暂行办法》的通知(上大内〔2025〕137号)",
-      "url": "https://bksy.shu.edu.cn/info/1015/321374.htm",
-      "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布上海大学2026-2027年度集成电路领域本科生“一生一芯”高端芯片设计与EDA揭榜实践项目的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321394.htm",
-      "date": "2026-07-27",
       "column": "通知公告"
     },
     {

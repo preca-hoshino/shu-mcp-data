@@ -2,12 +2,12 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260910_155411",
-  "total_articles": 1790,
+  "crawl_time": "20260911_052212",
+  "total_articles": 1785,
   "columns": {
     "学院新闻": 545,
-    "招生热讯": 80,
-    "通知公告": 1165
+    "招生热讯": 77,
+    "通知公告": 1163
   },
   "articles": [
     {
@@ -26,30 +26,6 @@
       "title": "关于上海大学高等学历继续教育毕业生申请2026年9月毕业的通知",
       "url": "https://cce.shu.edu.cn/info/1464/20934.htm",
       "date": "2026-09-05",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2026年成人高考网上报名开始啦",
-      "url": "https://cce.shu.edu.cn/info/1013/20924.htm",
-      "date": "2026-09-02",
-      "column": "招生热讯"
-    },
-    {
-      "title": "上海大学2026年成人高考网上报名开始啦",
-      "url": "https://cce.shu.edu.cn/info/1464/20904.htm",
-      "date": "2026-09-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2026年成人高考网上报名友情提醒",
-      "url": "https://cce.shu.edu.cn/info/1013/20914.htm",
-      "date": "2026-09-01",
-      "column": "招生热讯"
-    },
-    {
-      "title": "上海大学2026年成人高考网上报名友情提醒",
-      "url": "https://cce.shu.edu.cn/info/1464/20884.htm",
-      "date": "2026-09-01",
       "column": "通知公告"
     },
     {
@@ -75,12 +51,6 @@
       "url": "https://cce.shu.edu.cn/info/1542/20764.htm",
       "date": "2026-08-27",
       "column": "通知公告"
-    },
-    {
-      "title": "上海市2026年成人高校招生考试网上报名将于9月2日至7日进行",
-      "url": "https://www.shmeea.edu.cn/page/08000/20260827/20561.html",
-      "date": "2026-08-27",
-      "column": "招生热讯"
     },
     {
       "title": "上海市2026年下半年高等教育自学考试网上报名将于9月1日至6日进行",

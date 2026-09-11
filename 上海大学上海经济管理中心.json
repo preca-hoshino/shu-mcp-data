@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260910_155411",
-  "total_articles": 61,
+  "crawl_time": "20260911_052212",
+  "total_articles": 62,
   "columns": {
     "招生简章": 27,
-    "要闻速递": 34
+    "要闻速递": 35
   },
   "articles": [
+    {
+      "title": "2026年怒江州统筹发展与安全专题培训班启动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/14858.htm",
+      "date": "2026-09-11",
+      "column": "要闻速递"
+    },
     {
       "title": "上海市科技企业家创新领导力培训项目走进嘉定科技园和校友企业",
       "url": "https://jgzx.shu.edu.cn/info/1017/14788.htm",

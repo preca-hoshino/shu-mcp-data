@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260910_155411",
-  "total_articles": 374,
+  "crawl_time": "20260911_052212",
+  "total_articles": 375,
   "columns": {
     "学术动态": 36,
-    "新闻快递": 314,
+    "新闻快递": 315,
     "研究成果": 24
   },
   "articles": [
+    {
+      "title": "翟启杰教授荣获上海大学科学研究卓越贡献奖",
+      "url": "https://cast.shu.edu.cn/info/1042/4261.htm",
+      "date": "2026-09-11",
+      "column": "新闻快递"
+    },
     {
       "title": "上海大学CAST受邀在全国现代连铸-轧制技术研讨会作专题报告",
       "url": "https://cast.shu.edu.cn/info/1044/4251.htm",

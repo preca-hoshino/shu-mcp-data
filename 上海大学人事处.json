@@ -2,18 +2,12 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260910_155411",
-  "total_articles": 174,
+  "crawl_time": "20260911_052212",
+  "total_articles": 173,
   "columns": {
-    "新闻公告": 174
+    "新闻公告": 173
   },
   "articles": [
-    {
-      "title": "2026年度国家重大人才工程上海大学建议人选的公示",
-      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8409",
-      "date": "2026-09-04",
-      "column": "新闻公告"
-    },
     {
       "title": "关于开展上海大学2026年第二批次教师专业实践能力提升计划申请工作的通知",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8369",
