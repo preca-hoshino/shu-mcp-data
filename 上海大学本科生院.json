@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260911_052212",
+  "crawl_time": "20260911_083817",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -20,6 +20,12 @@
       "title": "关于上海大学2026年大学生电子设计竞赛获奖名单的公示",
       "url": "https://bksy.shu.edu.cn/info/1015/321794.htm",
       "date": "2026-09-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办上海大学2026年“新致杯”高等数学竞赛暨第十八届全国大学生数学竞赛校内赛的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321774.htm",
+      "date": "2026-09-08",
       "column": "通知公告"
     },
     {
@@ -116,12 +122,6 @@
       "title": "关于暑假期间开放自习教室的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321424.htm",
       "date": "2026-07-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学2025年度课程思政示范课程结项情况",
-      "url": "https://bksy.shu.edu.cn/info/1015/321404.htm",
-      "date": "2026-07-27",
       "column": "通知公告"
     },
     {

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260911_052212",
+  "crawl_time": "20260911_083817",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -12,16 +12,46 @@
   },
   "articles": [
     {
+      "title": "新出炉！《2025上海科技成果转化白皮书》Unit4：案例篇",
+      "url": "https://mp.weixin.qq.com/s/NLMb0s2WjmfOjlFKKkSIiA",
+      "date": "2026-09-11",
+      "column": "科技动态"
+    },
+    {
+      "title": "浦江创新论坛又一年，透视上海科创的“点线面”",
+      "url": "https://mp.weixin.qq.com/s/umoGnEimA1PIr_wf0JsaFQ",
+      "date": "2026-09-11",
+      "column": "科技动态"
+    },
+    {
+      "title": "新出炉！《2025上海科技成果转化白皮书》Unit3：数据篇",
+      "url": "https://mp.weixin.qq.com/s/tc1MumgiV9gqIe8jcjWI2g",
+      "date": "2026-09-08",
+      "column": "科技动态"
+    },
+    {
       "title": "上海大学2027年度上海教育技术装备科学研究项目上报名单公示",
       "url": "https://kyglb.shu.edu.cn/info/1011/12452.htm",
       "date": "2026-09-07",
       "column": "通知公告"
     },
     {
+      "title": "新出炉！《2025上海科技成果转化白皮书》Unit2：实践篇",
+      "url": "https://mp.weixin.qq.com/s/22ZTXbQiH5t82cvFmgAQTg",
+      "date": "2026-09-04",
+      "column": "科技动态"
+    },
+    {
       "title": "市科委关于发布2026年度关键技术研发计划“前沿与交叉技术领域”项目申报指南的通知",
       "url": "https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260901/7df4ba1484104c909b04d1fac49e9e35.html",
       "date": "2026-09-02",
       "column": "通知公告"
+    },
+    {
+      "title": "新出炉！《2025上海科技成果转化白皮书》Unit1：政策篇",
+      "url": "https://mp.weixin.qq.com/s/us2dGn1RoujpvHHv0eU3Eg",
+      "date": "2026-09-01",
+      "column": "科技动态"
     },
     {
       "title": "科技部国际合作司关于发布国家重点研发计划“战略性科技创新合作”重点专项2026年度联合研发与示范项目...",
@@ -237,36 +267,6 @@
       "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
       "url": "https://mp.weixin.qq.com/s/QSILklAuFn9I19EVr4rG4A",
       "date": "2026-07-17",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海，引领未来",
-      "url": "https://mp.weixin.qq.com/s/XZA5vrOX9fOSwc0gBPeBnw?click_id=112679869",
-      "date": "2026-07-17",
-      "column": "科技动态"
-    },
-    {
-      "title": "科研经费高风险问题 | 常见科研经费开支高风险问题清单",
-      "url": "https://mp.weixin.qq.com/s/BIXd7OOc7EZjfafhdCsw1A",
-      "date": "2026-07-15",
-      "column": "科技动态"
-    },
-    {
-      "title": "科创宝山，新质未来！2026年宝山区科技创新大会举行",
-      "url": "https://mp.weixin.qq.com/s/JjdGpTcPqCJtJ-nYb8Bqxg?click_id=1371498199",
-      "date": "2026-07-10",
-      "column": "科技动态"
-    },
-    {
-      "title": "启航张江，共筑新赛道！国家高新区“新赛道·中国行”（上海）专场活动举办",
-      "url": "https://mp.weixin.qq.com/s/EOOGudkkNDcLXGQ_MYeTVA?click_id=1035354972",
-      "date": "2026-07-09",
-      "column": "科技动态"
-    },
-    {
-      "title": "喜报！国家科技进步奖二等奖！",
-      "url": "https://mp.weixin.qq.com/s/E4DCSaLiFFa-nKYWPq-DBA",
-      "date": "2026-07-08",
       "column": "科技动态"
     },
     {

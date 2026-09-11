@@ -2,21 +2,15 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260911_052212",
-  "total_articles": 2028,
+  "crawl_time": "20260911_083817",
+  "total_articles": 2027,
   "columns": {
     "学术报告": 523,
     "教学信息": 21,
     "新闻动态": 1266,
-    "通知公告": 218
+    "通知公告": 217
   },
   "articles": [
-    {
-      "title": "上海大学通信与信息工程学院2027年推荐优秀应届本科毕业生免试攻读研究生推荐名单公示",
-      "url": "https://scie.shu.edu.cn/info/1065/46945.htm",
-      "date": "2026-09-08",
-      "column": "通知公告"
-    },
     {
       "title": "通信与信息工程学院2027年推荐优秀应届本科毕业生免试攻读研究生推荐标准和实施办法",
       "url": "https://scie.shu.edu.cn/info/1065/46925.htm",
