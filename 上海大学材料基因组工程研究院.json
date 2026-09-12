@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260912_082352",
-  "total_articles": 421,
+  "crawl_time": "20260912_115722",
+  "total_articles": 422,
   "columns": {
     "学术报告": 141,
     "科研动态": 78,
     "综合新闻": 46,
-    "通知公告": 156
+    "通知公告": 157
   },
   "articles": [
+    {
+      "title": "2027年MGI接收推荐免试攻读研究生（含直博生）预报名通知",
+      "url": "https://mgi.shu.edu.cn/info/1062/7575.htm",
+      "date": "2026-09-12",
+      "column": "通知公告"
+    },
     {
       "title": "MGI Seminar 第422讲：徐吉健 教授  （2026年9月11日 星期五 10:00）",
       "url": "https://mgi.shu.edu.cn/info/1065/7565.htm",
