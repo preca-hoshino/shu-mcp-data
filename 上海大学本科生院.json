@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260912_051241",
+  "crawl_time": "20260912_082352",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,12 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于 2026-2027 学年秋季学期本研互选工作安排的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321814.htm",
+      "date": "2026-09-12",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026年下半年全国大学英语四、六级考试报名的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321784.htm",
@@ -122,12 +128,6 @@
       "title": "本科生院2026年暑假值班表",
       "url": "https://bksy.shu.edu.cn/info/1015/321434.htm",
       "date": "2026-07-29",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于暑假期间开放自习教室的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321424.htm",
-      "date": "2026-07-28",
       "column": "通知公告"
     },
     {
