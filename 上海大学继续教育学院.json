@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260912_150445",
-  "total_articles": 1785,
+  "crawl_time": "20260913_052729",
+  "total_articles": 1786,
   "columns": {
-    "学院新闻": 545,
+    "学院新闻": 546,
     "招生热讯": 77,
     "通知公告": 1163
   },
   "articles": [
+    {
+      "title": "继续教育学院召开2026-2027学年秋季学期首日工作会议",
+      "url": "https://cce.shu.edu.cn/info/1550/20974.htm",
+      "date": "2026-09-13",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学高等学历继续教育艺术类专业考试报名和考试通知",
       "url": "https://cce.shu.edu.cn/info/1013/20954.htm",
