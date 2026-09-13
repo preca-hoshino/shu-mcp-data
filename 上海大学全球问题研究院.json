@@ -2,14 +2,80 @@
   "domain": "igs.shu.edu.cn",
   "department": "上海大学全球问题研究院",
   "type": "27",
-  "crawl_time": "20260515_090615",
-  "total_articles": 387,
+  "crawl_time": "20260913_090309",
+  "total_articles": 398,
   "columns": {
-    "学术热点": 306,
-    "新闻中心": 58,
+    "学术热点": 311,
+    "新闻中心": 64,
     "通知公告": 23
   },
   "articles": [
+    {
+      "title": "【学术会议】“新地缘政治时代拉美和加勒比的发展前景”研讨会顺利举办",
+      "url": "https://igs.shu.edu.cn/info/1012/7110.htm",
+      "date": "2026-09-13",
+      "column": "新闻中心"
+    },
+    {
+      "title": "【学术会议】土耳其中心师生参加第六届土耳其研究共同体年会",
+      "url": "https://igs.shu.edu.cn/info/1012/7200.htm",
+      "date": "2026-09-13",
+      "column": "新闻中心"
+    },
+    {
+      "title": "【学术会议】第三届中国-土耳其学术合作论坛在伊斯坦布尔成功举办",
+      "url": "https://igs.shu.edu.cn/info/1012/7320.htm",
+      "date": "2026-09-13",
+      "column": "新闻中心"
+    },
+    {
+      "title": "【访问接待】“行思中国”土耳其智库、学者访华团到访上海大学土耳其中心",
+      "url": "https://igs.shu.edu.cn/info/1012/7360.htm",
+      "date": "2026-09-13",
+      "column": "新闻中心"
+    },
+    {
+      "title": "【访问接待】土耳其学者访华团一行到访上海大学土耳其研究中心",
+      "url": "https://igs.shu.edu.cn/info/1012/7370.htm",
+      "date": "2026-09-13",
+      "column": "新闻中心"
+    },
+    {
+      "title": "拉美中心张琨研究员就巴西大选接受文汇报采访",
+      "url": "https://igs.shu.edu.cn/info/1013/7140.htm",
+      "date": "2026-09-13",
+      "column": "学术热点"
+    },
+    {
+      "title": "郭长刚｜理解拉美，就要理解“社会许可”",
+      "url": "https://igs.shu.edu.cn/info/1013/7170.htm",
+      "date": "2026-09-13",
+      "column": "学术热点"
+    },
+    {
+      "title": "杜东辉｜沙特牵头多国联盟能否破解红海危机",
+      "url": "https://igs.shu.edu.cn/info/1013/7240.htm",
+      "date": "2026-09-13",
+      "column": "学术热点"
+    },
+    {
+      "title": "杜东辉副研究员就以希军事合作接受《文汇报》采访",
+      "url": "https://igs.shu.edu.cn/info/1013/7280.htm",
+      "date": "2026-09-13",
+      "column": "学术热点"
+    },
+    {
+      "title": "杨晨｜大国秩序松动，土耳其正在成为欧亚新的权力支点",
+      "url": "https://igs.shu.edu.cn/info/1013/7310.htm",
+      "date": "2026-09-13",
+      "column": "学术热点"
+    },
+    {
+      "title": "【平台建设】聚焦“一国一区域一领域”，助力中资企业“出海”：上海大学区域国别研究院揭牌成立",
+      "url": "https://mp.weixin.qq.com/s/CzmLhS0ousf9vnsxmJ6oYg",
+      "date": "2026-09-13",
+      "column": "新闻中心"
+    },
     {
       "title": "【国际交流】拉美中心研究员张琨为腾讯青腾学院组织的拉美企业家考察团作专题报告",
       "url": "https://igs.shu.edu.cn/info/1012/7070.htm",

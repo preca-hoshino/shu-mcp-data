@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260913_052729",
+  "crawl_time": "20260913_090309",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学举行2026年本科生开学典礼暨军训总结表彰会",
+      "url": "https://mp.weixin.qq.com/s/ZCvPBLFeA6n-CqLa_tNhHQ",
+      "date": "2026-09-13",
+      "column": "重要新闻"
+    },
     {
       "title": "环化学院毕业研究生王康博士在《Advanced Functional Materials》发表研究成果",
       "url": "https://www.shu.edu.cn/info/1055/400445.htm",
@@ -202,12 +208,6 @@
       "url": "https://www.shu.edu.cn/info/1051/399515.htm",
       "date": "2026-07-24",
       "column": "通知公告"
-    },
-    {
-      "title": "越南科学技术部部长武海军一行访问上海大学",
-      "url": "https://mp.weixin.qq.com/s/zSd8qVcGFbZRycAjCywDwg",
-      "date": "2026-07-21",
-      "column": "重要新闻"
     },
     {
       "title": "关于征集第二十六届中国国际工业博览会参展项目的通知",
