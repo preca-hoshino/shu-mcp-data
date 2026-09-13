@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260913_130507",
+  "crawl_time": "20260913_154137",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学2026年研究生开学典礼举行",
+      "url": "https://mp.weixin.qq.com/s/-kvzVwwWQJhTjZkFi3g1Yg",
+      "date": "2026-09-13",
+      "column": "重要新闻"
+    },
     {
       "title": "上海大学举行2026年本科生开学典礼暨军训总结表彰会",
       "url": "https://mp.weixin.qq.com/s/ZCvPBLFeA6n-CqLa_tNhHQ",
@@ -189,12 +195,6 @@
       "title": "我校召开2026年产教研协同育人团队交流会",
       "url": "https://www.shu.edu.cn/info/1053/399685.htm",
       "date": "2026-07-29",
-      "column": "重要新闻"
-    },
-    {
-      "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
-      "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
-      "date": "2026-07-28",
       "column": "重要新闻"
     },
     {
