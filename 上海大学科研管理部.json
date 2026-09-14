@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260914_053151",
+  "crawl_time": "20260914_093649",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于上海大学专利类无形资产情况的公示 （2026年7-8月）",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12522",
+      "date": "2026-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "新华社：上海（长三角）国际科创中心向新、向深、向全球｜浦江创新论坛",
+      "url": "https://mp.weixin.qq.com/s/rielaZN3t7kqVS-gC3N2Mg?click_id=992023694",
+      "date": "2026-09-14",
+      "column": "科技动态"
+    },
     {
       "title": "新出炉！《2025上海科技成果转化白皮书》Unit4：案例篇",
       "url": "https://mp.weixin.qq.com/s/NLMb0s2WjmfOjlFKKkSIiA",
@@ -210,12 +222,6 @@
       "column": "通知公告"
     },
     {
-      "title": "关于发布京津冀环境综合治理国家科技重大专项2027年度第一批公开竞争择优项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12102.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
       "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第二批）项目指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12112.htm",
       "date": "2026-07-30",
@@ -255,12 +261,6 @@
       "title": "2026世界人工智能大会暨人工智能全球治理高级别会议闭幕",
       "url": "https://mp.weixin.qq.com/s/Gk64Bd545-AQJsq8pJdl8Q",
       "date": "2026-07-20",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海大学与上海国投公司签署战略合作协议",
-      "url": "https://mp.weixin.qq.com/s/I6xo3sYQp0CnPujRkAFTuQ",
-      "date": "2026-07-17",
       "column": "科技动态"
     },
     {

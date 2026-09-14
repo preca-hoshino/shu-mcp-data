@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260914_053151",
+  "crawl_time": "20260914_093649",
   "total_articles": 630,
   "columns": {
     "焦点新闻": 373,
@@ -10,6 +10,24 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "备考必看！上大MBA全额奖学金得主经验分享2，适合自己的才是最好的",
+      "url": "https://mp.weixin.qq.com/s/-iT1jyJqnQobE01Iwj1XQw",
+      "date": "2026-09-14",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA中心组织河南企业研学实践活动",
+      "url": "https://mp.weixin.qq.com/s/2jcxDelAi98_jLhxgI30NA",
+      "date": "2026-09-14",
+      "column": "论坛活动"
+    },
+    {
+      "title": "上海大学MBA代表队荣获第十二届全国管理案例精英赛（2026）华东三区晋级赛亚军",
+      "url": "https://mp.weixin.qq.com/s/DEJ-zCi47BVWhyE8ZLppLQ",
+      "date": "2026-09-14",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学2026-2027学年秋季学期研究生开学注册通知",
       "url": "https://mba.shu.edu.cn/info/1024/27391.htm",
@@ -269,12 +287,6 @@
       "column": "通知公告"
     },
     {
-      "title": "MBA研究生党支部七一主题党日活动",
-      "url": "https://mp.weixin.qq.com/s/EAvgoyQ7r67Ug5gMhFpUog",
-      "date": "2026-07-01",
-      "column": "论坛活动"
-    },
-    {
       "title": "上海大学管理学院与美国项目管理学会（AAPM）签署战略合作协议",
       "url": "https://mp.weixin.qq.com/s/sKkVRoetnG_a1tbxUtviyw",
       "date": "2026-06-30",
@@ -285,18 +297,6 @@
       "url": "https://mp.weixin.qq.com/s/dWOluVCkSjJIaGSvoNj_YA",
       "date": "2026-06-25",
       "column": "通知公告"
-    },
-    {
-      "title": "MBA研究生党支部开展第二季度主题党日活动",
-      "url": "https://mp.weixin.qq.com/s/FMJQ5hsBH4XR5CR2RU_JGQ",
-      "date": "2026-06-23",
-      "column": "论坛活动"
-    },
-    {
-      "title": "SHUMBA 23PT1班毕业之旅：重走长征路·赤水河畔论商道",
-      "url": "https://mp.weixin.qq.com/s/bNkKAV3ffsMzOfkZHvrndA",
-      "date": "2026-06-23",
-      "column": "论坛活动"
     },
     {
       "title": "上海大学MBA中心顺利完成EFMD再认证现场考察",

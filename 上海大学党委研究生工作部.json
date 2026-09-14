@@ -2,13 +2,49 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260914_053151",
-  "total_articles": 2810,
+  "crawl_time": "20260914_093649",
+  "total_articles": 2816,
   "columns": {
-    "新闻动态": 2595,
+    "新闻动态": 2601,
     "通知公告": 215
   },
   "articles": [
+    {
+      "title": "研途启新，逐光前行！上海大学2026年研究生开学典礼举行！",
+      "url": "https://mp.weixin.qq.com/s/mkKDue8W7_2iUYYl0F0d5g",
+      "date": "2026-09-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "研行中华，燃创未来！来看上大研究生的暑期实践足迹",
+      "url": "https://mp.weixin.qq.com/s/cBB00ctLBlLtbQAhutvHSQ",
+      "date": "2026-09-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "你好，新同学！上海大学2026级研究生新生顺利报到啦！",
+      "url": "https://mp.weixin.qq.com/s/dnMnc_GYgr-guq4iDMANZg",
+      "date": "2026-09-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "启航迎新季丨下一站，上海大学！快来看看2026级研究生新生报到攻略→",
+      "url": "https://mp.weixin.qq.com/s/gcDGKl_t2dQKn4tf6HwuZQ",
+      "date": "2026-09-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "以“心”迎新・研途护航!上海大学召开2026-2027学年秋季学期开学迎新研究生辅导员工作培训会",
+      "url": "https://mp.weixin.qq.com/s/5qjYp0TKs0E1tgAYZhnorA",
+      "date": "2026-09-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "启航迎新季丨无忧入学，温暖同行，“绿色通道”申请已开启！",
+      "url": "https://mp.weixin.qq.com/s/dmwLmnh17QeCrkNNrjjCUA",
+      "date": "2026-09-03",
+      "column": "新闻动态"
+    },
     {
       "title": "关于开展2026-2027学年上海大学家庭经济困难学生认定申请的通知",
       "url": "https://dwygb.shu.edu.cn/info/1050/41299.htm",

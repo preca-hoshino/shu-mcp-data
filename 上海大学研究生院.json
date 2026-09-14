@@ -2,16 +2,28 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260914_053151",
-  "total_articles": 120,
+  "crawl_time": "20260914_093649",
+  "total_articles": 122,
   "columns": {
     "国际交流": 44,
-    "培养管理": 23,
-    "学位工作": 31,
+    "培养管理": 24,
+    "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "关于2026年上海大学研究生奖学金申报工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/173262.htm",
+      "date": "2026-09-14",
+      "column": "培养管理"
+    },
+    {
+      "title": "关于第113次校学位评定委员会会前准备工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1031/173252.htm",
+      "date": "2026-09-14",
+      "column": "学位工作"
+    },
     {
       "title": "上海大学2026级研究生新生学籍信息录入与培养计划登录通知",
       "url": "https://gs.shu.edu.cn/info/1029/173222.htm",

@@ -2,13 +2,31 @@
   "domain": "cie.shu.edu.cn",
   "department": "上海大学国际教育学院",
   "type": "13",
-  "crawl_time": "20260914_053151",
-  "total_articles": 505,
+  "crawl_time": "20260914_093649",
+  "total_articles": 508,
   "columns": {
     "学院通知": 8,
-    "新闻动态": 497
+    "新闻动态": 500
   },
   "articles": [
+    {
+      "title": "“国际教育学院召开2026-2027学年秋季学期全院教职工大会",
+      "url": "https://cie.shu.edu.cn/info/1013/5217.htm",
+      "date": "2026-09-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“2026年上海大学“一带一路”高级研修项目圆满落幕",
+      "url": "https://cie.shu.edu.cn/info/1013/5227.htm",
+      "date": "2026-09-14",
+      "column": "新闻动态"
+    },
+    {
+      "title": "“2026年上海大学暑期研修项目圆满落幕",
+      "url": "https://cie.shu.edu.cn/info/1013/5237.htm",
+      "date": "2026-09-14",
+      "column": "新闻动态"
+    },
     {
       "title": "“上海大学本科生学籍管理和学位授予补充规定（国际学生）",
       "url": "https://cie.shu.edu.cn/info/1014/5207.htm",
@@ -22,13 +40,13 @@
       "column": "新闻动态"
     },
     {
-      "title": "“柬埔寨洪森亲王与夫人奖学金协会（A.M.T）代表团一行8人顺利访问上海大学",
+      "title": "“柬埔寨洪森亲王与夫人奖学金协会（A.M.T）代表团顺利访问上海大学",
       "url": "https://cie.shu.edu.cn/info/1013/5187.htm",
       "date": "2026-06-12",
       "column": "新闻动态"
     },
     {
-      "title": "“深化国际教育交流  共促教学能力提升 ——东南亚国家教师教学能力提升培训班来访我校",
+      "title": "“深化国际教育交流—东南亚国家教师教学能力提升培训班来访我校",
       "url": "https://cie.shu.edu.cn/info/1013/5177.htm",
       "date": "2026-06-02",
       "column": "新闻动态"
