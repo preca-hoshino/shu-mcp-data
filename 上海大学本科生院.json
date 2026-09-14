@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260913_154137",
+  "crawl_time": "20260914_053151",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -10,6 +10,24 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "上海大学2027年优秀应届本科毕业生免试攻读研究生推荐名单公示",
+      "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321824",
+      "date": "2026-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026-2027学年秋季学期普通本科生学籍注册通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321834.htm",
+      "date": "2026-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2026年本科新生入学照片图像采集的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321854.htm",
+      "date": "2026-09-14",
+      "column": "通知公告"
+    },
     {
       "title": "关于 2026-2027 学年秋季学期本研互选工作安排的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321814.htm",
@@ -107,27 +125,9 @@
       "column": "通知公告"
     },
     {
-      "title": "关于举办“国元证券杯”上海大学2026年中国国际大学生创新大赛校内选拔赛的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321464.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2026年度上海大学校级重点课程立项申报工作的通知（本科生院〔2026〕26号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/321474.htm",
-      "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
       "title": "关于第七届上海市大学生力学竞赛上海大学报名的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321494.htm",
       "date": "2026-07-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "本科生院2026年暑假值班表",
-      "url": "https://bksy.shu.edu.cn/info/1015/321434.htm",
-      "date": "2026-07-29",
       "column": "通知公告"
     },
     {

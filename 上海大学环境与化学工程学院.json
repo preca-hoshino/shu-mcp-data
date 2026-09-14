@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260913_154137",
-  "total_articles": 994,
+  "crawl_time": "20260914_053151",
+  "total_articles": 995,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 73,
     "研究生教学": 207,
     "科研动态": 118,
-    "通知公告": 118
+    "通知公告": 119
   },
   "articles": [
+    {
+      "title": "环化学院党群接待日公告20260915",
+      "url": "https://ece.shu.edu.cn/info/1147/89844.htm",
+      "date": "2026-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "【迎新季】研途启航，环化同行——2026级研究生新生见面会顺利举行",
+      "url": "https://mp.weixin.qq.com/s/AxHb_ZsYyCoYxnwg7kJBQw",
+      "date": "2026-09-14",
+      "column": "学院新闻"
+    },
     {
       "title": "我院毕业研究生王康博士在《Advanced Functional Materials》发表研究成果",
       "url": "https://ece.shu.edu.cn/info/1148/89814.htm",
@@ -148,12 +160,6 @@
     {
       "title": "【党建|“绿漾”宣讲团】“绿漾”带小朋友们解锁护水知识！",
       "url": "https://mp.weixin.qq.com/s/Hsw4hMTrQajq7_yOCGjQzg",
-      "date": "2026-07-31",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【社会实践】旧物焕新・邻里共生——“绿萤”社会实践队走进昱翠家苑开展社区环保工作坊活动",
-      "url": "https://mp.weixin.qq.com/s/lmxsqJ57bG1hOtCHdQ_FOA",
       "date": "2026-07-31",
       "column": "学院新闻"
     },

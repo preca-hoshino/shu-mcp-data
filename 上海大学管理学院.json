@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20260913_154137",
-  "total_articles": 808,
+  "crawl_time": "20260914_053151",
+  "total_articles": 809,
   "columns": {
     "学术活动": 203,
     "学院新闻": 92,
-    "重要通知": 513
+    "重要通知": 514
   },
   "articles": [
+    {
+      "title": "上海大学管理学院2027年接收推荐免试攻读硕士学位研究生考核工作方案",
+      "url": "https://ms.shu.edu.cn/info/1245/92535.htm",
+      "date": "2026-09-14",
+      "column": "重要通知"
+    },
     {
       "title": "上海大学管理学院案例入选第十七届全国百篇优秀管理案例",
       "url": "https://ms.shu.edu.cn/info/1244/92505.htm",

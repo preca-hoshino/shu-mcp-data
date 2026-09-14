@@ -2,30 +2,42 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260913_154137",
-  "total_articles": 2582,
+  "crawl_time": "20260914_053151",
+  "total_articles": 2584,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 57,
-    "学术动态": 566,
+    "学术动态": 567,
     "学术报告": 152,
     "学生动态": 582,
     "教学教务": 137,
     "校友活动": 32,
-    "综合新闻": 882,
+    "综合新闻": 883,
     "通知公告": 53
   },
   "articles": [
     {
-      "title": "关于2026年中秋节、国庆节放假安排的通知",
-      "url": "https://www.shu.edu.cn/info/1051/400395.htm",
-      "date": "2026-09-09",
+      "title": "转| CJS专刊征稿 | AI and Society",
+      "url": "https://mp.weixin.qq.com/s/vRTYFWsMB6dOGJgyWrJ4yA",
+      "date": "2026-09-14",
       "column": "通知公告"
     },
     {
-      "title": "社会学院2027年优秀应届本科毕业生免试攻读研究生拟推荐名单公示",
-      "url": "https://sociology.shu.edu.cn/info/1103/43298.htm",
-      "date": "2026-09-08",
+      "title": "社会学院召开秋季学期教职工首日会议",
+      "url": "https://sociology.shu.edu.cn/info/1102/43358.htm",
+      "date": "2026-09-14",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新书 | 沈燕 著《我住进了养老院：老年的后意义生活》",
+      "url": "https://sociology.shu.edu.cn/info/1104/43338.htm",
+      "date": "2026-09-11",
+      "column": "学术动态"
+    },
+    {
+      "title": "关于2026年中秋节、国庆节放假安排的通知",
+      "url": "https://www.shu.edu.cn/info/1051/400395.htm",
+      "date": "2026-09-09",
       "column": "通知公告"
     },
     {

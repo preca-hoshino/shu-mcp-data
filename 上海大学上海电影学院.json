@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260913_154137",
-  "total_articles": 1765,
+  "crawl_time": "20260914_053151",
+  "total_articles": 1769,
   "columns": {
-    "新闻": 40,
+    "新闻": 44,
     "讲座": 464,
     "通知公告": 1261
   },
@@ -167,6 +167,12 @@
       "column": "讲座"
     },
     {
+      "title": "上海大学上海电影学院召开秋季学期全院教职工大会",
+      "url": "https://mp.weixin.qq.com/s/C1aLHOW_9-X600LnrRjyJg",
+      "date": "",
+      "column": "新闻"
+    },
+    {
       "title": "JUST电影计划NO.4《请假装你会舍不得我》对话的可能",
       "url": "https://mp.weixin.qq.com/s/CMNBnm0orS8N6ppFChDqpA",
       "date": "",
@@ -183,6 +189,12 @@
       "url": "https://mp.weixin.qq.com/s/DpFv8UNqG3fSMQz5EbH3MQ",
       "date": "",
       "column": "通知公告"
+    },
+    {
+      "title": "上海电影学院召开中层干部培训会",
+      "url": "https://mp.weixin.qq.com/s/ER6xt1UHL4CNBOfdzbwCQA",
+      "date": "",
+      "column": "新闻"
     },
     {
       "title": "上海电影学院2026年春季招聘会用人单位邀请函",
@@ -3349,6 +3361,18 @@
     {
       "title": "影视学院学生党支部举行赈灾爱心义卖活动",
       "url": "https://sfa.shu.edu.cn/info/1211/4206.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "我院召开青年教师学科讨论会",
+      "url": "https://sfa.shu.edu.cn/info/1211/4208.htm",
+      "date": "",
+      "column": "新闻"
+    },
+    {
+      "title": "<font color=black>实验中心组织新设备、新技术培训收效显著</font>",
+      "url": "https://sfa.shu.edu.cn/info/1211/4209.htm",
       "date": "",
       "column": "新闻"
     },
