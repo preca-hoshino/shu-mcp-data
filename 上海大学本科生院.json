@@ -2,14 +2,26 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260915_053208",
-  "total_articles": 1819,
+  "crawl_time": "20260915_091405",
+  "total_articles": 1821,
   "columns": {
-    "政策文件": 57,
-    "新闻动态": 37,
+    "政策文件": 58,
+    "新闻动态": 38,
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "2026上海大学学生手册（本科生）",
+      "url": "https://bksy.shu.edu.cn/info/1235/321914.htm",
+      "date": "2026-09-15",
+      "column": "政策文件"
+    },
+    {
+      "title": "元气满满，拥抱新学期！",
+      "url": "https://mp.weixin.qq.com/s/Ws7XQuBJYeVVc6dvmZGfnQ",
+      "date": "2026-09-15",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学2027年优秀应届本科毕业生免试攻读研究生推荐名单公示",
       "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321824",

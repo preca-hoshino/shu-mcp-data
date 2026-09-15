@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260915_053208",
-  "total_articles": 173,
+  "crawl_time": "20260915_091405",
+  "total_articles": 174,
   "columns": {
-    "新闻公告": 173
+    "新闻公告": 174
   },
   "articles": [
+    {
+      "title": "关于张贝思、杨洋同志申报艺术系列高级职称的公示",
+      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8419",
+      "date": "2026-09-15",
+      "column": "新闻公告"
+    },
     {
       "title": "关于开展上海大学2026年第二批次教师专业实践能力提升计划申请工作的通知",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8369",

@@ -2,14 +2,20 @@
   "domain": "adrichn.shu.edu.cn",
   "department": "上海大学亚洲人口研究中心",
   "type": "04",
-  "crawl_time": "20260915_053208",
-  "total_articles": 124,
+  "crawl_time": "20260915_091405",
+  "total_articles": 125,
   "columns": {
     "图片新闻": 11,
-    "新闻动态": 101,
+    "新闻动态": 102,
     "热点新闻": 12
   },
   "articles": [
+    {
+      "title": "研讨会通知：重新思考亚洲城市化—— 基于城市化程度（DEGURBA）的比较人口学视角",
+      "url": "https://adrichn.shu.edu.cn/info/1055/2034.htm",
+      "date": "2026-09-15",
+      "column": "新闻动态"
+    },
     {
       "title": "亚洲人口研究中心师生参加第13届国际人口地理大会",
       "url": "https://adrichn.shu.edu.cn/info/1055/2014.htm",

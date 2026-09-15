@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260915_053208",
+  "crawl_time": "20260915_091405",
   "total_articles": 630,
   "columns": {
     "焦点新闻": 373,
@@ -10,6 +10,24 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2026级GC&GI新生专业方向选择的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27451.htm",
+      "date": "2026-09-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（9月15日-18日）",
+      "url": "https://mp.weixin.qq.com/s/4iEg7PtIZzNdhNrCBwkCIg",
+      "date": "2026-09-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "多元聚首 共启新程 2026级国际新生Orientation活动顺利举办",
+      "url": "https://mp.weixin.qq.com/s/PkMkGd-_3yAoxwSHtNgEkA",
+      "date": "2026-09-15",
+      "column": "论坛活动"
+    },
     {
       "title": "备考必看！上大MBA全额奖学金得主经验分享2，适合自己的才是最好的",
       "url": "https://mp.weixin.qq.com/s/-iT1jyJqnQobE01Iwj1XQw",
@@ -245,12 +263,6 @@
       "column": "论坛活动"
     },
     {
-      "title": "上大MBA 25GI数智文创方向《前沿技术与产业未来》课堂教学与实践",
-      "url": "https://mp.weixin.qq.com/s/5WkQhJHKr7IKCnBuKLby0w",
-      "date": "2026-07-07",
-      "column": "论坛活动"
-    },
-    {
       "title": "凝心聚力启新程，数智深耕谱新篇——上海大学MBA中心举行新任副主任任命宣布会‌",
       "url": "https://mp.weixin.qq.com/s/HRsapg2no29YPjlENOg5lw",
       "date": "2026-07-07",
@@ -260,12 +272,6 @@
       "title": "招生动态|上大MBA项目招生宣讲会（7月3日-5日）",
       "url": "https://mp.weixin.qq.com/s/72GZTKvCACE5D0A5YLgPug",
       "date": "2026-07-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年上海大学MBA研究生新生缴费办法",
-      "url": "https://mba.shu.edu.cn/info/1024/26921.htm",
-      "date": "2026-07-02",
       "column": "通知公告"
     },
     {
@@ -291,12 +297,6 @@
       "url": "https://mp.weixin.qq.com/s/sKkVRoetnG_a1tbxUtviyw",
       "date": "2026-06-30",
       "column": "焦点新闻"
-    },
-    {
-      "title": "青春逐梦 奔赴山海｜上海大学管理学院2026年毕业典礼预告",
-      "url": "https://mp.weixin.qq.com/s/dWOluVCkSjJIaGSvoNj_YA",
-      "date": "2026-06-25",
-      "column": "通知公告"
     },
     {
       "title": "上海大学MBA中心顺利完成EFMD再认证现场考察",
