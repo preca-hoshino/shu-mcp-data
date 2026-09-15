@@ -2,15 +2,33 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260915_091405",
-  "total_articles": 584,
+  "crawl_time": "20260915_130633",
+  "total_articles": 587,
   "columns": {
     "学术活动预告": 400,
-    "学术研究": 33,
-    "学院新闻": 56,
-    "通知公告": 95
+    "学术研究": 34,
+    "学院新闻": 57,
+    "通知公告": 96
   },
   "articles": [
+    {
+      "title": "外国语学院教师谢晨两项研究成果发表于国际权威语言学期刊",
+      "url": "https://sfs.shu.edu.cn/info/1036/31277.htm",
+      "date": "2026-09-15",
+      "column": "学术研究"
+    },
+    {
+      "title": "上海大学外国语学院2027年接收推荐免试攻读研究生（含直博生）实施方案",
+      "url": "https://sfs.shu.edu.cn/info/1141/31287.htm",
+      "date": "2026-09-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "外国语学院教师谢晨两项研究成果发表于国际权威语言学期刊",
+      "url": "https://sfs.shu.edu.cn/info/1142/31267.htm",
+      "date": "2026-09-15",
+      "column": "学院新闻"
+    },
     {
       "title": "上海大学外国语学院关于开展2026年度宝钢优秀学生奖评审工作的通知",
       "url": "https://sfs.shu.edu.cn/info/1141/31187.htm",
