@@ -2,7 +2,7 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260914_174758",
+  "crawl_time": "20260915_053208",
   "total_articles": 2816,
   "columns": {
     "新闻动态": 2601,
@@ -16,21 +16,21 @@
       "column": "新闻动态"
     },
     {
-      "title": "研行中华，燃创未来！来看上大研究生的暑期实践足迹",
-      "url": "https://mp.weixin.qq.com/s/cBB00ctLBlLtbQAhutvHSQ",
-      "date": "2026-09-10",
-      "column": "新闻动态"
-    },
-    {
       "title": "你好，新同学！上海大学2026级研究生新生顺利报到啦！",
       "url": "https://mp.weixin.qq.com/s/dnMnc_GYgr-guq4iDMANZg",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "column": "新闻动态"
     },
     {
       "title": "启航迎新季丨下一站，上海大学！快来看看2026级研究生新生报到攻略→",
       "url": "https://mp.weixin.qq.com/s/gcDGKl_t2dQKn4tf6HwuZQ",
       "date": "2026-09-10",
+      "column": "新闻动态"
+    },
+    {
+      "title": "研行中华，燃创未来！来看上大研究生的暑期实践足迹",
+      "url": "https://mp.weixin.qq.com/s/cBB00ctLBlLtbQAhutvHSQ",
+      "date": "2026-09-08",
       "column": "新闻动态"
     },
     {
@@ -42,7 +42,7 @@
     {
       "title": "启航迎新季丨无忧入学，温暖同行，“绿色通道”申请已开启！",
       "url": "https://mp.weixin.qq.com/s/dmwLmnh17QeCrkNNrjjCUA",
-      "date": "2026-09-03",
+      "date": "2026-09-01",
       "column": "新闻动态"
     },
     {

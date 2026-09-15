@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260914_174758",
-  "total_articles": 2584,
+  "crawl_time": "20260915_053208",
+  "total_articles": 2590,
   "columns": {
     "图片新闻": 121,
-    "媒体报道": 57,
+    "媒体报道": 61,
     "学术动态": 567,
-    "学术报告": 152,
+    "学术报告": 154,
     "学生动态": 582,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,30 @@
     "通知公告": 53
   },
   "articles": [
+    {
+      "title": "“人生与田野”讲座25|田野调查知与行",
+      "url": "https://sociology.shu.edu.cn/info/1105/43388.htm",
+      "date": "2026-09-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "“人生与田野”讲座26|从田野调查到研究论文的写作",
+      "url": "https://sociology.shu.edu.cn/info/1105/43398.htm",
+      "date": "2026-09-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "中华网河南频道|《寨墙内外：1920―1940年代豫北社会变迁》新书发布会暨学术研讨会纪实",
+      "url": "https://sociology.shu.edu.cn/info/1109/43408.htm",
+      "date": "2026-09-15",
+      "column": "媒体报道"
+    },
+    {
+      "title": "三联生活周刊|“有勇气去结，也有实力去离”：年轻人正在重新计算婚姻",
+      "url": "https://sociology.shu.edu.cn/info/1109/43418.htm",
+      "date": "2026-09-15",
+      "column": "媒体报道"
+    },
     {
       "title": "转| CJS专刊征稿 | AI and Society",
       "url": "https://mp.weixin.qq.com/s/vRTYFWsMB6dOGJgyWrJ4yA",
@@ -11471,6 +11495,12 @@
       "column": "学生动态"
     },
     {
+      "title": "青年报：上大学子赴安徽毛坦厂中学调研",
+      "url": "https://sociology.shu.edu.cn/info/1109/6722.htm",
+      "date": "2015-06-12",
+      "column": "媒体报道"
+    },
+    {
       "title": "学术通讯：黄剑波教授“人类学与中国宗教研究”报告",
       "url": "https://sociology.shu.edu.cn/info/1104/5951.htm",
       "date": "2015-06-11",
@@ -11995,6 +12025,12 @@
     {
       "title": "【媒体报道】黄晓春研究员在文汇报撰文谈基层治理转型",
       "url": "https://sociology.shu.edu.cn/info/1109/6719.htm",
+      "date": "2015-04-01",
+      "column": "媒体报道"
+    },
+    {
+      "title": "【媒体报道】青年报：张钟汝教授谈构建新型人际关系",
+      "url": "https://sociology.shu.edu.cn/info/1109/6720.htm",
       "date": "2015-04-01",
       "column": "媒体报道"
     },

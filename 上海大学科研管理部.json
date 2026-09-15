@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260914_174758",
+  "crawl_time": "20260915_053208",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "深化跨区域科创协同，长三角国家高新区联盟大会落地多项合作成果",
+      "url": "https://mp.weixin.qq.com/s/L6Jmw3ajHyy8k1r2jXIxvg",
+      "date": "2026-09-15",
+      "column": "科技动态"
+    },
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年7-8月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12522",
@@ -261,12 +267,6 @@
       "title": "2026世界人工智能大会暨人工智能全球治理高级别会议闭幕",
       "url": "https://mp.weixin.qq.com/s/Gk64Bd545-AQJsq8pJdl8Q",
       "date": "2026-07-20",
-      "column": "科技动态"
-    },
-    {
-      "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
-      "url": "https://mp.weixin.qq.com/s/QSILklAuFn9I19EVr4rG4A",
-      "date": "2026-07-17",
       "column": "科技动态"
     },
     {

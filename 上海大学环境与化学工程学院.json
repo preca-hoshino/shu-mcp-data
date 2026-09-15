@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260914_174758",
-  "total_articles": 995,
+  "crawl_time": "20260915_053208",
+  "total_articles": 996,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 73,
-    "研究生教学": 207,
+    "研究生教学": 208,
     "科研动态": 118,
     "通知公告": 119
   },
   "articles": [
+    {
+      "title": "2026年度研究生各类奖学金申报通知",
+      "url": "https://ece.shu.edu.cn/info/1304/89864.htm",
+      "date": "2026-09-15",
+      "column": "研究生教学"
+    },
+    {
+      "title": "【迎新季】戎装逐光，少年启航——我们的军训记忆册",
+      "url": "https://mp.weixin.qq.com/s/FJFG8o7kxtcVhdGHFAarjA",
+      "date": "2026-09-15",
+      "column": "学院新闻"
+    },
     {
       "title": "环化学院党群接待日公告20260915",
       "url": "https://ece.shu.edu.cn/info/1147/89844.htm",
@@ -155,12 +167,6 @@
       "title": "课赛融合强赋能 聚力备赛育英才 ——环化学院召开本科生学科竞赛暨中国国际大学生创新大赛指导工作动员会",
       "url": "https://ece.shu.edu.cn/info/1149/89544.htm",
       "date": "2026-08-04",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【党建|“绿漾”宣讲团】“绿漾”带小朋友们解锁护水知识！",
-      "url": "https://mp.weixin.qq.com/s/Hsw4hMTrQajq7_yOCGjQzg",
-      "date": "2026-07-31",
       "column": "学院新闻"
     },
     {

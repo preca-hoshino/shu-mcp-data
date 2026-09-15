@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260914_174758",
+  "crawl_time": "20260915_053208",
   "total_articles": 1819,
   "columns": {
     "政策文件": 57,
@@ -13,6 +13,12 @@
     {
       "title": "上海大学2027年优秀应届本科毕业生免试攻读研究生推荐名单公示",
       "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321824",
+      "date": "2026-09-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于“国元证券杯”上海大学2026年中国国际大学生创新大赛校内选拔赛获奖名单暨拟推荐市赛项目的公示",
+      "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1015&wbnewsid=321874",
       "date": "2026-09-14",
       "column": "通知公告"
     },
@@ -122,12 +128,6 @@
       "title": "上海大学2026-2027年度集成电路领域本科生“一生一芯”高端芯片设计与EDA揭榜实践项目立项结果",
       "url": "https://bksy.shu.edu.cn/info/1015/321514.htm",
       "date": "2026-08-13",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于第七届上海市大学生力学竞赛上海大学报名的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/321494.htm",
-      "date": "2026-07-30",
       "column": "通知公告"
     },
     {

@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20260914_174758",
-  "total_articles": 348,
+  "crawl_time": "20260915_053208",
+  "total_articles": 350,
   "columns": {
-    "文科动态": 96,
+    "文科动态": 98,
     "最新立项": 60,
     "通知公告": 192
   },
   "articles": [
+    {
+      "title": "上大党委书记吴坚勇：如何保障五年规划落地见效|上海教育“十五五”规划解读",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6497.htm",
+      "date": "2026-09-15",
+      "column": "文科动态"
+    },
     {
       "title": "社会学院黄晓春教授在《中国社会科学》发表城市更新与社会治理创新协同改革学术论文",
       "url": "https://rwskc.shu.edu.cn/info/1070/6437.htm",
@@ -1905,6 +1911,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/2858.htm",
       "date": "2008-09-11",
       "column": "通知公告"
+    },
+    {
+      "title": "我校15项课题获2008年度上海市哲社规划项目立项",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3596.htm",
+      "date": "2008-09-05",
+      "column": "文科动态"
     },
     {
       "title": "我校又获7项国家社科基金2008年度单列项目立项",

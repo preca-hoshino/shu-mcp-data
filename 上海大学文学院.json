@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260914_174758",
-  "total_articles": 1989,
+  "crawl_time": "20260915_053208",
+  "total_articles": 1990,
   "columns": {
     "学术报告": 102,
     "学生动态": 147,
     "学院周志": 310,
     "科研动态": 481,
-    "综合新闻": 523,
+    "综合新闻": 524,
     "通知公告": 426
   },
   "articles": [
+    {
+      "title": "上海大学文学院2026级新生开学典礼暨首日教育顺利举行",
+      "url": "https://cla.shu.edu.cn/info/1015/53908.htm",
+      "date": "2026-09-15",
+      "column": "综合新闻"
+    },
     {
       "title": "文学院2026年度本科生宝钢优秀学生奖评审细则",
       "url": "https://cla.shu.edu.cn/info/1017/53848.htm",
