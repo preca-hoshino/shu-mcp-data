@@ -2,7 +2,7 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260915_162234",
+  "crawl_time": "20260916_052437",
   "total_articles": 1990,
   "columns": {
     "学术报告": 102,
@@ -13,6 +13,12 @@
     "通知公告": 426
   },
   "articles": [
+    {
+      "title": "上海大学文学院研究生学业奖学金公共服务分计分细则（2026）",
+      "url": "https://cla.shu.edu.cn/info/1017/53938.htm",
+      "date": "2026-09-16",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学文学院2026级新生开学典礼暨首日教育顺利举行",
       "url": "https://cla.shu.edu.cn/info/1015/53908.htm",
@@ -35,12 +41,6 @@
       "title": "文学院2025-2026学年本科生国家奖学金、上海市奖学金评审细则",
       "url": "https://cla.shu.edu.cn/info/1017/53868.htm",
       "date": "2026-09-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "文学院2027年推荐优秀应届本科毕业生免试攻读研究生名单公示",
-      "url": "https://cla.shu.edu.cn/info/1017/53838.htm",
-      "date": "2026-09-07",
       "column": "通知公告"
     },
     {

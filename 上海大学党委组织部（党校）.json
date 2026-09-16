@@ -2,17 +2,23 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20260915_162234",
-  "total_articles": 392,
+  "crawl_time": "20260916_052437",
+  "total_articles": 393,
   "columns": {
     "人才工作": 17,
     "党建工作": 51,
-    "党校工作": 211,
+    "党校工作": 212,
     "基层风采": 29,
     "干部工作": 55,
     "理论学习": 29
   },
   "articles": [
+    {
+      "title": "上海大学举行2026年秋季中层干部专题研修班",
+      "url": "https://zzb.shu.edu.cn/info/1005/8521.htm",
+      "date": "2026-09-10",
+      "column": "党校工作"
+    },
     {
       "title": "关于选派优秀中青年干部到奉贤区实践锻炼的通知",
       "url": "https://zzb.shu.edu.cn/info/1011/8451.htm",
