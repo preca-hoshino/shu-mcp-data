@@ -2,15 +2,21 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260916_130458",
-  "total_articles": 416,
+  "crawl_time": "20260916_161400",
+  "total_articles": 417,
   "columns": {
     "学术活动": 25,
     "新闻动态": 59,
-    "重要通知": 311,
+    "重要通知": 312,
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "上海大学计算机工程与科学学院接收2027年推免研究生复试工作安排",
+      "url": "https://cs.shu.edu.cn/info/1081/52051.htm",
+      "date": "2026-09-01",
+      "column": "重要通知"
+    },
     {
       "title": "逐梦启航，序启新章！计算机工程与科学学院2026级本科生迎新工作圆满落幕",
       "url": "https://mp.weixin.qq.com/s/7FLO5KJDCmZH4U1kPR_rPA",
