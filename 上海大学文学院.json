@@ -2,10 +2,10 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260916_052437",
-  "total_articles": 1990,
+  "crawl_time": "20260916_090714",
+  "total_articles": 1991,
   "columns": {
-    "学术报告": 102,
+    "学术报告": 103,
     "学生动态": 147,
     "学院周志": 310,
     "科研动态": 481,
@@ -13,6 +13,12 @@
     "通知公告": 426
   },
   "articles": [
+    {
+      "title": "黄道炫：日记中的历史",
+      "url": "https://cla.shu.edu.cn/info/1016/53948.htm",
+      "date": "2026-09-16",
+      "column": "学术报告"
+    },
     {
       "title": "上海大学文学院研究生学业奖学金公共服务分计分细则（2026）",
       "url": "https://cla.shu.edu.cn/info/1017/53938.htm",

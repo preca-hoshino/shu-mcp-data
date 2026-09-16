@@ -2,11 +2,11 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260916_052437",
-  "total_articles": 2816,
+  "crawl_time": "20260916_090714",
+  "total_articles": 2815,
   "columns": {
     "新闻动态": 2601,
-    "通知公告": 215
+    "通知公告": 214
   },
   "articles": [
     {
@@ -68,12 +68,6 @@
       "url": "https://mp.weixin.qq.com/s/6a64_BsKZOtt4jlQh2ihTw",
       "date": "2026-06-16",
       "column": "新闻动态"
-    },
-    {
-      "title": "上海大学第三届研究生“卓越导学团队”评选结果公示",
-      "url": "https://dwygb.shu.edu.cn/info/1050/41249.htm",
-      "date": "2026-06-11",
-      "column": "通知公告"
     },
     {
       "title": "上海大学家庭经济困难学生认定工作实施办法",

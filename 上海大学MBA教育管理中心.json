@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260916_052437",
+  "crawl_time": "20260916_090714",
   "total_articles": 630,
   "columns": {
     "焦点新闻": 373,
@@ -10,6 +10,18 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2026年度研究生“宝钢奖学金”评选工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27471.htm",
+      "date": "2026-09-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "上大MBA360°职业洞察营10月17日线上专场报名进行中",
+      "url": "https://mp.weixin.qq.com/s/W2L_rENW_LWhS-GGiVoqjw",
+      "date": "2026-09-16",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026级GC&GI新生专业方向选择的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27451.htm",
@@ -272,18 +284,6 @@
       "title": "招生动态|上大MBA项目招生宣讲会（7月3日-5日）",
       "url": "https://mp.weixin.qq.com/s/72GZTKvCACE5D0A5YLgPug",
       "date": "2026-07-03",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年上海大学MBA2025级研究生缴费办法",
-      "url": "https://mba.shu.edu.cn/info/1024/26931.htm",
-      "date": "2026-07-02",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年上海大学MBA2024级研究生缴费办法",
-      "url": "https://mba.shu.edu.cn/info/1024/26941.htm",
-      "date": "2026-07-02",
       "column": "通知公告"
     },
     {
