@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260916_161400",
-  "total_articles": 584,
+  "crawl_time": "20260917_053320",
+  "total_articles": 585,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 34,
     "学院新闻": 57,
-    "通知公告": 93
+    "通知公告": 94
   },
   "articles": [
+    {
+      "title": "2026年日语专八NSS8报考通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/31297.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
     {
       "title": "外国语学院教师谢晨两项研究成果发表于国际权威语言学期刊",
       "url": "https://sfs.shu.edu.cn/info/1036/31277.htm",

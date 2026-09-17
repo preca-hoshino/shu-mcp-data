@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260916_161400",
+  "crawl_time": "20260917_053320",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "转发市教委《关于组织开展2027年度上海高校产学研联合创新计划项目项目申报工作的通知》",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12552.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
     {
       "title": "深化跨区域科创协同，长三角国家高新区联盟大会落地多项合作成果",
       "url": "https://mp.weixin.qq.com/s/L6Jmw3ajHyy8k1r2jXIxvg",
@@ -225,12 +231,6 @@
       "title": "上海大学科研管理部-2026年暑假值班安排",
       "url": "https://mp.weixin.qq.com/s/190V_mb-y8N2g4o9IFIDNQ",
       "date": "2026-07-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海市科学技术委员会关于发布2026年度上海市科技攻关“揭榜挂帅”（第二批）项目指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12112.htm",
-      "date": "2026-07-30",
       "column": "通知公告"
     },
     {

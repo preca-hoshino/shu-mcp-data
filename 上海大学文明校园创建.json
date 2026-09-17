@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260916_161400",
+  "crawl_time": "20260917_053320",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,36 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "智联海天科创铸防：上海大学亮相第二届全国青少年智能无人系...",
+      "url": "https://www.shu.edu.cn/info/1056/400605.htm",
+      "date": "2026-09-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "机自学院召开2026-2027学年秋季学期教职工首日工作会议",
+      "url": "https://www.shu.edu.cn/info/1056/400615.htm",
+      "date": "2026-09-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "钱伟长学院举行2026-2027学年秋季学期首日教育暨2026级新生开...",
+      "url": "https://www.shu.edu.cn/info/1056/400625.htm",
+      "date": "2026-09-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "凝心聚力开新局，实干笃行谱新篇——外国语学院召开2026年秋...",
+      "url": "https://www.shu.edu.cn/info/1056/400645.htm",
+      "date": "2026-09-17",
+      "column": "文明实践"
+    },
+    {
+      "title": "马克思主义学院2026级新生开学典礼暨首日教育顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400675.htm",
+      "date": "2026-09-17",
+      "column": "文明实践"
+    },
     {
       "title": "研途启新，逐光前行！上海大学2026年研究生开学典礼举行！",
       "url": "https://mp.weixin.qq.com/s/-kvzVwwWQJhTjZkFi3g1Yg",
@@ -137,24 +167,6 @@
       "column": "校园动态"
     },
     {
-      "title": "上海大学党委理论学习中心组举行树立和践行正确政绩观专题学...",
-      "url": "https://www.shu.edu.cn/info/1056/399575.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "2026年上海市青少年科学研究院、青少年工程院联合开学典礼在...",
-      "url": "https://www.shu.edu.cn/info/1056/399625.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学马克思主义学院与上海电机学院马克思主义学院开展理...",
-      "url": "https://www.shu.edu.cn/info/1056/399645.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
       "title": "马克思主义学院党委与计算机工程与科学学院党委开展党委理论...",
       "url": "https://www.shu.edu.cn/info/1056/399775.htm",
       "date": "2026-08-03",
@@ -176,18 +188,6 @@
       "title": "排查隐患守底线 平安护航度暑期——学校开展2026年暑假前安全...",
       "url": "https://www.shu.edu.cn/info/1056/399825.htm",
       "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
-      "url": "https://www.shu.edu.cn/info/1056/399535.htm",
-      "date": "2026-07-27",
-      "column": "文明实践"
-    },
-    {
-      "title": "2026世界机器人大赛——BCI脑控机器人大赛，上海大学再创佳绩",
-      "url": "https://www.shu.edu.cn/info/1056/399555.htm",
-      "date": "2026-07-27",
       "column": "文明实践"
     },
     {

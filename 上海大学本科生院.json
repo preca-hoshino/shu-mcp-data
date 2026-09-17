@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260916_161400",
+  "crawl_time": "20260917_053320",
   "total_articles": 1821,
   "columns": {
     "政策文件": 58,
@@ -10,6 +10,12 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于申报上海大学2026年本科教学学术研究项目的通知（本科生院〔2026〕28号）",
+      "url": "https://bksy.shu.edu.cn/info/1015/321964.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
     {
       "title": "2026年上海市高等学校信息技术水平考试报名工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321924.htm",
@@ -128,12 +134,6 @@
       "title": "关于做好上海大学2026年中国国际大学生创新大赛校内选拔赛国际项目参赛的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321564.htm",
       "date": "2026-08-20",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年度上海大学课程思政教育教学改革研究项目拟立项名单公示",
-      "url": "https://bksy.shu.edu.cn/info/1015/321524.htm",
-      "date": "2026-08-17",
       "column": "通知公告"
     },
     {

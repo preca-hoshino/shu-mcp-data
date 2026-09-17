@@ -2,13 +2,19 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20260916_161400",
-  "total_articles": 475,
+  "crawl_time": "20260917_053320",
+  "total_articles": 476,
   "columns": {
-    "新闻动态": 460,
+    "新闻动态": 461,
     "通知公告": 15
   },
   "articles": [
+    {
+      "title": "深耕育人初心 赋能教师成长 ——2026年上海市优秀女青年教师...",
+      "url": "https://www.shsjygh.org.cn/info/1161/557012.htm",
+      "date": "2026-09-16",
+      "column": "新闻动态"
+    },
     {
       "title": "亲子相伴 悦读一夏——泮池家长学校暑期亲子共读活动报名通知",
       "url": "https://mp.weixin.qq.com/s/Bkr65arOaiUZGgi65UEcQA",

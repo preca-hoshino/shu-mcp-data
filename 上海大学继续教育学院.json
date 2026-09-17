@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260916_161400",
-  "total_articles": 1786,
+  "crawl_time": "20260917_053320",
+  "total_articles": 1787,
   "columns": {
     "学院新闻": 546,
     "招生热讯": 77,
-    "通知公告": 1163
+    "通知公告": 1164
   },
   "articles": [
+    {
+      "title": "高等学历继续教育2026年中秋、国庆放假通知（延长、宝山、嘉定校区）",
+      "url": "https://cce.shu.edu.cn/info/1464/20994.htm",
+      "date": "2026-09-15",
+      "column": "通知公告"
+    },
     {
       "title": "继续教育学院召开2026-2027学年秋季学期首日工作会议",
       "url": "https://cce.shu.edu.cn/info/1550/20974.htm",

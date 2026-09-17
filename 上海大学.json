@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260916_161400",
+  "crawl_time": "20260917_053320",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -12,34 +12,46 @@
   },
   "articles": [
     {
+      "title": "凝心聚力开新局，实干笃行谱新篇——外国语学院召开2026年秋季学期教职工大会",
+      "url": "https://www.shu.edu.cn/info/1056/400645.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海美术学院潘耀昌、章德明两位教授主编教材荣获第二届全国教材建设奖两项",
+      "url": "https://www.shu.edu.cn/info/1056/400655.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“习近平党建思想与思政课建设内涵式发展”理论研讨会顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/400665.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "马克思主义学院2026级新生开学典礼暨首日教育顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400675.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "文化遗产与信息管理学院2026年秋季学期首次全体教职工大会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400685.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "法学院召开2026-2027新学年教工大会部署安全和发展工作",
+      "url": "https://www.shu.edu.cn/info/1056/400695.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
       "title": "材料学院高彦峰教授团队在《Review of Materials Research》发表废锂电池正极材料回收领域研究成果",
       "url": "https://www.shu.edu.cn/info/1055/400555.htm",
       "date": "2026-09-15",
       "column": "科研动态"
-    },
-    {
-      "title": "2026年怒江州统筹发展与安全专题培训班启动",
-      "url": "https://www.shu.edu.cn/info/1056/400565.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "三明学院赴上海大学交流学生见面会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/400575.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海电影学院召开中层干部培训会",
-      "url": "https://www.shu.edu.cn/info/1056/400585.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学上海电影学院召开秋季学期全院教职工大会",
-      "url": "https://www.shu.edu.cn/info/1056/400595.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
     },
     {
       "title": "智联海天科创铸防：上海大学亮相第二届全国青少年智能无人系统应用大赛",
@@ -82,18 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1055/400445.htm",
       "date": "2026-09-11",
       "column": "科研动态"
-    },
-    {
-      "title": "深化校地协同，赋能“北转型” | 上海大学管理学院与宝山区市场监管局续签战略合作协议，共启2026年“质量月”新篇章",
-      "url": "https://www.shu.edu.cn/info/1056/400425.htm",
-      "date": "2026-09-11",
-      "column": "综合新闻"
-    },
-    {
-      "title": "爱尔兰高级官员代表团访问上海大学",
-      "url": "https://www.shu.edu.cn/info/1056/400435.htm",
-      "date": "2026-09-11",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学举行2026年秋季中层干部专题研修班",

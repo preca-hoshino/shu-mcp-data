@@ -2,20 +2,44 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260916_161400",
-  "total_articles": 2592,
+  "crawl_time": "20260917_053320",
+  "total_articles": 2596,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 61,
     "学术动态": 567,
-    "学术报告": 154,
+    "学术报告": 155,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 883,
-    "通知公告": 53
+    "通知公告": 56
   },
   "articles": [
+    {
+      "title": "社会学院2025-2026学年国家奖学金与上海市奖学金初评推荐名单公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/43578.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "社会学院2025-2026学年宝钢优秀学生奖初评推荐名单公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/43588.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "社会学院2025-2026学年国家励志奖学金初评推荐名单公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/43618.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
+    {
+      "title": "“纪录映现实，镜头观社会”——蒋能杰导演纪录片创作经验谈",
+      "url": "https://sociology.shu.edu.cn/info/1105/43598.htm",
+      "date": "2026-09-17",
+      "column": "学术报告"
+    },
     {
       "title": "“人生与田野”讲座25|田野调查知与行",
       "url": "https://sociology.shu.edu.cn/info/1105/43388.htm",
