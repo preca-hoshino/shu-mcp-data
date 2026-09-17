@@ -2,13 +2,19 @@
   "domain": "cie.shu.edu.cn",
   "department": "上海大学国际教育学院",
   "type": "13",
-  "crawl_time": "20260917_053320",
-  "total_articles": 508,
+  "crawl_time": "20260917_091449",
+  "total_articles": 509,
   "columns": {
-    "学院通知": 8,
+    "学院通知": 9,
     "新闻动态": 500
   },
   "articles": [
+    {
+      "title": "“上海大学国际教育学院2027年硕士研究生推免复试方案",
+      "url": "https://cie.shu.edu.cn/info/1014/5247.htm",
+      "date": "2026-09-17",
+      "column": "学院通知"
+    },
     {
       "title": "“国际教育学院召开2026-2027学年秋季学期全院教职工大会",
       "url": "https://cie.shu.edu.cn/info/1013/5217.htm",

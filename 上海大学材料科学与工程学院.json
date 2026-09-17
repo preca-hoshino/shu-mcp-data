@@ -2,15 +2,15 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260917_053320",
-  "total_articles": 1701,
+  "crawl_time": "20260917_091449",
+  "total_articles": 1702,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
     "报告讲座": 136,
     "科研动态": 37,
     "通知公告(教师)": 30,
-    "通知公告(本科生)": 113,
+    "通知公告(本科生)": 114,
     "通知公告(研究生)": 182
   },
   "articles": [
@@ -19,6 +19,12 @@
       "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=31088",
       "date": "2026-09-17",
       "column": "通知公告(教师)"
+    },
+    {
+      "title": "【本】上海大学材料科学与工程学院2025-2026学年“金发科技”奖学金评选公示",
+      "url": "https://mat.shu.edu.cn/info/1018/31148.htm",
+      "date": "2026-09-17",
+      "column": "通知公告(本科生)"
     },
     {
       "title": "上海大学材料科学与工程学院2027年接收推荐免试攻读研究生（含直博生）实施办法",

@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260917_053320",
+  "crawl_time": "20260917_091449",
   "total_articles": 1610,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,18 @@
     "新闻快递": 172
   },
   "articles": [
+    {
+      "title": "Seminar 第3073讲 球面平均及其极大形式",
+      "url": "https://math.shu.edu.cn/info/1042/27141.htm",
+      "date": "2026-09-17",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3074讲 信号依赖的趋化模型的平均场极限推导",
+      "url": "https://math.shu.edu.cn/info/1042/27151.htm",
+      "date": "2026-09-17",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3072讲 满足原始能量耗散Patlak-Keller-Segel系统的二阶数值格式",
       "url": "https://math.shu.edu.cn/info/1042/27111.htm",
@@ -147,18 +159,6 @@
       "url": "https://math.shu.edu.cn/info/1041/26821.htm",
       "date": "2026-06-01",
       "column": "新闻快递"
-    },
-    {
-      "title": "Seminar第3055讲 面向热流固耦合的整体式浸入边界框架及基于代理模型的不确定性量化",
-      "url": "https://math.shu.edu.cn/info/1042/26841.htm",
-      "date": "2026-06-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3054讲 基于人工智能的电池状态评估与故障诊断",
-      "url": "https://math.shu.edu.cn/info/1042/26831.htm",
-      "date": "2026-05-29",
-      "column": "学术报告"
     },
     {
       "title": "Seminar第3053讲 正多面体与曲线上的向量丛",

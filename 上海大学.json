@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260917_053320",
+  "crawl_time": "20260917_091449",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学召开树立和践行正确政绩观学习教育总结会",
+      "url": "https://mp.weixin.qq.com/s/da80qy9FMYH-23ebMFA3Vw",
+      "date": "2026-09-17",
+      "column": "重要新闻"
+    },
+    {
+      "title": "外国语学院教师谢晨两项研究成果发表于语言学国际期刊",
+      "url": "https://www.shu.edu.cn/info/1055/400785.htm",
+      "date": "2026-09-17",
+      "column": "科研动态"
+    },
+    {
+      "title": "《求是》杂志同期刊发我校两篇重要文章",
+      "url": "https://www.shu.edu.cn/info/1055/400825.htm",
+      "date": "2026-09-17",
+      "column": "科研动态"
+    },
     {
       "title": "凝心聚力开新局，实干笃行谱新篇——外国语学院召开2026年秋季学期教职工大会",
       "url": "https://www.shu.edu.cn/info/1056/400645.htm",
@@ -48,28 +66,28 @@
       "column": "综合新闻"
     },
     {
+      "title": "为芯而来，如约而至！微电子学院2026级新生开学第一课顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400795.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "拥抱AI时代，启航卓越征程——上海大学2026级新生“院士第一课”顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400805.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“智启星火·科创逐梦” 2026青少年高校科学营上海大学星火馆常态营顺利开营",
+      "url": "https://www.shu.edu.cn/info/1056/400815.htm",
+      "date": "2026-09-17",
+      "column": "综合新闻"
+    },
+    {
       "title": "材料学院高彦峰教授团队在《Review of Materials Research》发表废锂电池正极材料回收领域研究成果",
       "url": "https://www.shu.edu.cn/info/1055/400555.htm",
       "date": "2026-09-15",
       "column": "科研动态"
-    },
-    {
-      "title": "智联海天科创铸防：上海大学亮相第二届全国青少年智能无人系统应用大赛",
-      "url": "https://www.shu.edu.cn/info/1056/400605.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "机自学院召开2026-2027学年秋季学期教职工首日工作会议",
-      "url": "https://www.shu.edu.cn/info/1056/400615.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "钱伟长学院举行2026-2027学年秋季学期首日教育暨2026级新生开学典礼",
-      "url": "https://www.shu.edu.cn/info/1056/400625.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学三刊入选“世界一流科技期刊目录”",
@@ -168,12 +186,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界面能领域重要研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/400025.htm",
-      "date": "2026-08-14",
-      "column": "科研动态"
-    },
-    {
       "title": "环球自然日2026年度全国总决选在上海大学开幕",
       "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
       "date": "2026-08-08",
@@ -189,18 +201,6 @@
       "title": "我校召开综改任务落实推进会",
       "url": "https://www.shu.edu.cn/info/1053/399865.htm",
       "date": "2026-07-31",
-      "column": "重要新闻"
-    },
-    {
-      "title": "环化学院李珍研究员课题组在《Advanced Functional Materials》上发表研究论文",
-      "url": "https://www.shu.edu.cn/info/1055/399765.htm",
-      "date": "2026-07-30",
-      "column": "科研动态"
-    },
-    {
-      "title": "我校召开2026年产教研协同育人团队交流会",
-      "url": "https://www.shu.edu.cn/info/1053/399685.htm",
-      "date": "2026-07-29",
       "column": "重要新闻"
     },
     {

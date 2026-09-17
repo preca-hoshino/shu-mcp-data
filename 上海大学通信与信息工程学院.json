@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260917_053320",
-  "total_articles": 2028,
+  "crawl_time": "20260917_091449",
+  "total_articles": 2029,
   "columns": {
     "学术报告": 523,
     "教学信息": 21,
     "新闻动态": 1266,
-    "通知公告": 218
+    "通知公告": 219
   },
   "articles": [
+    {
+      "title": "通信与信息工程学院2025-2026学年宝钢奖学金、国家奖学金与上海市奖学金、国家励志奖学金初评推荐名单公示",
+      "url": "https://scie.shu.edu.cn/info/1065/46975.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
     {
       "title": "通信学院2027年接收推荐免试攻读研究生（含直博生）工作方案",
       "url": "https://scie.shu.edu.cn/info/1065/46955.htm",

@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260917_053320",
-  "total_articles": 719,
+  "crawl_time": "20260917_091449",
+  "total_articles": 720,
   "columns": {
     "党建工作": 47,
     "学术讲座": 55,
@@ -12,9 +12,15 @@
     "展览展示": 24,
     "教学": 166,
     "科研": 35,
-    "通知公告": 14
+    "通知公告": 15
   },
   "articles": [
+    {
+      "title": "申请台湾师范大学美术学院2027年春季班交换生公告",
+      "url": "https://safa.shu.edu.cn/info/1122/19930.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学上海美术学院2027年接收推免研究生（含直博生）招生复试方案",
       "url": "https://safa.shu.edu.cn/info/1122/19920.htm",
