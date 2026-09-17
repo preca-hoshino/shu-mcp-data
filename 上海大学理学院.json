@@ -2,20 +2,26 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260917_091449",
+  "crawl_time": "20260917_130105",
   "total_articles": 3930,
   "columns": {
     "主办会议": 41,
     "学术报告": 2645,
     "本科生教务": 39,
-    "本科生新闻": 47,
+    "本科生新闻": 48,
     "研究生教务": 15,
     "研究生新闻": 50,
     "科研动态": 309,
     "综合新闻": 621,
-    "通知公告": 163
+    "通知公告": 162
   },
   "articles": [
+    {
+      "title": "2026军训实录:理院学子的迷彩时光",
+      "url": "https://mp.weixin.qq.com/s/TrDKe7e2aVAw2EoGyYfLTQ",
+      "date": "2026-09-17",
+      "column": "本科生新闻"
+    },
     {
       "title": "理学院2025级本科分流新生见面会顺利举行",
       "url": "https://scicol.shu.edu.cn/info/1007/33905.htm",
@@ -25,12 +31,6 @@
     {
       "title": "理学院关于2027年接收推荐免试攻读硕士学位研究生（含直博生）的工作安排",
       "url": "https://scicol.shu.edu.cn/info/1006/33855.htm",
-      "date": "2026-09-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "理学院2025-2026学年国家励志奖学金初评公示",
-      "url": "https://scicol.shu.edu.cn/info/1006/33865.htm",
       "date": "2026-09-16",
       "column": "通知公告"
     },
