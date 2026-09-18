@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20260918_084845",
-  "total_articles": 117,
+  "crawl_time": "20260918_124019",
+  "total_articles": 118,
   "columns": {
-    "公告信息": 37,
+    "公告信息": 38,
     "图书馆新闻": 47,
     "资源动态": 33
   },
   "articles": [
+    {
+      "title": "关于2026年图书馆  中秋节、国庆节放假安排的通知",
+      "url": "https://lib.shu.edu.cn/info/1022/7074.htm",
+      "date": "2026-09-18",
+      "column": "公告信息"
+    },
     {
       "title": "关于2026年图书馆暑假开放的通知",
       "url": "https://lib.shu.edu.cn/info/1022/7064.htm",
