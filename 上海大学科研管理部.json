@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260918_052108",
+  "crawl_time": "20260918_084845",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "“AI赋能产业·对话链接未来”：一场AI产业链的接力对话｜“智链加速器”院士专家工作站AI专场报名开启",
+      "url": "https://mp.weixin.qq.com/s/X7Skd1XgZhcx4HrxaQEbIA",
+      "date": "2026-09-18",
+      "column": "科技动态"
+    },
     {
       "title": "转发市教委《关于组织开展2027年度上海高校产学研联合创新计划项目项目申报工作的通知》",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12552",
@@ -261,12 +267,6 @@
       "title": "“五核”上海：不简单复刻纽伦巴东，“飞轮效应”激发“能级领跑”",
       "url": "https://mp.weixin.qq.com/s/ph5p4zvsu9QuyKwb24H0uA",
       "date": "2026-07-21",
-      "column": "科技动态"
-    },
-    {
-      "title": "2026世界人工智能大会暨人工智能全球治理高级别会议闭幕",
-      "url": "https://mp.weixin.qq.com/s/Gk64Bd545-AQJsq8pJdl8Q",
-      "date": "2026-07-20",
       "column": "科技动态"
     },
     {

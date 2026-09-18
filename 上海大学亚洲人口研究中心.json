@@ -2,14 +2,20 @@
   "domain": "adrichn.shu.edu.cn",
   "department": "上海大学亚洲人口研究中心",
   "type": "04",
-  "crawl_time": "20260918_052108",
-  "total_articles": 126,
+  "crawl_time": "20260918_084845",
+  "total_articles": 127,
   "columns": {
     "图片新闻": 11,
-    "新闻动态": 103,
+    "新闻动态": 104,
     "热点新闻": 12
   },
   "articles": [
+    {
+      "title": "所内师生参加2026年中国人口学年会",
+      "url": "https://adrichn.shu.edu.cn/info/1055/2074.htm",
+      "date": "2026-09-18",
+      "column": "新闻动态"
+    },
     {
       "title": "所内四名研究生赴联合国人口司开展专业实习",
       "url": "https://adrichn.shu.edu.cn/info/1055/2064.htm",

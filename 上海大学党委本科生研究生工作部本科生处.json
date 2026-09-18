@@ -2,17 +2,23 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20260918_052108",
-  "total_articles": 857,
+  "crawl_time": "20260918_084845",
+  "total_articles": 858,
   "columns": {
     "党建简报": 132,
     "学工新闻": 37,
-    "通知公告": 688
+    "通知公告": 689
   },
   "articles": [
     {
       "title": "关于做好2026年度秋季学期服兵役学生国家教育资助申报工作的...",
       "url": "https://xgb.shu.edu.cn/info/1003/46064.htm",
+      "date": "2026-09-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年度秋季学期本科生退役士兵国家助学金申报通知",
+      "url": "https://xgb.shu.edu.cn/info/1003/46074.htm",
       "date": "2026-09-18",
       "column": "通知公告"
     },

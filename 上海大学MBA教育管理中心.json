@@ -2,10 +2,10 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260918_052108",
-  "total_articles": 630,
+  "crawl_time": "20260918_084845",
+  "total_articles": 631,
   "columns": {
-    "焦点新闻": 373,
+    "焦点新闻": 374,
     "论坛活动": 194,
     "通知公告": 63
   },
@@ -15,6 +15,18 @@
       "url": "https://mba.shu.edu.cn/info/1024/27491.htm",
       "date": "2026-09-18",
       "column": "通知公告"
+    },
+    {
+      "title": "【海外学习】2027学年春季学期校际交换生项目（二）招募通知",
+      "url": "https://mp.weixin.qq.com/s/D9N0uSUGYhVDzibPlERjFA",
+      "date": "2026-09-18",
+      "column": "通知公告"
+    },
+    {
+      "title": "QS全球全日制MBA排名发布，上大MBA全日制项目位列亚洲第51位、中国大陆TOP9",
+      "url": "https://mp.weixin.qq.com/s/Vd-kPmwh5ZUxBKJ5turEMw",
+      "date": "2026-09-18",
+      "column": "焦点新闻"
     },
     {
       "title": "关于2026级秋季新生参加本市医保的通知",
@@ -273,12 +285,6 @@
       "url": "https://mp.weixin.qq.com/s/aaDFYklHDNxC9g60d-ruPg",
       "date": "2026-07-13",
       "column": "论坛活动"
-    },
-    {
-      "title": "上大MBA360°职业洞察营第三批报名进行中",
-      "url": "https://mp.weixin.qq.com/s/cRf0d7-Bn5McoAoM7gX0PQ",
-      "date": "2026-07-09",
-      "column": "通知公告"
     },
     {
       "title": "上海大学MBA 25GI智能制造方向《可持续生产》课堂教学与实践",

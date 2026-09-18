@@ -2,11 +2,11 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20260918_052108",
-  "total_articles": 391,
+  "crawl_time": "20260918_084845",
+  "total_articles": 393,
   "columns": {
     "人才工作": 17,
-    "党建工作": 49,
+    "党建工作": 51,
     "党校工作": 212,
     "基层风采": 29,
     "干部工作": 55,
@@ -24,6 +24,18 @@
       "url": "https://zzb.shu.edu.cn/info/1011/8451.htm",
       "date": "2026-07-30",
       "column": "干部工作"
+    },
+    {
+      "title": "上海大学召开树立和践行正确政绩观学习教育工作专班第五次会议",
+      "url": "https://zzb.shu.edu.cn/info/1016/8371.htm",
+      "date": "2026-07-17",
+      "column": "党建工作"
+    },
+    {
+      "title": "上海大学召开树立和践行正确政绩观学习教育工作专班第四次会议",
+      "url": "https://zzb.shu.edu.cn/info/1016/8211.htm",
+      "date": "2026-06-25",
+      "column": "党建工作"
     },
     {
       "title": "我校党建研究会举办2026年“揭榜挂帅”和重点立项课题开题论证会",

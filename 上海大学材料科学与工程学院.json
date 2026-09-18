@@ -2,13 +2,13 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260918_052108",
-  "total_articles": 1686,
+  "crawl_time": "20260918_084845",
+  "total_articles": 1702,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
-    "报告讲座": 132,
-    "科研动态": 25,
+    "报告讲座": 136,
+    "科研动态": 37,
     "通知公告(教师)": 30,
     "通知公告(本科生)": 114,
     "通知公告(研究生)": 182
@@ -63,6 +63,18 @@
       "column": "通知公告(研究生)"
     },
     {
+      "title": "9月15日：氯化焙烧工艺及装备设计",
+      "url": "https://mat.shu.edu.cn/info/1015/31078.htm",
+      "date": "2026-09-14",
+      "column": "报告讲座"
+    },
+    {
+      "title": "高彦峰教授团队在《Review of Materials Research》发表废锂电池正极材料回收领域重要研究成...",
+      "url": "https://mat.shu.edu.cn/info/1016/31058.htm",
+      "date": "2026-09-11",
+      "column": "科研动态"
+    },
+    {
       "title": "上海大学材料科学与工程学院2025-2026学年“金发科技”奖学金评选通知",
       "url": "https://mat.shu.edu.cn/info/1018/31048.htm",
       "date": "2026-09-11",
@@ -73,6 +85,18 @@
       "url": "https://mat.shu.edu.cn/info/1012/31038.htm",
       "date": "2026-09-10",
       "column": "学院新闻"
+    },
+    {
+      "title": "9月9日：基于热处理和表面工程优化增材制造金属的微观组织",
+      "url": "https://mat.shu.edu.cn/info/1015/31018.htm",
+      "date": "2026-09-04",
+      "column": "报告讲座"
+    },
+    {
+      "title": "高彦峰教授团队在《Nano-Micro Letters》上发表最新研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30988.htm",
+      "date": "2026-09-02",
+      "column": "科研动态"
     },
     {
       "title": "“2026材料与社会文明——材料研究与人才培养研讨会”成功举办",
@@ -111,6 +135,12 @@
       "column": "通知公告(研究生)"
     },
     {
+      "title": "8月30日：Ion irradiation of high entropy materials",
+      "url": "https://mat.shu.edu.cn/info/1015/30898.htm",
+      "date": "2026-08-27",
+      "column": "报告讲座"
+    },
+    {
       "title": "关于推荐张隆兴同学申报2026年中国科协青年科技人才培育工程博士生专项计划的公示",
       "url": "https://mat.shu.edu.cn/info/1019/30908.htm",
       "date": "2026-08-27",
@@ -127,6 +157,18 @@
       "url": "https://mat.shu.edu.cn/info/1012/30878.htm",
       "date": "2026-08-17",
       "column": "学院新闻"
+    },
+    {
+      "title": "8月14日：Two-dimensional Materials: A Multidisciplinary Approach to Data Storage, Multi...",
+      "url": "https://mat.shu.edu.cn/info/1015/30868.htm",
+      "date": "2026-08-11",
+      "column": "报告讲座"
+    },
+    {
+      "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界...",
+      "url": "https://mat.shu.edu.cn/info/1016/30858.htm",
+      "date": "2026-08-07",
+      "column": "科研动态"
     },
     {
       "title": "船用缸套铸造技术专栏重磅刊发《铸造工程》—— 上海大学先进凝固技术中心攻坚船舶动力核心部...",
@@ -187,6 +229,12 @@
       "url": "https://mat.shu.edu.cn/info/1012/30758.htm",
       "date": "2026-07-24",
       "column": "学院新闻"
+    },
+    {
+      "title": "核电关键材料全国重点实验室卞西磊副研究员在《Materials Today》上发表最新研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30748.htm",
+      "date": "2026-07-24",
+      "column": "科研动态"
     },
     {
       "title": "以赛促学砺真知，校企协同育新人——上海大学第七届“瑞侃杯”高分子基础知识竞赛颁奖典礼圆...",
@@ -261,6 +309,12 @@
       "column": "学院新闻"
     },
     {
+      "title": "高彦峰教授/赵起副教授在《Nature Communications》上发表最新研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30588.htm",
+      "date": "2026-07-07",
+      "column": "科研动态"
+    },
+    {
       "title": "上海大学第七届“瑞侃杯”高分子基础知识竞赛圆满落幕",
       "url": "https://mat.shu.edu.cn/info/1012/30538.htm",
       "date": "2026-07-06",
@@ -327,6 +381,12 @@
       "column": "学院新闻"
     },
     {
+      "title": "如何让生物墨水\"一步成型\"？单酶级分层组装给出新解",
+      "url": "https://mat.shu.edu.cn/info/1016/30418.htm",
+      "date": "2026-06-30",
+      "column": "科研动态"
+    },
+    {
       "title": "第一期象屿CAST奖学金颁奖仪式暨象屿集团—上大CAST人才培养与技术交流会顺利举行",
       "url": "https://mat.shu.edu.cn/info/1012/30408.htm",
       "date": "2026-06-29",
@@ -345,6 +405,24 @@
       "column": "通知公告(研究生)"
     },
     {
+      "title": "材料学院博士生张乐在《Advanced Materials》上发表重要研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30338.htm",
+      "date": "2026-06-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "核电关键材料全国重点实验室黄波副研究员在《Advanced Materials》上发表非晶态形状记忆合金...",
+      "url": "https://mat.shu.edu.cn/info/1016/30348.htm",
+      "date": "2026-06-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "材料学院氢冶金低碳技术团队在CEJ上发表最新研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/30328.htm",
+      "date": "2026-06-17",
+      "column": "科研动态"
+    },
+    {
       "title": "仲红刚参加2026年连铸学会年会并作专题报告",
       "url": "https://mat.shu.edu.cn/info/1012/30288.htm",
       "date": "2026-06-16",
@@ -361,6 +439,18 @@
       "url": "https://mat.shu.edu.cn/info/1018/30308.htm",
       "date": "2026-06-16",
       "column": "通知公告(本科生)"
+    },
+    {
+      "title": "世界首次！低密度中锰钢连铸连轧全流程工业化生产技术取得里程碑进展",
+      "url": "https://mat.shu.edu.cn/info/1016/30278.htm",
+      "date": "2026-06-15",
+      "column": "科研动态"
+    },
+    {
+      "title": "材料学院罗群教授和重庆大学李谦教授团队在Nature子刊《Nature Communications》上发表重要研...",
+      "url": "https://mat.shu.edu.cn/info/1016/30208.htm",
+      "date": "2026-06-02",
+      "column": "科研动态"
     },
     {
       "title": "材子相聚续星火 青春筑梦赴未来 | 材料学院顺利举办2026年校友值年返校日活动",
@@ -9601,6 +9691,12 @@
       "url": "https://mat.shu.edu.cn/info/1012/1591.htm",
       "date": "2019-10-26",
       "column": "学院新闻"
+    },
+    {
+      "title": "上海大学举行凤宝轴承（特种）钢管研发中心签约仪式",
+      "url": "https://mat.shu.edu.cn/info/1016/4649.htm",
+      "date": "2019-10-26",
+      "column": "科研动态"
     },
     {
       "title": "坚守初心与使命，牢记立德树人根本任务，推进“专业课程思政”建设—材料学院副院长黄健讲授...",

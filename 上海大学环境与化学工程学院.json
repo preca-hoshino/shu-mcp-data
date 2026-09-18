@@ -2,12 +2,12 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260918_052108",
-  "total_articles": 994,
+  "crawl_time": "20260918_084845",
+  "total_articles": 998,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
-    "本科生教学": 69,
+    "本科生教学": 73,
     "研究生教学": 209,
     "科研动态": 118,
     "通知公告": 120
@@ -66,6 +66,18 @@
       "url": "https://mp.weixin.qq.com/s/Sxd_k9Ttk1R9PSFAcH33nA",
       "date": "2026-09-10",
       "column": "学院新闻"
+    },
+    {
+      "title": "公示-环境与化学工程学院2027年应届优秀本科毕业生免试攻读研究生拟推荐名单",
+      "url": "https://ece.shu.edu.cn/info/1303/89744.htm",
+      "date": "2026-09-08",
+      "column": "本科生教学"
+    },
+    {
+      "title": "环境与化学工程学院2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+      "url": "https://ece.shu.edu.cn/info/1303/89714.htm",
+      "date": "2026-09-04",
+      "column": "本科生教学"
     },
     {
       "title": "【迎新季】环化新力量，青春正当时——2026级本科新生报到直击",
@@ -212,6 +224,12 @@
       "column": "通知公告"
     },
     {
+      "title": "关于申报上海大学2026年人工智能赋能教育教学专项建设项目的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/89264.htm",
+      "date": "2026-07-10",
+      "column": "本科生教学"
+    },
+    {
       "title": "环化学院李珍研究员课题组在《Advanced Functional Materials》上发表研究论文",
       "url": "https://ece.shu.edu.cn/info/1148/89214.htm",
       "date": "2026-07-08",
@@ -276,6 +294,12 @@
       "url": "https://ece.shu.edu.cn/info/1147/88414.htm",
       "date": "2026-06-03",
       "column": "通知公告"
+    },
+    {
+      "title": "关于开展2026年度上海大学课程思政教育教学改革研究项目申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/88404.htm",
+      "date": "2026-06-03",
+      "column": "本科生教学"
     },
     {
       "title": "我院研究生张明万/王康在《Angewandte Chemie International Edition》发表研究成果",
