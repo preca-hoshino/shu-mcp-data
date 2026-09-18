@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260917_162120",
-  "total_articles": 122,
+  "crawl_time": "20260918_052108",
+  "total_articles": 124,
   "columns": {
-    "国际交流": 44,
+    "国际交流": 46,
     "培养管理": 24,
     "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "转发：关于举办第十八届国际研究生奖学金信息说明会活动的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/173272.htm",
+      "date": "2026-09-18",
+      "column": "国际交流"
+    },
     {
       "title": "关于2026年上海大学研究生奖学金申报工作的通知",
       "url": "https://gs.shu.edu.cn/info/1029/173262.htm",
@@ -665,6 +671,12 @@
       "url": "https://gs.shu.edu.cn/info/1029/21793.htm",
       "date": "2022-03-01",
       "column": "培养管理"
+    },
+    {
+      "title": "关于2022年上海大学国家公派出国留学项目启动的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/21679.htm",
+      "date": "2021-09-15",
+      "column": "国际交流"
     },
     {
       "title": "2021年上海大学国家公派研究生项目攻读博士学位研究生推荐名单及网上填报通知",

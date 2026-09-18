@@ -2,12 +2,12 @@
   "domain": "sdfz.shu.edu.cn",
   "department": "上海大学附属中学",
   "type": "16",
-  "crawl_time": "20260917_162120",
-  "total_articles": 675,
+  "crawl_time": "20260918_052108",
+  "total_articles": 682,
   "columns": {
     "招生招聘": 40,
     "教学纵横": 67,
-    "新闻中心": 451,
+    "新闻中心": 458,
     "科研师训": 38,
     "通知公告": 79
   },
@@ -16,6 +16,18 @@
       "title": "学生菜单及陪餐公示（2026.9.21-2026.9.27）",
       "url": "https://sdfz.shu.edu.cn/info/1109/10088.htm",
       "date": "2026-09-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "大力弘扬教育家精神 谱写科学教育之新篇 ——上大附中开展第42个教师节主题教育活...",
+      "url": "https://sdfz.shu.edu.cn/info/1092/10128.htm",
+      "date": "2026-09-18",
+      "column": "新闻中心"
+    },
+    {
+      "title": "2026学年09月17日菜品图片公示",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10108.htm",
+      "date": "2026-09-18",
       "column": "通知公告"
     },
     {
@@ -29,6 +41,12 @@
       "url": "https://sdfz.shu.edu.cn/info/1109/10068.htm",
       "date": "2026-09-16",
       "column": "通知公告"
+    },
+    {
+      "title": "来这里，做面向未来的教师｜上海大学附属中学2027年师资招聘公告（第一期）",
+      "url": "https://sdfz.shu.edu.cn/info/1104/10118.htm",
+      "date": "2026-09-15",
+      "column": "新闻中心"
     },
     {
       "title": "2026学年09月14日菜品图片公示",
@@ -79,6 +97,18 @@
       "column": "通知公告"
     },
     {
+      "title": "扎根田野学农耕，躬身实践悟担当 ——上大附中2024级、2025级学农实践活动纪实",
+      "url": "https://sdfz.shu.edu.cn/info/1092/10158.htm",
+      "date": "2026-09-05",
+      "column": "新闻中心"
+    },
+    {
+      "title": "喜报 | 上附学子在第五届上海市中学数学学术展评活动中斩获佳绩",
+      "url": "https://sdfz.shu.edu.cn/info/1089/10148.htm",
+      "date": "2026-09-04",
+      "column": "新闻中心"
+    },
+    {
       "title": "2026学年上海大学附属中学课表公示",
       "url": "https://sdfz.shu.edu.cn/info/1109/9948.htm",
       "date": "2026-09-04",
@@ -107,6 +137,18 @@
       "url": "https://sdfz.shu.edu.cn/info/1109/9918.htm",
       "date": "2026-09-02",
       "column": "通知公告"
+    },
+    {
+      "title": "冠军！挥拍逐梦，问鼎全国——上海大学附属中学乒乓球队勇夺全国中学生乒乓球锦标...",
+      "url": "https://sdfz.shu.edu.cn/info/1090/10138.htm",
+      "date": "2026-09-01",
+      "column": "新闻中心"
+    },
+    {
+      "title": "智汇无界，融合共生——上大附中 2026学年第一学期开学典礼圆满举行",
+      "url": "https://sdfz.shu.edu.cn/info/1093/10168.htm",
+      "date": "2026-09-01",
+      "column": "新闻中心"
     },
     {
       "title": "2026学年8月31日菜品图片公示",
@@ -157,6 +199,12 @@
       "column": "通知公告"
     },
     {
+      "title": "“报到！”赓续长征薪火，淬炼迷彩青春——2026级上附学子军训开营！",
+      "url": "https://sdfz.shu.edu.cn/info/1093/10188.htm",
+      "date": "2026-08-22",
+      "column": "新闻中心"
+    },
+    {
       "title": "2026学年08月21日菜品公示",
       "url": "https://sdfz.shu.edu.cn/info/1109/9828.htm",
       "date": "2026-08-22",
@@ -184,12 +232,6 @@
       "title": "上海大学附属中学校服管理制度",
       "url": "https://sdfz.shu.edu.cn/info/1109/9788.htm",
       "date": "2026-07-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "【上大附中本部食堂】学生菜品图片公示6.26",
-      "url": "https://sdfz.shu.edu.cn/info/1109/9678.htm",
-      "date": "2026-06-26",
       "column": "通知公告"
     },
     {

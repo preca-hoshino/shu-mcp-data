@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260917_162120",
+  "crawl_time": "20260918_052108",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "理学院2025级本科分流新生见面会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400835.htm",
+      "date": "2026-09-18",
+      "column": "综合新闻"
+    },
+    {
+      "title": "国际教育学院召开2026-2027学年秋季学期全院教职工大会",
+      "url": "https://www.shu.edu.cn/info/1056/400845.htm",
+      "date": "2026-09-18",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学召开树立和践行正确政绩观学习教育总结会",
       "url": "https://mp.weixin.qq.com/s/da80qy9FMYH-23ebMFA3Vw",
@@ -28,12 +40,6 @@
       "url": "https://www.shu.edu.cn/info/1055/400825.htm",
       "date": "2026-09-17",
       "column": "科研动态"
-    },
-    {
-      "title": "凝心聚力开新局，实干笃行谱新篇——外国语学院召开2026年秋季学期教职工大会",
-      "url": "https://www.shu.edu.cn/info/1056/400645.htm",
-      "date": "2026-09-17",
-      "column": "综合新闻"
     },
     {
       "title": "上海美术学院潘耀昌、章德明两位教授主编教材荣获第二届全国教材建设奖两项",
@@ -88,12 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1055/400555.htm",
       "date": "2026-09-15",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学三刊入选“世界一流科技期刊目录”",
-      "url": "https://www.shu.edu.cn/info/1056/400635.htm",
-      "date": "2026-09-15",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学2026年研究生开学典礼举行",
