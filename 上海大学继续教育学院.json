@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260919_051334",
-  "total_articles": 1787,
+  "crawl_time": "20260919_083454",
+  "total_articles": 1788,
   "columns": {
     "学院新闻": 546,
     "招生热讯": 77,
-    "通知公告": 1164
+    "通知公告": 1165
   },
   "articles": [
+    {
+      "title": "关于上海大学高等学历继续教育本科毕业生申请学士学位的通知",
+      "url": "https://cce.shu.edu.cn/info/1464/21004.htm",
+      "date": "2026-09-17",
+      "column": "通知公告"
+    },
     {
       "title": "高等学历继续教育2026年中秋、国庆放假通知（延长、宝山、嘉定校区）",
       "url": "https://cce.shu.edu.cn/info/1464/20994.htm",
