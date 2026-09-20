@@ -2,15 +2,21 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20260920_090637",
-  "total_articles": 67,
+  "crawl_time": "20260920_125014",
+  "total_articles": 68,
   "columns": {
-    "新闻动态": 24,
+    "新闻动态": 25,
     "科研动态": 6,
     "通知公告": 26,
     "集中课程": 11
   },
   "articles": [
+    {
+      "title": "走近产教前沿！两场专题活动，助力上大学子逐梦硬核科技领域",
+      "url": "https://mp.weixin.qq.com/s/Qk8TwPisa7hpq3QYzwvELw",
+      "date": "2026-09-20",
+      "column": "新闻动态"
+    },
     {
       "title": "聚力临港，筑梦卓越 | 上海大学卓越工程师学院临港基地2027级研究生招生座谈会",
       "url": "https://mp.weixin.qq.com/s/ViBCtW3bFsk3G8LfylLUTg",
