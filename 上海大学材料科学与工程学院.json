@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260920_053033",
+  "crawl_time": "20260920_090637",
   "total_articles": 1702,
   "columns": {
     "学术动态": 90,
@@ -14,6 +14,12 @@
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "先进凝固技术中心翟启杰、宋长江担任特邀主编的《钢铁研究学报》“冶金凝固过程与均质化技术...",
+      "url": "https://mat.shu.edu.cn/info/1012/31168.htm",
+      "date": "2026-09-20",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年度材料学院研究生宝钢奖学金推荐名单公示",
       "url": "https://mat.shu.edu.cn/info/1019/31158.htm",
@@ -421,12 +427,6 @@
       "url": "https://mat.shu.edu.cn/info/1016/30328.htm",
       "date": "2026-06-17",
       "column": "科研动态"
-    },
-    {
-      "title": "仲红刚参加2026年连铸学会年会并作专题报告",
-      "url": "https://mat.shu.edu.cn/info/1012/30288.htm",
-      "date": "2026-06-16",
-      "column": "学院新闻"
     },
     {
       "title": "【本】2026年材料科学与工程学院学生会换届选举通知",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260920_053033",
+  "crawl_time": "20260920_090637",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "上海市无机二维超材料原子调控及应用重点实验室2026年开放课题申请指南",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12582.htm",
+      "date": "2026-09-20",
+      "column": "通知公告"
+    },
     {
       "title": "“AI赋能产业·对话链接未来”：一场AI产业链的接力对话｜“智链加速器”院士专家工作站AI专场报名开启",
       "url": "https://mp.weixin.qq.com/s/X7Skd1XgZhcx4HrxaQEbIA",
@@ -202,12 +208,6 @@
       "url": "https://mp.weixin.qq.com/s/HJSsBSRpafGMhjRO0rkhZg?click_id=1822241106",
       "date": "2026-08-03",
       "column": "科技动态"
-    },
-    {
-      "title": "国家能源局关于发布智能电网国家科技重大专项基础支撑自主化关键技术公开项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12122.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
     },
     {
       "title": "国家卫生健康委科教司关于发布癌症、心脑血管、呼吸和代谢性疾病防治研究国家科技重大专项2027年度项目...",

@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260920_053033",
-  "total_articles": 426,
+  "crawl_time": "20260920_090637",
+  "total_articles": 428,
   "columns": {
     "学术报告": 141,
-    "科研动态": 78,
+    "科研动态": 80,
     "综合新闻": 46,
     "通知公告": 161
   },
   "articles": [
+    {
+      "title": "我院杨炯教授、席丽丽副研究员团队在《npj Computational Materials》发表研究成果",
+      "url": "https://mgi.shu.edu.cn/info/1063/7645.htm",
+      "date": "2026-09-20",
+      "column": "科研动态"
+    },
     {
       "title": "2026年MGI研究生“宝钢奖学金”拟推荐人选公示",
       "url": "https://mgi.shu.edu.cn/info/1062/7635.htm",
@@ -2332,6 +2338,12 @@
       "url": "https://mgi.shu.edu.cn/info/1062/1629.htm",
       "date": "2016-09-19",
       "column": "通知公告"
+    },
+    {
+      "title": "上海材料基因组工程研究院理事会第二次会议顺利召开",
+      "url": "https://mgi.shu.edu.cn/info/1063/1713.htm",
+      "date": "2016-09-07",
+      "column": "科研动态"
     },
     {
       "title": "我院本年度喜获10项国家自然科学基金",

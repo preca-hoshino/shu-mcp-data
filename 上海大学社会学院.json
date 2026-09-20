@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260920_053033",
-  "total_articles": 2596,
+  "crawl_time": "20260920_090637",
+  "total_articles": 2598,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 61,
-    "学术动态": 569,
+    "学术动态": 571,
     "学术报告": 155,
     "学生动态": 584,
     "教学教务": 137,
@@ -26,6 +26,18 @@
       "title": "新书 | 上海大学社会学院社会工作系 著《“相伴同行”：高校朋辈支持社会工作案例研究》",
       "url": "https://sociology.shu.edu.cn/info/1104/43718.htm",
       "date": "2026-09-20",
+      "column": "学术动态"
+    },
+    {
+      "title": "博士研究生朱佩怡入选“青计划”2026-2027年度残障研究青年学者田野资助项目",
+      "url": "https://sociology.shu.edu.cn/info/1104/43758.htm",
+      "date": "2026-09-20",
+      "column": "学术动态"
+    },
+    {
+      "title": "人口学研究所师生参加2026年中国人口学年会",
+      "url": "https://sociology.shu.edu.cn/info/1104/43688.htm",
+      "date": "2026-09-18",
       "column": "学术动态"
     },
     {

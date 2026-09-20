@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20260920_053033",
-  "total_articles": 375,
+  "crawl_time": "20260920_090637",
+  "total_articles": 376,
   "columns": {
     "学术动态": 36,
     "新闻快递": 315,
-    "研究成果": 24
+    "研究成果": 25
   },
   "articles": [
+    {
+      "title": "先进凝固技术中心翟启杰和宋长江教授担任特邀主编的《钢铁研究学报》“冶金凝固过程与均质化技术”专刊出版",
+      "url": "https://cast.shu.edu.cn/info/1043/4271.htm",
+      "date": "2026-09-20",
+      "column": "研究成果"
+    },
     {
       "title": "翟启杰教授荣获上海大学科学研究卓越贡献奖",
       "url": "https://cast.shu.edu.cn/info/1042/4261.htm",
