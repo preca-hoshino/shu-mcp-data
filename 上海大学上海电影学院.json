@@ -2,12 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260919_152653",
-  "total_articles": 1769,
+  "crawl_time": "20260920_053033",
+  "total_articles": 1770,
   "columns": {
     "新闻": 44,
     "讲座": 464,
-    "通知公告": 1261
+    "通知公告": 1262
   },
   "articles": [
     {
@@ -3523,6 +3523,12 @@
     {
       "title": "上海大学上海电影学院2027年推荐优秀应届本科毕业生免试攻读研究生补充公示",
       "url": "https://sfa.shu.edu.cn/info/1212/43994.htm",
+      "date": "",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海电影学院接收2027年推免生（含直博生）招生工作方案",
+      "url": "https://sfa.shu.edu.cn/info/1212/44024.htm",
       "date": "",
       "column": "通知公告"
     },

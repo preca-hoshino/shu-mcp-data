@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260919_152653",
-  "total_articles": 2594,
+  "crawl_time": "20260920_053033",
+  "total_articles": 2596,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 61,
-    "学术动态": 567,
+    "学术动态": 569,
     "学术报告": 155,
     "学生动态": 584,
     "教学教务": 137,
@@ -16,6 +16,18 @@
     "通知公告": 53
   },
   "articles": [
+    {
+      "title": "我院李朔严副教授在《社会学研究》2026年第5期上发表最新研究成果",
+      "url": "https://sociology.shu.edu.cn/info/1104/43698.htm",
+      "date": "2026-09-20",
+      "column": "学术动态"
+    },
+    {
+      "title": "新书 | 上海大学社会学院社会工作系 著《“相伴同行”：高校朋辈支持社会工作案例研究》",
+      "url": "https://sociology.shu.edu.cn/info/1104/43718.htm",
+      "date": "2026-09-20",
+      "column": "学术动态"
+    },
     {
       "title": "上海大学社会学院召开树立和践行正确政绩观学习教育总结会",
       "url": "https://sociology.shu.edu.cn/info/1102/43628.htm",

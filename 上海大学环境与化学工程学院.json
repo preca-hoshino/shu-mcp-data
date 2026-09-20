@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260919_152653",
+  "crawl_time": "20260920_053033",
   "total_articles": 998,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "【迎新季】我院2026级新生开学典礼暨开学第一课圆满举行",
+      "url": "https://mp.weixin.qq.com/s/CSbn_JfphJi9mt1vfh_-bg",
+      "date": "2026-09-20",
+      "column": "学院新闻"
+    },
     {
       "title": "【薪火垂范】学、思、锲而不舍 矢志不移报家国 ——缅怀老院长傅家谟院士，赓续新时代教育家精神",
       "url": "https://ece.shu.edu.cn/info/1149/89984.htm",
@@ -142,12 +148,6 @@
     {
       "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
       "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
-      "date": "2026-08-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】报到不踩坑！开学清单+出行指南请查收！",
-      "url": "https://mp.weixin.qq.com/s/KscRoFGGfgN_NlXAdCRlHg",
       "date": "2026-08-18",
       "column": "学院新闻"
     },

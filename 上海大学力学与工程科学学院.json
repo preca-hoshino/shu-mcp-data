@@ -2,8 +2,8 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20260919_152653",
-  "total_articles": 259,
+  "crawl_time": "20260920_053033",
+  "total_articles": 260,
   "columns": {
     "学术报告": 52,
     "学生信息": 41,
@@ -11,9 +11,15 @@
     "教师风采": 5,
     "科研动态": 59,
     "综合新闻": 42,
-    "通知公告": 38
+    "通知公告": 39
   },
   "articles": [
+    {
+      "title": "上海大学第十二届力学竞赛通知",
+      "url": "https://smes.shu.edu.cn/info/1015/10755.htm",
+      "date": "2026-09-20",
+      "column": "通知公告"
+    },
     {
       "title": "2027年力学与工程科学学院接收推荐免试攻读研究生（...",
       "url": "https://smes.shu.edu.cn/info/1015/10745.htm",

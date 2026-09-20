@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260919_152653",
+  "crawl_time": "20260920_053033",
   "total_articles": 18411,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "革命文物赋能“大思政课”！上海大学“初心印迹”火热开讲",
+      "url": "https://mp.weixin.qq.com/s/sieR2ux1M2qWAZBaRN9rVQ",
+      "date": "2026-09-20",
+      "column": "综合新闻"
+    },
+    {
+      "title": "理学院物理系尹鑫茂课题组在《Nature Communications》上发表最新成果",
+      "url": "https://www.shu.edu.cn/info/1055/400865.htm",
+      "date": "2026-09-20",
+      "column": "科研动态"
+    },
     {
       "title": "理学院2025级本科分流新生见面会顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/400835.htm",
@@ -40,12 +52,6 @@
       "url": "https://www.shu.edu.cn/info/1055/400825.htm",
       "date": "2026-09-17",
       "column": "科研动态"
-    },
-    {
-      "title": "上海美术学院潘耀昌、章德明两位教授主编教材荣获第二届全国教材建设奖两项",
-      "url": "https://www.shu.edu.cn/info/1056/400655.htm",
-      "date": "2026-09-17",
-      "column": "综合新闻"
     },
     {
       "title": "“习近平党建思想与思政课建设内涵式发展”理论研讨会顺利举办",
@@ -154,12 +160,6 @@
       "url": "https://www.shu.edu.cn/info/1051/400245.htm",
       "date": "2026-08-30",
       "column": "通知公告"
-    },
-    {
-      "title": "材料基因组工程研究院张统一院士、任伟教授团队在《npj Computational Materials》发表研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/400155.htm",
-      "date": "2026-08-28",
-      "column": "科研动态"
     },
     {
       "title": "通信学院郭海润教授团队在《Photonics Research》发表集成量子光源最新研究成果",

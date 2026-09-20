@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260919_152653",
+  "crawl_time": "20260920_053033",
   "total_articles": 417,
   "columns": {
     "学术活动": 25,
@@ -20,6 +20,12 @@
     {
       "title": "逐梦启航，序启新章！计算机工程与科学学院2026级本科生迎新工作圆满落幕",
       "url": "https://mp.weixin.qq.com/s/7FLO5KJDCmZH4U1kPR_rPA",
+      "date": "2026-09-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级新生开学典礼暨院长第一课圆满举行",
+      "url": "https://mp.weixin.qq.com/s/zrhG3MLGQyQcQJ8VHA3RTw",
       "date": "2026-09-01",
       "column": "新闻动态"
     },
@@ -94,12 +100,6 @@
       "url": "https://mp.weixin.qq.com/s/OKhVvL4eZKv1V5uLOHUsDQ",
       "date": "2026-07-01",
       "column": "风采展示"
-    },
-    {
-      "title": "计算机学院召开党委理论学习中心组（扩大）学习会",
-      "url": "https://mp.weixin.qq.com/s/SVt5ZMNmeYdD9cnImP2KPw",
-      "date": "2026-07-01",
-      "column": "新闻动态"
     },
     {
       "title": "计算机学院名誉院长郭毅可教授在WAIC发表“探求人工智能的第一性原理：把握硅碳时代的人机共生”主题演讲",

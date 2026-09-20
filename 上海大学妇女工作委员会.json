@@ -2,13 +2,19 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20260919_152653",
-  "total_articles": 476,
+  "crawl_time": "20260920_053033",
+  "total_articles": 477,
   "columns": {
-    "新闻动态": 461,
+    "新闻动态": 462,
     "通知公告": 15
   },
   "articles": [
+    {
+      "title": "向阳而行！全国妇联“小确幸”系列表情包第二辑来啦！",
+      "url": "https://mp.weixin.qq.com/s/BISE0dZ7LE6QcFYby_mkQQ",
+      "date": "2026-09-20",
+      "column": "新闻动态"
+    },
     {
       "title": "深耕育人初心 赋能教师成长 ——2026年上海市优秀女青年教师...",
       "url": "https://www.shsjygh.org.cn/info/1161/557012.htm",

@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260919_152653",
-  "total_articles": 3931,
+  "crawl_time": "20260920_053033",
+  "total_articles": 3932,
   "columns": {
     "主办会议": 41,
     "学术报告": 2646,
@@ -11,11 +11,17 @@
     "本科生新闻": 48,
     "研究生教务": 15,
     "研究生新闻": 50,
-    "科研动态": 309,
+    "科研动态": 310,
     "综合新闻": 621,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "物理系尹鑫茂课题组在《Nature Communications》上发表最新成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/33945.htm",
+      "date": "2026-09-20",
+      "column": "科研动态"
+    },
     {
       "title": "量子科技研究院seminar第117讲暨物理学科Seminar第830讲 跨越两种不同能标的电子–玻色子相互...",
       "url": "https://scicol.shu.edu.cn/info/1003/33925.htm",
