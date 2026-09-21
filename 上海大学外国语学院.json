@@ -2,7 +2,7 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260921_053535",
+  "crawl_time": "20260921_093936",
   "total_articles": 584,
   "columns": {
     "学术活动预告": 400,
@@ -11,6 +11,18 @@
     "通知公告": 93
   },
   "articles": [
+    {
+      "title": "薪火引路，筑梦前行——外国语学院顺利开展2026级研究生导师见面会",
+      "url": "https://sfs.shu.edu.cn/info/1142/31307.htm",
+      "date": "2026-09-21",
+      "column": "学院新闻"
+    },
+    {
+      "title": "铸魂赋能强党务，凝心聚力启新程——外国语学院2026级研究生党支部委员专题培训会顺利开展",
+      "url": "https://sfs.shu.edu.cn/info/1142/31327.htm",
+      "date": "2026-09-21",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年日语专八NSS8报考通知",
       "url": "https://sfs.shu.edu.cn/info/1141/31297.htm",
@@ -189,18 +201,6 @@
       "title": "外国语学院分工会开展六一“可爱上海“绘画活动",
       "url": "https://sfs.shu.edu.cn/info/1142/30687.htm",
       "date": "2026-06-01",
-      "column": "学院新闻"
-    },
-    {
-      "title": "融通中外，文明互鉴——上海大学第十三届莎士比亚戏剧节华彩呈现",
-      "url": "https://sfs.shu.edu.cn/info/1142/30657.htm",
-      "date": "2026-05-31",
-      "column": "学院新闻"
-    },
-    {
-      "title": "第六届“樱花国际日语杯”学术论坛在上海大学圆满举办",
-      "url": "https://sfs.shu.edu.cn/info/1142/30707.htm",
-      "date": "2026-05-31",
       "column": "学院新闻"
     },
     {

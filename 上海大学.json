@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260921_053535",
+  "crawl_time": "20260921_093936",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "奖助励学启新程 校企协同育英才——理学院数学系举行2026年阳阳教育基金颁奖典礼暨新致班开班仪式",
+      "url": "https://www.shu.edu.cn/info/1056/400965.htm",
+      "date": "2026-09-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "青春奋进正当时 尚法明理启新程——上海大学法学院2026级新生开学典礼暨导师见面会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/400985.htm",
+      "date": "2026-09-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上大温影主办！上海青浦国际青年影像季颁奖礼暨展映活动顺利举行，五部“青”味拉满的短片首映",
+      "url": "https://www.shu.edu.cn/info/1056/400995.htm",
+      "date": "2026-09-21",
+      "column": "综合新闻"
+    },
     {
       "title": "革命文物赋能“大思政课”！上海大学“初心印迹”火热开讲",
       "url": "https://mp.weixin.qq.com/s/sieR2ux1M2qWAZBaRN9rVQ",
@@ -82,24 +100,6 @@
       "url": "https://www.shu.edu.cn/info/1055/400825.htm",
       "date": "2026-09-17",
       "column": "科研动态"
-    },
-    {
-      "title": "法学院召开2026-2027新学年教工大会部署安全和发展工作",
-      "url": "https://www.shu.edu.cn/info/1056/400695.htm",
-      "date": "2026-09-17",
-      "column": "综合新闻"
-    },
-    {
-      "title": "为芯而来，如约而至！微电子学院2026级新生开学第一课顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/400795.htm",
-      "date": "2026-09-17",
-      "column": "综合新闻"
-    },
-    {
-      "title": "拥抱AI时代，启航卓越征程——上海大学2026级新生“院士第一课”顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/400805.htm",
-      "date": "2026-09-17",
-      "column": "综合新闻"
     },
     {
       "title": "“智启星火·科创逐梦” 2026青少年高校科学营上海大学星火馆常态营顺利开营",

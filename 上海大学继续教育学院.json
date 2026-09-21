@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260921_053535",
-  "total_articles": 1788,
+  "crawl_time": "20260921_093936",
+  "total_articles": 1790,
   "columns": {
-    "学院新闻": 546,
-    "招生热讯": 77,
+    "学院新闻": 547,
+    "招生热讯": 78,
     "通知公告": 1165
   },
   "articles": [
+    {
+      "title": "上海大学—新东方“出国语言培训班”招生简章（雅思A基础/B强化/C冲刺）",
+      "url": "https://cce.shu.edu.cn/info/1013/21014.htm",
+      "date": "2026-09-21",
+      "column": "招生热讯"
+    },
+    {
+      "title": "上海大学—新东方“出国语言培训班”招生简章（雅思A基础/B强化/C冲刺）",
+      "url": "https://cce.shu.edu.cn/info/1651/21024.htm",
+      "date": "2026-09-21",
+      "column": "学院新闻"
+    },
     {
       "title": "关于上海大学高等学历继续教育本科毕业生申请学士学位的通知",
       "url": "https://cce.shu.edu.cn/info/1464/21004.htm",

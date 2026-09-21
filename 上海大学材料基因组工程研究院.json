@@ -2,13 +2,13 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260921_053535",
-  "total_articles": 428,
+  "crawl_time": "20260921_093936",
+  "total_articles": 427,
   "columns": {
     "学术报告": 141,
     "科研动态": 80,
     "综合新闻": 46,
-    "通知公告": 161
+    "通知公告": 160
   },
   "articles": [
     {
@@ -16,12 +16,6 @@
       "url": "https://mgi.shu.edu.cn/info/1063/7645.htm",
       "date": "2026-09-20",
       "column": "科研动态"
-    },
-    {
-      "title": "2026年MGI研究生“宝钢奖学金”拟推荐人选公示",
-      "url": "https://mgi.shu.edu.cn/info/1062/7635.htm",
-      "date": "2026-09-18",
-      "column": "通知公告"
     },
     {
       "title": "关于2026年材料基因组工程研究院各类奖学金申报通知",

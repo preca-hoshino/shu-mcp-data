@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260921_053535",
-  "total_articles": 998,
+  "crawl_time": "20260921_093936",
+  "total_articles": 999,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 73,
-    "研究生教学": 209,
+    "研究生教学": 210,
     "科研动态": 118,
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "关于第113次校学位评定委员会会前准备工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1304/90054.htm",
+      "date": "2026-09-21",
+      "column": "研究生教学"
+    },
     {
       "title": "【迎新季】我院2026级新生开学典礼暨开学第一课圆满举行",
       "url": "https://mp.weixin.qq.com/s/CSbn_JfphJi9mt1vfh_-bg",
