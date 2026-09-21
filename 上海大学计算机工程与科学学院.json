@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260921_093936",
+  "crawl_time": "20260921_144907",
   "total_articles": 417,
   "columns": {
     "学术活动": 25,
@@ -20,6 +20,12 @@
     {
       "title": "逐梦启航，序启新章！计算机工程与科学学院2026级本科生迎新工作圆满落幕",
       "url": "https://mp.weixin.qq.com/s/7FLO5KJDCmZH4U1kPR_rPA",
+      "date": "2026-09-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "智启新程・数创未来 | 计算机学院学子参加2026华为全联接大会",
+      "url": "https://mp.weixin.qq.com/s/ZXx9QwAdEjyr_BZIR06KUA",
       "date": "2026-09-01",
       "column": "新闻动态"
     },
@@ -140,12 +146,6 @@
     {
       "title": "第三届“智联杯”华为无线程序设计竞赛暨2026年上海市大学生程序设计竞赛圆满举行！",
       "url": "https://mp.weixin.qq.com/s/p9k5ruO5K1bOkChFof7y0g",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "喜报｜计算机学院程彭洲、张新鹏文章被《新华文摘》转载！",
-      "url": "https://mp.weixin.qq.com/s/pEcXQJZvOAWIMWbbXx3okw",
       "date": "2026-07-01",
       "column": "新闻动态"
     },
