@@ -2,10 +2,10 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20260921_144907",
-  "total_articles": 176,
+  "crawl_time": "20260921_175511",
+  "total_articles": 175,
   "columns": {
-    "新闻公告": 176
+    "新闻公告": 175
   },
   "articles": [
     {
@@ -18,12 +18,6 @@
       "title": "关于开展2026年专业技术二级岗位申报工作的通知",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8429",
       "date": "2026-09-18",
-      "column": "新闻公告"
-    },
-    {
-      "title": "关于张贝思、杨洋同志申报艺术系列高级职称的公示",
-      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8419",
-      "date": "2026-09-15",
       "column": "新闻公告"
     },
     {
