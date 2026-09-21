@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260920_153148",
-  "total_articles": 3932,
+  "crawl_time": "20260921_053535",
+  "total_articles": 3933,
   "columns": {
     "主办会议": 41,
     "学术报告": 2646,
@@ -12,10 +12,16 @@
     "研究生教务": 15,
     "研究生新闻": 50,
     "科研动态": 310,
-    "综合新闻": 621,
+    "综合新闻": 622,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "奖助励学启新程 校企协同育英才—— 理学院数学系举行2026年阳阳教育基金颁奖典礼暨新致班开...",
+      "url": "https://scicol.shu.edu.cn/info/1007/33955.htm",
+      "date": "2026-09-21",
+      "column": "综合新闻"
+    },
     {
       "title": "物理系尹鑫茂课题组在《Nature Communications》上发表最新成果",
       "url": "https://scicol.shu.edu.cn/info/1008/33945.htm",

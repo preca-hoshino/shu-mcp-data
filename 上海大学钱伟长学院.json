@@ -2,14 +2,20 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20260920_153148",
-  "total_articles": 698,
+  "crawl_time": "20260921_053535",
+  "total_articles": 699,
   "columns": {
     "学术报告": 217,
-    "最新动态": 372,
+    "最新动态": 373,
     "通知公告": 109
   },
   "articles": [
+    {
+      "title": "中国科学院院士、上海交通大学讲席教授张荻来校作《材料的拓扑构型化复合》报告",
+      "url": "https://qwc.shu.edu.cn/info/1087/8479.htm",
+      "date": "2026-09-21",
+      "column": "最新动态"
+    },
     {
       "title": "钱伟长学院推荐2027年应届优秀本科毕业生免试攻读研究生工作细则",
       "url": "https://qwc.shu.edu.cn/info/1086/8419.htm",
