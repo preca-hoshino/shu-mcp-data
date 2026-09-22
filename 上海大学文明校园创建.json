@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260922_090412",
+  "crawl_time": "20260922_130327",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,42 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "革命文物赋能“大思政课”！上海大学“初心印迹”火热开讲",
+      "url": "https://mp.weixin.qq.com/s/sieR2ux1M2qWAZBaRN9rVQ",
+      "date": "2026-09-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "绷紧安全弦 筑牢防护网——上海大学召开2026年秋季安全工作会...",
+      "url": "https://www.shu.edu.cn/info/1056/400905.htm",
+      "date": "2026-09-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级...",
+      "url": "https://www.shu.edu.cn/info/1056/400915.htm",
+      "date": "2026-09-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "青春奋进正当时 尚法明理启新程——上海大学法学院2026级新生...",
+      "url": "https://www.shu.edu.cn/info/1056/400985.htm",
+      "date": "2026-09-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "相聚新起点，共筑青春梦——理学院2026级本科新生见面会顺利...",
+      "url": "https://www.shu.edu.cn/info/1056/401015.htm",
+      "date": "2026-09-22",
+      "column": "文明实践"
+    },
+    {
+      "title": "在党的诞生地触摸初心，“初心印迹”沉浸式教学走进中共一大...",
+      "url": "https://www.shu.edu.cn/info/1056/401035.htm",
+      "date": "2026-09-22",
+      "column": "文明实践"
+    },
     {
       "title": "智联海天科创铸防：上海大学亮相第二届全国青少年智能无人系...",
       "url": "https://www.shu.edu.cn/info/1056/400605.htm",
@@ -113,12 +149,6 @@
       "column": "校园动态"
     },
     {
-      "title": "三十余国青年镜绘青浦，光影赋能文化出海！上大温影主办国际...",
-      "url": "https://www.shu.edu.cn/info/1056/400035.htm",
-      "date": "2026-08-17",
-      "column": "文明实践"
-    },
-    {
       "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/400065.htm",
       "date": "2026-08-17",
@@ -143,12 +173,6 @@
       "column": "校园动态"
     },
     {
-      "title": "从文字指令到影像表达：这些上海大学文学院师生在温影“拍”A...",
-      "url": "https://www.shu.edu.cn/info/1056/399875.htm",
-      "date": "2026-08-10",
-      "column": "文明实践"
-    },
-    {
       "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
       "url": "https://mp.weixin.qq.com/s/UG4ignn-5TDhNN5Ci2ql-Q",
       "date": "2026-08-03",
@@ -165,30 +189,6 @@
       "url": "https://www.shu.edu.cn/info/1053/399865.htm",
       "date": "2026-08-03",
       "column": "校园动态"
-    },
-    {
-      "title": "马克思主义学院党委与计算机工程与科学学院党委开展党委理论...",
-      "url": "https://www.shu.edu.cn/info/1056/399775.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "党建引领促合作 产教融合谋发展——生命学院赴临港奉贤平台开...",
-      "url": "https://www.shu.edu.cn/info/1056/399795.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "马克思主义学院“青马之声”宣讲团赴疆 开展“沪喀同心·青春...",
-      "url": "https://www.shu.edu.cn/info/1056/399815.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
-    },
-    {
-      "title": "排查隐患守底线 平安护航度暑期——学校开展2026年暑假前安全...",
-      "url": "https://www.shu.edu.cn/info/1056/399825.htm",
-      "date": "2026-08-03",
-      "column": "文明实践"
     },
     {
       "title": "越南科学技术部部长武海军一行访问上海大学",

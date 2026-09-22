@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20260922_090412",
-  "total_articles": 64,
+  "crawl_time": "20260922_130327",
+  "total_articles": 65,
   "columns": {
     "招生简章": 27,
-    "要闻速递": 37
+    "要闻速递": 38
   },
   "articles": [
+    {
+      "title": "第八期临港新片区干部专业化能力提升培训顺利启动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/15058.htm",
+      "date": "2026-09-22",
+      "column": "要闻速递"
+    },
     {
       "title": "上海总工程师协会举办“科技金融产业赋能”专题培训",
       "url": "https://jgzx.shu.edu.cn/info/1017/14998.htm",

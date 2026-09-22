@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260922_090412",
+  "crawl_time": "20260922_130327",
   "total_articles": 631,
   "columns": {
     "焦点新闻": 374,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于开展 2026-2027学年上海大学家庭经济困难研究生认定工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27551.htm",
+      "date": "2026-09-22",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026年上海大学MBA中心研究生奖学金申报工作的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27531.htm",
@@ -266,12 +272,6 @@
       "title": "2026上大MBA录取通知书创意征集，文创好礼等你来！",
       "url": "https://mp.weixin.qq.com/s/whDgmT5VQxiY6t7Go-aOpg",
       "date": "2026-07-15",
-      "column": "通知公告"
-    },
-    {
-      "title": "【线上课程】2026年暑期PBL交叉学科线上课程",
-      "url": "https://mp.weixin.qq.com/s/ARMYBqKvtIqFM1vCFPq-dg",
-      "date": "2026-07-14",
       "column": "通知公告"
     },
     {
