@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260921_175511",
+  "crawl_time": "20260922_053211",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "新出炉！《2025上海科技成果转化白皮书》Unit5：借鉴篇",
+      "url": "https://mp.weixin.qq.com/s/fN0ySOK99c6MViPHEf9LuA",
+      "date": "2026-09-21",
+      "column": "科技动态"
+    },
     {
       "title": "上海市无机二维超材料原子调控及应用重点实验室2026年开放课题申请指南",
       "url": "https://kyglb.shu.edu.cn/info/1011/12582.htm",
@@ -261,12 +267,6 @@
       "title": "脑机接口新赛道跑出“上海速度”｜聚焦张江高新区新赛道",
       "url": "https://mp.weixin.qq.com/s/xKS4Andjut7qVFPZtYFY5Q",
       "date": "2026-07-23",
-      "column": "科技动态"
-    },
-    {
-      "title": "“五核”上海：不简单复刻纽伦巴东，“飞轮效应”激发“能级领跑”",
-      "url": "https://mp.weixin.qq.com/s/ph5p4zvsu9QuyKwb24H0uA",
-      "date": "2026-07-21",
       "column": "科技动态"
     },
     {

@@ -2,12 +2,12 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20260921_175511",
-  "total_articles": 1770,
+  "crawl_time": "20260922_053211",
+  "total_articles": 1771,
   "columns": {
     "新闻": 44,
     "讲座": 464,
-    "通知公告": 1262
+    "通知公告": 1263
   },
   "articles": [
     {
@@ -3529,6 +3529,12 @@
     {
       "title": "上海电影学院接收2027年推免生（含直博生）招生工作方案",
       "url": "https://sfa.shu.edu.cn/info/1212/44024.htm",
+      "date": "",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海电影学院新大楼空间有偿使用收费标准公示",
+      "url": "https://sfa.shu.edu.cn/info/1212/44034.htm",
       "date": "",
       "column": "通知公告"
     },

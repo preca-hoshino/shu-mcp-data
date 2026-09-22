@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20260921_175511",
-  "total_articles": 2030,
+  "crawl_time": "20260922_053211",
+  "total_articles": 2031,
   "columns": {
     "学术报告": 523,
     "教学信息": 21,
     "新闻动态": 1267,
-    "通知公告": 219
+    "通知公告": 220
   },
   "articles": [
+    {
+      "title": "通信与信息工程学院2026年校长奖学金、研究生国家奖学金评审实施细则",
+      "url": "https://scie.shu.edu.cn/info/1065/46995.htm",
+      "date": "2026-09-22",
+      "column": "通知公告"
+    },
     {
       "title": "华勤技术股份有限公司到访上海大学开展校企交流座谈",
       "url": "https://scie.shu.edu.cn/info/1064/46985.htm",

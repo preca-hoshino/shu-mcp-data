@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260921_175511",
-  "total_articles": 1993,
+  "crawl_time": "20260922_053211",
+  "total_articles": 1994,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
     "学院周志": 311,
     "科研动态": 481,
     "综合新闻": 524,
-    "通知公告": 427
+    "通知公告": 428
   },
   "articles": [
+    {
+      "title": "2026年文学院研究生奖学金评审细则",
+      "url": "https://cla.shu.edu.cn/info/1017/54008.htm",
+      "date": "2026-09-22",
+      "column": "通知公告"
+    },
     {
       "title": "文学院2027年推免生招生复试工作实施方案",
       "url": "https://cla.shu.edu.cn/info/1017/53978.htm",

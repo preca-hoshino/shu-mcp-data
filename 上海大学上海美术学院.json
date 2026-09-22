@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260921_175511",
-  "total_articles": 721,
+  "crawl_time": "20260922_053211",
+  "total_articles": 722,
   "columns": {
     "党建工作": 47,
     "学术讲座": 55,
     "学生工作": 42,
-    "学院新闻": 336,
+    "学院新闻": 337,
     "展览展示": 24,
     "教学": 166,
     "科研": 35,
     "通知公告": 16
   },
   "articles": [
+    {
+      "title": "上海美术学院召开2026年秋季中层干部工作会",
+      "url": "https://safa.shu.edu.cn/info/1084/20020.htm",
+      "date": "2026-09-22",
+      "column": "学院新闻"
+    },
     {
       "title": "国家留学基金委项目报名启动（2026年度第二批次）",
       "url": "https://safa.shu.edu.cn/info/1122/20010.htm",

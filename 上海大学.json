@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260921_175511",
+  "crawl_time": "20260922_053211",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,30 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "深化政校企对接  共促科创人才培养——通信与信息工程学院赴宝山区政协开展政校企交流座谈",
+      "url": "https://www.shu.edu.cn/info/1056/401005.htm",
+      "date": "2026-09-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "相聚新起点，共筑青春梦——理学院2026级本科新生见面会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/401015.htm",
+      "date": "2026-09-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "在党的诞生地触摸初心，“初心印迹”沉浸式教学走进中共一大纪念馆",
+      "url": "https://www.shu.edu.cn/info/1056/401035.htm",
+      "date": "2026-09-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "法学院“数智知识产权发展基金”捐赠仪式举行",
+      "url": "https://www.shu.edu.cn/info/1056/401045.htm",
+      "date": "2026-09-22",
+      "column": "综合新闻"
+    },
     {
       "title": "奖助励学启新程 校企协同育英才——理学院数学系举行2026年阳阳教育基金颁奖典礼暨新致班开班仪式",
       "url": "https://www.shu.edu.cn/info/1056/400965.htm",
@@ -27,12 +51,6 @@
       "title": "上大温影主办！上海青浦国际青年影像季颁奖礼暨展映活动顺利举行，五部“青”味拉满的短片首映",
       "url": "https://www.shu.edu.cn/info/1056/400995.htm",
       "date": "2026-09-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "革命文物赋能“大思政课”！上海大学“初心印迹”火热开讲",
-      "url": "https://mp.weixin.qq.com/s/sieR2ux1M2qWAZBaRN9rVQ",
-      "date": "2026-09-20",
       "column": "综合新闻"
     },
     {
@@ -72,18 +90,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "理学院2025级本科分流新生见面会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/400835.htm",
-      "date": "2026-09-18",
-      "column": "综合新闻"
-    },
-    {
-      "title": "国际教育学院召开2026-2027学年秋季学期全院教职工大会",
-      "url": "https://www.shu.edu.cn/info/1056/400845.htm",
-      "date": "2026-09-18",
-      "column": "综合新闻"
-    },
-    {
       "title": "上海大学召开树立和践行正确政绩观学习教育总结会",
       "url": "https://mp.weixin.qq.com/s/da80qy9FMYH-23ebMFA3Vw",
       "date": "2026-09-17",
@@ -100,12 +106,6 @@
       "url": "https://www.shu.edu.cn/info/1055/400825.htm",
       "date": "2026-09-17",
       "column": "科研动态"
-    },
-    {
-      "title": "“智启星火·科创逐梦” 2026青少年高校科学营上海大学星火馆常态营顺利开营",
-      "url": "https://www.shu.edu.cn/info/1056/400815.htm",
-      "date": "2026-09-17",
-      "column": "综合新闻"
     },
     {
       "title": "材料学院高彦峰教授团队在《Review of Materials Research》发表废锂电池正极材料回收领域研究成果",
