@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260922_053211",
+  "crawl_time": "20260922_090412",
   "total_articles": 1821,
   "columns": {
     "政策文件": 58,
@@ -11,15 +11,15 @@
   },
   "articles": [
     {
-      "title": "关于选拔学生参加数智化未来教学实验班的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/322004.htm",
-      "date": "2026-09-21",
+      "title": "关于第十七届“正大杯”上海市大学生市场调查分析大赛上海大学校赛的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322014.htm",
+      "date": "2026-09-22",
       "column": "通知公告"
     },
     {
-      "title": "第七届上海大学教师教学创新大赛入围决赛环节选手公示",
-      "url": "https://bksy.shu.edu.cn/info/1015/321984.htm",
-      "date": "2026-09-18",
+      "title": "关于选拔学生参加数智化未来教学实验班的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322004.htm",
+      "date": "2026-09-21",
       "column": "通知公告"
     },
     {
