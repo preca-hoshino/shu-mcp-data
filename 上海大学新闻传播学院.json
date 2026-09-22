@@ -2,10 +2,10 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20260922_130327",
-  "total_articles": 228,
+  "crawl_time": "20260922_162205",
+  "total_articles": 229,
   "columns": {
-    "党务公开": 12,
+    "党务公开": 13,
     "媒体聚焦": 14,
     "学术讲座": 45,
     "学院公告": 62,
@@ -14,6 +14,12 @@
     "综合新闻": 42
   },
   "articles": [
+    {
+      "title": "上海大学新闻传播学院召开树立和践行正确政绩观学习教育总结会",
+      "url": "https://sjc.shu.edu.cn/info/1002/6649.htm",
+      "date": "2026-09-22",
+      "column": "党务公开"
+    },
     {
       "title": "上海大学新闻传播学院接收2027级推荐免试研究生工作方案",
       "url": "https://sjc.shu.edu.cn/info/1005/6639.htm",
