@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20260923_052013",
+  "crawl_time": "20260923_090708",
   "total_articles": 1610,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,12 @@
     "新闻快递": 172
   },
   "articles": [
+    {
+      "title": "Seminar第3075讲 三角翼与Λ形乘波体的超音速绕流",
+      "url": "https://math.shu.edu.cn/info/1042/27161.htm",
+      "date": "2026-09-22",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar 第3073讲 球面平均及其极大形式",
       "url": "https://math.shu.edu.cn/info/1042/27141.htm",
@@ -134,12 +140,6 @@
       "title": "Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
       "url": "https://math.shu.edu.cn/info/1042/26881.htm",
       "date": "2026-06-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3056讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(1)",
-      "url": "https://math.shu.edu.cn/info/1042/26861.htm",
-      "date": "2026-06-03",
       "column": "学术报告"
     },
     {

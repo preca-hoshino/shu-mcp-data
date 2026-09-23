@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260923_052013",
-  "total_articles": 584,
+  "crawl_time": "20260923_090708",
+  "total_articles": 585,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 34,
     "学院新闻": 57,
-    "通知公告": 93
+    "通知公告": 94
   },
   "articles": [
+    {
+      "title": "关于举办2026年“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛上海大学校选赛暨第十届上海大学“海星杯”系列赛事比赛的通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/31377.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
     {
       "title": "薪火引路，筑梦前行——外国语学院顺利开展2026级研究生导师见面会",
       "url": "https://sfs.shu.edu.cn/info/1142/31307.htm",

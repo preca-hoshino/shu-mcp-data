@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260923_052013",
+  "crawl_time": "20260923_090708",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -20,6 +20,12 @@
     {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“新能源技术攻关”项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12612.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“医学创新研究”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12622.htm",
       "date": "2026-09-23",
       "column": "通知公告"
     },
@@ -226,12 +232,6 @@
       "url": "https://mp.weixin.qq.com/s/HJSsBSRpafGMhjRO0rkhZg?click_id=1822241106",
       "date": "2026-08-03",
       "column": "科技动态"
-    },
-    {
-      "title": "关于发布新一代人工智能国家科技重大专项2026年度“以赛代评”公开项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12172.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
     },
     {
       "title": "国家卫生健康委科教司关于发布创新药物研发国家科技重大专项2027年度项目申报指南的通知",

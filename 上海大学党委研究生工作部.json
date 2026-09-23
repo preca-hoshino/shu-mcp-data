@@ -2,13 +2,19 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20260923_052013",
-  "total_articles": 2815,
+  "crawl_time": "20260923_090708",
+  "total_articles": 2816,
   "columns": {
     "新闻动态": 2601,
-    "通知公告": 214
+    "通知公告": 215
   },
   "articles": [
+    {
+      "title": "关于评审2026年上海大学费孝通教育奖学金的通知",
+      "url": "https://dwygb.shu.edu.cn/info/1050/41489.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
     {
       "title": "研途启新，逐光前行！上海大学2026年研究生开学典礼举行！",
       "url": "https://mp.weixin.qq.com/s/mkKDue8W7_2iUYYl0F0d5g",

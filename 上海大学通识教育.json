@@ -2,13 +2,19 @@
   "domain": "sdts.shu.edu.cn",
   "department": "上海大学通识教育",
   "type": "05",
-  "crawl_time": "20260515_013355",
-  "total_articles": 69,
+  "crawl_time": "20260923_090708",
+  "total_articles": 70,
   "columns": {
     "新闻动态": 59,
-    "通知公告": 10
+    "通知公告": 11
   },
   "articles": [
+    {
+      "title": "关于开展2026年度通识示范课程立项申报工作的通知",
+      "url": "https://sdts.shu.edu.cn/info/1581/20503.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
     {
       "title": "通识示范课公开课《考古发现与华夏文明》开讲",
       "url": "https://sdts.shu.edu.cn/info/1037/19133.htm",
