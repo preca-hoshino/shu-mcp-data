@@ -2,15 +2,39 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20260923_090708",
-  "total_articles": 68,
+  "crawl_time": "20260923_131941",
+  "total_articles": 72,
   "columns": {
     "新闻动态": 25,
     "科研动态": 6,
-    "通知公告": 26,
+    "通知公告": 30,
     "集中课程": 11
   },
   "articles": [
+    {
+      "title": "卓越工程师学院关于开展2026年度示范性校企导师团队申报的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/2991.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "卓越工程师学院关于征集2026年度产教融合课程的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/3001.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "卓越工程师学院研究生创新实践项目申报通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/3011.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "卓越工程师学院关于征集2026年度教学课程案例的通知",
+      "url": "https://zhgy.shu.edu.cn/info/1021/3021.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
     {
       "title": "走近产教前沿！两场专题活动，助力上大学子逐梦硬核科技领域",
       "url": "https://mp.weixin.qq.com/s/Qk8TwPisa7hpq3QYzwvELw",
