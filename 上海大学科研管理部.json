@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260922_162205",
+  "crawl_time": "20260923_052013",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第三批项目（非密...",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12602.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“新能源技术攻关”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12612.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
     {
       "title": "新出炉！《2025上海科技成果转化白皮书》Unit5：借鉴篇",
       "url": "https://mp.weixin.qq.com/s/fN0ySOK99c6MViPHEf9LuA",
@@ -214,18 +226,6 @@
       "url": "https://mp.weixin.qq.com/s/HJSsBSRpafGMhjRO0rkhZg?click_id=1822241106",
       "date": "2026-08-03",
       "column": "科技动态"
-    },
-    {
-      "title": "国家卫生健康委科教司关于发布癌症、心脑血管、呼吸和代谢性疾病防治研究国家科技重大专项2027年度项目...",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12152.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "工业和信息化部关于发布国家重点研发计划“高端科研仪器研制”重点专项2026年度（第一批）项目申报指南...",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12162.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
     },
     {
       "title": "关于发布新一代人工智能国家科技重大专项2026年度“以赛代评”公开项目申报指南的通知",

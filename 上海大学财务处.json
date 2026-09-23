@@ -2,13 +2,19 @@
   "domain": "cwc.shu.edu.cn",
   "department": "上海大学财务处",
   "type": "17",
-  "crawl_time": "20260922_162205",
-  "total_articles": 56,
+  "crawl_time": "20260923_052013",
+  "total_articles": 57,
   "columns": {
     "信息动态": 25,
-    "通知公告": 31
+    "通知公告": 32
   },
   "articles": [
+    {
+      "title": "关于我校学费收取和结算的说明",
+      "url": "https://cwc.shu.edu.cn/info/1041/7444.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026-2027学年学费和住宿费缴费通知",
       "url": "https://cwc.shu.edu.cn/info/1041/7384.htm",
