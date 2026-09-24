@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260923_161223",
-  "total_articles": 999,
+  "crawl_time": "20260924_053523",
+  "total_articles": 1001,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
-    "本科生教学": 73,
-    "研究生教学": 210,
+    "本科生教学": 74,
+    "研究生教学": 211,
     "科研动态": 118,
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "关于开展2026年度通识示范课程立项申报工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1303/90064.htm",
+      "date": "2026-09-24",
+      "column": "本科生教学"
+    },
+    {
+      "title": "2026年度研究生宝钢奖学金候选人名单公示",
+      "url": "https://ece.shu.edu.cn/info/1304/90084.htm",
+      "date": "2026-09-24",
+      "column": "研究生教学"
+    },
     {
       "title": "关于第113次校学位评定委员会会前准备工作的通知",
       "url": "https://ece.shu.edu.cn/info/1304/90054.htm",

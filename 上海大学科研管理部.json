@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260923_161223",
+  "crawl_time": "20260924_053523",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -26,6 +26,24 @@
     {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“医学创新研究”项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12622.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（重点支撑类—第一批）”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12632.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（重点支撑类—第二批）”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12642.htm",
+      "date": "2026-09-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（启明星计划）”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12652.htm",
       "date": "2026-09-23",
       "column": "通知公告"
     },
@@ -232,24 +250,6 @@
       "url": "https://mp.weixin.qq.com/s/HJSsBSRpafGMhjRO0rkhZg?click_id=1822241106",
       "date": "2026-08-03",
       "column": "科技动态"
-    },
-    {
-      "title": "国家卫生健康委科教司关于发布创新药物研发国家科技重大专项2027年度项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12182.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "国家卫生健康委科教司关于发布新发突发与重大传染病防控国家科技重大专项2027年度项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12192.htm",
-      "date": "2026-07-31",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海大学科研管理部-2026年暑假值班安排",
-      "url": "https://mp.weixin.qq.com/s/190V_mb-y8N2g4o9IFIDNQ",
-      "date": "2026-07-31",
-      "column": "通知公告"
     },
     {
       "title": "聚焦青年科技创新力量，新一届TR35中国区入选者名单在上海发布",

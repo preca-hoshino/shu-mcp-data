@@ -2,14 +2,14 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20260923_161223",
-  "total_articles": 26,
+  "crawl_time": "20260924_053523",
+  "total_articles": 27,
   "columns": {
     "开放课题": 1,
     "招生招聘": 1,
     "新闻资讯": 10,
     "研究成果": 5,
-    "通知公告": 9
+    "通知公告": 10
   },
   "articles": [
     {
@@ -69,6 +69,12 @@
     {
       "title": "2026年清明、五一、端午假期值班表",
       "url": "https://skl4nm.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1031&wbnewsid=1751",
+      "date": "2026-04-02",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年中秋国庆假期值班表",
+      "url": "https://skl4nm.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1031&wbnewsid=2071",
       "date": "2026-04-02",
       "column": "通知公告"
     },
