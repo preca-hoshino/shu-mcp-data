@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260924_053523",
+  "crawl_time": "20260924_090206",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "2026年人大换届选举上海大学选区召开工作推进会",
+      "url": "https://www.shu.edu.cn/info/1053/401145.htm",
+      "date": "2026-09-24",
+      "column": "重要新闻"
+    },
+    {
+      "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
+      "url": "https://www.shu.edu.cn/info/1056/401155.htm",
+      "date": "2026-09-24",
+      "column": "综合新闻"
+    },
     {
       "title": "“聚焦重点专栏建设·构建中国自主知识体系：学术期刊高质量发展研讨会”在上海大学举行",
       "url": "https://www.shu.edu.cn/info/1056/401065.htm",
@@ -57,12 +69,6 @@
       "title": "筑梦蓝天 使命必达——继续教育学院举办\"业界导师引领工程\"之\"劳模工匠课堂\"暨2026-2027学年秋季学期首日教育",
       "url": "https://www.shu.edu.cn/info/1056/401135.htm",
       "date": "2026-09-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "在党的诞生地触摸初心，“初心印迹”沉浸式教学走进中共一大纪念馆",
-      "url": "https://www.shu.edu.cn/info/1056/401035.htm",
-      "date": "2026-09-22",
       "column": "综合新闻"
     },
     {
@@ -201,12 +207,6 @@
       "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
       "url": "https://mp.weixin.qq.com/s/4WmJ7ODzfLywFlrB5QnDKw",
       "date": "2026-08-01",
-      "column": "重要新闻"
-    },
-    {
-      "title": "我校召开综改任务落实推进会",
-      "url": "https://www.shu.edu.cn/info/1053/399865.htm",
-      "date": "2026-07-31",
       "column": "重要新闻"
     },
     {

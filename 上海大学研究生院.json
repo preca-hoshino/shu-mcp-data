@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260924_053523",
-  "total_articles": 124,
+  "crawl_time": "20260924_090206",
+  "total_articles": 125,
   "columns": {
     "国际交流": 46,
-    "培养管理": 24,
+    "培养管理": 25,
     "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "2026年港澳及华侨学生奖学金、台湾学生奖学金建议获奖学生名单公示",
+      "url": "https://gs.shu.edu.cn/info/1029/173282.htm",
+      "date": "2026-09-24",
+      "column": "培养管理"
+    },
     {
       "title": "转发：关于举办第十八届国际研究生奖学金信息说明会活动的通知",
       "url": "https://gs.shu.edu.cn/info/1030/173272.htm",

@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260924_053523",
+  "crawl_time": "20260924_090206",
   "total_articles": 631,
   "columns": {
     "焦点新闻": 374,
@@ -10,6 +10,18 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "2027研考，报名和初试时间定了",
+      "url": "https://mp.weixin.qq.com/s/JAHRBFLsWsjRBc7Xd0CLbQ",
+      "date": "2026-09-24",
+      "column": "通知公告"
+    },
+    {
+      "title": "海外学习|2027年度春季学期海外交换宣讲会顺利进行",
+      "url": "https://mp.weixin.qq.com/s/JBtT4M6zfxTaSWDrlydi8w",
+      "date": "2026-09-24",
+      "column": "论坛活动"
+    },
     {
       "title": "喜报|上海大学MBA中心教师开发案例入选中欧案例中心百佳课堂案例榜",
       "url": "https://mp.weixin.qq.com/s/Q7GolS1ATyz6JstqIhPJOg",
@@ -263,12 +275,6 @@
       "column": "论坛活动"
     },
     {
-      "title": "关于组织开展2026年上海大学研究生新时代伟大变革暑期实践活动的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27101.htm",
-      "date": "2026-07-16",
-      "column": "通知公告"
-    },
-    {
       "title": "2026级上大MBA国际新生画像出炉：多元汇聚，共赴新程",
       "url": "https://mp.weixin.qq.com/s/pBonQfJORc8NXPdM1IPnwQ?scene=1&click_id=1365382592",
       "date": "2026-07-16",
@@ -284,12 +290,6 @@
       "title": "三座奖杯，九种滚烫|上海大学MBA战队HYROX杭州站",
       "url": "https://mp.weixin.qq.com/s/aaDFYklHDNxC9g60d-ruPg",
       "date": "2026-07-13",
-      "column": "论坛活动"
-    },
-    {
-      "title": "上海大学MBA 25GI智能制造方向《可持续生产》课堂教学与实践",
-      "url": "https://mp.weixin.qq.com/s/A1JkBm-_lhpgjk9EdeW5aw",
-      "date": "2026-07-08",
       "column": "论坛活动"
     },
     {
