@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20260924_090206",
+  "crawl_time": "20260924_130855",
   "total_articles": 417,
   "columns": {
     "学术活动": 25,
@@ -26,6 +26,18 @@
     {
       "title": "智启新程・数创未来 | 计算机学院学子参加2026华为全联接大会",
       "url": "https://mp.weixin.qq.com/s/ZXx9QwAdEjyr_BZIR06KUA",
+      "date": "2026-09-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "计算机工程与科学学院召开树立和践行正确政绩观学习教育总结会",
+      "url": "https://mp.weixin.qq.com/s/emvnL6jpjz7k20Mm7Qx1UQ",
+      "date": "2026-09-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校党委书记吴坚勇带队调研计算机学院转型发展工作",
+      "url": "https://mp.weixin.qq.com/s/wvdkCitl046IJA_pGXrajQ",
       "date": "2026-09-01",
       "column": "新闻动态"
     },
@@ -82,12 +94,6 @@
       "url": "https://mp.weixin.qq.com/s/7NpMFRf-QTgFuNX9TvmGkg",
       "date": "2026-07-01",
       "column": "风采展示"
-    },
-    {
-      "title": "喜报 | 计算机工程与科学学院博士研究生第一党支部入选第四批全国高校“百个研究生样板党支部”培育创建单位",
-      "url": "https://mp.weixin.qq.com/s/Ahcz8_-wyk7F5LmYdPP_qw",
-      "date": "2026-07-01",
-      "column": "新闻动态"
     },
     {
       "title": "本科生风采 | 榜样领航，青春飞扬——2026届优秀毕业生张婧怡",
@@ -152,12 +158,6 @@
     {
       "title": "行走课堂丨走进哔哩哔哩，感受企业创新活力",
       "url": "https://mp.weixin.qq.com/s/pgKjXGHm0K7PYkLfwabjxg",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "走进WAIC！计算机学院研究生参与研发人形消防巡检机器人",
-      "url": "https://mp.weixin.qq.com/s/unT1sTxTHyJ2Ap-D6HeAzQ",
       "date": "2026-07-01",
       "column": "新闻动态"
     },

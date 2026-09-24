@@ -2,18 +2,18 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260924_090206",
-  "total_articles": 3937,
+  "crawl_time": "20260924_130855",
+  "total_articles": 3967,
   "columns": {
     "主办会议": 41,
     "学术报告": 2648,
-    "本科生教务": 39,
+    "本科生教务": 40,
     "本科生新闻": 48,
-    "研究生教务": 15,
+    "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 310,
     "综合新闻": 623,
-    "通知公告": 163
+    "通知公告": 162
   },
   "articles": [
     {
@@ -77,6 +77,12 @@
       "column": "通知公告"
     },
     {
+      "title": "理学院关于2027年接收推荐免试攻读硕士学位研究生（含直博生）的工作安排",
+      "url": "https://scicol.shu.edu.cn/info/1009/34025.htm",
+      "date": "2026-09-16",
+      "column": "研究生教务"
+    },
+    {
       "title": "理学院喜迎2026级研究生新生",
       "url": "https://mp.weixin.qq.com/s/3agxCpwDQWATITOoKHTpyw",
       "date": "2026-09-13",
@@ -93,6 +99,12 @@
       "url": "https://scicol.shu.edu.cn/info/1006/33805.htm",
       "date": "2026-09-04",
       "column": "通知公告"
+    },
+    {
+      "title": "2027年推免工作相关附件文件",
+      "url": "https://scicol.shu.edu.cn/info/1010/34045.htm",
+      "date": "2026-09-04",
+      "column": "本科生教务"
     },
     {
       "title": "“AI + 无限万象”人工智能创新大赛第二届“新致杯”· 报名通道正式开启",
@@ -5105,6 +5117,12 @@
       "column": "科研动态"
     },
     {
+      "title": "理学院关于2025年接收推荐免试攻读硕士学位研究生（含直博生）的工作安排",
+      "url": "https://scicol.shu.edu.cn/PDF1/20240921-1.pdf",
+      "date": "2024-09-21",
+      "column": "研究生教务"
+    },
+    {
       "title": "2024年理学院研究生国家奖学金评审实施细则",
       "url": "https://scicol.shu.edu.cn/PDF1/20240921-5.pdf",
       "date": "2024-09-21",
@@ -5333,6 +5351,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "关于第103次理学学科学位评定分委员会会前准备工作",
+      "url": "https://scicol.shu.edu.cn/PDF/20240906.pdf",
+      "date": "2024-09-06",
+      "column": "研究生教务"
+    },
+    {
       "title": "数学系一行拜访优秀校友企业---百维金科",
       "url": "https://scicol.shu.edu.cn/info/1007/22845.htm",
       "date": "2024-09-06",
@@ -5457,6 +5481,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/22565.htm",
       "date": "2024-08-23",
       "column": "综合新闻"
+    },
+    {
+      "title": "2024年上海大学理学院物理系优秀大学生夏令营成功举办",
+      "url": "https://scicol.shu.edu.cn/info/1009/22575.htm",
+      "date": "2024-08-23",
+      "column": "研究生教务"
     },
     {
       "title": "量子科技研究院Seminar第17讲/物理学科Seminar第677讲 准一维玻色爱因斯坦凝聚与TG气体混合物...",
@@ -6095,6 +6125,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "关于第101次理学学科学位评定分委员会会前准备工作的通知",
+      "url": "https://scicol.shu.edu.cn/PDF/20240517-1.pdf",
+      "date": "2024-05-17",
+      "column": "研究生教务"
+    },
+    {
       "title": "数学学科Seminar第2649讲 分布阶数学模型的稳定分布高斯正交格式",
       "url": "https://scicol.shu.edu.cn/info/1003/21115.htm",
       "date": "2024-05-17",
@@ -6177,6 +6213,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/20965.htm",
       "date": "2024-05-09",
       "column": "学术报告"
+    },
+    {
+      "title": "关于2024年理学院博士研究生招生复试工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20240508.pdf",
+      "date": "2024-05-08",
+      "column": "研究生教务"
     },
     {
       "title": "物理学科Seminar第659讲 大尺寸单晶二维材料的制备及应用",
@@ -6395,6 +6437,24 @@
       "column": "学术报告"
     },
     {
+      "title": "上海大学理学院化学学科2024年硕士研究生招生调剂工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20240403-c.pdf",
+      "date": "2024-04-03",
+      "column": "研究生教务"
+    },
+    {
+      "title": "上海大学理学院数学系2024年专业硕士研究生招生调剂工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20240403-m.pdf",
+      "date": "2024-04-03",
+      "column": "研究生教务"
+    },
+    {
+      "title": "上海大学理学院物理系2024年硕士研究生招生调剂工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20240403-p.pdf",
+      "date": "2024-04-03",
+      "column": "研究生教务"
+    },
+    {
       "title": "物理系2023年康阔奖学金颁奖典礼顺利举行",
       "url": "https://scicol.shu.edu.cn/info/1007/20385.htm",
       "date": "2024-04-03",
@@ -6455,6 +6515,12 @@
       "column": "学术报告"
     },
     {
+      "title": "关于第100次理学学科学位评定分委员会会前准备工作的通知",
+      "url": "https://scicol.shu.edu.cn/info/1009/20215.htm",
+      "date": "2024-03-28",
+      "column": "研究生教务"
+    },
+    {
       "title": "数学学科Seminar第2633讲 通用的成对比较模型",
       "url": "https://scicol.shu.edu.cn/info/1003/20185.htm",
       "date": "2024-03-27",
@@ -6495,6 +6561,18 @@
       "url": "https://scicol.shu.edu.cn/info/1003/20145.htm",
       "date": "2024-03-25",
       "column": "学术报告"
+    },
+    {
+      "title": "关于2024年理学院硕士研究生招生复试工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20240324.pdf",
+      "date": "2024-03-24",
+      "column": "研究生教务"
+    },
+    {
+      "title": "2024年理学院研究生招生咨询电话公布",
+      "url": "https://scicol.shu.edu.cn/info/1009/20125.htm",
+      "date": "2024-03-23",
+      "column": "研究生教务"
     },
     {
       "title": "双向奔赴“职”等“理”来——昆明理工大学理学院一行来访上海大学理学院",
@@ -6701,6 +6779,12 @@
       "column": "学术报告"
     },
     {
+      "title": "关于做好2024届研究生优秀毕业生评选推荐工作的通知",
+      "url": "https://scicol.shu.edu.cn/PDF/20240116-05.pdf",
+      "date": "2024-01-16",
+      "column": "研究生教务"
+    },
+    {
       "title": "物理学科本科生全程导师交流会顺利举行",
       "url": "https://scicol.shu.edu.cn/info/1007/19585.htm",
       "date": "2024-01-16",
@@ -6747,6 +6831,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/19495.htm",
       "date": "2024-01-09",
       "column": "学术报告"
+    },
+    {
+      "title": "理学院2022级学术型硕士研究生硕博连读资格认定名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/19475.htm",
+      "date": "2024-01-09",
+      "column": "研究生教务"
     },
     {
       "title": "理学院顺利开展“学习青年标杆，筑梦国防事业” ——国防教育暨入伍政策解读主题活动",
@@ -6899,6 +6989,24 @@
       "column": "本科生新闻"
     },
     {
+      "title": "2024年上海大学理学院化学学科硕博连读研究生考核工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20231226-C.pdf",
+      "date": "2023-12-26",
+      "column": "研究生教务"
+    },
+    {
+      "title": "2024年上海大学理学院数学系硕博连读研究生考核工作办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20231226-M.pdf",
+      "date": "2023-12-26",
+      "column": "研究生教务"
+    },
+    {
+      "title": "2024年上海大学理学院物理系硕博连读资格认定实施办法",
+      "url": "https://scicol.shu.edu.cn/PDF/20231226-P.pdf",
+      "date": "2023-12-26",
+      "column": "研究生教务"
+    },
+    {
       "title": "数学学科Seminar第2618讲 多部竞赛图的类点/弧泛圈性",
       "url": "https://scicol.shu.edu.cn/info/1003/19045.htm",
       "date": "2023-12-25",
@@ -6933,6 +7041,12 @@
       "url": "https://scicol.shu.edu.cn/info/1008/19075.htm",
       "date": "2023-12-25",
       "column": "科研动态"
+    },
+    {
+      "title": "理学院2022级学术型硕士研究生硕博连读预备生申请与推荐名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/19105.htm",
+      "date": "2023-12-25",
+      "column": "研究生教务"
     },
     {
       "title": "“一站到底”化学知识竞赛如约而至",
@@ -7311,6 +7425,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/18335.htm",
       "date": "2023-11-27",
       "column": "综合新闻"
+    },
+    {
+      "title": "关于第99次理学学科学位评定分委员会会前准备工作的通知",
+      "url": "https://scicol.shu.edu.cn/PDF/20231124-1.pdf",
+      "date": "2023-11-24",
+      "column": "研究生教务"
     },
     {
       "title": "数学学科Seminar第2581讲 基于变分法的图像反问题的注意力/Transformer机制",
@@ -7805,6 +7925,12 @@
       "column": "学术报告"
     },
     {
+      "title": "2023年理学院研究生学业奖学金候选人推荐名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/16865.htm",
+      "date": "2023-11-07",
+      "column": "研究生教务"
+    },
+    {
       "title": "数学学科Seminar第2531讲 一个求解隐式界面椭圆型偏微分方程基于修正函数的无核边界积分方法",
       "url": "https://scicol.shu.edu.cn/info/1003/16805.htm",
       "date": "2023-11-06",
@@ -8237,6 +8363,12 @@
       "column": "科研动态"
     },
     {
+      "title": "2022-2023学年上海大学理学院优秀博士论文推荐名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/16135.htm",
+      "date": "2023-10-20",
+      "column": "研究生教务"
+    },
+    {
       "title": "物理实验中心召开本科教学基础类实验室办学条件和仪器设备更新改造专家咨询和研讨会",
       "url": "https://scicol.shu.edu.cn/info/1007/16055.htm",
       "date": "2023-10-19",
@@ -8495,6 +8627,12 @@
       "column": "科研动态"
     },
     {
+      "title": "2023年理学院研究生国家奖学金和校长奖学金推荐名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/15625.htm",
+      "date": "2023-10-07",
+      "column": "研究生教务"
+    },
+    {
       "title": "数学学科Seminar第2463讲 具有3个生成元的二步Carnot群的热核渐近性",
       "url": "https://scicol.shu.edu.cn/info/1003/15565.htm",
       "date": "2023-10-06",
@@ -8516,7 +8654,7 @@
       "title": "2023年理学院研究生国家奖学金评审实施细则",
       "url": "https://scicol.shu.edu.cn/PDF/20230928-m.pdf",
       "date": "2023-09-28",
-      "column": "通知公告"
+      "column": "研究生教务"
     },
     {
       "title": "金秋送暖——刘校长慰问理学院外籍专家Julius Rebek院士",
@@ -8585,6 +8723,18 @@
       "column": "通知公告"
     },
     {
+      "title": "2023年上海大学理学院研究生国家奖学金评审实施细则公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/15365.htm",
+      "date": "2023-09-23",
+      "column": "研究生教务"
+    },
+    {
+      "title": "2023年上海大学理学院研究生国家奖学金评审实施细则公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/15375.htm",
+      "date": "2023-09-23",
+      "column": "研究生教务"
+    },
+    {
       "title": "党建引领  立德树人——化学学科召开2022级本科生全程导师交流会",
       "url": "https://scicol.shu.edu.cn/info/1007/15325.htm",
       "date": "2023-09-22",
@@ -8639,6 +8789,18 @@
       "column": "通知公告"
     },
     {
+      "title": "2023年理学院研究生学业奖学金评审实施细则",
+      "url": "https://scicol.shu.edu.cn/info/1009/15185.htm",
+      "date": "2023-09-19",
+      "column": "研究生教务"
+    },
+    {
+      "title": "理学院2023年度 “宝钢奖学金”（研究生）候选人名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/15215.htm",
+      "date": "2023-09-19",
+      "column": "研究生教务"
+    },
+    {
       "title": "物理学科Seminar第618讲 介观系统中非弹性热电输运",
       "url": "https://scicol.shu.edu.cn/info/1003/15175.htm",
       "date": "2023-09-18",
@@ -8685,6 +8847,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/15085.htm",
       "date": "2023-09-15",
       "column": "综合新闻"
+    },
+    {
+      "title": "2023年上海大学理学院研究生学业奖学金评分方案公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/15145.htm",
+      "date": "2023-09-15",
+      "column": "研究生教务"
     },
     {
       "title": "深化校企合作，共育时代新人——理学院化学系与思源科创园校企合作签约揭牌仪式暨交流会举行",
@@ -8739,6 +8907,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/14985.htm",
       "date": "2023-09-12",
       "column": "综合新闻"
+    },
+    {
+      "title": "关于第98次理学学科学位评定分委员会会前准备工作的通知",
+      "url": "https://scicol.shu.edu.cn/info/1009/15025.htm",
+      "date": "2023-09-12",
+      "column": "研究生教务"
     },
     {
       "title": "数学系2023年国家自然科学基金取得新突破",
@@ -9165,6 +9339,12 @@
       "url": "https://scicol.shu.edu.cn/info/1010/14204.htm",
       "date": "2023-07-03",
       "column": "本科生教务"
+    },
+    {
+      "title": "理学院物理系2023年毕业研究生成绩综合排名公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/14144.htm",
+      "date": "2023-07-01",
+      "column": "研究生教务"
     },
     {
       "title": "物理学科Seminar第610讲 量子自旋液体和拓扑半金属的新材料探索",
