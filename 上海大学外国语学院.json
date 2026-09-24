@@ -2,7 +2,7 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20260924_130855",
+  "crawl_time": "20260924_163520",
   "total_articles": 585,
   "columns": {
     "学术活动预告": 400,
@@ -11,6 +11,12 @@
     "通知公告": 94
   },
   "articles": [
+    {
+      "title": "融通中外 语通世界——外国语学院2026级新生见面会暨院长第一课顺利举行",
+      "url": "https://sfs.shu.edu.cn/info/1142/31407.htm",
+      "date": "2026-09-24",
+      "column": "学院新闻"
+    },
     {
       "title": "关于举办2026年“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛上海大学校选赛暨第十届上海大学“海星杯”系列赛事比赛的通知",
       "url": "https://sfs.shu.edu.cn/info/1141/31377.htm",
@@ -196,12 +202,6 @@
       "url": "https://sfs.shu.edu.cn/info/1141/30697.htm",
       "date": "2026-06-03",
       "column": "通知公告"
-    },
-    {
-      "title": "外国语学院英语专业学生在2026年英语专业八级考试中取得佳绩",
-      "url": "https://sfs.shu.edu.cn/info/1142/30667.htm",
-      "date": "2026-06-01",
-      "column": "学院新闻"
     },
     {
       "title": "外国语学院分工会开展六一“可爱上海“绘画活动",
