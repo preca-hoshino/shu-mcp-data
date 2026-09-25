@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260924_163520",
-  "total_articles": 429,
+  "crawl_time": "20260925_053234",
+  "total_articles": 430,
   "columns": {
     "学术报告": 141,
     "科研动态": 82,
     "综合新闻": 46,
-    "通知公告": 160
+    "通知公告": 161
   },
   "articles": [
+    {
+      "title": "上海大学材料基因组工程研究院关于继续接收2027年推免生的通知",
+      "url": "https://mgi.shu.edu.cn/info/1062/7665.htm",
+      "date": "2026-09-25",
+      "column": "通知公告"
+    },
     {
       "title": "张统一院士等获云南省科学技术进步奖一等奖",
       "url": "https://mgi.shu.edu.cn/info/1063/7655.htm",

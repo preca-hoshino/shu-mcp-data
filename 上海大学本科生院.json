@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20260924_163520",
+  "crawl_time": "20260925_053234",
   "total_articles": 1821,
   "columns": {
     "政策文件": 58,
@@ -13,12 +13,6 @@
     {
       "title": "关于公布2026年度上海大学人工智能赋能教育教学专项建设项目的通知（本科生院〔2026〕30号）",
       "url": "https://bksy.shu.edu.cn/info/1015/322024.htm",
-      "date": "2026-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026年度本科专业调整——跨学科融合课程、产教协同育人项目立项公示",
-      "url": "https://bksy.shu.edu.cn/info/1015/322034.htm",
       "date": "2026-09-23",
       "column": "通知公告"
     },
@@ -140,6 +134,12 @@
       "title": "上海大学2026级本科新生秋季学期选课通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321714.htm",
       "date": "2026-08-28",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学具身智能机器人专项班2026年招生简章（机电工程与自动化学院）",
+      "url": "https://bksy.shu.edu.cn/info/1015/321584.htm",
+      "date": "2026-08-26",
       "column": "通知公告"
     },
     {
