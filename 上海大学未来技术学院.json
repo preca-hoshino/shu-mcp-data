@@ -2,14 +2,20 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20260928_060209",
-  "total_articles": 80,
+  "crawl_time": "20260928_103832",
+  "total_articles": 81,
   "columns": {
     "媒体聚焦": 3,
     "新闻动态": 65,
-    "通知公告": 12
+    "通知公告": 13
   },
   "articles": [
+    {
+      "title": "关于开展2026年度上海大学未来技术学院重点课程立项申报工作的通知",
+      "url": "https://ai.shu.edu.cn/info/1150/4158.htm",
+      "date": "2026-09-28",
+      "column": "通知公告"
+    },
     {
       "title": "启航新程，智创未来|未来技术学院学生启航仪式暨“开学第一课”",
       "url": "https://mp.weixin.qq.com/s/sa5zs9sr8djDfynncWlDtw",

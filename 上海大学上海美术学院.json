@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20260928_060209",
-  "total_articles": 722,
+  "crawl_time": "20260928_103832",
+  "total_articles": 723,
   "columns": {
     "党建工作": 47,
     "学术讲座": 55,
@@ -12,9 +12,15 @@
     "展览展示": 24,
     "教学": 166,
     "科研": 35,
-    "通知公告": 16
+    "通知公告": 17
   },
   "articles": [
+    {
+      "title": "2025-2026年度考核优秀人员公示",
+      "url": "https://safa.shu.edu.cn/info/1122/20030.htm",
+      "date": "2026-09-28",
+      "column": "通知公告"
+    },
     {
       "title": "上海美术学院召开2026年秋季中层干部工作会",
       "url": "https://safa.shu.edu.cn/info/1084/20020.htm",
