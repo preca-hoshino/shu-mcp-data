@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260927_162905",
-  "total_articles": 1790,
+  "crawl_time": "20260928_060209",
+  "total_articles": 1791,
   "columns": {
-    "学院新闻": 547,
+    "学院新闻": 548,
     "招生热讯": 78,
     "通知公告": 1165
   },
   "articles": [
+    {
+      "title": "深化沪滇协作帮扶 赋能数字农业发展 ——云南省普洱市2026年推进数字农业建设专题培训班圆满结业",
+      "url": "https://cce.shu.edu.cn/info/1550/21064.htm",
+      "date": "2026-09-28",
+      "column": "学院新闻"
+    },
     {
       "title": "筑梦蓝天 使命必达——继续教育学院举办“业界导师引领工程”之“劳模工匠课堂”暨2026-2027学年秋季学期首日教育",
       "url": "https://cce.shu.edu.cn/info/1550/21034.htm",

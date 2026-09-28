@@ -2,20 +2,32 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260927_162905",
-  "total_articles": 2598,
+  "crawl_time": "20260928_060209",
+  "total_articles": 2601,
   "columns": {
     "图片新闻": 121,
-    "媒体报道": 61,
+    "媒体报道": 63,
     "学术动态": 571,
     "学术报告": 155,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
-    "综合新闻": 884,
+    "综合新闻": 885,
     "通知公告": 53
   },
   "articles": [
+    {
+      "title": "上海大学重庆招宣组举办2026级重庆学子中秋座谈会",
+      "url": "https://sociology.shu.edu.cn/info/1102/43798.htm",
+      "date": "2026-09-24",
+      "column": "综合新闻"
+    },
+    {
+      "title": "《人民日报》|于春晖、黄晓春等：高质量推进城市更新是城市现代化建设的重要抓手（调查与思考）",
+      "url": "https://sociology.shu.edu.cn/info/1109/43778.htm",
+      "date": "2026-09-24",
+      "column": "媒体报道"
+    },
     {
       "title": "我院李朔严副教授在《社会学研究》2026年第5期上发表最新研究成果",
       "url": "https://sociology.shu.edu.cn/info/1104/43698.htm",
@@ -11511,6 +11523,12 @@
       "url": "https://sociology.shu.edu.cn/info/1107/3963.htm",
       "date": "2015-06-23",
       "column": "学生动态"
+    },
+    {
+      "title": "刘玉照《“流动难题”如何破解》",
+      "url": "https://sociology.shu.edu.cn/info/1109/6725.htm",
+      "date": "2015-06-20",
+      "column": "媒体报道"
     },
     {
       "title": "讲座预告：小米手机与中国创新之路——从山寨到全球品牌",

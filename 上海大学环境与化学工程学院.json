@@ -2,17 +2,29 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260927_162905",
-  "total_articles": 1001,
+  "crawl_time": "20260928_060209",
+  "total_articles": 1003,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 74,
-    "研究生教学": 211,
+    "研究生教学": 213,
     "科研动态": 118,
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "2026年环境与化学工程学院研究生国家奖学金推荐实施细则",
+      "url": "https://ece.shu.edu.cn/info/1304/90094.htm",
+      "date": "2026-09-28",
+      "column": "研究生教学"
+    },
+    {
+      "title": "2026年环境与化学工程学院研究生学业奖学金评审实施细则",
+      "url": "https://ece.shu.edu.cn/info/1304/90104.htm",
+      "date": "2026-09-28",
+      "column": "研究生教学"
+    },
     {
       "title": "关于开展2026年度通识示范课程立项申报工作的通知",
       "url": "https://ece.shu.edu.cn/info/1303/90064.htm",

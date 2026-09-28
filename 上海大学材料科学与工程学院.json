@@ -2,18 +2,24 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260927_162905",
-  "total_articles": 1703,
+  "crawl_time": "20260928_060209",
+  "total_articles": 1704,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
     "报告讲座": 136,
     "科研动态": 37,
     "通知公告(教师)": 30,
-    "通知公告(本科生)": 115,
+    "通知公告(本科生)": 116,
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "“廷亚奖学金”评选活动报名及初选赛通知",
+      "url": "https://mat.shu.edu.cn/info/1018/31208.htm",
+      "date": "2026-09-28",
+      "column": "通知公告(本科生)"
+    },
     {
       "title": "材料学院2026年中秋、国庆节值班安排",
       "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1018&wbnewsid=31188",

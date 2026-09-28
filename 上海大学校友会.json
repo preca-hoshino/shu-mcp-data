@@ -2,12 +2,12 @@
   "domain": "alumni.shu.edu.cn",
   "department": "上海大学校友会",
   "type": "04",
-  "crawl_time": "20260927_162905",
-  "total_articles": 534,
+  "crawl_time": "20260928_060209",
+  "total_articles": 533,
   "columns": {
     "主题活动": 50,
     "校友会新闻": 176,
-    "母校新闻": 200,
+    "母校新闻": 199,
     "通知公告": 108
   },
   "articles": [
@@ -16,6 +16,24 @@
       "url": "https://mp.weixin.qq.com/s/jkHPvd92sH9x8ULxfaKkzw",
       "date": "2026-09-24",
       "column": "校友会新闻"
+    },
+    {
+      "title": "研途启新，逐光前行！上海大学2026年研究生开学典礼举行！",
+      "url": "https://mp.weixin.qq.com/s/-kvzVwwWQJhTjZkFi3g1Yg",
+      "date": "2026-09-14",
+      "column": "母校新闻"
+    },
+    {
+      "title": "迷彩淬炼，勇启新篇！上海大学举行2026年本科生开学典礼暨军训总结表彰会",
+      "url": "https://mp.weixin.qq.com/s/ZCvPBLFeA6n-CqLa_tNhHQ",
+      "date": "2026-09-13",
+      "column": "母校新闻"
+    },
+    {
+      "title": "聚焦“一国一区域一领域”，助力中资企业“出海”：上海大学区域国别研究院揭牌成立",
+      "url": "https://mp.weixin.qq.com/s/CzmLhS0ousf9vnsxmJ6oYg",
+      "date": "2026-09-04",
+      "column": "母校新闻"
     },
     {
       "title": "钢铁行业知识产权纠纷调解中心成立仪式暨第二届东方国际商事调解研讨会在上海大学举行",
@@ -2994,32 +3012,8 @@
       "column": "通知公告"
     },
     {
-      "title": "钱伟长文集首发式暨纪念钱伟长百年诞辰座谈会举行",
-      "url": "https://alumni.shu.edu.cn/info/1019/2012.htm",
-      "date": "2012-09-29",
-      "column": "母校新闻"
-    },
-    {
-      "title": "上海大学与中科院长三角地区院所开展全面合作",
-      "url": "https://alumni.shu.edu.cn/info/1019/2013.htm",
-      "date": "2012-07-04",
-      "column": "母校新闻"
-    },
-    {
       "title": "我校吴明红教授获中国工程科技界最高奖项——光华工程科技奖",
       "url": "https://alumni.shu.edu.cn/info/1019/2009.htm",
-      "date": "2012-07-03",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校14项课题获2012年度国家社科基金项目立项资助",
-      "url": "https://alumni.shu.edu.cn/info/1019/2010.htm",
-      "date": "2012-07-03",
-      "column": "母校新闻"
-    },
-    {
-      "title": "我校发布“2011年度本科教育教学质量报告”",
-      "url": "https://alumni.shu.edu.cn/info/1019/2011.htm",
       "date": "2012-07-03",
       "column": "母校新闻"
     },
