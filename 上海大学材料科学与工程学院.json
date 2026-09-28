@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20260928_103832",
+  "crawl_time": "20260928_162509",
   "total_articles": 1704,
   "columns": {
     "学术动态": 90,
@@ -303,6 +303,12 @@
       "column": "学术动态"
     },
     {
+      "title": "“生物炭在冶金领域的应用：北欧经验与研究展望”学术报告会顺利举行",
+      "url": "https://mat.shu.edu.cn/info/1012/31218.htm",
+      "date": "2026-07-13",
+      "column": "学院新闻"
+    },
+    {
       "title": "毕业证领取通知（20260709）",
       "url": "https://mat.shu.edu.cn/info/1019/30618.htm",
       "date": "2026-07-09",
@@ -409,12 +415,6 @@
       "url": "https://mat.shu.edu.cn/info/1016/30418.htm",
       "date": "2026-06-30",
       "column": "科研动态"
-    },
-    {
-      "title": "第一期象屿CAST奖学金颁奖仪式暨象屿集团—上大CAST人才培养与技术交流会顺利举行",
-      "url": "https://mat.shu.edu.cn/info/1012/30408.htm",
-      "date": "2026-06-29",
-      "column": "学院新闻"
     },
     {
       "title": "钢铁冶金博士研究生党支部联合电子信息材料博士研究生党支部开展主题党日活动",
