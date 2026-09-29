@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260928_191826",
-  "total_articles": 3967,
+  "crawl_time": "20260929_062019",
+  "total_articles": 3968,
   "columns": {
     "主办会议": 41,
     "学术报告": 2648,
@@ -11,11 +11,17 @@
     "本科生新闻": 48,
     "研究生教务": 45,
     "研究生新闻": 50,
-    "科研动态": 310,
+    "科研动态": 311,
     "综合新闻": 623,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "理学院物理系宋宏伟课题组在《ACS Energy Letters》上发表钙钛矿量子点近红外发光的研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/34065.htm",
+      "date": "2026-09-29",
+      "column": "科研动态"
+    },
     {
       "title": "关于2026年理学院研究生奖学金申报事宜的通知",
       "url": "https://scicol.shu.edu.cn/info/1009/34055.htm",

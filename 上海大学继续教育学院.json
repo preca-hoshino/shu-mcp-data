@@ -2,14 +2,20 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20260928_191826",
-  "total_articles": 1791,
+  "crawl_time": "20260929_062019",
+  "total_articles": 1792,
   "columns": {
     "学院新闻": 548,
     "招生热讯": 78,
-    "通知公告": 1165
+    "通知公告": 1166
   },
   "articles": [
+    {
+      "title": "上海大学关于2026年下半年自考实践课考试通知",
+      "url": "https://cce.shu.edu.cn/info/1542/21074.htm",
+      "date": "2026-09-28",
+      "column": "通知公告"
+    },
     {
       "title": "深化沪滇协作帮扶 赋能数字农业发展 ——云南省普洱市2026年推进数字农业建设专题培训班圆满结业",
       "url": "https://cce.shu.edu.cn/info/1550/21064.htm",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260928_191826",
+  "crawl_time": "20260929_062019",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "聚力前沿科创，赋能视听未来！新型显示技术专题科学家沙龙举办",
+      "url": "https://mp.weixin.qq.com/s/w_fXMzr-1SBcxOkMQqkCng",
+      "date": "2026-09-28",
+      "column": "科技动态"
+    },
     {
       "title": "关于绍兴市军民深度融合综合服务中心运营单位项目的公示",
       "url": "https://kyglb.shu.edu.cn/info/1011/12662.htm",
@@ -261,12 +267,6 @@
       "title": "上海用十年磨一剑的耐心，回答基础研究的“时代之问”",
       "url": "https://mp.weixin.qq.com/s/axFkbDvpJ_wmDdcogvfn0g",
       "date": "2026-07-24",
-      "column": "科技动态"
-    },
-    {
-      "title": "脑机接口新赛道跑出“上海速度”｜聚焦张江高新区新赛道",
-      "url": "https://mp.weixin.qq.com/s/xKS4Andjut7qVFPZtYFY5Q",
-      "date": "2026-07-23",
       "column": "科技动态"
     },
     {

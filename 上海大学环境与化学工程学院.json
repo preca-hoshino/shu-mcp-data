@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260928_191826",
+  "crawl_time": "20260929_062019",
   "total_articles": 1003,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "上海市生态环境局战略发展处赴环化学院开展调研交流",
+      "url": "https://ece.shu.edu.cn/info/1149/90124.htm",
+      "date": "2026-09-29",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年环境与化学工程学院研究生国家奖学金推荐实施细则",
       "url": "https://ece.shu.edu.cn/info/1304/90094.htm",
@@ -167,12 +173,6 @@
       "title": "【迎新季】我院研究生党建中心介绍",
       "url": "https://mp.weixin.qq.com/s/YOBFirsq1TwVGmrO18SnBQ",
       "date": "2026-08-20",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】环护山河，化绘未来丨上海大学环境与化学工程学院简介",
-      "url": "https://mp.weixin.qq.com/s/0pHF3oDnmMdPaMRpn8Bk-Q",
-      "date": "2026-08-18",
       "column": "学院新闻"
     },
     {
