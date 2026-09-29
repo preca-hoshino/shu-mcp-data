@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20260929_062019",
+  "crawl_time": "20260929_102616",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,42 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "设计无界，品智生成！上海大学再次亮相世界设计之都大会",
+      "url": "https://mp.weixin.qq.com/s/vCzxyMShvpENxDkpzuXuqA",
+      "date": "2026-09-29",
+      "column": "重要新闻"
+    },
+    {
+      "title": "理学院物理系宋宏伟课题组在《ACS Energy Letters》上发表钙钛矿量子点近红外发光的研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/401295.htm",
+      "date": "2026-09-29",
+      "column": "科研动态"
+    },
+    {
+      "title": "院士专家齐聚静安，共探新型显示与超高清视听产业新未来——新型显示技术及应用集成教育部重点实验室 2026 年度会议暨科学家沙龙顺利举办",
+      "url": "https://www.shu.edu.cn/info/1055/401305.htm",
+      "date": "2026-09-29",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学召开2026年“敬老月”活动协调会",
+      "url": "https://www.shu.edu.cn/info/1056/401245.htm",
+      "date": "2026-09-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "中国民主同盟上海大学第八次代表大会召开",
+      "url": "https://www.shu.edu.cn/info/1056/401255.htm",
+      "date": "2026-09-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海温哥华电影学院教学案例入选联合国教科文组织",
+      "url": "https://www.shu.edu.cn/info/1056/401285.htm",
+      "date": "2026-09-29",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学张统一院士等获云南省科学技术进步奖一等奖",
       "url": "https://www.shu.edu.cn/info/1055/401175.htm",
@@ -39,24 +75,6 @@
       "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
       "url": "https://www.shu.edu.cn/info/1056/401155.htm",
       "date": "2026-09-24",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海美术学院召开2026年秋季中层干部工作会议",
-      "url": "https://www.shu.edu.cn/info/1056/401075.htm",
-      "date": "2026-09-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“法护科创·知识产权巡回审判进校园暨以案释法活动”在上海大学法学院举行",
-      "url": "https://www.shu.edu.cn/info/1056/401085.htm",
-      "date": "2026-09-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第八期临港新片区干部专业化能力提升培训顺利启动",
-      "url": "https://www.shu.edu.cn/info/1056/401095.htm",
-      "date": "2026-09-23",
       "column": "综合新闻"
     },
     {
@@ -174,22 +192,10 @@
       "column": "重要新闻"
     },
     {
-      "title": "材料学院高彦峰教授团队在《Nano-Micro Letters》上发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/400295.htm",
-      "date": "2026-09-03",
-      "column": "科研动态"
-    },
-    {
       "title": "关于调整校园管理的通告",
       "url": "https://www.shu.edu.cn/info/1051/400245.htm",
       "date": "2026-08-30",
       "column": "通知公告"
-    },
-    {
-      "title": "理学院2026年度国家自然科学基金资助再创佳绩",
-      "url": "https://www.shu.edu.cn/info/1055/400215.htm",
-      "date": "2026-08-28",
-      "column": "科研动态"
     },
     {
       "title": "宝山区与上海大学深化战略合作交流会举行",
@@ -201,12 +207,6 @@
       "title": "环球自然日2026年度全国总决选在上海大学开幕",
       "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
       "date": "2026-08-08",
-      "column": "重要新闻"
-    },
-    {
-      "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
-      "url": "https://mp.weixin.qq.com/s/4WmJ7ODzfLywFlrB5QnDKw",
-      "date": "2026-08-01",
       "column": "重要新闻"
     },
     {

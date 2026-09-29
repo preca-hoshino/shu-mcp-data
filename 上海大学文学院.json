@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20260929_062019",
-  "total_articles": 1996,
+  "crawl_time": "20260929_102616",
+  "total_articles": 1997,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
-    "学院周志": 312,
+    "学院周志": 313,
     "科研动态": 481,
     "综合新闻": 525,
     "通知公告": 428
   },
   "articles": [
+    {
+      "title": "文学院周志总第709期（2026年第25期，9月21日-9月27日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi7091.pdf",
+      "date": "2026-09-29",
+      "column": "学院周志"
+    },
     {
       "title": "阿根廷医学高级代表团访问上海大学区域国别研究院",
       "url": "https://cla.shu.edu.cn/info/1015/54028.htm",

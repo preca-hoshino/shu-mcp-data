@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20260929_062019",
-  "total_articles": 125,
+  "crawl_time": "20260929_102616",
+  "total_articles": 127,
   "columns": {
-    "国际交流": 46,
+    "国际交流": 48,
     "培养管理": 25,
     "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "转发：2026博士生国际招生面试交流会的通知",
+      "url": "https://gs.shu.edu.cn/info/1030/173292.htm",
+      "date": "2026-09-29",
+      "column": "国际交流"
+    },
     {
       "title": "2026年港澳及华侨学生奖学金、台湾学生奖学金建议获奖学生名单公示",
       "url": "https://gs.shu.edu.cn/info/1029/173282.htm",
@@ -677,6 +683,12 @@
       "url": "https://gs.shu.edu.cn/info/1029/21793.htm",
       "date": "2022-03-01",
       "column": "培养管理"
+    },
+    {
+      "title": "2022年上海大学与日本早稻田大学联合培养硕士研究生招生通知",
+      "url": "https://gs.shu.edu.cn/info/1030/21741.htm",
+      "date": "2021-12-22",
+      "column": "国际交流"
     },
     {
       "title": "关于2022年上海大学国家公派出国留学项目启动的通知",
