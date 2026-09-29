@@ -2,12 +2,18 @@
   "domain": "utseus.shu.edu.cn",
   "department": "上海大学中欧工程技术学院",
   "type": "33",
-  "crawl_time": "20260929_102616",
-  "total_articles": 37,
+  "crawl_time": "20260929_143517",
+  "total_articles": 38,
   "columns": {
-    "重要新闻": 37
+    "重要新闻": 38
   },
   "articles": [
+    {
+      "title": "上海大学副校长于雪梅一行赴中微公司调研交流",
+      "url": "https://utseus.shu.edu.cn/info/1009/6206.htm",
+      "date": "2026-09-29",
+      "column": "重要新闻"
+    },
     {
       "title": "上海大学中欧工程技术学院召开树立和践行正确政绩观学习教育总结会",
       "url": "https://utseus.shu.edu.cn/info/1009/6196.htm",
