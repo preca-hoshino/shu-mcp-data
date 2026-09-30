@@ -2,11 +2,11 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20260930_060514",
-  "total_articles": 433,
+  "crawl_time": "20260930_101919",
+  "total_articles": 435,
   "columns": {
     "学术报告": 141,
-    "科研动态": 82,
+    "科研动态": 84,
     "综合新闻": 46,
     "通知公告": 164
   },
@@ -22,6 +22,12 @@
       "url": "https://mgi.shu.edu.cn/info/1062/7695.htm",
       "date": "2026-09-30",
       "column": "通知公告"
+    },
+    {
+      "title": "2026年上海大学材料基因组青年学者论坛",
+      "url": "https://mgi.shu.edu.cn/info/1063/7705.htm",
+      "date": "2026-09-30",
+      "column": "科研动态"
     },
     {
       "title": "2026年材料基因组工程研究院研究生奖学金评审工作办法",
@@ -2344,6 +2350,12 @@
       "url": "https://mgi.shu.edu.cn/info/1064/1972.htm",
       "date": "2017-01-12",
       "column": "综合新闻"
+    },
+    {
+      "title": "加拿大工程院院士骆静利教授来访我校",
+      "url": "https://mgi.shu.edu.cn/info/1063/1715.htm",
+      "date": "2016-11-08",
+      "column": "科研动态"
     },
     {
       "title": "2016年MGI研究生学业奖学金评审通知",

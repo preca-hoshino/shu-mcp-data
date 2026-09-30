@@ -2,13 +2,31 @@
   "domain": "tiyu.shu.edu.cn",
   "department": "上海大学体育学院",
   "type": "06",
-  "crawl_time": "20260930_060514",
-  "total_articles": 153,
+  "crawl_time": "20260930_101919",
+  "total_articles": 156,
   "columns": {
     "头条新闻": 88,
-    "通知公告": 65
+    "通知公告": 68
   },
   "articles": [
+    {
+      "title": "2026国庆节假期上海大学体育场馆开放安排",
+      "url": "https://tiyu.shu.edu.cn/info/1073/8014.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年体育学院研究生学业奖学金推荐名单公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/8024.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年体育学院研究生国家奖学金推荐名单公示",
+      "url": "https://tiyu.shu.edu.cn/info/1073/8034.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
     {
       "title": "2027 年 上 海 大 学 体 育 学 院 接 收 推 荐 免 试 攻 读 硕 士 研 究 生 复 试 方 案",
       "url": "https://tiyu.shu.edu.cn/info/1073/7984.htm",

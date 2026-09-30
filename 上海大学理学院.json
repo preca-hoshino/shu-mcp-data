@@ -2,18 +2,18 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260930_060514",
-  "total_articles": 3968,
+  "crawl_time": "20260930_101919",
+  "total_articles": 3965,
   "columns": {
     "主办会议": 41,
     "学术报告": 2648,
-    "本科生教务": 40,
+    "本科生教务": 39,
     "本科生新闻": 48,
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 311,
     "综合新闻": 623,
-    "通知公告": 162
+    "通知公告": 160
   },
   "articles": [
     {
@@ -27,12 +27,6 @@
       "url": "https://scicol.shu.edu.cn/info/1009/34055.htm",
       "date": "2026-09-28",
       "column": "研究生教务"
-    },
-    {
-      "title": "2026年第十八届全国大学生数学竞赛暨“高教社杯”第十八届上海市大学生数学竞赛报名通知",
-      "url": "https://mp.weixin.qq.com/s/6Dt1WaygGGrw3-0JOA56oA",
-      "date": "2026-09-23",
-      "column": "通知公告"
     },
     {
       "title": "量子科技研究院Seminar第118讲暨物理学科Seminar第831讲 二维超导材料中的奇异相",
@@ -105,18 +99,6 @@
       "url": "https://scicol.shu.edu.cn/PDF1/20260904-11.pdf",
       "date": "2026-09-04",
       "column": "通知公告"
-    },
-    {
-      "title": "2027年推免工作相关附件文件",
-      "url": "https://scicol.shu.edu.cn/info/1006/33805.htm",
-      "date": "2026-09-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "2027年推免工作相关附件文件",
-      "url": "https://scicol.shu.edu.cn/info/1010/34045.htm",
-      "date": "2026-09-04",
-      "column": "本科生教务"
     },
     {
       "title": "“AI + 无限万象”人工智能创新大赛第二届“新致杯”· 报名通道正式开启",

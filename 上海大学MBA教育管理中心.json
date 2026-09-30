@@ -2,14 +2,20 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260930_060514",
-  "total_articles": 631,
+  "crawl_time": "20260930_101919",
+  "total_articles": 632,
   "columns": {
-    "焦点新闻": 374,
+    "焦点新闻": 375,
     "论坛活动": 194,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "喜报 | 上海大学MBA通过EPAS再认证",
+      "url": "https://mp.weixin.qq.com/s/fMWXFiD6WTSItQiaUCzh-w",
+      "date": "2026-09-30",
+      "column": "焦点新闻"
+    },
     {
       "title": "上海大学MBA中心成功举办商科人才培养与教学创新研讨会",
       "url": "https://mp.weixin.qq.com/s/rT7LsPWpuhi1koNG_M91Ng",

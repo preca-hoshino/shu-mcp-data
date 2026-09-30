@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260930_060514",
+  "crawl_time": "20260930_101919",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -18,8 +18,26 @@
       "column": "通知公告"
     },
     {
+      "title": "关于做好2026年度“晨光计划”项目申报工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12712.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布移动信息网络国家科技重大专项2026年度第三批项目申报指南（公开竞争）的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12732.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“空天海洋”项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12692",
+      "date": "2026-09-29",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海市经济信息化委关于发布重点领域新材料应用需求清单的通知",
+      "url": "https://mp.weixin.qq.com/s/mhIcGYAIleO-Z4aMgmnzMQ?scene=1&click_id=280217979",
       "date": "2026-09-29",
       "column": "通知公告"
     },
@@ -189,24 +207,6 @@
       "title": "2026上海科技青年35人引领计划今起申报",
       "url": "https://mp.weixin.qq.com/s/CTotYAczQkZx2ZLYEBHHVw?click_id=1440296296",
       "date": "2026-08-25",
-      "column": "通知公告"
-    },
-    {
-      "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“农业科技”项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12322.htm",
-      "date": "2026-08-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布移动信息网络国家科技重大专项2026年度第二批项目申报指南（公开竞争）的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12292.htm",
-      "date": "2026-08-20",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布移动信息网络国家科技重大专项2027年度项目申报指南（公开竞争）的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12302.htm",
-      "date": "2026-08-20",
       "column": "通知公告"
     },
     {

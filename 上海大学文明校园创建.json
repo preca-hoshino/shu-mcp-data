@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20260930_060514",
+  "crawl_time": "20260930_101919",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,12 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "设计无界，品智生成！上海大学再次亮相世界设计之都大会",
+      "url": "https://mp.weixin.qq.com/s/vCzxyMShvpENxDkpzuXuqA",
+      "date": "2026-09-30",
+      "column": "校园动态"
+    },
     {
       "title": "革命文物赋能“大思政课”！上海大学“初心印迹”火热开讲",
       "url": "https://mp.weixin.qq.com/s/sieR2ux1M2qWAZBaRN9rVQ",
@@ -224,12 +230,6 @@
       "title": "奔赴山海！今天我们在上海大学毕业啦！",
       "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
       "date": "2026-07-02",
-      "column": "校园动态"
-    },
-    {
-      "title": "“AI高清视界”2026第一届上海大学“3+X”AI短剧创作大赛颁奖...",
-      "url": "https://mp.weixin.qq.com/s/YI3T92oXmgdX5Ae6n98JuQ",
-      "date": "2026-06-29",
       "column": "校园动态"
     },
     {

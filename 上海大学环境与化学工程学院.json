@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20260930_060514",
+  "crawl_time": "20260930_101919",
   "total_articles": 1003,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "练于行 防于心——环化学院开展两校区消防安全演练",
+      "url": "https://ece.shu.edu.cn/info/1149/90134.htm",
+      "date": "2026-09-30",
+      "column": "学院新闻"
+    },
     {
       "title": "上海市生态环境局战略发展处赴环化学院开展调研交流",
       "url": "https://ece.shu.edu.cn/info/1149/90124.htm",
@@ -196,12 +202,6 @@
     {
       "title": "【创新竞赛】我院研究生创新实践大赛备赛经验分享会顺利开展!",
       "url": "https://mp.weixin.qq.com/s/bGjl4lbqT5cpH3sC-4s1qw",
-      "date": "2026-08-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】大一新生必看第二篇|核心课程准备，从暑假开始（英语篇）",
-      "url": "https://mp.weixin.qq.com/s/kk-jUdCt7wxz-wcvFYALgQ",
       "date": "2026-08-18",
       "column": "学院新闻"
     },
