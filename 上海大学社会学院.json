@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20260929_174342",
-  "total_articles": 2604,
+  "crawl_time": "20260930_060514",
+  "total_articles": 2605,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
@@ -13,9 +13,15 @@
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 885,
-    "通知公告": 53
+    "通知公告": 54
   },
   "articles": [
+    {
+      "title": "关于启动2026年上海大学学生海外学习交流与国际组织实习实践资助申报工作的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/43858.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
     {
       "title": "青年报| 当青春遇见技能｜支教归来再赴世赛，他把世赛当成“社会学的课堂”",
       "url": "http://www.why.com.cn/wx/article/2026/09/22/17900805051130160226.html",

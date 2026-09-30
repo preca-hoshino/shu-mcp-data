@@ -2,7 +2,7 @@
   "domain": "sdfz.shu.edu.cn",
   "department": "上海大学附属中学",
   "type": "16",
-  "crawl_time": "20260929_174342",
+  "crawl_time": "20260930_060514",
   "total_articles": 682,
   "columns": {
     "招生招聘": 40,
@@ -12,6 +12,24 @@
     "通知公告": 79
   },
   "articles": [
+    {
+      "title": "学生菜单及陪餐公示（2026.10.05-2026.10.11）",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10298.htm",
+      "date": "2026-10-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026学年09月29日菜品图片公示",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10318.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026学年09月30日菜品图片公示",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10328.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
     {
       "title": "2026学年09月28日菜品图片公示",
       "url": "https://sdfz.shu.edu.cn/info/1109/10308.htm",
@@ -187,12 +205,6 @@
       "column": "通知公告"
     },
     {
-      "title": "2026学年09月01日菜品图片公示",
-      "url": "https://sdfz.shu.edu.cn/info/1109/9918.htm",
-      "date": "2026-09-02",
-      "column": "通知公告"
-    },
-    {
       "title": "冠军！挥拍逐梦，问鼎全国——上海大学附属中学乒乓球队勇夺全国中学生乒乓球锦标...",
       "url": "https://sdfz.shu.edu.cn/info/1090/10138.htm",
       "date": "2026-09-01",
@@ -203,18 +215,6 @@
       "url": "https://sdfz.shu.edu.cn/info/1093/10168.htm",
       "date": "2026-09-01",
       "column": "新闻中心"
-    },
-    {
-      "title": "2026学年8月31日菜品图片公示",
-      "url": "https://sdfz.shu.edu.cn/info/1109/9928.htm",
-      "date": "2026-09-01",
-      "column": "通知公告"
-    },
-    {
-      "title": "学生菜单及陪餐公示（2026.8.31-2026.9.6）",
-      "url": "https://sdfz.shu.edu.cn/info/1109/9908.htm",
-      "date": "2026-08-31",
-      "column": "通知公告"
     },
     {
       "title": "“报到！”赓续长征薪火，淬炼迷彩青春——2026级上附学子军训开营！",

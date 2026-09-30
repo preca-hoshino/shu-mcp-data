@@ -2,14 +2,20 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20260929_174342",
-  "total_articles": 81,
+  "crawl_time": "20260930_060514",
+  "total_articles": 82,
   "columns": {
     "媒体聚焦": 3,
     "新闻动态": 65,
-    "通知公告": 13
+    "通知公告": 14
   },
   "articles": [
+    {
+      "title": "关于申报海洋智能领域2026年本科教学学术研究项目的通知",
+      "url": "https://ai.shu.edu.cn/info/1150/4178.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
     {
       "title": "关于开展2026年度上海大学未来技术学院重点课程立项申报工作的通知",
       "url": "https://ai.shu.edu.cn/info/1150/4168.htm",

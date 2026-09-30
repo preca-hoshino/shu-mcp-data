@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20260929_174342",
+  "crawl_time": "20260930_060514",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "市教委关于组织开展2027年度重型燃气轮机产学研联合创新计划项目申报工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12702.htm",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
     {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“空天海洋”项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12692",
@@ -201,12 +207,6 @@
       "title": "关于发布移动信息网络国家科技重大专项2027年度项目申报指南（公开竞争）的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12302.htm",
       "date": "2026-08-20",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于组织开展2026年度科学智能“百团百项”储备项目遴选工作的通知",
-      "url": "https://mp.weixin.qq.com/s/qZESyA0MTEthJBNP6xGt3A",
-      "date": "2026-08-18",
       "column": "通知公告"
     },
     {

@@ -2,13 +2,19 @@
   "domain": "xyy.shu.edu.cn",
   "department": "上海大学校医院",
   "type": "38",
-  "crawl_time": "20260929_174342",
-  "total_articles": 66,
+  "crawl_time": "20260930_060514",
+  "total_articles": 67,
   "columns": {
-    "公告栏": 50,
+    "公告栏": 51,
     "新闻": 16
   },
   "articles": [
+    {
+      "title": "上海大学关于开展2026年下半年无偿献血活动的通知",
+      "url": "https://xyy.shu.edu.cn/info/1090/5556.htm",
+      "date": "2026-09-30",
+      "column": "公告栏"
+    },
     {
       "title": "2026级秋季新生，快来享受上海市居民医保",
       "url": "https://xyy.shu.edu.cn/info/1090/5516.htm",

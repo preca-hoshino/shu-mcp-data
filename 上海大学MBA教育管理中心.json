@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20260929_174342",
+  "crawl_time": "20260930_060514",
   "total_articles": 631,
   "columns": {
     "焦点新闻": 374,
@@ -10,12 +10,6 @@
     "通知公告": 63
   },
   "articles": [
-    {
-      "title": "关于2026级GC&GI新生专业方向选择问卷填写情况的告知",
-      "url": "https://mba.shu.edu.cn/info/1024/27611.htm",
-      "date": "2026-09-29",
-      "column": "通知公告"
-    },
     {
       "title": "上海大学MBA中心成功举办商科人才培养与教学创新研讨会",
       "url": "https://mp.weixin.qq.com/s/rT7LsPWpuhi1koNG_M91Ng",
@@ -243,6 +237,12 @@
       "url": "https://mp.weixin.qq.com/s/eHpBFGyt9T6mgUrbZtemnA",
       "date": "2026-07-28",
       "column": "论坛活动"
+    },
+    {
+      "title": "上大MBA360°职业洞察营8月15日线上专场报名进行中",
+      "url": "https://mp.weixin.qq.com/s/8X7bLbslUv2IIKXnGUBriA",
+      "date": "2026-07-27",
+      "column": "通知公告"
     },
     {
       "title": "25GC专精特新专业方向《特色化产品与服务创新管理》课堂教学与实践",
