@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20260930_101919",
+  "crawl_time": "20260930_143435",
   "total_articles": 3965,
   "columns": {
     "主办会议": 41,
@@ -16,6 +16,18 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "2026年理学院研究生国家奖学金和校长奖学金推荐名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/34075.htm",
+      "date": "2026-09-30",
+      "column": "研究生教务"
+    },
+    {
+      "title": "2026年理学院研究生学业奖学金候选人推荐名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1009/34085.htm",
+      "date": "2026-09-30",
+      "column": "研究生教务"
+    },
     {
       "title": "理学院物理系宋宏伟课题组在《ACS Energy Letters》上发表钙钛矿量子点近红外发光的研究成果",
       "url": "https://scicol.shu.edu.cn/info/1008/34065.htm",
@@ -8843,12 +8855,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "2023年上海大学理学院研究生学业奖学金评分方案公示",
-      "url": "https://scicol.shu.edu.cn/info/1009/15145.htm",
-      "date": "2023-09-15",
-      "column": "研究生教务"
-    },
-    {
       "title": "深化校企合作，共育时代新人——理学院化学系与思源科创园校企合作签约揭牌仪式暨交流会举行",
       "url": "https://scicol.shu.edu.cn/info/1007/15075.htm",
       "date": "2023-09-14",
@@ -8901,12 +8907,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/14985.htm",
       "date": "2023-09-12",
       "column": "综合新闻"
-    },
-    {
-      "title": "关于第98次理学学科学位评定分委员会会前准备工作的通知",
-      "url": "https://scicol.shu.edu.cn/info/1009/15025.htm",
-      "date": "2023-09-12",
-      "column": "研究生教务"
     },
     {
       "title": "数学系2023年国家自然科学基金取得新突破",
