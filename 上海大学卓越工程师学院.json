@@ -2,15 +2,21 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20261001_063859",
-  "total_articles": 72,
+  "crawl_time": "20261001_104506",
+  "total_articles": 73,
   "columns": {
-    "新闻动态": 25,
+    "新闻动态": 26,
     "科研动态": 6,
     "通知公告": 30,
     "集中课程": 11
   },
   "articles": [
+    {
+      "title": "上海大学卓越工程师学院开学见面会暨卓越启航大讲堂圆满举办",
+      "url": "https://mp.weixin.qq.com/s/dpRecjDaCowRPP7WuVPG_A",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
     {
       "title": "卓越工程师学院关于开展2026年度示范性校企导师团队申报的通知",
       "url": "https://zhgy.shu.edu.cn/info/1021/2991.htm",

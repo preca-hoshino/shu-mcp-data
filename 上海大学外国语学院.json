@@ -2,13 +2,13 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261001_063859",
-  "total_articles": 583,
+  "crawl_time": "20261001_104506",
+  "total_articles": 582,
   "columns": {
     "学术活动预告": 400,
     "学术研究": 34,
     "学院新闻": 57,
-    "通知公告": 92
+    "通知公告": 91
   },
   "articles": [
     {
@@ -40,12 +40,6 @@
       "url": "https://sfs.shu.edu.cn/info/1036/31277.htm",
       "date": "2026-09-15",
       "column": "学术研究"
-    },
-    {
-      "title": "上海大学外国语学院2027年接收推荐免试攻读研究生（含直博生）实施方案",
-      "url": "https://sfs.shu.edu.cn/info/1141/31287.htm",
-      "date": "2026-09-15",
-      "column": "通知公告"
     },
     {
       "title": "外国语学院教师谢晨两项研究成果发表于国际权威语言学期刊",

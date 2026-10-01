@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261001_063859",
+  "crawl_time": "20261001_104506",
   "total_articles": 632,
   "columns": {
     "焦点新闻": 375,
@@ -10,6 +10,18 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2026级GC&GI新生方向选择最终安排的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27641.htm",
+      "date": "2026-10-01",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026级新生登录研究生院系统录入学籍及培养计划的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27651.htm",
+      "date": "2026-10-01",
+      "column": "通知公告"
+    },
     {
       "title": "喜报 | 上海大学MBA通过EPAS再认证",
       "url": "https://mp.weixin.qq.com/s/fMWXFiD6WTSItQiaUCzh-w",
@@ -233,22 +245,10 @@
       "column": "论坛活动"
     },
     {
-      "title": "关于2026年暑假留宿报备的通知及注意事项",
-      "url": "https://mba.shu.edu.cn/info/1024/27191.htm",
-      "date": "2026-07-28",
-      "column": "通知公告"
-    },
-    {
       "title": "师者嘉言励前行|上海大学MBA中心2026年春季学期圆满收官",
       "url": "https://mp.weixin.qq.com/s/eHpBFGyt9T6mgUrbZtemnA",
       "date": "2026-07-28",
       "column": "论坛活动"
-    },
-    {
-      "title": "上大MBA360°职业洞察营8月15日线上专场报名进行中",
-      "url": "https://mp.weixin.qq.com/s/8X7bLbslUv2IIKXnGUBriA",
-      "date": "2026-07-27",
-      "column": "通知公告"
     },
     {
       "title": "25GC专精特新专业方向《特色化产品与服务创新管理》课堂教学与实践",
