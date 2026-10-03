@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261003_130053",
-  "total_articles": 810,
+  "crawl_time": "20261003_154755",
+  "total_articles": 811,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 93,
+    "学院新闻": 94,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "走进芯片制造企业 探寻智能调度前沿 ——上海大学管理学院师生赴上海华...",
+      "url": "https://ms.shu.edu.cn/info/1244/92675.htm",
+      "date": "2026-10-03",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学研究生国家奖学金管理学院博士研究生候选人初选名单（含...",
       "url": "https://ms.shu.edu.cn/info/1245/92635.htm",

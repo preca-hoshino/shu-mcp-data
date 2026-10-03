@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261003_130053",
+  "crawl_time": "20261003_154755",
   "total_articles": 418,
   "columns": {
     "学术活动": 25,
@@ -11,6 +11,12 @@
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "计算机学院冷拓教授团队在人工智能国际顶会NeurIPS 2026上发表机器证明FormalGeo系列最新研究成果",
+      "url": "https://mp.weixin.qq.com/s/Yv4o5kIMUJO3Q8Vnv5fEEw",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学计算机工程与科学学院接收2027年推免研究生复试工作安排",
       "url": "https://cs.shu.edu.cn/info/1081/52051.htm",
@@ -106,12 +112,6 @@
       "url": "https://mp.weixin.qq.com/s/BuwlLM9qSuPsm_EkLqibWg",
       "date": "2026-07-01",
       "column": "风采展示"
-    },
-    {
-      "title": "“筑牢反诈防线 守护校园平安”上海大学计算机工程与科学学院反诈主题沙龙顺利召开",
-      "url": "https://mp.weixin.qq.com/s/FKWezT1cK_oASib7Jei2DA",
-      "date": "2026-07-01",
-      "column": "新闻动态"
     },
     {
       "title": "计算机学院校友、交通银行副行长钱斌：数智为帆、协同为桨 谱写金融高质量发展新篇章",
