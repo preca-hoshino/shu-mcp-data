@@ -2,7 +2,7 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261004_062835",
+  "crawl_time": "20261004_102555",
   "total_articles": 811,
   "columns": {
     "学术活动": 203,
@@ -10,6 +10,18 @@
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "2026年上海大学研究生学业奖学金管理学院博士研究生候选人名单",
+      "url": "https://ms.shu.edu.cn/info/1245/92685.htm",
+      "date": "2026-10-04",
+      "column": "重要通知"
+    },
+    {
+      "title": "2026年上海大学研究生学业奖学金管理学院硕士研究生候选人名单",
+      "url": "https://ms.shu.edu.cn/info/1245/92695.htm",
+      "date": "2026-10-04",
+      "column": "重要通知"
+    },
     {
       "title": "走进芯片制造企业 探寻智能调度前沿 ——上海大学管理学院师生赴上海华...",
       "url": "https://ms.shu.edu.cn/info/1244/92675.htm",
@@ -1274,18 +1286,6 @@
       "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
       "url": "https://ms.shu.edu.cn/disiluntongzhishanghaidaxue.pdf",
       "date": "2023-06-21",
-      "column": "重要通知"
-    },
-    {
-      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
-      "url": "https://ms.shu.edu.cn/info/1245/84424.htm",
-      "date": "2023-06-16",
-      "column": "重要通知"
-    },
-    {
-      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
-      "url": "https://ms.shu.edu.cn/info/1245/84254.htm",
-      "date": "2023-06-01",
       "column": "重要通知"
     },
     {
