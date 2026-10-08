@@ -2,15 +2,27 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261007_234053",
-  "total_articles": 2031,
+  "crawl_time": "20261008_064502",
+  "total_articles": 2033,
   "columns": {
-    "学术报告": 523,
+    "学术报告": 525,
     "教学信息": 21,
     "新闻动态": 1267,
     "通知公告": 220
   },
   "articles": [
+    {
+      "title": "行健讲坛 №552 －面向学生与学者的远程实验室合作模式",
+      "url": "https://scie.shu.edu.cn/info/1067/47025.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "行健讲坛 №553 －分解与合并：通向近最优译码之路",
+      "url": "https://scie.shu.edu.cn/info/1067/47035.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
     {
       "title": "通信与信息工程学院2026年校长奖学金、研究生国家奖学金评审实施细则",
       "url": "https://scie.shu.edu.cn/info/1065/46995.htm",

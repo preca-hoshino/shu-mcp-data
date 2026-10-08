@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261007_234053",
-  "total_articles": 3965,
+  "crawl_time": "20261008_064502",
+  "total_articles": 3966,
   "columns": {
     "主办会议": 41,
-    "学术报告": 2648,
+    "学术报告": 2649,
     "本科生教务": 39,
     "本科生新闻": 48,
     "研究生教务": 45,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第833讲 单光子弗洛凯调控非厄米拓扑的观测",
+      "url": "https://scicol.shu.edu.cn/info/1003/34105.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
     {
       "title": "理学院物理系宋宏伟课题组在《ACS Energy Letters》上发表钙钛矿量子点近红外发光的研究成果",
       "url": "https://scicol.shu.edu.cn/info/1008/34065.htm",

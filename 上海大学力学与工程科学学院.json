@@ -2,18 +2,30 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261007_234053",
-  "total_articles": 259,
+  "crawl_time": "20261008_064502",
+  "total_articles": 263,
   "columns": {
-    "学术报告": 52,
+    "学术报告": 55,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
     "综合新闻": 42,
-    "通知公告": 37
+    "通知公告": 38
   },
   "articles": [
+    {
+      "title": "钱伟长力学SEMINAR 1010：主动热防护技术相关基础问...",
+      "url": "https://smes.shu.edu.cn/info/1014/10785.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "2026年力学与工程科学学院研究生奖学金推荐名单公示",
+      "url": "https://smes.shu.edu.cn/info/1015/10815.htm",
+      "date": "2026-10-08",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学第十二届力学竞赛通知",
       "url": "https://smes.shu.edu.cn/info/1015/10755.htm",
@@ -31,6 +43,12 @@
       "url": "https://smes.shu.edu.cn/info/1013/10665.htm",
       "date": "2026-08-19",
       "column": "综合新闻"
+    },
+    {
+      "title": "钱伟长力学SEMINAR 1009：GraFEA: A Nonlocal Comput...",
+      "url": "https://smes.shu.edu.cn/info/1014/10805.htm",
+      "date": "2026-08-11",
+      "column": "学术报告"
     },
     {
       "title": "关于第七届上海市大学生力学竞赛上海大学报名的通知",
@@ -79,6 +97,12 @@
       "url": "https://smes.shu.edu.cn/info/1013/10585.htm",
       "date": "2026-06-25",
       "column": "综合新闻"
+    },
+    {
+      "title": "钱伟长力学SEMINAR 1008：非晶态玻璃态聚合物中的剪...",
+      "url": "https://smes.shu.edu.cn/info/1014/10795.htm",
+      "date": "2026-06-17",
+      "column": "学术报告"
     },
     {
       "title": "力学AI4M产教研融合创新研讨会在我校召开",

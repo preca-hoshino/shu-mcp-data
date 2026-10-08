@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261007_234053",
-  "total_articles": 811,
+  "crawl_time": "20261008_064502",
+  "total_articles": 813,
   "columns": {
-    "学术活动": 203,
+    "学术活动": 205,
     "学院新闻": 94,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "1014上海管理论坛第581期（冯旭南教授，上海财经大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92705.htm",
+      "date": "2026-10-08",
+      "column": "学术活动"
+    },
     {
       "title": "2026年上海大学研究生学业奖学金管理学院博士研究生候选人名单",
       "url": "https://ms.shu.edu.cn/info/1245/92685.htm",
@@ -4659,6 +4665,12 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
+    },
+    {
+      "title": "上海管理论坛青年学者专场(第二期)讲座通知",
+      "url": "https://ms.shu.edu.cn/info/1246/11184.htm",
+      "date": "2008-11-18",
+      "column": "学术活动"
     },
     {
       "title": "08-09秋冲突考安排",

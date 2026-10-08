@@ -2,15 +2,45 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20261007_234053",
-  "total_articles": 385,
+  "crawl_time": "20261008_064502",
+  "total_articles": 389,
   "columns": {
     "学术报告": 300,
     "新闻快递": 21,
-    "研究动态": 48,
+    "研究动态": 52,
     "通知公告": 16
   },
   "articles": [
+    {
+      "title": "物理系尹鑫茂课题组在《Nature Communications》上发表最新成果",
+      "url": "https://physics.shu.edu.cn/info/1076/9894.htm",
+      "date": "2026-10-08",
+      "column": "研究动态"
+    },
+    {
+      "title": "理学院物理系宋宏伟课题组在《ACS Energy Letters》上发表钙钛矿量子点近红外发光 ...",
+      "url": "https://physics.shu.edu.cn/info/1076/9904.htm",
+      "date": "2026-10-08",
+      "column": "研究动态"
+    },
+    {
+      "title": "量子科技研究院Seminar第118讲暨物理学科Seminar第831讲：张广铭 （2026年9月28日1...",
+      "url": "https://physics.shu.edu.cn/info/1078/9864.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院Seminar第119讲暨物理学科Seminar第832讲 ：王华兵（2026年9月28日1...",
+      "url": "https://physics.shu.edu.cn/info/1078/9874.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第833讲：刘博（2026年10月11日上午10:00）",
+      "url": "https://physics.shu.edu.cn/info/1078/9884.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科关于继续接收推荐免试研究生报名的通知",
       "url": "https://physics.shu.edu.cn/info/1015/9844.htm",
@@ -93,24 +123,6 @@
       "title": "物理学科Seminar第822讲:Prof. Dr. Maxim Khlopov(2026年6月29日10:00)",
       "url": "https://physics.shu.edu.cn/info/1078/9664.htm",
       "date": "2026-07-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院Seminar第112讲暨物理学科Seminar第821讲:周健（2026年6月22日15:30...",
-      "url": "https://physics.shu.edu.cn/info/1078/9654.htm",
-      "date": "2026-06-18",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第110讲暨物理学科Seminar第819讲:万贤纲（2026年6月16日14 ...",
-      "url": "https://physics.shu.edu.cn/info/1078/9634.htm",
-      "date": "2026-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第111讲暨物理学科Seminar第820讲：赵宇心（2026年6月16日16...",
-      "url": "https://physics.shu.edu.cn/info/1078/9644.htm",
-      "date": "2026-06-12",
       "column": "学术报告"
     },
     {
@@ -2242,6 +2254,18 @@
       "url": "https://physics.shu.edu.cn/info/1078/1189.htm",
       "date": "2020-10-12",
       "column": "学术报告"
+    },
+    {
+      "title": "物理系陈永聪教授等人在国际著名期刊PNAS上发表研究论文",
+      "url": "https://physics.shu.edu.cn/info/1076/1257.htm",
+      "date": "2020-09-24",
+      "column": "研究动态"
+    },
+    {
+      "title": "云端科技嘉年华 高温超导放异彩——记我校理学院上海市高温超导重点实验室科技节开...",
+      "url": "https://physics.shu.edu.cn/info/1076/1429.htm",
+      "date": "2020-08-25",
+      "column": "研究动态"
     },
     {
       "title": "物理系李永乐等人在国际著名期刊Nano Energy上发表研究论文",
