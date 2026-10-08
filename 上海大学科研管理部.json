@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261008_064502",
+  "crawl_time": "20261008_111004",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于举办首届上海大学技术经理人实务专项培训的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12742.htm",
+      "date": "2026-10-08",
+      "column": "通知公告"
+    },
     {
       "title": "市教委关于组织开展2027年度重型燃气轮机产学研联合创新计划项目申报工作的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12702.htm",
@@ -202,12 +208,6 @@
       "url": "https://mp.weixin.qq.com/s/yBooa5peHo7nttDRajXGgg",
       "date": "2026-08-27",
       "column": "科技动态"
-    },
-    {
-      "title": "2026上海科技青年35人引领计划今起申报",
-      "url": "https://mp.weixin.qq.com/s/CTotYAczQkZx2ZLYEBHHVw?click_id=1440296296",
-      "date": "2026-08-25",
-      "column": "通知公告"
     },
     {
       "title": "双向赋能、共谱新篇！宝山区与上海大学深化战略合作交流会举行",

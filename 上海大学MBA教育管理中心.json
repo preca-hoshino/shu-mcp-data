@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261008_064502",
+  "crawl_time": "20261008_111004",
   "total_articles": 632,
   "columns": {
     "焦点新闻": 375,
@@ -10,6 +10,18 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "招生零距离 | 上海大学MBA2027联考网报专场宣讲会",
+      "url": "https://mp.weixin.qq.com/s/6ALoffQ24K_FSp3eG7NCWA",
+      "date": "2026-10-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "锁定第一志愿！上海大学MBA十月招生活动来袭",
+      "url": "https://mp.weixin.qq.com/s/P-S0P3zg0oSTHh9PSsWAJw",
+      "date": "2026-10-08",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026级GC&GI新生方向选择最终安排的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27641.htm",
@@ -203,22 +215,10 @@
       "column": "通知公告"
     },
     {
-      "title": "公开课报名｜资深跨国企业高管解读：中国工业企业欧洲破局之路",
-      "url": "https://mp.weixin.qq.com/s/hXrOOQ_B4C-9WXAsyA3UcQ",
-      "date": "2026-08-13",
-      "column": "通知公告"
-    },
-    {
       "title": "“草11”载誉凯旋｜2天36.5公里，于坚守之中看见上大力量",
       "url": "https://mp.weixin.qq.com/s/q_gMxR4bAhe2SIMa9id8Ow",
       "date": "2026-08-11",
       "column": "论坛活动"
-    },
-    {
-      "title": "活动预告｜聚势同行·领航新程：上海大学MBA2026新生导向季",
-      "url": "https://mp.weixin.qq.com/s/BkC9oKymDUe-TT7C0j7ONQ",
-      "date": "2026-08-10",
-      "column": "通知公告"
     },
     {
       "title": "2026级SHUMBAer学习进度条刷新：研究生Online",

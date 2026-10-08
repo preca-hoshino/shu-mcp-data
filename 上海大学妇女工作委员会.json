@@ -2,13 +2,25 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20261008_064502",
-  "total_articles": 477,
+  "crawl_time": "20261008_111004",
+  "total_articles": 479,
   "columns": {
-    "新闻动态": 462,
+    "新闻动态": 464,
     "通知公告": 15
   },
   "articles": [
+    {
+      "title": "品读文化瑰宝，赋能美育育人——上海大学女教授联谊会开展文...",
+      "url": "https://mp.weixin.qq.com/s/f3OlHUZvkZVnkBerkYfEOw",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "2026年世界避孕日主题宣传活动开展",
+      "url": "https://fw.shu.edu.cn/info/1189/69576.htm",
+      "date": "2026-09-30",
+      "column": "新闻动态"
+    },
     {
       "title": "向阳而行！全国妇联“小确幸”系列表情包第二辑来啦！",
       "url": "https://mp.weixin.qq.com/s/BISE0dZ7LE6QcFYby_mkQQ",

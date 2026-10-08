@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20261008_064502",
-  "total_articles": 127,
+  "crawl_time": "20261008_111004",
+  "total_articles": 128,
   "columns": {
     "国际交流": 48,
-    "培养管理": 25,
+    "培养管理": 26,
     "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "2026年上海大学研究生宝钢奖学金候选人公示",
+      "url": "https://gs.shu.edu.cn/info/1029/173302.htm",
+      "date": "2026-10-08",
+      "column": "培养管理"
+    },
     {
       "title": "转发：2026博士生国际招生面试交流会的通知",
       "url": "https://gs.shu.edu.cn/info/1030/173292.htm",

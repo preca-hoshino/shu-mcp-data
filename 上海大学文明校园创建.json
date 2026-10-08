@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20261008_064502",
+  "crawl_time": "20261008_111004",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,48 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "党委巡察工作领导小组召开2026年第3次会议",
+      "url": "https://www.shu.edu.cn/info/1056/401115.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党...",
+      "url": "https://www.shu.edu.cn/info/1056/401155.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
+      "url": "https://www.shu.edu.cn/info/1056/401195.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学召开2026年“敬老月”活动协调会",
+      "url": "https://www.shu.edu.cn/info/1056/401245.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "中国民主同盟上海大学第八次代表大会召开",
+      "url": "https://www.shu.edu.cn/info/1056/401255.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "富春江畔学界业界共聚 研学旅游探索高质量发展新程",
+      "url": "https://www.shu.edu.cn/info/1056/401345.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
+    {
+      "title": "深化校企战略协同 赋能核能科技自立自强——上海大学与国家电...",
+      "url": "https://www.shu.edu.cn/info/1056/401355.htm",
+      "date": "2026-10-08",
+      "column": "文明实践"
+    },
     {
       "title": "设计无界，品智生成！上海大学再次亮相世界设计之都大会",
       "url": "https://mp.weixin.qq.com/s/vCzxyMShvpENxDkpzuXuqA",
@@ -113,36 +155,6 @@
       "column": "校园动态"
     },
     {
-      "title": "校地携手 薪火接力——上海大学附属市八中学、上海大学附属市...",
-      "url": "https://www.shu.edu.cn/info/1056/400305.htm",
-      "date": "2026-09-11",
-      "column": "文明实践"
-    },
-    {
-      "title": "民进上海大学委员会6位教授被聘任为上海民进开明科普宣讲团专家",
-      "url": "https://www.shu.edu.cn/info/1056/400125.htm",
-      "date": "2026-08-31",
-      "column": "文明实践"
-    },
-    {
-      "title": "“先进制造国际学术交流研讨会：微纳制造中的力学、计算与测...",
-      "url": "https://www.shu.edu.cn/info/1056/400165.htm",
-      "date": "2026-08-31",
-      "column": "文明实践"
-    },
-    {
-      "title": "凝心聚力 护航新程——上海大学召开 2026 年本科生迎新辅导员...",
-      "url": "https://www.shu.edu.cn/info/1056/400225.htm",
-      "date": "2026-08-31",
-      "column": "文明实践"
-    },
-    {
-      "title": "山区人大换届选举上海大学选区选举工作动员暨培训会举行",
-      "url": "https://www.shu.edu.cn/info/1056/400235.htm",
-      "date": "2026-08-31",
-      "column": "文明实践"
-    },
-    {
       "title": "双向赋能、共谱新篇！宝山区与上海大学深化战略合作交流会举行",
       "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
       "date": "2026-08-17",
@@ -153,18 +165,6 @@
       "url": "https://mp.weixin.qq.com/s/EttuBUcMt6wHwyQFJYBf3Q",
       "date": "2026-08-17",
       "column": "校园动态"
-    },
-    {
-      "title": "2026年TI杯上海市大学生电子设计竞赛测评在上海大学顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/400065.htm",
-      "date": "2026-08-17",
-      "column": "文明实践"
-    },
-    {
-      "title": "“2026运动防治慢性病国际会议”在上海成功召开",
-      "url": "https://www.shu.edu.cn/info/1056/400075.htm",
-      "date": "2026-08-17",
-      "column": "文明实践"
     },
     {
       "title": "中国共产党上海大学第四届委员会第五次全体（扩大）会议召开",
