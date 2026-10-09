@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261008_182851",
+  "crawl_time": "20261009_065251",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -14,6 +14,12 @@
     {
       "title": "关于举办首届上海大学技术经理人实务专项培训的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12742.htm",
+      "date": "2026-10-08",
+      "column": "通知公告"
+    },
+    {
+      "title": "市科委关于征集2026年度上海市概念验证项目的通知",
+      "url": "https://mp.weixin.qq.com/s/cnAAJSAKzcwLvYUtZ_XPoQ",
       "date": "2026-10-08",
       "column": "通知公告"
     },
@@ -183,12 +189,6 @@
       "title": "科技部国际合作司关于发布国家重点研发计划“战略性科技创新合作”重点专项2026年度联合研发与示范项目...",
       "url": "https://kyglb.shu.edu.cn/info/1011/12432.htm",
       "date": "2026-08-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于做好我校2026年国家社科基金高校思想政治理论课研究专项申报工作的通知",
-      "url": "https://mp.weixin.qq.com/s/HqUJOQR8sYPsSH1ElOYKqQ",
-      "date": "2026-08-29",
       "column": "通知公告"
     },
     {
