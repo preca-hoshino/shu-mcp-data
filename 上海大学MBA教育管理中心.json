@@ -2,14 +2,32 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261009_065251",
-  "total_articles": 632,
+  "crawl_time": "20261009_110859",
+  "total_articles": 633,
   "columns": {
-    "焦点新闻": 375,
+    "焦点新闻": 376,
     "论坛活动": 194,
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "预报名开启|手把手带你填报上海大学2027年工商管理硕士（MBA)",
+      "url": "https://mp.weixin.qq.com/s/PRfSncx619KFXhArLmsyZg",
+      "date": "2026-10-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（10月9日-10日）",
+      "url": "https://mp.weixin.qq.com/s/QiP726Snmm65L1swFhms3Q",
+      "date": "2026-10-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "锚定产业变革，培育时代管理者|上海大学MBA2027级招生简章正式发布！",
+      "url": "https://mp.weixin.qq.com/s/bIGtt0ZjlV6rA77aMGobfQ",
+      "date": "2026-10-09",
+      "column": "焦点新闻"
+    },
     {
       "title": "招生零距离 | 上海大学MBA2027联考网报专场宣讲会",
       "url": "https://mp.weixin.qq.com/s/6ALoffQ24K_FSp3eG7NCWA",
@@ -191,12 +209,6 @@
       "column": "论坛活动"
     },
     {
-      "title": "上大MBA公开课报名|资深银行 CIO 深度剖析：金融数智转型下人才需求全新变局",
-      "url": "https://mp.weixin.qq.com/s/fFEWVsiiPkuoddTpWBxKmA",
-      "date": "2026-08-24",
-      "column": "通知公告"
-    },
-    {
       "title": "聚势启新 领速未来|2026级上大MBA新生导向季拓展活动全记录",
       "url": "https://mp.weixin.qq.com/s/Ra_2HjmoizJBv5qHcoZwTQ",
       "date": "2026-08-21",
@@ -207,12 +219,6 @@
       "url": "https://mp.weixin.qq.com/s/4M6JjzWpVqCJnE606eeWvw",
       "date": "2026-08-19",
       "column": "焦点新闻"
-    },
-    {
-      "title": "上大MBA360°职业洞察营9月13日线下专场报名进行中",
-      "url": "https://mp.weixin.qq.com/s/J6kGvB65JDDuTMUkv8q7LA",
-      "date": "2026-08-18",
-      "column": "通知公告"
     },
     {
       "title": "“草11”载誉凯旋｜2天36.5公里，于坚守之中看见上大力量",
