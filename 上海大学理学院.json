@@ -2,10 +2,10 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261009_180033",
-  "total_articles": 3966,
+  "crawl_time": "20261010_062920",
+  "total_articles": 3967,
   "columns": {
-    "主办会议": 41,
+    "主办会议": 42,
     "学术报告": 2649,
     "本科生教务": 39,
     "本科生新闻": 48,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "International Workshop on Applied Mathematics and Scientific Computing (IWAMSC)",
+      "url": "https://scicol.shu.edu.cn/info/1005/34115.htm",
+      "date": "2026-10-10",
+      "column": "主办会议"
+    },
     {
       "title": "物理学科Seminar第833讲 单光子弗洛凯调控非厄米拓扑的观测",
       "url": "https://scicol.shu.edu.cn/info/1003/34105.htm",

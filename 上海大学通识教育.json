@@ -2,13 +2,19 @@
   "domain": "sdts.shu.edu.cn",
   "department": "上海大学通识教育",
   "type": "05",
-  "crawl_time": "20261009_180033",
-  "total_articles": 70,
+  "crawl_time": "20261010_062920",
+  "total_articles": 72,
   "columns": {
-    "新闻动态": 59,
+    "新闻动态": 61,
     "通知公告": 11
   },
   "articles": [
+    {
+      "title": "通识示范课公开课《美育中国》开讲",
+      "url": "https://sdts.shu.edu.cn/info/1037/20513.htm",
+      "date": "2026-10-09",
+      "column": "新闻动态"
+    },
     {
       "title": "关于开展2026年度通识示范课程立项申报工作的通知",
       "url": "https://sdts.shu.edu.cn/info/1581/20503.htm",
@@ -379,6 +385,12 @@
       "title": "我校召开2012年度通识教育委员会工作组第四次会议",
       "url": "https://sdts.shu.edu.cn/info/1037/1104.htm",
       "date": "2012-10-25",
+      "column": "新闻动态"
+    },
+    {
+      "title": "教务处、考评办召开大类改革与教学管理研讨会",
+      "url": "https://sdts.shu.edu.cn/info/1037/1026.htm",
+      "date": "2011-06-16",
       "column": "新闻动态"
     },
     {

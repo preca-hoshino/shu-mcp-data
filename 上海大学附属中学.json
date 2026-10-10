@@ -2,7 +2,7 @@
   "domain": "sdfz.shu.edu.cn",
   "department": "上海大学附属中学",
   "type": "16",
-  "crawl_time": "20261009_180033",
+  "crawl_time": "20261010_062920",
   "total_articles": 682,
   "columns": {
     "招生招聘": 40,
@@ -16,6 +16,18 @@
       "title": "学生菜单及陪餐公示（2026.10.12-2026.10.18）",
       "url": "https://sdfz.shu.edu.cn/info/1109/10338.htm",
       "date": "2026-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026学年10月09日菜品图片公示",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10358.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026学年10月10日菜品图片公示",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10368.htm",
+      "date": "2026-10-10",
       "column": "通知公告"
     },
     {
@@ -175,12 +187,6 @@
       "column": "通知公告"
     },
     {
-      "title": "学生菜单及陪餐公示（2026.9.07-2026.9.13）",
-      "url": "https://sdfz.shu.edu.cn/info/1109/9968.htm",
-      "date": "2026-09-07",
-      "column": "通知公告"
-    },
-    {
       "title": "扎根田野学农耕，躬身实践悟担当 ——上大附中2024级、2025级学农实践活动纪实",
       "url": "https://sdfz.shu.edu.cn/info/1092/10158.htm",
       "date": "2026-09-05",
@@ -195,12 +201,6 @@
     {
       "title": "2026学年上海大学附属中学课表公示",
       "url": "https://sdfz.shu.edu.cn/info/1109/9948.htm",
-      "date": "2026-09-04",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026学年09月04日菜品图片公示",
-      "url": "https://sdfz.shu.edu.cn/info/1109/9978.htm",
       "date": "2026-09-04",
       "column": "通知公告"
     },

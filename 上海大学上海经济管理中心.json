@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20261009_180033",
-  "total_articles": 65,
+  "crawl_time": "20261010_062920",
+  "total_articles": 67,
   "columns": {
     "招生简章": 27,
-    "要闻速递": 38
+    "要闻速递": 40
   },
   "articles": [
+    {
+      "title": "上海大学-法国让穆兰里昂第三大学社会学专业硕士项目第九期毕业典礼在法国里昂举行",
+      "url": "https://jgzx.shu.edu.cn/info/1017/15128.htm",
+      "date": "2026-10-10",
+      "column": "要闻速递"
+    },
     {
       "title": "第八期临港新片区干部专业化能力提升培训顺利启动",
       "url": "https://jgzx.shu.edu.cn/info/1017/15058.htm",
@@ -378,6 +384,12 @@
     {
       "title": "经管中心召开上海市执业经纪人后续教育培训研讨会",
       "url": "https://jgzx.shu.edu.cn/info/1017/2322.htm",
+      "date": "2013-10-26",
+      "column": "要闻速递"
+    },
+    {
+      "title": "上海市金融办副主任吴俊为经管中心学员做主题报告",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2324.htm",
       "date": "2013-10-26",
       "column": "要闻速递"
     },

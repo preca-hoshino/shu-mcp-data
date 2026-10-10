@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261009_180033",
-  "total_articles": 436,
+  "crawl_time": "20261010_062920",
+  "total_articles": 438,
   "columns": {
-    "学术报告": 141,
+    "学术报告": 143,
     "科研动态": 84,
     "综合新闻": 46,
     "通知公告": 165
   },
   "articles": [
+    {
+      "title": "MGI Seminar 第423讲：Prof. Mathias Kläui  （2026年10月17日 星期六 11:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7725.htm",
+      "date": "2026-10-10",
+      "column": "学术报告"
+    },
     {
       "title": "2026年度MGI研究生“国家奖学金”拟推荐人选公示",
       "url": "https://mgi.shu.edu.cn/info/1062/7685.htm",
@@ -2452,6 +2458,12 @@
       "url": "https://mgi.shu.edu.cn/info/1063/1706.htm",
       "date": "2015-12-29",
       "column": "科研动态"
+    },
+    {
+      "title": "MGI Seminar 第32讲：The plastic flow behavior and mechanism of metallic glasses",
+      "url": "https://mgi.shu.edu.cn/info/1065/2054.htm",
+      "date": "2015-10-18",
+      "column": "学术报告"
     },
     {
       "title": "MGI Seminar 第31讲：Li-N-H System for Hydrogen Storage: An Investigation on Reaction Mechanism and Catalytic Effect",

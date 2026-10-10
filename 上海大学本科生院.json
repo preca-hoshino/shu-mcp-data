@@ -2,11 +2,11 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261009_180033",
-  "total_articles": 1822,
+  "crawl_time": "20261010_062920",
+  "total_articles": 1823,
   "columns": {
     "政策文件": 58,
-    "新闻动态": 39,
+    "新闻动态": 40,
     "通知公告": 1725
   },
   "articles": [
@@ -15,6 +15,12 @@
       "url": "https://bksy.shu.edu.cn/info/1015/322204.htm",
       "date": "2026-10-09",
       "column": "通知公告"
+    },
+    {
+      "title": "通识示范课公开课《美育中国》开讲",
+      "url": "https://bksy.shu.edu.cn/info/1016/322214.htm",
+      "date": "2026-10-09",
+      "column": "新闻动态"
     },
     {
       "title": "2026-2027学年秋季学期上海大学教师校内自习辅导信息表",
