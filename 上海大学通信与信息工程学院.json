@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261010_102627",
-  "total_articles": 2033,
+  "crawl_time": "20261010_141149",
+  "total_articles": 2034,
   "columns": {
     "学术报告": 525,
     "教学信息": 21,
     "新闻动态": 1267,
-    "通知公告": 220
+    "通知公告": 221
   },
   "articles": [
+    {
+      "title": "通信学院关于选聘眭韵等四位教师为学院专项工作协管助理的通知",
+      "url": "https://scie.shu.edu.cn/info/1065/47055.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
     {
       "title": "行健讲坛 №552 －面向学生与学者的远程实验室合作模式",
       "url": "https://scie.shu.edu.cn/info/1067/47025.htm",
