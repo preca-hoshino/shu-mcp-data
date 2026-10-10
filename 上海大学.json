@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261010_062920",
+  "crawl_time": "20261010_102627",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,42 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "核电关键材料全国重点实验室施思齐教授团队提出电解液氧化稳定性评估新策略",
+      "url": "https://www.shu.edu.cn/info/1055/401475.htm",
+      "date": "2026-10-10",
+      "column": "科研动态"
+    },
+    {
+      "title": "月满华诞聚侨心 薪火相传话新程——上海大学侨联2026年中秋国庆座谈会侧记",
+      "url": "https://www.shu.edu.cn/info/1056/401455.htm",
+      "date": "2026-10-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "筑牢节前安全防线 守护平安祥和校园——我校开展校园安全专项检查",
+      "url": "https://www.shu.edu.cn/info/1056/401465.htm",
+      "date": "2026-10-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学-法国让穆兰里昂第三大学社会学专业硕士项目第九期毕业典礼在法国里昂举行",
+      "url": "https://www.shu.edu.cn/info/1056/401485.htm",
+      "date": "2026-10-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "清华大学仲伟民教授做客期刊社“奋楫论坛”",
+      "url": "https://www.shu.edu.cn/info/1056/401495.htm",
+      "date": "2026-10-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
+      "url": "https://www.shu.edu.cn/info/1056/401505.htm",
+      "date": "2026-10-10",
+      "column": "综合新闻"
+    },
     {
       "title": "[公示]上海大学本科及以上中外合作办学机构和项目2025年度办学报告",
       "url": "https://www.shu.edu.cn/info/1051/401445.htm",
@@ -66,12 +102,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "中国民主同盟上海大学第八次代表大会召开",
-      "url": "https://www.shu.edu.cn/info/1056/401255.htm",
-      "date": "2026-09-29",
-      "column": "综合新闻"
-    },
-    {
       "title": "上海温哥华电影学院教学案例入选联合国教科文组织",
       "url": "https://www.shu.edu.cn/info/1056/401285.htm",
       "date": "2026-09-29",
@@ -84,34 +114,10 @@
       "column": "科研动态"
     },
     {
-      "title": "中欧工程技术学院召开树立和践行正确政绩观学习教育总结会",
-      "url": "https://www.shu.edu.cn/info/1056/401185.htm",
-      "date": "2026-09-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
-      "url": "https://www.shu.edu.cn/info/1056/401195.htm",
-      "date": "2026-09-28",
-      "column": "综合新闻"
-    },
-    {
       "title": "2026年人大换届选举上海大学选区召开工作推进会",
       "url": "https://www.shu.edu.cn/info/1053/401145.htm",
       "date": "2026-09-24",
       "column": "重要新闻"
-    },
-    {
-      "title": "法学院党委召开树立和践行正确政绩观学习教育总结会暨师生党支部书记工作例会",
-      "url": "https://www.shu.edu.cn/info/1056/401155.htm",
-      "date": "2026-09-24",
-      "column": "综合新闻"
-    },
-    {
-      "title": "筑梦蓝天 使命必达——继续教育学院举办\"业界导师引领工程\"之\"劳模工匠课堂\"暨2026-2027学年秋季学期首日教育",
-      "url": "https://www.shu.edu.cn/info/1056/401135.htm",
-      "date": "2026-09-23",
-      "column": "综合新闻"
     },
     {
       "title": "关于开展2026年秋季爱国卫生运动的通知",
@@ -166,12 +172,6 @@
       "url": "https://mp.weixin.qq.com/s/ZCvPBLFeA6n-CqLa_tNhHQ",
       "date": "2026-09-13",
       "column": "重要新闻"
-    },
-    {
-      "title": "环化学院毕业研究生王康博士在《Advanced Functional Materials》发表研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/400445.htm",
-      "date": "2026-09-11",
-      "column": "科研动态"
     },
     {
       "title": "上海大学举行2026年秋季中层干部专题研修班",

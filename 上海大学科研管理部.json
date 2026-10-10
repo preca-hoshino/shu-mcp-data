@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261010_062920",
+  "crawl_time": "20261010_102627",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -14,6 +14,18 @@
     {
       "title": "上海市科学技术委员会关于发布2026年度“6G科技创新与未来产业培育战略前沿专项”公开征集项目申报指南...",
       "url": "https://kyglb.shu.edu.cn/info/1011/12762.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（引领培育类）”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12772.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（重点支撑类—第三批）”项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12782.htm",
       "date": "2026-10-10",
       "column": "通知公告"
     },
@@ -144,12 +156,6 @@
       "column": "科技动态"
     },
     {
-      "title": "关于上海大学专利类无形资产情况的公示 （2026年7-8月）",
-      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12522",
-      "date": "2026-09-14",
-      "column": "通知公告"
-    },
-    {
       "title": "新华社：上海（长三角）国际科创中心向新、向深、向全球｜浦江创新论坛",
       "url": "https://mp.weixin.qq.com/s/rielaZN3t7kqVS-gC3N2Mg?click_id=992023694",
       "date": "2026-09-14",
@@ -178,12 +184,6 @@
       "url": "https://mp.weixin.qq.com/s/22ZTXbQiH5t82cvFmgAQTg",
       "date": "2026-09-04",
       "column": "科技动态"
-    },
-    {
-      "title": "市科委关于发布2026年度关键技术研发计划“前沿与交叉技术领域”项目申报指南的通知",
-      "url": "https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260901/7df4ba1484104c909b04d1fac49e9e35.html",
-      "date": "2026-09-02",
-      "column": "通知公告"
     },
     {
       "title": "新出炉！《2025上海科技成果转化白皮书》Unit1：政策篇",

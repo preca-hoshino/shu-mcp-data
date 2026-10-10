@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261010_062920",
-  "total_articles": 582,
+  "crawl_time": "20261010_102627",
+  "total_articles": 583,
   "columns": {
-    "学术活动预告": 400,
+    "学术活动预告": 401,
     "学术研究": 34,
     "学院新闻": 57,
     "通知公告": 91
   },
   "articles": [
+    {
+      "title": "澳大利亚学者Gillian Dooley文学系列讲座预告",
+      "url": "https://sfs.shu.edu.cn/info/1148/31487.htm",
+      "date": "2026-10-10",
+      "column": "学术活动预告"
+    },
     {
       "title": "融通中外 语通世界——外国语学院2026级新生见面会暨院长第一课顺利举行",
       "url": "https://sfs.shu.edu.cn/info/1142/31407.htm",

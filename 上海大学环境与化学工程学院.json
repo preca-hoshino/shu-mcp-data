@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261010_062920",
+  "crawl_time": "20261010_102627",
   "total_articles": 1003,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 120
   },
   "articles": [
+    {
+      "title": "弘扬教育家精神 立德树人铸师魂 ——我院开展2027年师德师风月系列活动",
+      "url": "https://ece.shu.edu.cn/info/1149/90144.htm",
+      "date": "2026-10-10",
+      "column": "学院新闻"
+    },
     {
       "title": "练于行 防于心——环化学院开展两校区消防安全演练",
       "url": "https://ece.shu.edu.cn/info/1149/90134.htm",
@@ -184,12 +190,6 @@
     {
       "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
       "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
-      "date": "2026-08-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】大一新生必看第一篇|核心课程准备，从暑假开始（数理化篇）",
-      "url": "https://mp.weixin.qq.com/s/R5X8ORmIIxI5GcQlcLsZgw",
       "date": "2026-08-18",
       "column": "学院新闻"
     },

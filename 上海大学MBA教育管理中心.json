@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261010_062920",
+  "crawl_time": "20261010_102627",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,30 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2026年上海大学MBA中心2026级研究生学业奖学金候选人初选名单的公示",
+      "url": "https://mba.shu.edu.cn/info/1024/27711.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年上海大学MBA中心2025级研究生学业奖学金候选人初选名单的公示",
+      "url": "https://mba.shu.edu.cn/info/1024/27721.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年上海大学MBA中心研究生国家奖学金候选人初选名单的公示",
+      "url": "https://mba.shu.edu.cn/info/1024/27731.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年上海大学MBA中心研究生校长奖学金候选人初选名单的公示",
+      "url": "https://mba.shu.edu.cn/info/1024/27741.htm",
+      "date": "2026-10-10",
+      "column": "通知公告"
+    },
     {
       "title": "预报名开启|手把手带你填报上海大学2027年工商管理硕士（MBA)",
       "url": "https://mp.weixin.qq.com/s/PRfSncx619KFXhArLmsyZg",
@@ -137,12 +161,6 @@
       "column": "通知公告"
     },
     {
-      "title": "招生动态|上大MBA项目招生宣讲会（9月15日-18日）",
-      "url": "https://mp.weixin.qq.com/s/4iEg7PtIZzNdhNrCBwkCIg",
-      "date": "2026-09-15",
-      "column": "通知公告"
-    },
-    {
       "title": "多元聚首 共启新程 2026级国际新生Orientation活动顺利举办",
       "url": "https://mp.weixin.qq.com/s/PkMkGd-_3yAoxwSHtNgEkA",
       "date": "2026-09-15",
@@ -167,12 +185,6 @@
       "column": "论坛活动"
     },
     {
-      "title": "上海大学2026-2027学年秋季学期研究生开学注册通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27391.htm",
-      "date": "2026-09-11",
-      "column": "通知公告"
-    },
-    {
       "title": "桃李芬芳廿二载，师恩似海映初心——上海大学MBA中心教师节致敬全体教师",
       "url": "https://mp.weixin.qq.com/s/2_5D3LbOt5CNCK2_XVF1JQ",
       "date": "2026-09-11",
@@ -183,18 +195,6 @@
       "url": "https://mp.weixin.qq.com/s/4FUoFozy-l1Y83DMC2ZSPA",
       "date": "2026-09-11",
       "column": "焦点新闻"
-    },
-    {
-      "title": "关于2026-2027学年学生商业保险购买的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27361.htm",
-      "date": "2026-09-09",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026级新生入学报到人像采集的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27351.htm",
-      "date": "2026-09-07",
-      "column": "通知公告"
     },
     {
       "title": "选对赛道，赢在起点｜上海大学MBA专业方向学术主任为2026级新生详解专业方向",
