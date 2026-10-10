@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261010_141149",
+  "crawl_time": "20261010_170057",
   "total_articles": 1823,
   "columns": {
     "政策文件": 58,
@@ -10,12 +10,6 @@
     "通知公告": 1725
   },
   "articles": [
-    {
-      "title": "关于2026年度上海大学校级重点课程拟立项名单的公示",
-      "url": "https://bksy.shu.edu.cn/info/1015/322204.htm",
-      "date": "2026-10-09",
-      "column": "通知公告"
-    },
     {
       "title": "通识示范课公开课《美育中国》开讲",
       "url": "https://bksy.shu.edu.cn/info/1016/322214.htm",
@@ -146,6 +140,12 @@
       "title": "关于 2026-2027 学年秋季学期本研互选工作安排的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/321814.htm",
       "date": "2026-09-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于毕业班及延长学籍学生游泳公选课的选课通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/321804.htm",
+      "date": "2026-09-11",
       "column": "通知公告"
     },
     {
