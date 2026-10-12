@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261012_114138",
+  "crawl_time": "20261012_171916",
   "total_articles": 418,
   "columns": {
     "学术活动": 25,
@@ -14,6 +14,18 @@
     {
       "title": "计算机学院冷拓教授团队在人工智能国际顶会NeurIPS 2026上发表机器证明FormalGeo系列最新研究成果",
       "url": "https://mp.weixin.qq.com/s/Yv4o5kIMUJO3Q8Vnv5fEEw",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "深化校企合作，聚力人才培养 ——上海大学计算机工程与科学学院与UCloud优刻得开展校企合作交流",
+      "url": "https://mp.weixin.qq.com/s/a4Opzwl90lLPdWEj_8wyFg",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "喜报！计算机学院学子在第十九届中国大学生计算机设计大赛荣获多项国奖",
+      "url": "https://mp.weixin.qq.com/s/jxaXBiJ64dTGrQkhqPNUnQ",
       "date": "2026-10-01",
       "column": "新闻动态"
     },
@@ -164,18 +176,6 @@
     {
       "title": "行走课堂丨走进哔哩哔哩，感受企业创新活力",
       "url": "https://mp.weixin.qq.com/s/pgKjXGHm0K7PYkLfwabjxg",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "计算机工程与科学学院第二十次团员代表大会暨第二十一次学生代表大会顺利召开",
-      "url": "https://mp.weixin.qq.com/s/x5klTbePCAQvcQiMed9KwA",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "计算机学院本科生第二党支部开展“红迹沪上·青春砺行”主题实践活动",
-      "url": "https://mp.weixin.qq.com/s/yhjx6r6oC4dtryPtgLBTMg",
       "date": "2026-07-01",
       "column": "新闻动态"
     },

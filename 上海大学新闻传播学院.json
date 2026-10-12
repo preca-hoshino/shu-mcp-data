@@ -2,8 +2,8 @@
   "domain": "sjc.shu.edu.cn",
   "department": "上海大学新闻传播学院",
   "type": "32",
-  "crawl_time": "20261012_114138",
-  "total_articles": 229,
+  "crawl_time": "20261012_171916",
+  "total_articles": 230,
   "columns": {
     "党务公开": 13,
     "媒体聚焦": 14,
@@ -11,9 +11,21 @@
     "学院公告": 62,
     "本科生教育": 24,
     "研究生教育": 29,
-    "综合新闻": 42
+    "综合新闻": 43
   },
   "articles": [
+    {
+      "title": "立德树人守初心 师德师风铸师魂——新闻传播学院举办师德师风建设专题宣讲会",
+      "url": "https://sjc.shu.edu.cn/info/1009/6659.htm",
+      "date": "2026-10-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学新闻传播学院顺利召开2026年第三次全体教师大会",
+      "url": "https://sjc.shu.edu.cn/info/1009/6669.htm",
+      "date": "2026-10-12",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学新闻传播学院召开树立和践行正确政绩观学习教育总结会",
       "url": "https://sjc.shu.edu.cn/info/1002/6649.htm",
@@ -1169,12 +1181,6 @@
     {
       "title": "首日教育丨新闻传播学院顺利开展春季学期首日教育活动",
       "url": "https://sjc.shu.edu.cn/info/1009/1157.htm",
-      "date": "2019-03-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“上海城市形象和网络舆情”工作坊顺利举行",
-      "url": "https://sjc.shu.edu.cn/info/1009/1158.htm",
       "date": "2019-03-27",
       "column": "综合新闻"
     },
