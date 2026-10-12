@@ -2,15 +2,33 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20261012_064036",
-  "total_articles": 339,
+  "crawl_time": "20261012_114138",
+  "total_articles": 342,
   "columns": {
     "新闻动态": 254,
     "讲座信息": 8,
     "资讯动态": 2,
-    "通知公告": 75
+    "通知公告": 78
   },
   "articles": [
+    {
+      "title": "2026年微电子学院研究生学业奖学金评审推荐名单公示",
+      "url": "https://sme.shu.edu.cn/info/1030/7812.htm",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年微电子学院研究生国家奖学金评审推选公示",
+      "url": "https://sme.shu.edu.cn/info/1030/7822.htm",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年微电子学院研究生校长奖学金评审推选公示",
+      "url": "https://sme.shu.edu.cn/info/1030/7832.htm",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
     {
       "title": "2026国际产学研用合作会议智能感知分论坛暨第四届中瑞先进技术研究院科技创新日举行",
       "url": "https://sme.shu.edu.cn/info/1029/7742.htm",

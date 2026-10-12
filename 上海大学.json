@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261012_064036",
+  "crawl_time": "20261012_114138",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -20,6 +20,12 @@
     {
       "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师风月系列活动",
       "url": "https://www.shu.edu.cn/info/1056/401515.htm",
+      "date": "2026-10-12",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
+      "url": "https://www.shu.edu.cn/info/1056/401535.htm",
       "date": "2026-10-12",
       "column": "综合新闻"
     },
@@ -106,12 +112,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401305.htm",
       "date": "2026-09-29",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学召开2026年“敬老月”活动协调会",
-      "url": "https://www.shu.edu.cn/info/1056/401245.htm",
-      "date": "2026-09-29",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学张统一院士等获云南省科学技术进步奖一等奖",

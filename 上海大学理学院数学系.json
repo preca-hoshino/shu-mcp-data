@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261012_064036",
+  "crawl_time": "20261012_114138",
   "total_articles": 1610,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,24 @@
     "新闻快递": 172
   },
   "articles": [
+    {
+      "title": "Seminar第3076讲 代数几何解背景下散焦Schrodinger方程的潘勒韦34的渐近性",
+      "url": "https://math.shu.edu.cn/info/1042/27171.htm",
+      "date": "2026-10-12",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3077讲 基于模型驱动的神经网络应用",
+      "url": "https://math.shu.edu.cn/info/1042/27181.htm",
+      "date": "2026-10-12",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3078讲 如何上好一堂课",
+      "url": "https://math.shu.edu.cn/info/1042/27191.htm",
+      "date": "2026-10-12",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3075讲 三角翼与Λ形乘波体的超音速绕流",
       "url": "https://math.shu.edu.cn/info/1042/27161.htm",
@@ -125,27 +143,9 @@
       "column": "新闻快递"
     },
     {
-      "title": "Seminar第3059讲 关于k-数值范围的多重性",
-      "url": "https://math.shu.edu.cn/info/1042/26891.htm",
-      "date": "2026-06-05",
-      "column": "学术报告"
-    },
-    {
       "title": "Seminar第3060讲 保秩横截性质(RPTP)的最新进展",
       "url": "https://math.shu.edu.cn/info/1042/26901.htm",
       "date": "2026-06-05",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3058讲 补偿列紧理论在交通流方程组上的应用",
-      "url": "https://math.shu.edu.cn/info/1042/26881.htm",
-      "date": "2026-06-04",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3057讲 与Zygmund伸缩相关的多参数调和分析的区域变量方法(2)",
-      "url": "https://math.shu.edu.cn/info/1042/26871.htm",
-      "date": "2026-06-03",
       "column": "学术报告"
     },
     {

@@ -2,13 +2,19 @@
   "domain": "zcb.shu.edu.cn",
   "department": "上海大学房屋资产管理处",
   "type": "28",
-  "crawl_time": "20261012_064036",
-  "total_articles": 42,
+  "crawl_time": "20261012_114138",
+  "total_articles": 44,
   "columns": {
-    "通知公告": 32,
+    "通知公告": 34,
     "部门新闻": 10
   },
   "articles": [
+    {
+      "title": "2026年老职工住房补贴一榜情况公示",
+      "url": "https://zcb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1017&wbnewsid=4495",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
     {
       "title": "房屋资产管理处2026年暑假值班安排",
       "url": "https://zcb.shu.edu.cn/info/1017/4405.htm",
@@ -218,6 +224,12 @@
       "url": "https://zcb.shu.edu.cn/info/1016/3105.htm",
       "date": "2024-09-23",
       "column": "部门新闻"
+    },
+    {
+      "title": "上海大学教师公寓周边市场租金情况",
+      "url": "https://zcb.shu.edu.cn/info/1017/1423.htm",
+      "date": "2015-06-23",
+      "column": "通知公告"
     },
     {
       "title": "房产处电话调整通知",

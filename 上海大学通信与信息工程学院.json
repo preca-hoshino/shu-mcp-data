@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261012_064036",
-  "total_articles": 2035,
+  "crawl_time": "20261012_114138",
+  "total_articles": 2036,
   "columns": {
-    "学术报告": 525,
+    "学术报告": 526,
     "教学信息": 22,
     "新闻动态": 1267,
     "通知公告": 221
   },
   "articles": [
+    {
+      "title": "行健讲坛 №554 －有限码长信息论基础理论研究",
+      "url": "https://scie.shu.edu.cn/info/1067/47075.htm",
+      "date": "2026-10-12",
+      "column": "学术报告"
+    },
     {
       "title": "通信学院2026-2027学年秋季学期自习辅导安排表",
       "url": "https://scie.shu.edu.cn/info/1070/47065.htm",
