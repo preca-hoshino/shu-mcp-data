@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261011_172418",
-  "total_articles": 2034,
+  "crawl_time": "20261012_064036",
+  "total_articles": 2035,
   "columns": {
     "学术报告": 525,
-    "教学信息": 21,
+    "教学信息": 22,
     "新闻动态": 1267,
     "通知公告": 221
   },
   "articles": [
+    {
+      "title": "通信学院2026-2027学年秋季学期自习辅导安排表",
+      "url": "https://scie.shu.edu.cn/info/1070/47065.htm",
+      "date": "2026-10-12",
+      "column": "教学信息"
+    },
     {
       "title": "通信学院关于选聘眭韵等四位教师为学院专项工作协管助理的通知",
       "url": "https://scie.shu.edu.cn/info/1065/47055.htm",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261011_172418",
+  "crawl_time": "20261012_064036",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "自然资源部关于发布深地国家科技重大专项2026年度第二批公开项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12792.htm",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
     {
       "title": "上海市科学技术委员会关于发布2026年度“6G科技创新与未来产业培育战略前沿专项”公开征集项目申报指南...",
       "url": "https://kyglb.shu.edu.cn/info/1011/12762.htm",
@@ -76,12 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401305.htm",
       "date": "2026-09-29",
       "column": "科技动态"
-    },
-    {
-      "title": "关于绍兴市军民深度融合综合服务中心运营单位项目的公示",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12662.htm",
-      "date": "2026-09-24",
-      "column": "通知公告"
     },
     {
       "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第三批项目（非密...",

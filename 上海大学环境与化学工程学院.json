@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261011_172418",
-  "total_articles": 1006,
+  "crawl_time": "20261012_064036",
+  "total_articles": 1007,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 74,
     "研究生教学": 216,
     "科研动态": 118,
-    "通知公告": 120
+    "通知公告": 121
   },
   "articles": [
+    {
+      "title": "环化学院党群接待日公告20261016",
+      "url": "https://ece.shu.edu.cn/info/1147/90224.htm",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
     {
       "title": "弘扬教育家精神 立德树人铸师魂 ——我院开展2027年师德师风月系列活动",
       "url": "https://ece.shu.edu.cn/info/1149/90144.htm",

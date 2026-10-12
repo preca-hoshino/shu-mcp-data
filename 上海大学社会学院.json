@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261011_172418",
-  "total_articles": 2605,
+  "crawl_time": "20261012_064036",
+  "total_articles": 2606,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
     "学术动态": 572,
-    "学术报告": 155,
+    "学术报告": 156,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,12 @@
     "通知公告": 54
   },
   "articles": [
+    {
+      "title": "党建引领是基层治理的魂",
+      "url": "https://sociology.shu.edu.cn/info/1105/43898.htm",
+      "date": "2026-10-12",
+      "column": "学术报告"
+    },
     {
       "title": "关于启动2026年上海大学学生海外学习交流与国际组织实习实践资助申报工作的通知",
       "url": "https://sociology.shu.edu.cn/info/1103/43858.htm",

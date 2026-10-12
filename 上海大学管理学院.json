@@ -2,7 +2,7 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261011_172418",
+  "crawl_time": "20261012_064036",
   "total_articles": 813,
   "columns": {
     "学术活动": 205,
@@ -62,12 +62,6 @@
       "title": "2026年研究生宝钢奖学金管理学院候选人公示",
       "url": "https://ms.shu.edu.cn/info/1245/92585.htm",
       "date": "2026-09-18",
-      "column": "重要通知"
-    },
-    {
-      "title": "管理学院2025-2026学年国家励志奖学初评名单公示",
-      "url": "https://ms.shu.edu.cn/info/1245/92555.htm",
-      "date": "2026-09-16",
       "column": "重要通知"
     },
     {
@@ -1292,6 +1286,12 @@
       "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
       "url": "https://ms.shu.edu.cn/disiluntongzhishanghaidaxue.pdf",
       "date": "2023-06-21",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/84424.htm",
+      "date": "2023-06-16",
       "column": "重要通知"
     },
     {

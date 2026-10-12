@@ -2,16 +2,22 @@
   "domain": "skl4nm.shu.edu.cn",
   "department": "上海大学核电关键材料全国重点实验室",
   "type": "06",
-  "crawl_time": "20261011_172418",
-  "total_articles": 27,
+  "crawl_time": "20261012_064036",
+  "total_articles": 28,
   "columns": {
     "开放课题": 1,
     "招生招聘": 1,
     "新闻资讯": 10,
     "研究成果": 5,
-    "通知公告": 10
+    "通知公告": 11
   },
   "articles": [
+    {
+      "title": "2026年核电关键材料全国重点实验室兴邦奖学金获奖名单公示",
+      "url": "https://skl4nm.shu.edu.cn/info/1031/2081.htm",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
     {
       "title": "新闻| 实验室主任郑明光应邀出席2026核聚变能大会主题论坛并致辞",
       "url": "https://mp.weixin.qq.com/s/xZi3LOi889yENkszgburOA",

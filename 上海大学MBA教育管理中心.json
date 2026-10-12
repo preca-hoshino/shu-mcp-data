@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261011_172418",
+  "crawl_time": "20261012_064036",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "招生动态|上大MBA项目招生宣讲会（10月12日-17日）",
+      "url": "https://mp.weixin.qq.com/s/6znu9AjHLdQhvcVrvvRsSQ",
+      "date": "2026-10-12",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026年上海大学MBA中心2026级研究生学业奖学金候选人初选名单的公示",
       "url": "https://mba.shu.edu.cn/info/1024/27711.htm",
@@ -152,12 +158,6 @@
       "title": "上大MBA360°职业洞察营10月17日线上专场报名进行中",
       "url": "https://mp.weixin.qq.com/s/W2L_rENW_LWhS-GGiVoqjw",
       "date": "2026-09-16",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026级GC&GI新生专业方向选择的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27451.htm",
-      "date": "2026-09-15",
       "column": "通知公告"
     },
     {

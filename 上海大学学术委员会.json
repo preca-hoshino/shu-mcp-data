@@ -2,16 +2,40 @@
   "domain": "ac.shu.edu.cn",
   "department": "上海大学学术委员会",
   "type": "02",
-  "crawl_time": "20261011_172418",
-  "total_articles": 205,
+  "crawl_time": "20261012_064036",
+  "total_articles": 209,
   "columns": {
     "上大学术": 21,
-    "学术资讯": 92,
-    "学风建设": 63,
+    "学术资讯": 94,
+    "学风建设": 65,
     "服务指南": 6,
     "通知发文": 23
   },
   "articles": [
+    {
+      "title": "习近平：在加强基础研究座谈会上的讲话",
+      "url": "https://article.xuexi.cn/articles/index.html?art_id=9938761085669058498&source=share&study_style_id=feeds_default&reco_id=103b7a08651fc0a82218000y&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=9938761085669058498",
+      "date": "2026-10-12",
+      "column": "学术资讯"
+    },
+    {
+      "title": "中共中央国务院关于发展新质生产力的意见",
+      "url": "https://mp.weixin.qq.com/s/HSHHRxK4r0IbIqZulxpmxg",
+      "date": "2026-10-12",
+      "column": "学术资讯"
+    },
+    {
+      "title": "中国科协主席韩启德：“从许多诺奖获得者身上能看到纯粹发自内心对科学的追求是科学发展的强大动力”",
+      "url": "https://mp.weixin.qq.com/s/VgzRa-x0xrOqrHig2ruG-g",
+      "date": "2026-10-12",
+      "column": "学风建设"
+    },
+    {
+      "title": "基础研究，对建设科技强国意味着什么",
+      "url": "https://mp.weixin.qq.com/s/nlpEOA9H7Jez_c1isNpy-w",
+      "date": "2026-10-12",
+      "column": "学风建设"
+    },
     {
       "title": "让学术圈“不能假、不敢假、不想假”",
       "url": "https://mp.weixin.qq.com/s/iym5H6l2eHMVC9fnOB1Bsg?scene=1&click_id=817008623",

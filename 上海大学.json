@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261011_172418",
+  "crawl_time": "20261012_064036",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "党课开讲啦！传承红色基因 走好新时代的长征路！",
+      "url": "https://mp.weixin.qq.com/s/E1HuH5cPq5OPAkXGWShKpA",
+      "date": "2026-10-12",
+      "column": "重要新闻"
+    },
+    {
+      "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师风月系列活动",
+      "url": "https://www.shu.edu.cn/info/1056/401515.htm",
+      "date": "2026-10-12",
+      "column": "综合新闻"
+    },
     {
       "title": "核电关键材料全国重点实验室施思齐教授团队提出电解液氧化稳定性评估新策略",
       "url": "https://www.shu.edu.cn/info/1055/401475.htm",
@@ -98,12 +110,6 @@
     {
       "title": "上海大学召开2026年“敬老月”活动协调会",
       "url": "https://www.shu.edu.cn/info/1056/401245.htm",
-      "date": "2026-09-29",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海温哥华电影学院教学案例入选联合国教科文组织",
-      "url": "https://www.shu.edu.cn/info/1056/401285.htm",
       "date": "2026-09-29",
       "column": "综合新闻"
     },
@@ -207,12 +213,6 @@
       "title": "宝山区与上海大学深化战略合作交流会举行",
       "url": "https://mp.weixin.qq.com/s/EKqcUXGTtWSGh7d_BVccAQ",
       "date": "2026-08-17",
-      "column": "重要新闻"
-    },
-    {
-      "title": "环球自然日2026年度全国总决选在上海大学开幕",
-      "url": "https://mp.weixin.qq.com/s/KkfXHkPmneokT3wEMccfiQ",
-      "date": "2026-08-08",
       "column": "重要新闻"
     },
     {
