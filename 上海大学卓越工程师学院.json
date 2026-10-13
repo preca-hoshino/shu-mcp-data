@@ -2,15 +2,21 @@
   "domain": "zhgy.shu.edu.cn",
   "department": "上海大学卓越工程师学院",
   "type": "01",
-  "crawl_time": "20261012_205743",
-  "total_articles": 70,
+  "crawl_time": "20261013_071048",
+  "total_articles": 73,
   "columns": {
-    "新闻动态": 23,
+    "新闻动态": 26,
     "科研动态": 6,
     "通知公告": 30,
     "集中课程": 11
   },
   "articles": [
+    {
+      "title": "上海大学卓越工程师学院开学见面会暨卓越启航大讲堂圆满举办",
+      "url": "https://mp.weixin.qq.com/s/dpRecjDaCowRPP7WuVPG_A",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
     {
       "title": "卓越工程师学院关于开展2026年度示范性校企导师团队申报的通知",
       "url": "https://zhgy.shu.edu.cn/info/1021/2991.htm",
@@ -36,6 +42,12 @@
       "column": "通知公告"
     },
     {
+      "title": "走近产教前沿！两场专题活动，助力上大学子逐梦硬核科技领域",
+      "url": "https://mp.weixin.qq.com/s/Qk8TwPisa7hpq3QYzwvELw",
+      "date": "2026-09-20",
+      "column": "新闻动态"
+    },
+    {
       "title": "聚力临港，筑梦卓越 | 上海大学卓越工程师学院临港基地2027级研究生招生座谈会",
       "url": "https://mp.weixin.qq.com/s/ViBCtW3bFsk3G8LfylLUTg",
       "date": "2026-09-15",
@@ -58,6 +70,12 @@
       "url": "https://zhgy.shu.edu.cn/info/1031/2891.htm",
       "date": "2026-07-17",
       "column": "集中课程"
+    },
+    {
+      "title": "临港新片区管委会-上海大学校企协同育人对接会举行",
+      "url": "https://zhgy.shu.edu.cn/info/1151/2861.htm",
+      "date": "2026-07-05",
+      "column": "新闻动态"
     },
     {
       "title": "上海大学卓越工程师学院“卓越筑梦——走进宝武”活动圆满举行",

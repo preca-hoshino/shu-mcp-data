@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261012_205743",
-  "total_articles": 3967,
+  "crawl_time": "20261013_071048",
+  "total_articles": 3970,
   "columns": {
     "主办会议": 42,
-    "学术报告": 2649,
+    "学术报告": 2652,
     "本科生教务": 39,
     "本科生新闻": 48,
     "研究生教务": 45,
@@ -16,6 +16,24 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第834讲 量子光学相干介质与量子原子气体中的莫尔物理",
+      "url": "https://scicol.shu.edu.cn/info/1003/34125.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3077讲 基于模型驱动的神经网络应用",
+      "url": "https://scicol.shu.edu.cn/info/1003/34135.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3078讲 如何上好一堂课",
+      "url": "https://scicol.shu.edu.cn/info/1003/34145.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
     {
       "title": "International Workshop on Applied Mathematics and Scientific Computing (IWAMSC)",
       "url": "https://scicol.shu.edu.cn/info/1005/34115.htm",

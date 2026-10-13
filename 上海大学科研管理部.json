@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261012_205743",
+  "crawl_time": "20261013_071048",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -16,6 +16,18 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/12792.htm",
       "date": "2026-10-12",
       "column": "通知公告"
+    },
+    {
+      "title": "100+硬核成果集中亮相！来这个“馆”遇见未来智造",
+      "url": "https://mp.weixin.qq.com/s/hWPUmC--XBWXQwYtnnZDNA",
+      "date": "2026-10-12",
+      "column": "科技动态"
+    },
+    {
+      "title": "顶尖科学家面对面！上海大学参与的这场科学盛会，与您相约！",
+      "url": "https://mp.weixin.qq.com/s/imdbSGBwfey-iULhdy6B5w",
+      "date": "2026-10-12",
+      "column": "科技动态"
     },
     {
       "title": "上海市科学技术委员会关于发布2026年度“6G科技创新与未来产业培育战略前沿专项”公开征集项目申报指南...",
@@ -34,6 +46,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/12782.htm",
       "date": "2026-10-10",
       "column": "通知公告"
+    },
+    {
+      "title": "触摸未来脉搏，2026中国工博会“创新科技馆”即将登场",
+      "url": "https://mp.weixin.qq.com/s/0bkU8OQE6uQi4USd2dPQMw",
+      "date": "2026-10-10",
+      "column": "科技动态"
     },
     {
       "title": "关于举办首届上海大学技术经理人实务专项培训的通知",
@@ -249,24 +267,6 @@
       "title": "比拼硅光“硬功夫”，前沿技术加快从实验室走向产业",
       "url": "https://mp.weixin.qq.com/s/9uQZL0-qzlmTvz43K-4Akw?click_id=621980310",
       "date": "2026-08-06",
-      "column": "科技动态"
-    },
-    {
-      "title": "人民日报头版：上海稳步建设全球科创高地",
-      "url": "https://mp.weixin.qq.com/s/HJSsBSRpafGMhjRO0rkhZg?click_id=1822241106",
-      "date": "2026-08-03",
-      "column": "科技动态"
-    },
-    {
-      "title": "聚焦青年科技创新力量，新一届TR35中国区入选者名单在上海发布",
-      "url": "https://mp.weixin.qq.com/s/xSNs_QcjT7MNo9H6RSGBHg?click_id=773928492",
-      "date": "2026-07-27",
-      "column": "科技动态"
-    },
-    {
-      "title": "上海用十年磨一剑的耐心，回答基础研究的“时代之问”",
-      "url": "https://mp.weixin.qq.com/s/axFkbDvpJ_wmDdcogvfn0g",
-      "date": "2026-07-24",
       "column": "科技动态"
     },
     {

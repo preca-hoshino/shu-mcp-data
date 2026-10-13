@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261012_205743",
-  "total_articles": 2606,
+  "crawl_time": "20261013_071048",
+  "total_articles": 2607,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
     "学术动态": 572,
-    "学术报告": 156,
+    "学术报告": 157,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,12 @@
     "通知公告": 54
   },
   "articles": [
+    {
+      "title": "当安全并不简单：理解与应对亲密伴侣暴力（When Safety Isn't Simple: Understanding and Responding to Intimate Partner Violence）",
+      "url": "https://sociology.shu.edu.cn/info/1105/43908.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
     {
       "title": "党建引领是基层治理的魂",
       "url": "https://sociology.shu.edu.cn/info/1105/43898.htm",

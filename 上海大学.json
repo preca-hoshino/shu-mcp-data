@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261012_205743",
+  "crawl_time": "20261013_071048",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "钱伟长讲坛第103讲《汽车芯片自主可控之路》顺利开讲",
+      "url": "https://www.shu.edu.cn/info/1056/401555.htm",
+      "date": "2026-10-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "立德树人守初心 师德师风铸师魂——新闻传播学院举办师德师风建设专题宣讲会",
+      "url": "https://www.shu.edu.cn/info/1056/401565.htm",
+      "date": "2026-10-13",
+      "column": "综合新闻"
+    },
+    {
+      "title": "新闻传播学院召开2026年第三次全体教师大会",
+      "url": "https://www.shu.edu.cn/info/1056/401575.htm",
+      "date": "2026-10-13",
+      "column": "综合新闻"
+    },
     {
       "title": "党课开讲啦！传承红色基因 走好新时代的长征路！",
       "url": "https://mp.weixin.qq.com/s/E1HuH5cPq5OPAkXGWShKpA",
@@ -76,24 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401365.htm",
       "date": "2026-10-08",
       "column": "科研动态"
-    },
-    {
-      "title": "深化校企战略协同 赋能核能科技自立自强——上海大学与国家电投集团开展合作交流座谈",
-      "url": "https://www.shu.edu.cn/info/1056/401355.htm",
-      "date": "2026-10-08",
-      "column": "综合新闻"
-    },
-    {
-      "title": "于雪梅副校长一行赴中微公司调研交流",
-      "url": "https://www.shu.edu.cn/info/1056/401325.htm",
-      "date": "2026-09-30",
-      "column": "综合新闻"
-    },
-    {
-      "title": "富春江畔学界业界共聚  研学旅游探索高质量发展新程",
-      "url": "https://www.shu.edu.cn/info/1056/401345.htm",
-      "date": "2026-09-30",
-      "column": "综合新闻"
     },
     {
       "title": "设计无界，品智生成！上海大学再次亮相世界设计之都大会",

@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20261012_205743",
-  "total_articles": 1998,
+  "crawl_time": "20261013_071048",
+  "total_articles": 1999,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
     "学院周志": 313,
     "科研动态": 481,
     "综合新闻": 525,
-    "通知公告": 429
+    "通知公告": 430
   },
   "articles": [
+    {
+      "title": "文学院2026年上海大学费孝通奖学金初评推荐名单公示",
+      "url": "https://cla.shu.edu.cn/info/1017/54078.htm",
+      "date": "2026-10-13",
+      "column": "通知公告"
+    },
     {
       "title": "2026年文学院研究生奖学金公示",
       "url": "https://cla.shu.edu.cn/info/1017/54068.htm",
@@ -242,7 +248,7 @@
       "column": "通知公告"
     },
     {
-      "title": "国际著名考古学、人类学家、美国科学学院院士Robert, L. Kelly 教授来我院做学术讲座",
+      "title": "国际著名考古学、人类学家Robert, L. Kelly 教授来我院做学术讲座",
       "url": "https://cla.shu.edu.cn/info/1019/53458.htm",
       "date": "2026-05-25",
       "column": "科研动态"

@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261012_205743",
-  "total_articles": 263,
+  "crawl_time": "20261013_071048",
+  "total_articles": 264,
   "columns": {
-    "学术报告": 55,
+    "学术报告": 56,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
@@ -14,6 +14,12 @@
     "通知公告": 38
   },
   "articles": [
+    {
+      "title": "钱伟长力学SEMINAR 1011：On the Structured Convect...",
+      "url": "https://smes.shu.edu.cn/info/1014/10825.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
     {
       "title": "钱伟长力学SEMINAR 1010：主动热防护技术相关基础问...",
       "url": "https://smes.shu.edu.cn/info/1014/10785.htm",

@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261012_205743",
+  "crawl_time": "20261013_071048",
   "total_articles": 1610,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,24 @@
     "新闻快递": 172
   },
   "articles": [
+    {
+      "title": "Seminar第3079讲 积分里奇曲率条件下的Souplet-Zhang估计和Li-Yau不等式",
+      "url": "https://math.shu.edu.cn/info/1042/27201.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3080讲 关于Michael-Simon类型的索伯列夫不等式的当今研究",
+      "url": "https://math.shu.edu.cn/info/1042/27211.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "Seminar第3081讲 松弛贪婪随机Kaczmarz算法的精细误差界",
+      "url": "https://math.shu.edu.cn/info/1042/27221.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3076讲 代数几何解背景下散焦Schrodinger方程的潘勒韦34的渐近性",
       "url": "https://math.shu.edu.cn/info/1042/27171.htm",
@@ -113,18 +131,6 @@
       "column": "学术报告"
     },
     {
-      "title": "Seminar第3061讲 具有非可积核的连续的Kuramoto模型的松弛动力学（一）",
-      "url": "https://math.shu.edu.cn/info/1042/26931.htm",
-      "date": "2026-06-09",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3062讲 具有非可积核的连续的Kuramoto模型的松弛动力学（二）",
-      "url": "https://math.shu.edu.cn/info/1042/26941.htm",
-      "date": "2026-06-09",
-      "column": "学术报告"
-    },
-    {
       "title": "Seminar第3063讲 具有非可积核的连续的Kuramoto模型的松弛动力学（三）",
       "url": "https://math.shu.edu.cn/info/1042/26951.htm",
       "date": "2026-06-09",
@@ -141,12 +147,6 @@
       "url": "https://math.shu.edu.cn/info/1041/26921.htm",
       "date": "2026-06-07",
       "column": "新闻快递"
-    },
-    {
-      "title": "Seminar第3060讲 保秩横截性质(RPTP)的最新进展",
-      "url": "https://math.shu.edu.cn/info/1042/26901.htm",
-      "date": "2026-06-05",
-      "column": "学术报告"
     },
     {
       "title": "数学系、物理系党总支开展“弘扬中华传统美德，厚植家国情怀”主题观影活动",
