@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261013_071048",
+  "crawl_time": "20261013_112711",
   "total_articles": 1007,
   "columns": {
     "学术报告": 79,
@@ -26,13 +26,13 @@
       "column": "学院新闻"
     },
     {
-      "title": "2026年研究生学业奖学金公示名单",
+      "title": "2026年研究生学业奖学金公示名单（更新）",
       "url": "https://ece.shu.edu.cn/info/1304/90174.htm",
       "date": "2026-10-10",
       "column": "研究生教学"
     },
     {
-      "title": "2026年研究生国家奖学金候选人公示名单",
+      "title": "2026年研究生国家奖学金候选人公示名单（更新）",
       "url": "https://ece.shu.edu.cn/info/1304/90184.htm",
       "date": "2026-10-10",
       "column": "研究生教学"

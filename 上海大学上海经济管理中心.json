@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20261013_071048",
-  "total_articles": 67,
+  "crawl_time": "20261013_112711",
+  "total_articles": 69,
   "columns": {
     "招生简章": 27,
-    "要闻速递": 40
+    "要闻速递": 42
   },
   "articles": [
+    {
+      "title": "南汇新城镇第五期社工“育苗计划”培训班顺利启动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/15198.htm",
+      "date": "2026-10-13",
+      "column": "要闻速递"
+    },
     {
       "title": "上海大学-法国让穆兰里昂第三大学社会学专业硕士项目第九期毕业典礼在法国里昂举行",
       "url": "https://jgzx.shu.edu.cn/info/1017/15128.htm",
@@ -374,6 +380,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "解读管理大师彼得-德鲁克——经管中心举办2013年上经论坛第二季主题活动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2323.htm",
+      "date": "2013-10-29",
+      "column": "要闻速递"
     },
     {
       "title": "经管中心为嘉定区领导干部进行社会管理专题培训",
