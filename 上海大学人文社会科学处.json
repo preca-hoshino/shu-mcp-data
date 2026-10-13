@@ -2,10 +2,10 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20261013_112711",
-  "total_articles": 343,
+  "crawl_time": "20261013_153226",
+  "total_articles": 350,
   "columns": {
-    "文科动态": 90,
+    "文科动态": 97,
     "最新立项": 60,
     "通知公告": 193
   },
@@ -1943,6 +1943,30 @@
       "column": "通知公告"
     },
     {
+      "title": "文学院葛红兵教授获上海作协重点创作项目资助",
+      "url": "http://www.shu.edu.cn/Default.aspx?tabid=121&ctl=Detail&mid=846&Id=34465&SkinSrc=[L]Skins/n",
+      "date": "2008-07-09",
+      "column": "文科动态"
+    },
+    {
+      "title": "文学院历史系召开市教委重点学科建设促进会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3590.htm",
+      "date": "2008-07-09",
+      "column": "文科动态"
+    },
+    {
+      "title": "上海市“曙光计划”工作研讨会在山东泰安举行",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3584.htm",
+      "date": "2008-07-07",
+      "column": "文科动态"
+    },
+    {
+      "title": "文科处召开2008年度国家社科基金立项学者喜庆座谈会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3586.htm",
+      "date": "2008-07-07",
+      "column": "文科动态"
+    },
+    {
       "title": "关于启动2008年度上海大学人文社会科学创新项目的预通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/2855.htm",
       "date": "2008-07-02",
@@ -1953,6 +1977,24 @@
       "url": "http://www.sh-popss.gov.cn/MoreInfo.asp?action=InsideNews&infoid=63",
       "date": "2008-06-26",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学社会学系暨人类学研究中心宅坦村调查基地揭牌",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3580.htm",
+      "date": "2008-06-23",
+      "column": "文科动态"
+    },
+    {
+      "title": "现代文学教学方法与教材国际学术研讨会顺利召开",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3582.htm",
+      "date": "2008-06-23",
+      "column": "文科动态"
+    },
+    {
+      "title": "《中国文学史学史》获第一届中国出版政府奖图书奖提名奖",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3578.htm",
+      "date": "2008-06-20",
+      "column": "文科动态"
     },
     {
       "title": "上海市语委“十一五”科研课题申报通知",

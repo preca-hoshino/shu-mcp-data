@@ -2,13 +2,13 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20261013_112711",
-  "total_articles": 389,
+  "crawl_time": "20261013_153226",
+  "total_articles": 392,
   "columns": {
     "学术报告": 300,
-    "新闻快递": 21,
-    "研究动态": 52,
-    "通知公告": 16
+    "新闻快递": 23,
+    "研究动态": 48,
+    "通知公告": 21
   },
   "articles": [
     {
@@ -136,12 +136,6 @@
       "url": "https://physics.shu.edu.cn/info/1021/9604.htm",
       "date": "2026-06-05",
       "column": "新闻快递"
-    },
-    {
-      "title": "物理系邢凯健副教授在光子学期刊《Nature Photonics》发表重要研究成果",
-      "url": "https://physics.shu.edu.cn/info/1076/9514.htm",
-      "date": "2026-06-01",
-      "column": "研究动态"
     },
     {
       "title": "量子科技研究院seminar第102讲暨物理学科Seminar第808讲:陈俊 (2026年6月1日15:00)",
@@ -1872,6 +1866,12 @@
       "column": "学术报告"
     },
     {
+      "title": "2022 QWorld量子计算与编程暑期学校火热报名中",
+      "url": "https://physics.shu.edu.cn/info/1015/1717.htm",
+      "date": "2022-07-18",
+      "column": "通知公告"
+    },
+    {
       "title": "物理学科Seminar第578讲：朱起忠（2022年7月21日14:00）",
       "url": "https://physics.shu.edu.cn/info/1078/1714.htm",
       "date": "2022-07-18",
@@ -1884,10 +1884,28 @@
       "column": "研究动态"
     },
     {
+      "title": "关于2022年上海大学物理学系全国优秀大学生夏令营预报名的补充通知",
+      "url": "https://physics.shu.edu.cn/info/1015/1708.htm",
+      "date": "2022-06-30",
+      "column": "通知公告"
+    },
+    {
       "title": "物理学科Seminar第577讲：赵亮（2022年6月23日18:30）",
       "url": "https://physics.shu.edu.cn/info/1078/1701.htm",
       "date": "2022-06-22",
       "column": "学术报告"
+    },
+    {
+      "title": "转发：上海大学第八届“互联网+”大赛产业命题赛道",
+      "url": "https://physics.shu.edu.cn/info/1015/1700.htm",
+      "date": "2022-06-12",
+      "column": "通知公告"
+    },
+    {
+      "title": "转发：关于举办第八届中国国际“互联网+”大学生创新创业大赛 上海大学校内选拔赛 ...",
+      "url": "https://physics.shu.edu.cn/info/1015/1682.htm",
+      "date": "2022-04-22",
+      "column": "通知公告"
     },
     {
       "title": "物理学科Seminar第576讲：沈志昌（2021年12月31日13:00）",
@@ -2142,6 +2160,12 @@
       "column": "学术报告"
     },
     {
+      "title": "关于2021年上半年全国大学英语四、六级考试报名的通知",
+      "url": "https://physics.shu.edu.cn/info/1015/1467.htm",
+      "date": "2021-03-25",
+      "column": "通知公告"
+    },
+    {
       "title": "物理系青年教师曾小东博士在Phys. Rev. Lett.上发表重要研究成果",
       "url": "https://physics.shu.edu.cn/info/1076/1460.htm",
       "date": "2021-03-19",
@@ -2256,24 +2280,6 @@
       "column": "学术报告"
     },
     {
-      "title": "物理系陈永聪教授等人在国际著名期刊PNAS上发表研究论文",
-      "url": "https://physics.shu.edu.cn/info/1076/1257.htm",
-      "date": "2020-09-24",
-      "column": "研究动态"
-    },
-    {
-      "title": "云端科技嘉年华 高温超导放异彩——记我校理学院上海市高温超导重点实验室科技节开...",
-      "url": "https://physics.shu.edu.cn/info/1076/1429.htm",
-      "date": "2020-08-25",
-      "column": "研究动态"
-    },
-    {
-      "title": "物理系李永乐等人在国际著名期刊Nano Energy上发表研究论文",
-      "url": "https://physics.shu.edu.cn/info/1076/1431.htm",
-      "date": "2020-08-03",
-      "column": "研究动态"
-    },
-    {
       "title": "理学院《玩转量子世界》入选中宣部2019年“原动力”中国高校动漫出版孵化计划",
       "url": "https://physics.shu.edu.cn/info/1076/1433.htm",
       "date": "2020-06-26",
@@ -2342,6 +2348,18 @@
     {
       "title": "物理实验中心青年教师实验讲课交流会成功举办",
       "url": "https://physics.shu.edu.cn/info/1021/1023.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "量子与分子结构国际中心2D Systems课题组在物理化学快报杂志上发表论文",
+      "url": "https://physics.shu.edu.cn/info/1021/1025.htm",
+      "date": "2019-11-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理系党总支举行学习十九大报告精神“不忘初心、牢记使命”主题活动",
+      "url": "https://physics.shu.edu.cn/info/1021/1026.htm",
       "date": "2019-11-18",
       "column": "新闻快递"
     }

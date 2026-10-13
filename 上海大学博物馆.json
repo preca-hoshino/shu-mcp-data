@@ -2,10 +2,10 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20261013_112711",
-  "total_articles": 52,
+  "crawl_time": "20261013_153226",
+  "total_articles": 59,
   "columns": {
-    "新闻快递": 43,
+    "新闻快递": 50,
     "通知公告": 9
   },
   "articles": [
@@ -282,6 +282,48 @@
     {
       "title": "我馆举行丰定轩收藏陶瓷器捐赠仪式",
       "url": "https://museum.shu.edu.cn/info/1030/1464.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学2013年度文物博物系列高级专业技术职务晋升聘任送审名单公示",
+      "url": "https://museum.shu.edu.cn/info/1030/1465.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“人民科学家钱学森——上海高校巡回展”上海大学站开幕",
+      "url": "https://museum.shu.edu.cn/info/1030/1466.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "大德中国·海上丰碑——纪念丰子恺先生诞辰115周年系列活动开幕",
+      "url": "https://museum.shu.edu.cn/info/1030/1467.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "“自西徂东：德语文献里的中国”图片展开幕",
+      "url": "https://museum.shu.edu.cn/info/1030/1468.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "中共上海市教育卫生工作委员会等公布2013年上海高校博物馆内涵建设项目立项名单",
+      "url": "https://museum.shu.edu.cn/info/1030/1469.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "2013年度上海市文物博物系列高级专业技术职务任职资格审定结果公示",
+      "url": "https://museum.shu.edu.cn/info/1030/1470.htm",
+      "date": "2014-07-22",
+      "column": "新闻快递"
+    },
+    {
+      "title": "我馆3项课题获准立项",
+      "url": "https://museum.shu.edu.cn/info/1030/1471.htm",
       "date": "2014-07-22",
       "column": "新闻快递"
     },

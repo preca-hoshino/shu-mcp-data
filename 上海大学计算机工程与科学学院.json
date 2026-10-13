@@ -2,15 +2,21 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261013_112711",
-  "total_articles": 418,
+  "crawl_time": "20261013_153226",
+  "total_articles": 416,
   "columns": {
-    "学术活动": 25,
+    "学术活动": 24,
     "新闻动态": 59,
-    "重要通知": 313,
+    "重要通知": 312,
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "计算机学院多位学者入选2026年全球前2%顶尖科学家榜单",
+      "url": "https://mp.weixin.qq.com/s/Rg7HkbGDjzVEQoGC2DkZAw",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
     {
       "title": "计算机学院冷拓教授团队在人工智能国际顶会NeurIPS 2026上发表机器证明FormalGeo系列最新研究成果",
       "url": "https://mp.weixin.qq.com/s/Yv4o5kIMUJO3Q8Vnv5fEEw",
@@ -32,12 +38,6 @@
     {
       "title": "上海大学计算机工程与科学学院接收2027年推免研究生复试工作安排",
       "url": "https://cs.shu.edu.cn/info/1081/52051.htm",
-      "date": "2026-09-01",
-      "column": "重要通知"
-    },
-    {
-      "title": "上海大学计算机工程与科学学院诚邀优秀人才加盟",
-      "url": "https://cs.shu.edu.cn/info/1081/52121.htm",
       "date": "2026-09-01",
       "column": "重要通知"
     },
@@ -104,12 +104,6 @@
     {
       "title": "数字搭桥惠长者，青春聚力伴夕阳 | 计算机学院科技助老实践活动回顾",
       "url": "https://mp.weixin.qq.com/s/1mSF-ZaLY7op4kl38dPFjA",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "上海大学计算机学院走访校友企业上海守扣科技有限公司",
-      "url": "https://mp.weixin.qq.com/s/4xjSmg2lkC28uiUJBMyDWQ",
       "date": "2026-07-01",
       "column": "新闻动态"
     },
@@ -2450,12 +2444,6 @@
     {
       "title": "学术报告 - 完整的多尺度材料设计软件平台",
       "url": "https://cs.shu.edu.cn/info/1501/42081.htm",
-      "date": "2010-06-01",
-      "column": "学术活动"
-    },
-    {
-      "title": "学术报告 -  A new type of P2P networks --semantic P2P network--VIRGO",
-      "url": "https://cs.shu.edu.cn/info/1501/42091.htm",
       "date": "2010-06-01",
       "column": "学术活动"
     },

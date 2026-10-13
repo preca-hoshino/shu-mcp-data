@@ -2,10 +2,10 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261013_112711",
-  "total_articles": 2607,
+  "crawl_time": "20261013_153226",
+  "total_articles": 2606,
   "columns": {
-    "图片新闻": 121,
+    "图片新闻": 120,
     "媒体报道": 65,
     "学术动态": 572,
     "学术报告": 157,
@@ -10761,12 +10761,6 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4922.htm",
       "date": "2015-12-22",
       "column": "综合新闻"
-    },
-    {
-      "title": "我院Guy Abel教授与社区学院新生面对面",
-      "url": "https://sociology.shu.edu.cn/info/1111/4054.htm",
-      "date": "2015-12-22",
-      "column": "图片新闻"
     },
     {
       "title": "创新中国：中国制造谁来造——“机器人”与“无人艇”走进“创新中国”第二课",
