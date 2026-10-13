@@ -2,11 +2,11 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261013_153226",
-  "total_articles": 813,
+  "crawl_time": "20261013_185545",
+  "total_articles": 807,
   "columns": {
-    "学术活动": 205,
-    "学院新闻": 94,
+    "学术活动": 200,
+    "学院新闻": 93,
     "重要通知": 514
   },
   "articles": [
@@ -212,12 +212,6 @@
       "title": "借鉴国际评审经验，提升案例开发质量｜上海大学管理学院2026年第一期科...",
       "url": "https://ms.shu.edu.cn/info/1244/92245.htm",
       "date": "2026-07-09",
-      "column": "学院新闻"
-    },
-    {
-      "title": "青春逐梦赴山海，笃行实干启新程 |  管理学院2026年毕业典礼暨学位授予...",
-      "url": "https://ms.shu.edu.cn/info/1244/92215.htm",
-      "date": "2026-07-08",
       "column": "学院新闻"
     },
     {
@@ -4665,36 +4659,6 @@
       "url": "https://ms.shu.edu.cn/info/1245/9762.htm",
       "date": "2008-12-02",
       "column": "重要通知"
-    },
-    {
-      "title": "上海管理论坛青年学者专场(第二期)讲座通知",
-      "url": "https://ms.shu.edu.cn/info/1246/11184.htm",
-      "date": "2008-11-18",
-      "column": "学术活动"
-    },
-    {
-      "title": "08-09秋冲突考安排",
-      "url": "https://ms.shu.edu.cn/info/1246/11183.htm",
-      "date": "2008-11-10",
-      "column": "学术活动"
-    },
-    {
-      "title": "上海管理论坛青年学者专场第一期成功举办",
-      "url": "https://ms.shu.edu.cn/info/1246/11182.htm",
-      "date": "2008-11-09",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于08-09学年秋季学期期末成绩登录时间安排",
-      "url": "https://ms.shu.edu.cn/info/1246/11181.htm",
-      "date": "2008-11-06",
-      "column": "学术活动"
-    },
-    {
-      "title": "关于设立“上海管理论坛青年学者专场”的通知?",
-      "url": "https://ms.shu.edu.cn/info/1246/11180.htm",
-      "date": "2008-11-05",
-      "column": "学术活动"
     },
     {
       "title": "管理学院运动员书写赛场神话",

@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261013_153226",
-  "total_articles": 2606,
+  "crawl_time": "20261013_185545",
+  "total_articles": 2604,
   "columns": {
     "图片新闻": 120,
     "媒体报道": 65,
-    "学术动态": 572,
-    "学术报告": 157,
+    "学术动态": 571,
+    "学术报告": 156,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -353,12 +353,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "讲座回顾｜“中国人口缩减：计划生育政策、社会变迁与生育率下降”",
-      "url": "https://sociology.shu.edu.cn/info/1104/42498.htm",
-      "date": "2026-07-03",
-      "column": "学术动态"
-    },
-    {
       "title": "IESM讲座|以“鱼”易“渔”：以中刚（金）发展合作为例",
       "url": "https://sociology.shu.edu.cn/info/1105/42488.htm",
       "date": "2026-07-03",
@@ -392,12 +386,6 @@
       "title": "走出工厂何以立足：中国新经济中的农民工生计策略与就业不稳定性",
       "url": "https://sociology.shu.edu.cn/info/1105/42398.htm",
       "date": "2026-06-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "ADRI系列讲座|Shrinking Population in China: Family Planning Policy, Social Changes, and Fertility Decline（中国人口缩减：计划生育政策、社会变迁与生育率下降）",
-      "url": "https://sociology.shu.edu.cn/info/1105/42368.htm",
-      "date": "2026-06-25",
       "column": "学术报告"
     },
     {

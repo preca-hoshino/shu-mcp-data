@@ -2,10 +2,10 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20261013_153226",
-  "total_articles": 706,
+  "crawl_time": "20261013_185545",
+  "total_articles": 707,
   "columns": {
-    "学术报告": 221,
+    "学术报告": 222,
     "最新动态": 374,
     "通知公告": 111
   },
@@ -39,12 +39,6 @@
       "url": "https://qwc.shu.edu.cn/info/1087/8479.htm",
       "date": "2026-09-21",
       "column": "最新动态"
-    },
-    {
-      "title": "钱伟长讲坛第102讲：《材料的拓扑构型化复合》",
-      "url": "https://qwc.shu.edu.cn/info/1088/8519.htm",
-      "date": "2026-09-14",
-      "column": "学术报告"
     },
     {
       "title": "钱伟长学院推荐2027年应届优秀本科毕业生免试攻读研究生工作细则",
@@ -3915,6 +3909,18 @@
       "url": "https://qwc.shu.edu.cn/info/1087/2340.htm",
       "date": "2015-11-25",
       "column": "最新动态"
+    },
+    {
+      "title": "科学研讨课系列报告第150讲:科技与伦理的博弈：“能做什么”和“应做什么”",
+      "url": "https://qwc.shu.edu.cn/info/1088/2582.htm",
+      "date": "2015-11-03",
+      "column": "学术报告"
+    },
+    {
+      "title": "钱伟长讲坛 第 4 讲:  奋斗、科研与人生",
+      "url": "https://qwc.shu.edu.cn/info/1088/2583.htm",
+      "date": "2015-11-03",
+      "column": "学术报告"
     },
     {
       "title": "上海大学钱伟长学院2015级迎新晚会顺利举行",

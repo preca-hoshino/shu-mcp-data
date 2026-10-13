@@ -2,12 +2,12 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261013_153226",
-  "total_articles": 1610,
+  "crawl_time": "20261013_185545",
+  "total_articles": 1609,
   "columns": {
     "学术会议": 29,
     "学术报告": 1409,
-    "新闻快递": 172
+    "新闻快递": 171
   },
   "articles": [
     {
@@ -135,12 +135,6 @@
       "url": "https://math.shu.edu.cn/info/1042/26951.htm",
       "date": "2026-06-09",
       "column": "学术报告"
-    },
-    {
-      "title": "上海大学理学院数学大师讲坛第二十二、二十三以及二十四讲顺利开讲",
-      "url": "https://math.shu.edu.cn/info/1041/26911.htm",
-      "date": "2026-06-07",
-      "column": "新闻快递"
     },
     {
       "title": "上海大学理学院数学学科发展研讨会顺利举行",

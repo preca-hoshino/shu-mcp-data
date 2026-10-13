@@ -2,11 +2,11 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261013_153226",
-  "total_articles": 1823,
+  "crawl_time": "20261013_185545",
+  "total_articles": 1822,
   "columns": {
     "政策文件": 58,
-    "新闻动态": 40,
+    "新闻动态": 39,
     "通知公告": 1725
   },
   "articles": [
@@ -152,12 +152,6 @@
       "title": "于雪梅副校长赴喀什担任SMG“行走的思政课”嘉宾并开展慰问调研",
       "url": "https://bksy.shu.edu.cn/info/1016/321744.htm",
       "date": "2026-08-31",
-      "column": "新闻动态"
-    },
-    {
-      "title": "数智赋能育英才 开放融通启新程 —— 上海大学2026年国际化小学期暨第十一届国际教育论坛圆满落幕",
-      "url": "https://bksy.shu.edu.cn/info/1016/321214.htm",
-      "date": "2026-07-17",
       "column": "新闻动态"
     },
     {

@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261013_153226",
-  "total_articles": 263,
+  "crawl_time": "20261013_185545",
+  "total_articles": 262,
   "columns": {
-    "学术报告": 56,
+    "学术报告": 55,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
@@ -97,12 +97,6 @@
       "url": "https://smes.shu.edu.cn/info/1013/10585.htm",
       "date": "2026-06-25",
       "column": "综合新闻"
-    },
-    {
-      "title": "钱伟长力学SEMINAR 1008：非晶态玻璃态聚合物中的剪...",
-      "url": "https://smes.shu.edu.cn/info/1014/10795.htm",
-      "date": "2026-06-17",
-      "column": "学术报告"
     },
     {
       "title": "力学AI4M产教研融合创新研讨会在我校召开",

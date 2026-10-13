@@ -2,10 +2,10 @@
   "domain": "sfa.shu.edu.cn",
   "department": "上海大学上海电影学院",
   "type": "31",
-  "crawl_time": "20261013_153226",
-  "total_articles": 1771,
+  "crawl_time": "20261013_185545",
+  "total_articles": 1769,
   "columns": {
-    "新闻": 44,
+    "新闻": 42,
     "讲座": 464,
     "通知公告": 1263
   },
@@ -3361,18 +3361,6 @@
     {
       "title": "影视学院学生党支部举行赈灾爱心义卖活动",
       "url": "https://sfa.shu.edu.cn/info/1211/4206.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "我院召开青年教师学科讨论会",
-      "url": "https://sfa.shu.edu.cn/info/1211/4208.htm",
-      "date": "",
-      "column": "新闻"
-    },
-    {
-      "title": "<font color=black>实验中心组织新设备、新技术培训收效显著</font>",
-      "url": "https://sfa.shu.edu.cn/info/1211/4209.htm",
       "date": "",
       "column": "新闻"
     },

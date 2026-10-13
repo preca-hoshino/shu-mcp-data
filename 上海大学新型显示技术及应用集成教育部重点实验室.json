@@ -2,11 +2,11 @@
   "domain": "fpd.shu.edu.cn",
   "department": "上海大学新型显示技术及应用集成教育部重点实验室",
   "type": "21",
-  "crawl_time": "20261013_153226",
-  "total_articles": 96,
+  "crawl_time": "20261013_185545",
+  "total_articles": 97,
   "columns": {
     "新闻中心": 47,
-    "通知公告": 49
+    "通知公告": 50
   },
   "articles": [
     {
@@ -316,6 +316,12 @@
       "column": "通知公告"
     },
     {
+      "title": "学术报告：用于显示和照明技术的钯系和铂系金属有机发光材料",
+      "url": "https://fpd.shu.edu.cn/info/1111/3962.htm",
+      "date": "2019-03-07",
+      "column": "通知公告"
+    },
+    {
       "title": "教育部“春晖计划”留德华人化学化工学会交流团访问新型显示技术及应用集成教育部重点实验室",
       "url": "https://fpd.shu.edu.cn/info/1113/3901.htm",
       "date": "2018-10-09",
@@ -406,12 +412,6 @@
       "column": "通知公告"
     },
     {
-      "title": "国家重点研发计划“柔性基板材料关键技术开发及应用示范”项目启动会顺利召开",
-      "url": "http://www.shu.edu.cn/info/1055/58978.htm",
-      "date": "2018-01-08",
-      "column": "新闻中心"
-    },
-    {
       "title": "讲座：氮化镓单晶材料生长及产业化应用进展",
       "url": "https://fpd.shu.edu.cn/info/1111/3665.htm",
       "date": "2018-01-08",
@@ -470,6 +470,12 @@
       "url": "https://fpd.shu.edu.cn/info/1111/3592.htm",
       "date": "2017-10-30",
       "column": "通知公告"
+    },
+    {
+      "title": "国家重点研发计划“柔性基板材料关键技术开发及应用示范”项目启动会顺利召开",
+      "url": "http://www.shu.edu.cn/info/1055/58978.htm",
+      "date": "2017-10-27",
+      "column": "新闻中心"
     },
     {
       "title": "正在更新",

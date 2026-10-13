@@ -2,11 +2,11 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20261013_153226",
-  "total_articles": 725,
+  "crawl_time": "20261013_185545",
+  "total_articles": 731,
   "columns": {
     "党建工作": 47,
-    "学术讲座": 55,
+    "学术讲座": 61,
     "学生工作": 42,
     "学院新闻": 339,
     "展览展示": 24,
@@ -3782,6 +3782,42 @@
       "url": "https://safa.shu.edu.cn/info/1119/7178.htm",
       "date": "2020-11-17",
       "column": "教学"
+    },
+    {
+      "title": "中文信息设计",
+      "url": "https://safa.shu.edu.cn/info/1117/7152.htm",
+      "date": "2020-11-02",
+      "column": "学术讲座"
+    },
+    {
+      "title": "规范与颠覆——当代视域中的美术学院",
+      "url": "https://safa.shu.edu.cn/info/1117/7150.htm",
+      "date": "2020-10-26",
+      "column": "学术讲座"
+    },
+    {
+      "title": "移动互联网时代的城镇化理论重构",
+      "url": "https://safa.shu.edu.cn/info/1117/7151.htm",
+      "date": "2020-10-26",
+      "column": "学术讲座"
+    },
+    {
+      "title": "后疫情时代的设计研究与实践",
+      "url": "https://safa.shu.edu.cn/info/1117/7149.htm",
+      "date": "2020-10-19",
+      "column": "学术讲座"
+    },
+    {
+      "title": "海派绘画和张园项目",
+      "url": "https://safa.shu.edu.cn/info/1117/7147.htm",
+      "date": "2020-10-12",
+      "column": "学术讲座"
+    },
+    {
+      "title": "高密度人居环境下的设计艺术介入",
+      "url": "https://safa.shu.edu.cn/info/1117/7148.htm",
+      "date": "2020-10-12",
+      "column": "学术讲座"
     },
     {
       "title": "当代中国画发展新趋势",
