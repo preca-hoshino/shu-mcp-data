@@ -2,10 +2,10 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261013_185545",
-  "total_articles": 2604,
+  "crawl_time": "20261014_053401",
+  "total_articles": 2605,
   "columns": {
-    "图片新闻": 120,
+    "图片新闻": 121,
     "媒体报道": 65,
     "学术动态": 571,
     "学术报告": 156,
@@ -3309,6 +3309,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/20528.htm",
       "date": "2023-11-03",
       "column": "综合新闻"
+    },
+    {
+      "title": "祝贺｜我院项目在第十八届全国“挑战杯”竞赛中斩获佳绩！",
+      "url": "https://sociology.shu.edu.cn/info/1111/20738.htm",
+      "date": "2023-11-03",
+      "column": "图片新闻"
     },
     {
       "title": "2021级社会学硕士程群同学参加变迁中的社会：首届全国社会学研究生论坛",

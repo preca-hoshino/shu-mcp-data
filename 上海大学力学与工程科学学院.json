@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261013_185545",
-  "total_articles": 262,
+  "crawl_time": "20261014_053401",
+  "total_articles": 263,
   "columns": {
     "学术报告": 55,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 42,
+    "综合新闻": 43,
     "通知公告": 37
   },
   "articles": [
+    {
+      "title": "力工学院退休教师戴世强教授获评上海市第三届 \"老有...",
+      "url": "https://smes.shu.edu.cn/info/1013/10835.htm",
+      "date": "2026-10-14",
+      "column": "综合新闻"
+    },
     {
       "title": "钱伟长力学SEMINAR 1011：On the Structured Convect...",
       "url": "https://smes.shu.edu.cn/info/1014/10825.htm",

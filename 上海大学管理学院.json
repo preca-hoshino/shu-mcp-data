@@ -2,7 +2,7 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261013_185545",
+  "crawl_time": "20261014_053401",
   "total_articles": 807,
   "columns": {
     "学术活动": 200,
@@ -17,51 +17,15 @@
       "column": "学术活动"
     },
     {
-      "title": "2026年上海大学研究生学业奖学金管理学院博士研究生候选人名单",
-      "url": "https://ms.shu.edu.cn/info/1245/92685.htm",
-      "date": "2026-10-04",
-      "column": "重要通知"
-    },
-    {
-      "title": "2026年上海大学研究生学业奖学金管理学院硕士研究生候选人名单",
-      "url": "https://ms.shu.edu.cn/info/1245/92695.htm",
-      "date": "2026-10-04",
-      "column": "重要通知"
-    },
-    {
       "title": "走进芯片制造企业 探寻智能调度前沿 ——上海大学管理学院师生赴上海华...",
       "url": "https://ms.shu.edu.cn/info/1244/92675.htm",
       "date": "2026-10-03",
       "column": "学院新闻"
     },
     {
-      "title": "2026年上海大学研究生国家奖学金管理学院博士研究生候选人初选名单（含...",
-      "url": "https://ms.shu.edu.cn/info/1245/92635.htm",
-      "date": "2026-10-01",
-      "column": "重要通知"
-    },
-    {
-      "title": "2026年上海大学研究生国家奖学金管理学院硕士研究生候选人初选名单（含...",
-      "url": "https://ms.shu.edu.cn/info/1245/92655.htm",
-      "date": "2026-10-01",
-      "column": "重要通知"
-    },
-    {
-      "title": "2026年上海大学研究生校长奖学金管理学院候选人初选名单",
-      "url": "https://ms.shu.edu.cn/info/1245/92665.htm",
-      "date": "2026-10-01",
-      "column": "重要通知"
-    },
-    {
       "title": "管理学院2025-2026学年国家励志奖学金  初评名单公示",
       "url": "https://ms.shu.edu.cn/info/1245/92615.htm",
       "date": "2026-09-30",
-      "column": "重要通知"
-    },
-    {
-      "title": "2026年研究生宝钢奖学金管理学院候选人公示",
-      "url": "https://ms.shu.edu.cn/info/1245/92585.htm",
-      "date": "2026-09-18",
       "column": "重要通知"
     },
     {
@@ -1286,6 +1250,42 @@
       "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
       "url": "https://ms.shu.edu.cn/info/1245/84424.htm",
       "date": "2023-06-16",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/84254.htm",
+      "date": "2023-06-01",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年度上海市哲学社会科学规划课题申报公告",
+      "url": "https://mp.weixin.qq.com/s/E4wIeB4UmfPLAhU_S5cyfQ",
+      "date": "2023-05-31",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年度国家社会科学基金项目申报公告",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzczNjI4Mg==&mid=2247489603&idx=1&sn=fa9a735013fd296aba58dabb4fbb6f22&chksm=ceb657f6f9c1dee09ae59b64e7fe6be2669d37a6e5a202defddf7b1922dc3a0876687c7335b9&scene=126&sessionid=1680764385&subscene=227&key=c7398c8b43a1c905f",
+      "date": "2023-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "第五届中国技术经济学会神经经济管理专业委员会暨第七届管理科学与工程...",
+      "url": "https://ms.shu.edu.cn/info/1245/83834.htm",
+      "date": "2023-04-07",
+      "column": "重要通知"
+    },
+    {
+      "title": "2023年度教育部人文社会科学研究一般项目申报工作的通知",
+      "url": "https://mp.weixin.qq.com/s/Vx6th90aD9qKT8y0CKEjfg",
+      "date": "2023-03-27",
+      "column": "重要通知"
+    },
+    {
+      "title": "上海大学管理学院2023年硕士招生复试方案",
+      "url": "https://ms.shu.edu.cn/info/1245/83664.htm",
+      "date": "2023-03-27",
       "column": "重要通知"
     },
     {

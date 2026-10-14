@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261013_185545",
-  "total_articles": 3970,
+  "crawl_time": "20261014_053401",
+  "total_articles": 3971,
   "columns": {
     "主办会议": 42,
     "学术报告": 2652,
@@ -11,11 +11,17 @@
     "本科生新闻": 48,
     "研究生教务": 45,
     "研究生新闻": 50,
-    "科研动态": 311,
+    "科研动态": 312,
     "综合新闻": 623,
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/34155.htm",
+      "date": "2026-10-14",
+      "column": "科研动态"
+    },
     {
       "title": "物理学科Seminar第834讲 量子光学相干介质与量子原子气体中的莫尔物理",
       "url": "https://scicol.shu.edu.cn/info/1003/34125.htm",
