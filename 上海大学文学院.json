@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20261014_053401",
-  "total_articles": 2000,
+  "crawl_time": "20261014_091906",
+  "total_articles": 2001,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
-    "学院周志": 314,
+    "学院周志": 315,
     "科研动态": 481,
     "综合新闻": 525,
     "通知公告": 430
   },
   "articles": [
+    {
+      "title": "文学院周志总第710期（2026年第26期，9月28日-10月11日）",
+      "url": "https://cla.shu.edu.cn/zhouzhi710.pdf",
+      "date": "2026-10-14",
+      "column": "学院周志"
+    },
     {
       "title": "文学院2026年上海大学费孝通奖学金初评推荐名单公示",
       "url": "https://cla.shu.edu.cn/info/1017/54078.htm",

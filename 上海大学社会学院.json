@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261014_053401",
-  "total_articles": 2605,
+  "crawl_time": "20261014_091906",
+  "total_articles": 2608,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
@@ -12,15 +12,39 @@
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
-    "综合新闻": 885,
-    "通知公告": 54
+    "综合新闻": 886,
+    "通知公告": 56
   },
   "articles": [
+    {
+      "title": "社会学院关于2026年上海大学费孝通奖学金推荐名单公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/43988.htm",
+      "date": "2026-10-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于评审2026年上海大学社会学院领航奖学金的通知",
+      "url": "https://sociology.shu.edu.cn/info/1103/44058.htm",
+      "date": "2026-10-14",
+      "column": "通知公告"
+    },
+    {
+      "title": "柴俊勇教授受邀作“党建引领是基层治理的魂”专题讲座",
+      "url": "https://sociology.shu.edu.cn/info/1102/44088.htm",
+      "date": "2026-10-13",
+      "column": "综合新闻"
+    },
     {
       "title": "当安全并不简单：理解与应对亲密伴侣暴力（When Safety Isn't Simple: Understanding and Responding to Intimate Partner Violence）",
       "url": "https://sociology.shu.edu.cn/info/1105/43908.htm",
       "date": "2026-10-13",
       "column": "学术报告"
+    },
+    {
+      "title": "柴俊勇教授受邀作“党建引领是基层治理的魂”专题讲座",
+      "url": "https://sociology.shu.edu.cn/info/1111/44098.htm",
+      "date": "2026-10-13",
+      "column": "图片新闻"
     },
     {
       "title": "党建引领是基层治理的魂",
@@ -3309,12 +3333,6 @@
       "url": "https://sociology.shu.edu.cn/info/1102/20528.htm",
       "date": "2023-11-03",
       "column": "综合新闻"
-    },
-    {
-      "title": "祝贺｜我院项目在第十八届全国“挑战杯”竞赛中斩获佳绩！",
-      "url": "https://sociology.shu.edu.cn/info/1111/20738.htm",
-      "date": "2023-11-03",
-      "column": "图片新闻"
     },
     {
       "title": "2021级社会学硕士程群同学参加变迁中的社会：首届全国社会学研究生论坛",

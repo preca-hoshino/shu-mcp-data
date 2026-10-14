@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261014_053401",
-  "total_articles": 3971,
+  "crawl_time": "20261014_091906",
+  "total_articles": 3972,
   "columns": {
     "主办会议": 42,
-    "学术报告": 2652,
+    "学术报告": 2653,
     "本科生教务": 39,
     "本科生新闻": 48,
     "研究生教务": 45,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3080讲 关于Michael-Simon类型的索伯列夫不等式的当今研究",
+      "url": "https://scicol.shu.edu.cn/info/1003/34195.htm",
+      "date": "2026-10-14",
+      "column": "学术报告"
+    },
     {
       "title": "物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
       "url": "https://scicol.shu.edu.cn/info/1008/34155.htm",

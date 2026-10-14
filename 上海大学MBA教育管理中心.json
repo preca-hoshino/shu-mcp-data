@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261014_053401",
+  "crawl_time": "20261014_091906",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "技术破局，产业落地｜上大MBA2027六大专业方向之科技创新",
+      "url": "https://mp.weixin.qq.com/s/DqegfG1WTZlWOQZEhSXTlQ",
+      "date": "2026-10-14",
+      "column": "通知公告"
+    },
     {
       "title": "全球视野，本土实践｜上大 MBA 2027六大专业方向之全球领导力",
       "url": "https://mp.weixin.qq.com/s/GDq3xy09XbjzRcvRqHKVYQ",
@@ -152,12 +158,6 @@
       "title": "关于2026级秋季新生参加本市医保的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27481.htm",
       "date": "2026-09-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年度研究生“宝钢奖学金”评选工作的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27471.htm",
-      "date": "2026-09-16",
       "column": "通知公告"
     },
     {

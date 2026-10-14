@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261014_053401",
+  "crawl_time": "20261014_091906",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "民进上海大学委员会参观“水墨的力量”美术作品展",
+      "url": "https://www.shu.edu.cn/info/1056/401585.htm",
+      "date": "2026-10-14",
+      "column": "综合新闻"
+    },
     {
       "title": "钱伟长讲坛第103讲《汽车芯片自主可控之路》顺利开讲",
       "url": "https://www.shu.edu.cn/info/1056/401555.htm",
@@ -52,12 +58,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401475.htm",
       "date": "2026-10-10",
       "column": "科研动态"
-    },
-    {
-      "title": "月满华诞聚侨心 薪火相传话新程——上海大学侨联2026年中秋国庆座谈会侧记",
-      "url": "https://www.shu.edu.cn/info/1056/401455.htm",
-      "date": "2026-10-10",
-      "column": "综合新闻"
     },
     {
       "title": "筑牢节前安全防线 守护平安祥和校园——我校开展校园安全专项检查",
