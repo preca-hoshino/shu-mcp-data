@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261015_130242",
+  "crawl_time": "20261015_162344",
   "total_articles": 416,
   "columns": {
     "学术活动": 24,
@@ -11,6 +11,12 @@
     "风采展示": 21
   },
   "articles": [
+    {
+      "title": "计算机学院2026年中国研究生创新实践系列大赛总决赛项目指导培训会顺利开展！",
+      "url": "https://mp.weixin.qq.com/s/Jdp-izcoL3PJloyr4bEFYg",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
     {
       "title": "计算机学院多位学者入选2026年全球前2%顶尖科学家榜单",
       "url": "https://mp.weixin.qq.com/s/Rg7HkbGDjzVEQoGC2DkZAw",
@@ -164,12 +170,6 @@
     {
       "title": "第三届“智联杯”华为无线程序设计竞赛暨2026年上海市大学生程序设计竞赛圆满举行！",
       "url": "https://mp.weixin.qq.com/s/p9k5ruO5K1bOkChFof7y0g",
-      "date": "2026-07-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "行走课堂丨走进哔哩哔哩，感受企业创新活力",
-      "url": "https://mp.weixin.qq.com/s/pgKjXGHm0K7PYkLfwabjxg",
       "date": "2026-07-01",
       "column": "新闻动态"
     },
