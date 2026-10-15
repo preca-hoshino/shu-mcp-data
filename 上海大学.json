@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261015_052146",
+  "crawl_time": "20261015_085444",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -32,6 +32,12 @@
     {
       "title": "南汇新城镇第五期社工“育苗计划”培训班顺利启动",
       "url": "https://www.shu.edu.cn/info/1056/401625.htm",
+      "date": "2026-10-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第一届“中国玻璃”研究研讨会在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/401685.htm",
       "date": "2026-10-15",
       "column": "综合新闻"
     },
@@ -82,12 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401475.htm",
       "date": "2026-10-10",
       "column": "科研动态"
-    },
-    {
-      "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
-      "url": "https://www.shu.edu.cn/info/1056/401505.htm",
-      "date": "2026-10-10",
-      "column": "综合新闻"
     },
     {
       "title": "[公示]上海大学本科及以上中外合作办学机构和项目2025年度办学报告",
