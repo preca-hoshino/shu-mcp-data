@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261014_163839",
+  "crawl_time": "20261015_052146",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,30 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "理学院物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/401615.htm",
+      "date": "2026-10-15",
+      "column": "科研动态"
+    },
+    {
+      "title": "上海大学2025-2026学年辅导员 “大点兵”活动举行",
+      "url": "https://www.shu.edu.cn/info/1056/401595.htm",
+      "date": "2026-10-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "深圳职业技术大学副校长李小元一行来校调研财务管理工作",
+      "url": "https://www.shu.edu.cn/info/1056/401605.htm",
+      "date": "2026-10-15",
+      "column": "综合新闻"
+    },
+    {
+      "title": "南汇新城镇第五期社工“育苗计划”培训班顺利启动",
+      "url": "https://www.shu.edu.cn/info/1056/401625.htm",
+      "date": "2026-10-15",
+      "column": "综合新闻"
+    },
     {
       "title": "民进上海大学委员会参观“水墨的力量”美术作品展",
       "url": "https://www.shu.edu.cn/info/1056/401585.htm",
@@ -58,24 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401475.htm",
       "date": "2026-10-10",
       "column": "科研动态"
-    },
-    {
-      "title": "筑牢节前安全防线 守护平安祥和校园——我校开展校园安全专项检查",
-      "url": "https://www.shu.edu.cn/info/1056/401465.htm",
-      "date": "2026-10-10",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学-法国让穆兰里昂第三大学社会学专业硕士项目第九期毕业典礼在法国里昂举行",
-      "url": "https://www.shu.edu.cn/info/1056/401485.htm",
-      "date": "2026-10-10",
-      "column": "综合新闻"
-    },
-    {
-      "title": "清华大学仲伟民教授做客期刊社“奋楫论坛”",
-      "url": "https://www.shu.edu.cn/info/1056/401495.htm",
-      "date": "2026-10-10",
-      "column": "综合新闻"
     },
     {
       "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
@@ -159,12 +165,6 @@
       "title": "《求是》杂志同期刊发我校两篇重要文章",
       "url": "https://www.shu.edu.cn/info/1055/400825.htm",
       "date": "2026-09-17",
-      "column": "科研动态"
-    },
-    {
-      "title": "材料学院高彦峰教授团队在《Review of Materials Research》发表废锂电池正极材料回收领域研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/400555.htm",
-      "date": "2026-09-15",
       "column": "科研动态"
     },
     {

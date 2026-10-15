@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261014_163839",
+  "crawl_time": "20261015_052146",
   "total_articles": 1006,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 121
   },
   "articles": [
+    {
+      "title": "喜报 | 我院多位教师入选 2026“全球前2% 顶尖科学家”榜单",
+      "url": "https://ece.shu.edu.cn/info/1149/90274.htm",
+      "date": "2026-10-15",
+      "column": "学院新闻"
+    },
     {
       "title": "环化学院党群接待日公告20261016",
       "url": "https://ece.shu.edu.cn/info/1147/90224.htm",
@@ -208,12 +214,6 @@
     {
       "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
       "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
-      "date": "2026-08-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】大一新生必看第一篇|核心课程准备，从暑假开始（数理化篇）",
-      "url": "https://mp.weixin.qq.com/s/R5X8ORmIIxI5GcQlcLsZgw",
       "date": "2026-08-18",
       "column": "学院新闻"
     },

@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261014_163839",
-  "total_articles": 807,
+  "crawl_time": "20261015_052146",
+  "total_articles": 808,
   "columns": {
     "学术活动": 200,
-    "学院新闻": 93,
+    "学院新闻": 94,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "上海大学管理学院举办打造高质量课堂专题培训",
+      "url": "https://ms.shu.edu.cn/info/1244/92765.htm",
+      "date": "2026-10-15",
+      "column": "学院新闻"
+    },
     {
       "title": "1014上海管理论坛第581期（冯旭南教授，上海财经大学）",
       "url": "https://ms.shu.edu.cn/info/1246/92705.htm",

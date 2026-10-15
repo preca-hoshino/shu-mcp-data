@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261014_163839",
+  "crawl_time": "20261015_052146",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于上海大学专利类无形资产情况的公示  （2026年9月）",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12852",
+      "date": "2026-10-15",
+      "column": "通知公告"
+    },
+    {
+      "title": "国家自然科学基金委员会关于发布“脑科学与类脑研究”国家科技重大专项2027年度第一批项目申报指南的通...",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12862.htm",
+      "date": "2026-10-15",
+      "column": "通知公告"
+    },
     {
       "title": "自然资源部关于发布深地国家科技重大专项2026年度第二批公开项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/12792.htm",
@@ -154,18 +166,6 @@
       "url": "https://mp.weixin.qq.com/s/X7Skd1XgZhcx4HrxaQEbIA",
       "date": "2026-09-18",
       "column": "科技动态"
-    },
-    {
-      "title": "转发市教委《关于组织开展2027年度上海高校产学研联合创新计划项目项目申报工作的通知》",
-      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12552",
-      "date": "2026-09-17",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布国家重点研发计划“国家量子科技关键材料器件设备研发”重点专项2026年度（第一批）项目申报指...",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12562.htm",
-      "date": "2026-09-17",
-      "column": "通知公告"
     },
     {
       "title": "深化跨区域科创协同，长三角国家高新区联盟大会落地多项合作成果",

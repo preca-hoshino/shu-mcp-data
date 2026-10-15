@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261014_163839",
-  "total_articles": 2608,
+  "crawl_time": "20261015_052146",
+  "total_articles": 2610,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
     "学术动态": 571,
-    "学术报告": 156,
+    "学术报告": 158,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,18 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "2026公共性论坛12|适度均衡：中国人口城镇化的空间形态及其实现机制",
+      "url": "https://sociology.shu.edu.cn/info/1105/44108.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "“人生与田野”讲座27|作为方法的中国非遗保护",
+      "url": "https://sociology.shu.edu.cn/info/1105/44118.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
     {
       "title": "社会学院关于2026年上海大学费孝通奖学金推荐名单公示",
       "url": "https://sociology.shu.edu.cn/info/1103/43988.htm",

@@ -2,11 +2,11 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261014_163839",
-  "total_articles": 3972,
+  "crawl_time": "20261015_052146",
+  "total_articles": 3973,
   "columns": {
     "主办会议": 42,
-    "学术报告": 2653,
+    "学术报告": 2654,
     "本科生教务": 39,
     "本科生新闻": 48,
     "研究生教务": 45,
@@ -16,6 +16,24 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3080讲 松弛贪婪随机Kaczmarz算法的精细误差界",
+      "url": "https://scicol.shu.edu.cn/info/1003/34205.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3084讲 对称与非对称锥优化的数值方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/34215.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3083讲 有理顶点算子代数",
+      "url": "https://scicol.shu.edu.cn/info/1003/34225.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3080讲 关于Michael-Simon类型的索伯列夫不等式的当今研究",
       "url": "https://scicol.shu.edu.cn/info/1003/34195.htm",
@@ -513,18 +531,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/32955.htm",
       "date": "2026-06-02",
       "column": "综合新闻"
-    },
-    {
-      "title": "物理学科Seminar第812讲 从头算模拟超快电子-核动力学——开辟阿秒化学之路",
-      "url": "https://scicol.shu.edu.cn/info/1003/32905.htm",
-      "date": "2026-06-01",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第104讲暨物理学科Seminar第813讲 非厄米物理简介第二讲",
-      "url": "https://scicol.shu.edu.cn/info/1003/32915.htm",
-      "date": "2026-06-01",
-      "column": "学术报告"
     },
     {
       "title": "量子科技研究院seminar第102讲暨物理学科Seminar第808讲 缺陷型碳基电催化材料",

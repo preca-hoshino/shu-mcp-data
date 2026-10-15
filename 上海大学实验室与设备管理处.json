@@ -2,13 +2,19 @@
   "domain": "sbc.shu.edu.cn",
   "department": "上海大学实验室与设备管理处",
   "type": "28",
-  "crawl_time": "20261014_163839",
-  "total_articles": 206,
+  "crawl_time": "20261015_052146",
+  "total_articles": 208,
   "columns": {
     "工作动态": 167,
-    "通知公告": 39
+    "通知公告": 41
   },
   "articles": [
+    {
+      "title": "上海大学试剂耗材采购系统供应商关联通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/11324.htm",
+      "date": "2026-10-15",
+      "column": "通知公告"
+    },
     {
       "title": "上海金沪拍卖有限公司拍卖公告",
       "url": "https://sbc.shu.edu.cn/info/1004/11314.htm",
@@ -1170,6 +1176,12 @@
     {
       "title": "关于上海大学开展2019年度科研实验室安全自查自纠工作的通知",
       "url": "https://sbc.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=1382",
+      "date": "2019-05-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学开展2019年度科研实验室安全自查自纠工作的通知",
+      "url": "https://sbc.shu.edu.cn/info/1004/1389.htm",
       "date": "2019-05-06",
       "column": "通知公告"
     },
