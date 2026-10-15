@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261015_085444",
+  "crawl_time": "20261015_130242",
   "total_articles": 1609,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,12 @@
     "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "Seminar第3085讲 广义相位模型的盒装平面配分和关联函数",
+      "url": "https://math.shu.edu.cn/info/1042/27251.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3083讲 有理顶点算子代数",
       "url": "https://math.shu.edu.cn/info/1042/27231.htm",
@@ -123,12 +129,6 @@
       "url": "https://math.shu.edu.cn/info/1041/26991.htm",
       "date": "2026-06-15",
       "column": "新闻快递"
-    },
-    {
-      "title": "Seminar第3065讲 扭Yangian与仿射格拉斯曼流形的i-切片",
-      "url": "https://math.shu.edu.cn/info/1042/26971.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
     },
     {
       "title": "Seminar第2066讲 正交三幂等矩阵",
