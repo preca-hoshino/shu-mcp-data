@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261015_162344",
-  "total_articles": 808,
+  "crawl_time": "20261016_051316",
+  "total_articles": 809,
   "columns": {
     "学术活动": 200,
-    "学院新闻": 94,
+    "学院新闻": 95,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "上海财经大学冯旭南教授做客上海管理论坛分享《从观察到识别：实证研究...",
+      "url": "https://ms.shu.edu.cn/info/1244/92775.htm",
+      "date": "2026-10-16",
+      "column": "学院新闻"
+    },
     {
       "title": "上海大学管理学院举办打造高质量课堂专题培训",
       "url": "https://ms.shu.edu.cn/info/1244/92765.htm",

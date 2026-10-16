@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261015_162344",
+  "crawl_time": "20261016_051316",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于组织申报国家网络空间安全国家科技重大专项第四批项目的通知 （公开类）",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12872.htm",
+      "date": "2026-10-16",
+      "column": "通知公告"
+    },
     {
       "title": "关于上海大学专利类无形资产情况的公示  （2026年9月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12852",
@@ -154,12 +160,6 @@
       "url": "https://mp.weixin.qq.com/s/fN0ySOK99c6MViPHEf9LuA",
       "date": "2026-09-21",
       "column": "科技动态"
-    },
-    {
-      "title": "上海市无机二维超材料原子调控及应用重点实验室2026年开放课题申请指南",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12582.htm",
-      "date": "2026-09-20",
-      "column": "通知公告"
     },
     {
       "title": "“AI赋能产业·对话链接未来”：一场AI产业链的接力对话｜“智链加速器”院士专家工作站AI专场报名开启",

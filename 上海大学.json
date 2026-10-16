@@ -2,15 +2,39 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261015_162344",
-  "total_articles": 18413,
+  "crawl_time": "20261016_051316",
+  "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 454,
+    "通知公告": 453,
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "力工学院退休教师戴世强教授获评上海市第三届 “老有所为 强国复兴有我” 优秀典型人物",
+      "url": "https://www.shu.edu.cn/info/1056/401695.htm",
+      "date": "2026-10-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "段勇副书记一行赴中国商飞调研交流访企拓岗",
+      "url": "https://www.shu.edu.cn/info/1056/401705.htm",
+      "date": "2026-10-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "忆党史，看今朝——九三上大委举办退休社员学习教育活动",
+      "url": "https://www.shu.edu.cn/info/1056/401715.htm",
+      "date": "2026-10-16",
+      "column": "综合新闻"
+    },
+    {
+      "title": "筑牢内控防线 规范国资管理——科产系统召开企业规范化管理工作会议",
+      "url": "https://www.shu.edu.cn/info/1056/401725.htm",
+      "date": "2026-10-16",
+      "column": "综合新闻"
+    },
     {
       "title": "理学院物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
       "url": "https://www.shu.edu.cn/info/1055/401615.htm",
@@ -48,18 +72,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "钱伟长讲坛第103讲《汽车芯片自主可控之路》顺利开讲",
-      "url": "https://www.shu.edu.cn/info/1056/401555.htm",
-      "date": "2026-10-13",
-      "column": "综合新闻"
-    },
-    {
-      "title": "立德树人守初心 师德师风铸师魂——新闻传播学院举办师德师风建设专题宣讲会",
-      "url": "https://www.shu.edu.cn/info/1056/401565.htm",
-      "date": "2026-10-13",
-      "column": "综合新闻"
-    },
-    {
       "title": "新闻传播学院召开2026年第三次全体教师大会",
       "url": "https://www.shu.edu.cn/info/1056/401575.htm",
       "date": "2026-10-13",
@@ -72,28 +84,10 @@
       "column": "重要新闻"
     },
     {
-      "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师风月系列活动",
-      "url": "https://www.shu.edu.cn/info/1056/401515.htm",
-      "date": "2026-10-12",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
-      "url": "https://www.shu.edu.cn/info/1056/401535.htm",
-      "date": "2026-10-12",
-      "column": "综合新闻"
-    },
-    {
       "title": "核电关键材料全国重点实验室施思齐教授团队提出电解液氧化稳定性评估新策略",
       "url": "https://www.shu.edu.cn/info/1055/401475.htm",
       "date": "2026-10-10",
       "column": "科研动态"
-    },
-    {
-      "title": "[公示]上海大学本科及以上中外合作办学机构和项目2025年度办学报告",
-      "url": "https://www.shu.edu.cn/info/1051/401445.htm",
-      "date": "2026-10-08",
-      "column": "通知公告"
     },
     {
       "title": "计算机学院冷拓教授团队在人工智能国际顶会NeurIPS 2026上发表机器证明FormalGeo系列最新研究成果",
