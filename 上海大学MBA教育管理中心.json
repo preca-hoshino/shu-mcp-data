@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261016_051316",
+  "crawl_time": "20261016_084706",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -13,6 +13,12 @@
     {
       "title": "上海大学2026级研究生新生学籍自查通知",
       "url": "https://mba.shu.edu.cn/info/1024/27831.htm",
+      "date": "2026-10-16",
+      "column": "通知公告"
+    },
+    {
+      "title": "数智为翼，文创筑梦｜上大MBA2027六大专业方向之数智文创",
+      "url": "https://mp.weixin.qq.com/s/1iCpyxAKQ6az3N6PN1W-Kg",
       "date": "2026-10-16",
       "column": "通知公告"
     },
@@ -146,12 +152,6 @@
       "title": "关于开展 2026-2027学年上海大学家庭经济困难研究生认定工作的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27551.htm",
       "date": "2026-09-22",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年上海大学MBA中心研究生奖学金申报工作的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27531.htm",
-      "date": "2026-09-21",
       "column": "通知公告"
     },
     {

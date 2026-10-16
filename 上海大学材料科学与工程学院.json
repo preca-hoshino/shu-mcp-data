@@ -2,18 +2,24 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261016_051316",
-  "total_articles": 1706,
+  "crawl_time": "20261016_084706",
+  "total_articles": 1707,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
     "报告讲座": 136,
-    "科研动态": 38,
+    "科研动态": 39,
     "通知公告(教师)": 30,
     "通知公告(本科生)": 117,
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "材料学院贾林课题组在《Advanced Functional Materials》上发表最新研究成果",
+      "url": "https://mat.shu.edu.cn/info/1016/31398.htm",
+      "date": "2026-10-16",
+      "column": "科研动态"
+    },
     {
       "title": "材料学院2026年度“人工智能+”虚拟仿真实验教学项目申报推荐公示",
       "url": "https://mat.shu.edu.cn/info/1020/31388.htm",

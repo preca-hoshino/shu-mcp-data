@@ -2,13 +2,19 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20261016_051316",
-  "total_articles": 465,
+  "crawl_time": "20261016_084706",
+  "total_articles": 466,
   "columns": {
     "后勤新闻": 327,
-    "通知公告": 138
+    "通知公告": 139
   },
   "articles": [
+    {
+      "title": "延长校区交流展示中心电梯维保服务采购公告",
+      "url": "https://hbb.shu.edu.cn/info/1005/10946.htm",
+      "date": "2026-10-16",
+      "column": "通知公告"
+    },
     {
       "title": "2026年上海大学宝山校区南区泵房多层楼宇智慧化改造项目",
       "url": "https://hbb.shu.edu.cn/info/1005/10886.htm",
@@ -187,12 +193,6 @@
       "title": "2026年餐饮管理中心食堂有害生物防治服务公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10236.htm",
       "date": "2026-06-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "行政楼报告厅改造工程设计服务需求",
-      "url": "https://hbb.shu.edu.cn/info/1005/10206.htm",
-      "date": "2026-06-04",
       "column": "通知公告"
     },
     {
@@ -2636,6 +2636,12 @@
       "url": "https://mp.weixin.qq.com/s/iHWPy5eMYtQLcjDSvGWJDw",
       "date": "2021-03-01",
       "column": "后勤新闻"
+    },
+    {
+      "title": "寒潮“突袭”！上大师生请注意……",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI1NTg4NTc3MQ==&mid=2247488287&idx=1&sn=62a0bf8bcfd5e2228ba124a1502a3b61&chksm=ea2e7bbbdd59f2ad68ba7e9ced609433e0c3d2bbb27644472d99de0c2078b9afa28845d7461a&token=1922560149&lang=zh_CN#rd",
+      "date": "2020-12-30",
+      "column": "通知公告"
     },
     {
       "title": "嘉定饮服邀请校工会开展会员权益专题讲座",
