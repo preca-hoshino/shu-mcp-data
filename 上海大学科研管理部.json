@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261016_160933",
+  "crawl_time": "20261017_050827",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于开展2026年度上海产学研合作优秀项目奖评选工作的通知",
+      "url": "https://mp.weixin.qq.com/s/7Z0lePTyYF42K5_KPP1Xdg",
+      "date": "2026-10-17",
+      "column": "通知公告"
+    },
     {
       "title": "关于组织申报国家网络空间安全国家科技重大专项第四批项目的通知 （公开类）",
       "url": "https://kyglb.shu.edu.cn/info/1011/12872.htm",
@@ -118,12 +124,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401305.htm",
       "date": "2026-09-29",
       "column": "科技动态"
-    },
-    {
-      "title": "关于组织申报重点新材料研发及应用国家科技重大专项（科技创新2030重大项目）2026年度第三批项目（非密...",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12602.htm",
-      "date": "2026-09-23",
-      "column": "通知公告"
     },
     {
       "title": "上海市科学技术委员会关于发布2026年度关键技术研发计划“新能源技术攻关”项目申报指南的通知",
