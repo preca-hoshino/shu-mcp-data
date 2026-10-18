@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261018_051359",
+  "crawl_time": "20261018_083538",
   "total_articles": 3974,
   "columns": {
     "主办会议": 42,
@@ -41,7 +41,7 @@
       "column": "学术报告"
     },
     {
-      "title": "物理学科Seminar第3085讲 广义相位模型的盒装平面配分和关联函数",
+      "title": "数学学科Seminar第3085讲 广义相位模型的盒装平面配分和关联函数",
       "url": "https://scicol.shu.edu.cn/info/1003/34255.htm",
       "date": "2026-10-15",
       "column": "学术报告"

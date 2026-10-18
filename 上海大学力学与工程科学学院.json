@@ -2,18 +2,24 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261018_051359",
-  "total_articles": 263,
+  "crawl_time": "20261018_083538",
+  "total_articles": 265,
   "columns": {
     "学术报告": 55,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 43,
+    "综合新闻": 45,
     "通知公告": 37
   },
   "articles": [
+    {
+      "title": "上海市应用数学和力学研究所联合主办长三角工业智能...",
+      "url": "https://smes.shu.edu.cn/info/1013/10845.htm",
+      "date": "2026-10-17",
+      "column": "综合新闻"
+    },
     {
       "title": "力工学院退休教师戴世强教授获评上海市第三届 “老有...",
       "url": "https://smes.shu.edu.cn/info/1013/10835.htm",
@@ -1375,6 +1381,12 @@
       "url": "https://smes.shu.edu.cn/info/1017/2069.htm",
       "date": "2017-07-10",
       "column": "科研动态"
+    },
+    {
+      "title": "感受工程应用中的力学",
+      "url": "https://smes.shu.edu.cn/info/1013/2053.htm",
+      "date": "2017-06-28",
+      "column": "综合新闻"
     },
     {
       "title": "密苏里科技大学的王成博士来所学术交流",

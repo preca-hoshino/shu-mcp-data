@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261018_051359",
-  "total_articles": 1006,
+  "crawl_time": "20261018_083538",
+  "total_articles": 1007,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 74,
     "研究生教学": 216,
-    "科研动态": 117,
+    "科研动态": 118,
     "通知公告": 121
   },
   "articles": [
+    {
+      "title": "赵微团队在《Journal of the American Chemical Society》上发表最新研究成果",
+      "url": "https://ece.shu.edu.cn/info/1148/90304.htm",
+      "date": "2026-10-18",
+      "column": "科研动态"
+    },
     {
       "title": "喜报 | 我院多位教师入选 2026“全球前2% 顶尖科学家”榜单",
       "url": "https://ece.shu.edu.cn/info/1149/90274.htm",
