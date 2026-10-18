@@ -2,7 +2,7 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261018_083538",
+  "crawl_time": "20261018_122537",
   "total_articles": 582,
   "columns": {
     "学术活动预告": 401,
@@ -11,6 +11,12 @@
     "通知公告": 90
   },
   "articles": [
+    {
+      "title": "携手交流拓视野 互学互鉴促提升——河北师范大学外国语学院赴上海大学外国语学院调研交流",
+      "url": "https://sfs.shu.edu.cn/info/1142/31507.htm",
+      "date": "2026-10-18",
+      "column": "学院新闻"
+    },
     {
       "title": "澳大利亚学者Gillian Dooley文学系列讲座预告",
       "url": "https://sfs.shu.edu.cn/info/1148/31487.htm",
@@ -184,12 +190,6 @@
       "url": "https://sfs.shu.edu.cn/info/1141/30697.htm",
       "date": "2026-06-03",
       "column": "通知公告"
-    },
-    {
-      "title": "外国语学院分工会开展六一“可爱上海“绘画活动",
-      "url": "https://sfs.shu.edu.cn/info/1142/30687.htm",
-      "date": "2026-06-01",
-      "column": "学院新闻"
     },
     {
       "title": "决策咨询专报撰写和国家社科基金项目申报交流会在外国语学院顺利举行",
