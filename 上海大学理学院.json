@@ -2,12 +2,12 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261019_151521",
-  "total_articles": 3977,
+  "crawl_time": "20261019_182324",
+  "total_articles": 3976,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
-    "本科生教务": 40,
+    "本科生教务": 39,
     "本科生新闻": 48,
     "研究生教务": 45,
     "研究生新闻": 50,
@@ -69,12 +69,6 @@
       "url": "https://scicol.shu.edu.cn/info/1003/34255.htm",
       "date": "2026-10-15",
       "column": "学术报告"
-    },
-    {
-      "title": "关于推荐申报2026年度上海高校“人工智能”虚拟仿真实验教学项目的公示",
-      "url": "https://scicol.shu.edu.cn/info/1010/34245.htm",
-      "date": "2026-10-15",
-      "column": "本科生教务"
     },
     {
       "title": "数学学科Seminar第3080讲 关于Michael-Simon类型的索伯列夫不等式的当今研究",
