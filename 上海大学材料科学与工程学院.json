@@ -2,18 +2,24 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261018_152653",
-  "total_articles": 1707,
+  "crawl_time": "20261019_052543",
+  "total_articles": 1708,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
     "报告讲座": 136,
-    "科研动态": 39,
+    "科研动态": 40,
     "通知公告(教师)": 30,
     "通知公告(本科生)": 117,
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "纳米磁性材料团队低对称性金属间化合物织构变形机制取得重大研究进展",
+      "url": "https://mat.shu.edu.cn/info/1016/31418.htm",
+      "date": "2026-10-19",
+      "column": "科研动态"
+    },
     {
       "title": "【喜报】上海大学获批上海市新材料中试基地",
       "url": "https://mat.shu.edu.cn/info/1012/31408.htm",

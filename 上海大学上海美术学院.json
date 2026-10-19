@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20261018_152653",
-  "total_articles": 727,
+  "crawl_time": "20261019_052543",
+  "total_articles": 728,
   "columns": {
     "党建工作": 47,
     "学术讲座": 56,
     "学生工作": 42,
-    "学院新闻": 340,
+    "学院新闻": 341,
     "展览展示": 24,
     "教学": 167,
     "科研": 35,
     "通知公告": 16
   },
   "articles": [
+    {
+      "title": "岁岁重阳、久久安康——上海美术学院2026年退休教师“回娘家”活动顺利举行",
+      "url": "https://safa.shu.edu.cn/info/1084/20110.htm",
+      "date": "2026-10-19",
+      "column": "学院新闻"
+    },
     {
       "title": "第一届“中国玻璃”研究研讨会在上海大学举行",
       "url": "https://safa.shu.edu.cn/info/1084/20090.htm",

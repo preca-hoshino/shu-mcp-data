@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261018_152653",
-  "total_articles": 1795,
+  "crawl_time": "20261019_052543",
+  "total_articles": 1797,
   "columns": {
     "学院新闻": 549,
     "招生热讯": 80,
-    "通知公告": 1166
+    "通知公告": 1168
   },
   "articles": [
+    {
+      "title": "上海大学2026年下半年高等教育自学考试友情提示",
+      "url": "https://cce.shu.edu.cn/info/1542/21174.htm",
+      "date": "2026-10-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年下半年上海大学自考理论课考试座位号所在楼宇查询表",
+      "url": "https://cce.shu.edu.cn/info/1542/21164.htm",
+      "date": "2026-10-13",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学高等学历继续教育2026年艺术类专业考试特别提醒",
       "url": "https://cce.shu.edu.cn/info/1013/21054.htm",

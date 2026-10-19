@@ -2,13 +2,43 @@
   "domain": "gczx.shu.edu.cn",
   "department": "上海大学工程技术训练中心",
   "type": "23",
-  "crawl_time": "20260514_004804",
-  "total_articles": 133,
+  "crawl_time": "20261019_052543",
+  "total_articles": 138,
   "columns": {
-    "中心新闻": 76,
+    "中心新闻": 81,
     "图片新闻": 57
   },
   "articles": [
+    {
+      "title": "2026第十五届上海市大学生工程实践与创新能力大赛校赛决赛圆满举办",
+      "url": "https://mp.weixin.qq.com/s/L95BbpRYZIpDFz-z8zpznQ",
+      "date": "2026-10-19",
+      "column": "中心新闻"
+    },
+    {
+      "title": "盛夏砺真知，实训启新程｜工训中心2026年夏季学期实训教学纪实",
+      "url": "https://mp.weixin.qq.com/s/OTy6qyIYhg7GkmmFc-sbAg",
+      "date": "2026-10-19",
+      "column": "中心新闻"
+    },
+    {
+      "title": "以实践赋能国际化人才——中欧学院国际创新创业课程在工训中心顺利收官",
+      "url": "https://mp.weixin.qq.com/s/fGCeJvBsmgYhzI7e7KM3rw",
+      "date": "2026-10-19",
+      "column": "中心新闻"
+    },
+    {
+      "title": "《工程素养》秋季课程圆满收官：当人文遇见工程，跨界创新正当时！",
+      "url": "https://mp.weixin.qq.com/s/iVOjVBxcFaQTcyXJ9wI-1g",
+      "date": "2026-10-19",
+      "column": "中心新闻"
+    },
+    {
+      "title": "盛夏实训暖心护航｜工训中心五大暖心保障举措， 助力夏季实践教学平稳运行",
+      "url": "https://mp.weixin.qq.com/s/rT07ijSbEqMkSCZbtg6vzQ",
+      "date": "2026-10-19",
+      "column": "中心新闻"
+    },
     {
       "title": "西北农林科技大学教师赴上大工训考察：共探工程实践育人新路径",
       "url": "https://mp.weixin.qq.com/s/OxypQ6mRJGkrQhhYyjZdwg",

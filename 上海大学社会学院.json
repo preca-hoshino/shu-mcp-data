@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261018_152653",
-  "total_articles": 2610,
+  "crawl_time": "20261019_052543",
+  "total_articles": 2611,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
     "学术动态": 571,
-    "学术报告": 158,
+    "学术报告": 159,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,12 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "ADRI系列讲座|Urbanisation and the shared socio-economic scenarios: Time to enhance, enrich and encode?（城市化与共享社会经济路径：是时候强化、丰富与编码了吗？）",
+      "url": "https://sociology.shu.edu.cn/info/1105/44148.htm",
+      "date": "2026-10-16",
+      "column": "学术报告"
+    },
     {
       "title": "2026公共性论坛12|适度均衡：中国人口城镇化的空间形态及其实现机制",
       "url": "https://sociology.shu.edu.cn/info/1105/44108.htm",

@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261018_152653",
-  "total_articles": 265,
+  "crawl_time": "20261019_052543",
+  "total_articles": 267,
   "columns": {
-    "学术报告": 55,
+    "学术报告": 57,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
@@ -14,6 +14,18 @@
     "通知公告": 37
   },
   "articles": [
+    {
+      "title": "钱伟长力学SEMINAR 1012：Aerodynamic technologies ...",
+      "url": "https://smes.shu.edu.cn/info/1014/10855.htm",
+      "date": "2026-10-19",
+      "column": "学术报告"
+    },
+    {
+      "title": "钱伟长力学SEMINAR 1013：Prediction and Mitigation...",
+      "url": "https://smes.shu.edu.cn/info/1014/10865.htm",
+      "date": "2026-10-19",
+      "column": "学术报告"
+    },
     {
       "title": "上海市应用数学和力学研究所联合主办长三角工业智能...",
       "url": "https://smes.shu.edu.cn/info/1013/10845.htm",

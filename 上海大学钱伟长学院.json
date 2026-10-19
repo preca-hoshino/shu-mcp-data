@@ -2,10 +2,10 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20261018_152653",
-  "total_articles": 707,
+  "crawl_time": "20261019_052543",
+  "total_articles": 704,
   "columns": {
-    "学术报告": 222,
+    "学术报告": 219,
     "最新动态": 374,
     "通知公告": 111
   },
@@ -39,6 +39,12 @@
       "url": "https://qwc.shu.edu.cn/info/1087/8479.htm",
       "date": "2026-09-21",
       "column": "最新动态"
+    },
+    {
+      "title": "钱伟长讲坛第102讲：《材料的拓扑构型化复合》",
+      "url": "https://qwc.shu.edu.cn/info/1088/8519.htm",
+      "date": "2026-09-14",
+      "column": "学术报告"
     },
     {
       "title": "钱伟长学院推荐2027年应届优秀本科毕业生免试攻读研究生工作细则",
@@ -3911,18 +3917,6 @@
       "column": "最新动态"
     },
     {
-      "title": "科学研讨课系列报告第150讲:科技与伦理的博弈：“能做什么”和“应做什么”",
-      "url": "https://qwc.shu.edu.cn/info/1088/2582.htm",
-      "date": "2015-11-03",
-      "column": "学术报告"
-    },
-    {
-      "title": "钱伟长讲坛 第 4 讲:  奋斗、科研与人生",
-      "url": "https://qwc.shu.edu.cn/info/1088/2583.htm",
-      "date": "2015-11-03",
-      "column": "学术报告"
-    },
-    {
       "title": "上海大学钱伟长学院2015级迎新晚会顺利举行",
       "url": "https://qwc.shu.edu.cn/info/1087/2322.htm",
       "date": "2015-10-26",
@@ -3941,12 +3935,6 @@
       "column": "最新动态"
     },
     {
-      "title": "钱伟长学院住宿书院“梦想启航”系列报告第1讲：走进钱院计算机讲座，感悟电脑神奇...",
-      "url": "https://qwc.shu.edu.cn/info/1088/2581.htm",
-      "date": "2015-10-26",
-      "column": "学术报告"
-    },
-    {
       "title": "“纪念钱老诞辰103周年，弘扬钱老爱国精神”主题升旗仪式圆满完成",
       "url": "https://qwc.shu.edu.cn/info/1087/2341.htm",
       "date": "2015-10-10",
@@ -3957,12 +3945,6 @@
       "url": "https://qwc.shu.edu.cn/info/1087/2344.htm",
       "date": "2015-10-10",
       "column": "最新动态"
-    },
-    {
-      "title": "心理健康系列讲座二十五：遇见自己，遇见未来--浅谈大学生如何适应大学生活",
-      "url": "https://qwc.shu.edu.cn/info/1088/2580.htm",
-      "date": "2015-10-10",
-      "column": "学术报告"
     },
     {
       "title": "科学研讨课系列报告第149讲:灵感、激情、创造性",

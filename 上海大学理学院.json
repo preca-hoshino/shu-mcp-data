@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261018_152653",
-  "total_articles": 3974,
+  "crawl_time": "20261019_052543",
+  "total_articles": 3975,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,10 +12,16 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 312,
-    "综合新闻": 623,
+    "综合新闻": 624,
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "登高敬老话重阳，温情满园续华章——理学院数学系举办退休教师重阳节座谈会",
+      "url": "https://scicol.shu.edu.cn/info/1007/34265.htm",
+      "date": "2026-10-19",
+      "column": "综合新闻"
+    },
     {
       "title": "数学学科Seminar第3080讲 松弛贪婪随机Kaczmarz算法的精细误差界",
       "url": "https://scicol.shu.edu.cn/info/1003/34205.htm",

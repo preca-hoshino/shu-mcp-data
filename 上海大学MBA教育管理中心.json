@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261018_152653",
+  "crawl_time": "20261019_052543",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于2027届全日制非定向毕业生领取就业协议的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27851.htm",
+      "date": "2026-10-19",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学2026级研究生新生学籍自查通知",
       "url": "https://mba.shu.edu.cn/info/1024/27831.htm",
@@ -50,30 +56,6 @@
       "title": "招生动态|上大MBA项目招生宣讲会（10月12日-17日）",
       "url": "https://mp.weixin.qq.com/s/6znu9AjHLdQhvcVrvvRsSQ",
       "date": "2026-10-12",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年上海大学MBA中心2026级研究生学业奖学金候选人初选名单的公示",
-      "url": "https://mba.shu.edu.cn/info/1024/27711.htm",
-      "date": "2026-10-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年上海大学MBA中心2025级研究生学业奖学金候选人初选名单的公示",
-      "url": "https://mba.shu.edu.cn/info/1024/27721.htm",
-      "date": "2026-10-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年上海大学MBA中心研究生国家奖学金候选人初选名单的公示",
-      "url": "https://mba.shu.edu.cn/info/1024/27731.htm",
-      "date": "2026-10-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年上海大学MBA中心研究生校长奖学金候选人初选名单的公示",
-      "url": "https://mba.shu.edu.cn/info/1024/27741.htm",
-      "date": "2026-10-10",
       "column": "通知公告"
     },
     {
@@ -152,6 +134,24 @@
       "title": "关于开展 2026-2027学年上海大学家庭经济困难研究生认定工作的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27551.htm",
       "date": "2026-09-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于2026年上海大学MBA中心研究生奖学金申报工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27531.htm",
+      "date": "2026-09-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "上大MBA学子韩若冰荣获上海大学管理学院“优秀共产党员”称号",
+      "url": "https://mp.weixin.qq.com/s/N0y6t0xEtDuXp6vemzLQdg",
+      "date": "2026-09-21",
+      "column": "通知公告"
+    },
+    {
+      "title": "【海外学习】2027学年春季学期校际交换生项目（二）招募通知",
+      "url": "https://mp.weixin.qq.com/s/D9N0uSUGYhVDzibPlERjFA",
+      "date": "2026-09-18",
       "column": "通知公告"
     },
     {
