@@ -2,12 +2,18 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20261019_052543",
-  "total_articles": 36,
+  "crawl_time": "20261019_093758",
+  "total_articles": 37,
   "columns": {
-    "最新公告": 36
+    "最新公告": 37
   },
   "articles": [
+    {
+      "title": "上海大学2027年本科艺术类专业招考方式公告",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/38970.htm",
+      "date": "2026-10-19",
+      "column": "最新公告"
+    },
     {
       "title": "上海大学2026年艺术类本科专业录取分数线(校考)",
       "url": "https://mp.weixin.qq.com/s/wDJNQpLBZ4YqNP2Ds7WleA",

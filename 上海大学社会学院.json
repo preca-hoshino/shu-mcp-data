@@ -2,20 +2,26 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261019_052543",
+  "crawl_time": "20261019_093758",
   "total_articles": 2611,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 65,
     "学术动态": 571,
-    "学术报告": 159,
+    "学术报告": 160,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 886,
-    "通知公告": 56
+    "通知公告": 55
   },
   "articles": [
+    {
+      "title": "2026“美美与共”社会政策与社会工作讲坛|团体督导：过程与技术",
+      "url": "https://sociology.shu.edu.cn/info/1105/44178.htm",
+      "date": "2026-10-19",
+      "column": "学术报告"
+    },
     {
       "title": "ADRI系列讲座|Urbanisation and the shared socio-economic scenarios: Time to enhance, enrich and encode?（城市化与共享社会经济路径：是时候强化、丰富与编码了吗？）",
       "url": "https://sociology.shu.edu.cn/info/1105/44148.htm",
@@ -33,12 +39,6 @@
       "url": "https://sociology.shu.edu.cn/info/1105/44118.htm",
       "date": "2026-10-15",
       "column": "学术报告"
-    },
-    {
-      "title": "社会学院关于2026年上海大学费孝通奖学金推荐名单公示",
-      "url": "https://sociology.shu.edu.cn/info/1103/43988.htm",
-      "date": "2026-10-14",
-      "column": "通知公告"
     },
     {
       "title": "关于评审2026年上海大学社会学院领航奖学金的通知",

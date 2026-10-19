@@ -2,15 +2,33 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20261019_052543",
-  "total_articles": 342,
+  "crawl_time": "20261019_093758",
+  "total_articles": 345,
   "columns": {
-    "新闻动态": 253,
+    "新闻动态": 256,
     "讲座信息": 8,
     "资讯动态": 2,
     "通知公告": 79
   },
   "articles": [
+    {
+      "title": "正身立范 铸魂育人 ——微电子学院召开2026年师德师风专题警示教育会暨第五期教师政治理论学习",
+      "url": "https://sme.shu.edu.cn/info/1029/7872.htm",
+      "date": "2026-10-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "\"把路刻在'芯'里\"——我院钟其泽教授作为教师代表讲授示范微党课",
+      "url": "https://sme.shu.edu.cn/info/1029/7882.htm",
+      "date": "2026-10-19",
+      "column": "新闻动态"
+    },
+    {
+      "title": "聚力临港，职引未来｜2026年上海大学“1+3+N”集成电路领域",
+      "url": "https://sme.shu.edu.cn/info/1029/7892.htm",
+      "date": "2026-10-19",
+      "column": "新闻动态"
+    },
     {
       "title": "关于2026年研究生奖学金调整的公示",
       "url": "https://sme.shu.edu.cn/info/1030/7862.htm",

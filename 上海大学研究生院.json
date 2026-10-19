@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20261019_052543",
-  "total_articles": 129,
+  "crawl_time": "20261019_093758",
+  "total_articles": 130,
   "columns": {
     "国际交流": 48,
-    "培养管理": 27,
+    "培养管理": 28,
     "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "2026年上海大学研究生国家奖学金候选人和学业奖学金获奖研究生公示",
+      "url": "https://gs.shu.edu.cn/info/1029/173322.htm",
+      "date": "2026-10-19",
+      "column": "培养管理"
+    },
     {
       "title": "上海大学2026级研究生新生学籍自查通知",
       "url": "https://gs.shu.edu.cn/info/1029/173312.htm",

@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261019_052543",
+  "crawl_time": "20261019_093758",
   "total_articles": 1609,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,12 @@
     "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "数学学科 第3086讲 通用逼近定理及神经网络方法底层逻辑",
+      "url": "https://math.shu.edu.cn/info/1042/27261.htm",
+      "date": "2026-10-19",
+      "column": "学术报告"
+    },
     {
       "title": "Seminar第3085讲 广义相位模型的盒装平面配分和关联函数",
       "url": "https://math.shu.edu.cn/info/1042/27251.htm",
@@ -129,12 +135,6 @@
       "url": "https://math.shu.edu.cn/info/1041/26991.htm",
       "date": "2026-06-15",
       "column": "新闻快递"
-    },
-    {
-      "title": "Seminar第2066讲 正交三幂等矩阵",
-      "url": "https://math.shu.edu.cn/info/1042/27001.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
     },
     {
       "title": "上海大学理学院数学学科发展研讨会顺利举行",
