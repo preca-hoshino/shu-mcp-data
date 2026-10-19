@@ -2,17 +2,23 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20261019_093758",
-  "total_articles": 859,
+  "crawl_time": "20261019_151521",
+  "total_articles": 860,
   "columns": {
     "党建简报": 132,
     "学工新闻": 36,
-    "通知公告": 691
+    "通知公告": 692
   },
   "articles": [
     {
       "title": "2026年上海大学费孝通教育奖学金评选结果公示",
       "url": "https://xgb.shu.edu.cn/info/1003/46114.htm",
+      "date": "2026-10-19",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学2025-2026学年本科生国家励志奖学金评审结果补充公示",
+      "url": "https://xgb.shu.edu.cn/info/1003/46124.htm",
       "date": "2026-10-19",
       "column": "通知公告"
     },
