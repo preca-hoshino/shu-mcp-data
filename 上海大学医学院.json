@@ -2,17 +2,23 @@
   "domain": "medicine.shu.edu.cn",
   "department": "上海大学医学院",
   "type": "18",
-  "crawl_time": "20261020_091102",
-  "total_articles": 349,
+  "crawl_time": "20261020_131738",
+  "total_articles": 350,
   "columns": {
     "学术讲座": 32,
     "学生事务": 46,
     "教师事务": 33,
     "科研动态": 102,
     "综合新闻": 79,
-    "通知公告": 57
+    "通知公告": 58
   },
   "articles": [
+    {
+      "title": "接收预备党员公示",
+      "url": "https://medicine.shu.edu.cn/info/1054/18257.htm",
+      "date": "2026-10-20",
+      "column": "通知公告"
+    },
     {
       "title": "2026级硕博新生实验室安全教育培训2026 年 10 月 16 日，上海大学医学院举办 2026 级硕博新生实验室安全教育培训。本次培训由学院分析测试中心副主任宋歌主持，在分管院领导董昕副院...",
       "url": "https://medicine.shu.edu.cn/info/1052/18217.htm",
