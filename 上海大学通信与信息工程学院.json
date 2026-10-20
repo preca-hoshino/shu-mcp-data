@@ -2,15 +2,33 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261019_182324",
-  "total_articles": 2037,
+  "crawl_time": "20261020_052750",
+  "total_articles": 2040,
   "columns": {
     "学术报告": 526,
     "教学信息": 22,
-    "新闻动态": 1268,
+    "新闻动态": 1271,
     "通知公告": 221
   },
   "articles": [
+    {
+      "title": "访企拓岗促合作 产教融合谋新局 —— 通信学院赴移远通信开展校企走访交流",
+      "url": "https://scie.shu.edu.cn/info/1064/47115.htm",
+      "date": "2026-10-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通信学院2026年敬老节活动 —— 情暖金秋敬桑榆 薪火相传续华章",
+      "url": "https://scie.shu.edu.cn/info/1064/47125.htm",
+      "date": "2026-10-20",
+      "column": "新闻动态"
+    },
+    {
+      "title": "通信学院召开2027年度国家自然科学基金青年项目申报动员会",
+      "url": "https://scie.shu.edu.cn/info/1064/47135.htm",
+      "date": "2026-10-20",
+      "column": "新闻动态"
+    },
     {
       "title": "通信学院24位学者入选2026年全球前2%顶尖科学家榜单",
       "url": "https://scie.shu.edu.cn/info/1064/47085.htm",

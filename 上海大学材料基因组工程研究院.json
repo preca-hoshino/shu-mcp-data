@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261019_182324",
-  "total_articles": 444,
+  "crawl_time": "20261020_052750",
+  "total_articles": 446,
   "columns": {
-    "学术报告": 141,
+    "学术报告": 143,
     "科研动态": 78,
     "综合新闻": 63,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "MGI Seminar 第424讲：Dr. Yulia Mourzina （2026年10月25日 星期日 10:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7735.htm",
+      "date": "2026-10-20",
+      "column": "学术报告"
+    },
     {
       "title": "MGI Seminar 第423讲：Prof. Mathias Kläui  （2026年10月17日 星期六 11:00）",
       "url": "https://mgi.shu.edu.cn/info/1065/7725.htm",
@@ -2506,6 +2512,12 @@
       "url": "https://mgi.shu.edu.cn/info/1063/1706.htm",
       "date": "2015-12-29",
       "column": "科研动态"
+    },
+    {
+      "title": "MGI Seminar 第33讲：Big-Data Analytics for Materials Science: Concepts, Challenges, and Hype",
+      "url": "https://mgi.shu.edu.cn/info/1065/2055.htm",
+      "date": "2015-10-19",
+      "column": "学术报告"
     },
     {
       "title": "MGI Seminar 第32讲：The plastic flow behavior and mechanism of metallic glasses",

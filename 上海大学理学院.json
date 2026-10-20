@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261019_182324",
-  "total_articles": 3976,
+  "crawl_time": "20261020_052750",
+  "total_articles": 3977,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,10 +12,16 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 313,
-    "综合新闻": 625,
+    "综合新闻": 626,
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "上海大学物理实验中心举办专题教学交流研讨会",
+      "url": "https://scicol.shu.edu.cn/info/1007/34305.htm",
+      "date": "2026-10-20",
+      "column": "综合新闻"
+    },
     {
       "title": "数学学科Seminar第3086讲 通用逼近定理及神经网络方法底层逻辑",
       "url": "https://scicol.shu.edu.cn/info/1003/34295.htm",
