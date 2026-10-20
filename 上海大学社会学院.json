@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261020_052750",
-  "total_articles": 2611,
+  "crawl_time": "20261020_091102",
+  "total_articles": 2614,
   "columns": {
     "图片新闻": 121,
-    "媒体报道": 65,
-    "学术动态": 571,
+    "媒体报道": 67,
+    "学术动态": 572,
     "学术报告": 160,
     "学生动态": 584,
     "教学教务": 137,
@@ -16,6 +16,18 @@
     "通知公告": 55
   },
   "articles": [
+    {
+      "title": "讲座回顾|“当安全并不简单：理解与应对亲密伴侣暴力”学术讲座",
+      "url": "https://sociology.shu.edu.cn/info/1104/44188.htm",
+      "date": "2026-10-20",
+      "column": "学术动态"
+    },
+    {
+      "title": "《文汇报》|乱世草莽与乡土重构 ——评《寨墙内外：1920—1940年代豫北社会变迁》",
+      "url": "https://sociology.shu.edu.cn/info/1109/44198.htm",
+      "date": "2026-10-20",
+      "column": "媒体报道"
+    },
     {
       "title": "2026“美美与共”社会政策与社会工作讲坛|团体督导：过程与技术",
       "url": "https://sociology.shu.edu.cn/info/1105/44178.htm",
@@ -10791,6 +10803,12 @@
       "url": "https://sociology.shu.edu.cn/info/1102/4922.htm",
       "date": "2015-12-22",
       "column": "综合新闻"
+    },
+    {
+      "title": "《参考消息》《上海大学集合优质教授资源开讲“创新中国”》",
+      "url": "http://www.cankaoxiaoxi.com/china/20151210/1022617.shtml",
+      "date": "2015-12-20",
+      "column": "媒体报道"
     },
     {
       "title": "创新中国：中国制造谁来造——“机器人”与“无人艇”走进“创新中国”第二课",

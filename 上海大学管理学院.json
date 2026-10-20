@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261020_052750",
-  "total_articles": 809,
+  "crawl_time": "20261020_091102",
+  "total_articles": 810,
   "columns": {
-    "学术活动": 200,
+    "学术活动": 201,
     "学院新闻": 95,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "1027上海管理论坛第582期（Christopher L. Tucci教授，牛津大学赛德商学...",
+      "url": "https://ms.shu.edu.cn/info/1246/92795.htm",
+      "date": "2026-10-20",
+      "column": "学术活动"
+    },
     {
       "title": "上海财经大学冯旭南教授做客上海管理论坛分享《从观察到识别：实证研究...",
       "url": "https://ms.shu.edu.cn/info/1244/92775.htm",
