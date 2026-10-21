@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261021_132334",
+  "crawl_time": "20261021_164134",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -18,8 +18,26 @@
       "column": "科研动态"
     },
     {
+      "title": "理学院物理系邢凯健、尹鑫茂在Cell子刊《Matter》发表低维集成电路研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/401855.htm",
+      "date": "2026-10-21",
+      "column": "科研动态"
+    },
+    {
+      "title": "材料学院纳米磁性材料团队低对称性金属间化合物织构变形机制取得重大研究进展",
+      "url": "https://www.shu.edu.cn/info/1055/401865.htm",
+      "date": "2026-10-21",
+      "column": "科研动态"
+    },
+    {
       "title": "上海大学核电关键材料全国重点实验室\"新型多组元合金智能设计模型\"成果获评2026年度上海市\"AI+新材料\"优秀案例",
       "url": "https://www.shu.edu.cn/info/1056/401835.htm",
+      "date": "2026-10-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "先进制造与自动化国际学术研讨会（IWAMA 2026）在上海大学成功举办",
+      "url": "https://www.shu.edu.cn/info/1056/401845.htm",
       "date": "2026-10-21",
       "column": "综合新闻"
     },
@@ -78,12 +96,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "民进上海大学委员会参观“水墨的力量”美术作品展",
-      "url": "https://www.shu.edu.cn/info/1056/401585.htm",
-      "date": "2026-10-14",
-      "column": "综合新闻"
-    },
-    {
       "title": "党课开讲啦！传承红色基因 走好新时代的长征路！",
       "url": "https://mp.weixin.qq.com/s/E1HuH5cPq5OPAkXGWShKpA",
       "date": "2026-10-12",
@@ -138,12 +150,6 @@
       "column": "通知公告"
     },
     {
-      "title": "理学院物理系尹鑫茂课题组在《Nature Communications》上发表最新成果",
-      "url": "https://www.shu.edu.cn/info/1055/400865.htm",
-      "date": "2026-09-20",
-      "column": "科研动态"
-    },
-    {
       "title": "材料基因组工程研究院杨炯教授、席丽丽副研究员团队在《npj Computational Materials》发表研究成果",
       "url": "https://www.shu.edu.cn/info/1055/400925.htm",
       "date": "2026-09-20",
@@ -154,12 +160,6 @@
       "url": "https://mp.weixin.qq.com/s/da80qy9FMYH-23ebMFA3Vw",
       "date": "2026-09-17",
       "column": "重要新闻"
-    },
-    {
-      "title": "《求是》杂志同期刊发我校两篇重要文章",
-      "url": "https://www.shu.edu.cn/info/1055/400825.htm",
-      "date": "2026-09-17",
-      "column": "科研动态"
     },
     {
       "title": "上海大学2026年研究生开学典礼举行",
