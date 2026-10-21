@@ -2,7 +2,7 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261021_052749",
+  "crawl_time": "20261021_090916",
   "total_articles": 583,
   "columns": {
     "学术活动预告": 401,
@@ -11,6 +11,12 @@
     "通知公告": 91
   },
   "articles": [
+    {
+      "title": "凝心聚力促发展，砥砺奋进共成长——外国语学院召开全院教职工大会",
+      "url": "https://sfs.shu.edu.cn/info/1142/31527.htm",
+      "date": "2026-10-21",
+      "column": "学院新闻"
+    },
     {
       "title": "外国语学院拟推荐2026年度上海高校市级重点课程名单",
       "url": "https://sfs.shu.edu.cn/info/1141/31517.htm",
@@ -183,12 +189,6 @@
       "title": "赋能暑期实践，挺膺青春担当  ——外国语学院第六期团支部书记沙龙活动顺利开展",
       "url": "https://sfs.shu.edu.cn/info/1142/30797.htm",
       "date": "2026-06-12",
-      "column": "学院新闻"
-    },
-    {
-      "title": "渔阳寻迹・语传薪火|双语宣讲进校园，让红色课堂“活”起来",
-      "url": "https://sfs.shu.edu.cn/info/1142/30767.htm",
-      "date": "2026-06-05",
       "column": "学院新闻"
     },
     {

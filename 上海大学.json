@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261021_052749",
+  "crawl_time": "20261021_090916",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -16,6 +16,12 @@
       "url": "https://www.shu.edu.cn/info/1055/401825.htm",
       "date": "2026-10-21",
       "column": "科研动态"
+    },
+    {
+      "title": "上海大学核电关键材料全国重点实验室\"新型多组元合金智能设计模型\"成果获评2026年度上海市\"AI+新材料\"优秀案例",
+      "url": "https://www.shu.edu.cn/info/1056/401835.htm",
+      "date": "2026-10-21",
+      "column": "综合新闻"
     },
     {
       "title": "力工学院退休教师戴世强教授获评上海市第三届 “老有所为 强国复兴有我” 优秀典型人物",
@@ -75,12 +81,6 @@
       "title": "民进上海大学委员会参观“水墨的力量”美术作品展",
       "url": "https://www.shu.edu.cn/info/1056/401585.htm",
       "date": "2026-10-14",
-      "column": "综合新闻"
-    },
-    {
-      "title": "新闻传播学院召开2026年第三次全体教师大会",
-      "url": "https://www.shu.edu.cn/info/1056/401575.htm",
-      "date": "2026-10-13",
       "column": "综合新闻"
     },
     {

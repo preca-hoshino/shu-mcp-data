@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261021_052749",
+  "crawl_time": "20261021_090916",
   "total_articles": 3979,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "量子科技研究院Seminar第120讲暨物理学科Seminar第836讲 高温超导铜氧化物同质薄膜中的可扩展...",
+      "url": "https://scicol.shu.edu.cn/info/1003/34335.htm",
+      "date": "2026-10-21",
+      "column": "学术报告"
+    },
     {
       "title": "情暖重阳，薪火相传——化学学科举办2026年敬老节“回娘家”茶话会活动",
       "url": "https://scicol.shu.edu.cn/info/1007/34315.htm",
@@ -525,12 +531,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33045.htm",
       "date": "2026-06-04",
       "column": "综合新闻"
-    },
-    {
-      "title": "数学学科Seminar第3056讲 与 Zygmund 伸缩相关的多参数调和分析的区域变量方法(1)",
-      "url": "https://scicol.shu.edu.cn/info/1003/33015.htm",
-      "date": "2026-06-03",
-      "column": "学术报告"
     },
     {
       "title": "数学学科Seminar第3057讲 与 Zygmund 伸缩相关的多参数调和分析的区域变量方法(2)",
