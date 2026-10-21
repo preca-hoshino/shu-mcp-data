@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261020_162505",
+  "crawl_time": "20261021_052749",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "材料学院贾林课题组在《Advanced Functional Materials》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/401825.htm",
+      "date": "2026-10-21",
+      "column": "科研动态"
+    },
     {
       "title": "力工学院退休教师戴世强教授获评上海市第三届 “老有所为 强国复兴有我” 优秀典型人物",
       "url": "https://www.shu.edu.cn/info/1056/401695.htm",
@@ -148,12 +154,6 @@
       "url": "https://mp.weixin.qq.com/s/da80qy9FMYH-23ebMFA3Vw",
       "date": "2026-09-17",
       "column": "重要新闻"
-    },
-    {
-      "title": "外国语学院教师谢晨两项研究成果发表于语言学国际期刊",
-      "url": "https://www.shu.edu.cn/info/1055/400785.htm",
-      "date": "2026-09-17",
-      "column": "科研动态"
     },
     {
       "title": "《求是》杂志同期刊发我校两篇重要文章",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261020_162505",
+  "crawl_time": "20261021_052749",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -22,6 +22,12 @@
       "url": "https://kyglb.shu.edu.cn/info/1011/12902.htm",
       "date": "2026-10-20",
       "column": "通知公告"
+    },
+    {
+      "title": "顶科奖校园行，上海大学邀您参加！",
+      "url": "https://mp.weixin.qq.com/s/SvYxlwHwSefckrE-WKcGCg",
+      "date": "2026-10-20",
+      "column": "科技动态"
     },
     {
       "title": "关于开展2026年度上海产学研合作优秀项目奖评选工作的通知",
@@ -262,12 +268,6 @@
       "url": "https://kyglb.shu.edu.cn/info/1082/12262.htm",
       "date": "2026-08-06",
       "column": "技术需求"
-    },
-    {
-      "title": "比拼硅光“硬功夫”，前沿技术加快从实验室走向产业",
-      "url": "https://mp.weixin.qq.com/s/9uQZL0-qzlmTvz43K-4Akw?click_id=621980310",
-      "date": "2026-08-06",
-      "column": "科技动态"
     },
     {
       "title": "上海科技青海行需求征集汇总表",

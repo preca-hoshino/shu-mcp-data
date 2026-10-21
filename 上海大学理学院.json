@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261020_162505",
-  "total_articles": 3977,
+  "crawl_time": "20261021_052749",
+  "total_articles": 3979,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,10 +12,22 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 313,
-    "综合新闻": 626,
+    "综合新闻": 628,
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "情暖重阳，薪火相传——化学学科举办2026年敬老节“回娘家”茶话会活动",
+      "url": "https://scicol.shu.edu.cn/info/1007/34315.htm",
+      "date": "2026-10-21",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年应用数学与科学计算国际研讨会在上海大学召开",
+      "url": "https://scicol.shu.edu.cn/info/1007/34325.htm",
+      "date": "2026-10-21",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学物理实验中心举办专题教学交流研讨会",
       "url": "https://scicol.shu.edu.cn/info/1007/34305.htm",

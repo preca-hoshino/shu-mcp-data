@@ -2,14 +2,20 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20261020_162505",
-  "total_articles": 82,
+  "crawl_time": "20261021_052749",
+  "total_articles": 83,
   "columns": {
     "媒体聚焦": 3,
     "新闻动态": 65,
-    "通知公告": 14
+    "通知公告": 15
   },
   "articles": [
+    {
+      "title": "上海大学未来技术学院关于开展2027年“挑战杯”、中国国际大学生创新大赛重点参赛项目培育申报的通知",
+      "url": "https://ai.shu.edu.cn/info/1150/4188.htm",
+      "date": "2026-10-21",
+      "column": "通知公告"
+    },
     {
       "title": "关于申报海洋智能领域2026年本科教学学术研究项目的通知",
       "url": "https://ai.shu.edu.cn/info/1150/4178.htm",

@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261020_162505",
-  "total_articles": 2614,
+  "crawl_time": "20261021_052749",
+  "total_articles": 2615,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 67,
     "学术动态": 572,
-    "学术报告": 160,
+    "学术报告": 161,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,12 @@
     "通知公告": 55
   },
   "articles": [
+    {
+      "title": "2026公共性论坛13|社会因素如何塑造老年认知健康",
+      "url": "https://sociology.shu.edu.cn/info/1105/44168.htm",
+      "date": "2026-10-21",
+      "column": "学术报告"
+    },
     {
       "title": "讲座回顾|“当安全并不简单：理解与应对亲密伴侣暴力”学术讲座",
       "url": "https://sociology.shu.edu.cn/info/1104/44188.htm",

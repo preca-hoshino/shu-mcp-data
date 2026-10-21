@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261020_162505",
+  "crawl_time": "20261021_052749",
   "total_articles": 1823,
   "columns": {
     "政策文件": 58,
@@ -10,6 +10,12 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "上海大学2026年度 “人工智能+”虚拟仿真实验教学项目申报推荐公示",
+      "url": "https://bksy.shu.edu.cn/info/1015/322414.htm",
+      "date": "2026-10-21",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026年上海市高等学校信息技术水平模拟考试的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322394.htm",
@@ -128,12 +134,6 @@
       "title": "关于开展2026年度通识示范课程立项申报工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322044.htm",
       "date": "2026-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于第十七届“正大杯”上海市大学生市场调查分析大赛上海大学校赛的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/322014.htm",
-      "date": "2026-09-22",
       "column": "通知公告"
     },
     {
