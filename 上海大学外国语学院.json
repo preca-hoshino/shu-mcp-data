@@ -2,10 +2,10 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261022_132431",
-  "total_articles": 582,
+  "crawl_time": "20261022_164217",
+  "total_articles": 583,
   "columns": {
-    "学术活动预告": 401,
+    "学术活动预告": 402,
     "学术研究": 34,
     "学院新闻": 57,
     "通知公告": 90
@@ -16,6 +16,12 @@
       "url": "https://sfs.shu.edu.cn/info/1142/31527.htm",
       "date": "2026-10-21",
       "column": "学院新闻"
+    },
+    {
+      "title": "“话语·文化·社会”湖畔沙龙第43期",
+      "url": "https://sfs.shu.edu.cn/info/1148/31547.htm",
+      "date": "2026-10-20",
+      "column": "学术活动预告"
     },
     {
       "title": "携手交流拓视野 互学互鉴促提升——河北师范大学外国语学院赴上海大学外国语学院调研交流",
