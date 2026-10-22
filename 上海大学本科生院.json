@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261022_053243",
+  "crawl_time": "20261022_091145",
   "total_articles": 1823,
   "columns": {
     "政策文件": 58,
@@ -10,6 +10,18 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于公布2026年度通识示范课程建设项目立项名单的通知(本科生院〔2026〕42号)",
+      "url": "https://bksy.shu.edu.cn/info/1015/322474.htm",
+      "date": "2026-10-22",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学本科生院组织召开2026年普通本科学籍学历管理工作培训会（第四届）暨学籍管理案例汇编工作总结会",
+      "url": "https://bksy.shu.edu.cn/info/1016/322454.htm",
+      "date": "2026-10-22",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学2026年度 “人工智能+”虚拟仿真实验教学项目申报推荐公示",
       "url": "https://bksy.shu.edu.cn/info/1015/322414.htm",
@@ -123,12 +135,6 @@
       "url": "https://bksy.shu.edu.cn/info/1016/322074.htm",
       "date": "2026-09-28",
       "column": "新闻动态"
-    },
-    {
-      "title": "关于公布2026年度上海大学人工智能赋能教育教学专项建设项目的通知（本科生院〔2026〕30号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/322024.htm",
-      "date": "2026-09-23",
-      "column": "通知公告"
     },
     {
       "title": "关于开展2026年度通识示范课程立项申报工作的通知",
@@ -10815,12 +10821,6 @@
       "url": "https://bksy.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1235&wbnewsid=33705",
       "date": "2010-09-14",
       "column": "政策文件"
-    },
-    {
-      "title": "2010年第五届上海大学大学生电子设计竞赛开幕",
-      "url": "https://bksy.shu.edu.cn/info/1016/34772.htm",
-      "date": "2010-07-15",
-      "column": "新闻动态"
     },
     {
       "title": "吹响我校新一轮教育教学改革的号角",

@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261022_053243",
-  "total_articles": 1797,
+  "crawl_time": "20261022_091145",
+  "total_articles": 1799,
   "columns": {
     "学院新闻": 549,
-    "招生热讯": 80,
-    "通知公告": 1168
+    "招生热讯": 81,
+    "通知公告": 1169
   },
   "articles": [
+    {
+      "title": "上海大学职业技能等级证书培训班  （人工智能训练师）  招生简章",
+      "url": "https://cce.shu.edu.cn/info/1013/21184.htm",
+      "date": "2026-10-22",
+      "column": "招生热讯"
+    },
+    {
+      "title": "上海大学2026年成人高考报名申请照顾加分名单公示",
+      "url": "https://cce.shu.edu.cn/info/1464/21204.htm",
+      "date": "2026-10-22",
+      "column": "通知公告"
+    },
     {
       "title": "2026上海大学继续教育学院成人英语提高班第二期",
       "url": "https://cce.shu.edu.cn/info/1013/21104.htm",

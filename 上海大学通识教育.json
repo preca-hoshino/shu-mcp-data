@@ -2,13 +2,19 @@
   "domain": "sdts.shu.edu.cn",
   "department": "上海大学通识教育",
   "type": "05",
-  "crawl_time": "20261022_053243",
-  "total_articles": 71,
+  "crawl_time": "20261022_091145",
+  "total_articles": 72,
   "columns": {
     "新闻动态": 60,
-    "通知公告": 11
+    "通知公告": 12
   },
   "articles": [
+    {
+      "title": "关于公布2026年度通识示范课程建设项目立项名单的通知(本科生院〔2026〕42号)",
+      "url": "https://sdts.shu.edu.cn/info/1581/20523.htm",
+      "date": "2026-10-22",
+      "column": "通知公告"
+    },
     {
       "title": "通识示范课公开课《美育中国》开讲",
       "url": "https://sdts.shu.edu.cn/info/1037/20513.htm",
