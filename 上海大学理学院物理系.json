@@ -2,15 +2,27 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20261021_164134",
-  "total_articles": 394,
+  "crawl_time": "20261022_053243",
+  "total_articles": 396,
   "columns": {
     "学术报告": 300,
     "新闻快递": 23,
-    "研究动态": 50,
+    "研究动态": 52,
     "通知公告": 21
   },
   "articles": [
+    {
+      "title": "理学院物理系邢凯健、尹鑫茂在Cell子刊《Matter》发表低维集成电路研究成果",
+      "url": "https://physics.shu.edu.cn/info/1076/9964.htm",
+      "date": "2026-10-22",
+      "column": "研究动态"
+    },
+    {
+      "title": "量子科技研究院Seminar第120讲暨物理学科Seminar第836讲：翟晓芳（2026年10月23日1...",
+      "url": "https://physics.shu.edu.cn/info/1078/9954.htm",
+      "date": "2026-10-22",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科Seminar第836讲:Sebastián V. Romero(2026年10月22日10:00)",
       "url": "https://physics.shu.edu.cn/info/1078/9944.htm",
@@ -105,12 +117,6 @@
       "title": "量子科技研究院seminar第116讲暨物理学科Seminar第827讲：张学锋（2026年7月21日（...",
       "url": "https://physics.shu.edu.cn/info/1078/9754.htm",
       "date": "2026-07-20",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar 第114讲暨物理学科Seminar第825讲:柳雅茹 (2026年7月20日9:...",
-      "url": "https://physics.shu.edu.cn/info/1078/9734.htm",
-      "date": "2026-07-17",
       "column": "学术报告"
     },
     {
@@ -2284,6 +2290,12 @@
       "url": "https://physics.shu.edu.cn/info/1078/1189.htm",
       "date": "2020-10-12",
       "column": "学术报告"
+    },
+    {
+      "title": "云端科技嘉年华 高温超导放异彩——记我校理学院上海市高温超导重点实验室科技节开...",
+      "url": "https://physics.shu.edu.cn/info/1076/1429.htm",
+      "date": "2020-08-25",
+      "column": "研究动态"
     },
     {
       "title": "物理系李永乐等人在国际著名期刊Nano Energy上发表研究论文",

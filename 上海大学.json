@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261021_164134",
+  "crawl_time": "20261022_053243",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,78 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "材料基因组工程研究院曹桂新教授团队在《Advanced Science》发表封面论文：在Co掺杂Mn₃Sn中实现宽温域室温巨大拓扑霍尔效应",
+      "url": "https://www.shu.edu.cn/info/1055/401985.htm",
+      "date": "2026-10-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院物理系尹鑫茂教授团队在《Applied Physics Reviews》上发表二维量子材料新成果",
+      "url": "https://www.shu.edu.cn/info/1055/401995.htm",
+      "date": "2026-10-22",
+      "column": "科研动态"
+    },
+    {
+      "title": "民进上海大学委员会开展音乐沙龙暨重阳节敬老活动",
+      "url": "https://www.shu.edu.cn/info/1056/401885.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "携手交流拓视野 互学互鉴促提升——河北师范大学外国语学院赴上海大学外国语学院调研交流",
+      "url": "https://www.shu.edu.cn/info/1056/401895.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学物理实验中心举办专题教学交流研讨会",
+      "url": "https://www.shu.edu.cn/info/1056/401905.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "2026年应用数学与科学计算国际研讨会在上海大学召开",
+      "url": "https://www.shu.edu.cn/info/1056/401915.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "凝心聚力促发展，砥砺奋进共成长——外国语学院召开全院教职工大会",
+      "url": "https://www.shu.edu.cn/info/1056/401925.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "中国银行嘉定支行到访悉尼工商学院开展交流座谈",
+      "url": "https://www.shu.edu.cn/info/1056/401935.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学2027届经管类毕业生就业与实习招聘会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/401945.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“东方法治论坛系列研讨会——普惠金融与乡村振兴的法治协同与保障”成功举办",
+      "url": "https://www.shu.edu.cn/info/1056/401955.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "“习近平经济思想概论”虚拟教研室2026年秋季学期第二次集体备课会在上海大学召开",
+      "url": "https://www.shu.edu.cn/info/1056/401965.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学召开四届党委第五轮巡察工作动员部署会",
+      "url": "https://www.shu.edu.cn/info/1056/401975.htm",
+      "date": "2026-10-22",
+      "column": "综合新闻"
+    },
     {
       "title": "材料学院贾林课题组在《Advanced Functional Materials》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/401825.htm",
@@ -30,70 +102,10 @@
       "column": "科研动态"
     },
     {
-      "title": "上海大学核电关键材料全国重点实验室\"新型多组元合金智能设计模型\"成果获评2026年度上海市\"AI+新材料\"优秀案例",
-      "url": "https://www.shu.edu.cn/info/1056/401835.htm",
-      "date": "2026-10-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "先进制造与自动化国际学术研讨会（IWAMA 2026）在上海大学成功举办",
-      "url": "https://www.shu.edu.cn/info/1056/401845.htm",
-      "date": "2026-10-21",
-      "column": "综合新闻"
-    },
-    {
-      "title": "力工学院退休教师戴世强教授获评上海市第三届 “老有所为 强国复兴有我” 优秀典型人物",
-      "url": "https://www.shu.edu.cn/info/1056/401695.htm",
-      "date": "2026-10-16",
-      "column": "综合新闻"
-    },
-    {
-      "title": "段勇副书记一行赴中国商飞调研交流访企拓岗",
-      "url": "https://www.shu.edu.cn/info/1056/401705.htm",
-      "date": "2026-10-16",
-      "column": "综合新闻"
-    },
-    {
-      "title": "忆党史，看今朝——九三上大委举办退休社员学习教育活动",
-      "url": "https://www.shu.edu.cn/info/1056/401715.htm",
-      "date": "2026-10-16",
-      "column": "综合新闻"
-    },
-    {
-      "title": "筑牢内控防线 规范国资管理——科产系统召开企业规范化管理工作会议",
-      "url": "https://www.shu.edu.cn/info/1056/401725.htm",
-      "date": "2026-10-16",
-      "column": "综合新闻"
-    },
-    {
       "title": "理学院物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
       "url": "https://www.shu.edu.cn/info/1055/401615.htm",
       "date": "2026-10-15",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学2025-2026学年辅导员 “大点兵”活动举行",
-      "url": "https://www.shu.edu.cn/info/1056/401595.htm",
-      "date": "2026-10-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "深圳职业技术大学副校长李小元一行来校调研财务管理工作",
-      "url": "https://www.shu.edu.cn/info/1056/401605.htm",
-      "date": "2026-10-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "南汇新城镇第五期社工“育苗计划”培训班顺利启动",
-      "url": "https://www.shu.edu.cn/info/1056/401625.htm",
-      "date": "2026-10-15",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第一届“中国玻璃”研究研讨会在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/401685.htm",
-      "date": "2026-10-15",
-      "column": "综合新闻"
     },
     {
       "title": "党课开讲啦！传承红色基因 走好新时代的长征路！",
@@ -132,12 +144,6 @@
       "column": "科研动态"
     },
     {
-      "title": "上海大学张统一院士等获云南省科学技术进步奖一等奖",
-      "url": "https://www.shu.edu.cn/info/1055/401175.htm",
-      "date": "2026-09-28",
-      "column": "科研动态"
-    },
-    {
       "title": "2026年人大换届选举上海大学选区召开工作推进会",
       "url": "https://www.shu.edu.cn/info/1053/401145.htm",
       "date": "2026-09-24",
@@ -148,12 +154,6 @@
       "url": "https://www.shu.edu.cn/info/1051/400885.htm",
       "date": "2026-09-20",
       "column": "通知公告"
-    },
-    {
-      "title": "材料基因组工程研究院杨炯教授、席丽丽副研究员团队在《npj Computational Materials》发表研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/400925.htm",
-      "date": "2026-09-20",
-      "column": "科研动态"
     },
     {
       "title": "上海大学召开树立和践行正确政绩观学习教育总结会",

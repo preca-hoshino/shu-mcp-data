@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261021_164134",
-  "total_articles": 810,
+  "crawl_time": "20261022_053243",
+  "total_articles": 811,
   "columns": {
     "学术活动": 201,
-    "学院新闻": 95,
+    "学院新闻": 96,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "哈萨克斯坦阿拉木图管理大学来访上海大学管理学院",
+      "url": "https://ms.shu.edu.cn/info/1244/92805.htm",
+      "date": "2026-10-22",
+      "column": "学院新闻"
+    },
     {
       "title": "1027上海管理论坛第582期（Christopher L. Tucci教授，牛津大学赛德商学...",
       "url": "https://ms.shu.edu.cn/info/1246/92795.htm",
