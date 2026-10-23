@@ -2,8 +2,8 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261022_164217",
-  "total_articles": 268,
+  "crawl_time": "20261023_053047",
+  "total_articles": 267,
   "columns": {
     "学术报告": 57,
     "学生信息": 41,
@@ -11,15 +11,9 @@
     "教师风采": 5,
     "科研动态": 59,
     "综合新闻": 45,
-    "通知公告": 38
+    "通知公告": 37
   },
   "articles": [
-    {
-      "title": "关于2026年度上海高校“人工智能”虚拟仿真实验教学...",
-      "url": "https://smes.shu.edu.cn/info/1015/10875.htm",
-      "date": "2026-10-20",
-      "column": "通知公告"
-    },
     {
       "title": "钱伟长力学SEMINAR 1012：Aerodynamic technologies ...",
       "url": "https://smes.shu.edu.cn/info/1014/10855.htm",

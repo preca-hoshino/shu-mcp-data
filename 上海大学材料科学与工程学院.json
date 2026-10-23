@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261022_164217",
+  "crawl_time": "20261023_053047",
   "total_articles": 1709,
   "columns": {
     "学术动态": 90,
@@ -14,6 +14,18 @@
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "上海市先进冶金技术重点实验室2026年学术委员会会议顺利召开",
+      "url": "https://mat.shu.edu.cn/info/1012/31518.htm",
+      "date": "2026-10-23",
+      "column": "学院新闻"
+    },
+    {
+      "title": "翟启杰教授接受《钢铁研究学报》专访",
+      "url": "https://mat.shu.edu.cn/info/1012/31528.htm",
+      "date": "2026-10-23",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学材料科学与工程学院和核电关键材料全国重点实验室青年学者论坛（上海材料前沿...",
       "url": "https://mat.shu.edu.cn/info/1012/31468.htm",
@@ -345,12 +357,6 @@
       "column": "通知公告(研究生)"
     },
     {
-      "title": "材料学院本科生在2026年中国大学生机械工程创新创意大赛​——第十一届失效分析赛全国总决赛...",
-      "url": "https://mat.shu.edu.cn/info/1012/30798.htm",
-      "date": "2026-07-28",
-      "column": "学院新闻"
-    },
-    {
       "title": "材料学院研究生党支部开展“凝心铸魂强党性 实干担当树政绩”主题党日",
       "url": "https://mat.shu.edu.cn/info/1014/30808.htm",
       "date": "2026-07-28",
@@ -373,12 +379,6 @@
       "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30768",
       "date": "2026-07-27",
       "column": "通知公告(教师)"
-    },
-    {
-      "title": "材料学院党委组织开展“重走一大路 传承红船魂”主题活动",
-      "url": "https://mat.shu.edu.cn/info/1012/30758.htm",
-      "date": "2026-07-24",
-      "column": "学院新闻"
     },
     {
       "title": "核电关键材料全国重点实验室卞西磊副研究员在《Materials Today》上发表最新研究成果",

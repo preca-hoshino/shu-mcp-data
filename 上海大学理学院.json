@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261022_164217",
-  "total_articles": 3981,
+  "crawl_time": "20261023_053047",
+  "total_articles": 3982,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,10 +12,16 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 314,
-    "综合新闻": 628,
+    "综合新闻": 629,
     "通知公告": 161
   },
   "articles": [
+    {
+      "title": "上海大学理学院化学学科举办2026年化学青年学术论坛",
+      "url": "https://scicol.shu.edu.cn/info/1007/34425.htm",
+      "date": "2026-10-23",
+      "column": "综合新闻"
+    },
     {
       "title": "数学学科Seminar第3087讲 关于弱奇异Volterra积分方程理论及数值方法的一些研究进展",
       "url": "https://scicol.shu.edu.cn/info/1003/34355.htm",

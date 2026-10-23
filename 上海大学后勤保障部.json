@@ -2,18 +2,30 @@
   "domain": "hbb.shu.edu.cn",
   "department": "上海大学后勤保障部",
   "type": "25",
-  "crawl_time": "20261022_164217",
-  "total_articles": 466,
+  "crawl_time": "20261023_053047",
+  "total_articles": 468,
   "columns": {
-    "后勤新闻": 327,
+    "后勤新闻": 329,
     "通知公告": 139
   },
   "articles": [
+    {
+      "title": "上海大学精彩亮相第十一届中国教育后勤展览会",
+      "url": "https://hbb.shu.edu.cn/info/1081/10966.htm",
+      "date": "2026-10-19",
+      "column": "后勤新闻"
+    },
     {
       "title": "延长校区交流展示中心电梯维保服务采购公告",
       "url": "https://hbb.shu.edu.cn/info/1005/10946.htm",
       "date": "2026-10-16",
       "column": "通知公告"
+    },
+    {
+      "title": "后勤保障部举办敬老月活动",
+      "url": "https://hbb.shu.edu.cn/info/1081/10956.htm",
+      "date": "2026-10-16",
+      "column": "后勤新闻"
     },
     {
       "title": "2026年上海大学宝山校区南区泵房多层楼宇智慧化改造项目",

@@ -2,14 +2,20 @@
   "domain": "cast.shu.edu.cn",
   "department": "上海大学先进凝固技术中心",
   "type": "08",
-  "crawl_time": "20261022_164217",
-  "total_articles": 377,
+  "crawl_time": "20261023_053047",
+  "total_articles": 378,
   "columns": {
     "学术动态": 36,
-    "新闻快递": 316,
+    "新闻快递": 317,
     "研究成果": 25
   },
   "articles": [
+    {
+      "title": "翟启杰教授接受《钢铁研究学报》专访",
+      "url": "https://cast.shu.edu.cn/info/1042/4291.htm",
+      "date": "2026-10-23",
+      "column": "新闻快递"
+    },
     {
       "title": "先进凝固技术中心教学项目荣获北京市教育教学成果一等奖",
       "url": "https://cast.shu.edu.cn/info/1042/4281.htm",

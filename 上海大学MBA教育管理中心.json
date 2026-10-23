@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261022_164217",
+  "crawl_time": "20261023_053047",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "关于研究生2026-2027学年校园地国家助学贷款申请工作的通知",
+      "url": "https://mba.shu.edu.cn/info/1024/27941.htm",
+      "date": "2026-10-23",
+      "column": "通知公告"
+    },
     {
       "title": "重要提醒|2027上海大学MBA网报最后3天，勿失报考机会！",
       "url": "https://mp.weixin.qq.com/s/xuXZh8k2EbGoAZ83c31nog",
@@ -141,12 +147,6 @@
       "url": "https://mp.weixin.qq.com/s/rT7LsPWpuhi1koNG_M91Ng",
       "date": "2026-09-29",
       "column": "论坛活动"
-    },
-    {
-      "title": "2027研考，报名和初试时间定了",
-      "url": "https://mp.weixin.qq.com/s/JAHRBFLsWsjRBc7Xd0CLbQ",
-      "date": "2026-09-24",
-      "column": "通知公告"
     },
     {
       "title": "海外学习|2027年度春季学期海外交换宣讲会顺利进行",

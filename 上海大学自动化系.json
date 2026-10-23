@@ -2,13 +2,19 @@
   "domain": "automation.shu.edu.cn",
   "department": "上海大学自动化系",
   "type": "06",
-  "crawl_time": "20261022_164217",
-  "total_articles": 80,
+  "crawl_time": "20261023_053047",
+  "total_articles": 81,
   "columns": {
-    "新闻": 72,
+    "新闻": 73,
     "讲座/会议": 8
   },
   "articles": [
+    {
+      "title": "机自学院彭晨教授牵头的成果荣获2026年度中国仿真学会高等教育教学成果特等奖",
+      "url": "https://automation.shu.edu.cn/info/1128/4253.htm",
+      "date": "2026-10-22",
+      "column": "新闻"
+    },
     {
       "title": "关于“精控能源奖教金”评选通知",
       "url": "https://automation.shu.edu.cn/info/1128/4223.htm",

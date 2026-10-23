@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261022_164217",
+  "crawl_time": "20261023_053047",
   "total_articles": 1007,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 121
   },
   "articles": [
+    {
+      "title": "情暖重阳忆初心，薪火相传话发展——环化学院组织重阳节敬老活动",
+      "url": "https://ece.shu.edu.cn/info/1149/90314.htm",
+      "date": "2026-10-23",
+      "column": "学院新闻"
+    },
     {
       "title": "赵微团队在《Journal of the American Chemical Society》上发表最新研究成果",
       "url": "https://ece.shu.edu.cn/info/1148/90304.htm",
@@ -220,12 +226,6 @@
     {
       "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
       "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
-      "date": "2026-08-18",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】关于宿舍，2026级新生关心的问题，答案在这里！",
-      "url": "https://mp.weixin.qq.com/s/RwJJnz9w9135hnM49M33WA",
       "date": "2026-08-18",
       "column": "学院新闻"
     },

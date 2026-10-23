@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261022_164217",
+  "crawl_time": "20261023_053047",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,12 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "2026 年极端材料研究与工程应用论坛暨核电关键材料全国重点实验室年度学术会议在上海圆满落幕",
+      "url": "https://mp.weixin.qq.com/s/mZNGsjOsB6UNXVeXnEvmQA",
+      "date": "2026-10-22",
+      "column": "科技动态"
+    },
     {
       "title": "国家能源局关于发布智能电网国家科技重大专项专题攻关公开项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=12892",
@@ -255,12 +261,6 @@
       "title": "近50位院士参会！2026 科学智能大会，百人图、全日程抢先看！",
       "url": "https://mp.weixin.qq.com/s/VfYkX1-BcdWFTTIKVSSSVA",
       "date": "2026-08-11",
-      "column": "科技动态"
-    },
-    {
-      "title": "新闻联播丨奋力实现“十五五”良好开局 抢占制高点 上海培育未来产业新模式",
-      "url": "https://mp.weixin.qq.com/s/XGnTvmzM35IGVSEyXddLhw",
-      "date": "2026-08-08",
       "column": "科技动态"
     },
     {

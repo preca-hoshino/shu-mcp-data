@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261022_164217",
-  "total_articles": 446,
+  "crawl_time": "20261023_053047",
+  "total_articles": 447,
   "columns": {
     "学术报告": 143,
-    "科研动态": 78,
+    "科研动态": 79,
     "综合新闻": 63,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "我院曹桂新教授团队在《Advanced Science》发表封面论文：在Co掺杂Mn₃Sn中实现宽温域室温巨大拓扑霍尔效应",
+      "url": "https://mgi.shu.edu.cn/info/1063/7745.htm",
+      "date": "2026-10-23",
+      "column": "科研动态"
+    },
     {
       "title": "MGI Seminar 第424讲：Dr. Yulia Mourzina （2026年10月25日 星期日 10:00）",
       "url": "https://mgi.shu.edu.cn/info/1065/7735.htm",
