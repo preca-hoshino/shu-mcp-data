@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261023_130253",
+  "crawl_time": "20261023_163248",
   "total_articles": 1609,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,12 @@
     "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "数学学科第3092讲 McKean-Vlasov 随机微分方程的Log-Sobolev 不等式和指数遍历性",
+      "url": "https://math.shu.edu.cn/info/1042/27321.htm",
+      "date": "2026-10-23",
+      "column": "学术报告"
+    },
     {
       "title": "数学系第3091讲 关于拉马努金–博尔温三次恒等式",
       "url": "https://math.shu.edu.cn/info/1042/27311.htm",
@@ -122,12 +128,6 @@
       "title": "Seminar第3072讲 满足原始能量耗散Patlak-Keller-Segel系统的二阶数值格式",
       "url": "https://math.shu.edu.cn/info/1042/27111.htm",
       "date": "2026-06-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "核心数学研究所——几何与分析综合报告第124讲 非交换粗糙算子的弱 (1,1) 估计",
-      "url": "https://math.shu.edu.cn/info/1042/27071.htm",
-      "date": "2026-06-23",
       "column": "学术报告"
     },
     {
