@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20261023_053047",
-  "total_articles": 350,
+  "crawl_time": "20261023_090804",
+  "total_articles": 351,
   "columns": {
     "文科动态": 97,
     "最新立项": 60,
-    "通知公告": 193
+    "通知公告": 194
   },
   "articles": [
+    {
+      "title": "关于2026年度教育部哲学社会科学研究重大课题攻关项目和高校思想政治理论课教师研究专项重大课题攻关项目招标工作的通知",
+      "url": "https://rwskc.shu.edu.cn/info/1069/6617.htm",
+      "date": "2026-10-23",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
       "url": "https://rwskc.shu.edu.cn/info/1070/6557.htm",

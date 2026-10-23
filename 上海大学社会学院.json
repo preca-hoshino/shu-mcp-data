@@ -2,13 +2,13 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261023_053047",
-  "total_articles": 2616,
+  "crawl_time": "20261023_090804",
+  "total_articles": 2617,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 67,
     "学术动态": 572,
-    "学术报告": 162,
+    "学术报告": 163,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
@@ -16,6 +16,12 @@
     "通知公告": 55
   },
   "articles": [
+    {
+      "title": "2026“美美与共”社会政策与社会工作讲坛|社会工作伦理专题探讨：双重关系及其限制",
+      "url": "https://sociology.shu.edu.cn/info/1105/44218.htm",
+      "date": "2026-10-23",
+      "column": "学术报告"
+    },
     {
       "title": "2026公共性论坛13|社会因素如何塑造老年认知健康",
       "url": "https://sociology.shu.edu.cn/info/1105/44168.htm",

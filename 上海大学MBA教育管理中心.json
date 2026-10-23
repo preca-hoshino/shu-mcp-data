@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261023_053047",
+  "crawl_time": "20261023_090804",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -13,6 +13,12 @@
     {
       "title": "关于研究生2026-2027学年校园地国家助学贷款申请工作的通知",
       "url": "https://mba.shu.edu.cn/info/1024/27941.htm",
+      "date": "2026-10-23",
+      "column": "通知公告"
+    },
+    {
+      "title": "数据驱动，智驭商业｜上大MBA2027六大专业方向之智能商务",
+      "url": "https://mp.weixin.qq.com/s/EqD5ZKjI3HZwd-cWRb8QmA",
       "date": "2026-10-23",
       "column": "通知公告"
     },
@@ -122,12 +128,6 @@
       "title": "锁定第一志愿！上海大学MBA十月招生活动来袭",
       "url": "https://mp.weixin.qq.com/s/P-S0P3zg0oSTHh9PSsWAJw",
       "date": "2026-10-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026级GC&GI新生方向选择最终安排的通知",
-      "url": "https://mba.shu.edu.cn/info/1024/27641.htm",
-      "date": "2026-10-01",
       "column": "通知公告"
     },
     {
