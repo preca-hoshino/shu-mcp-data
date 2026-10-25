@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261024_152707",
-  "total_articles": 3982,
+  "crawl_time": "20261025_052601",
+  "total_articles": 3981,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -13,7 +13,7 @@
     "研究生新闻": 50,
     "科研动态": 314,
     "综合新闻": 629,
-    "通知公告": 161
+    "通知公告": 160
   },
   "articles": [
     {
@@ -51,12 +51,6 @@
       "url": "https://scicol.shu.edu.cn/info/1003/34415.htm",
       "date": "2026-10-22",
       "column": "学术报告"
-    },
-    {
-      "title": "上海大学理学院团队合作培育项目遴选公示",
-      "url": "https://scicol.shu.edu.cn/info/1006/34345.htm",
-      "date": "2026-10-22",
-      "column": "通知公告"
     },
     {
       "title": "理学院物理系尹鑫茂教授团队在《Applied Physics Reviews》上发表二维量子材料新成果",
