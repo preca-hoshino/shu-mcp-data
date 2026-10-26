@@ -2,12 +2,12 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261026_144912",
-  "total_articles": 1799,
+  "crawl_time": "20261026_181821",
+  "total_articles": 1798,
   "columns": {
     "学院新闻": 549,
     "招生热讯": 81,
-    "通知公告": 1169
+    "通知公告": 1168
   },
   "articles": [
     {
@@ -15,12 +15,6 @@
       "url": "https://cce.shu.edu.cn/info/1013/21184.htm",
       "date": "2026-10-22",
       "column": "招生热讯"
-    },
-    {
-      "title": "上海大学2026年成人高考报名申请照顾加分名单公示",
-      "url": "https://cce.shu.edu.cn/info/1464/21204.htm",
-      "date": "2026-10-22",
-      "column": "通知公告"
     },
     {
       "title": "2026上海大学继续教育学院成人英语提高班第二期",
