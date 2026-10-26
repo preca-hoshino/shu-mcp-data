@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261026_053031",
+  "crawl_time": "20261026_094705",
   "total_articles": 3981,
   "columns": {
     "主办会议": 42,
@@ -43,6 +43,30 @@
     {
       "title": "数学学科Seminar第3095讲 金融市场中识别多个变点的半参数方法",
       "url": "https://scicol.shu.edu.cn/info/1003/34475.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3096讲 不确定性下风险规避最优控制模型及其逐步对冲算法",
+      "url": "https://scicol.shu.edu.cn/info/1003/34485.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3098讲 与Dunkl算子相关的Dirichlet空间的边界行为",
+      "url": "https://scicol.shu.edu.cn/info/1003/34495.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3099讲 雅可比theta级数的正性及其尾项",
+      "url": "https://scicol.shu.edu.cn/info/1003/34505.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar——核心数学研究所——几何与分析综合报告第125讲 多面凸函数与不变赋值",
+      "url": "https://scicol.shu.edu.cn/info/1003/34515.htm",
       "date": "2026-10-26",
       "column": "学术报告"
     },
@@ -491,24 +515,6 @@
       "column": "学术报告"
     },
     {
-      "title": "数学学科Seminar第3064讲 扭Yangian的Drinfeld表示及其余理想结构",
-      "url": "https://scicol.shu.edu.cn/info/1003/33235.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3065讲 扭Yangian与仿射格拉斯曼流形的 i - 切片",
-      "url": "https://scicol.shu.edu.cn/info/1003/33245.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第2066讲 正交三幂等矩阵",
-      "url": "https://scicol.shu.edu.cn/info/1003/33255.htm",
-      "date": "2026-06-15",
-      "column": "学术报告"
-    },
-    {
       "title": "数聚芳华，情归母校--理学院数学系2026年校友返校日活动举行",
       "url": "https://scicol.shu.edu.cn/info/1007/33215.htm",
       "date": "2026-06-15",
@@ -519,12 +525,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33225.htm",
       "date": "2026-06-15",
       "column": "综合新闻"
-    },
-    {
-      "title": "量子科技研究院Seminar第110讲暨物理学科Seminar第819讲 对称性在拓扑物理和磁性材料体系的应...",
-      "url": "https://scicol.shu.edu.cn/info/1003/33205.htm",
-      "date": "2026-06-12",
-      "column": "学术报告"
     },
     {
       "title": "上海大学理学院数学学科发展研讨会顺利举行",

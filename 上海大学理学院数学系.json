@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261026_053031",
+  "crawl_time": "20261026_094705",
   "total_articles": 1609,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,48 @@
     "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "数学学科第3094讲 Takagi函数的水平集问题",
+      "url": "https://math.shu.edu.cn/info/1042/27331.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科第3095讲 金融市场中识别多个变点的半参数方法",
+      "url": "https://math.shu.edu.cn/info/1042/27341.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科第3096讲 不确定性下风险规避最优控制模型及其逐步对冲算法",
+      "url": "https://math.shu.edu.cn/info/1042/27351.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3097讲 与Dunkl算子相关的Dirichlet空间的边界行为",
+      "url": "https://math.shu.edu.cn/info/1042/27361.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科第3099讲 雅可比theta级数的正性及其尾项",
+      "url": "https://math.shu.edu.cn/info/1042/27371.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar——核心数学研究所——几何与分析综合报告第125讲 多面凸函数与不变赋值",
+      "url": "https://math.shu.edu.cn/info/1042/27381.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科第3100讲 强迫相似-横截性质（STP）的符号模式与零-非零模式",
+      "url": "https://math.shu.edu.cn/info/1042/27391.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科第3092讲 McKean-Vlasov 随机微分方程的Log-Sobolev 不等式和指数遍历性",
       "url": "https://math.shu.edu.cn/info/1042/27321.htm",
@@ -86,48 +128,6 @@
       "title": "Seminar第3081讲 松弛贪婪随机Kaczmarz算法的精细误差界",
       "url": "https://math.shu.edu.cn/info/1042/27221.htm",
       "date": "2026-10-13",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3076讲 代数几何解背景下散焦Schrodinger方程的潘勒韦34的渐近性",
-      "url": "https://math.shu.edu.cn/info/1042/27171.htm",
-      "date": "2026-10-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3077讲 基于模型驱动的神经网络应用",
-      "url": "https://math.shu.edu.cn/info/1042/27181.htm",
-      "date": "2026-10-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3078讲 如何上好一堂课",
-      "url": "https://math.shu.edu.cn/info/1042/27191.htm",
-      "date": "2026-10-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3075讲 三角翼与Λ形乘波体的超音速绕流",
-      "url": "https://math.shu.edu.cn/info/1042/27161.htm",
-      "date": "2026-09-22",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar 第3073讲 球面平均及其极大形式",
-      "url": "https://math.shu.edu.cn/info/1042/27141.htm",
-      "date": "2026-09-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3074讲 信号依赖的趋化模型的平均场极限推导",
-      "url": "https://math.shu.edu.cn/info/1042/27151.htm",
-      "date": "2026-09-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3072讲 满足原始能量耗散Patlak-Keller-Segel系统的二阶数值格式",
-      "url": "https://math.shu.edu.cn/info/1042/27111.htm",
-      "date": "2026-06-29",
       "column": "学术报告"
     },
     {

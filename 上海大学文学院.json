@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20261026_053031",
-  "total_articles": 2002,
+  "crawl_time": "20261026_094705",
+  "total_articles": 2003,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
     "学院周志": 316,
     "科研动态": 481,
     "综合新闻": 525,
-    "通知公告": 430
+    "通知公告": 431
   },
   "articles": [
+    {
+      "title": "上海大学文学院研究生学业奖学金公共服务分计分细则（2026年10月修订版）",
+      "url": "https://cla.shu.edu.cn/info/1017/54118.htm",
+      "date": "2026-10-26",
+      "column": "通知公告"
+    },
     {
       "title": "文学院周志总第711期（2026年第27期，10月12日-10月18日）",
       "url": "https://cla.shu.edu.cn/zhouzhi711.pdf",

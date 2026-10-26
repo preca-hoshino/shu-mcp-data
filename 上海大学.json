@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261026_053031",
+  "crawl_time": "20261026_094705",
   "total_articles": 18412,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,18 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学召开2026年第三次党群工作例会暨第二次院长工作会议",
+      "url": "https://www.shu.edu.cn/info/1053/402175.htm",
+      "date": "2026-10-26",
+      "column": "重要新闻"
+    },
+    {
+      "title": "《应用数学与计算数学学报（英文）》国际编委会在上海大学成功召开",
+      "url": "https://www.shu.edu.cn/info/1056/402185.htm",
+      "date": "2026-10-26",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学召开学校发展工作座谈会",
       "url": "https://www.shu.edu.cn/info/1053/402005.htm",
@@ -60,6 +72,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "第十五届上海期刊论坛在上海大学举行",
+      "url": "https://mp.weixin.qq.com/s/7BT31MGv7_Zcy9m7OH-jKA",
+      "date": "2026-10-22",
+      "column": "重要新闻"
+    },
+    {
       "title": "材料基因组工程研究院曹桂新教授团队在《Advanced Science》发表封面论文：在Co掺杂Mn₃Sn中实现宽温域室温巨大拓扑霍尔效应",
       "url": "https://www.shu.edu.cn/info/1055/401985.htm",
       "date": "2026-10-22",
@@ -70,12 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401995.htm",
       "date": "2026-10-22",
       "column": "科研动态"
-    },
-    {
-      "title": "中国银行嘉定支行到访悉尼工商学院开展交流座谈",
-      "url": "https://www.shu.edu.cn/info/1056/401935.htm",
-      "date": "2026-10-22",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学2027届经管类毕业生就业与实习招聘会顺利举行",
@@ -180,12 +192,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "上海大学举行2026年秋季中层干部专题研修班",
-      "url": "https://mp.weixin.qq.com/s/2qokro_NXKHxFQORSXUXVg",
-      "date": "2026-09-10",
-      "column": "重要新闻"
-    },
-    {
       "title": "上海大学举行庆祝第42个教师节暨优秀教师表彰大会",
       "url": "https://mp.weixin.qq.com/s/MiMH1s8nvqPtL20YhZufWg",
       "date": "2026-09-10",
@@ -196,12 +202,6 @@
       "url": "https://www.shu.edu.cn/info/1051/400395.htm",
       "date": "2026-09-08",
       "column": "通知公告"
-    },
-    {
-      "title": "聚焦“一国一区域一领域”，助力中资企业“出海”：上海大学区域国别研究院揭牌成立",
-      "url": "https://mp.weixin.qq.com/s/CzmLhS0ousf9vnsxmJ6oYg",
-      "date": "2026-09-03",
-      "column": "重要新闻"
     },
     {
       "title": "关于调整校园管理的通告",

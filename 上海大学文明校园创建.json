@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20261026_053031",
+  "crawl_time": "20261026_094705",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,36 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "上海大学召开2026年第三次党群工作例会暨第二次院长工作会议",
+      "url": "https://www.shu.edu.cn/info/1053/402175.htm",
+      "date": "2026-10-26",
+      "column": "校园动态"
+    },
+    {
+      "title": "中欧二维材料与量子科技国际学术研讨会在沪举行",
+      "url": "https://www.shu.edu.cn/info/1056/402075.htm",
+      "date": "2026-10-26",
+      "column": "文明实践"
+    },
+    {
+      "title": "骑寻红色上大 砥砺育人初心​——校工会开展“寻访老上大旧址...",
+      "url": "https://www.shu.edu.cn/info/1056/402105.htm",
+      "date": "2026-10-26",
+      "column": "文明实践"
+    },
+    {
+      "title": "桑榆映书香 归来叙芳华——2026年图书馆敬老节“回娘家”活动...",
+      "url": "https://www.shu.edu.cn/info/1056/402135.htm",
+      "date": "2026-10-26",
+      "column": "文明实践"
+    },
+    {
+      "title": "《应用数学与计算数学学报（英文）》国际编委会在上海大学成...",
+      "url": "https://www.shu.edu.cn/info/1056/402185.htm",
+      "date": "2026-10-26",
+      "column": "文明实践"
+    },
     {
       "title": "民进上海大学委员会开展音乐沙龙暨重阳节敬老活动",
       "url": "https://www.shu.edu.cn/info/1056/401885.htm",
@@ -92,30 +122,6 @@
       "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
       "url": "https://www.shu.edu.cn/info/1056/401535.htm",
       "date": "2026-10-12",
-      "column": "文明实践"
-    },
-    {
-      "title": "于雪梅副校长应邀出席2026亚洲大学数字化大会并作交流发言",
-      "url": "https://www.shu.edu.cn/info/1056/401195.htm",
-      "date": "2026-10-08",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学召开2026年“敬老月”活动协调会",
-      "url": "https://www.shu.edu.cn/info/1056/401245.htm",
-      "date": "2026-10-08",
-      "column": "文明实践"
-    },
-    {
-      "title": "中国民主同盟上海大学第八次代表大会召开",
-      "url": "https://www.shu.edu.cn/info/1056/401255.htm",
-      "date": "2026-10-08",
-      "column": "文明实践"
-    },
-    {
-      "title": "富春江畔学界业界共聚 研学旅游探索高质量发展新程",
-      "url": "https://www.shu.edu.cn/info/1056/401345.htm",
-      "date": "2026-10-08",
       "column": "文明实践"
     },
     {
@@ -230,12 +236,6 @@
       "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
       "url": "https://www.shu.edu.cn/info/1053/398575.htm",
       "date": "2026-07-06",
-      "column": "校园动态"
-    },
-    {
-      "title": "奔赴山海！今天我们在上海大学毕业啦！",
-      "url": "https://mp.weixin.qq.com/s/i-iJ860tfmx3YwxAvmWMXw",
-      "date": "2026-07-02",
       "column": "校园动态"
     },
     {
