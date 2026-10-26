@@ -2,7 +2,7 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261025_153744",
+  "crawl_time": "20261026_053031",
   "total_articles": 584,
   "columns": {
     "学术活动预告": 402,
@@ -11,6 +11,18 @@
     "通知公告": 91
   },
   "articles": [
+    {
+      "title": "共青团上海大学外国语学院第十六次代表大会暨第二十一次学生代表大会顺利召开",
+      "url": "https://sfs.shu.edu.cn/info/1142/31607.htm",
+      "date": "2026-10-26",
+      "column": "学院新闻"
+    },
+    {
+      "title": "溯源上大校史，传承红色基因——外国语学院2026级研究生校史馆研学活动顺利举办",
+      "url": "https://sfs.shu.edu.cn/info/1142/31627.htm",
+      "date": "2026-10-26",
+      "column": "学院新闻"
+    },
     {
       "title": "同铸党建品牌，共聚发展合力——外国语学院召开党支部书记工作例会",
       "url": "https://sfs.shu.edu.cn/info/1142/31597.htm",
@@ -178,18 +190,6 @@
       "url": "https://sfs.shu.edu.cn/info/1141/30867.htm",
       "date": "2026-06-26",
       "column": "通知公告"
-    },
-    {
-      "title": "融通中外担使命，译启风华赴前程——上海大学外国语学院2026年毕业典礼暨学位授予仪式顺利举行",
-      "url": "https://sfs.shu.edu.cn/info/1142/30877.htm",
-      "date": "2026-06-26",
-      "column": "学院新闻"
-    },
-    {
-      "title": "筑牢安全防线 共绘发展新篇——外国语学院召开全院教职工大会",
-      "url": "https://sfs.shu.edu.cn/info/1142/30887.htm",
-      "date": "2026-06-26",
-      "column": "学院新闻"
     },
     {
       "title": "“话语·文化·社会”湖畔沙龙第42期暨AI赋能外语学科科研创新",

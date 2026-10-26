@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261025_153744",
+  "crawl_time": "20261026_053031",
   "total_articles": 1709,
   "columns": {
     "学术动态": 90,
@@ -14,6 +14,12 @@
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "材料学院举办教师教学发展主题讲座——材料学科基础课的变化趋势",
+      "url": "https://mat.shu.edu.cn/info/1012/31548.htm",
+      "date": "2026-10-26",
+      "column": "学院新闻"
+    },
     {
       "title": "上海市先进冶金技术重点实验室2026年学术委员会会议顺利召开",
       "url": "https://mat.shu.edu.cn/info/1012/31518.htm",
@@ -342,12 +348,6 @@
       "title": "材料学院本科生在第十五届全国大学生金相技能大赛暨第四届全国大学生金相大会中收获佳绩",
       "url": "https://mat.shu.edu.cn/info/1012/30838.htm",
       "date": "2026-08-03",
-      "column": "学院新闻"
-    },
-    {
-      "title": "行业著名《连铸》重磅推出PMO技术专栏",
-      "url": "https://mat.shu.edu.cn/info/1012/30828.htm",
-      "date": "2026-08-02",
       "column": "学院新闻"
     },
     {

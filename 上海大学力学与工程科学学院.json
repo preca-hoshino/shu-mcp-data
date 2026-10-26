@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261025_153744",
-  "total_articles": 267,
+  "crawl_time": "20261026_053031",
+  "total_articles": 269,
   "columns": {
-    "学术报告": 57,
+    "学术报告": 59,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
@@ -14,6 +14,18 @@
     "通知公告": 37
   },
   "articles": [
+    {
+      "title": "石砌体结构抗震加固技术研究与工程实践",
+      "url": "https://smes.shu.edu.cn/info/1014/10885.htm",
+      "date": "2026-10-25",
+      "column": "学术报告"
+    },
+    {
+      "title": "土木工程的数智化转型与复合型人才培养",
+      "url": "https://smes.shu.edu.cn/info/1014/10895.htm",
+      "date": "2026-10-22",
+      "column": "学术报告"
+    },
     {
       "title": "钱伟长力学SEMINAR 1012：Aerodynamic technologies ...",
       "url": "https://smes.shu.edu.cn/info/1014/10855.htm",

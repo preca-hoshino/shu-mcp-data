@@ -2,8 +2,8 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20261025_153744",
-  "total_articles": 730,
+  "crawl_time": "20261026_053031",
+  "total_articles": 731,
   "columns": {
     "党建工作": 47,
     "学术讲座": 57,
@@ -12,9 +12,15 @@
     "展览展示": 24,
     "教学": 167,
     "科研": 35,
-    "通知公告": 16
+    "通知公告": 17
   },
   "articles": [
+    {
+      "title": "上海美术学院2026年国家留学基金委艺术类人才培养特别项目拟派出名单公示（第二批次）",
+      "url": "https://safa.shu.edu.cn/info/1122/20140.htm",
+      "date": "2026-10-26",
+      "column": "通知公告"
+    },
     {
       "title": "上海美术学院与法国南特大西洋设计学院举行硕士项目合作协议签约仪式",
       "url": "https://safa.shu.edu.cn/info/1084/20130.htm",

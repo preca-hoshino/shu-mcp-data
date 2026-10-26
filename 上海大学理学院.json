@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261025_153744",
+  "crawl_time": "20261026_053031",
   "total_articles": 3981,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,36 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3092讲 McKean-Vlasov 随机微分方程的Log-Sobolev 不等式和指数遍历性",
+      "url": "https://scicol.shu.edu.cn/info/1003/34435.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第837讲 基于波混频技术的超高灵敏原子磁强计",
+      "url": "https://scicol.shu.edu.cn/info/1003/34445.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第838讲 物理信息量子算法：反绝热模拟与主动学习",
+      "url": "https://scicol.shu.edu.cn/info/1003/34455.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3094讲 Takagi函数的水平集问题",
+      "url": "https://scicol.shu.edu.cn/info/1003/34465.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3095讲 金融市场中识别多个变点的半参数方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/34475.htm",
+      "date": "2026-10-26",
+      "column": "学术报告"
+    },
     {
       "title": "上海大学理学院化学学科举办2026年化学青年学术论坛",
       "url": "https://scicol.shu.edu.cn/info/1007/34425.htm",
@@ -491,33 +521,9 @@
       "column": "综合新闻"
     },
     {
-      "title": "量子科技研究院Seminar第111讲暨物理学科Seminar第820讲 动量空间晶体群保护的拓扑物态",
-      "url": "https://scicol.shu.edu.cn/info/1003/33195.htm",
-      "date": "2026-06-12",
-      "column": "学术报告"
-    },
-    {
       "title": "量子科技研究院Seminar第110讲暨物理学科Seminar第819讲 对称性在拓扑物理和磁性材料体系的应...",
       "url": "https://scicol.shu.edu.cn/info/1003/33205.htm",
       "date": "2026-06-12",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3061讲 具有非可积核的连续的Kuramoto模型的松弛动力学（一）",
-      "url": "https://scicol.shu.edu.cn/info/1003/33165.htm",
-      "date": "2026-06-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3062讲 具有非可积核的连续的Kuramoto模型的松弛动力学（二）",
-      "url": "https://scicol.shu.edu.cn/info/1003/33175.htm",
-      "date": "2026-06-10",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3063讲 具有非可积核的连续的Kuramoto模型的松弛动力学（三）",
-      "url": "https://scicol.shu.edu.cn/info/1003/33185.htm",
-      "date": "2026-06-10",
       "column": "学术报告"
     },
     {
@@ -531,12 +537,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33155.htm",
       "date": "2026-06-09",
       "column": "综合新闻"
-    },
-    {
-      "title": "数学学科Seminar第3059讲 关于k-数值范围的多重性",
-      "url": "https://scicol.shu.edu.cn/info/1003/33115.htm",
-      "date": "2026-06-08",
-      "column": "学术报告"
     },
     {
       "title": "理学院化学学科开展观影主题党日活动",

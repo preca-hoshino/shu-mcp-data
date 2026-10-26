@@ -2,14 +2,26 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261025_153744",
-  "total_articles": 811,
+  "crawl_time": "20261026_053031",
+  "total_articles": 813,
   "columns": {
-    "学术活动": 201,
+    "学术活动": 203,
     "学院新闻": 96,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "1102上海管理论坛第583期（王丹青教授，香港科技大学商学院）",
+      "url": "https://ms.shu.edu.cn/info/1246/92815.htm",
+      "date": "2026-10-26",
+      "column": "学术活动"
+    },
+    {
+      "title": "1103上海管理论坛第584期（王钟彬教授，天津大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92825.htm",
+      "date": "2026-10-26",
+      "column": "学术活动"
+    },
     {
       "title": "哈萨克斯坦阿拉木图管理大学来访上海大学管理学院",
       "url": "https://ms.shu.edu.cn/info/1244/92805.htm",
