@@ -2,14 +2,20 @@
   "domain": "igs.shu.edu.cn",
   "department": "上海大学全球问题研究院",
   "type": "27",
-  "crawl_time": "20261026_094705",
-  "total_articles": 400,
+  "crawl_time": "20261026_144912",
+  "total_articles": 402,
   "columns": {
     "学术热点": 311,
-    "新闻中心": 66,
+    "新闻中心": 68,
     "通知公告": 23
   },
   "articles": [
+    {
+      "title": "【期刊建设】《“一带一路”区域国别研究（中英文）》正式揭牌",
+      "url": "https://mp.weixin.qq.com/s/7BT31MGv7_Zcy9m7OH-jKA",
+      "date": "2026-10-26",
+      "column": "新闻中心"
+    },
     {
       "title": "【学术会议】“新地缘政治时代拉美和加勒比的发展前景”研讨会顺利举办",
       "url": "https://igs.shu.edu.cn/info/1012/7110.htm",
@@ -2337,6 +2343,12 @@
       "url": "https://igs.shu.edu.cn/info/1011/1157.htm",
       "date": "2018-04-10",
       "column": "通知公告"
+    },
+    {
+      "title": "台湾淡江大学拉美研究所荣誉教授熊建成受邀开展学术讲座",
+      "url": "https://igs.shu.edu.cn/info/1012/1039.htm",
+      "date": "2017-12-28",
+      "column": "新闻中心"
     },
     {
       "title": "中东局势与“一带一路”学术论坛在上海大学成功举行",

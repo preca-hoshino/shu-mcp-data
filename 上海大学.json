@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261026_094705",
-  "total_articles": 18412,
+  "crawl_time": "20261026_144912",
+  "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 453,
+    "通知公告": 454,
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "关于发布区人大代表换届选举选民名单（一号公告）的通知",
+      "url": "https://www.shu.edu.cn/info/1051/402205.htm",
+      "date": "2026-10-26",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学召开2026年第三次党群工作例会暨第二次院长工作会议",
       "url": "https://www.shu.edu.cn/info/1053/402175.htm",
