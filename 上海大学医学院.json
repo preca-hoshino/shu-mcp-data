@@ -2,15 +2,15 @@
   "domain": "medicine.shu.edu.cn",
   "department": "上海大学医学院",
   "type": "18",
-  "crawl_time": "20261027_093833",
-  "total_articles": 352,
+  "crawl_time": "20261027_135455",
+  "total_articles": 351,
   "columns": {
     "学术讲座": 32,
     "学生事务": 46,
     "教师事务": 33,
     "科研动态": 102,
     "综合新闻": 79,
-    "通知公告": 60
+    "通知公告": 59
   },
   "articles": [
     {
@@ -23,12 +23,6 @@
       "title": "接收预备党员公示",
       "url": "https://medicine.shu.edu.cn/info/1054/18277.htm",
       "date": "2026-10-21",
-      "column": "通知公告"
-    },
-    {
-      "title": "接收预备党员公示",
-      "url": "https://medicine.shu.edu.cn/info/1054/18257.htm",
-      "date": "2026-10-20",
       "column": "通知公告"
     },
     {
