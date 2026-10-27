@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261026_181821",
+  "crawl_time": "20261027_054549",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -12,7 +12,13 @@
   },
   "articles": [
     {
-      "title": "2026 年极端材料研究与工程应用论坛暨核电关键材料全国重点实验室年度学术会议在上海圆满落幕",
+      "title": "上海市先进冶金技术重点实验室2026年学术委员会会议顺利召开",
+      "url": "https://mp.weixin.qq.com/s/1tRjfoX2_ECb4BiPA7K08g?scene=1&click_id=1607523851",
+      "date": "2026-10-26",
+      "column": "科技动态"
+    },
+    {
+      "title": "2026年极端材料研究与工程应用论坛暨核电关键材料全国重点实验室年度学术会议在上海圆满落幕",
       "url": "https://mp.weixin.qq.com/s/mZNGsjOsB6UNXVeXnEvmQA",
       "date": "2026-10-22",
       "column": "科技动态"
@@ -255,12 +261,6 @@
       "title": "央视《焦点访谈》关注上海（长三角）国际科技创新中心建设",
       "url": "https://mp.weixin.qq.com/s/C9fZHvLN13TOb9jWzwLpBQ?click_id=2049972120",
       "date": "2026-08-12",
-      "column": "科技动态"
-    },
-    {
-      "title": "近50位院士参会！2026 科学智能大会，百人图、全日程抢先看！",
-      "url": "https://mp.weixin.qq.com/s/VfYkX1-BcdWFTTIKVSSSVA",
-      "date": "2026-08-11",
       "column": "科技动态"
     },
     {

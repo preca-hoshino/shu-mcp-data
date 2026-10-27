@@ -2,13 +2,19 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20261026_181821",
-  "total_articles": 55,
+  "crawl_time": "20261027_054549",
+  "total_articles": 56,
   "columns": {
-    "新闻快递": 46,
+    "新闻快递": 47,
     "通知公告": 9
   },
   "articles": [
+    {
+      "title": "人才培养 | 2025级博物馆专业硕士“博物馆工作实务”正式启动",
+      "url": "https://museum.shu.edu.cn/info/1030/5556.htm",
+      "date": "2026-09-18",
+      "column": "新闻快递"
+    },
     {
       "title": "中国博物馆协会博物馆管理专业委员会2026年年会在西藏拉萨召开",
       "url": "https://museum.shu.edu.cn/info/1030/5486.htm",

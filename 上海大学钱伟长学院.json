@@ -2,14 +2,26 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20261026_181821",
-  "total_articles": 709,
+  "crawl_time": "20261027_054549",
+  "total_articles": 711,
   "columns": {
     "学术报告": 219,
-    "最新动态": 377,
+    "最新动态": 379,
     "通知公告": 113
   },
   "articles": [
+    {
+      "title": "​上海大学基于先进工艺的高端芯片设计与EDA育人专项及钱伟长学院微电子科学与工程...",
+      "url": "https://qwc.shu.edu.cn/info/1087/8629.htm",
+      "date": "2026-10-27",
+      "column": "最新动态"
+    },
+    {
+      "title": "钱伟长学院“伟长学者走进伟长书院”主题活动顺利举办",
+      "url": "https://qwc.shu.edu.cn/info/1087/8619.htm",
+      "date": "2026-10-26",
+      "column": "最新动态"
+    },
     {
       "title": "关于举办2026年上海大学钱伟长学院本科生科研创新论坛的通知",
       "url": "https://mp.weixin.qq.com/s/syW6hC4X9DTH0sEhtX9MiQ",

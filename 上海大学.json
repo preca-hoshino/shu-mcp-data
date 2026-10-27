@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261026_181821",
+  "crawl_time": "20261027_054549",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,24 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "学校召开2026年第二次党委双月座谈会",
+      "url": "https://www.shu.edu.cn/info/1056/402215.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "医教同心护健康，双山健步向未来",
+      "url": "https://www.shu.edu.cn/info/1056/402225.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "科产系统举行“一路芳华 感恩有你”荣休仪式",
+      "url": "https://www.shu.edu.cn/info/1056/402295.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
+    },
     {
       "title": "关于发布区人大代表换届选举选民名单（一号公告）的通知",
       "url": "https://www.shu.edu.cn/info/1051/402205.htm",
@@ -94,24 +112,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401995.htm",
       "date": "2026-10-22",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学2027届经管类毕业生就业与实习招聘会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/401945.htm",
-      "date": "2026-10-22",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“东方法治论坛系列研讨会——普惠金融与乡村振兴的法治协同与保障”成功举办",
-      "url": "https://www.shu.edu.cn/info/1056/401955.htm",
-      "date": "2026-10-22",
-      "column": "综合新闻"
-    },
-    {
-      "title": "“习近平经济思想概论”虚拟教研室2026年秋季学期第二次集体备课会在上海大学召开",
-      "url": "https://www.shu.edu.cn/info/1056/401965.htm",
-      "date": "2026-10-22",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学召开四届党委第五轮巡察工作动员部署会",

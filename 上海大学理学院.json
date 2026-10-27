@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261026_181821",
+  "crawl_time": "20261027_054549",
   "total_articles": 3981,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3100讲 强迫相似-横截性质（STP）的符号模式与零-非零模式",
+      "url": "https://scicol.shu.edu.cn/info/1003/34525.htm",
+      "date": "2026-10-27",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3092讲 McKean-Vlasov 随机微分方程的Log-Sobolev 不等式和指数遍历性",
       "url": "https://scicol.shu.edu.cn/info/1003/34435.htm",
@@ -506,12 +512,6 @@
       "title": "数学学科Seminar第3070讲 CQR正则化问题的紧SDP松弛",
       "url": "https://scicol.shu.edu.cn/info/1003/33305.htm",
       "date": "2026-06-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3067讲 允许或要求相似性-横截性性质（STP）的零-非零模式",
-      "url": "https://scicol.shu.edu.cn/info/1003/33265.htm",
-      "date": "2026-06-16",
       "column": "学术报告"
     },
     {

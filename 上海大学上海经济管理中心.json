@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20261026_181821",
-  "total_articles": 69,
+  "crawl_time": "20261027_054549",
+  "total_articles": 71,
   "columns": {
     "招生简章": 26,
-    "要闻速递": 43
+    "要闻速递": 45
   },
   "articles": [
+    {
+      "title": "上海大学-法国让穆兰里昂第三大学合作举办社会学专业硕士项目第十一期正式开班",
+      "url": "https://jgzx.shu.edu.cn/info/1017/15268.htm",
+      "date": "2026-10-27",
+      "column": "要闻速递"
+    },
     {
       "title": "南汇新城镇第五期社工“育苗计划”培训班顺利启动",
       "url": "https://jgzx.shu.edu.cn/info/1017/15198.htm",
@@ -374,6 +380,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "国务院发展研究中心张承惠所长来经管中心授课",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2328.htm",
+      "date": "2013-12-17",
+      "column": "要闻速递"
     },
     {
       "title": "经管中心举办榆林炼油厂管理干部高级研修班",
