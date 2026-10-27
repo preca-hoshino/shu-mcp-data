@@ -2,13 +2,19 @@
   "domain": "news.shu.edu.cn",
   "department": "上海大学新闻网",
   "type": "36",
-  "crawl_time": "20261027_054549",
-  "total_articles": 330,
+  "crawl_time": "20261027_093833",
+  "total_articles": 331,
   "columns": {
     "图片新闻": 278,
-    "文化信息": 52
+    "文化信息": 53
   },
   "articles": [
+    {
+      "title": "新展预告 | 百年潮涌：“何以上海”之香山密码特展，即将开幕",
+      "url": "https://news.shu.edu.cn/info/1014/184735.htm",
+      "date": "2026-10-27",
+      "column": "文化信息"
+    },
     {
       "title": "红军不怕远征难——中央红军长征决策和出发历史展览",
       "url": "https://news.shu.edu.cn/info/1014/179955.htm",

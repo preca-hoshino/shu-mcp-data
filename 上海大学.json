@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261027_054549",
+  "crawl_time": "20261027_093833",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "赵微团队在《Journal of the American Chemical Society》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/402435.htm",
+      "date": "2026-10-27",
+      "column": "科研动态"
+    },
     {
       "title": "学校召开2026年第二次党委双月座谈会",
       "url": "https://www.shu.edu.cn/info/1056/402215.htm",
@@ -26,6 +32,18 @@
     {
       "title": "科产系统举行“一路芳华 感恩有你”荣休仪式",
       "url": "https://www.shu.edu.cn/info/1056/402295.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "同铸党建品牌，共聚发展合力——外国语学院召开党支部书记工作例会",
+      "url": "https://www.shu.edu.cn/info/1056/402445.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "贯通全链条、协同破壁垒：上海大学首届技术经理人实务培训开班",
+      "url": "https://www.shu.edu.cn/info/1056/402465.htm",
       "date": "2026-10-27",
       "column": "综合新闻"
     },
@@ -64,12 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402125.htm",
       "date": "2026-10-23",
       "column": "科研动态"
-    },
-    {
-      "title": "中欧二维材料与量子科技国际学术研讨会在沪举行",
-      "url": "https://www.shu.edu.cn/info/1056/402075.htm",
-      "date": "2026-10-23",
-      "column": "综合新闻"
     },
     {
       "title": "上海美术学院与法国南特大西洋设计学院举行硕士项目合作协议签约仪式",
@@ -114,12 +126,6 @@
       "column": "科研动态"
     },
     {
-      "title": "上海大学召开四届党委第五轮巡察工作动员部署会",
-      "url": "https://www.shu.edu.cn/info/1056/401975.htm",
-      "date": "2026-10-22",
-      "column": "综合新闻"
-    },
-    {
       "title": "材料学院贾林课题组在《Advanced Functional Materials》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/401825.htm",
       "date": "2026-10-21",
@@ -153,12 +159,6 @@
       "title": "核电关键材料全国重点实验室施思齐教授团队提出电解液氧化稳定性评估新策略",
       "url": "https://www.shu.edu.cn/info/1055/401475.htm",
       "date": "2026-10-10",
-      "column": "科研动态"
-    },
-    {
-      "title": "计算机学院冷拓教授团队在人工智能国际顶会NeurIPS 2026上发表机器证明FormalGeo系列最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/401365.htm",
-      "date": "2026-10-08",
       "column": "科研动态"
     },
     {

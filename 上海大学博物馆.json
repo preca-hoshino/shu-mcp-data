@@ -2,16 +2,40 @@
   "domain": "museum.shu.edu.cn",
   "department": "上海大学博物馆",
   "type": "28",
-  "crawl_time": "20261027_054549",
-  "total_articles": 56,
+  "crawl_time": "20261027_093833",
+  "total_articles": 60,
   "columns": {
-    "新闻快递": 47,
+    "新闻快递": 51,
     "通知公告": 9
   },
   "articles": [
     {
+      "title": "在上大，解码“何以上海”的香山密码",
+      "url": "https://museum.shu.edu.cn/info/1030/5616.htm",
+      "date": "2026-10-25",
+      "column": "新闻快递"
+    },
+    {
+      "title": "馆际携手，繁花启幕｜上大博物馆旗袍藏品亮相嘉善县博物馆",
+      "url": "https://museum.shu.edu.cn/info/1030/5596.htm",
+      "date": "2026-09-30",
+      "column": "新闻快递"
+    },
+    {
+      "title": "上海大学博物馆2026年中秋及国庆开放公告",
+      "url": "https://museum.shu.edu.cn/info/1030/5576.htm",
+      "date": "2026-09-21",
+      "column": "新闻快递"
+    },
+    {
       "title": "人才培养 | 2025级博物馆专业硕士“博物馆工作实务”正式启动",
       "url": "https://museum.shu.edu.cn/info/1030/5556.htm",
+      "date": "2026-09-18",
+      "column": "新闻快递"
+    },
+    {
+      "title": "薪火追光｜上海大学博物馆藏品助力 “沪盟追光 —— 致敬民盟先贤科学家” 展览",
+      "url": "https://museum.shu.edu.cn/info/1030/5566.htm",
       "date": "2026-09-18",
       "column": "新闻快递"
     },

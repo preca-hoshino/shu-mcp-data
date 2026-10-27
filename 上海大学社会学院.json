@@ -2,25 +2,49 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261027_054549",
-  "total_articles": 2617,
+  "crawl_time": "20261027_093833",
+  "total_articles": 2620,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 67,
     "学术动态": 572,
-    "学术报告": 162,
+    "学术报告": 163,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 887,
-    "通知公告": 55
+    "通知公告": 57
   },
   "articles": [
+    {
+      "title": "社会学院关于2026年领航奖学金评选结果公示",
+      "url": "https://sociology.shu.edu.cn/info/1103/44278.htm",
+      "date": "2026-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学社会学院第六届田野调查奖征文公告",
+      "url": "https://sociology.shu.edu.cn/info/1103/44288.htm",
+      "date": "2026-10-27",
+      "column": "通知公告"
+    },
+    {
+      "title": "IESM讲座|Building Bridges Through Education: Strengthening China–Kazakhstan Cooperation（以教育为桥梁：深化中国与哈萨克斯坦合作）",
+      "url": "https://sociology.shu.edu.cn/info/1105/44258.htm",
+      "date": "2026-10-27",
+      "column": "学术报告"
+    },
     {
       "title": "心系社会，行远社工 ——2026上大社工师生素质拓展活动纪要",
       "url": "https://sociology.shu.edu.cn/info/1102/44238.htm",
       "date": "2026-10-26",
       "column": "综合新闻"
+    },
+    {
+      "title": "2026“美美与共”社会政策与社会工作讲坛|社会工作伦理专题探讨：双重关系及其限制",
+      "url": "https://sociology.shu.edu.cn/info/1105/44218.htm",
+      "date": "2026-10-23",
+      "column": "学术报告"
     },
     {
       "title": "2026公共性论坛13|社会因素如何塑造老年认知健康",
@@ -561,12 +585,6 @@
       "url": "https://sociology.shu.edu.cn/info/1102/41928.htm",
       "date": "2026-06-02",
       "column": "综合新闻"
-    },
-    {
-      "title": "IESM讲座|发展生育金融，为生育友好型社会添砖加瓦",
-      "url": "https://sociology.shu.edu.cn/info/1105/41918.htm",
-      "date": "2026-06-02",
-      "column": "学术报告"
     },
     {
       "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",

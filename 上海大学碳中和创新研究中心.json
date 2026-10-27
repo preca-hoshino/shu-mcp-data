@@ -2,13 +2,19 @@
   "domain": "icn.shu.edu.cn",
   "department": "上海大学碳中和创新研究中心",
   "type": "20",
-  "crawl_time": "20261027_054549",
-  "total_articles": 38,
+  "crawl_time": "20261027_093833",
+  "total_articles": 39,
   "columns": {
     "新闻动态": 17,
-    "科研动态": 21
+    "科研动态": 22
   },
   "articles": [
+    {
+      "title": "PNAS：界面氢键网络重构，解锁高效环境催化新范式2026-10-27",
+      "url": "https://icn.shu.edu.cn/info/1531/2631.htm",
+      "date": "2026-10-27",
+      "column": "科研动态"
+    },
     {
       "title": "澳大利亚昆士兰大学余承忠教授访问碳中和创新研究中心并作学术报告2026-09-24",
       "url": "https://icn.shu.edu.cn/info/1541/2621.htm",

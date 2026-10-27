@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261027_054549",
-  "total_articles": 3981,
+  "crawl_time": "20261027_093833",
+  "total_articles": 3983,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,7 +12,7 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 314,
-    "综合新闻": 629,
+    "综合新闻": 631,
     "通知公告": 160
   },
   "articles": [
@@ -21,6 +21,18 @@
       "url": "https://scicol.shu.edu.cn/info/1003/34525.htm",
       "date": "2026-10-27",
       "column": "学术报告"
+    },
+    {
+      "title": "第一届数学与集成电路科学大会（2026）在上海大学举行",
+      "url": "https://scicol.shu.edu.cn/info/1007/34535.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
+    },
+    {
+      "title": "理学院物理系宋宏伟教授团队荣获2026年度稀土科学技术奖一等奖",
+      "url": "https://scicol.shu.edu.cn/info/1007/34545.htm",
+      "date": "2026-10-27",
+      "column": "综合新闻"
     },
     {
       "title": "数学学科Seminar第3092讲 McKean-Vlasov 随机微分方程的Log-Sobolev 不等式和指数遍历性",
