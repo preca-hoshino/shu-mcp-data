@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261028_144928",
+  "crawl_time": "20261028_175605",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -12,10 +12,16 @@
   },
   "articles": [
     {
-      "title": "思政铸魂，数智提质｜上海大学举办AI赋能课程思政教学建设推进会",
-      "url": "https://www.shu.edu.cn/info/1056/402475.htm",
+      "title": "法学院2026年度国家社科基金等项目立项再创佳绩",
+      "url": "https://www.shu.edu.cn/info/1055/402455.htm",
       "date": "2026-10-28",
-      "column": "综合新闻"
+      "column": "科研动态"
+    },
+    {
+      "title": "理学院物理系宋宏伟教授团队荣获2026年度稀土科学技术奖一等奖",
+      "url": "https://www.shu.edu.cn/info/1055/402585.htm",
+      "date": "2026-10-28",
+      "column": "科研动态"
     },
     {
       "title": "在上大，解码“何以上海”的香山密码",
@@ -68,6 +74,12 @@
     {
       "title": "上海大学举行第三十九、四十期中青班结业式",
       "url": "https://www.shu.edu.cn/info/1056/402565.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学离退休老干部与法学院少数民族学生结对第十一期项目总结会暨第十二期聘任仪式顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/402575.htm",
       "date": "2026-10-28",
       "column": "综合新闻"
     },
@@ -144,22 +156,10 @@
       "column": "科研动态"
     },
     {
-      "title": "理学院物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/401615.htm",
-      "date": "2026-10-15",
-      "column": "科研动态"
-    },
-    {
       "title": "党课开讲啦！传承红色基因 走好新时代的长征路！",
       "url": "https://mp.weixin.qq.com/s/E1HuH5cPq5OPAkXGWShKpA",
       "date": "2026-10-12",
       "column": "重要新闻"
-    },
-    {
-      "title": "核电关键材料全国重点实验室施思齐教授团队提出电解液氧化稳定性评估新策略",
-      "url": "https://www.shu.edu.cn/info/1055/401475.htm",
-      "date": "2026-10-10",
-      "column": "科研动态"
     },
     {
       "title": "设计无界，品智生成！上海大学再次亮相世界设计之都大会",

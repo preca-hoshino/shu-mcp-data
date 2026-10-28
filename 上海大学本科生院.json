@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261028_144928",
+  "crawl_time": "20261028_175605",
   "total_articles": 1824,
   "columns": {
     "政策文件": 58,
@@ -20,12 +20,6 @@
       "title": "关于上海大学2026年本科新生学籍资格自查确认的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322584.htm",
       "date": "2026-10-27",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2026年度上海高校市级重点课程推荐申报的公示",
-      "url": "https://bksy.shu.edu.cn/info/1015/322494.htm",
-      "date": "2026-10-26",
       "column": "通知公告"
     },
     {
@@ -134,6 +128,12 @@
       "title": "关于开展2026年度校级本科教材跃升项目申报工作的通知（本科生院〔2026〕35号）",
       "url": "https://bksy.shu.edu.cn/info/1015/322154.htm",
       "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公布2026年度本科专业动态优化调整专项建设项目的通知(本科生院〔2026〕33号)",
+      "url": "https://bksy.shu.edu.cn/info/1015/322084.htm",
+      "date": "2026-09-29",
       "column": "通知公告"
     },
     {
