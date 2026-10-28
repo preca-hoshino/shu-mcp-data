@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261027_173215",
+  "crawl_time": "20261028_062427",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -12,22 +12,52 @@
   },
   "articles": [
     {
+      "title": "思政铸魂，数智提质｜上海大学举办AI赋能课程思政教学建设推进会",
+      "url": "https://www.shu.edu.cn/info/1056/402475.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "在上大，解码“何以上海”的香山密码",
+      "url": "https://www.shu.edu.cn/info/1056/402485.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第一届数学与集成电路科学大会（2026）在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/402495.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学自强队在2026中国机器人大赛暨RoboCup机器人世界杯中国赛中斩获佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/402505.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学基于先进工艺的高端芯片设计与EDA育人专项专家咨询会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/402515.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学-法国让穆兰里昂第三大学合作举办社会学专业硕士项目第十一期正式开班",
+      "url": "https://www.shu.edu.cn/info/1056/402525.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "钱伟长学院“伟长学者走进伟长书院”主题活动顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/402535.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
       "title": "赵微团队在《Journal of the American Chemical Society》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/402435.htm",
       "date": "2026-10-27",
       "column": "科研动态"
-    },
-    {
-      "title": "学校召开2026年第二次党委双月座谈会",
-      "url": "https://www.shu.edu.cn/info/1056/402215.htm",
-      "date": "2026-10-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "医教同心护健康，双山健步向未来",
-      "url": "https://www.shu.edu.cn/info/1056/402225.htm",
-      "date": "2026-10-27",
-      "column": "综合新闻"
     },
     {
       "title": "科产系统举行“一路芳华 感恩有你”荣休仪式",
@@ -60,12 +90,6 @@
       "column": "重要新闻"
     },
     {
-      "title": "《应用数学与计算数学学报（英文）》国际编委会在上海大学成功召开",
-      "url": "https://www.shu.edu.cn/info/1056/402185.htm",
-      "date": "2026-10-26",
-      "column": "综合新闻"
-    },
-    {
       "title": "上海大学召开学校发展工作座谈会",
       "url": "https://www.shu.edu.cn/info/1053/402005.htm",
       "date": "2026-10-23",
@@ -82,30 +106,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402125.htm",
       "date": "2026-10-23",
       "column": "科研动态"
-    },
-    {
-      "title": "上海美术学院与法国南特大西洋设计学院举行硕士项目合作协议签约仪式",
-      "url": "https://www.shu.edu.cn/info/1056/402085.htm",
-      "date": "2026-10-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "骑寻红色上大 砥砺育人初心​——校工会开展“寻访老上大旧址”骑行活动",
-      "url": "https://www.shu.edu.cn/info/1056/402105.htm",
-      "date": "2026-10-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "桑榆映书香 归来叙芳华——2026年图书馆敬老节“回娘家”活动顺利举办",
-      "url": "https://www.shu.edu.cn/info/1056/402135.htm",
-      "date": "2026-10-23",
-      "column": "综合新闻"
-    },
-    {
-      "title": "数字档案开启新征程  首份文书电子档案正式入库",
-      "url": "https://www.shu.edu.cn/info/1056/402145.htm",
-      "date": "2026-10-23",
-      "column": "综合新闻"
     },
     {
       "title": "第十五届上海期刊论坛在上海大学举行",

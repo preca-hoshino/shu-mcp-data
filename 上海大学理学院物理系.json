@@ -2,15 +2,33 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20261027_173215",
-  "total_articles": 396,
+  "crawl_time": "20261028_062427",
+  "total_articles": 395,
   "columns": {
     "学术报告": 300,
-    "新闻快递": 23,
+    "新闻快递": 22,
     "研究动态": 52,
     "通知公告": 21
   },
   "articles": [
+    {
+      "title": "理学院物理系宋宏伟教授团队荣获2026年度稀土科学技术奖一等奖",
+      "url": "https://physics.shu.edu.cn/info/1021/10004.htm",
+      "date": "2026-10-28",
+      "column": "新闻快递"
+    },
+    {
+      "title": "物理学科Seminar第837讲 朱成杰（2026年10月28日13:30）",
+      "url": "https://physics.shu.edu.cn/info/1078/9984.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第838讲：班玥（2026年10月30日16:00）",
+      "url": "https://physics.shu.edu.cn/info/1078/9994.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
     {
       "title": "理学院物理系邢凯健、尹鑫茂在Cell子刊《Matter》发表低维集成电路研究成果",
       "url": "https://physics.shu.edu.cn/info/1076/9964.htm",
@@ -111,18 +129,6 @@
       "title": "物理学科Seminar第829讲：Xinglong Zhang（2026年8月21日15:00）",
       "url": "https://physics.shu.edu.cn/info/1078/9794.htm",
       "date": "2026-08-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "物理学科Seminar第828讲:Hasan Tahir Abbas(2026年7月31日10:00)",
-      "url": "https://physics.shu.edu.cn/info/1078/9764.htm",
-      "date": "2026-07-31",
-      "column": "学术报告"
-    },
-    {
-      "title": "量子科技研究院seminar第116讲暨物理学科Seminar第827讲：张学锋（2026年7月21日（...",
-      "url": "https://physics.shu.edu.cn/info/1078/9754.htm",
-      "date": "2026-07-20",
       "column": "学术报告"
     },
     {
@@ -2372,18 +2378,6 @@
     {
       "title": "物理实验中心青年教师实验讲课交流会成功举办",
       "url": "https://physics.shu.edu.cn/info/1021/1023.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "量子与分子结构国际中心2D Systems课题组在物理化学快报杂志上发表论文",
-      "url": "https://physics.shu.edu.cn/info/1021/1025.htm",
-      "date": "2019-11-18",
-      "column": "新闻快递"
-    },
-    {
-      "title": "物理系党总支举行学习十九大报告精神“不忘初心、牢记使命”主题活动",
-      "url": "https://physics.shu.edu.cn/info/1021/1026.htm",
       "date": "2019-11-18",
       "column": "新闻快递"
     }

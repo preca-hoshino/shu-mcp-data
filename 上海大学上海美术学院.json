@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20261027_173215",
-  "total_articles": 731,
+  "crawl_time": "20261028_062427",
+  "total_articles": 732,
   "columns": {
     "党建工作": 47,
     "学术讲座": 57,
     "学生工作": 42,
-    "学院新闻": 342,
+    "学院新闻": 343,
     "展览展示": 24,
     "教学": 167,
     "科研": 35,
     "通知公告": 17
   },
   "articles": [
+    {
+      "title": "上海美术学院召开安全工作专题会议",
+      "url": "https://safa.shu.edu.cn/info/1084/20160.htm",
+      "date": "2026-10-28",
+      "column": "学院新闻"
+    },
     {
       "title": "上海美术学院2026年国家留学基金委艺术类人才培养特别项目拟派出名单公示（第二批次）",
       "url": "https://safa.shu.edu.cn/info/1122/20140.htm",

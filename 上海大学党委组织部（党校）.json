@@ -2,17 +2,23 @@
   "domain": "zzb.shu.edu.cn",
   "department": "上海大学党委组织部（党校）",
   "type": "04",
-  "crawl_time": "20261027_173215",
-  "total_articles": 394,
+  "crawl_time": "20261028_062427",
+  "total_articles": 395,
   "columns": {
     "人才工作": 17,
     "党建工作": 52,
-    "党校工作": 212,
+    "党校工作": 213,
     "基层风采": 29,
     "干部工作": 55,
     "理论学习": 29
   },
   "articles": [
+    {
+      "title": "上海大学举行第三十九、四十期中青班结业式",
+      "url": "https://zzb.shu.edu.cn/info/1005/8551.htm",
+      "date": "2026-10-28",
+      "column": "党校工作"
+    },
     {
       "title": "党课开讲啦！传承红色基因 走好新时代的长征路",
       "url": "https://zzb.shu.edu.cn/info/1016/8531.htm",

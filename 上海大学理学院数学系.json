@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261027_173215",
+  "crawl_time": "20261028_062427",
   "total_articles": 1609,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,18 @@
     "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3101讲 第二类椭圆型变分不等式的后验误差分析",
+      "url": "https://math.shu.edu.cn/info/1042/27401.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3102讲 关于局部导数、局部自同构和几乎内导数的猜想",
+      "url": "https://math.shu.edu.cn/info/1042/27411.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科第3094讲 Takagi函数的水平集问题",
       "url": "https://math.shu.edu.cn/info/1042/27331.htm",
@@ -110,18 +122,6 @@
       "title": "Seminar第3084讲 对称与非对称锥优化的数值方法",
       "url": "https://math.shu.edu.cn/info/1042/27241.htm",
       "date": "2026-10-14",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3079讲 积分里奇曲率条件下的Souplet-Zhang估计和Li-Yau不等式",
-      "url": "https://math.shu.edu.cn/info/1042/27201.htm",
-      "date": "2026-10-13",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3080讲 关于Michael-Simon类型的索伯列夫不等式的当今研究",
-      "url": "https://math.shu.edu.cn/info/1042/27211.htm",
-      "date": "2026-10-13",
       "column": "学术报告"
     },
     {

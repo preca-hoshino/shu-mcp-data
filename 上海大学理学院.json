@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261027_173215",
+  "crawl_time": "20261028_062427",
   "total_articles": 3983,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,18 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3102讲 关于局部导数、局部自同构和几乎内导数的猜想",
+      "url": "https://scicol.shu.edu.cn/info/1003/34555.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3101讲 第二类椭圆型变分不等式的后验误差分析",
+      "url": "https://scicol.shu.edu.cn/info/1003/34565.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3100讲 强迫相似-横截性质（STP）的符号模式与零-非零模式",
       "url": "https://scicol.shu.edu.cn/info/1003/34525.htm",
@@ -506,18 +518,6 @@
       "title": "量子科技研究院Seminar第112讲暨物理学科Seminar第821讲 非线性光学铁性序参量耦合的理论探讨...",
       "url": "https://scicol.shu.edu.cn/info/1003/33315.htm",
       "date": "2026-06-18",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3068讲 最小二乘配点法求解偏微分方程的持续学习策略",
-      "url": "https://scicol.shu.edu.cn/info/1003/33285.htm",
-      "date": "2026-06-17",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3069讲 带有多项式鲁棒约束的分部鲁棒优化问题",
-      "url": "https://scicol.shu.edu.cn/info/1003/33295.htm",
-      "date": "2026-06-17",
       "column": "学术报告"
     },
     {

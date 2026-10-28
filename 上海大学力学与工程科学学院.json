@@ -2,23 +2,41 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261027_173215",
-  "total_articles": 270,
+  "crawl_time": "20261028_062427",
+  "total_articles": 274,
   "columns": {
-    "学术报告": 60,
+    "学术报告": 61,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 45,
-    "通知公告": 37
+    "综合新闻": 47,
+    "通知公告": 38
   },
   "articles": [
+    {
+      "title": "校党委第三巡察组巡察力学与工程科学学院党委进驻动...",
+      "url": "https://smes.shu.edu.cn/info/1013/10965.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "钱伟长力学SEMINAR 1014：用于复合材料铺层优化的量...",
+      "url": "https://smes.shu.edu.cn/info/1014/10915.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
     {
       "title": "蛇形结构屈曲力学理论及电子器件应用",
       "url": "https://smes.shu.edu.cn/info/1014/10905.htm",
       "date": "2026-10-27",
       "column": "学术报告"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://smes.shu.edu.cn/info/1015/10935.htm",
+      "date": "2026-10-27",
+      "column": "通知公告"
     },
     {
       "title": "石砌体结构抗震加固技术研究与工程实践",
@@ -1405,6 +1423,12 @@
       "url": "https://smes.shu.edu.cn/info/1017/2032.htm",
       "date": "2017-10-08",
       "column": "科研动态"
+    },
+    {
+      "title": "力学所2017级研究生顺利报到",
+      "url": "https://smes.shu.edu.cn/info/1013/2052.htm",
+      "date": "2017-09-10",
+      "column": "综合新闻"
     },
     {
       "title": "美国西北大学黄永刚院士来所访问交流",
