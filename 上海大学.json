@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261028_102256",
+  "crawl_time": "20261028_144928",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -54,28 +54,28 @@
       "column": "综合新闻"
     },
     {
+      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
+      "url": "https://www.shu.edu.cn/info/1056/402545.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学社会学院学校社会工作站实习基地正式启动 | 全市首个引入高校专业社会工作力量的学校社会工作站落地嘉定",
+      "url": "https://www.shu.edu.cn/info/1056/402555.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学举行第三十九、四十期中青班结业式",
+      "url": "https://www.shu.edu.cn/info/1056/402565.htm",
+      "date": "2026-10-28",
+      "column": "综合新闻"
+    },
+    {
       "title": "赵微团队在《Journal of the American Chemical Society》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/402435.htm",
       "date": "2026-10-27",
       "column": "科研动态"
-    },
-    {
-      "title": "科产系统举行“一路芳华 感恩有你”荣休仪式",
-      "url": "https://www.shu.edu.cn/info/1056/402295.htm",
-      "date": "2026-10-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "同铸党建品牌，共聚发展合力——外国语学院召开党支部书记工作例会",
-      "url": "https://www.shu.edu.cn/info/1056/402445.htm",
-      "date": "2026-10-27",
-      "column": "综合新闻"
-    },
-    {
-      "title": "贯通全链条、协同破壁垒：上海大学首届技术经理人实务培训开班",
-      "url": "https://www.shu.edu.cn/info/1056/402465.htm",
-      "date": "2026-10-27",
-      "column": "综合新闻"
     },
     {
       "title": "关于发布区人大代表换届选举选民名单（一号公告）的通知",
