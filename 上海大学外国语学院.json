@@ -2,15 +2,21 @@
   "domain": "sfs.shu.edu.cn",
   "department": "上海大学外国语学院",
   "type": "06",
-  "crawl_time": "20261029_063440",
-  "total_articles": 584,
+  "crawl_time": "20261029_104352",
+  "total_articles": 585,
   "columns": {
     "学术活动预告": 402,
     "学术研究": 34,
     "学院新闻": 57,
-    "通知公告": 91
+    "通知公告": 92
   },
   "articles": [
+    {
+      "title": "上海大学外国语学院《英语语言学概论》国家级一流本科课程建设咨询会通知",
+      "url": "https://sfs.shu.edu.cn/info/1141/31647.htm",
+      "date": "2026-10-29",
+      "column": "通知公告"
+    },
     {
       "title": "共青团上海大学外国语学院第十六次代表大会暨第二十一次学生代表大会顺利召开",
       "url": "https://sfs.shu.edu.cn/info/1142/31607.htm",

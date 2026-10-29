@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261029_063440",
+  "crawl_time": "20261029_104352",
   "total_articles": 3985,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3103讲 面向三维非局部扩散问题渐近相容离散的快速可扩展多GPU切片FFT求解...",
+      "url": "https://scicol.shu.edu.cn/info/1003/34595.htm",
+      "date": "2026-10-29",
+      "column": "学术报告"
+    },
     {
       "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学院专场）",
       "url": "https://scicol.shu.edu.cn/info/1007/34575.htm",
@@ -530,12 +536,6 @@
       "title": "量子科技研究院Seminar第112讲暨物理学科Seminar第821讲 非线性光学铁性序参量耦合的理论探讨...",
       "url": "https://scicol.shu.edu.cn/info/1003/33315.htm",
       "date": "2026-06-18",
-      "column": "学术报告"
-    },
-    {
-      "title": "数学学科Seminar第3070讲 CQR正则化问题的紧SDP松弛",
-      "url": "https://scicol.shu.edu.cn/info/1003/33305.htm",
-      "date": "2026-06-17",
       "column": "学术报告"
     },
     {

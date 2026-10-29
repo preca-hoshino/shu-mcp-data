@@ -2,14 +2,20 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20261029_063440",
-  "total_articles": 860,
+  "crawl_time": "20261029_104352",
+  "total_articles": 861,
   "columns": {
     "党建简报": 132,
     "学工新闻": 36,
-    "通知公告": 692
+    "通知公告": 693
   },
   "articles": [
+    {
+      "title": "上海大学关于开展2025-2026学年本科生秋季奖学金评审工作的通...",
+      "url": "https://xgb.shu.edu.cn/info/1003/46174.htm",
+      "date": "2026-10-29",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学关于开展2026年度比亚迪奖学金评审工作的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/46164.htm",

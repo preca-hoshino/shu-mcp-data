@@ -2,7 +2,7 @@
   "domain": "math.shu.edu.cn",
   "department": "上海大学理学院数学系",
   "type": "04",
-  "crawl_time": "20261029_063440",
+  "crawl_time": "20261029_104352",
   "total_articles": 1609,
   "columns": {
     "学术会议": 29,
@@ -10,6 +10,12 @@
     "新闻快递": 171
   },
   "articles": [
+    {
+      "title": "数学学科Seminar第3103讲 面向三维非局部扩散问题渐近相容离散的快速可扩展多GPU切片FFT求解器",
+      "url": "https://math.shu.edu.cn/info/1042/27421.htm",
+      "date": "2026-10-29",
+      "column": "学术报告"
+    },
     {
       "title": "数学学科Seminar第3101讲 第二类椭圆型变分不等式的后验误差分析",
       "url": "https://math.shu.edu.cn/info/1042/27401.htm",
@@ -122,12 +128,6 @@
       "title": "Seminar第3084讲 对称与非对称锥优化的数值方法",
       "url": "https://math.shu.edu.cn/info/1042/27241.htm",
       "date": "2026-10-14",
-      "column": "学术报告"
-    },
-    {
-      "title": "Seminar第3081讲 松弛贪婪随机Kaczmarz算法的精细误差界",
-      "url": "https://math.shu.edu.cn/info/1042/27221.htm",
-      "date": "2026-10-13",
       "column": "学术报告"
     },
     {
