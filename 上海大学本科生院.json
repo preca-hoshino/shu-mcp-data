@@ -2,14 +2,20 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261028_175605",
-  "total_articles": 1824,
+  "crawl_time": "20261029_063440",
+  "total_articles": 1825,
   "columns": {
     "政策文件": 58,
-    "新闻动态": 41,
+    "新闻动态": 42,
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学院专场）",
+      "url": "https://bksy.shu.edu.cn/info/1016/322614.htm",
+      "date": "2026-10-29",
+      "column": "新闻动态"
+    },
     {
       "title": "关于2027年度上海大学跨学科联合大作业项目入库及申报的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322604.htm",

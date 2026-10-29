@@ -2,7 +2,7 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261028_175605",
+  "crawl_time": "20261029_063440",
   "total_articles": 2620,
   "columns": {
     "图片新闻": 121,
@@ -16,6 +16,12 @@
     "通知公告": 57
   },
   "articles": [
+    {
+      "title": "ADRI系列讲座|Applied Systems Analysis in an Interconnected World: Research and Collaboration at IIASA（互联世界中的应用系统分析：IIASA的研究与合作）",
+      "url": "https://sociology.shu.edu.cn/info/1105/44318.htm",
+      "date": "2026-10-28",
+      "column": "学术报告"
+    },
     {
       "title": "社会学院关于2026年领航奖学金评选结果公示",
       "url": "https://sociology.shu.edu.cn/info/1103/44278.htm",
@@ -572,12 +578,6 @@
       "title": "IESM讲座|The Internationalisation of Chinese private capital in West Africa（中国私营资本在西非的国际化进程）",
       "url": "https://sociology.shu.edu.cn/info/1105/42048.htm",
       "date": "2026-06-05",
-      "column": "学术报告"
-    },
-    {
-      "title": "2026公共性论坛07|肥胖的大洋洲",
-      "url": "https://sociology.shu.edu.cn/info/1105/42018.htm",
-      "date": "2026-06-03",
       "column": "学术报告"
     },
     {

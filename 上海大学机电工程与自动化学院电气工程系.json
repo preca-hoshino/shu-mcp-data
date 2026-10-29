@@ -2,13 +2,25 @@
   "domain": "ee.shu.edu.cn",
   "department": "上海大学机电工程与自动化学院电气工程系",
   "type": "20",
-  "crawl_time": "20261028_175605",
-  "total_articles": 65,
+  "crawl_time": "20261029_063440",
+  "total_articles": 67,
   "columns": {
-    "科研教学": 25,
-    "综合新闻": 40
+    "科研教学": 26,
+    "综合新闻": 41
   },
   "articles": [
+    {
+      "title": "初识电气科研氛围，启迪新生专业理想——26级电气新生实验室参观活动",
+      "url": "https://ee.shu.edu.cn/info/1012/5204.htm",
+      "date": "2026-10-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "初识电气科研氛围，启迪新生专业理想——26级电气新生实验室参观活动",
+      "url": "https://ee.shu.edu.cn/info/1015/5214.htm",
+      "date": "2026-10-29",
+      "column": "科研教学"
+    },
     {
       "title": "走进工博会，上好专业第一课——机自学院电气系组织参观第26届中国国际工业博览会",
       "url": "https://ee.shu.edu.cn/info/1012/5184.htm",

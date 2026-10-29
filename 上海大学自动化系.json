@@ -2,13 +2,19 @@
   "domain": "automation.shu.edu.cn",
   "department": "上海大学自动化系",
   "type": "06",
-  "crawl_time": "20261028_175605",
-  "total_articles": 78,
+  "crawl_time": "20261029_063440",
+  "total_articles": 81,
   "columns": {
-    "新闻": 70,
+    "新闻": 73,
     "讲座/会议": 8
   },
   "articles": [
+    {
+      "title": "上海大学自强队在2026中国机器人大赛暨RoboCup机器人世界杯中国赛中斩获佳绩",
+      "url": "https://automation.shu.edu.cn/info/1128/4263.htm",
+      "date": "2026-10-29",
+      "column": "新闻"
+    },
     {
       "title": "机自学院彭晨教授牵头的成果荣获2026年度中国仿真学会高等教育教学成果特等奖",
       "url": "https://automation.shu.edu.cn/info/1128/4253.htm",
@@ -163,6 +169,18 @@
       "title": "机械工程一流学科产教协同发展研讨会——航空前沿技术论坛顺利召开",
       "url": "https://automation.shu.edu.cn/info/1128/3813.htm",
       "date": "2024-11-29",
+      "column": "新闻"
+    },
+    {
+      "title": "党建引领聚合力 校企合作促发展 ——自动化系与宝武环科金属再生事业部、上海宝信软件自动化服务事业本部举行共建签约仪式",
+      "url": "https://automation.shu.edu.cn/info/1128/3803.htm",
+      "date": "2024-11-05",
+      "column": "新闻"
+    },
+    {
+      "title": "杨庆华老师指导团队在第十四届“挑战杯”秦创原中国大学生创业计划竞赛中获金奖",
+      "url": "https://automation.shu.edu.cn/info/1128/3793.htm",
+      "date": "2024-11-04",
       "column": "新闻"
     },
     {

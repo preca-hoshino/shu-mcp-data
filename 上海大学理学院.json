@@ -2,20 +2,32 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261028_175605",
-  "total_articles": 3983,
+  "crawl_time": "20261029_063440",
+  "total_articles": 3985,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
     "本科生教务": 39,
-    "本科生新闻": 48,
+    "本科生新闻": 49,
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 314,
-    "综合新闻": 631,
+    "综合新闻": 632,
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学院专场）",
+      "url": "https://scicol.shu.edu.cn/info/1007/34575.htm",
+      "date": "2026-10-29",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学院专场）",
+      "url": "https://scicol.shu.edu.cn/info/1161/34585.htm",
+      "date": "2026-10-29",
+      "column": "本科生新闻"
+    },
     {
       "title": "数学学科Seminar第3102讲 关于局部导数、局部自同构和几乎内导数的猜想",
       "url": "https://scicol.shu.edu.cn/info/1003/34555.htm",
