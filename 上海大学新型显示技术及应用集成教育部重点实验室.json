@@ -2,10 +2,10 @@
   "domain": "fpd.shu.edu.cn",
   "department": "上海大学新型显示技术及应用集成教育部重点实验室",
   "type": "21",
-  "crawl_time": "20261030_063408",
-  "total_articles": 97,
+  "crawl_time": "20261030_104330",
+  "total_articles": 111,
   "columns": {
-    "新闻中心": 47,
+    "新闻中心": 61,
     "通知公告": 50
   },
   "articles": [
@@ -478,6 +478,12 @@
       "column": "新闻中心"
     },
     {
+      "title": "伊朗沙里夫理工大学纳米科技研究所代表团参观访问新型显示技术及应用集成教育部重点实验室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3582.htm",
+      "date": "2017-10-25",
+      "column": "新闻中心"
+    },
+    {
       "title": "正在更新",
       "url": "https://fpd.shu.edu.cn/info/1111/3285.htm",
       "date": "2017-10-10",
@@ -577,6 +583,84 @@
       "title": "正在更新",
       "url": "https://fpd.shu.edu.cn/info/1113/3397.htm",
       "date": "2016-03-16",
+      "column": "新闻中心"
+    },
+    {
+      "title": "熊绍珍教授参观访问我室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3438.htm",
+      "date": "2008-01-11",
+      "column": "新闻中心"
+    },
+    {
+      "title": "南开大学光电子所熊绍珍教授参观访问我室。",
+      "url": "https://fpd.shu.edu.cn/info/1113/3439.htm",
+      "date": "2008-01-11",
+      "column": "新闻中心"
+    },
+    {
+      "title": "香港浸会大学先进发光材料中心谢国伟教授来我室访问",
+      "url": "https://fpd.shu.edu.cn/info/1113/3486.htm",
+      "date": "2006-11-14",
+      "column": "新闻中心"
+    },
+    {
+      "title": "张志林教授参加第五界国际显示器制程前瞻技术研讨会",
+      "url": "https://fpd.shu.edu.cn/info/1113/3393.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "第六届高密度微系统设计封装与失效分析会议举行",
+      "url": "https://fpd.shu.edu.cn/info/1113/3394.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "深圳天马来我室参观并寻求合作",
+      "url": "https://fpd.shu.edu.cn/info/1113/3442.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "上广电来我室洽谈合作项目",
+      "url": "https://fpd.shu.edu.cn/info/1113/3443.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "香港科技大学郭海成教授参观访问我室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3444.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "长春应用化学研究所王军博士来我室讲学",
+      "url": "https://fpd.shu.edu.cn/info/1113/3445.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新加坡先进封装咨询公司首席执行官访问实验室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3446.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "校领导翟启杰教授率团赴香港访问",
+      "url": "https://fpd.shu.edu.cn/info/1113/3447.htm",
+      "date": "2006-09-20",
+      "column": "新闻中心"
+    },
+    {
+      "title": "新型显示技术及应用集成教育部重点实验室招聘",
+      "url": "https://fpd.shu.edu.cn/info/1113/3377.htm",
+      "date": "2006-09-19",
+      "column": "新闻中心"
+    },
+    {
+      "title": "香港科技大学郭海成教授参观访问我室",
+      "url": "https://fpd.shu.edu.cn/info/1113/3451.htm",
+      "date": "2006-05-14",
       "column": "新闻中心"
     },
     {

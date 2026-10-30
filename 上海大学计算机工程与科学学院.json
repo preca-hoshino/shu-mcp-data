@@ -2,15 +2,27 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261030_063408",
-  "total_articles": 417,
+  "crawl_time": "20261030_104330",
+  "total_articles": 418,
   "columns": {
     "学术活动": 24,
     "新闻动态": 59,
-    "重要通知": 312,
+    "重要通知": 313,
     "风采展示": 22
   },
   "articles": [
+    {
+      "title": "校党委第二巡察组巡察计算机工程与科学学院党委进驻动员会召开",
+      "url": "https://cs.shu.edu.cn/info/1061/52331.htm",
+      "date": "2026-10-01",
+      "column": "新闻动态"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://cs.shu.edu.cn/info/1081/52321.htm",
+      "date": "2026-10-01",
+      "column": "重要通知"
+    },
     {
       "title": "校企协同聚合力 | 凌华智能科技有限公司来上海大学计算机学院交流",
       "url": "https://mp.weixin.qq.com/s/5hRSDsPGOJpZyMYwoCmycg",
@@ -129,12 +141,6 @@
       "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级新生开学典礼暨院长第一课圆满举行",
       "url": "https://mp.weixin.qq.com/s/zrhG3MLGQyQcQJ8VHA3RTw",
       "date": "2026-09-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "暑假社会实践 | 智润乡野播星火，点石成金筑少年——2026年“点石成金”暑期支教活动（总结篇）",
-      "url": "https://mp.weixin.qq.com/s/OfRzpI33PnAX9ne7Lzpt6g",
-      "date": "2026-08-01",
       "column": "新闻动态"
     },
     {

@@ -2,12 +2,12 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20261030_063408",
-  "total_articles": 861,
+  "crawl_time": "20261030_104330",
+  "total_articles": 860,
   "columns": {
     "党建简报": 132,
     "学工新闻": 36,
-    "通知公告": 693
+    "通知公告": 692
   },
   "articles": [
     {
@@ -20,12 +20,6 @@
       "title": "上海大学关于开展2026年度比亚迪奖学金评审工作的通知",
       "url": "https://xgb.shu.edu.cn/info/1003/46164.htm",
       "date": "2026-10-28",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于2025-2026学年辅导员“大点兵”评审结果的公示",
-      "url": "https://xgb.shu.edu.cn/info/1003/46154.htm",
-      "date": "2026-10-26",
       "column": "通知公告"
     },
     {

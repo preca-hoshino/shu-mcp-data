@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261030_063408",
-  "total_articles": 2041,
+  "crawl_time": "20261030_104330",
+  "total_articles": 2042,
   "columns": {
     "学术报告": 527,
     "教学信息": 22,
-    "新闻动态": 1271,
+    "新闻动态": 1272,
     "通知公告": 221
   },
   "articles": [
+    {
+      "title": "深化校企协同创新，聚力产教融合育人 —— 通信与信息工程学院与华为无线研究部开展校企合作交流会",
+      "url": "https://scie.shu.edu.cn/info/1064/47205.htm",
+      "date": "2026-10-30",
+      "column": "新闻动态"
+    },
     {
       "title": "行健讲坛 №555 －Hollow-Core Fibers assisted spectroscopy of gases",
       "url": "https://scie.shu.edu.cn/info/1067/47165.htm",

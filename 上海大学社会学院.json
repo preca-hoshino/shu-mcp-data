@@ -2,8 +2,8 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261030_063408",
-  "total_articles": 2620,
+  "crawl_time": "20261030_104330",
+  "total_articles": 2619,
   "columns": {
     "图片新闻": 121,
     "媒体报道": 67,
@@ -13,7 +13,7 @@
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 887,
-    "通知公告": 57
+    "通知公告": 56
   },
   "articles": [
     {
@@ -21,12 +21,6 @@
       "url": "https://sociology.shu.edu.cn/info/1105/44318.htm",
       "date": "2026-10-28",
       "column": "学术报告"
-    },
-    {
-      "title": "社会学院关于2026年领航奖学金评选结果公示",
-      "url": "https://sociology.shu.edu.cn/info/1103/44278.htm",
-      "date": "2026-10-27",
-      "column": "通知公告"
     },
     {
       "title": "上海大学社会学院第六届田野调查奖征文公告",
