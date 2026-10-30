@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261029_180513",
+  "crawl_time": "20261030_063408",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "上海大学MBA中心2026级研究生党支部圆满完成选举工作",
+      "url": "https://mp.weixin.qq.com/s/YBEdzEuMiDH6T9ynzQhPIQ",
+      "date": "2026-10-30",
+      "column": "论坛活动"
+    },
     {
       "title": "源来好创业｜上海大学MBA举办创业主题专题讲座",
       "url": "https://mp.weixin.qq.com/s/oWS33KoA6jVimnL45yq1ZA",
@@ -285,12 +291,6 @@
       "url": "https://mp.weixin.qq.com/s/MKYAThyuDT4dLJdX1nFamA",
       "date": "2026-07-21",
       "column": "焦点新闻"
-    },
-    {
-      "title": "上海大学MBA中心张峻铭同学荣获上海大学毕业生就业“攀登奖”",
-      "url": "https://mp.weixin.qq.com/s/F6Loa4PMi83VVXdkYhL4nQ",
-      "date": "2026-07-20",
-      "column": "论坛活动"
     },
     {
       "title": "2026级上大MBA国际新生画像出炉：多元汇聚，共赴新程",

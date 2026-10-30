@@ -2,15 +2,15 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261029_180513",
-  "total_articles": 274,
+  "crawl_time": "20261030_063408",
+  "total_articles": 273,
   "columns": {
     "学术报告": 61,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
     "科研动态": 59,
-    "综合新闻": 47,
+    "综合新闻": 46,
     "通知公告": 38
   },
   "articles": [
@@ -1423,12 +1423,6 @@
       "url": "https://smes.shu.edu.cn/info/1017/2032.htm",
       "date": "2017-10-08",
       "column": "科研动态"
-    },
-    {
-      "title": "力学所2017级研究生顺利报到",
-      "url": "https://smes.shu.edu.cn/info/1013/2052.htm",
-      "date": "2017-09-10",
-      "column": "综合新闻"
     },
     {
       "title": "美国西北大学黄永刚院士来所访问交流",

@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261029_180513",
+  "crawl_time": "20261030_063408",
   "total_articles": 574,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,24 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "科技部国际合作司关于发布国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发...",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12942.htm",
+      "date": "2026-10-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "科技部国际合作司关于发布国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流...",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12952.htm",
+      "date": "2026-10-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "巡察公告",
+      "url": "https://kyglb.shu.edu.cn/info/1011/12962.htm",
+      "date": "2026-10-30",
+      "column": "通知公告"
+    },
     {
       "title": "上海市先进冶金技术重点实验室2026年学术委员会会议顺利召开",
       "url": "https://mp.weixin.qq.com/s/1tRjfoX2_ECb4BiPA7K08g?scene=1&click_id=1607523851",
@@ -154,24 +172,6 @@
       "url": "https://www.shu.edu.cn/info/1055/401305.htm",
       "date": "2026-09-29",
       "column": "科技动态"
-    },
-    {
-      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（重点支撑类—第一批）”项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12632.htm",
-      "date": "2026-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（重点支撑类—第二批）”项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12642.htm",
-      "date": "2026-09-23",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布2026年度基础研究计划“上海市自然科学基金（启明星计划）”项目申报指南的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12652.htm",
-      "date": "2026-09-23",
-      "column": "通知公告"
     },
     {
       "title": "新出炉！《2025上海科技成果转化白皮书》Unit5：借鉴篇",

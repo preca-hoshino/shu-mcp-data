@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20261029_180513",
+  "crawl_time": "20261030_063408",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,54 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "学校召开2026年第二次党委双月座谈会",
+      "url": "https://www.shu.edu.cn/info/1056/402215.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "同铸党建品牌，共聚发展合力——外国语学院召开党支部书记工...",
+      "url": "https://www.shu.edu.cn/info/1056/402445.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "贯通全链条、协同破壁垒：上海大学首届技术经理人实务培训开班",
+      "url": "https://www.shu.edu.cn/info/1056/402465.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "在上大，解码“何以上海”的香山密码",
+      "url": "https://www.shu.edu.cn/info/1056/402485.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "第一届数学与集成电路科学大会（2026）在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/402495.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "钱伟长学院“伟长学者走进伟长书院”主题活动顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/402535.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
+      "url": "https://www.shu.edu.cn/info/1056/402545.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学举行第三十九、四十期中青班结业式",
+      "url": "https://www.shu.edu.cn/info/1056/402565.htm",
+      "date": "2026-10-30",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学召开2026年第三次党群工作例会暨第二次院长工作会议",
       "url": "https://www.shu.edu.cn/info/1053/402175.htm",
@@ -71,30 +119,6 @@
       "column": "文明实践"
     },
     {
-      "title": "立德树人守初心 师德师风铸师魂——新闻传播学院举办师德师风...",
-      "url": "https://www.shu.edu.cn/info/1056/401565.htm",
-      "date": "2026-10-19",
-      "column": "文明实践"
-    },
-    {
-      "title": "民进上海大学委员会参观“水墨的力量”美术作品展",
-      "url": "https://www.shu.edu.cn/info/1056/401585.htm",
-      "date": "2026-10-19",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学2025-2026学年辅导员 “大点兵”活动举行",
-      "url": "https://www.shu.edu.cn/info/1056/401595.htm",
-      "date": "2026-10-19",
-      "column": "文明实践"
-    },
-    {
-      "title": "第一届“中国玻璃”研究研讨会在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/401685.htm",
-      "date": "2026-10-19",
-      "column": "文明实践"
-    },
-    {
       "title": "忆党史，看今朝——九三上大委举办退休社员学习教育活动",
       "url": "https://www.shu.edu.cn/info/1056/401715.htm",
       "date": "2026-10-19",
@@ -105,30 +129,6 @@
       "url": "https://mp.weixin.qq.com/s/E1HuH5cPq5OPAkXGWShKpA",
       "date": "2026-10-12",
       "column": "校园动态"
-    },
-    {
-      "title": "“初心印迹”第四课回望五卅风云，赓续红色基因",
-      "url": "https://www.shu.edu.cn/info/1056/401505.htm",
-      "date": "2026-10-12",
-      "column": "文明实践"
-    },
-    {
-      "title": "弘扬教育家精神 立德树人铸师魂——环化学院开展2027年师德师...",
-      "url": "https://www.shu.edu.cn/info/1056/401515.htm",
-      "date": "2026-10-12",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学水下考古团队应邀赴希腊开展水下考古调研与合作交流",
-      "url": "https://www.shu.edu.cn/info/1056/401535.htm",
-      "date": "2026-10-12",
-      "column": "文明实践"
-    },
-    {
-      "title": "深化校企战略协同 赋能核能科技自立自强——上海大学与国家电...",
-      "url": "https://www.shu.edu.cn/info/1056/401355.htm",
-      "date": "2026-10-08",
-      "column": "文明实践"
     },
     {
       "title": "设计无界，品智生成！上海大学再次亮相世界设计之都大会",

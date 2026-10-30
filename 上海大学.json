@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261029_180513",
+  "crawl_time": "20261030_063408",
   "total_articles": 18413,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,30 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学院专场）",
+      "url": "https://www.shu.edu.cn/info/1056/402635.htm",
+      "date": "2026-10-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "AI赋能提效能 保密护航守底线——校工会“管理人员AI赋能营”顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/402645.htm",
+      "date": "2026-10-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学2026年青年学者论坛马克思主义学院专场顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/402655.htm",
+      "date": "2026-10-30",
+      "column": "综合新闻"
+    },
+    {
+      "title": "深耕思政课堂 涵养廉洁文化——马克思主义学院召开全体教职工政治理论学习会",
+      "url": "https://www.shu.edu.cn/info/1056/402665.htm",
+      "date": "2026-10-30",
+      "column": "综合新闻"
+    },
     {
       "title": "法学院2026年度国家社科基金等项目立项再创佳绩",
       "url": "https://www.shu.edu.cn/info/1055/402455.htm",
@@ -22,30 +46,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402585.htm",
       "date": "2026-10-28",
       "column": "科研动态"
-    },
-    {
-      "title": "在上大，解码“何以上海”的香山密码",
-      "url": "https://www.shu.edu.cn/info/1056/402485.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第一届数学与集成电路科学大会（2026）在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/402495.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学自强队在2026中国机器人大赛暨RoboCup机器人世界杯中国赛中斩获佳绩",
-      "url": "https://www.shu.edu.cn/info/1056/402505.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学基于先进工艺的高端芯片设计与EDA育人专项专家咨询会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/402515.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学-法国让穆兰里昂第三大学合作举办社会学专业硕士项目第十一期正式开班",

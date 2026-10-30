@@ -2,14 +2,26 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261029_180513",
-  "total_articles": 813,
+  "crawl_time": "20261030_063408",
+  "total_articles": 815,
   "columns": {
     "学术活动": 203,
-    "学院新闻": 96,
+    "学院新闻": 98,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "上大管院与AOM、IACMR开展学术交流活动",
+      "url": "https://ms.shu.edu.cn/info/1244/92865.htm",
+      "date": "2026-10-30",
+      "column": "学院新闻"
+    },
+    {
+      "title": "英国牛津大学赛德商学院Christopher L. Tucci教授做客上海管理论坛分享...",
+      "url": "https://ms.shu.edu.cn/info/1244/92875.htm",
+      "date": "2026-10-30",
+      "column": "学院新闻"
+    },
     {
       "title": "1102上海管理论坛第583期（王丹青教授，香港科技大学商学院）",
       "url": "https://ms.shu.edu.cn/info/1246/92815.htm",
