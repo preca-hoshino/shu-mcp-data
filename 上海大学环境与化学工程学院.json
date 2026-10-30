@@ -2,7 +2,7 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261030_104330",
+  "crawl_time": "20261030_144745",
   "total_articles": 1007,
   "columns": {
     "学术报告": 79,
@@ -13,6 +13,12 @@
     "通知公告": 121
   },
   "articles": [
+    {
+      "title": "环境与化学工程学院开展实验室个体防护用品专项培训与实操考核",
+      "url": "https://ece.shu.edu.cn/info/1149/90394.htm",
+      "date": "2026-10-30",
+      "column": "学院新闻"
+    },
     {
       "title": "情暖重阳忆初心，薪火相传话发展——环化学院组织重阳节敬老活动",
       "url": "https://ece.shu.edu.cn/info/1149/90314.htm",
@@ -221,12 +227,6 @@
       "title": "【迎新季】我院研究生党建中心介绍",
       "url": "https://mp.weixin.qq.com/s/YOBFirsq1TwVGmrO18SnBQ",
       "date": "2026-08-20",
-      "column": "学院新闻"
-    },
-    {
-      "title": "【迎新季】网络、宿舍、食堂、快递....你想知道的都在这~",
-      "url": "https://mp.weixin.qq.com/s/EX445ajDGCz0Yd3-6p4Vzg",
-      "date": "2026-08-18",
       "column": "学院新闻"
     },
     {

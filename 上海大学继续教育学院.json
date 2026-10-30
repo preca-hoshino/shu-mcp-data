@@ -2,10 +2,10 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261030_104330",
-  "total_articles": 1798,
+  "crawl_time": "20261030_144745",
+  "total_articles": 1799,
   "columns": {
-    "学院新闻": 549,
+    "学院新闻": 550,
     "招生热讯": 81,
     "通知公告": 1168
   },
@@ -15,6 +15,12 @@
       "url": "https://cce.shu.edu.cn/info/1013/21104.htm",
       "date": "2026-10-30",
       "column": "招生热讯"
+    },
+    {
+      "title": "学思践悟  砺师强能 —— 喀什大学青年骨干教师能力提升培训班在上海大学顺利举办",
+      "url": "https://cce.shu.edu.cn/info/1550/21214.htm",
+      "date": "2026-10-30",
+      "column": "学院新闻"
     },
     {
       "title": "上海大学职业技能等级证书培训班  （人工智能训练师）  招生简章",
