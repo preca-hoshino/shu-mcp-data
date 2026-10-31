@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261030_174516",
-  "total_articles": 18413,
+  "crawl_time": "20261031_062348",
+  "total_articles": 18414,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 454,
+    "通知公告": 455,
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "关于发布区人大代表换届选举代表候选人名单（二号公告）的通知",
+      "url": "https://www.shu.edu.cn/info/1051/402675.htm",
+      "date": "2026-10-31",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学院专场）",
       "url": "https://www.shu.edu.cn/info/1056/402635.htm",

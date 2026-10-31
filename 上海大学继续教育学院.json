@@ -2,14 +2,26 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261030_174516",
-  "total_articles": 1799,
+  "crawl_time": "20261031_062348",
+  "total_articles": 1801,
   "columns": {
-    "学院新闻": 550,
+    "学院新闻": 552,
     "招生热讯": 81,
     "通知公告": 1168
   },
   "articles": [
+    {
+      "title": "为产育人 为城服务｜上海大学携手顺丰速运共同开启“产教融合”新实践",
+      "url": "https://cce.shu.edu.cn/info/1550/21234.htm",
+      "date": "2026-10-31",
+      "column": "学院新闻"
+    },
+    {
+      "title": "党建领航访科创，产教聚力育人才 —— 走进中国商飞、张江人工智能小镇开展主题党日活动",
+      "url": "https://cce.shu.edu.cn/info/1550/21244.htm",
+      "date": "2026-10-31",
+      "column": "学院新闻"
+    },
     {
       "title": "2026上海大学继续教育学院成人英语提高班第二期",
       "url": "https://cce.shu.edu.cn/info/1013/21104.htm",
