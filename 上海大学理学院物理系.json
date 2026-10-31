@@ -2,15 +2,21 @@
   "domain": "physics.shu.edu.cn",
   "department": "上海大学理学院物理系",
   "type": "37",
-  "crawl_time": "20261031_101206",
-  "total_articles": 395,
+  "crawl_time": "20261031_141602",
+  "total_articles": 396,
   "columns": {
     "学术报告": 300,
-    "新闻快递": 22,
+    "新闻快递": 23,
     "研究动态": 52,
     "通知公告": 21
   },
   "articles": [
+    {
+      "title": "沈学础院士莅临物理系指导学科建设工作",
+      "url": "https://physics.shu.edu.cn/info/1021/10014.htm",
+      "date": "2026-10-31",
+      "column": "新闻快递"
+    },
     {
       "title": "理学院物理系宋宏伟教授团队荣获2026年度稀土科学技术奖一等奖",
       "url": "https://physics.shu.edu.cn/info/1021/10004.htm",

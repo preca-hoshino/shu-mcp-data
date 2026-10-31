@@ -2,15 +2,21 @@
   "domain": "sme.shu.edu.cn",
   "department": "上海大学微电子学院",
   "type": "06",
-  "crawl_time": "20261031_101206",
-  "total_articles": 346,
+  "crawl_time": "20261031_141602",
+  "total_articles": 347,
   "columns": {
     "新闻动态": 257,
     "讲座信息": 8,
     "资讯动态": 2,
-    "通知公告": 79
+    "通知公告": 80
   },
   "articles": [
+    {
+      "title": "2026顶科论坛 | 业内大咖集聚未来半导体平行论坛，纵论AI与半导体融合的“下一个十年”",
+      "url": "https://sme.shu.edu.cn/info/1030/7932.htm",
+      "date": "2026-10-31",
+      "column": "通知公告"
+    },
     {
       "title": "中欧二维材料与量子科技国际学术研讨会在沪举行",
       "url": "https://sme.shu.edu.cn/info/1029/7922.htm",
