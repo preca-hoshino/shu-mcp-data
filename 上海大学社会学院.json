@@ -2,7 +2,7 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261102_065713",
+  "crawl_time": "20261102_120131",
   "total_articles": 2619,
   "columns": {
     "图片新闻": 121,
@@ -16,6 +16,12 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "2026公共性论坛14|中国祖父母身份的人口学特征",
+      "url": "https://sociology.shu.edu.cn/info/1105/44368.htm",
+      "date": "2026-11-02",
+      "column": "学术报告"
+    },
     {
       "title": "2026“美美与共”社会政策与社会工作讲坛|社会治理视角看深化养老服务改革发展",
       "url": "https://sociology.shu.edu.cn/info/1105/44338.htm",
@@ -537,12 +543,6 @@
       "url": "https://sociology.shu.edu.cn/info/1104/42258.htm",
       "date": "2026-06-16",
       "column": "学术动态"
-    },
-    {
-      "title": "IESM讲座|科技革命的冲击与文凭逻辑的退场——从悼念张雪峰看教育和劳动秩序的重构",
-      "url": "https://sociology.shu.edu.cn/info/1105/42198.htm",
-      "date": "2026-06-16",
-      "column": "学术报告"
     },
     {
       "title": "上海教育新闻网 | 打造哲社科学高地|田野课堂、数字治理，上海大学在城乡社区书写社会学自主知识体系",

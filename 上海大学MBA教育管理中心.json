@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261102_065713",
+  "crawl_time": "20261102_120131",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,12 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "教学创新与师生共长：上大MBA卓越教学贡献奖获奖教师的育人实践",
+      "url": "https://mp.weixin.qq.com/s/NvdpYGKD6gm9OlB5I_ZgGQ",
+      "date": "2026-11-02",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学MBA中心2026级研究生党支部圆满完成选举工作",
       "url": "https://mp.weixin.qq.com/s/YBEdzEuMiDH6T9ynzQhPIQ",
@@ -278,12 +284,6 @@
       "title": "上大MBA学子邢聪荣获上海大学“学生党员先锋”称号",
       "url": "https://mp.weixin.qq.com/s/EEDsopa4FtZfr0EbkZE-xg",
       "date": "2026-07-23",
-      "column": "论坛活动"
-    },
-    {
-      "title": "校友|上海大学MBA校友分会第二届理事会第一次会议顺利召开",
-      "url": "https://mp.weixin.qq.com/s/63xQT5U5S7iz8o33zrdUew",
-      "date": "2026-07-22",
       "column": "论坛活动"
     },
     {
