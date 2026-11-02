@@ -2,7 +2,7 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261101_174058",
+  "crawl_time": "20261102_065713",
   "total_articles": 2619,
   "columns": {
     "图片新闻": 121,
@@ -16,6 +16,18 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "2026“美美与共”社会政策与社会工作讲坛|社会治理视角看深化养老服务改革发展",
+      "url": "https://sociology.shu.edu.cn/info/1105/44338.htm",
+      "date": "2026-10-30",
+      "column": "学术报告"
+    },
+    {
+      "title": "社会工作伦理专题探讨：资源分配与维权倡导",
+      "url": "https://sociology.shu.edu.cn/info/1105/44358.htm",
+      "date": "2026-10-30",
+      "column": "学术报告"
+    },
     {
       "title": "ADRI系列讲座|Applied Systems Analysis in an Interconnected World: Research and Collaboration at IIASA（互联世界中的应用系统分析：IIASA的研究与合作）",
       "url": "https://sociology.shu.edu.cn/info/1105/44318.htm",
@@ -561,18 +573,6 @@
       "url": "https://sociology.shu.edu.cn/info/1104/42128.htm",
       "date": "2026-06-08",
       "column": "学术动态"
-    },
-    {
-      "title": "ADRI系列讲座|Sequential Migration of Chinese Overseas Returnees: the Intertwined Roles of Urban Amenities and Economic Opportunities（中国海外归国人才的序贯迁移：城市便利设施与经济机会的交互作用）",
-      "url": "https://sociology.shu.edu.cn/info/1105/42118.htm",
-      "date": "2026-06-08",
-      "column": "学术报告"
-    },
-    {
-      "title": "IESM讲座|The Internationalisation of Chinese private capital in West Africa（中国私营资本在西非的国际化进程）",
-      "url": "https://sociology.shu.edu.cn/info/1105/42048.htm",
-      "date": "2026-06-05",
-      "column": "学术报告"
     },
     {
       "title": "情系社院 再叙芳华|2026年社会学院校友值年返校活动顺利举行",

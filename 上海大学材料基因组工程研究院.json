@@ -2,15 +2,27 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261101_174058",
-  "total_articles": 447,
+  "crawl_time": "20261102_065713",
+  "total_articles": 449,
   "columns": {
     "学术报告": 143,
-    "科研动态": 79,
+    "科研动态": 81,
     "综合新闻": 63,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "我院孙强、蔡亮亮课题组在表面化学反应和单分子操纵取得新进展",
+      "url": "https://mgi.shu.edu.cn/info/1063/7775.htm",
+      "date": "2026-11-02",
+      "column": "科研动态"
+    },
+    {
+      "title": "我院博士研究生入选2026年中国科协青年科技人才培育工程博士生专项计划",
+      "url": "https://mgi.shu.edu.cn/info/1063/7795.htm",
+      "date": "2026-11-02",
+      "column": "科研动态"
+    },
     {
       "title": "我院曹桂新教授团队在《Advanced Science》发表封面论文：在Co掺杂Mn₃Sn中实现宽温域室温巨大拓扑霍尔效应",
       "url": "https://mgi.shu.edu.cn/info/1063/7745.htm",

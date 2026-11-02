@@ -2,14 +2,20 @@
   "domain": "shenjichu.shu.edu.cn",
   "department": "上海大学审计处",
   "type": "06",
-  "crawl_time": "20260514_004804",
-  "total_articles": 65,
+  "crawl_time": "20261102_065713",
+  "total_articles": 67,
   "columns": {
-    "审计动态": 46,
-    "通知公告": 6,
-    "支部生活": 13
+    "审计动态": 48,
+    "支部生活": 13,
+    "通知公告": 6
   },
   "articles": [
+    {
+      "title": "筑牢审计防线 前移监督关口——上海大学审计处举办“审计监督视角下工程管理风险的识别”专题培训",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/2959.htm",
+      "date": "2026-11-02",
+      "column": "审计动态"
+    },
     {
       "title": "上海大学召开2026年经济责任审计启动会",
       "url": "https://shenjichu.shu.edu.cn/info/1014/2939.htm",
@@ -362,6 +368,12 @@
       "title": "审计处召开2015年与事务所的沟通会",
       "url": "https://shenjichu.shu.edu.cn/info/1014/1762.htm",
       "date": "2015-04-08",
+      "column": "审计动态"
+    },
+    {
+      "title": "上海—北京教育审计工作交流会在我校顺利召开",
+      "url": "https://shenjichu.shu.edu.cn/info/1014/1790.htm",
+      "date": "2010-10-21",
       "column": "审计动态"
     },
     {

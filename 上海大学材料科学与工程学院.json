@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261101_174058",
+  "crawl_time": "20261102_065713",
   "total_articles": 1711,
   "columns": {
     "学术动态": 90,
@@ -14,6 +14,12 @@
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "以赛促学，智汇材料｜第三届“六晶杯”电子信息材料创新知识竞赛圆满落幕",
+      "url": "https://mat.shu.edu.cn/info/1012/31598.htm",
+      "date": "2026-11-02",
+      "column": "学院新闻"
+    },
     {
       "title": "2026年上海大学材料学院第十八届廷亚奖学金公示",
       "url": "https://mat.shu.edu.cn/info/1018/31588.htm",
@@ -361,12 +367,6 @@
       "url": "https://mat.shu.edu.cn/info/1016/30858.htm",
       "date": "2026-08-07",
       "column": "科研动态"
-    },
-    {
-      "title": "船用缸套铸造技术专栏重磅刊发《铸造工程》—— 上海大学先进凝固技术中心攻坚船舶动力核心部...",
-      "url": "https://mat.shu.edu.cn/info/1012/30848.htm",
-      "date": "2026-08-05",
-      "column": "学院新闻"
     },
     {
       "title": "毕业证领取通知（20260731）",

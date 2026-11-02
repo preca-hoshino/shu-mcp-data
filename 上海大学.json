@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261101_174058",
+  "crawl_time": "20261102_065713",
   "total_articles": 18414,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,30 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "医学院创新中药团队在国际药物研究领域权威期刊《Medicinal Research Reviews》发表胆汁酸研究最新综述成果",
+      "url": "https://www.shu.edu.cn/info/1055/402685.htm",
+      "date": "2026-11-02",
+      "column": "科研动态"
+    },
+    {
+      "title": "亚洲文化遗产保护 人工智能与数智化国际研修班上海大学阶段教学顺利开启",
+      "url": "https://www.shu.edu.cn/info/1056/402695.htm",
+      "date": "2026-11-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学8刊入选2026年度中国高校科技期刊建设示范案例库",
+      "url": "https://www.shu.edu.cn/info/1056/402705.htm",
+      "date": "2026-11-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "为产育人 为城服务｜上海大学携手顺丰速运共同开启“产教融合”新实践",
+      "url": "https://www.shu.edu.cn/info/1056/402715.htm",
+      "date": "2026-11-02",
+      "column": "综合新闻"
+    },
     {
       "title": "关于发布区人大代表换届选举代表候选人名单（二号公告）的通知",
       "url": "https://www.shu.edu.cn/info/1051/402675.htm",
@@ -52,24 +76,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402585.htm",
       "date": "2026-10-28",
       "column": "科研动态"
-    },
-    {
-      "title": "上海大学-法国让穆兰里昂第三大学合作举办社会学专业硕士项目第十一期正式开班",
-      "url": "https://www.shu.edu.cn/info/1056/402525.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "钱伟长学院“伟长学者走进伟长书院”主题活动顺利举办",
-      "url": "https://www.shu.edu.cn/info/1056/402535.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学召开党委理论学习中心组（扩大）学习会",
-      "url": "https://www.shu.edu.cn/info/1056/402545.htm",
-      "date": "2026-10-28",
-      "column": "综合新闻"
     },
     {
       "title": "上海大学社会学院学校社会工作站实习基地正式启动 | 全市首个引入高校专业社会工作力量的学校社会工作站落地嘉定",
@@ -141,12 +147,6 @@
       "title": "理学院物理系尹鑫茂教授团队在《Applied Physics Reviews》上发表二维量子材料新成果",
       "url": "https://www.shu.edu.cn/info/1055/401995.htm",
       "date": "2026-10-22",
-      "column": "科研动态"
-    },
-    {
-      "title": "材料学院贾林课题组在《Advanced Functional Materials》上发表最新研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/401825.htm",
-      "date": "2026-10-21",
       "column": "科研动态"
     },
     {

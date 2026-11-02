@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20261101_174058",
-  "total_articles": 119,
+  "crawl_time": "20261102_065713",
+  "total_articles": 120,
   "columns": {
     "公告信息": 38,
     "图书馆新闻": 48,
-    "资源动态": 33
+    "资源动态": 34
   },
   "articles": [
+    {
+      "title": "《中华经典古籍库》开通使用",
+      "url": "https://lib.shu.edu.cn/info/1023/7094.htm",
+      "date": "2026-11-02",
+      "column": "资源动态"
+    },
     {
       "title": "【新闻】桑榆映书香 归来叙芳华——2026年图书馆敬老节“回娘家”活动圆满举办",
       "url": "https://lib.shu.edu.cn/info/1024/7084.htm",

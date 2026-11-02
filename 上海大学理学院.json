@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261101_174058",
-  "total_articles": 3984,
+  "crawl_time": "20261102_065713",
+  "total_articles": 3986,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,10 +12,22 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 314,
-    "综合新闻": 632,
+    "综合新闻": 634,
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "上海大学首届“稀客论坛”举办",
+      "url": "https://scicol.shu.edu.cn/info/1007/34625.htm",
+      "date": "2026-11-02",
+      "column": "综合新闻"
+    },
+    {
+      "title": "持续思想碰撞，深化青年培养——上海大学理学院化学学科青年学术论坛（第二场）顺利举办",
+      "url": "https://scicol.shu.edu.cn/info/1007/34635.htm",
+      "date": "2026-11-01",
+      "column": "综合新闻"
+    },
     {
       "title": "数学学科Seminar第3103讲 面向三维非局部扩散问题渐近相容离散的快速可扩展多GPU切片FFT求解...",
       "url": "https://scicol.shu.edu.cn/info/1003/34595.htm",
