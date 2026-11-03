@@ -2,14 +2,20 @@
   "domain": "xgb.shu.edu.cn",
   "department": "上海大学党委本科生研究生工作部本科生处",
   "type": "04",
-  "crawl_time": "20261103_072000",
-  "total_articles": 861,
+  "crawl_time": "20261103_113942",
+  "total_articles": 862,
   "columns": {
     "党建简报": 132,
     "学工新闻": 36,
-    "通知公告": 693
+    "通知公告": 694
   },
   "articles": [
+    {
+      "title": "关于评审2026-2027学年上海大学春华秋实西部助学金的通知",
+      "url": "https://xgb.shu.edu.cn/info/1003/46194.htm",
+      "date": "2026-11-03",
+      "column": "通知公告"
+    },
     {
       "title": "关于2026年上海市“最美高校辅导员”和“最美大学生”推荐参...",
       "url": "https://xgb.shu.edu.cn/info/1003/46184.htm",
