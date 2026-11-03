@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261102_212625",
-  "total_articles": 3986,
+  "crawl_time": "20261103_072000",
+  "total_articles": 3987,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -11,11 +11,17 @@
     "本科生新闻": 49,
     "研究生教务": 45,
     "研究生新闻": 50,
-    "科研动态": 314,
+    "科研动态": 315,
     "综合新闻": 634,
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "化学系谭启涛教授、许斌教授团队在《Journal of the American Chemical Society》上发表最新...",
+      "url": "https://scicol.shu.edu.cn/info/1008/34655.htm",
+      "date": "2026-11-03",
+      "column": "科研动态"
+    },
     {
       "title": "上海大学首届“稀客论坛”举办",
       "url": "https://scicol.shu.edu.cn/info/1007/34625.htm",

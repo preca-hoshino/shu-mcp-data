@@ -2,7 +2,7 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20261102_212625",
+  "crawl_time": "20261103_072000",
   "total_articles": 160,
   "columns": {
     "文明创建": 33,
@@ -10,6 +10,36 @@
     "校园动态": 54
   },
   "articles": [
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学...",
+      "url": "https://www.shu.edu.cn/info/1056/402635.htm",
+      "date": "2026-11-03",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学2026年青年学者论坛马克思主义学院专场顺利举办",
+      "url": "https://www.shu.edu.cn/info/1056/402655.htm",
+      "date": "2026-11-03",
+      "column": "文明实践"
+    },
+    {
+      "title": "深耕思政课堂 涵养廉洁文化——马克思主义学院召开全体教职工...",
+      "url": "https://www.shu.edu.cn/info/1056/402665.htm",
+      "date": "2026-11-03",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学首届“稀客论坛”举办",
+      "url": "https://www.shu.edu.cn/info/1056/402725.htm",
+      "date": "2026-11-03",
+      "column": "文明实践"
+    },
+    {
+      "title": "学思践悟 砺师强能——喀什大学青年骨干教师能力提升培训班在...",
+      "url": "https://www.shu.edu.cn/info/1056/402775.htm",
+      "date": "2026-11-03",
+      "column": "文明实践"
+    },
     {
       "title": "学校召开2026年第二次党委双月座谈会",
       "url": "https://www.shu.edu.cn/info/1056/402215.htm",
@@ -89,39 +119,9 @@
       "column": "文明实践"
     },
     {
-      "title": "民进上海大学委员会开展音乐沙龙暨重阳节敬老活动",
-      "url": "https://www.shu.edu.cn/info/1056/401885.htm",
-      "date": "2026-10-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "2026年应用数学与科学计算国际研讨会在上海大学召开",
-      "url": "https://www.shu.edu.cn/info/1056/401915.htm",
-      "date": "2026-10-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学2027届经管类毕业生就业与实习招聘会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/401945.htm",
-      "date": "2026-10-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "“习近平经济思想概论”虚拟教研室2026年秋季学期第二次集体...",
-      "url": "https://www.shu.edu.cn/info/1056/401965.htm",
-      "date": "2026-10-22",
-      "column": "文明实践"
-    },
-    {
       "title": "上海大学召开四届党委第五轮巡察工作动员部署会",
       "url": "https://www.shu.edu.cn/info/1056/401975.htm",
       "date": "2026-10-22",
-      "column": "文明实践"
-    },
-    {
-      "title": "忆党史，看今朝——九三上大委举办退休社员学习教育活动",
-      "url": "https://www.shu.edu.cn/info/1056/401715.htm",
-      "date": "2026-10-19",
       "column": "文明实践"
     },
     {

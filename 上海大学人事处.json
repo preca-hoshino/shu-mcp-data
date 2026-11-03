@@ -2,12 +2,18 @@
   "domain": "hr.shu.edu.cn",
   "department": "上海大学人事处",
   "type": "26",
-  "crawl_time": "20261102_212625",
-  "total_articles": 177,
+  "crawl_time": "20261103_072000",
+  "total_articles": 178,
   "columns": {
-    "新闻公告": 177
+    "新闻公告": 178
   },
   "articles": [
+    {
+      "title": "2026年博士后申请高级专业技术职务材料外送公示",
+      "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8489",
+      "date": "2026-11-03",
+      "column": "新闻公告"
+    },
     {
       "title": "2026年度高级专业技术职务聘任进入学科组评议程序名单公示",
       "url": "https://hr.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1029&wbnewsid=8479",

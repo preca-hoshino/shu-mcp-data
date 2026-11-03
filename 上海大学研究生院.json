@@ -2,16 +2,22 @@
   "domain": "gs.shu.edu.cn",
   "department": "上海大学研究生院",
   "type": "24",
-  "crawl_time": "20261102_212625",
-  "total_articles": 132,
+  "crawl_time": "20261103_072000",
+  "total_articles": 133,
   "columns": {
     "国际交流": 50,
-    "培养管理": 28,
+    "培养管理": 29,
     "学位工作": 32,
     "招生信息": 14,
     "综合新闻": 8
   },
   "articles": [
+    {
+      "title": "关于开展2027年硕士研究生硕博连读申请推荐与资格认定工作的通知",
+      "url": "https://gs.shu.edu.cn/info/1029/173352.htm",
+      "date": "2026-11-03",
+      "column": "培养管理"
+    },
     {
       "title": "2027UTS&SHU合作博士研究项目信息说明会的通知",
       "url": "https://gs.shu.edu.cn/info/1030/173332.htm",

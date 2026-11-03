@@ -2,14 +2,20 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20261102_212625",
-  "total_articles": 712,
+  "crawl_time": "20261103_072000",
+  "total_articles": 713,
   "columns": {
-    "学术报告": 219,
+    "学术报告": 220,
     "最新动态": 382,
     "通知公告": 111
   },
   "articles": [
+    {
+      "title": "新智产业讲堂：AI EDA最新进展与产教融合实践",
+      "url": "https://qwc.shu.edu.cn/info/1088/8719.htm",
+      "date": "2026-11-03",
+      "column": "学术报告"
+    },
     {
       "title": "“筑梦青春志在四方，规划启航职引未来”第四届大学生职业规划大赛钱伟长学院2026-...",
       "url": "https://mp.weixin.qq.com/s/CPk4boWfoLY-8MrW7q-Jaw",

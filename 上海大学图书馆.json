@@ -2,14 +2,26 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20261102_212625",
-  "total_articles": 120,
+  "crawl_time": "20261103_072000",
+  "total_articles": 122,
   "columns": {
     "公告信息": 38,
     "图书馆新闻": 48,
-    "资源动态": 34
+    "资源动态": 36
   },
   "articles": [
+    {
+      "title": "LeapSpace—科研级AI平台试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/7104.htm",
+      "date": "2026-11-03",
+      "column": "资源动态"
+    },
+    {
+      "title": "闻道科学导航试用通知",
+      "url": "https://lib.shu.edu.cn/info/1023/7114.htm",
+      "date": "2026-11-03",
+      "column": "资源动态"
+    },
     {
       "title": "《中华经典古籍库》开通使用",
       "url": "https://lib.shu.edu.cn/info/1023/7094.htm",
