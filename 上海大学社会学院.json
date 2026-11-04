@@ -2,17 +2,17 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261103_190823",
-  "total_articles": 2619,
+  "crawl_time": "20261104_070152",
+  "total_articles": 2621,
   "columns": {
-    "图片新闻": 121,
+    "图片新闻": 122,
     "媒体报道": 67,
     "学术动态": 572,
     "学术报告": 163,
     "学生动态": 584,
     "教学教务": 137,
     "校友活动": 32,
-    "综合新闻": 887,
+    "综合新闻": 888,
     "通知公告": 56
   },
   "articles": [
@@ -21,6 +21,12 @@
       "url": "https://sociology.shu.edu.cn/info/1105/44368.htm",
       "date": "2026-11-02",
       "column": "学术报告"
+    },
+    {
+      "title": "亚洲城市化比较研究国际合作研讨会在上海大学成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1102/44388.htm",
+      "date": "2026-10-30",
+      "column": "综合新闻"
     },
     {
       "title": "2026“美美与共”社会政策与社会工作讲坛|社会治理视角看深化养老服务改革发展",
@@ -33,6 +39,12 @@
       "url": "https://sociology.shu.edu.cn/info/1105/44358.htm",
       "date": "2026-10-30",
       "column": "学术报告"
+    },
+    {
+      "title": "亚洲城市化比较研究国际合作研讨会在上海大学成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1111/44408.htm",
+      "date": "2026-10-30",
+      "column": "图片新闻"
     },
     {
       "title": "ADRI系列讲座|Applied Systems Analysis in an Interconnected World: Research and Collaboration at IIASA（互联世界中的应用系统分析：IIASA的研究与合作）",

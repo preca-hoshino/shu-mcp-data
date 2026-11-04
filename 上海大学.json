@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261103_190823",
+  "crawl_time": "20261104_070152",
   "total_articles": 18414,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "国际档案理事会上海学术中心正式揭牌，2026国际档案研修班同步开课",
+      "url": "https://mp.weixin.qq.com/s/iAHC7YsfjGjAOuINUwmBxA",
+      "date": "2026-11-04",
+      "column": "重要新闻"
+    },
     {
       "title": "医学院创新中药团队在国际药物研究领域权威期刊《Medicinal Research Reviews》发表胆汁酸研究最新综述成果",
       "url": "https://www.shu.edu.cn/info/1055/402685.htm",
@@ -201,12 +207,6 @@
       "title": "上海大学举行2026年本科生开学典礼暨军训总结表彰会",
       "url": "https://mp.weixin.qq.com/s/ZCvPBLFeA6n-CqLa_tNhHQ",
       "date": "2026-09-13",
-      "column": "重要新闻"
-    },
-    {
-      "title": "上海大学举行庆祝第42个教师节暨优秀教师表彰大会",
-      "url": "https://mp.weixin.qq.com/s/MiMH1s8nvqPtL20YhZufWg",
-      "date": "2026-09-10",
       "column": "重要新闻"
     },
     {

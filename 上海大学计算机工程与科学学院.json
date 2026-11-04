@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261103_190823",
+  "crawl_time": "20261104_070152",
   "total_articles": 418,
   "columns": {
     "学术活动": 24,
@@ -11,6 +11,12 @@
     "风采展示": 22
   },
   "articles": [
+    {
+      "title": "喜报 | 全国一等奖+1！上海大学计算机学院研究生在第八届中国研究生人工智能创新大赛中斩获佳绩！",
+      "url": "https://mp.weixin.qq.com/s/oYSWg6IxpUrBrFsH9TiTGA",
+      "date": "2026-11-01",
+      "column": "新闻动态"
+    },
     {
       "title": "校党委第二巡察组巡察计算机工程与科学学院党委进驻动员会召开",
       "url": "https://cs.shu.edu.cn/info/1061/52331.htm",
@@ -141,12 +147,6 @@
       "title": "逐光启序，智赴新程——上海大学计算机工程与科学学院2026级新生开学典礼暨院长第一课圆满举行",
       "url": "https://mp.weixin.qq.com/s/zrhG3MLGQyQcQJ8VHA3RTw",
       "date": "2026-09-01",
-      "column": "新闻动态"
-    },
-    {
-      "title": "喜报 | 计算机学院学子斩获第二十一届中国研究生电子设计竞赛全国三等奖（上海赛区一等奖）！",
-      "url": "https://mp.weixin.qq.com/s/TQ4wEmTBCw2vzAIL8Jg_JQ",
-      "date": "2026-08-01",
       "column": "新闻动态"
     },
     {

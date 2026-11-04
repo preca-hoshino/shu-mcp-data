@@ -2,21 +2,99 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20261103_190823",
-  "total_articles": 1176,
+  "crawl_time": "20261104_070152",
+  "total_articles": 1189,
   "columns": {
     "分工会动态": 303,
-    "协会动态": 46,
-    "教工活动": 614,
-    "新闻动态": 79,
-    "通知公告": 134
+    "协会动态": 47,
+    "教工活动": 618,
+    "新闻动态": 86,
+    "通知公告": 135
   },
   "articles": [
+    {
+      "title": "学消防、强技能、保平安——我校开展教职工消防安全技能培训",
+      "url": "https://mp.weixin.qq.com/s/U7OB-Uwk81K-z3o-xf5_ow",
+      "date": "2026-11-02",
+      "column": "新闻动态"
+    },
+    {
+      "title": "AI赋能提效能 保密护航守底——校工会“管理人员AI赋能营”顺利举办",
+      "url": "https://mp.weixin.qq.com/s/SkB6OrpOSkZ_Wup5cGdrYw",
+      "date": "2026-10-29",
+      "column": "新闻动态"
+    },
+    {
+      "title": "香愈助眠，赋能身心 —— 上海大学教职工赋能项目香愈助眠技能实操培训顺利开展",
+      "url": "https://mp.weixin.qq.com/s/9DE9zSuVNZgsiFTBoluWmQ",
+      "date": "2026-10-23",
+      "column": "新闻动态"
+    },
+    {
+      "title": "骑寻红色上大 砥砺育人初心——上海大学工会开展“寻访老上大旧址”骑行活动",
+      "url": "https://mp.weixin.qq.com/s/ql99qp57-Rpmolb-FEz9yg",
+      "date": "2026-10-22",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学分工会主席工作例会暨2026年分工会主席业务赋能营顺利召开",
+      "url": "https://mp.weixin.qq.com/s/O-HntFeBQDscZ_uT8K8fZQ",
+      "date": "2026-10-16",
+      "column": "新闻动态"
+    },
+    {
+      "title": "上海大学教职工瑜伽协会招新啦！",
+      "url": "https://mp.weixin.qq.com/s/vSLdYUJi1QsybsbW5U5e5w",
+      "date": "2026-10-12",
+      "column": "协会动态"
+    },
+    {
+      "title": "“太极养生·静心疗愈”活动报名通知",
+      "url": "https://mp.weixin.qq.com/s/R5SQi3D4eRK9wqnSbK4ypg",
+      "date": "2026-10-08",
+      "column": "教工活动"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（10月8日）",
+      "url": "https://mp.weixin.qq.com/s/JUZkLZUcjWXYhvIJX5-NQQ",
+      "date": "2026-09-30",
+      "column": "教工活动"
+    },
+    {
+      "title": "@全体工会会员，请查收体重管理项目志愿者招募通知",
+      "url": "https://mp.weixin.qq.com/s/qAGR4P7UgU9gS_YkTla0YQ",
+      "date": "2026-09-30",
+      "column": "通知公告"
+    },
+    {
+      "title": "温馨提示 | “医疗专家进校园”活动科室安排（9月28日）",
+      "url": "https://mp.weixin.qq.com/s/-iRZxIeTywUGlUPA7UYj2g",
+      "date": "2026-09-21",
+      "column": "教工活动"
+    },
     {
       "title": "关于申报2026年“从事教育工作三十年”荣誉证书的通知",
       "url": "https://gh.shu.edu.cn/info/1061/42842.htm",
       "date": "2026-09-18",
       "column": "通知公告"
+    },
+    {
+      "title": "“泮池家长学校”第四十六期预告|上海市小升初及中高考招生政策与学习方法解读会",
+      "url": "https://mp.weixin.qq.com/s/QvXLGSqNOpNnpu7FuEN9EQ",
+      "date": "2026-08-29",
+      "column": "教工活动"
+    },
+    {
+      "title": "炎炎夏日送清凉，丝丝关怀沁人心——校领导走访慰问暑期一线教职工",
+      "url": "https://mp.weixin.qq.com/s/o6RUic-Z0jc-7RpV8bikCw",
+      "date": "2026-08-04",
+      "column": "新闻动态"
+    },
+    {
+      "title": "校工会召开2026年教职工暑期疗休养休养员会议",
+      "url": "https://mp.weixin.qq.com/s/sYTo-JhcQ0mMd9DXNOQ_lA",
+      "date": "2026-07-27",
+      "column": "新闻动态"
     },
     {
       "title": "太酷啦！2026上二代成长营，我们“毕”须闪耀！",

@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20261103_190823",
-  "total_articles": 351,
+  "crawl_time": "20261104_070152",
+  "total_articles": 353,
   "columns": {
-    "文科动态": 97,
+    "文科动态": 99,
     "最新立项": 60,
     "通知公告": 194
   },
   "articles": [
+    {
+      "title": "国际档案理事会上海学术中心正式揭牌，2026国际档案研修班同步开课！",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6637.htm",
+      "date": "2026-11-04",
+      "column": "文科动态"
+    },
     {
       "title": "关于2026年度教育部哲学社会科学研究重大课题攻关项目和高校思想政治理论课教师研究专项重大课题攻关项目招标工作的通知",
       "url": "https://rwskc.shu.edu.cn/info/1069/6617.htm",
@@ -1941,6 +1947,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/2857.htm",
       "date": "2008-07-15",
       "column": "通知公告"
+    },
+    {
+      "title": "文科处组织教育部重大攻关项目预答辩会",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3592.htm",
+      "date": "2008-07-11",
+      "column": "文科动态"
     },
     {
       "title": "上海市体育局2008年体育科技招标项目申报通知",
