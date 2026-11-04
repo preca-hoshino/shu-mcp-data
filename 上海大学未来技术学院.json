@@ -2,14 +2,32 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20261104_070152",
-  "total_articles": 84,
+  "crawl_time": "20261104_115259",
+  "total_articles": 87,
   "columns": {
     "媒体聚焦": 3,
     "新闻动态": 66,
-    "通知公告": 15
+    "通知公告": 18
   },
   "articles": [
+    {
+      "title": "关于公布2026年度上海大学未来技术学院重点课程立项结果的通知",
+      "url": "https://ai.shu.edu.cn/info/1150/4218.htm",
+      "date": "2026-11-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公布未来技术学院2026年度“大思政课”案例征集立项名单的通知",
+      "url": "https://ai.shu.edu.cn/info/1150/4228.htm",
+      "date": "2026-11-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于公布海洋智能领域2026年本科教学学术研究项目立项结果的通知",
+      "url": "https://ai.shu.edu.cn/info/1150/4238.htm",
+      "date": "2026-11-04",
+      "column": "通知公告"
+    },
     {
       "title": "校党委第一巡察组巡察未来技术学院党委进驻动员会召开",
       "url": "https://ai.shu.edu.cn/info/1045/4208.htm",

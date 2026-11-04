@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261104_070152",
+  "crawl_time": "20261104_115259",
   "total_articles": 1826,
   "columns": {
     "政策文件": 58,
@@ -13,6 +13,12 @@
     {
       "title": "关于开展2026年工程教育认证申请工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322664.htm",
+      "date": "2026-11-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于上海大学2027届本科毕业生（秋季）图像信息采集工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322684.htm",
       "date": "2026-11-04",
       "column": "通知公告"
     },
@@ -128,12 +134,6 @@
       "title": "2026-2027学年秋季学期上海大学教师校内自习辅导信息表",
       "url": "https://bksy.shu.edu.cn/info/1015/322194.htm",
       "date": "2026-10-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于举办上海大学2026年课程教学设计竞赛的通知（本科生院〔2026〕34号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/322114.htm",
-      "date": "2026-09-30",
       "column": "通知公告"
     },
     {

@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261104_070152",
-  "total_articles": 2621,
+  "crawl_time": "20261104_115259",
+  "total_articles": 2622,
   "columns": {
     "图片新闻": 122,
     "媒体报道": 67,
-    "学术动态": 572,
+    "学术动态": 573,
     "学术报告": 163,
     "学生动态": 584,
     "教学教务": 137,
@@ -16,6 +16,12 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "会议综述|第三届“社会工作与心理健康”工作坊成功举办",
+      "url": "https://sociology.shu.edu.cn/info/1104/44418.htm",
+      "date": "2026-11-04",
+      "column": "学术动态"
+    },
     {
       "title": "2026公共性论坛14|中国祖父母身份的人口学特征",
       "url": "https://sociology.shu.edu.cn/info/1105/44368.htm",

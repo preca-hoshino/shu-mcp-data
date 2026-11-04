@@ -2,16 +2,22 @@
   "domain": "ac.shu.edu.cn",
   "department": "上海大学学术委员会",
   "type": "02",
-  "crawl_time": "20261104_070152",
-  "total_articles": 209,
+  "crawl_time": "20261104_115259",
+  "total_articles": 211,
   "columns": {
-    "上大学术": 21,
+    "上大学术": 23,
     "学术资讯": 94,
     "学风建设": 65,
     "服务指南": 6,
     "通知发文": 23
   },
   "articles": [
+    {
+      "title": "上海大学第三届学术委员会第七次全体会议顺利召开",
+      "url": "https://ac.shu.edu.cn/info/1010/3164.htm",
+      "date": "2026-11-04",
+      "column": "上大学术"
+    },
     {
       "title": "习近平：在加强基础研究座谈会上的讲话",
       "url": "https://article.xuexi.cn/articles/index.html?art_id=9938761085669058498&source=share&study_style_id=feeds_default&reco_id=103b7a08651fc0a82218000y&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=9938761085669058498",
@@ -1259,6 +1265,12 @@
       "url": "https://ac.shu.edu.cn/info/1009/1274.htm",
       "date": "2019-12-09",
       "column": "通知发文"
+    },
+    {
+      "title": "我校召开第二届学术委员会第一次全体会议暨成立大会",
+      "url": "http://news.shu.edu.cn/info/1021/46467.htm",
+      "date": "2018-01-11",
+      "column": "上大学术"
     },
     {
       "title": "上海大学召开学术委员会全体会议",

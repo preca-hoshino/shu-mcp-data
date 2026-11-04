@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261104_070152",
+  "crawl_time": "20261104_115259",
   "total_articles": 575,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "关于上海大学专利类无形资产情况的公示 （2026年10月）",
+      "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=13032",
+      "date": "2026-11-04",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于组织开展 2026 年度创新生态建设计划“上海市国际联合实验室”项目申报工作的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/13052.htm",
+      "date": "2026-11-04",
+      "column": "通知公告"
+    },
     {
       "title": "关于开展2026年度长三角科技创新共同体联合攻关（基础研究）项目申报的通知",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=13022",
@@ -165,18 +177,6 @@
       "title": "市科委关于征集2026年度上海市概念验证项目的通知",
       "url": "https://mp.weixin.qq.com/s/cnAAJSAKzcwLvYUtZ_XPoQ",
       "date": "2026-10-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于做好2026年度“晨光计划”项目申报工作的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12712.htm",
-      "date": "2026-09-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于发布移动信息网络国家科技重大专项2026年度第三批项目申报指南（公开竞争）的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12732.htm",
-      "date": "2026-09-30",
       "column": "通知公告"
     },
     {

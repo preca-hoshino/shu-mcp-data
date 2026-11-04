@@ -2,17 +2,23 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20261104_070152",
-  "total_articles": 2006,
+  "crawl_time": "20261104_115259",
+  "total_articles": 2007,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
-    "学院周志": 317,
+    "学院周志": 318,
     "科研动态": 482,
     "综合新闻": 526,
     "通知公告": 431
   },
   "articles": [
+    {
+      "title": "文学院周志总第713期（2026年第29期，10月26日-11月1日）",
+      "url": "https://cla.shu.edu.cn/1zhouzhi713.pdf",
+      "date": "2026-11-04",
+      "column": "学院周志"
+    },
     {
       "title": "文学院周志总第712期（2026年第28期，10月19日-10月25日）",
       "url": "https://cla.shu.edu.cn/zhouzhi712.pdf",
