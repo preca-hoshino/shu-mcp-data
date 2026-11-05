@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261105_072853",
+  "crawl_time": "20261105_115448",
   "total_articles": 18414,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,54 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "理学院化学系谭启涛教授、许斌教授团队在《Journal of the American Chemical Society》上发表最新研究成果",
+      "url": "https://www.shu.edu.cn/info/1055/402845.htm",
+      "date": "2026-11-05",
+      "column": "科研动态"
+    },
+    {
+      "title": "我校国际学生在第二届长三角高校来华留学研究生学术交流活动中喜获佳绩",
+      "url": "https://www.shu.edu.cn/info/1056/402805.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学受邀在2026中国国际教育年会国际传播平行论坛作主旨发言",
+      "url": "https://www.shu.edu.cn/info/1056/402815.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "学消防、强技能、保平安——我校开展教职工消防安全技能培训",
+      "url": "https://www.shu.edu.cn/info/1056/402825.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "第八届“政党治理·申城论坛”在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/402835.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学举办先进材料领域高中生学科体验营开营仪式",
+      "url": "https://www.shu.edu.cn/info/1056/402855.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "机自学院彭晨教授牵头的成果荣获2026年度中国仿真学会高等教育教学成果特等奖",
+      "url": "https://www.shu.edu.cn/info/1056/402875.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
+    {
+      "title": "校党委第一巡察组与未来技术学院党委联组学习党的二十届五中全会精神",
+      "url": "https://www.shu.edu.cn/info/1056/402885.htm",
+      "date": "2026-11-05",
+      "column": "综合新闻"
+    },
     {
       "title": "国际档案理事会上海学术中心正式揭牌，2026国际档案研修班同步开课",
       "url": "https://mp.weixin.qq.com/s/iAHC7YsfjGjAOuINUwmBxA",
@@ -22,42 +70,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402685.htm",
       "date": "2026-11-02",
       "column": "科研动态"
-    },
-    {
-      "title": "亚洲文化遗产保护 人工智能与数智化国际研修班上海大学阶段教学顺利开启",
-      "url": "https://www.shu.edu.cn/info/1056/402695.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学8刊入选2026年度中国高校科技期刊建设示范案例库",
-      "url": "https://www.shu.edu.cn/info/1056/402705.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "为产育人 为城服务｜上海大学携手顺丰速运共同开启“产教融合”新实践",
-      "url": "https://www.shu.edu.cn/info/1056/402715.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学首届“稀客论坛”举办",
-      "url": "https://www.shu.edu.cn/info/1056/402725.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "2026年上海大学外国语言文学学科发展战略专家咨询会议顺利召开",
-      "url": "https://www.shu.edu.cn/info/1056/402735.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
-    },
-    {
-      "title": "法学院袁曾老师获第八届“上海市杰出青年法学家”提名奖荣誉称号",
-      "url": "https://www.shu.edu.cn/info/1056/402745.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
     },
     {
       "title": "医学院卞月珉教授团队在2026书生国智AI4S科探挑战赛生命科学赛道荣获一等奖",
@@ -82,12 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1051/402675.htm",
       "date": "2026-10-31",
       "column": "通知公告"
-    },
-    {
-      "title": "深耕思政课堂 涵养廉洁文化——马克思主义学院召开全体教职工政治理论学习会",
-      "url": "https://www.shu.edu.cn/info/1056/402665.htm",
-      "date": "2026-10-30",
-      "column": "综合新闻"
     },
     {
       "title": "法学院2026年度国家社科基金等项目立项再创佳绩",
@@ -153,12 +159,6 @@
       "title": "理学院物理系尹鑫茂教授团队在《Applied Physics Reviews》上发表二维量子材料新成果",
       "url": "https://www.shu.edu.cn/info/1055/401995.htm",
       "date": "2026-10-22",
-      "column": "科研动态"
-    },
-    {
-      "title": "理学院物理系邢凯健、尹鑫茂在Cell子刊《Matter》发表低维集成电路研究成果",
-      "url": "https://www.shu.edu.cn/info/1055/401855.htm",
-      "date": "2026-10-21",
       "column": "科研动态"
     },
     {
