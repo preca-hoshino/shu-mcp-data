@@ -2,14 +2,20 @@
   "domain": "ai.shu.edu.cn",
   "department": "上海大学未来技术学院",
   "type": "03",
-  "crawl_time": "20261104_192530",
-  "total_articles": 87,
+  "crawl_time": "20261105_072853",
+  "total_articles": 88,
   "columns": {
     "媒体聚焦": 3,
-    "新闻动态": 66,
+    "新闻动态": 67,
     "通知公告": 18
   },
   "articles": [
+    {
+      "title": "校党委第一巡察组与未来技术学院党委联组学习党的二十届五中全会精神",
+      "url": "https://ai.shu.edu.cn/info/1045/4248.htm",
+      "date": "2026-11-05",
+      "column": "新闻动态"
+    },
     {
       "title": "关于公布2026年度上海大学未来技术学院重点课程立项结果的通知",
       "url": "https://ai.shu.edu.cn/info/1150/4218.htm",

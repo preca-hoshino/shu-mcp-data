@@ -2,14 +2,38 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261104_192530",
-  "total_articles": 1826,
+  "crawl_time": "20261105_072853",
+  "total_articles": 1828,
   "columns": {
     "政策文件": 58,
-    "新闻动态": 43,
+    "新闻动态": 45,
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于做好2026年12月本科毕业生申请学士学位工作的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322734.htm",
+      "date": "2026-11-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于在高端芯片设计与EDA领域开展产教研协同育人开放课题申报的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322764.htm",
+      "date": "2026-11-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年度本科专业动态优化调整产教协同育人重点项目名单公示",
+      "url": "https://bksy.shu.edu.cn/info/1015/322774.htm",
+      "date": "2026-11-05",
+      "column": "通知公告"
+    },
+    {
+      "title": "上海大学副校长于雪梅带队赴云南开展交流  纵深推进沪滇大中协同育人",
+      "url": "https://bksy.shu.edu.cn/info/1016/322724.htm",
+      "date": "2026-11-05",
+      "column": "新闻动态"
+    },
     {
       "title": "关于开展2026年工程教育认证申请工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322664.htm",
@@ -21,6 +45,12 @@
       "url": "https://bksy.shu.edu.cn/info/1015/322684.htm",
       "date": "2026-11-04",
       "column": "通知公告"
+    },
+    {
+      "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（生命科学学院、环境与化学工程学院联合专场）",
+      "url": "https://bksy.shu.edu.cn/info/1016/322704.htm",
+      "date": "2026-11-04",
+      "column": "新闻动态"
     },
     {
       "title": "上海大学2026年集成电路领域本科生“一生一芯”高端芯片设计与EDA揭榜实践项目阶段性评审结果公布",
@@ -134,24 +164,6 @@
       "title": "2026-2027学年秋季学期上海大学教师校内自习辅导信息表",
       "url": "https://bksy.shu.edu.cn/info/1015/322194.htm",
       "date": "2026-10-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于国庆假期A楼、C楼教室施工的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/322134.htm",
-      "date": "2026-09-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于申报第十九届全国大学生创新创业年会项目的通知",
-      "url": "https://bksy.shu.edu.cn/info/1015/322144.htm",
-      "date": "2026-09-30",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2026年度校级本科教材跃升项目申报工作的通知（本科生院〔2026〕35号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/322154.htm",
-      "date": "2026-09-30",
       "column": "通知公告"
     },
     {

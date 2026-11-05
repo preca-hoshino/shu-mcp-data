@@ -2,16 +2,22 @@
   "domain": "czb.shu.edu.cn",
   "department": "上海大学采购与招标管理中心",
   "type": "18",
-  "crawl_time": "20261104_192530",
-  "total_articles": 157,
+  "crawl_time": "20261105_072853",
+  "total_articles": 159,
   "columns": {
-    "工作动态": 60,
+    "工作动态": 62,
     "成交公告": 22,
     "服务指南": 22,
     "通知公告": 31,
     "采购公告": 22
   },
   "articles": [
+    {
+      "title": "互学互鉴促规范 交流研讨提质效 ——上海海事大学采招中心一行来校调研采购管理工作",
+      "url": "https://czb.shu.edu.cn/info/1121/3382.htm",
+      "date": "2026-11-05",
+      "column": "工作动态"
+    },
     {
       "title": "2026年8-9月暑假采购与招标管理中心值班日程表",
       "url": "https://czb.shu.edu.cn/info/1015/3372.htm",
@@ -581,6 +587,12 @@
       "url": "https://czb.shu.edu.cn/info/1120/1820.htm",
       "date": "2020-12-03",
       "column": "服务指南"
+    },
+    {
+      "title": "采招办党支部王林军书记上党课：学习贯彻党的十九届五中全会精神--做好“十四五”规划，努力形成一流的采购管理机制",
+      "url": "https://czb.shu.edu.cn/info/1121/1813.htm",
+      "date": "2020-12-01",
+      "column": "工作动态"
     },
     {
       "title": "采招办开展“电影党课”主题活动",

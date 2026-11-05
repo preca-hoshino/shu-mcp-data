@@ -2,17 +2,23 @@
   "domain": "ece.shu.edu.cn",
   "department": "上海大学环境与化学工程学院",
   "type": "01",
-  "crawl_time": "20261104_192530",
-  "total_articles": 1007,
+  "crawl_time": "20261105_072853",
+  "total_articles": 1008,
   "columns": {
     "学术报告": 79,
     "学院新闻": 399,
     "本科生教学": 74,
-    "研究生教学": 216,
+    "研究生教学": 217,
     "科研动态": 118,
     "通知公告": 121
   },
   "articles": [
+    {
+      "title": "关于开展2027年硕士研究生硕博连读申请推荐与资格认定工作的通知",
+      "url": "https://ece.shu.edu.cn/info/1304/90434.htm",
+      "date": "2026-11-05",
+      "column": "研究生教学"
+    },
     {
       "title": "环境与化学工程学院开展实验室个体防护用品专项培训与实操考核",
       "url": "https://ece.shu.edu.cn/info/1149/90394.htm",

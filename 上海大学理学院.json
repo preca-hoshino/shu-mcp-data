@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261104_192530",
-  "total_articles": 3987,
+  "crawl_time": "20261105_072853",
+  "total_articles": 3988,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -13,9 +13,15 @@
     "研究生新闻": 50,
     "科研动态": 315,
     "综合新闻": 634,
-    "通知公告": 159
+    "通知公告": 160
   },
   "articles": [
+    {
+      "title": "理学院2026年度比亚迪奖学金（本科生）推荐人员名单公示",
+      "url": "https://scicol.shu.edu.cn/info/1006/34705.htm",
+      "date": "2026-11-05",
+      "column": "通知公告"
+    },
     {
       "title": "数学系Seminar第3104讲 扇形型区域中二维欧拉方程齐次解的刚性",
       "url": "https://scicol.shu.edu.cn/info/1003/34665.htm",

@@ -2,15 +2,27 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261104_192530",
-  "total_articles": 449,
+  "crawl_time": "20261105_072853",
+  "total_articles": 451,
   "columns": {
     "学术报告": 143,
-    "科研动态": 81,
+    "科研动态": 83,
     "综合新闻": 63,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "我院张统一院士、孙升研究员在力学超材料智能设计方面取得新进展",
+      "url": "https://mgi.shu.edu.cn/info/1063/7805.htm",
+      "date": "2026-11-05",
+      "column": "科研动态"
+    },
+    {
+      "title": "我院在“华为杯”第八届中国研究生人工智能创新大赛中斩获佳绩",
+      "url": "https://mgi.shu.edu.cn/info/1063/7815.htm",
+      "date": "2026-11-05",
+      "column": "科研动态"
+    },
     {
       "title": "我院孙强、蔡亮亮课题组在表面化学反应和单分子操纵取得新进展",
       "url": "https://mgi.shu.edu.cn/info/1063/7775.htm",

@@ -2,14 +2,32 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261104_192530",
-  "total_articles": 815,
+  "crawl_time": "20261105_072853",
+  "total_articles": 818,
   "columns": {
-    "学术活动": 203,
+    "学术活动": 206,
     "学院新闻": 98,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "1108上海管理论坛第585期（曹劲副教授，日本横滨国立大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92885.htm",
+      "date": "2026-11-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "1112上海管理论坛第586期（黄蓉教授，复旦大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92895.htm",
+      "date": "2026-11-05",
+      "column": "学术活动"
+    },
+    {
+      "title": "1118上海管理论坛第587期（曾庆生教授，上海财经大学）",
+      "url": "https://ms.shu.edu.cn/info/1246/92905.htm",
+      "date": "2026-11-05",
+      "column": "学术活动"
+    },
     {
       "title": "上大管院与AOM、IACMR开展学术交流活动",
       "url": "https://ms.shu.edu.cn/info/1244/92865.htm",

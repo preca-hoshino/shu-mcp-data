@@ -2,12 +2,18 @@
   "domain": "bkzsw.shu.edu.cn",
   "department": "上海大学本科招生网",
   "type": "10",
-  "crawl_time": "20261104_192530",
-  "total_articles": 38,
+  "crawl_time": "20261105_072853",
+  "total_articles": 39,
   "columns": {
-    "最新公告": 38
+    "最新公告": 39
   },
   "articles": [
+    {
+      "title": "关于2026年上海大学本科招生宣传工作先进集体和先进个人候选对象的公示",
+      "url": "https://bkzsw.shu.edu.cn/info/1798/39060.htm",
+      "date": "2026-11-05",
+      "column": "最新公告"
+    },
     {
       "title": "上海大学2027年艺术类本科专业与各省统考子科类对照表",
       "url": "https://bkzsw.shu.edu.cn/info/1798/39020.htm",
