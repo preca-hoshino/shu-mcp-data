@@ -2,12 +2,12 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261106_153825",
-  "total_articles": 1805,
+  "crawl_time": "20261106_185614",
+  "total_articles": 1804,
   "columns": {
     "学院新闻": 553,
     "招生热讯": 82,
-    "通知公告": 1170
+    "通知公告": 1169
   },
   "articles": [
     {
@@ -27,12 +27,6 @@
       "url": "https://cce.shu.edu.cn/info/1550/21254.htm",
       "date": "2026-11-06",
       "column": "学院新闻"
-    },
-    {
-      "title": "上海大学2026年成人高考报名申请免试入学名单公示",
-      "url": "https://cce.shu.edu.cn/info/1464/21224.htm",
-      "date": "2026-11-02",
-      "column": "通知公告"
     },
     {
       "title": "为产育人 为城服务｜上海大学携手顺丰速运共同开启“产教融合”新实践",
