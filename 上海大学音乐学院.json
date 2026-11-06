@@ -2,10 +2,10 @@
   "domain": "music.shu.edu.cn",
   "department": "上海大学音乐学院",
   "type": "04",
-  "crawl_time": "20261105_193318",
-  "total_articles": 148,
+  "crawl_time": "20261106_072809",
+  "total_articles": 153,
   "columns": {
-    "学院新闻": 28,
+    "学院新闻": 33,
     "热点新闻": 90,
     "通知公告": 30
   },
@@ -863,16 +863,46 @@
       "column": "热点新闻"
     },
     {
+      "title": "上海大学第十届运动会盛大开幕",
+      "url": "https://music.shu.edu.cn/info/1174/3784.htm",
+      "date": "2013-10-29",
+      "column": "学院新闻"
+    },
+    {
       "title": "“我爱小提琴”夏小曹副院长携二十名上海大学同学与以色列小提琴大师Mintz同台演出",
       "url": "https://music.shu.edu.cn/info/1173/3474.htm",
       "date": "2013-10-28",
       "column": "热点新闻"
     },
     {
+      "title": "我校李建林教授荣获“第三届全国高校音乐专业声乐比赛”教师组美声唱法一等奖",
+      "url": "https://music.shu.edu.cn/info/1174/3782.htm",
+      "date": "2013-10-28",
+      "column": "学院新闻"
+    },
+    {
+      "title": "“我爱小提琴”夏小曹副院长携二十名上海大学同学与以色列小提琴大师Mintz同台演出",
+      "url": "https://music.shu.edu.cn/info/1174/3783.htm",
+      "date": "2013-10-28",
+      "column": "学院新闻"
+    },
+    {
       "title": "澳门交响乐团联合上海学生交响乐团将在我校演出《贝多芬专场交响音乐会》",
       "url": "https://music.shu.edu.cn/info/1173/3473.htm",
       "date": "2013-10-24",
       "column": "热点新闻"
+    },
+    {
+      "title": "音乐学院王力舟同学的科研项目入选2013年度“国家创新创业训练计划”项目",
+      "url": "https://music.shu.edu.cn/info/1174/3847.htm",
+      "date": "2013-10-24",
+      "column": "学院新闻"
+    },
+    {
+      "title": "音乐学院师生共庆教师节",
+      "url": "https://music.shu.edu.cn/info/1174/3781.htm",
+      "date": "2013-09-10",
+      "column": "学院新闻"
     },
     {
       "title": "我校王思思老师荣获第五届全国高校声乐比赛教师组民族唱法金奖",

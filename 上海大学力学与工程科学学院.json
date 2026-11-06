@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261105_193318",
-  "total_articles": 274,
+  "crawl_time": "20261106_072809",
+  "total_articles": 276,
   "columns": {
-    "学术报告": 61,
+    "学术报告": 63,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
@@ -14,6 +14,18 @@
     "通知公告": 39
   },
   "articles": [
+    {
+      "title": "2026委内瑞拉双震震害调查与工程启示",
+      "url": "https://smes.shu.edu.cn/info/1014/10995.htm",
+      "date": "2026-11-06",
+      "column": "学术报告"
+    },
+    {
+      "title": "奇思妙想话土木海洋",
+      "url": "https://smes.shu.edu.cn/info/1014/10985.htm",
+      "date": "2026-10-30",
+      "column": "学术报告"
+    },
     {
       "title": "关于举办第七届国际工程力学竞赛（亚洲赛区）校内选...",
       "url": "https://smes.shu.edu.cn/info/1015/10975.htm",

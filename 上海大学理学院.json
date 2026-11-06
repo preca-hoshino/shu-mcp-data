@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261105_193318",
+  "crawl_time": "20261106_072809",
   "total_articles": 3988,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,18 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第839讲 Moiré 时间晶体——Floquet 调控的超冷原子时空动力学与精密测量应用",
+      "url": "https://scicol.shu.edu.cn/info/1003/34715.htm",
+      "date": "2026-11-06",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第840讲 自旋轨道耦合超冷原子的Goos-Hanchen位移",
+      "url": "https://scicol.shu.edu.cn/info/1003/34725.htm",
+      "date": "2026-11-06",
+      "column": "学术报告"
+    },
     {
       "title": "理学院2026年度比亚迪奖学金（本科生）推荐人员名单公示",
       "url": "https://scicol.shu.edu.cn/info/1006/34705.htm",
@@ -503,12 +515,6 @@
       "column": "学术报告"
     },
     {
-      "title": "物理学科Seminar第823讲 无辅助复本阴影：量子态非线性性质高效估计方法",
-      "url": "https://scicol.shu.edu.cn/info/1003/33455.htm",
-      "date": "2026-07-09",
-      "column": "学术报告"
-    },
-    {
       "title": "2026年ICQ亚洲营在上海大学举办",
       "url": "https://scicol.shu.edu.cn/info/1007/33425.htm",
       "date": "2026-07-09",
@@ -537,12 +543,6 @@
       "url": "https://scicol.shu.edu.cn/info/1008/33385.htm",
       "date": "2026-07-03",
       "column": "科研动态"
-    },
-    {
-      "title": "数学学科Seminar第3072讲 满足原始能量耗散Patlak-Keller-Segel系统的二阶数值格式",
-      "url": "https://scicol.shu.edu.cn/info/1003/33355.htm",
-      "date": "2026-06-30",
-      "column": "学术报告"
     },
     {
       "title": "化学学科召开全体党员大会暨全系工作大会",

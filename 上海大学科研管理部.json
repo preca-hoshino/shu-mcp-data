@@ -2,7 +2,7 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261105_193318",
+  "crawl_time": "20261106_072809",
   "total_articles": 575,
   "columns": {
     "办事流程": 8,
@@ -11,6 +11,18 @@
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "中国三峡集团关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知",
+      "url": "https://kyglb.shu.edu.cn/info/1011/13062.htm",
+      "date": "2026-11-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "【开放课题】先进特殊钢全国重点实验室2026年开放课题申请指南",
+      "url": "https://mp.weixin.qq.com/s/r1QlcNE81Pc4XwHoqjV_IA",
+      "date": "2026-11-06",
+      "column": "通知公告"
+    },
     {
       "title": "关于上海大学专利类无形资产情况的公示 （2026年10月）",
       "url": "https://kyglb.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1011&wbnewsid=13032",
@@ -166,18 +178,6 @@
       "url": "https://mp.weixin.qq.com/s/0bkU8OQE6uQi4USd2dPQMw",
       "date": "2026-10-10",
       "column": "科技动态"
-    },
-    {
-      "title": "关于举办首届上海大学技术经理人实务专项培训的通知",
-      "url": "https://kyglb.shu.edu.cn/info/1011/12742.htm",
-      "date": "2026-10-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "市科委关于征集2026年度上海市概念验证项目的通知",
-      "url": "https://mp.weixin.qq.com/s/cnAAJSAKzcwLvYUtZ_XPoQ",
-      "date": "2026-10-08",
-      "column": "通知公告"
     },
     {
       "title": "院士专家齐聚静安，共探新型显示与超高清视听产业新未来——新型显示技术及应用集成教育部重点实验室 20...",

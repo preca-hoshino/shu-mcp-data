@@ -2,7 +2,7 @@
   "domain": "mba.shu.edu.cn",
   "department": "上海大学MBA教育管理中心",
   "type": "29",
-  "crawl_time": "20261105_193318",
+  "crawl_time": "20261106_072809",
   "total_articles": 633,
   "columns": {
     "焦点新闻": 376,
@@ -10,6 +10,18 @@
     "通知公告": 63
   },
   "articles": [
+    {
+      "title": "上海大学MBA中心2026届优秀学位论文分享会成功举办",
+      "url": "https://mp.weixin.qq.com/s/Mgmc194l5npFKmr7BV8dBg",
+      "date": "2026-11-06",
+      "column": "论坛活动"
+    },
+    {
+      "title": "《From Potential Identification to Workplace Competitiveness》专题讲座圆满举办",
+      "url": "https://mp.weixin.qq.com/s/N9oIhG_YhDG7gNFvQzjOyA",
+      "date": "2026-11-06",
+      "column": "论坛活动"
+    },
     {
       "title": "上海大学MBA2026年值年返校活动预告与征集",
       "url": "https://mp.weixin.qq.com/s/Wxbjfezs2DMiyTYtTwqzjA",
@@ -272,18 +284,6 @@
       "title": "师者嘉言励前行|上海大学MBA中心2026年春季学期圆满收官",
       "url": "https://mp.weixin.qq.com/s/eHpBFGyt9T6mgUrbZtemnA",
       "date": "2026-07-28",
-      "column": "论坛活动"
-    },
-    {
-      "title": "25GC专精特新专业方向《特色化产品与服务创新管理》课堂教学与实践",
-      "url": "https://mp.weixin.qq.com/s/nViWB0RvmADm6LYjmJNpoQ",
-      "date": "2026-07-24",
-      "column": "论坛活动"
-    },
-    {
-      "title": "上大MBA学子邢聪荣获上海大学“学生党员先锋”称号",
-      "url": "https://mp.weixin.qq.com/s/EEDsopa4FtZfr0EbkZE-xg",
-      "date": "2026-07-23",
       "column": "论坛活动"
     },
     {

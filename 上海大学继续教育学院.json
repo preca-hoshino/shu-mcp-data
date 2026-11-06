@@ -2,14 +2,32 @@
   "domain": "cce.shu.edu.cn",
   "department": "上海大学继续教育学院",
   "type": "09",
-  "crawl_time": "20261105_193318",
-  "total_articles": 1802,
+  "crawl_time": "20261106_072809",
+  "total_articles": 1805,
   "columns": {
-    "学院新闻": 552,
-    "招生热讯": 81,
-    "通知公告": 1169
+    "学院新闻": 553,
+    "招生热讯": 82,
+    "通知公告": 1170
   },
   "articles": [
+    {
+      "title": "2026年上海大学造型艺术研修班招生简章",
+      "url": "https://cce.shu.edu.cn/info/1013/21294.htm",
+      "date": "2026-11-06",
+      "column": "招生热讯"
+    },
+    {
+      "title": "2026年下半年上海大学自学考试考后信息",
+      "url": "https://cce.shu.edu.cn/info/1542/21264.htm",
+      "date": "2026-11-06",
+      "column": "通知公告"
+    },
+    {
+      "title": "2026年宝山区新兴领域党建工作指导员暨党建服务专员培训班圆满结业",
+      "url": "https://cce.shu.edu.cn/info/1550/21254.htm",
+      "date": "2026-11-06",
+      "column": "学院新闻"
+    },
     {
       "title": "上海大学2026年成人高考报名申请免试入学名单公示",
       "url": "https://cce.shu.edu.cn/info/1464/21224.htm",

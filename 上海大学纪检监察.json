@@ -2,12 +2,18 @@
   "domain": "jwjc.shu.edu.cn",
   "department": "上海大学纪检监察",
   "type": "04",
-  "crawl_time": "20261105_193318",
-  "total_articles": 32,
+  "crawl_time": "20261106_072809",
+  "total_articles": 33,
   "columns": {
-    "工作动态": 32
+    "工作动态": 33
   },
   "articles": [
+    {
+      "title": "2026年学校纪检干部培训班开班",
+      "url": "https://jwjc.shu.edu.cn/info/1040/8831.htm",
+      "date": "2026-11-06",
+      "column": "工作动态"
+    },
     {
       "title": "校纪委赴上海交大纪委调研学习",
       "url": "https://jwjc.shu.edu.cn/info/1040/8631.htm",

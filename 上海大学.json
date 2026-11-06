@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261105_193318",
+  "crawl_time": "20261106_072809",
   "total_articles": 18414,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学—贵州省优质高中人才培养座谈交流会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/402895.htm",
+      "date": "2026-11-06",
+      "column": "综合新闻"
+    },
     {
       "title": "理学院化学系谭启涛教授、许斌教授团队在《Journal of the American Chemical Society》上发表最新研究成果",
       "url": "https://www.shu.edu.cn/info/1055/402845.htm",
@@ -70,12 +76,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402685.htm",
       "date": "2026-11-02",
       "column": "科研动态"
-    },
-    {
-      "title": "医学院卞月珉教授团队在2026书生国智AI4S科探挑战赛生命科学赛道荣获一等奖",
-      "url": "https://www.shu.edu.cn/info/1056/402755.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
     },
     {
       "title": "博思启智，薪火相传——沈学础院士做客钱伟长学院“博思沙龙”",

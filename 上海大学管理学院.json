@@ -2,14 +2,32 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261105_193318",
-  "total_articles": 818,
+  "crawl_time": "20261106_072809",
+  "total_articles": 821,
   "columns": {
     "学术活动": 206,
-    "学院新闻": 98,
+    "学院新闻": 101,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "香港科技大学商学院王丹青教授做客上海管理论坛分享《基于中国情境的研...",
+      "url": "https://ms.shu.edu.cn/info/1244/92915.htm",
+      "date": "2026-11-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "深耕会计工程 赋能数智未来——管理学院师生代表应邀参加中国会计学会高...",
+      "url": "https://ms.shu.edu.cn/info/1244/92925.htm",
+      "date": "2026-11-06",
+      "column": "学院新闻"
+    },
+    {
+      "title": "上海大学管理学院5位学者入选2026年度斯坦福“全球前2%顶尖科学家”榜单",
+      "url": "https://ms.shu.edu.cn/info/1244/92935.htm",
+      "date": "2026-11-06",
+      "column": "学院新闻"
+    },
     {
       "title": "1108上海管理论坛第585期（曹劲副教授，日本横滨国立大学）",
       "url": "https://ms.shu.edu.cn/info/1246/92885.htm",
