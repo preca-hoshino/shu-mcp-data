@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261106_072809",
+  "crawl_time": "20261106_115120",
   "total_articles": 18414,
   "columns": {
     "科研动态": 1644,
@@ -14,6 +14,12 @@
     {
       "title": "上海大学—贵州省优质高中人才培养座谈交流会顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/402895.htm",
+      "date": "2026-11-06",
+      "column": "综合新闻"
+    },
+    {
+      "title": "俄罗斯圣彼得堡邦奇-布鲁耶维奇国立电信大学代表团访问上海大学",
+      "url": "https://www.shu.edu.cn/info/1056/402905.htm",
       "date": "2026-11-06",
       "column": "综合新闻"
     },
@@ -76,12 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402685.htm",
       "date": "2026-11-02",
       "column": "科研动态"
-    },
-    {
-      "title": "博思启智，薪火相传——沈学础院士做客钱伟长学院“博思沙龙”",
-      "url": "https://www.shu.edu.cn/info/1056/402765.htm",
-      "date": "2026-11-02",
-      "column": "综合新闻"
     },
     {
       "title": "学思践悟 砺师强能——喀什大学青年骨干教师能力提升培训班在上海大学顺利举办",
