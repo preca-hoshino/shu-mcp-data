@@ -2,10 +2,10 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261108_144434",
-  "total_articles": 2033,
+  "crawl_time": "20261108_173935",
+  "total_articles": 2042,
   "columns": {
-    "学术报告": 518,
+    "学术报告": 527,
     "教学信息": 22,
     "新闻动态": 1272,
     "通知公告": 221
@@ -16,6 +16,12 @@
       "url": "https://scie.shu.edu.cn/info/1064/47205.htm",
       "date": "2026-10-30",
       "column": "新闻动态"
+    },
+    {
+      "title": "行健讲坛 №555 －Hollow-Core Fibers assisted spectroscopy of gases",
+      "url": "https://scie.shu.edu.cn/info/1067/47165.htm",
+      "date": "2026-10-22",
+      "column": "学术报告"
     },
     {
       "title": "访企拓岗促合作 产教融合谋新局 —— 通信学院赴移远通信开展校企走访交流",
@@ -42,6 +48,12 @@
       "column": "新闻动态"
     },
     {
+      "title": "行健讲坛 №554 －有限码长信息论基础理论研究",
+      "url": "https://scie.shu.edu.cn/info/1067/47075.htm",
+      "date": "2026-10-12",
+      "column": "学术报告"
+    },
+    {
       "title": "通信学院2026-2027学年秋季学期自习辅导安排表",
       "url": "https://scie.shu.edu.cn/info/1070/47065.htm",
       "date": "2026-10-12",
@@ -52,6 +64,18 @@
       "url": "https://scie.shu.edu.cn/info/1065/47055.htm",
       "date": "2026-10-10",
       "column": "通知公告"
+    },
+    {
+      "title": "行健讲坛 №552 －面向学生与学者的远程实验室合作模式",
+      "url": "https://scie.shu.edu.cn/info/1067/47025.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "行健讲坛 №553 －分解与合并：通向近最优译码之路",
+      "url": "https://scie.shu.edu.cn/info/1067/47035.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
     },
     {
       "title": "通信与信息工程学院2026年校长奖学金、研究生国家奖学金评审实施细则",
@@ -126,6 +150,18 @@
       "column": "新闻动态"
     },
     {
+      "title": "行健讲坛 №549 －迈向视觉智能：从视觉语言关系推理到部件发现",
+      "url": "https://scie.shu.edu.cn/info/1067/46765.htm",
+      "date": "2026-06-30",
+      "column": "学术报告"
+    },
+    {
+      "title": "行健讲坛 №550 －从模型到智能体：面向真实场景下的学习、行动与适应",
+      "url": "https://scie.shu.edu.cn/info/1067/46775.htm",
+      "date": "2026-06-30",
+      "column": "学术报告"
+    },
+    {
       "title": "信载星河，通途万里｜通信学院（翔英学院）2026年毕业典礼暨学位授予仪式顺利举行",
       "url": "https://scie.shu.edu.cn/info/1064/46735.htm",
       "date": "2026-06-29",
@@ -142,6 +178,24 @@
       "url": "https://scie.shu.edu.cn/info/1064/46685.htm",
       "date": "2026-06-17",
       "column": "新闻动态"
+    },
+    {
+      "title": "行健讲坛 №546 －超冷原子-离子与原子-分子碰撞的量子调控",
+      "url": "https://scie.shu.edu.cn/info/1067/46695.htm",
+      "date": "2026-06-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "行健讲坛 №547 －面向数据中心应用的硅光子技术",
+      "url": "https://scie.shu.edu.cn/info/1067/46705.htm",
+      "date": "2026-06-16",
+      "column": "学术报告"
+    },
+    {
+      "title": "行健讲坛 №548 －基于微波的无创癌症热疗和脑成像研究进展",
+      "url": "https://scie.shu.edu.cn/info/1067/46715.htm",
+      "date": "2026-06-16",
+      "column": "学术报告"
     },
     {
       "title": "喜报 | 我院科创团队在“挑战杯”市赛中斩获多项奖项！",
