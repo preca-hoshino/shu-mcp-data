@@ -2,15 +2,21 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261107_172851",
-  "total_articles": 18414,
+  "crawl_time": "20261108_064656",
+  "total_articles": 18415,
   "columns": {
     "科研动态": 1644,
     "综合新闻": 16285,
-    "通知公告": 455,
+    "通知公告": 456,
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "关于发布区人大代表换届选举正式代表候选人名单（三号公告）的通知",
+      "url": "https://www.shu.edu.cn/info/1051/402935.htm",
+      "date": "2026-11-08",
+      "column": "通知公告"
+    },
     {
       "title": "上海大学—贵州省优质高中人才培养座谈交流会顺利举行",
       "url": "https://www.shu.edu.cn/info/1056/402895.htm",
