@@ -2,16 +2,16 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261108_110403",
-  "total_articles": 3965,
+  "crawl_time": "20261108_144434",
+  "total_articles": 3987,
   "columns": {
-    "主办会议": 42,
-    "学术报告": 2639,
+    "主办会议": 41,
+    "学术报告": 2654,
     "本科生教务": 39,
     "本科生新闻": 49,
     "研究生教务": 45,
     "研究生新闻": 50,
-    "科研动态": 307,
+    "科研动态": 315,
     "综合新闻": 634,
     "通知公告": 160
   },
@@ -69,6 +69,12 @@
       "url": "https://scicol.shu.edu.cn/info/1003/34695.htm",
       "date": "2026-11-04",
       "column": "学术报告"
+    },
+    {
+      "title": "化学系谭启涛教授、许斌教授团队在《Journal of the American Chemical Society》上发表最新...",
+      "url": "https://scicol.shu.edu.cn/info/1008/34655.htm",
+      "date": "2026-11-03",
+      "column": "科研动态"
     },
     {
       "title": "上海大学首届“稀客论坛”举办",
@@ -221,6 +227,12 @@
       "column": "学术报告"
     },
     {
+      "title": "理学院物理系尹鑫茂教授团队在《Applied Physics Reviews》上发表二维量子材料新成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/34365.htm",
+      "date": "2026-10-22",
+      "column": "科研动态"
+    },
+    {
       "title": "量子科技研究院Seminar第120讲暨物理学科Seminar第836讲 高温超导铜氧化物同质薄膜中的可扩展...",
       "url": "https://scicol.shu.edu.cn/info/1003/34335.htm",
       "date": "2026-10-21",
@@ -263,6 +275,30 @@
       "column": "综合新闻"
     },
     {
+      "title": "理学院物理系邢凯健、尹鑫茂在Cell子刊《Matter》发表低维集成电路研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/34285.htm",
+      "date": "2026-10-19",
+      "column": "科研动态"
+    },
+    {
+      "title": "数学学科Seminar第3080讲 松弛贪婪随机Kaczmarz算法的精细误差界",
+      "url": "https://scicol.shu.edu.cn/info/1003/34205.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3084讲 对称与非对称锥优化的数值方法",
+      "url": "https://scicol.shu.edu.cn/info/1003/34215.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3083讲 有理顶点算子代数",
+      "url": "https://scicol.shu.edu.cn/info/1003/34225.htm",
+      "date": "2026-10-15",
+      "column": "学术报告"
+    },
+    {
       "title": "物理学科Seminar第835讲 原初黑洞与高阶曲率效应",
       "url": "https://scicol.shu.edu.cn/info/1003/34235.htm",
       "date": "2026-10-15",
@@ -275,16 +311,64 @@
       "column": "学术报告"
     },
     {
-      "title": "International Workshop on Applied Mathematics and Scientific Computing (IWAMSC)",
-      "url": "https://scicol.shu.edu.cn/info/1005/34115.htm",
-      "date": "2026-10-10",
-      "column": "主办会议"
+      "title": "数学学科Seminar第3080讲 关于Michael-Simon类型的索伯列夫不等式的当今研究",
+      "url": "https://scicol.shu.edu.cn/info/1003/34195.htm",
+      "date": "2026-10-14",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理系宋宏伟课题组在《Nature Communications》上发表有关1.54 μm近红外发射的研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/34155.htm",
+      "date": "2026-10-14",
+      "column": "科研动态"
+    },
+    {
+      "title": "物理学科Seminar第834讲 量子光学相干介质与量子原子气体中的莫尔物理",
+      "url": "https://scicol.shu.edu.cn/info/1003/34125.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3077讲 基于模型驱动的神经网络应用",
+      "url": "https://scicol.shu.edu.cn/info/1003/34135.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "数学学科Seminar第3078讲 如何上好一堂课",
+      "url": "https://scicol.shu.edu.cn/info/1003/34145.htm",
+      "date": "2026-10-13",
+      "column": "学术报告"
+    },
+    {
+      "title": "物理学科Seminar第833讲 单光子弗洛凯调控非厄米拓扑的观测",
+      "url": "https://scicol.shu.edu.cn/info/1003/34105.htm",
+      "date": "2026-10-08",
+      "column": "学术报告"
+    },
+    {
+      "title": "理学院物理系宋宏伟课题组在《ACS Energy Letters》上发表钙钛矿量子点近红外发光的研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/34065.htm",
+      "date": "2026-09-29",
+      "column": "科研动态"
     },
     {
       "title": "关于2026年理学院研究生奖学金申报事宜的通知",
       "url": "https://scicol.shu.edu.cn/info/1009/34055.htm",
       "date": "2026-09-28",
       "column": "研究生教务"
+    },
+    {
+      "title": "量子科技研究院Seminar第118讲暨物理学科Seminar第831讲 二维超导材料中的奇异相",
+      "url": "https://scicol.shu.edu.cn/info/1003/33985.htm",
+      "date": "2026-09-23",
+      "column": "学术报告"
+    },
+    {
+      "title": "量子科技研究院Seminar第119讲暨物理学科Seminar第832讲 基于本征约瑟夫森结的高温超导量子器...",
+      "url": "https://scicol.shu.edu.cn/info/1003/33995.htm",
+      "date": "2026-09-23",
+      "column": "学术报告"
     },
     {
       "title": "奖助励学启新程 校企协同育英才—— 理学院数学系举行2026年阳阳教育基金颁奖典礼暨新致班开...",
@@ -297,6 +381,18 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33965.htm",
       "date": "2026-09-21",
       "column": "综合新闻"
+    },
+    {
+      "title": "物理系尹鑫茂课题组在《Nature Communications》上发表最新成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/33945.htm",
+      "date": "2026-09-20",
+      "column": "科研动态"
+    },
+    {
+      "title": "量子科技研究院seminar第117讲暨物理学科Seminar第830讲 跨越两种不同能标的电子–玻色子相互...",
+      "url": "https://scicol.shu.edu.cn/info/1003/33925.htm",
+      "date": "2026-09-18",
+      "column": "学术报告"
     },
     {
       "title": "2026军训实录:理院学子的迷彩时光",
@@ -329,10 +425,22 @@
       "column": "通知公告"
     },
     {
+      "title": "化学系钱汇东、赵宏滨研究团队在《ACS Energy Letters》上发表最新研究成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/33795.htm",
+      "date": "2026-09-03",
+      "column": "科研动态"
+    },
+    {
       "title": "理学院2026年度国家自然科学基金资助再创佳绩",
       "url": "https://scicol.shu.edu.cn/info/1007/33755.htm",
       "date": "2026-08-27",
       "column": "综合新闻"
+    },
+    {
+      "title": "物理学科Seminar第829讲 自动化计算工作流程加速对不对称催化的机理理解",
+      "url": "https://scicol.shu.edu.cn/info/1003/33745.htm",
+      "date": "2026-08-18",
+      "column": "学术报告"
     },
     {
       "title": "理学院化学系学生在第十四届全国大学生化学实验竞赛总决赛中喜获佳绩",
@@ -345,6 +453,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33715.htm",
       "date": "2026-08-10",
       "column": "综合新闻"
+    },
+    {
+      "title": "物理学科Seminar第828讲 化学特异性超分辨成像：从中红外光热显微技术到结构光照明",
+      "url": "https://scicol.shu.edu.cn/info/1003/33685.htm",
+      "date": "2026-07-31",
+      "column": "学术报告"
     },
     {
       "title": "校党委书记吴坚勇带队调研理学院基础学科建设工作",
@@ -365,6 +479,12 @@
       "column": "通知公告"
     },
     {
+      "title": "量子科技研究院seminar第116讲暨物理学科Seminar第827讲 量子多体计算导论",
+      "url": "https://scicol.shu.edu.cn/info/1003/33555.htm",
+      "date": "2026-07-20",
+      "column": "学术报告"
+    },
+    {
       "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",
       "url": "https://scicol.shu.edu.cn/info/1007/33565.htm",
       "date": "2026-07-20",
@@ -375,6 +495,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33575.htm",
       "date": "2026-07-20",
       "column": "综合新闻"
+    },
+    {
+      "title": "量子科技研究院seminar 第115讲暨物理学科Seminar第826讲 耗散自旋链中的强量子姆潘巴效应",
+      "url": "https://scicol.shu.edu.cn/info/1003/33505.htm",
+      "date": "2026-07-16",
+      "column": "学术报告"
     },
     {
       "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",
@@ -405,6 +531,12 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33395.htm",
       "date": "2026-07-06",
       "column": "综合新闻"
+    },
+    {
+      "title": "物理系博士生在《Journal of Colloid and Interface Science》上发表最新成果",
+      "url": "https://scicol.shu.edu.cn/info/1008/33385.htm",
+      "date": "2026-07-03",
+      "column": "科研动态"
     },
     {
       "title": "化学学科召开全体党员大会暨全系工作大会",

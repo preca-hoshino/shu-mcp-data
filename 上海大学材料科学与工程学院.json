@@ -2,15 +2,15 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261108_110403",
-  "total_articles": 1695,
+  "crawl_time": "20261108_144434",
+  "total_articles": 1713,
   "columns": {
     "学术动态": 90,
     "学院新闻": 1113,
-    "报告讲座": 132,
+    "报告讲座": 137,
     "科研动态": 40,
-    "通知公告(教师)": 24,
-    "通知公告(本科生)": 114,
+    "通知公告(教师)": 30,
+    "通知公告(本科生)": 121,
     "通知公告(研究生)": 182
   },
   "articles": [
@@ -37,6 +37,12 @@
       "url": "https://mat.shu.edu.cn/info/1012/31638.htm",
       "date": "2026-11-03",
       "column": "学院新闻"
+    },
+    {
+      "title": "11月4日：《To be an engineer, What’s next?》——论述能力体系与核心竞争力",
+      "url": "https://mat.shu.edu.cn/info/1015/31628.htm",
+      "date": "2026-11-03",
+      "column": "报告讲座"
     },
     {
       "title": "【本科生】材料学院上海大学2026年度比亚迪奖学金候选人推荐公示",
@@ -145,6 +151,12 @@
       "url": "https://mat.shu.edu.cn/info/1016/31398.htm",
       "date": "2026-10-16",
       "column": "科研动态"
+    },
+    {
+      "title": "材料学院2026年度“人工智能+”虚拟仿真实验教学项目申报推荐公示",
+      "url": "https://mat.shu.edu.cn/info/1020/31388.htm",
+      "date": "2026-10-16",
+      "column": "通知公告(教师)"
     },
     {
       "title": "第四届上海材料前沿论坛(SHMat2026)第一轮通知",
@@ -267,6 +279,12 @@
       "column": "通知公告(研究生)"
     },
     {
+      "title": "【本】材料科学与工程学院2026年度宝钢优秀学生奖初评推荐名单公示",
+      "url": "https://mat.shu.edu.cn/info/1018/31108.htm",
+      "date": "2026-09-16",
+      "column": "通知公告(本科生)"
+    },
+    {
       "title": "【本】材料科学与工程学院2025-2026学年国家奖学金与上海市奖学金初评推荐名单公示",
       "url": "https://mat.shu.edu.cn/info/1018/31118.htm",
       "date": "2026-09-16",
@@ -285,16 +303,34 @@
       "column": "通知公告(研究生)"
     },
     {
+      "title": "9月15日：氯化焙烧工艺及装备设计",
+      "url": "https://mat.shu.edu.cn/info/1015/31078.htm",
+      "date": "2026-09-14",
+      "column": "报告讲座"
+    },
+    {
       "title": "高彦峰教授团队在《Review of Materials Research》发表废锂电池正极材料回收领域重要研究成...",
       "url": "https://mat.shu.edu.cn/info/1016/31058.htm",
       "date": "2026-09-11",
       "column": "科研动态"
     },
     {
+      "title": "上海大学材料科学与工程学院2025-2026学年“金发科技”奖学金评选通知",
+      "url": "https://mat.shu.edu.cn/info/1018/31048.htm",
+      "date": "2026-09-11",
+      "column": "通知公告(本科生)"
+    },
+    {
       "title": "CAST受邀在全国现代连铸‑轧制技术研讨会作专题报告",
       "url": "https://mat.shu.edu.cn/info/1012/31038.htm",
       "date": "2026-09-10",
       "column": "学院新闻"
+    },
+    {
+      "title": "9月9日：基于热处理和表面工程优化增材制造金属的微观组织",
+      "url": "https://mat.shu.edu.cn/info/1015/31018.htm",
+      "date": "2026-09-04",
+      "column": "报告讲座"
     },
     {
       "title": "高彦峰教授团队在《Nano-Micro Letters》上发表最新研究成果",
@@ -339,10 +375,22 @@
       "column": "通知公告(研究生)"
     },
     {
+      "title": "8月30日：Ion irradiation of high entropy materials",
+      "url": "https://mat.shu.edu.cn/info/1015/30898.htm",
+      "date": "2026-08-27",
+      "column": "报告讲座"
+    },
+    {
       "title": "关于推荐张隆兴同学申报2026年中国科协青年科技人才培育工程博士生专项计划的公示",
       "url": "https://mat.shu.edu.cn/info/1019/30908.htm",
       "date": "2026-08-27",
       "column": "通知公告(研究生)"
+    },
+    {
+      "title": "8月14日：Two-dimensional Materials: A Multidisciplinary Approach to Data Storage, Multi...",
+      "url": "https://mat.shu.edu.cn/info/1015/30868.htm",
+      "date": "2026-08-11",
+      "column": "报告讲座"
     },
     {
       "title": "先进特殊钢全国重点实验室任忠鸣和帅三三教授团队在《Acta Materialia》发表磁场调控固/液界...",
@@ -363,10 +411,28 @@
       "column": "学术动态"
     },
     {
+      "title": "材料学院2026暑假值班安排",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1018&wbnewsid=30778",
+      "date": "2026-07-27",
+      "column": "通知公告(本科生)"
+    },
+    {
+      "title": "材料学院2026暑假值班安排",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30768",
+      "date": "2026-07-27",
+      "column": "通知公告(教师)"
+    },
+    {
       "title": "核电关键材料全国重点实验室卞西磊副研究员在《Materials Today》上发表最新研究成果",
       "url": "https://mat.shu.edu.cn/info/1016/30748.htm",
       "date": "2026-07-24",
       "column": "科研动态"
+    },
+    {
+      "title": "材料科学与工程学院和核电关键材料全国重点实验室 2025-2026学年年度考核优秀名单公示",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30678",
+      "date": "2026-07-21",
+      "column": "通知公告(教师)"
     },
     {
       "title": "2025级材工系研究生第二、第三党支部联合开展“光影忆四渡 红心向未来”主题党日活动",
@@ -375,10 +441,34 @@
       "column": "学术动态"
     },
     {
+      "title": "上大材〔2026〕18号-材料科学与工程学院关于加强教职工请假与考勤管理的通知",
+      "url": "https://mat.shu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=30608",
+      "date": "2026-07-08",
+      "column": "通知公告(教师)"
+    },
+    {
       "title": "高彦峰教授/赵起副教授在《Nature Communications》上发表最新研究成果",
       "url": "https://mat.shu.edu.cn/info/1016/30588.htm",
       "date": "2026-07-07",
       "column": "科研动态"
+    },
+    {
+      "title": "【本、研】上海大学材料科学与工程学院第二十三次学生代表大会、  第二十三次研究生代表大会...",
+      "url": "https://mat.shu.edu.cn/info/1018/30528.htm",
+      "date": "2026-07-06",
+      "column": "通知公告(本科生)"
+    },
+    {
+      "title": "材料学院（含核电全重）关于做好2026年教职工 年度考核、聘期考核、续聘和岗位等级晋升工作的...",
+      "url": "https://mat.shu.edu.cn/info/1020/30558.htm",
+      "date": "2026-07-06",
+      "column": "通知公告(教师)"
+    },
+    {
+      "title": "【本、研】材料学院2026年暑期社会实践立项公示",
+      "url": "https://mat.shu.edu.cn/info/1018/30498.htm",
+      "date": "2026-07-03",
+      "column": "通知公告(本科生)"
     },
     {
       "title": "如何让生物墨水\"一步成型\"？单酶级分层组装给出新解",
@@ -409,6 +499,18 @@
       "url": "https://mat.shu.edu.cn/info/1016/30328.htm",
       "date": "2026-06-17",
       "column": "科研动态"
+    },
+    {
+      "title": "【本】2026年材料科学与工程学院学生会换届选举通知",
+      "url": "https://mat.shu.edu.cn/info/1018/30298.htm",
+      "date": "2026-06-16",
+      "column": "通知公告(本科生)"
+    },
+    {
+      "title": "【本、研】2026年上海大学材料科学与工程学院团委学生组织学生骨干换届选拔通知",
+      "url": "https://mat.shu.edu.cn/info/1018/30308.htm",
+      "date": "2026-06-16",
+      "column": "通知公告(本科生)"
     },
     {
       "title": "世界首次！低密度中锰钢连铸连轧全流程工业化生产技术取得里程碑进展",
@@ -9827,6 +9929,12 @@
     {
       "title": "关于张夏聪等4人中级专业技术职务聘任结果的通知",
       "url": "https://mat.shu.edu.cn/info/1020/1241.htm",
+      "date": "2019-04-18",
+      "column": "通知公告(教师)"
+    },
+    {
+      "title": "关于开展2019年百千万人才工程国家级人选选拔工作的通知",
+      "url": "https://mat.shu.edu.cn/info/1020/1242.htm",
       "date": "2019-04-18",
       "column": "通知公告(教师)"
     },
