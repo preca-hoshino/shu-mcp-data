@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261108_173935",
+  "crawl_time": "20261109_071941",
   "total_articles": 1828,
   "columns": {
     "政策文件": 58,
@@ -10,6 +10,12 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于2027届毕业生游泳测试指导班开班的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322784.htm",
+      "date": "2026-11-09",
+      "column": "通知公告"
+    },
     {
       "title": "关于做好2026年12月本科毕业生申请学士学位工作的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322734.htm",
@@ -158,12 +164,6 @@
       "title": "2026-2027学年秋季学期上海大学教师校内自习辅导信息表",
       "url": "https://bksy.shu.edu.cn/info/1015/322194.htm",
       "date": "2026-10-08",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2026年度校级本科教材跃升项目申报工作的通知（本科生院〔2026〕35号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/322154.htm",
-      "date": "2026-09-30",
       "column": "通知公告"
     },
     {

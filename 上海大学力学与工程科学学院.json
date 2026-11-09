@@ -2,10 +2,10 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261108_173935",
-  "total_articles": 276,
+  "crawl_time": "20261109_071941",
+  "total_articles": 277,
   "columns": {
-    "学术报告": 63,
+    "学术报告": 64,
     "学生信息": 41,
     "教学动态": 23,
     "教师风采": 5,
@@ -14,6 +14,12 @@
     "通知公告": 39
   },
   "articles": [
+    {
+      "title": "钱伟长力学SEMINAR 1015：力化耦合的固液界面动力学",
+      "url": "https://smes.shu.edu.cn/info/1014/11005.htm",
+      "date": "2026-11-09",
+      "column": "学术报告"
+    },
     {
       "title": "2026委内瑞拉双震震害调查与工程启示",
       "url": "https://smes.shu.edu.cn/info/1014/10995.htm",

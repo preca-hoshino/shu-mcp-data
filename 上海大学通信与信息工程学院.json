@@ -2,15 +2,27 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261108_173935",
-  "total_articles": 2042,
+  "crawl_time": "20261109_071941",
+  "total_articles": 2044,
   "columns": {
-    "学术报告": 527,
+    "学术报告": 529,
     "教学信息": 22,
     "新闻动态": 1272,
     "通知公告": 221
   },
   "articles": [
+    {
+      "title": "行健讲坛 №556 －法医临床学：从法庭科学到人工智能",
+      "url": "https://scie.shu.edu.cn/info/1067/47215.htm",
+      "date": "2026-11-09",
+      "column": "学术报告"
+    },
+    {
+      "title": "行健讲坛 №557 －人工智能在法医精神病鉴定和研究中的现状和挑战",
+      "url": "https://scie.shu.edu.cn/info/1067/47225.htm",
+      "date": "2026-11-09",
+      "column": "学术报告"
+    },
     {
       "title": "深化校企协同创新，聚力产教融合育人 —— 通信与信息工程学院与华为无线研究部开展校企合作交流会",
       "url": "https://scie.shu.edu.cn/info/1064/47205.htm",

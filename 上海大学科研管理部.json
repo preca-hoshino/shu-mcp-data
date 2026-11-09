@@ -2,15 +2,21 @@
   "domain": "kyglb.shu.edu.cn",
   "department": "上海大学科研管理部",
   "type": "16",
-  "crawl_time": "20261108_173935",
-  "total_articles": 575,
+  "crawl_time": "20261109_071941",
+  "total_articles": 576,
   "columns": {
     "办事流程": 8,
     "技术需求": 47,
-    "科技动态": 88,
+    "科技动态": 89,
     "通知公告": 432
   },
   "articles": [
+    {
+      "title": "第二届冶金行业重点实验室建设联席会在上海大学顺利召开",
+      "url": "https://mp.weixin.qq.com/s/UgUn7P97vCa9D8KxwWRu2w",
+      "date": "2026-11-09",
+      "column": "科技动态"
+    },
     {
       "title": "中国三峡集团关于发布“三峡水运新通道数智增效”重点专项2026年度公开竞争项目申报指南的通知",
       "url": "https://kyglb.shu.edu.cn/info/1011/13062.htm",
@@ -250,12 +256,6 @@
       "url": "https://kyglb.shu.edu.cn/info/1082/12342.htm",
       "date": "2026-08-27",
       "column": "技术需求"
-    },
-    {
-      "title": "加速科学数据落地应用，2026年度高质量科学数据集对接会举办",
-      "url": "https://mp.weixin.qq.com/s/yBooa5peHo7nttDRajXGgg",
-      "date": "2026-08-27",
-      "column": "科技动态"
     },
     {
       "title": "关于开展2026年度普陀区科创企业“种子计划” （第二批）申报工作的通知",
@@ -3410,6 +3410,12 @@
     {
       "title": "上海大学理学院量子与分子结构国际中心博士生发表第一作者PNAS论文",
       "url": "https://kyglb.shu.edu.cn/info/1012/1741.htm",
+      "date": "2018-10-22",
+      "column": "科技动态"
+    },
+    {
+      "title": "“医疗器械智能制造技术与仿真”研讨会成功召开",
+      "url": "https://kyglb.shu.edu.cn/info/1012/1742.htm",
       "date": "2018-10-22",
       "column": "科技动态"
     },

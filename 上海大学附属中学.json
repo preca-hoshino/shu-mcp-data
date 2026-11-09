@@ -2,7 +2,7 @@
   "domain": "sdfz.shu.edu.cn",
   "department": "上海大学附属中学",
   "type": "16",
-  "crawl_time": "20261108_173935",
+  "crawl_time": "20261109_071941",
   "total_articles": 682,
   "columns": {
     "招生招聘": 40,
@@ -12,6 +12,12 @@
     "通知公告": 79
   },
   "articles": [
+    {
+      "title": "学生菜单及陪餐公示（2026.11.16-2026.11.22）",
+      "url": "https://sdfz.shu.edu.cn/info/1109/10628.htm",
+      "date": "2026-11-16",
+      "column": "通知公告"
+    },
     {
       "title": "学生菜单及陪餐公示（2026.11.09-2026.11.15）",
       "url": "https://sdfz.shu.edu.cn/info/1109/10568.htm",
@@ -166,12 +172,6 @@
       "title": "2026学年10月10日菜品图片公示",
       "url": "https://sdfz.shu.edu.cn/info/1109/10368.htm",
       "date": "2026-10-10",
-      "column": "通知公告"
-    },
-    {
-      "title": "2026学年10月08日菜品图片公示",
-      "url": "https://sdfz.shu.edu.cn/info/1109/10348.htm",
-      "date": "2026-10-09",
       "column": "通知公告"
     },
     {

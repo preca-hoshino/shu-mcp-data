@@ -2,13 +2,25 @@
   "domain": "dwygb.shu.edu.cn",
   "department": "上海大学党委研究生工作部",
   "type": "04",
-  "crawl_time": "20261108_173935",
-  "total_articles": 2819,
+  "crawl_time": "20261109_071941",
+  "total_articles": 2823,
   "columns": {
-    "新闻动态": 2601,
+    "新闻动态": 2605,
     "通知公告": 218
   },
   "articles": [
+    {
+      "title": "汇聚融媒力量！研究生融媒体骨干训练营顺利开展！",
+      "url": "https://mp.weixin.qq.com/s/rGSxQzs3AfRVhC72_lvf7Q",
+      "date": "2026-11-03",
+      "column": "新闻动态"
+    },
+    {
+      "title": "国奖+12！上海大学在“华为杯”第八届中国研究生人工智能创新大赛中斩获佳绩！",
+      "url": "https://mp.weixin.qq.com/s/txNvbOE-A2xOkr71rz6W2w",
+      "date": "2026-11-02",
+      "column": "新闻动态"
+    },
     {
       "title": "上海大学关于开展2026年度比亚迪奖学金评审工作的通知",
       "url": "https://dwygb.shu.edu.cn/info/1050/41579.htm",
@@ -32,6 +44,12 @@
       "url": "https://dwygb.shu.edu.cn/info/1050/41489.htm",
       "date": "2026-09-23",
       "column": "通知公告"
+    },
+    {
+      "title": "启航迎新季｜各学院新生开学第一课，开讲！①",
+      "url": "https://mp.weixin.qq.com/s/j8LEoTmS4fF89toeegru6A",
+      "date": "2026-09-23",
+      "column": "新闻动态"
     },
     {
       "title": "研途启新，逐光前行！上海大学2026年研究生开学典礼举行！",
@@ -289,6 +307,12 @@
       "title": "凝“新”赋能，聚力启程！新任研究生辅导员培训班圆满结束！",
       "url": "https://dwygb.shu.edu.cn/info/1053/40729.htm",
       "date": "2025-10-31",
+      "column": "新闻动态"
+    },
+    {
+      "title": "研行中华，燃创未来！上海大学研究生新时代伟大变革暑期实践活动评选结果出炉",
+      "url": "https://mp.weixin.qq.com/s/_5uYj0uR_k1CwshoM6IRUA",
+      "date": "2025-10-30",
       "column": "新闻动态"
     },
     {

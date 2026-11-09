@@ -2,17 +2,29 @@
   "domain": "cla.shu.edu.cn",
   "department": "上海大学文学院",
   "type": "14",
-  "crawl_time": "20261108_173935",
-  "total_articles": 2007,
+  "crawl_time": "20261109_071941",
+  "total_articles": 2009,
   "columns": {
     "学术报告": 103,
     "学生动态": 147,
     "学院周志": 318,
     "科研动态": 482,
-    "综合新闻": 526,
-    "通知公告": 431
+    "综合新闻": 527,
+    "通知公告": 432
   },
   "articles": [
+    {
+      "title": "文学院召开《写作与沟通》课程建设学期交流研讨会",
+      "url": "https://cla.shu.edu.cn/info/1015/54168.htm",
+      "date": "2026-11-09",
+      "column": "综合新闻"
+    },
+    {
+      "title": "文学院2025级学术型硕士研究生硕博连读预备生名单公示",
+      "url": "https://cla.shu.edu.cn/info/1017/54178.htm",
+      "date": "2026-11-09",
+      "column": "通知公告"
+    },
     {
       "title": "文学院周志总第713期（2026年第29期，10月26日-11月1日）",
       "url": "https://cla.shu.edu.cn/1zhouzhi713.pdf",

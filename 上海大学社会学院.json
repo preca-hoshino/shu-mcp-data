@@ -2,7 +2,7 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261108_173935",
+  "crawl_time": "20261109_071941",
   "total_articles": 2622,
   "columns": {
     "图片新闻": 122,
@@ -16,6 +16,12 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "2026-2027中国研究学术前沿讲座|解释、建构与新知：定性研究数据分析中的理论化工作",
+      "url": "https://sociology.shu.edu.cn/info/1105/44468.htm",
+      "date": "2026-11-09",
+      "column": "学术报告"
+    },
     {
       "title": "会议综述|第三届“社会工作与心理健康”工作坊成功举办",
       "url": "https://sociology.shu.edu.cn/info/1104/44418.htm",
@@ -530,12 +536,6 @@
       "title": "2026公共性论坛10|侠客、医生抑或老师？——儒家思想视域下社会工作者在中国社会的伦理角色研究",
       "url": "https://sociology.shu.edu.cn/info/1105/42328.htm",
       "date": "2026-06-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "2026公共性论坛08|作为文化体系的八字命理学——对当代中国社会中一种心灵秩序的研究",
-      "url": "https://sociology.shu.edu.cn/info/1105/42298.htm",
-      "date": "2026-06-23",
       "column": "学术报告"
     },
     {

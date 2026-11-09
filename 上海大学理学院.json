@@ -2,8 +2,8 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261108_173935",
-  "total_articles": 3988,
+  "crawl_time": "20261109_071941",
+  "total_articles": 3989,
   "columns": {
     "主办会议": 42,
     "学术报告": 2654,
@@ -12,10 +12,16 @@
     "研究生教务": 45,
     "研究生新闻": 50,
     "科研动态": 315,
-    "综合新闻": 634,
+    "综合新闻": 635,
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "借力进博平台，深化高水平对外开放——上海大学理学院与阿克苏诺贝尔签署粉末涂料合作备忘录",
+      "url": "https://scicol.shu.edu.cn/info/1007/34755.htm",
+      "date": "2026-11-09",
+      "column": "综合新闻"
+    },
     {
       "title": "物理学科Seminar第839讲 Moiré 时间晶体——Floquet 调控的超冷原子时空动力学与精密测量应用",
       "url": "https://scicol.shu.edu.cn/info/1003/34715.htm",

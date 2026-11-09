@@ -2,14 +2,50 @@
   "domain": "wmzx.shu.edu.cn",
   "department": "上海大学文明校园创建",
   "type": "28",
-  "crawl_time": "20261108_173935",
-  "total_articles": 160,
+  "crawl_time": "20261109_071941",
+  "total_articles": 161,
   "columns": {
     "文明创建": 33,
     "文明实践": 73,
-    "校园动态": 54
+    "校园动态": 55
   },
   "articles": [
+    {
+      "title": "国际档案理事会上海学术中心正式揭牌，2026国际档案研修班同...",
+      "url": "https://mp.weixin.qq.com/s/iAHC7YsfjGjAOuINUwmBxA",
+      "date": "2026-11-09",
+      "column": "校园动态"
+    },
+    {
+      "title": "学消防、强技能、保平安——我校开展教职工消防安全技能培训",
+      "url": "https://www.shu.edu.cn/info/1056/402825.htm",
+      "date": "2026-11-09",
+      "column": "文明实践"
+    },
+    {
+      "title": "第八届“政党治理·申城论坛”在上海大学举行",
+      "url": "https://www.shu.edu.cn/info/1056/402835.htm",
+      "date": "2026-11-09",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学举办先进材料领域高中生学科体验营开营仪式",
+      "url": "https://www.shu.edu.cn/info/1056/402855.htm",
+      "date": "2026-11-09",
+      "column": "文明实践"
+    },
+    {
+      "title": "校党委第一巡察组与未来技术学院党委联组学习党的二十届五中...",
+      "url": "https://www.shu.edu.cn/info/1056/402885.htm",
+      "date": "2026-11-09",
+      "column": "文明实践"
+    },
+    {
+      "title": "上海大学—贵州省优质高中人才培养座谈交流会顺利举行",
+      "url": "https://www.shu.edu.cn/info/1056/402895.htm",
+      "date": "2026-11-09",
+      "column": "文明实践"
+    },
     {
       "title": "上海大学举办人工智能赋能教师教学能力提升系列研讨会（理学...",
       "url": "https://www.shu.edu.cn/info/1056/402635.htm",
@@ -93,36 +129,6 @@
       "url": "https://www.shu.edu.cn/info/1053/402175.htm",
       "date": "2026-10-26",
       "column": "校园动态"
-    },
-    {
-      "title": "中欧二维材料与量子科技国际学术研讨会在沪举行",
-      "url": "https://www.shu.edu.cn/info/1056/402075.htm",
-      "date": "2026-10-26",
-      "column": "文明实践"
-    },
-    {
-      "title": "骑寻红色上大 砥砺育人初心​——校工会开展“寻访老上大旧址...",
-      "url": "https://www.shu.edu.cn/info/1056/402105.htm",
-      "date": "2026-10-26",
-      "column": "文明实践"
-    },
-    {
-      "title": "桑榆映书香 归来叙芳华——2026年图书馆敬老节“回娘家”活动...",
-      "url": "https://www.shu.edu.cn/info/1056/402135.htm",
-      "date": "2026-10-26",
-      "column": "文明实践"
-    },
-    {
-      "title": "《应用数学与计算数学学报（英文）》国际编委会在上海大学成...",
-      "url": "https://www.shu.edu.cn/info/1056/402185.htm",
-      "date": "2026-10-26",
-      "column": "文明实践"
-    },
-    {
-      "title": "上海大学召开四届党委第五轮巡察工作动员部署会",
-      "url": "https://www.shu.edu.cn/info/1056/401975.htm",
-      "date": "2026-10-22",
-      "column": "文明实践"
     },
     {
       "title": "党课开讲啦！传承红色基因 走好新时代的长征路！",
@@ -230,12 +236,6 @@
       "title": "砥砺初心使命 书写时代答卷——上海大学热烈庆祝中国共产党成...",
       "url": "https://mp.weixin.qq.com/s/nVBP2nioWGS-885ZX7tlVg",
       "date": "2026-07-07",
-      "column": "校园动态"
-    },
-    {
-      "title": "上海大学召开树立和践行正确政绩观学习教育警示教育会",
-      "url": "https://www.shu.edu.cn/info/1053/398575.htm",
-      "date": "2026-07-06",
       "column": "校园动态"
     },
     {
@@ -813,6 +813,12 @@
       "url": "https://wmzx.shu.edu.cn/info/1015/1061.htm",
       "date": "2018-02-06",
       "column": "文明创建"
+    },
+    {
+      "title": "关于开展上海大学第四届校园文化品牌网上投票评选的通知",
+      "url": "http://news.shu.edu.cn/info/1014/46485.htm",
+      "date": "2018-01-16",
+      "column": "校园动态"
     },
     {
       "title": "上海大学精神文明共建“最佳结对单位”评比办法",
