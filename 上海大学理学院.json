@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261109_071941",
+  "crawl_time": "20261109_123347",
   "total_articles": 3989,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,12 @@
     "通知公告": 160
   },
   "articles": [
+    {
+      "title": "物理学科Seminar第841讲 纳米结构材料中的超快非线性光学与Z扫描成像：在光-物质相互作用中测...",
+      "url": "https://scicol.shu.edu.cn/info/1003/34765.htm",
+      "date": "2026-11-09",
+      "column": "学术报告"
+    },
     {
       "title": "借力进博平台，深化高水平对外开放——上海大学理学院与阿克苏诺贝尔签署粉末涂料合作备忘录",
       "url": "https://scicol.shu.edu.cn/info/1007/34755.htm",
@@ -507,12 +513,6 @@
       "url": "https://scicol.shu.edu.cn/info/1007/33575.htm",
       "date": "2026-07-20",
       "column": "综合新闻"
-    },
-    {
-      "title": "量子科技研究院seminar 第115讲暨物理学科Seminar第826讲 耗散自旋链中的强量子姆潘巴效应",
-      "url": "https://scicol.shu.edu.cn/info/1003/33505.htm",
-      "date": "2026-07-16",
-      "column": "学术报告"
     },
     {
       "title": "上海大学理学院党委“全国党建工作标杆院系”复查通过公示",

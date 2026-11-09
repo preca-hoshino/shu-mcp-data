@@ -2,15 +2,21 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261109_071941",
-  "total_articles": 451,
+  "crawl_time": "20261109_123347",
+  "total_articles": 452,
   "columns": {
     "学术报告": 143,
     "科研动态": 83,
-    "综合新闻": 63,
+    "综合新闻": 64,
     "通知公告": 162
   },
   "articles": [
+    {
+      "title": "上海大学2026年青年学者论坛材料基因组专场顺利举办",
+      "url": "https://mgi.shu.edu.cn/info/1064/7835.htm",
+      "date": "2026-11-09",
+      "column": "综合新闻"
+    },
     {
       "title": "我院张统一院士、孙升研究员在力学超材料智能设计方面取得新进展",
       "url": "https://mgi.shu.edu.cn/info/1063/7805.htm",
@@ -1800,12 +1806,6 @@
       "column": "综合新闻"
     },
     {
-      "title": "上海大学第三届实验室安全文化月系列活动——实验室危险化学品泄漏应急演练",
-      "url": "https://mgi.shu.edu.cn/info/1064/2775.htm",
-      "date": "2020-12-18",
-      "column": "综合新闻"
-    },
-    {
       "title": "MGI硕博连读资格认定考核办法",
       "url": "https://mgi.shu.edu.cn/info/1062/2730.htm",
       "date": "2020-11-26",
@@ -2116,6 +2116,12 @@
       "url": "https://mgi.shu.edu.cn/info/1065/2173.htm",
       "date": "2018-02-02",
       "column": "学术报告"
+    },
+    {
+      "title": "专家传经送宝，助攻基金申报 ——MGI党支部“传帮带”系列活动之一",
+      "url": "https://mgi.shu.edu.cn/info/1064/1991.htm",
+      "date": "2018-01-31",
+      "column": "综合新闻"
     },
     {
       "title": "材料基因组工程研究院2018年新春联欢晚会完美落幕",

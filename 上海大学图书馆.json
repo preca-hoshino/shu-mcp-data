@@ -2,14 +2,20 @@
   "domain": "lib.shu.edu.cn",
   "department": "上海大学图书馆",
   "type": "06",
-  "crawl_time": "20261109_071941",
-  "total_articles": 122,
+  "crawl_time": "20261109_123347",
+  "total_articles": 123,
   "columns": {
     "公告信息": 38,
-    "图书馆新闻": 48,
+    "图书馆新闻": 49,
     "资源动态": 36
   },
   "articles": [
+    {
+      "title": "装备就位，技能上线｜图书馆开展心肺复苏与AED急救培训",
+      "url": "https://lib.shu.edu.cn/info/1024/7124.htm",
+      "date": "2026-11-09",
+      "column": "图书馆新闻"
+    },
     {
       "title": "LeapSpace—科研级AI平台试用通知",
       "url": "https://lib.shu.edu.cn/info/1023/7104.htm",

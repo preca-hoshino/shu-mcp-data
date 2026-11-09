@@ -2,13 +2,19 @@
   "domain": "jgzx.shu.edu.cn",
   "department": "上海大学上海经济管理中心",
   "type": "20",
-  "crawl_time": "20261109_071941",
-  "total_articles": 71,
+  "crawl_time": "20261109_123347",
+  "total_articles": 73,
   "columns": {
     "招生简章": 26,
-    "要闻速递": 45
+    "要闻速递": 47
   },
   "articles": [
+    {
+      "title": "经管中心开展部门团建、主题党日暨重阳敬老活动",
+      "url": "https://jgzx.shu.edu.cn/info/1017/15338.htm",
+      "date": "2026-11-09",
+      "column": "要闻速递"
+    },
     {
       "title": "上海大学-法国让穆兰里昂第三大学合作举办社会学专业硕士项目第十一期正式开班",
       "url": "https://jgzx.shu.edu.cn/info/1017/15268.htm",
@@ -380,6 +386,12 @@
       "url": "https://jgzx.shu.edu.cn/info/1019/2553.htm",
       "date": "2018-06-15",
       "column": "招生简章"
+    },
+    {
+      "title": "经管中心举办首期中国产权投资与企业并购高级研修班",
+      "url": "https://jgzx.shu.edu.cn/info/1017/2330.htm",
+      "date": "2014-01-23",
+      "column": "要闻速递"
     },
     {
       "title": "国务院发展研究中心张承惠所长来经管中心授课",

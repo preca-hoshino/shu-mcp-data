@@ -2,7 +2,7 @@
   "domain": "cs.shu.edu.cn",
   "department": "上海大学计算机工程与科学学院",
   "type": "15",
-  "crawl_time": "20261109_071941",
+  "crawl_time": "20261109_123347",
   "total_articles": 418,
   "columns": {
     "学术活动": 24,
@@ -11,6 +11,12 @@
     "风采展示": 22
   },
   "articles": [
+    {
+      "title": "华为技术有限公司一行到访上海大学计算机学院",
+      "url": "https://mp.weixin.qq.com/s/dxCrPw5X4uDEQSUutIa_jQ",
+      "date": "2026-11-01",
+      "column": "新闻动态"
+    },
     {
       "title": "喜报 | 全国一等奖+1！上海大学计算机学院研究生在第八届中国研究生人工智能创新大赛中斩获佳绩！",
       "url": "https://mp.weixin.qq.com/s/oYSWg6IxpUrBrFsH9TiTGA",
@@ -118,12 +124,6 @@
       "url": "https://cs.shu.edu.cn/info/1081/52051.htm",
       "date": "2026-09-01",
       "column": "重要通知"
-    },
-    {
-      "title": "逐梦启航，序启新章！计算机工程与科学学院2026级本科生迎新工作圆满落幕",
-      "url": "https://mp.weixin.qq.com/s/7FLO5KJDCmZH4U1kPR_rPA",
-      "date": "2026-09-01",
-      "column": "新闻动态"
     },
     {
       "title": "智启新程・数创未来 | 计算机学院学子参加2026华为全联接大会",

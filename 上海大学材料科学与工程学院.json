@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261109_071941",
+  "crawl_time": "20261109_123347",
   "total_articles": 1713,
   "columns": {
     "学术动态": 90,
@@ -25,6 +25,24 @@
       "url": "https://mat.shu.edu.cn/info/1012/31718.htm",
       "date": "2026-11-09",
       "column": "学院新闻"
+    },
+    {
+      "title": "聚焦关键核心材料，第四届上海材料前沿论坛（SHMat 2026）在上海大学圆满举办",
+      "url": "https://mat.shu.edu.cn/info/1012/31728.htm",
+      "date": "2026-11-09",
+      "column": "学院新闻"
+    },
+    {
+      "title": "“高炉炉缸的基于模型的分析”研讨会顺利举办",
+      "url": "https://mat.shu.edu.cn/info/1012/31748.htm",
+      "date": "2026-11-09",
+      "column": "学院新闻"
+    },
+    {
+      "title": "第113次院学位评定委员会会前准备工作的通知",
+      "url": "https://mat.shu.edu.cn/info/1019/31738.htm",
+      "date": "2026-11-09",
+      "column": "通知公告(研究生)"
     },
     {
       "title": "上海大学举办苏甘沪重点高中校长论坛",
@@ -261,12 +279,6 @@
       "column": "通知公告(本科生)"
     },
     {
-      "title": "先进凝固技术中心翟启杰、宋长江担任特邀主编的《钢铁研究学报》“冶金凝固过程与均质化技术...",
-      "url": "https://mat.shu.edu.cn/info/1012/31168.htm",
-      "date": "2026-09-20",
-      "column": "学院新闻"
-    },
-    {
       "title": "2026年度材料学院研究生宝钢奖学金推荐名单公示",
       "url": "https://mat.shu.edu.cn/info/1019/31158.htm",
       "date": "2026-09-18",
@@ -325,12 +337,6 @@
       "url": "https://mat.shu.edu.cn/info/1018/31048.htm",
       "date": "2026-09-11",
       "column": "通知公告(本科生)"
-    },
-    {
-      "title": "CAST受邀在全国现代连铸‑轧制技术研讨会作专题报告",
-      "url": "https://mat.shu.edu.cn/info/1012/31038.htm",
-      "date": "2026-09-10",
-      "column": "学院新闻"
     },
     {
       "title": "9月9日：基于热处理和表面工程优化增材制造金属的微观组织",
@@ -397,12 +403,6 @@
       "url": "https://mat.shu.edu.cn/info/1016/30858.htm",
       "date": "2026-08-07",
       "column": "科研动态"
-    },
-    {
-      "title": "毕业证领取通知（20260731）",
-      "url": "https://mat.shu.edu.cn/info/1019/30818.htm",
-      "date": "2026-07-31",
-      "column": "通知公告(研究生)"
     },
     {
       "title": "材料学院研究生党支部开展“凝心铸魂强党性 实干担当树政绩”主题党日",
