@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261109_215809",
+  "crawl_time": "20261110_075050",
   "total_articles": 18415,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,48 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "第二届冶金行业重点实验室建设联席会在上海大学顺利召开",
+      "url": "https://www.shu.edu.cn/info/1055/403225.htm",
+      "date": "2026-11-10",
+      "column": "科研动态"
+    },
+    {
+      "title": "第四届上海材料前沿论坛（SHMat 2026）在上海大学顺利举办",
+      "url": "https://www.shu.edu.cn/info/1055/403245.htm",
+      "date": "2026-11-10",
+      "column": "科研动态"
+    },
+    {
+      "title": "2026年学校纪检干部培训班开班",
+      "url": "https://www.shu.edu.cn/info/1056/403195.htm",
+      "date": "2026-11-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "借力进博平台，深化高水平对外开放——上海大学理学院与阿克苏诺贝尔签署粉末涂料合作备忘录",
+      "url": "https://www.shu.edu.cn/info/1056/403205.htm",
+      "date": "2026-11-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "经管中心开展部门团建、主题党日暨重阳敬老活动",
+      "url": "https://www.shu.edu.cn/info/1056/403215.htm",
+      "date": "2026-11-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "党建引领聚合力 科创攻坚建新功：第二届冶金行业重点实验室党组织书记论坛在上海大学举办",
+      "url": "https://www.shu.edu.cn/info/1056/403235.htm",
+      "date": "2026-11-10",
+      "column": "综合新闻"
+    },
+    {
+      "title": "上海大学第五届安全文化节顺利开幕",
+      "url": "https://www.shu.edu.cn/info/1056/403255.htm",
+      "date": "2026-11-10",
+      "column": "综合新闻"
+    },
     {
       "title": "上海大学管理学院5位学者入选2026年度斯坦福“全球前2%顶尖科学家”榜单",
       "url": "https://www.shu.edu.cn/info/1056/403165.htm",
@@ -52,36 +94,6 @@
       "url": "https://www.shu.edu.cn/info/1055/402845.htm",
       "date": "2026-11-05",
       "column": "科研动态"
-    },
-    {
-      "title": "学消防、强技能、保平安——我校开展教职工消防安全技能培训",
-      "url": "https://www.shu.edu.cn/info/1056/402825.htm",
-      "date": "2026-11-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "第八届“政党治理·申城论坛”在上海大学举行",
-      "url": "https://www.shu.edu.cn/info/1056/402835.htm",
-      "date": "2026-11-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "上海大学举办先进材料领域高中生学科体验营开营仪式",
-      "url": "https://www.shu.edu.cn/info/1056/402855.htm",
-      "date": "2026-11-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "机自学院彭晨教授牵头的成果荣获2026年度中国仿真学会高等教育教学成果特等奖",
-      "url": "https://www.shu.edu.cn/info/1056/402875.htm",
-      "date": "2026-11-05",
-      "column": "综合新闻"
-    },
-    {
-      "title": "校党委第一巡察组与未来技术学院党委联组学习党的二十届五中全会精神",
-      "url": "https://www.shu.edu.cn/info/1056/402885.htm",
-      "date": "2026-11-05",
-      "column": "综合新闻"
     },
     {
       "title": "国际档案理事会上海学术中心正式揭牌，2026国际档案研修班同步开课",
@@ -156,21 +168,9 @@
       "column": "重要新闻"
     },
     {
-      "title": "材料基因组工程研究院曹桂新教授团队在《Advanced Science》发表封面论文：在Co掺杂Mn₃Sn中实现宽温域室温巨大拓扑霍尔效应",
-      "url": "https://www.shu.edu.cn/info/1055/401985.htm",
-      "date": "2026-10-22",
-      "column": "科研动态"
-    },
-    {
       "title": "理学院物理系尹鑫茂教授团队在《Applied Physics Reviews》上发表二维量子材料新成果",
       "url": "https://www.shu.edu.cn/info/1055/401995.htm",
       "date": "2026-10-22",
-      "column": "科研动态"
-    },
-    {
-      "title": "材料学院纳米磁性材料团队低对称性金属间化合物织构变形机制取得重大研究进展",
-      "url": "https://www.shu.edu.cn/info/1055/401865.htm",
-      "date": "2026-10-21",
       "column": "科研动态"
     },
     {

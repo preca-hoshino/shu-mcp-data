@@ -2,19 +2,19 @@
   "domain": "qwc.shu.edu.cn",
   "department": "上海大学钱伟长学院",
   "type": "04",
-  "crawl_time": "20261109_215809",
+  "crawl_time": "20261110_075050",
   "total_articles": 714,
   "columns": {
     "学术报告": 220,
-    "最新动态": 382,
-    "通知公告": 112
+    "最新动态": 383,
+    "通知公告": 111
   },
   "articles": [
     {
-      "title": "钱伟长学院2026年度比亚迪奖学金初评推荐名单公示",
-      "url": "https://qwc.shu.edu.cn/info/1086/8729.htm",
-      "date": "2026-11-04",
-      "column": "通知公告"
+      "title": "汤谷智能董事长兼CEO刘丹做客钱伟长学院新智产教讲堂",
+      "url": "https://qwc.shu.edu.cn/info/1087/8739.htm",
+      "date": "2026-11-10",
+      "column": "最新动态"
     },
     {
       "title": "新智产业讲堂：AI EDA最新进展与产教融合实践",

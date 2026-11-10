@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261109_215809",
+  "crawl_time": "20261110_075050",
   "total_articles": 1828,
   "columns": {
     "政策文件": 58,
@@ -10,6 +10,12 @@
     "通知公告": 1725
   },
   "articles": [
+    {
+      "title": "关于公布2026年度上海大学校外实习实训示范基地的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322804.htm",
+      "date": "2026-11-10",
+      "column": "通知公告"
+    },
     {
       "title": "关于2027届毕业生游泳测试指导班开班的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322784.htm",
@@ -159,12 +165,6 @@
       "url": "https://bksy.shu.edu.cn/info/1016/322214.htm",
       "date": "2026-10-09",
       "column": "新闻动态"
-    },
-    {
-      "title": "2026-2027学年秋季学期上海大学教师校内自习辅导信息表",
-      "url": "https://bksy.shu.edu.cn/info/1015/322194.htm",
-      "date": "2026-10-08",
-      "column": "通知公告"
     },
     {
       "title": "2026年度课程思政教学改革项目负责人交流会顺利举办",

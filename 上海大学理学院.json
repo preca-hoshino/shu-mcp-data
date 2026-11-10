@@ -2,7 +2,7 @@
   "domain": "scicol.shu.edu.cn",
   "department": "上海大学理学院",
   "type": "10",
-  "crawl_time": "20261109_215809",
+  "crawl_time": "20261110_075050",
   "total_articles": 3988,
   "columns": {
     "主办会议": 42,
@@ -16,6 +16,12 @@
     "通知公告": 159
   },
   "articles": [
+    {
+      "title": "数学系Seminar第3108讲 不变测度的数值逼近：一个一般框架及其在不连续漂移 SDE 上的应用",
+      "url": "https://scicol.shu.edu.cn/info/1003/34775.htm",
+      "date": "2026-11-10",
+      "column": "学术报告"
+    },
     {
       "title": "物理学科Seminar第841讲 纳米结构材料中的超快非线性光学与Z扫描成像：在光-物质相互作用中测...",
       "url": "https://scicol.shu.edu.cn/info/1003/34765.htm",
@@ -489,12 +495,6 @@
       "url": "https://scicol.shu.edu.cn/info/1006/33605.htm",
       "date": "2026-07-22",
       "column": "通知公告"
-    },
-    {
-      "title": "量子科技研究院seminar第116讲暨物理学科Seminar第827讲 量子多体计算导论",
-      "url": "https://scicol.shu.edu.cn/info/1003/33555.htm",
-      "date": "2026-07-20",
-      "column": "学术报告"
     },
     {
       "title": "“烁灵杯”第二十届上海大学生化学实验竞赛暨实验创新设计竞赛在上海大学举行",

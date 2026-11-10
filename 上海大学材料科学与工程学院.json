@@ -2,7 +2,7 @@
   "domain": "mat.shu.edu.cn",
   "department": "上海大学材料科学与工程学院",
   "type": "01",
-  "crawl_time": "20261109_215809",
+  "crawl_time": "20261110_075050",
   "total_articles": 1713,
   "columns": {
     "学术动态": 90,
@@ -14,6 +14,12 @@
     "通知公告(研究生)": 182
   },
   "articles": [
+    {
+      "title": "第四届上海材料前沿论坛（2026 SHMat）青年学者论坛顺利举行",
+      "url": "https://mat.shu.edu.cn/info/1012/31758.htm",
+      "date": "2026-11-10",
+      "column": "学院新闻"
+    },
     {
       "title": "第二届冶金行业重点实验室建设联席会在上海大学顺利召开",
       "url": "https://mat.shu.edu.cn/info/1012/31698.htm",
@@ -265,12 +271,6 @@
       "url": "https://mat.shu.edu.cn/info/1019/31268.htm",
       "date": "2026-09-29",
       "column": "通知公告(研究生)"
-    },
-    {
-      "title": "“电弧炉烟尘与聚氯乙烯协同热处理”研讨会顺利举行",
-      "url": "https://mat.shu.edu.cn/info/1012/31228.htm",
-      "date": "2026-09-28",
-      "column": "学院新闻"
     },
     {
       "title": "“廷亚奖学金”评选活动报名及初选赛通知",
