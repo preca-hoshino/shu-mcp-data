@@ -2,15 +2,21 @@
   "domain": "scie.shu.edu.cn",
   "department": "上海大学通信与信息工程学院",
   "type": "10",
-  "crawl_time": "20261110_075050",
-  "total_articles": 2044,
+  "crawl_time": "20261110_121025",
+  "total_articles": 2045,
   "columns": {
     "学术报告": 529,
     "教学信息": 22,
     "新闻动态": 1272,
-    "通知公告": 221
+    "通知公告": 222
   },
   "articles": [
+    {
+      "title": "通信与信息工程学院2025-2026学年本科生秋季奖学金评审结果公示",
+      "url": "https://scie.shu.edu.cn/info/1065/47255.htm",
+      "date": "2026-11-10",
+      "column": "通知公告"
+    },
     {
       "title": "行健讲坛 №556 －法医临床学：从法庭科学到人工智能",
       "url": "https://scie.shu.edu.cn/info/1067/47215.htm",

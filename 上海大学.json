@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261110_075050",
+  "crawl_time": "20261110_121025",
   "total_articles": 18415,
   "columns": {
     "科研动态": 1644,
@@ -54,6 +54,12 @@
       "column": "综合新闻"
     },
     {
+      "title": "打造大宗商品全球定价基准和资源配置高地——我校举办2026进博会上海会议活动“大宗商品国际资源配置研讨会”",
+      "url": "https://www.shu.edu.cn/info/1056/403265.htm",
+      "date": "2026-11-10",
+      "column": "综合新闻"
+    },
+    {
       "title": "上海大学管理学院5位学者入选2026年度斯坦福“全球前2%顶尖科学家”榜单",
       "url": "https://www.shu.edu.cn/info/1056/403165.htm",
       "date": "2026-11-09",
@@ -76,12 +82,6 @@
       "url": "https://www.shu.edu.cn/info/1051/402935.htm",
       "date": "2026-11-08",
       "column": "通知公告"
-    },
-    {
-      "title": "上海大学—贵州省优质高中人才培养座谈交流会顺利举行",
-      "url": "https://www.shu.edu.cn/info/1056/402895.htm",
-      "date": "2026-11-06",
-      "column": "综合新闻"
     },
     {
       "title": "俄罗斯圣彼得堡邦奇-布鲁耶维奇国立电信大学代表团访问上海大学",

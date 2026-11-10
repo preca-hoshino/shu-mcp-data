@@ -2,19 +2,37 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20261110_075050",
-  "total_articles": 735,
+  "crawl_time": "20261110_121025",
+  "total_articles": 739,
   "columns": {
     "党建工作": 47,
-    "学术讲座": 59,
-    "学生工作": 42,
-    "学院新闻": 343,
+    "学术讲座": 61,
+    "学生工作": 43,
+    "学院新闻": 344,
     "展览展示": 24,
     "教学": 168,
     "科研": 35,
     "通知公告": 17
   },
   "articles": [
+    {
+      "title": "以磨砺之心，赴创新之约——第八届上海美术学院青年学术论坛成功举办",
+      "url": "https://safa.shu.edu.cn/info/1084/20190.htm",
+      "date": "2026-11-10",
+      "column": "学院新闻"
+    },
+    {
+      "title": "以磨砺之心，赴创新之约——第八届上海美术学院青年学术论坛成功举办",
+      "url": "https://safa.shu.edu.cn/info/1121/20200.htm",
+      "date": "2026-11-10",
+      "column": "学生工作"
+    },
+    {
+      "title": "从玛雅金字塔到复活节岛雕塑——拉丁美洲视觉文化之旅",
+      "url": "https://safa.shu.edu.cn/info/1117/20180.htm",
+      "date": "2026-11-02",
+      "column": "学术讲座"
+    },
     {
       "title": "上海美术学院召开安全工作专题会议",
       "url": "https://safa.shu.edu.cn/info/1084/20160.htm",
@@ -3842,6 +3860,12 @@
       "url": "https://safa.shu.edu.cn/info/1119/7178.htm",
       "date": "2020-11-17",
       "column": "教学"
+    },
+    {
+      "title": "海派绘画和张园项目",
+      "url": "https://safa.shu.edu.cn/info/1117/7147.htm",
+      "date": "2020-10-12",
+      "column": "学术讲座"
     },
     {
       "title": "当代中国画发展新趋势",
