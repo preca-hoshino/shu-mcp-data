@@ -2,15 +2,27 @@
   "domain": "mgi.shu.edu.cn",
   "department": "上海大学材料基因组工程研究院",
   "type": "04",
-  "crawl_time": "20261111_071840",
-  "total_articles": 452,
+  "crawl_time": "20261111_114155",
+  "total_articles": 455,
   "columns": {
-    "学术报告": 143,
+    "学术报告": 145,
     "科研动态": 83,
     "综合新闻": 64,
-    "通知公告": 162
+    "通知公告": 163
   },
   "articles": [
+    {
+      "title": "材料基因组工程研究院2027年硕博连读预备生申请名单公示",
+      "url": "https://mgi.shu.edu.cn/info/1062/7855.htm",
+      "date": "2026-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "MGI Seminar 第425讲：Prof. Sung Beom Cho （2026年11月13日 星期五 13:00）",
+      "url": "https://mgi.shu.edu.cn/info/1065/7845.htm",
+      "date": "2026-11-11",
+      "column": "学术报告"
+    },
     {
       "title": "上海大学2026年青年学者论坛材料基因组专场顺利举办",
       "url": "https://mgi.shu.edu.cn/info/1064/7835.htm",
@@ -2548,6 +2560,12 @@
       "url": "https://mgi.shu.edu.cn/info/1063/1706.htm",
       "date": "2015-12-29",
       "column": "科研动态"
+    },
+    {
+      "title": "MGI Seminar 第34讲：功能复杂氧化物薄膜的科学和工程 - 下一代高性能材料的设计",
+      "url": "https://mgi.shu.edu.cn/info/1065/2056.htm",
+      "date": "2015-10-21",
+      "column": "学术报告"
     },
     {
       "title": "MGI Seminar 第33讲：Big-Data Analytics for Materials Science: Concepts, Challenges, and Hype",

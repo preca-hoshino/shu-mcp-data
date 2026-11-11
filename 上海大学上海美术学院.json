@@ -2,19 +2,25 @@
   "domain": "safa.shu.edu.cn",
   "department": "上海大学上海美术学院",
   "type": "28",
-  "crawl_time": "20261111_071840",
-  "total_articles": 739,
+  "crawl_time": "20261111_114155",
+  "total_articles": 740,
   "columns": {
     "党建工作": 47,
     "学术讲座": 61,
     "学生工作": 43,
     "学院新闻": 344,
     "展览展示": 24,
-    "教学": 168,
+    "教学": 169,
     "科研": 35,
     "通知公告": 17
   },
   "articles": [
+    {
+      "title": "以美筑梦 协同育人｜清华附中志新学校师生到访上海美术学院开展研学交流",
+      "url": "https://safa.shu.edu.cn/info/1119/20210.htm",
+      "date": "2026-11-11",
+      "column": "教学"
+    },
     {
       "title": "以磨砺之心，赴创新之约——第八届上海美术学院青年学术论坛成功举办",
       "url": "https://safa.shu.edu.cn/info/1084/20190.htm",

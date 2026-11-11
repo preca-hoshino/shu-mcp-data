@@ -2,14 +2,14 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261111_071840",
-  "total_articles": 2623,
+  "crawl_time": "20261111_114155",
+  "total_articles": 2626,
   "columns": {
     "图片新闻": 122,
     "媒体报道": 67,
     "学术动态": 574,
     "学术报告": 163,
-    "学生动态": 584,
+    "学生动态": 587,
     "教学教务": 137,
     "校友活动": 32,
     "综合新闻": 888,
@@ -39,6 +39,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/44418.htm",
       "date": "2026-11-04",
       "column": "学术动态"
+    },
+    {
+      "title": "锚定职业方向 锤炼就业本领——上海大学社会学院2026年学生职业规划大赛顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1107/44508.htm",
+      "date": "2026-11-04",
+      "column": "学生动态"
     },
     {
       "title": "IIASA能力建设与学术培训部主任Fabian Wagner研究员受邀开展讲座",
@@ -191,6 +197,12 @@
       "column": "通知公告"
     },
     {
+      "title": "以“社会学的想象力”照亮职业选择 —社会学院就业指导系列讲座顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1107/44548.htm",
+      "date": "2026-09-30",
+      "column": "学生动态"
+    },
+    {
       "title": "青年报| 当青春遇见技能｜支教归来再赴世赛，他把世赛当成“社会学的课堂”",
       "url": "http://www.why.com.cn/wx/article/2026/09/22/17900805051130160226.html",
       "date": "2026-09-29",
@@ -207,6 +219,12 @@
       "url": "https://sociology.shu.edu.cn/info/1104/43788.htm",
       "date": "2026-09-24",
       "column": "学术动态"
+    },
+    {
+      "title": "以真诚为笔，以行动为履 ——社会学院应届生求职自我成长赋能分享会顺利举行",
+      "url": "https://sociology.shu.edu.cn/info/1107/44568.htm",
+      "date": "2026-09-24",
+      "column": "学生动态"
     },
     {
       "title": "《人民日报》|于春晖、黄晓春等：高质量推进城市更新是城市现代化建设的重要抓手（调查与思考）",

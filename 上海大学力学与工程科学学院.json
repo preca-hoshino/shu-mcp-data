@@ -2,8 +2,8 @@
   "domain": "smes.shu.edu.cn",
   "department": "上海大学力学与工程科学学院",
   "type": "28",
-  "crawl_time": "20261111_071840",
-  "total_articles": 277,
+  "crawl_time": "20261111_114155",
+  "total_articles": 278,
   "columns": {
     "学术报告": 64,
     "学生信息": 41,
@@ -11,9 +11,15 @@
     "教师风采": 5,
     "科研动态": 59,
     "综合新闻": 46,
-    "通知公告": 39
+    "通知公告": 40
   },
   "articles": [
+    {
+      "title": "力学与工程科学学院2027年申请硕博连读推荐资格名单",
+      "url": "https://smes.shu.edu.cn/info/1015/11015.htm",
+      "date": "2026-11-11",
+      "column": "通知公告"
+    },
     {
       "title": "钱伟长力学SEMINAR 1015：力化耦合的固液界面动力学",
       "url": "https://smes.shu.edu.cn/info/1014/11005.htm",

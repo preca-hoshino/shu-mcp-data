@@ -2,13 +2,31 @@
   "domain": "fw.shu.edu.cn",
   "department": "上海大学妇女工作委员会",
   "type": "22",
-  "crawl_time": "20261111_071840",
-  "total_articles": 482,
+  "crawl_time": "20261111_114155",
+  "total_articles": 485,
   "columns": {
     "新闻动态": 466,
-    "通知公告": 16
+    "通知公告": 19
   },
   "articles": [
+    {
+      "title": "活动报名|教职工赋能项目蓝晒手作体验活动",
+      "url": "https://mp.weixin.qq.com/s/BdyD0xGQof1GSRDErLlocg",
+      "date": "2026-11-10",
+      "column": "通知公告"
+    },
+    {
+      "title": "“泮池家长学校”第四十九期预告|情绪管理・颂钵疗愈体验沙龙",
+      "url": "https://mp.weixin.qq.com/s/tLwgTzGA_iBNyqCSLt8bpA",
+      "date": "2026-11-09",
+      "column": "通知公告"
+    },
+    {
+      "title": "活动回顾|泮池家长学校——做不焦虑的学生家长顺利开讲！",
+      "url": "https://mp.weixin.qq.com/s/rQiHB8EiimZ_wPf2dD-Xuw",
+      "date": "2026-11-03",
+      "column": "通知公告"
+    },
     {
       "title": "“泮池家长学校”第四十七期预告|做不焦虑的学生家长",
       "url": "https://mp.weixin.qq.com/s/OT7L8VmB9v81PUCyxNiuYg",

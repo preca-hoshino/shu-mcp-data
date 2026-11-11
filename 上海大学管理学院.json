@@ -2,14 +2,20 @@
   "domain": "ms.shu.edu.cn",
   "department": "上海大学管理学院",
   "type": "04",
-  "crawl_time": "20261111_071840",
-  "total_articles": 821,
+  "crawl_time": "20261111_114155",
+  "total_articles": 822,
   "columns": {
     "学术活动": 206,
-    "学院新闻": 101,
+    "学院新闻": 102,
     "重要通知": 514
   },
   "articles": [
+    {
+      "title": "管理学院获2026年度国家社会科学基金立项",
+      "url": "https://ms.shu.edu.cn/info/1244/92965.htm",
+      "date": "2026-11-11",
+      "column": "学院新闻"
+    },
     {
       "title": "管理学院2025-2026学年本科生秋季奖学金初评名单公示",
       "url": "https://ms.shu.edu.cn/info/1245/92945.htm",
