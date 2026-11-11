@@ -2,22 +2,16 @@
   "domain": "gh.shu.edu.cn",
   "department": "上海大学工会",
   "type": "06",
-  "crawl_time": "20261110_192234",
-  "total_articles": 1190,
+  "crawl_time": "20261111_071840",
+  "total_articles": 1189,
   "columns": {
     "分工会动态": 303,
     "协会动态": 47,
     "教工活动": 618,
     "新闻动态": 86,
-    "通知公告": 136
+    "通知公告": 135
   },
   "articles": [
-    {
-      "title": "上海大学工会文体设备采购比价公告",
-      "url": "https://gh.shu.edu.cn/info/1061/42982.htm",
-      "date": "2026-11-06",
-      "column": "通知公告"
-    },
     {
       "title": "学消防、强技能、保平安——我校开展教职工消防安全技能培训",
       "url": "https://mp.weixin.qq.com/s/U7OB-Uwk81K-z3o-xf5_ow",

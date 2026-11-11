@@ -2,12 +2,12 @@
   "domain": "sociology.shu.edu.cn",
   "department": "上海大学社会学院",
   "type": "06",
-  "crawl_time": "20261110_192234",
-  "total_articles": 2622,
+  "crawl_time": "20261111_071840",
+  "total_articles": 2623,
   "columns": {
     "图片新闻": 122,
     "媒体报道": 67,
-    "学术动态": 573,
+    "学术动态": 574,
     "学术报告": 163,
     "学生动态": 584,
     "教学教务": 137,
@@ -16,6 +16,18 @@
     "通知公告": 56
   },
   "articles": [
+    {
+      "title": "2026城市治理前沿论坛01|大一统的制度密码",
+      "url": "https://sociology.shu.edu.cn/info/1105/44488.htm",
+      "date": "2026-11-10",
+      "column": "学术报告"
+    },
+    {
+      "title": "“人生与田野”讲座28|新二元经济：中国城镇化进程中的社会经济循环",
+      "url": "https://sociology.shu.edu.cn/info/1105/44498.htm",
+      "date": "2026-11-10",
+      "column": "学术报告"
+    },
     {
       "title": "2026-2027中国研究学术前沿讲座|解释、建构与新知：定性研究数据分析中的理论化工作",
       "url": "https://sociology.shu.edu.cn/info/1105/44468.htm",
@@ -26,6 +38,12 @@
       "title": "会议综述|第三届“社会工作与心理健康”工作坊成功举办",
       "url": "https://sociology.shu.edu.cn/info/1104/44418.htm",
       "date": "2026-11-04",
+      "column": "学术动态"
+    },
+    {
+      "title": "IIASA能力建设与学术培训部主任Fabian Wagner研究员受邀开展讲座",
+      "url": "https://sociology.shu.edu.cn/info/1104/44478.htm",
+      "date": "2026-11-03",
       "column": "学术动态"
     },
     {
@@ -524,18 +542,6 @@
       "title": "走出工厂何以立足：中国新经济中的农民工生计策略与就业不稳定性",
       "url": "https://sociology.shu.edu.cn/info/1105/42398.htm",
       "date": "2026-06-29",
-      "column": "学术报告"
-    },
-    {
-      "title": "2026公共性论坛09|源流与视野：理论与经验的展开路径",
-      "url": "https://sociology.shu.edu.cn/info/1105/42318.htm",
-      "date": "2026-06-24",
-      "column": "学术报告"
-    },
-    {
-      "title": "2026公共性论坛10|侠客、医生抑或老师？——儒家思想视域下社会工作者在中国社会的伦理角色研究",
-      "url": "https://sociology.shu.edu.cn/info/1105/42328.htm",
-      "date": "2026-06-24",
       "column": "学术报告"
     },
     {

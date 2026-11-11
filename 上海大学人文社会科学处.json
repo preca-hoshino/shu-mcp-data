@@ -2,14 +2,20 @@
   "domain": "rwskc.shu.edu.cn",
   "department": "上海大学人文社会科学处",
   "type": "04",
-  "crawl_time": "20261110_192234",
-  "total_articles": 353,
+  "crawl_time": "20261111_071840",
+  "total_articles": 355,
   "columns": {
-    "文科动态": 99,
+    "文科动态": 101,
     "最新立项": 60,
     "通知公告": 194
   },
   "articles": [
+    {
+      "title": "打造大宗商品全球定价基准和资源配置高地——我校举办2026进博会上海会议活动“大宗商品国际资源配置研讨会”",
+      "url": "https://rwskc.shu.edu.cn/info/1070/6647.htm",
+      "date": "2026-11-11",
+      "column": "文科动态"
+    },
     {
       "title": "国际档案理事会上海学术中心正式揭牌，2026国际档案研修班同步开课！",
       "url": "https://rwskc.shu.edu.cn/info/1070/6637.htm",
@@ -1941,6 +1947,12 @@
       "url": "https://rwskc.shu.edu.cn/info/1069/2858.htm",
       "date": "2008-09-11",
       "column": "通知公告"
+    },
+    {
+      "title": "我校又获7项国家社科基金2008年度单列项目立项",
+      "url": "https://rwskc.shu.edu.cn/info/1070/3594.htm",
+      "date": "2008-08-27",
+      "column": "文科动态"
     },
     {
       "title": "“2008长三角民营剧团论坛”征稿通知",

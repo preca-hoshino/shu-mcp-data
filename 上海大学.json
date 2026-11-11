@@ -2,7 +2,7 @@
   "domain": "www.shu.edu.cn",
   "department": "上海大学",
   "type": "16",
-  "crawl_time": "20261110_192234",
+  "crawl_time": "20261111_071840",
   "total_articles": 18415,
   "columns": {
     "科研动态": 1644,
@@ -11,6 +11,12 @@
     "重要新闻": 30
   },
   "articles": [
+    {
+      "title": "上海大学党委理论学习中心组举行学习贯彻党的二十届五中全会精神专题学习会",
+      "url": "https://www.shu.edu.cn/info/1056/403335.htm",
+      "date": "2026-11-11",
+      "column": "综合新闻"
+    },
     {
       "title": "第二届冶金行业重点实验室建设联席会在上海大学顺利召开",
       "url": "https://www.shu.edu.cn/info/1055/403225.htm",
@@ -82,12 +88,6 @@
       "url": "https://www.shu.edu.cn/info/1051/402935.htm",
       "date": "2026-11-08",
       "column": "通知公告"
-    },
-    {
-      "title": "俄罗斯圣彼得堡邦奇-布鲁耶维奇国立电信大学代表团访问上海大学",
-      "url": "https://www.shu.edu.cn/info/1056/402905.htm",
-      "date": "2026-11-06",
-      "column": "综合新闻"
     },
     {
       "title": "理学院化学系谭启涛教授、许斌教授团队在《Journal of the American Chemical Society》上发表最新研究成果",
