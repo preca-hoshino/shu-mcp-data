@@ -2,7 +2,7 @@
   "domain": "bksy.shu.edu.cn",
   "department": "上海大学本科生院",
   "type": "07",
-  "crawl_time": "20261111_114155",
+  "crawl_time": "20261111_154922",
   "total_articles": 1828,
   "columns": {
     "政策文件": 58,
@@ -13,6 +13,12 @@
     {
       "title": "2026年度本科专业动态优化调整产教协同育人重点项目名单公布(本科生院〔2026〕46号)",
       "url": "https://bksy.shu.edu.cn/info/1015/322824.htm",
+      "date": "2026-11-11",
+      "column": "通知公告"
+    },
+    {
+      "title": "关于举办2026年上海大学第七届“力与美”基础创新赛的通知",
+      "url": "https://bksy.shu.edu.cn/info/1015/322834.htm",
       "date": "2026-11-11",
       "column": "通知公告"
     },
@@ -152,12 +158,6 @@
       "title": "关于公布上海大学2026年本科教学学术研究项目立项名单的通知",
       "url": "https://bksy.shu.edu.cn/info/1015/322364.htm",
       "date": "2026-10-19",
-      "column": "通知公告"
-    },
-    {
-      "title": "关于开展2027年度双学士学位复合型人才培养项目申报工作的通知（本科生院〔2026〕38号）",
-      "url": "https://bksy.shu.edu.cn/info/1015/322264.htm",
-      "date": "2026-10-13",
       "column": "通知公告"
     },
     {
